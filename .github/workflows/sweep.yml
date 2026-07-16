@@ -1,0 +1,62 @@
+name: PubMed sweep
+
+on:
+  schedule:
+    # 13:00 UTC daily = 06:00 Pacific (PDT) / 05:00 (PST).
+    # GitHub's cron runs on UTC and does not shift with DST.
+    - cron: "0 13 * * *"
+  workflow_dispatch:      # lets you trigger a run by hand from the Actions tab
+  push:
+    branches: [main]
+    paths: ["queries.yaml", "fetch.py", "index.html"]
+
+permissions:
+  contents: write         # to commit data/
+  pages: write            # to deploy
+  id-token: write
+
+concurrency:
+  group: pubmed-sweep
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Sweep PubMed
+        env:
+          NCBI_EMAIL: ${{ vars.NCBI_EMAIL }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          LOOKBACK_DAYS: "30"
+        run: python fetch.py
+
+      - name: Commit results
+        run: |
+          git config user.name  "pubmed-watch[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No change."
+          else
+            git commit -m "Sweep $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
