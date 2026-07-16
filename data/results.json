@@ -1,0 +1,59 @@
+{
+ "generated": "2026-07-16T19:02:23+00:00",
+ "lookback_days": 30,
+ "first_run": true,
+ "queries": [
+  {
+   "id": "ankle-instability-mechanism",
+   "label": "Chronic ankle instability \u2014 mechanisms",
+   "bucket": "research"
+  },
+  {
+   "id": "lateral-sprain-epi",
+   "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
+   "bucket": "research"
+  },
+  {
+   "id": "inversion-kinematics",
+   "label": "Inversion injury kinematics & load paths",
+   "bucket": "research"
+  },
+  {
+   "id": "bracing-orthosis-efficacy",
+   "label": "Bracing / orthosis efficacy & performance cost",
+   "bucket": "research"
+  },
+  {
+   "id": "footwear-interface",
+   "label": "Footwear / shoe-surface interface & traction",
+   "bucket": "research"
+  },
+  {
+   "id": "wearable-prevention",
+   "label": "Wearables & sensors for injury prevention",
+   "bucket": "fieldnotes"
+  },
+  {
+   "id": "actuation-assistive",
+   "label": "Ankle actuation / assistive devices",
+   "bucket": "fieldnotes"
+  },
+  {
+   "id": "return-to-play",
+   "label": "Return-to-play & reinjury risk",
+   "bucket": "fieldnotes"
+  },
+  {
+   "id": "burden-cost",
+   "label": "Injury burden, cost & time loss",
+   "bucket": "fieldnotes"
+  }
+ ],
+ "counts": {
+  "total": 0,
+  "new": 0,
+  "research": 0,
+  "fieldnotes": 0
+ },
+ "records": []
+}
