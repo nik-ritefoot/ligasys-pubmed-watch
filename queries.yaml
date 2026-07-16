@@ -1,0 +1,77 @@
+# PubMed watch queries for LigaSys.
+# bucket: "research" (internal / mechanisms + epi) or "fieldnotes" (blog-worthy)
+# Edit freely — the fetch script reads this file, nothing is hardcoded.
+
+- id: ankle-instability-mechanism
+  bucket: research
+  label: Chronic ankle instability — mechanisms
+  term: >
+    ("chronic ankle instability"[Title/Abstract] OR "functional ankle instability"[Title/Abstract]
+    OR "mechanical ankle instability"[Title/Abstract])
+    AND (mechanism*[Title/Abstract] OR kinematic*[Title/Abstract] OR propriocept*[Title/Abstract]
+    OR "neuromuscular control"[Title/Abstract])
+
+- id: lateral-sprain-epi
+  bucket: research
+  label: Lateral ankle sprain — epidemiology & incidence
+  term: >
+    ("ankle sprain"[Title/Abstract] OR "lateral ligament injury"[Title/Abstract])
+    AND (epidemiolog*[Title/Abstract] OR incidence[Title/Abstract] OR "injury surveillance"[Title/Abstract]
+    OR prevalence[Title/Abstract]) AND (athlet*[Title/Abstract] OR sport*[Title/Abstract])
+
+- id: inversion-kinematics
+  bucket: research
+  label: Inversion injury kinematics & load paths
+  term: >
+    (inversion[Title/Abstract] AND (ankle[Title/Abstract] OR subtalar[Title/Abstract]))
+    AND (kinematic*[Title/Abstract] OR biomechanic*[Title/Abstract] OR "moment arm"[Title/Abstract]
+    OR "joint moment"[Title/Abstract] OR "ground reaction force"[Title/Abstract])
+
+- id: bracing-orthosis-efficacy
+  bucket: research
+  label: Bracing / orthosis efficacy & performance cost
+  term: >
+    (brace[Title/Abstract] OR bracing[Title/Abstract] OR orthos*[Title/Abstract] OR taping[Title/Abstract])
+    AND ankle[Title/Abstract]
+    AND (efficacy[Title/Abstract] OR prevention[Title/Abstract] OR "performance"[Title/Abstract]
+    OR "range of motion"[Title/Abstract] OR compliance[Title/Abstract])
+
+- id: footwear-interface
+  bucket: research
+  label: Footwear / shoe-surface interface & traction
+  term: >
+    (footwear[Title/Abstract] OR shoe[Title/Abstract] OR cleat*[Title/Abstract] OR "stud design"[Title/Abstract])
+    AND (traction[Title/Abstract] OR "rotational stiffness"[Title/Abstract] OR "shoe-surface"[Title/Abstract]
+    OR "playing surface"[Title/Abstract] OR friction[Title/Abstract])
+    AND (injur*[Title/Abstract] OR biomechanic*[Title/Abstract])
+
+- id: wearable-prevention
+  bucket: fieldnotes
+  label: Wearables & sensors for injury prevention
+  term: >
+    (wearable*[Title/Abstract] OR "inertial measurement unit"[Title/Abstract] OR IMU[Title/Abstract]
+    OR "smart textile"[Title/Abstract] OR exosuit[Title/Abstract] OR "soft robotic"[Title/Abstract])
+    AND (injur*[Title/Abstract] OR prevention[Title/Abstract] OR "load monitoring"[Title/Abstract])
+    AND (sport*[Title/Abstract] OR athlet*[Title/Abstract] OR gait[Title/Abstract])
+
+- id: actuation-assistive
+  bucket: fieldnotes
+  label: Ankle actuation / assistive devices
+  term: >
+    (ankle[Title/Abstract] AND (exoskeleton[Title/Abstract] OR actuat*[Title/Abstract]
+    OR "variable stiffness"[Title/Abstract] OR "semi-active"[Title/Abstract] OR "quasi-passive"[Title/Abstract]))
+
+- id: return-to-play
+  bucket: fieldnotes
+  label: Return-to-play & reinjury risk
+  term: >
+    ("return to play"[Title/Abstract] OR "return to sport"[Title/Abstract] OR reinjur*[Title/Abstract]
+    OR "re-injury"[Title/Abstract]) AND (ankle[Title/Abstract] OR "lower extremity"[Title/Abstract])
+
+- id: burden-cost
+  bucket: fieldnotes
+  label: Injury burden, cost & time loss
+  term: >
+    (ankle[Title/Abstract] OR "lower limb"[Title/Abstract]) AND injur*[Title/Abstract]
+    AND (cost[Title/Abstract] OR burden[Title/Abstract] OR "time loss"[Title/Abstract]
+    OR "economic"[Title/Abstract] OR "days missed"[Title/Abstract])
