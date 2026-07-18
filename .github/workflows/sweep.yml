@@ -4,7 +4,7 @@ on:
   schedule:
     # 13:00 UTC daily = 06:00 Pacific (PDT) / 05:00 (PST).
     # GitHub's cron runs on UTC and does not shift with DST.
-    - cron: "37 13 * * *"
+    - cron: "0 13 * * *"
   workflow_dispatch:      # lets you trigger a run by hand from the Actions tab
   push:
     branches: [main]
@@ -38,6 +38,12 @@ jobs:
           LOOKBACK_DAYS: "30"
         run: python fetch.py
 
+      - name: Generate feeds
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+          FEED_WINDOW_DAYS: "45"
+        run: python make_feeds.py
+
       - name: Commit results
         run: |
           git config user.name  "pubmed-watch[bot]"
@@ -47,13 +53,7 @@ jobs:
             echo "No change."
           else
             git commit -m "Sweep $(date -u +%Y-%m-%d)"
-            for i in 1 2 3; do
-              git pull --rebase --autostash origin main && git push && exit 0
-              echo "Push failed, retrying ($i)..."
-              sleep 5
-            done
-            echo "Push failed after 3 attempts." >&2
-            exit 1
+            git push
           fi
 
       - uses: actions/configure-pages@v5
