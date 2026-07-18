@@ -24,6 +24,10 @@ Daily sweep of newly-indexed PubMed records relevant to LigaSys, split into
 4. **Settings → Secrets and variables → Actions:**
    - Variables tab → New variable → `NCBI_EMAIL` = your email.
      NCBI's usage policy asks that automated traffic identify itself.
+   - Variables tab → New variable → `SITE_URL` =
+     `https://<you>.github.io/ligasys-pubmed-watch` (no trailing slash).
+     Only used to write absolute self-links into the feeds; feeds work
+     without it, but some readers prefer absolute URLs.
    - Secrets tab (optional) → `NCBI_API_KEY`. Free from
      https://account.ncbi.nlm.nih.gov/settings/ — raises the rate limit from
      3 to 10 requests/sec. Not required at this volume.
@@ -31,6 +35,34 @@ Daily sweep of newly-indexed PubMed records relevant to LigaSys, split into
 5. **Actions tab → PubMed sweep → Run workflow** to trigger the first run.
 
 Dashboard lands at `https://<you>.github.io/ligasys-pubmed-watch/`.
+
+## Feeds (triage surface)
+
+Three Atom feeds are generated each sweep, into `data/`:
+
+- `feed.xml` — everything
+- `feed-research.xml` — research bucket only
+- `feed-fieldnotes.xml` — field notes bucket only
+
+Subscribe in any feed reader (Feedly, Inoreader, NetNewsWire, etc.) using the
+feed URL, e.g. `https://<you>.github.io/ligasys-pubmed-watch/data/feed.xml`.
+Read/unread and save-for-later are handled by the reader and sync across your
+devices — that's the whole point of routing triage through RSS.
+
+How it behaves:
+
+- **GUID is the PMID.** Each paper appears exactly once, ever. Read state
+  sticks to it; a later sweep can't resurface something you've read.
+- **Only first-sight papers enter a feed.** A PMID swept before never
+  re-emits — genuine repeats stay out. A paper whose title/metadata says
+  "reprint" but whose PMID is new to us is treated as new, because the PMID,
+  not the label, drives the decision.
+- **Rolling window.** Each feed carries the trailing `FEED_WINDOW_DAYS`
+  (default 45) of first-sight papers, so a reader that goes quiet for weeks
+  still catches up in one pull. `data/feed_history.json` is the backing store;
+  it's committed on purpose and self-prunes.
+- First run emits empty feeds (baseline), same as the dashboard's NEW flag;
+  they fill from run two onward.
 
 ## Run locally
 
