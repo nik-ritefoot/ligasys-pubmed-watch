@@ -4,6 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>LigaSys — PubMed Watch</title>
+<link rel="alternate" type="application/atom+xml" title="PubMed Watch — all" href="data/feed.xml">
+<link rel="alternate" type="application/atom+xml" title="PubMed Watch — research" href="data/feed-research.xml">
+<link rel="alternate" type="application/atom+xml" title="PubMed Watch — field notes" href="data/feed-fieldnotes.xml">
 <style>
   :root {
     --bg: #0f1113; --panel: #171a1d; --line: #262b30;
@@ -63,6 +66,12 @@
     <h1>LigaSys — PubMed Watch</h1>
     <div class="meta" id="meta">Loading…</div>
     <div class="banner" id="banner" hidden></div>
+    <div class="meta" style="margin-top:8px">
+      Feeds:
+      <a href="data/feed.xml" style="color:var(--res)">all</a> ·
+      <a href="data/feed-research.xml" style="color:var(--res)">research</a> ·
+      <a href="data/feed-fieldnotes.xml" style="color:var(--res)">field notes</a>
+    </div>
   </header>
   <div class="bar" id="bar" hidden>
     <button class="f" data-b="all" aria-pressed="true">All</button>
