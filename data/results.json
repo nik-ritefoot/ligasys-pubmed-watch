@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-17T14:25:53+00:00",
+ "generated": "2026-07-18T14:37:27+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -50,12 +50,179 @@
   }
  ],
  "counts": {
-  "total": 91,
-  "new": 91,
-  "research": 32,
-  "fieldnotes": 59
+  "total": 95,
+  "new": 6,
+  "research": 35,
+  "fieldnotes": 60
  },
  "records": [
+  {
+   "pmid": "42465963",
+   "title": "Anticipation may underestimate neuromechanical deficits in chronic ankle instability during walking inversion perturbations.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Ran W",
+    "Yin W"
+   ],
+   "abstract": "This study aimed to compare ankle kinematics and lower limb muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following an inversion perturbation during walking, with a particular focus on how anticipation modulates muscle activation and the consequent ankle inversion post-perturbation. Forty-six participants were enrolled, including 23 with CAI and 23 age- and sex-matched non-CAI controls. They walked at a self-selected pace on a custom-designed platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation under both anticipated and unanticipated conditions. Ankle kinematics and lower limb muscle electromyography were synchronously collected during a 400-ms window, specifically 200\u2005ms pre- and 200\u2005ms post-perturbation. Continuous time-series data were compared using a two-way mixed-design ANOVA via Statistical Parametric Mapping. Significant interactions were detected in ankle inversion angles (30.0-105.0\u2005ms, F max\u2009=\u200929.981,\u2009=\u20098.337, p\u2009=\u20090.005), as well as for the activation of the peroneus longus (PL) (67-121\u2005ms, F max\u2009=\u200925.097, p\u2009=\u20090.005) and pre-activation of lateral gastrocnemius (LG) (-200 to -161\u2005ms, F max\u2009=\u200915.694, p\u2009=\u20090.014). Transitioning from anticipated to unanticipated conditions elicited an increase in ankle inversion across both individuals with and without CAI, with a significantly greater magnitude of increase observed in CAI individuals (all p\u2009<\u20090.001). Individuals without CAI significantly increased their PL activation when transitioning from anticipated to unanticipated conditions (p\u2009<\u20090.001), whereas the CAI individuals exhibited no significant change. Conversely, individuals with CAI demonstrated a significant increase in LG pre-activation (p\u2009=\u20090.006), while those without CAI exhibited no significant change. Under unanticipated perturbations, the compensatory increase in LG pre-activation observed in individuals with CAI remains insufficient to offset diminished PL activation and the subsequent increase in ankle inversion. These neuromechanical deficits, typically masked by anticipation, indicate that predictable paradigms may not fully capture real-world injury scenarios. Rehabilitation should prioritize targeted PL recruitment to enhance dynamic stability and reduce reinjury risk.",
+   "doi": "10.3389/fspor.2026.1852628",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42465963/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42465975",
+   "title": "Effects of custom-made 3D-printed insoles on foot and body alignment in stroke survivors: an exploratory pilot randomized controlled trial.",
+   "journal": "PeerJ",
+   "year": "2026",
+   "authors": [
+    "Kim J",
+    "Anwar G",
+    "Kim M"
+   ],
+   "abstract": "Stroke survivors frequently exhibit foot deformities and postural asymmetry, contributing to gait instability and increased fall risk. This exploratory pilot randomized controlled trial examined the effects of custom-made 3D-printed insoles on foot alignment and postural symmetry in ambulatory chronic stroke survivors who did not require ankle-foot orthosis (AFO) support. Twenty ambulatory chronic stroke survivors who did not require AFO support were randomly allocated to experimental (n\u00a0=\u00a010) or control (n\u00a0=\u00a010) groups. Prior to enrollment, a physiotherapist assessed each participant's orthotic needs; those with significant foot drop, ankle instability, or clinical indication for AFO were excluded. Both groups participated in standard rehabilitation (five 30-minute sessions weekly for six weeks). The experimental group additionally wore custom-made 3D-printed insoles during daily activities and therapy sessions. Outcomes included foot alignment (medial longitudinal arch angle, transverse arch angle, arch height index), body alignment (shoulder, pelvic, and knee tilt angles), and dynamic balance via Timed Up and Go test (TUG). Data were analyzed using Wilcoxon signed-rank and Mann-Whitney U tests. The experimental group showed a significant increase in medial longitudinal arch (MLA) angle (mean difference 7.95\u00b0, p\u00a0=\u00a00.01) with a significant between-group difference at post-intervention (p\u00a0=\u00a00.03). A between-group difference in shoulder tilt angle was observed at post-intervention (mean difference 1.2\u00b0, p\u00a0=\u00a00.03), while no significant within-group change was detected in either group. No significant within-group changes or between-group differences were observed for transverse arch angle, arch height index, pelvic tilt, knee tilt, or TUG performance. Custom-made 3D-printed insoles improved medial arch height and were associated with a between-group difference in shoulder tilt in selected ambulatory chronic stroke survivors who did not require AFO support. These findings should be interpreted cautiously given the small sample size and exploratory pilot design. Larger definitive trials are needed to confirm these results.",
+   "doi": "10.7717/peerj.21533",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42465975/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42469828",
+   "title": "Internal brace augmentation versus modified brostrom-gould procedure for chronic lateral ankle instability: a systematic review and meta-analysis of functional and radiographic outcomes.",
+   "journal": "J Orthop Surg Res",
+   "year": "2026",
+   "authors": [
+    "Li X",
+    "Wei Z",
+    "Cao Y",
+    "Cui Z",
+    "et al."
+   ],
+   "abstract": "To compare functional, radiographic, and safety outcomes between internal brace (IB) augmentation and modified Brostr\u00f6m-Gould (MBG) repair for chronic lateral ankle instability (CLAI), and to determine whether IB provides clinically relevant advantages over conventional anatomic repair. A systematic review and meta-analysis was conducted in accordance with PRISMA 2020 and prospectively registered in PROSPERO. PubMed/MEDLINE, Embase, Cochrane CENTRAL, Web of Science, and Scopus were searched from inception to January 2026. Randomized controlled trials and observational studies comparing IB augmentation with MBG repair for CLAI were included. The primary outcome was the Foot and Ankle Ability Measure (FAAM) Sports score. Secondary outcomes included Foot and Ankle Outcome Score (FAOS), American Orthopaedic Foot & Ankle Society (AOFAS) score, return-to-sport time and rate, complications, recurrence, talar tilt angle (TTA), anterior talar translation (ATT), and operative time. Risk of bias was assessed using RoB 2 and ROBINS-I. Random-effects meta-analyses were performed. Thirteen comparative studies involving 1,015 patients (472 IB, 543 MBG) were included. IB was associated with a significant improvement in FAAM Sports score versus MBG (mean difference [MD]\u2009+\u20094.59; 95% confidence interval [CI]\u2009+\u20091.35 to +\u20097.82; I\u00b2=67.1%). After exclusion of a young female-specific cohort, the effect increased (MD\u2009+\u20096.06; 95% CI\u2009+\u20094.26 to +\u20097.86; I\u00b2=0%). Descriptively, IB patients returned to sport 4-8 weeks earlier than MBG patients across two studies; formal meta-analysis was not performed owing to the limited number of studies (k\u2009=\u20092). No significant between-group differences were observed for FAOS, AOFAS, return-to-sport rate, complications, recurrence, TTA, ATT, or operative time. IB augmentation was associated with better sports-specific function and earlier return to sport than MBG repair in patients with CLAI, without evidence of inferior radiographic or safety outcomes. These findings support IB as a useful surgical option, particularly for active patients in whom recovery trajectory and return to sport are important clinical priorities. This systematic review and meta-analysis was prospectively registered in PROSPERO (Registration No. CRD420261355719; registration date: 30 March 2026).",
+   "doi": "10.1186/s13018-026-07113-7",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42469828/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42468922",
+   "title": "Recovery Latency as a Dynamic Biomarker of Adaptive Capacity.",
+   "journal": "Int J Sports Physiol Perform",
+   "year": "2026",
+   "authors": [
+    "Silva AA"
+   ],
+   "abstract": "To examine Recovery Latency (RL) as a candidate temporal marker of adaptive capacity by assessing whether recovery dynamics can be consistently quantified across independent sport and physiological data sets. A total of 23 unique data sets (\u223c230,000 observations) were analyzed including athletic performance cohorts, injury surveillance systems, and heart rate variability-based recovery studies. RL was defined as the time required for recovery proxies to return to an individualized rolling baseline following high-load events. Analyses focused on sport-performance contexts, with additional data sets included as exploratory extensions. Associations with autonomic and performance-related variables were evaluated using correlation analyses and predictive modeling. The Dynamic Adaptive Capacity framework was explored as a potential application of RL dynamics. Preliminary evidence suggests that RL captures variation in recovery dynamics. RL showed high apparent discriminative performance for overtraining risk (area under the receiver operating characteristic curve = 0.934) and was associated with physiological markers including cortisol (r = .631) and heart rate variability (r = -.644). Longitudinal analysis identified 28,472 RL events across 74 athletes, with 60% exhibiting a positive RL slope suggesting progressive changes in recovery dynamics across individuals. Patterns were consistent with expected physiological responses to training load and stress. These findings suggest that RL may be relevant in sport-performance contexts; however, they should be interpreted as exploratory and hypothesis-generating rather than as evidence of validation.",
+   "doi": "10.1123/ijspp.2026-0111",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42468922/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42468935",
+   "title": "Sex-Moderated Effects of Soccer Cleat Stud Shape and Fatigue on Traction and Knee Joint Mechanics During Lateral Cutting.",
+   "journal": "J Appl Biomech",
+   "year": "2026",
+   "authors": [
+    "Karolidis E",
+    "Hahn ME"
+   ],
+   "abstract": "Market-available soccer footwear is predominantly designed according to male athlete mechanics. With known sex differences in cutting strategies, it should not be assumed that the female body can withstand the same amount of traction as males. Mechanical stability of the lower limbs is affected by fatigue, with negative effects most pronounced in female athletes. Soccer cleats could play a key role in moderating female athletes' exposure to torsional injury mechanisms across game play, such as those mechanisms in anterior cruciate ligament injury. This study investigates the influence of soccer cleat stud shape, elliptical, and bladed on traction utilization and knee mechanics of male and female participants during lateral cutting before and after fatigue progression. College-aged soccer participants (10 males, 10 females) performed 2 data collections in cleated footwear of different stud shapes. Lower limb kinetics and kinematics were compared between cleats and across fatigue states. No interaction effects were found on knee mechanics, though main effects of sex and fatigue were observed. A 3-way interaction on the rate of traction utilized at initial contact was found, demonstrating the influence of fatigue and cleat on sex-specific ground interactions. Future works are warranted to understand the effect of high-performance product on female mechanics.",
+   "doi": "10.1123/jab.2025-0132",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42468935/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42468341",
+   "title": "The effects of ankle exoskeleton assistance on propulsive capacity in younger adult walking.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Simaitis EG",
+    "Lewek MD",
+    "Franz JR"
+   ],
+   "abstract": "Propulsive capacity - the maximum ability to generate forward propulsion during push-off in walking - is an important determinant of walking performance. Accordingly, an insufficient ankle push-off can limit physical activity and community accessibility. Wearable ankle exoskeletons (EXOs) have emerged as a strategy to augment ankle push-off, but most prior work has focused on metabolic cost or habitual walking mechanics, providing limited insight into how EXO assistance influences propulsive capacity in walking. Here, we used a treadmill-based propulsive stress test to determine how powered ankle EXO assistance affects propulsive capacity and its biomechanical determinants in healthy younger adults. Fifteen participants completed walking trials with four EXO assistance levels (none, low, medium, high) while a horizontal impeding force progressively increased until task failure. Propulsive capacity was defined as the maximum achievable impeding force. Group-level analyses revealed no main effect of assistance level on propulsive capacity or most biomechanical outcomes. However, exploratory within-subject analyses indicated that 12/15 participants improved propulsive stress test performance with assistance. Comparisons between unassisted walking and participants' best-performing assistance condition revealed significant increases in propulsive capacity and anterior ground reaction force (GRF) impulse without increases in peak biological ankle moment (AMom), trailing limb angle (TLA), or calf excitation. Improvements in propulsive capacity were associated with larger anterior GRF, which were jointly explained by those in AMom and TLA. These results highlight the importance of a capacity-based, within-subject framework to evaluate how ankle assistance influences maximal propulsive performance and provide a mechanistic foundation for future studies in populations with insufficient propulsion.",
+   "doi": "10.1016/j.jbiomech.2026.113462",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42468341/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "42366640",
    "title": "A Break-Even Cost-effectiveness Analysis for Venous Thromboembolism Prophylaxis in Achilles Tendon Repair Surgery.",
@@ -81,7 +248,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -108,7 +275,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -136,7 +303,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -166,7 +333,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -191,7 +358,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -220,7 +387,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -245,7 +412,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -273,7 +440,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -300,7 +467,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -329,7 +496,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -357,7 +524,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -382,7 +549,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -411,7 +578,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -440,7 +607,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -468,7 +635,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -497,7 +664,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -521,7 +688,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -553,7 +720,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -580,7 +747,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -608,7 +775,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -636,7 +803,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -665,7 +832,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -698,7 +865,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -724,7 +891,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -752,7 +919,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -780,33 +947,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42304648",
-   "title": "Core muscle endurance and balance as predictors of lateral ankle sprain in adolescent team-sport athletes: a prospective cohort study.",
-   "journal": "Phys Sportsmed",
-   "year": "2026",
-   "authors": [
-    "Heydari Sodejani S",
-    "Saki F",
-    "Yalfani A"
-   ],
-   "abstract": "Lateral ankle sprain is a common and recurrent injury among adolescent athletes, particularly in team sports that involve jumping, cutting, and single-leg landing. Identifying practical preseason predictors may help guide targeted injury-prevention strategies. This prospective cohort study aimed to determine whether preseason measures of core muscle endurance, static balance, and dynamic balance could predict future lateral ankle sprain in adolescent male team-sport athletes. A prospective cohort study. A total of 152 male adolescent athletes competing in soccer, volleyball, basketball, and handball were followed prospectively for 20\u2009months. Baseline assessments included trunk flexor and extensor endurance, right and left side plank endurance, static balance, and dynamic balance in three directions (anterior, posteromedial, posterolateral) as well as a composite score. Lateral ankle sprain was defined as a non-contact inversion injury that caused time loss from training or competition. Variables with p\u2009<\u20090.20 in the univariate analyses were entered into a multivariable logistic regression model using forward stepwise (likelihood ratio) selection. Model performance was evaluated using odds ratios, Nagelkerke's R2, Hosmer-Lemeshow goodness-of-fit, and receiver operating characteristic (ROC) analysis. During follow-up, 34 athletes (22.4%) sustained a lateral ankle sprain. In the multivariable model, two independent predictors were retained: trunk extensor endurance (OR =0.989, 95% CI: 0.980-0.998, p\u2009=\u20090.020) and dynamic balance composite score (OR =0.937, 95% CI: 0.901-0.975, p\u2009=\u20090.001). The model demonstrated good calibration (Hosmer-Lemeshow p\u2009=\u20090.616) and explained 22.4% of the variability in injury status (Nagelkerke R2\u2009=\u20090.224). The combined model showed moderate discriminative ability (AUC\u2009=\u20090.751, 95% CI: 0.664-0.837, p\u2009<\u20090.001), with an optimal cutoff yielding 88.2% sensitivity and 55.1% specificity. In adolescent team-sport athletes, lower trunk extensor endurance and poorer dynamic balance were associated with a higher likelihood of lateral ankle sprain. Assessment of these two simple field-based measures may aid preseason injury risk screening. However, the model should be validated in independent cohorts before clinical application.",
-   "doi": "10.1080/00913847.2026.2688752",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42304648/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -831,7 +972,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -859,7 +1000,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -887,7 +1028,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -920,7 +1061,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -948,7 +1089,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -975,7 +1116,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1003,7 +1144,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1031,7 +1172,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1064,7 +1205,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1092,7 +1233,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1125,7 +1266,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1154,7 +1295,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1190,7 +1331,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1217,7 +1358,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1245,7 +1386,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1274,7 +1415,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1303,7 +1444,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1337,7 +1478,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1362,7 +1503,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1388,7 +1529,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1421,7 +1562,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1449,7 +1590,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1477,7 +1618,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1501,7 +1642,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1529,7 +1670,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1557,7 +1698,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1585,7 +1726,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1610,7 +1751,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1635,7 +1776,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1664,7 +1805,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1690,7 +1831,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1719,7 +1860,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1746,33 +1887,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42303260",
-   "title": "Non-invasive load measurement in the human tibia via spectral analysis of flexural waves.",
-   "journal": "J R Soc Interface",
-   "year": "2026",
-   "authors": [
-    "Yawar A",
-    "Aslan DH",
-    "Lieberman DE"
-   ],
-   "abstract": "Forces transmitted by bones are routinely studied in human biomechanics, but it is challenging to measure them non-invasively, especially outside of laboratory settings. We introduce a technique for non-invasive, in vivo measurement of tibial compressive force using flexural waves propagating in the tibia. Modelling the tibia as an axially compressed Euler-Bernoulli beam, we show that tibial flexural waves have load-dependent frequency spectra. Specifically, under physiological conditions, peak locations in the wave acceleration spectra vary linearly with the compressive force on the tibia and may be used as proxies for the compressive force. We test the validity of this technique using a proof-of-concept wearable system that generates flexural waves via a skin-mounted mechanical transducer and measures the spectra of these waves using a skin-mounted accelerometer. In agreement with beam theory, data from nine participants demonstrate linear relationships between tibial compressive force and spectral peak location, with Pearson correlation coefficients r=0.82-0.99 (mean r=0.93) for medial-lateral swaying and r=0.81-0.98 (mean r=0.93) for walking trials. This flexural wave-based technique could give rise to a new class of wearable sensors for non-invasive physiological bone load monitoring and measurement, impacting research in human locomotion and sports medicine.",
-   "doi": "10.1098/rsif.2025.1206",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42303260/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1803,7 +1918,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1829,7 +1944,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1857,7 +1972,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1885,7 +2000,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1913,7 +2028,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -1941,7 +2056,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -1969,7 +2084,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2000,7 +2115,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2028,7 +2143,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2056,7 +2171,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2088,7 +2203,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2116,7 +2231,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2144,7 +2259,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2173,7 +2288,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2211,7 +2326,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2239,7 +2354,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2267,7 +2382,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2295,7 +2410,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2323,7 +2438,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2351,7 +2466,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2376,7 +2491,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2404,7 +2519,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2432,7 +2547,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2460,7 +2575,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2488,7 +2603,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2516,7 +2631,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2544,7 +2659,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2572,7 +2687,7 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
   },
   {
@@ -2600,7 +2715,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -2628,7 +2743,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   }
  ]
