@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-18T21:16:12+00:00",
+ "generated": "2026-07-19T14:40:21+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -50,10 +50,10 @@
   }
  ],
  "counts": {
-  "total": 95,
+  "total": 92,
   "new": 0,
   "research": 35,
-  "fieldnotes": 60
+  "fieldnotes": 57
  },
  "records": [
   {
@@ -752,34 +752,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42402080/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42311789",
-   "title": "Conservative Management of Weber B/SER Lateral Malleolus Fractures With Immediate Weightbearing: Outcomes in Stable and Potentially Unstable Patterns.",
-   "journal": "Foot Ankle Orthop",
-   "year": "2026",
-   "authors": [
-    "Cunha RL",
-    "Madureira A",
-    "Carvalho PA",
-    "Miranda A",
-    "et al."
-   ],
-   "abstract": "Isolated lateral malleolus fractures account for a significant proportion of ankle fractures, and complications related to surgical treatment are common. This study aimed to assess the feasibility of conservative treatment with walker boot and immediate weightbearing as tolerated for Weber B / supination-external rotation (SER) lateral malleolus fracture, by comparing stable (SER2) and potentially unstable (SER4a) fractures. The distinction between stable and unstable fractures is crucial to guide treatment decisions. This prospective study included patients with Weber B/SER lateral malleolus fractures who met specific criteria. Fracture stability was assessed via medial clear space (MCS) measurement on weightbearing radiographs and conservative (walker boot and immediate weightbearing as tolerated) or surgical treatment was determined accordingly. Clinical and functional outcomes-including visual analog scale (VAS), American Orthopaedic Foot & Ankle Society (AOFAS) scores, Foot and Ankle Ability Measure (FAAM) scores, and 36-Item Short Form Health Survey (SF-36) scores-were evaluated in outpatient clinic follow-up, with a minimum duration of 12\u2009months. Out of 155 identified Weber B fractures with MCS\u2009<7\u2009mm, 141 patients completed follow-up: 114 with SER2 and 27 with SER4a fractures. The SER2 group demonstrated excellent outcomes at 12\u2009months (VAS 0.1, AOFAS 98.9, FAAM activities of daily living (ADL)/Sport 99.4/99.6), with 98.2% return to sport, 100% return to work, and 100% return to ADL. The SER4a group demonstrated comparable outcomes at 12\u2009months (VAS 0.0, AOFAS 100, FAAM ADL/Sport 100/100), with full return to sport, work, and ADL. One patient in the SER4a group evolved to nonunion and required surgery during follow-up. With the numbers available, no significant intergroup differences in outcome scores or return to function could be detected. This study supports conservative treatment-with walker boot and immediate weightbearing as tolerated-for stable SER2 lateral malleolus fractures, and was associated with reduced need for surgery and lower exposure to surgical complications. It also suggests that potentially unstable SER4a fractures may achieve comparable outcomes under the same conservative protocol. Weightbearing radiographs assessment with MCS measurement appears to be an effective method for guiding treatment decisions in Weber B/SER lateral malleolus fractures. Level II, therapeutic, prospective cohort study.",
-   "doi": "10.1177/24730114261450952",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42311789/",
    "matched": [
     {
      "id": "return-to-play",
@@ -1669,31 +1641,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42355854/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42313921",
-   "title": "Movement Through Time: The Evolution of Treatment for People With Parkinson Disease.",
-   "journal": "J Neurol Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Ellis T"
-   ],
-   "abstract": "Parkinson disease (PD) is the fastest-growing neurological disorder worldwide, projected to affect approximately 25 million people by 2050. Despite effective pharmacologic management of motor symptoms, patients consistently identify walking, mobility, and balance as their greatest challenges. This Special Interest paper, based on the 2026 Anne Shumway-Cook Lectureship, summarizes a program of research aimed at building the evidence base for rehabilitation in PD and translating that evidence into improved real-world outcomes. Four interrelated themes are addressed: (1) the historical development of the evidence base, from 11 randomized controlled trials in 2001 to more than 240 today; (2) the capacity-performance gap and the importance of targeting real-world walking, not only clinic-based function; (3) complementary intervention approaches, including cognitive-behavioral strategies, closed-loop rhythmic auditory stimulation, and soft-robotic assistance for freezing of gait, that address psychological, neural, and biomechanical barriers to everyday mobility; and (4) a proposed secondary-prevention model of care that initiates rehabilitation at diagnosis and sustains it longitudinally. Taken together, this body of work argues for a fundamental restructuring of physical therapy for people with PD: from a reactive, late-stage response to a proactive, lifelong strategy that reduces disability, preserves independence, and improves healthspan.",
-   "doi": "10.1097/NPT.0000000000000566",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42313921/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -2689,34 +2636,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42314005",
-   "title": "Walking Independence Within 14 Days After Surgery in Patients With Proximal Femoral Fractures Can Be Predicted From Weight Bearing Ratio.",
-   "journal": "J Geriatr Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Nasu T",
-    "Kobayashi K",
-    "Kuji Y",
-    "Tachikawa T",
-    "et al."
-   ],
-   "abstract": "Early prediction of walking independence after proximal femoral fracture (PFF) surgery is essential for discharge planning and rehabilitation. However, many existing models require multiple assessments, limiting feasibility in the early postoperative period. This study investigated whether the weight-bearing ratio (WBR), measured on postoperative days 3, 5, and 7, predicts walking independence within 14 days after surgery and compared predictive accuracy across timepoints. This retrospective cohort study included patients who underwent surgical treatment for PFF at a single acute-care hospital between December 2021 and December 2023. Fifty participants who were able to walk independently on flat ground before injury were analyzed. The WBR was measured on postoperative days 3, 5, and 7 using a floor scale during supported standing. Walking independence at postoperative day 14 was defined as a functional independence measure gait score \u2265 6. Receiver operating characteristic curve analysis identified optimal cutoff values and evaluated predictive accuracy. Associations between WBR and clinical factors were examined using correlation and multiple regression analyses. The optimal WBR cutoff values for predicting walking independence were 60% on postoperative day 3, 70% on day 5, and 76% on day 7. The area under the curve was 0.91 on postoperative days 3 and 5 and 0.95 on day 7, with no significant differences between timepoints. On postoperative day 3, WBR was independently associated with pain during weight bearing and lower limb muscle endurance, whereas balance ability was significant on days 5 and 7. These findings suggest that early postoperative WBR reflects changes in pain, strength, and balance influencing walking recovery. The WBR measured as early as postoperative day 3 predicts walking independence within 14 days with accuracy comparable to later measurements. Early WBR assessment provides a simple, low-cost indicator that may support identification of participants at risk for delayed recovery and guide rehabilitation and discharge planning after PFF surgery.",
-   "doi": "10.1519/JPT.0000000000000510",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42314005/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42315273",
