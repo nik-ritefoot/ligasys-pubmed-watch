@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LigaSys — PubMed Watch (Field Notes)</title>
-  <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.xml</id>
-  <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.xml" rel="self"/>
-  <updated>2026-07-19T14:40:21Z</updated>
-  <generator>ligasys-pubmed-watch</generator>
-
-</feed>
