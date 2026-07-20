@@ -75,3 +75,33 @@
     (ankle[Title/Abstract] OR "lower limb"[Title/Abstract]) AND injur*[Title/Abstract]
     AND (cost[Title/Abstract] OR burden[Title/Abstract] OR "time loss"[Title/Abstract]
     OR "economic"[Title/Abstract] OR "days missed"[Title/Abstract])
+
+- id: menstrual-cycle-injury
+  bucket: fieldnotes
+  label: Menstrual cycle / hormonal phase & injury risk
+  term: >
+    ("menstrual cycle"[Title/Abstract] OR "menstrual phase"[Title/Abstract]
+    OR "oestrogen"[Title/Abstract] OR "estrogen"[Title/Abstract]
+    OR progesterone[Title/Abstract] OR "hormonal fluctuation"[Title/Abstract])
+    AND (injur*[Title/Abstract] OR "ligament laxity"[Title/Abstract]
+    OR "joint laxity"[Title/Abstract] OR ACL[Title/Abstract]
+    OR sprain[Title/Abstract]) AND (athlet*[Title/Abstract] OR sport*[Title/Abstract]
+    OR "female athlete"[Title/Abstract])
+
+- id: sex-hormones-connective-tissue
+  bucket: fieldnotes
+  label: Sex hormones & connective-tissue biomarkers
+  term: >
+    (estrogen[Title/Abstract] OR oestrogen[Title/Abstract] OR progesterone[Title/Abstract]
+    OR relaxin[Title/Abstract] OR "estrogen receptor"[Title/Abstract])
+    AND (ligament[Title/Abstract] OR tendon[Title/Abstract] OR collagen[Title/Abstract]
+    OR "connective tissue"[Title/Abstract] OR "biomechanical propert*"[Title/Abstract])
+
+- id: contraception-msk-injury
+  bucket: fieldnotes
+  label: Hormonal contraception & musculoskeletal injury
+  term: >
+    ("oral contraceptive*"[Title/Abstract] OR "hormonal contraception"[Title/Abstract]
+    OR "birth control"[Title/Abstract])
+    AND (injur*[Title/Abstract] OR ligament[Title/Abstract] OR tendon[Title/Abstract]
+    OR "musculoskeletal"[Title/Abstract] OR ACL[Title/Abstract])
