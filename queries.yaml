@@ -1,6 +1,15 @@
 # PubMed watch queries for LigaSys.
 # bucket: "research" (internal / mechanisms + epi) or "fieldnotes" (blog-worthy)
 # Edit freely — the fetch script reads this file, nothing is hardcoded.
+#
+# Revision note (2026-07-20): the three hormone queries
+# (menstrual-cycle-injury, sex-hormones-connective-tissue, contraception-msk-injury)
+# were pulling heavy oncology/dental/gynecology bycatch because they matched
+# hormone + connective-tissue/injury terms with no sports or orthopedic gate.
+# Each now (a) REQUIRES an athletic OR lower-limb orthopedic-injury context and
+# (b) excludes the recurring bycatch domains (cancer, dental/periodontal, uterine).
+# The core orthopedic queries are unchanged except a light shared exclusion where
+# useful.
 
 - id: ankle-instability-mechanism
   bucket: research
@@ -35,6 +44,9 @@
     AND ankle[Title/Abstract]
     AND (efficacy[Title/Abstract] OR prevention[Title/Abstract] OR "performance"[Title/Abstract]
     OR "range of motion"[Title/Abstract] OR compliance[Title/Abstract])
+    NOT (stroke[Title/Abstract] OR "cerebral palsy"[Title/Abstract] OR "spinal cord"[Title/Abstract]
+    OR "foot drop"[Title/Abstract] OR "cardio-ankle"[Title/Abstract] OR "pulse wave"[Title/Abstract]
+    OR "arterial stiffness"[Title/Abstract])
 
 - id: footwear-interface
   bucket: research
@@ -53,6 +65,8 @@
     OR "smart textile"[Title/Abstract] OR exosuit[Title/Abstract] OR "soft robotic"[Title/Abstract])
     AND (injur*[Title/Abstract] OR prevention[Title/Abstract] OR "load monitoring"[Title/Abstract])
     AND (sport*[Title/Abstract] OR athlet*[Title/Abstract] OR gait[Title/Abstract])
+    NOT (stroke[Title/Abstract] OR "cerebral palsy"[Title/Abstract] OR "spinal cord"[Title/Abstract]
+    OR Parkinson*[Title/Abstract] OR depress*[Title/Abstract] OR "brain-computer"[Title/Abstract])
 
 - id: actuation-assistive
   bucket: fieldnotes
@@ -75,33 +89,72 @@
     (ankle[Title/Abstract] OR "lower limb"[Title/Abstract]) AND injur*[Title/Abstract]
     AND (cost[Title/Abstract] OR burden[Title/Abstract] OR "time loss"[Title/Abstract]
     OR "economic"[Title/Abstract] OR "days missed"[Title/Abstract])
+    NOT (thrombos*[Title/Abstract] OR "venous thromboembolism"[Title/Abstract] OR diabet*[Title/Abstract]
+    OR Hajj[Title/Abstract] OR heatstroke[Title/Abstract])
+
+# ---------------------------------------------------------------------------
+# Female-athlete hormonal layer.
+# All three now REQUIRE a sports/athletic OR lower-limb orthopedic-injury context,
+# and exclude the oncology / dental / uterine / cardiovascular domains that
+# dominated the 2026-07-20 bycatch. The intent is: hormonal & cycle effects
+# AS AN ADDITIONAL LAYER on orthopedic sports-injury risk — not endocrinology
+# or hormone biology in general.
+# ---------------------------------------------------------------------------
 
 - id: menstrual-cycle-injury
   bucket: fieldnotes
-  label: Menstrual cycle / hormonal phase & injury risk
+  label: Menstrual cycle / hormonal phase & injury risk (sports)
   term: >
     ("menstrual cycle"[Title/Abstract] OR "menstrual phase"[Title/Abstract]
-    OR "oestrogen"[Title/Abstract] OR "estrogen"[Title/Abstract]
-    OR progesterone[Title/Abstract] OR "hormonal fluctuation"[Title/Abstract])
-    AND (injur*[Title/Abstract] OR "ligament laxity"[Title/Abstract]
-    OR "joint laxity"[Title/Abstract] OR ACL[Title/Abstract]
-    OR sprain[Title/Abstract]) AND (athlet*[Title/Abstract] OR sport*[Title/Abstract]
-    OR "female athlete"[Title/Abstract])
+    OR "hormonal contraception"[Title/Abstract] OR "oral contraceptive*"[Title/Abstract]
+    OR "hormonal fluctuation"[Title/Abstract] OR "hormonal phase"[Title/Abstract])
+    AND ("ligament laxity"[Title/Abstract] OR "joint laxity"[Title/Abstract]
+    OR "ankle sprain"[Title/Abstract] OR sprain[Title/Abstract] OR ACL[Title/Abstract]
+    OR "anterior cruciate"[Title/Abstract] OR "lower limb injur*"[Title/Abstract]
+    OR "lower extremity injur*"[Title/Abstract] OR "musculoskeletal injur*"[Title/Abstract])
+    AND ("female athlete*"[Title/Abstract] OR athlet*[Title/Abstract] OR sport*[Title/Abstract])
+    NOT (cancer[Title/Abstract] OR carcinom*[Title/Abstract] OR tumou*[Title/Abstract]
+    OR tumor*[Title/Abstract] OR endometri*[Title/Abstract] OR adenomyos*[Title/Abstract]
+    OR uter*[Title/Abstract] OR menopaus*[Title/Abstract] OR "dental"[Title/Abstract]
+    OR periodont*[Title/Abstract] OR implant[Title/Abstract] OR cardiac[Title/Abstract]
+    OR myocardial[Title/Abstract])
 
 - id: sex-hormones-connective-tissue
   bucket: fieldnotes
-  label: Sex hormones & connective-tissue biomarkers
+  label: Sex hormones & connective tissue (orthopedic / athletic)
   term: >
     (estrogen[Title/Abstract] OR oestrogen[Title/Abstract] OR progesterone[Title/Abstract]
     OR relaxin[Title/Abstract] OR "estrogen receptor"[Title/Abstract])
-    AND (ligament[Title/Abstract] OR tendon[Title/Abstract] OR collagen[Title/Abstract]
-    OR "connective tissue"[Title/Abstract] OR "biomechanical propert*"[Title/Abstract])
+    AND (ligament[Title/Abstract] OR tendon[Title/Abstract] OR "connective tissue"[Title/Abstract]
+    OR "collagen"[Title/Abstract])
+    AND ("ligament laxity"[Title/Abstract] OR "joint laxity"[Title/Abstract]
+    OR injur*[Title/Abstract] OR sprain[Title/Abstract] OR ACL[Title/Abstract]
+    OR "anterior cruciate"[Title/Abstract] OR biomechanic*[Title/Abstract]
+    OR "mechanical propert*"[Title/Abstract] OR "range of motion"[Title/Abstract])
+    AND (athlet*[Title/Abstract] OR sport*[Title/Abstract] OR exercise[Title/Abstract]
+    OR "physical activity"[Title/Abstract] OR knee[Title/Abstract] OR ankle[Title/Abstract]
+    OR "lower limb"[Title/Abstract] OR "lower extremity"[Title/Abstract])
+    NOT (cancer[Title/Abstract] OR carcinom*[Title/Abstract] OR tumou*[Title/Abstract]
+    OR tumor*[Title/Abstract] OR raloxifen*[Title/Abstract] OR letrozol*[Title/Abstract]
+    OR aromatase[Title/Abstract] OR prostat*[Title/Abstract] OR breast[Title/Abstract]
+    OR endometri*[Title/Abstract] OR adenomyos*[Title/Abstract] OR uter*[Title/Abstract]
+    OR "intrauterine"[Title/Abstract] OR dental[Title/Abstract] OR periodont*[Title/Abstract]
+    OR "dental implant"[Title/Abstract] OR pulmonary[Title/Abstract] OR fibrosis[Title/Abstract]
+    OR skin[Title/Abstract] OR cardiac[Title/Abstract] OR myocardial[Title/Abstract]
+    OR ovariectom*[Title/Abstract])
 
 - id: contraception-msk-injury
   bucket: fieldnotes
-  label: Hormonal contraception & musculoskeletal injury
+  label: Hormonal contraception & MSK injury (sports)
   term: >
     ("oral contraceptive*"[Title/Abstract] OR "hormonal contraception"[Title/Abstract]
-    OR "birth control"[Title/Abstract])
-    AND (injur*[Title/Abstract] OR ligament[Title/Abstract] OR tendon[Title/Abstract]
-    OR "musculoskeletal"[Title/Abstract] OR ACL[Title/Abstract])
+    OR "combined oral contraceptive*"[Title/Abstract])
+    AND (ligament[Title/Abstract] OR tendon[Title/Abstract] OR "musculoskeletal injur*"[Title/Abstract]
+    OR ACL[Title/Abstract] OR "anterior cruciate"[Title/Abstract] OR sprain[Title/Abstract]
+    OR "joint laxity"[Title/Abstract] OR "ligament laxity"[Title/Abstract])
+    AND (athlet*[Title/Abstract] OR sport*[Title/Abstract] OR "physical activity"[Title/Abstract]
+    OR exercise[Title/Abstract])
+    NOT (cancer[Title/Abstract] OR carcinom*[Title/Abstract] OR thrombos*[Title/Abstract]
+    OR "venous thromboembolism"[Title/Abstract] OR embolism[Title/Abstract]
+    OR cardiac[Title/Abstract] OR myocardial[Title/Abstract] OR stroke[Title/Abstract]
+    OR endometri*[Title/Abstract] OR uter*[Title/Abstract] OR fibroid*[Title/Abstract])
