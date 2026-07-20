@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-20T05:05:10+00:00",
+ "generated": "2026-07-20T05:32:53+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -50,573 +50,27 @@
   },
   {
    "id": "menstrual-cycle-injury",
-   "label": "Menstrual cycle / hormonal phase & injury risk",
+   "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
    "bucket": "fieldnotes"
   },
   {
    "id": "sex-hormones-connective-tissue",
-   "label": "Sex hormones & connective-tissue biomarkers",
+   "label": "Sex hormones & connective tissue (orthopedic / athletic)",
    "bucket": "fieldnotes"
   },
   {
    "id": "contraception-msk-injury",
-   "label": "Hormonal contraception & musculoskeletal injury",
+   "label": "Hormonal contraception & MSK injury (sports)",
    "bucket": "fieldnotes"
   }
  ],
  "counts": {
-  "total": 107,
-  "new": 18,
-  "research": 36,
-  "fieldnotes": 71
+  "total": 78,
+  "new": 0,
+  "research": 29,
+  "fieldnotes": 49
  },
  "records": [
-  {
-   "pmid": "42396364",
-   "title": "A hypothesis on the aetiology of adenomyosis: is there an association between cumulative number of menstruations and severity of adenomyosis on ultrasound?",
-   "journal": "Eur J Obstet Gynecol Reprod Biol X",
-   "year": "2026",
-   "authors": [
-    "de Bock EJE",
-    "Verbeek C",
-    "Klinkenberg E",
-    "Twisk JWR",
-    "et al."
-   ],
-   "abstract": "Adenomyosis is a common uterine disorder, yet its aetiology remains debated. The tissue injury and repair (TIAR) hypothesis suggests that repeated microtrauma from menstrual contractions damages the endometrial-myometrial interface, thereby contributing to development and progression of adenomyosis. We investigated whether cumulative menstrual exposure is associated with severity of adenomyosis on ultrasound. This exploratory retrospective study was conducted at Amsterdam University Medical Centre, as a sub-analysis of the prospective UteroVue cohort study. For the UteroVue study, premenopausal participants with and without adenomyosis were recruited via the benign gynaecology outpatient clinic and through flyering, and underwent transvaginal ultrasound. The percentage of myometrium affected by Morphological Uterus Sonographic Assessment features of adenomyosis was estimated. For this sub-analysis, cumulative menstrual exposure was derived from menstrual history questionnaires, accounting for pregnancy, lactation, and hormonal menstruation suppression. The association between cumulative menstruations and disease severity was assessed using multivariable regression analyses with collinearity evaluation. We included 119 participants in the final analysis. The median age of the study population was 27 years, of whom 79% were nulliparous and 14% had a history of uterine surgery. Previous hormonal menstruation suppression with the oral contraceptive pill was reported by 87% of participants, with a median duration of use of 7 years. In addition, 32% had previously used a hormonal intrauterine device, with a median duration of use of 3 years. Age was excluded from multivariable analyses due to collinearity (r\u202f=\u202f0.72). After adjustment for vaginal births and uterine surgeries, cumulative menstrual exposure was associated with severity of adenomyosis (\u03b2=0.003; 95% CI 1.001-1.006; p\u202f<\u202f0.05). Higher cumulative menstrual exposure was associated with increased severity of adenomyosis, supporting the TIAR hypothesis. Given the retrospective study design and collinearity with age, results should be interpreted with caution.",
-   "doi": "10.1016/j.eurox.2026.100472",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42396364/",
-   "matched": [
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42359984",
-   "title": "A Novel Strategy Using Dental Pulp Stem Cells and Jiarong Tablets to Treat Intrauterine Adhesions in Rats.",
-   "journal": "J Obstet Gynaecol Res",
-   "year": "2026",
-   "authors": [
-    "Huang YH",
-    "Ding X",
-    "Liang YT",
-    "Wang Y",
-    "et al."
-   ],
-   "abstract": "To evaluate the efficacy and underlying mechanisms of dental pulp stem cells (DPSCs), alone or with Jiarong Tablets, for the treatment of intrauterine adhesions (IUAs) in rats. IUAs were induced in Sprague Dawley (SD) rats. The rats were randomly assigned to the following groups (n\u2009=\u200918/group): Sham, IUA, IUA\u2009+\u2009Estrogen, IUA\u2009+\u2009low-/medium-/high-dose DPSC (5\u2009\u00d7\u2009105, 1\u2009\u00d7\u2009106 and 2\u2009\u00d7\u2009106 cells), IUA\u2009+\u2009DPSC\u2009+\u2009Estrogen (1\u2009\u00d7\u2009106 DPSCs\u2009+\u2009estradiol (E2)), and IUA\u2009+\u2009DPSC\u2009+\u2009Jiarong Tablets (1\u2009\u00d7\u2009106 DPSCs +40\u2009mg/mL Jiarong Tablet administered by gavage). At 28\u2009days post-establishment, the rats were sacrificed (n\u2009=\u200912/group) and assessed for endometrial morphology, gland count, fibrosis, serum E2 levels, and PKH26-labeled DPSC tracking, and protein and mRNA analyses of connective tissue growth factor (CTGF), estrogen receptor alpha 1 (ESR1), transforming growth factor beta 1 (TGF-\u03b21), and vascular endothelial growth factor (VEGF) were conducted. Fertility was evaluated on gestational Day 14 after mating (n\u2009=\u20096/group). Compared with the rats in the sham group, the rats in the IUA group exhibited uterine occlusion, a reduced number of endometrial glands, increased fibrosis, decreased serum E2 levels (p\u2009<\u20090.01), and more irregularly shaped glands (p\u2009<\u20090.05). Treatment with DPSCs (all doses) and combination therapies significantly improved uterine morphology and reduced fibrosis and E2 levels (p\u2009<\u20090.05). Treatment with low- and medium-dose DPSCs increased gland count (p\u2009<\u20090.05), whereas treatment with DPSCs\u2009+\u2009Jiarong Tablet reduced the number of irregularly shaped glands (p\u2009<\u20090.01). The fluorescence intensity of DPSCs was dose-dependent in uterine and ovarian tissues (p\u2009<\u20090.05). The occurrence of IUAs significantly increased the expressions of CTGF, TGF-\u03b21, and VEGF, which were reversed following treatment (p\u2009<\u20090.05). ESR1 expression was significantly increased after treatment with DPSC and Jiarong Tablet (p\u2009<\u20090.05). Fertility outcomes improved significantly in all treatment groups. DPSCs were used to effectively treat IUAs, with 1\u2009\u00d7\u2009106 cells being identified as the optimal dose. Combining DPSCs with Jiarong Tablets further enhanced the therapeutic outcomes by modulating the levels of fibrosis-related factors (CTGF, TGF-\u03b21) and angiogenesis factor (VEGF) and estrogen response (ESR1).",
-   "doi": "10.1111/jog.70389",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42359984/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42390497",
-   "title": "Association of menopausal status and genetic polymorphisms with early crestal bone loss around dental implants: A prospective observational study.",
-   "journal": "J Indian Prosthodont Soc",
-   "year": "2026",
-   "authors": [
-    "Agrawal KK",
-    "Goel P",
-    "Bakrolwala H"
-   ],
-   "abstract": "Menopause associated estrogen deficiency affects bone metabolism and may increase peri implant bone resorption. Genetic polymorphisms in inflammatory and bone related genes may further influence implant outcomes. This study evaluated the association between gene polymorphisms and peri implant early crestal bone loss (ECBL) in premenopausal and postmenopausal females. This was a prospective observational clinical study conducted at a tertiary care government institution. The study included 146 female patients (73 premenopausal and 73 postmenopausal), each receiving a single mandibular posterior dental implant. Menopausal status was confirmed using medical history and serum estradiol quantification. A standardized two stage protocol was followed for implant placement. Cone beam computed tomography based measurements of ECBL were performed at baseline and 6 months. Genotyping of interleukin 1 alpha (IL1A 889), interleukin 1 beta (IL1B 3954) and IL1B 511, IL6 572, collagen type I alpha 1 (COL1A1), and bone gamma carboxyglutamate protein (BGP) (osteocalcin) polymorphisms was performed using real time PCR. Data were analyzed using IBM SPSS Statistics software (version 26.0). Chi-square test, unpaired t-test, Mann-Whitney U test, and univariate binary logistic regression analysis were applied. Final analysis included 141 women (69 premenopausal and 72 postmenopausal). Postmenopausal females had significantly higher body mass index and lower bone mineral density ( P < 0.05). Mean ECBL was significantly greater in postmenopausal females (1.20 \u00b1 0.78 mm) than in premenopausal females (0.65 \u00b1 0.51 mm; P < 0.001), with critical ECBL (>0.5 mm) observed in 84.7% and 44.9% of participants, respectively. No genetic associations were identified in premenopausal females. In postmenopausal females, IL1A 889 AG (odds ratio (OR) = 7.75; P = 0.044) and IL6 572 CC genotypes (OR = 8.96; P = 0.045) were significantly associated with critical ECBL. Postmenopausal females exhibited significantly greater ECBL around dental implants, and IL1A 889 and IL6 572 polymorphisms showed a significant association with increased ECBL. These findings highlighted the influence of IL1A 889 and IL6 572 gene polymorphisms on early peri implant bone remodeling in postmenopausal females.",
-   "doi": "10.4103/jips.jips_588_25",
-   "pubtypes": [
-    "Journal Article",
-    "Observational Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42390497/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42395934",
-   "title": "Cardiac arrest due to ST-elevation myocardial infarction in young woman with antiphospholipid syndrome on combined oral contraceptives.",
-   "journal": "J Cardiol Cases",
-   "year": "2026",
-   "authors": [
-    "Koike T",
-    "Yaginuma K",
-    "Isoda K"
-   ],
-   "abstract": "A 35-year-old woman taking a low-dose combined oral contraceptive (COC) for uterine fibroids presented by ambulance to a referring hospital with nausea. During the initial evaluation, she suddenly became unresponsive and developed cardiac arrest, prompting immediate cardiopulmonary resuscitation. Electrocardiography (ECG) documented ventricular fibrillation (VF), and external defibrillation restored spontaneous circulation. After return of spontaneous circulation, ECG showed ST-segment elevation in leads II, III, and aVF. She was transferred to our hospital. Emergency coronary angiography demonstrated 90% stenosis of the proximal right coronary artery (RCA) and total occlusion of the mid RCA. During percutaneous coronary intervention, VF storm occurred, necessitating initiation of veno-arterial extracorporeal membrane oxygenation. Intravascular ultrasound (IVUS) revealed a plaque-containing culprit lesion, and drug-coated balloon angioplasty was performed. Subsequent thrombophilia testing disclosed anti-\u03b22-glycoprotein I IgG positivity, establishing antiphospholipid syndrome (APS). Notably, despite the absence of conventional risk factors (e.g. dyslipidemia, diabetes), IVUS demonstrated an atherosclerotic-appearing lesion in the prothrombotic milieu of COC use and APS. In young women, it is important to consider non-atherosclerotic causes such as antiphospholipid syndrome (APS) and combined oral contraceptive use as differential diagnoses for acute coronary syndrome. Although embolic mechanisms are often implicated in such settings, the present case demonstrated an atherosclerotic-appearing lesion on intravascular ultrasound despite the absence of conventional coronary risk factors, suggesting the possibility of APS-related vascular injury contributing to plaque formation.",
-   "doi": "10.1016/j.jccase.2026.04.004",
-   "pubtypes": [
-    "Case Reports",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42395934/",
-   "matched": [
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42472892",
-   "title": "Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.",
-   "journal": "Sci Rep",
-   "year": "2026",
-   "authors": [
-    "ElSherbini AI",
-    "Sameh A",
-    "Ali S",
-    "Khalil AT"
-   ],
-   "abstract": "This paper presents the design methodology, kinematic analysis, finite element structural validation, and closed-loop computational simulation of a novel 3-degree-of-freedom (3-DOF) ankle-foot rehabilitation exoskeleton. The proposed exoskeleton addresses the simultaneous rehabilitation of dorsiflexion/plantarflexion (DF/PF), abduction/adduction (AB/AD), and inversion/eversion (INV/EV) in a seated configuration suited to patients with weight-bearing restrictions. Three NEMA 23 stepper motors independently actuate each axis through custom two-stage spur gear transmissions, achieving positive torque margins of +\u20096%, +\u200935%, and +\u200925% and sub-degree angular resolution. Full kinematic decoupling between all three axes is established through two independent architectural strategies. A finite element analysis (FEA) conducted on all four critical Al 6061-T6 structural components confirms safety factors between 2.82 and 4.87 under worst-case loading. A closed-loop PID control framework with adaptive range-of-motion (ROM) regulation, simulated in MATLAB/SIMULINK, demonstrates tracking performance characterised by maximum overshoots of 0.02\u00b0-0.12\u00b0, settling times of 3.7-7.8\u00a0s, and steady-state errors below \u00b1\u20090.04\u00b0 across all nine simulation scenarios. The results confirm the mechanical feasibility, structural integrity, and control effectiveness of the proposed exoskeleton as a viable platform for multi-DOF seated ankle rehabilitation.",
-   "doi": "10.1038/s41598-026-61133-1",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42472892/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42338453",
-   "title": "Effect of hypoestrogenism on the alveolar bone and periodontal ligament.",
-   "journal": "J Indian Soc Periodontol",
-   "year": "2026",
-   "authors": [
-    "De La Cruz-Rodriguez R",
-    "Mallma-Medina AS",
-    "Franco-Quino C",
-    "Nguyen H",
-    "et al."
-   ],
-   "abstract": "Previous studies have shown that ovariectomy can alter bone structure, especially in the maxilla, as well as the periodontal ligament at the molecular level, and lead to cementum accumulation in the apical region. The present study was conducted to elucidate the molecular mechanisms involved. For the experiment, 12 BALB/c mice were randomly assigned to two groups: a sham surgery group and an ovariectomy group. In the sham surgery group, the ovaries were exposed and then repositioned without removal, whereas in the ovariectomy group, the ovaries were surgically excised. Twelve weeks postsurgery, the mice were sacrificed by an overdose of general anesthesia. Subsequently, the mandibles and maxillae were dissected for histological analysis. Samples were examined under a Nikon\u00ae microscope using ToupView to measure the periodontal ligament (\u00d7100) and ImageJ software for cell counting (\u00d7400). The ovariectomy group exhibited an increase in osteoclastic cell number, particularly in the mesial alveolar crest and the interradicular bone of the maxillary and mandibular regions. In addition, within the same group, widening of the periodontal ligament fibers, dilation of blood vessels, structural alterations in the periodontal ligament, as well as cementum accumulation in the apical region, were observed. Estrogen deficiency increases the number of osteoclasts, alters their orientation, widens the periodontal ligament, and leads to the accumulation of apical cementum.",
-   "doi": "10.4103/jisp.jisp_118_25",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42338453/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42363416",
-   "title": "Ellagic Acid Attenuates Oxidative Stress and Improves Cardiovascular Function Following Myocardial Infarction in Ovariectomized Rats.",
-   "journal": "J Cell Mol Med",
-   "year": "2026",
-   "authors": [
-    "Gon\u00e7alves LL",
-    "Alves IV",
-    "Nicoli EF",
-    "Lima DSS",
-    "et al."
-   ],
-   "abstract": "Oestrogen deficiency increases oxidative stress and reduces nitric oxide (NO) bioavailability, contributing to cardiac fibrosis following myocardial infarction (MI). This study investigated whether ellagic acid (EA), a natural antioxidant, attenuates post-MI cardiac fibrosis in ovariectomized rats by reducing oxidative stress and pro-inflammatory mediators. MI was induced by coronary artery ligation, and EA (30\u2009mg/kg) was administered orally for 4\u2009weeks. Hemodynamic parameters, collagen deposition, infarct size, matrix metalloproteinase-8 (MMP-8), NO, superoxide anion and inflammatory cytokines were assessed. MI resulted in ventricular dysfunction, increased collagen deposition and elevated levels of MMP-8, interleukin-6 (IL-6) and superoxide anion. EA treatment improved hemodynamic function, reduced collagen deposition, decreased MMP-8, IL-6 and superoxide anion, and enhanced NO bioavailability. These findings demonstrate that EA mitigates cardiac fibrosis and ventricular dysfunction through antioxidant and anti-inflammatory mechanisms, highlighting its potential as a cardioprotective compound in post-MI conditions under oestrogen deficiency.",
-   "doi": "10.1111/jcmm.71262",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42363416/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42447936",
-   "title": "Histoprotective and antiproliferative effects of Raloxifene treatment during prostate carcinogenesis in rats.",
-   "journal": "Toxicol Appl Pharmacol",
-   "year": "2026",
-   "authors": [
-    "Pinho CF",
-    "Soares LBDS",
-    "Chamelete JLG",
-    "Salata GC",
-    "et al."
-   ],
-   "abstract": "The ability of prostate cancer to progress to castration-resistant disease underscores the importance of study on adjuvant therapies. Recent research suggests estrogen receptors as possible therapeutic targets in neoplasias and they can be modulated by drugs such as Raloxifene. In this context, this study aimed to evaluate the effects of Raloxifene therapy during prostatic carcinogenesis through exposure to the carcinogen N-methyl-N-nitrosourea (MNU). To this end, male Fisher 344 rats underwent a tumor induction protocol using MNU (15\u00a0mg/kg), followed or not by treatment with Raloxifene (10\u00a0mg/kg). Raloxifene mitigated the tissue alterations induced by the tumor induction protocol by attenuating cell proliferation and the development of lesions, and by limiting their progression to malignancy. Additionally, the periacinar smooth muscle layer and the stromal distribution of collagen fibers were preserved in Raloxifene group. These results pointed to a protective role of Raloxifene on the prostatic microenvironment, attenuating the structural and proliferative alterations that accumulate during the carcinogenic process.",
-   "doi": "10.1016/j.taap.2026.117947",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42447936/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42332940",
-   "title": "Hormonal Shifts and Structural Strain: A Literature Review of Menopause and Perimenopause in Relation to Overuse Injuries and Stress Fractures.",
-   "journal": "Ann Rehabil Med",
-   "year": "2026",
-   "authors": [
-    "Ansari M",
-    "Hussain F",
-    "Shopon M",
-    "Ajmal H",
-    "et al."
-   ],
-   "abstract": "Musculoskeletal injury risk in midlife women has traditionally been attributed to estrogen decline, but this narrow focus overlooks the broader biomechanical, neuromuscular, and structural changes associated with menopause. Estrogen plays a multisystem role in maintaining trabecular bone integrity, collagen turnover, and neuromuscular coordination. Its abrupt loss causes bone demineralization (2%-5% annually in early menopause), impairs tendon repair, and contributes to sarcopenia. Fluctuating estradiol levels during perimenopause may transiently increase ligament laxity, further destabilizing joints. Common injuries such as Achilles and rotator cuff tendinopathies, plantar fasciitis, and stress fractures are amplified by low bone mineral density, prior fracture history, aromatase inhibitor use, and rapid increases in physical activity. Although early initiation of hormone replacement therapy reduces fracture risk by 20%-40%, it is not appropriate for all patients due to contraindications and individualized risk-benefit profiles. Non-hormonal strategies-including resistance training, nutritional optimization, and early screening with dual-energy X-ray absorptiometry and peripheral quantitative computed tomography-remain underutilized, particularly among marginalized populations. This structured narrative review synthesizes evidence from endocrinology, biomechanics, and musculoskeletal epidemiology to evaluate limitations in current research, including reliance on observational data, homogeneous cohorts, and technocentric approaches with limited generalizability. Future efforts should prioritize personalized, hormone-informed exercise prescriptions, biomarker-guided monitoring, and community-based prevention strategies. The prevailing estrogen-centric paradigm may benefit from a broader multidisciplinary framework integrating biological, mechanical, and social determinants of injury risk. We propose a hormone-tissue-load mismatch model that reframes menopause as a modifiable biomechanical window for injury prevention.",
-   "doi": "10.5535/arm.250134",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42332940/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42324096",
-   "title": "Letrozole Alters Transcriptomic Profiles in Infrapatellar Fat Pad From Female Mice: Possible Involvement of Interleukins in Aromatase Inhibitor-Induced Arthralgias.",
-   "journal": "J Appl Toxicol",
-   "year": "2026",
-   "authors": [
-    "Mo S",
-    "Lin J",
-    "Cheng W",
-    "Lin Y",
-    "et al."
-   ],
-   "abstract": "Letrozole is an aromatase inhibitor (AIs) preventing estrogen synthesis from testosterone, and it induces many side effects, known as the aromatase inhibitor-associated musculoskeletal syndrome (AIMSS), including arthralgias. However, its toxicity to the musculoskeletal system in female mice remains largely unknown. In this study, the mice were injected with letrozole subcutaneously for 12\u2009weeks, and white cell count, pathological sectioning and RNA sequencing were used to investigate the effects of letrozole on the joint. Firstly, after the treatment of letrozole for 12\u2009weeks, the mice with letrozole tended to gain weight and the number of white blood cells, lymphocytes and mean corpuscular hemoglobin concentration increased significantly by 88.2%, 87.4%, and 3.0% (p\u2009<\u20090.01), respectively. The hematocrit and platelet distribution width decreased by 6.2% and 1.7% (p\u2009<\u20090.05), respectively. Secondly, histopathological data revealed that the cartilage structure remained intact in both the control and letrozole groups, with no obvious signs of cartilage degradation. However, fibrosis of the infrapatellar fat pad (IFP) had dramatically increased at 12\u2009weeks and the expression of ACAN and COL2A1 was significantly reduced, while ADAMTS5 and MMP13 were significantly increased. Thirdly, after the treatment of letrozole for 2\u2009weeks, the differentially expressed genes in IFP were associated with the neutrophil-mediated immunity and collagen degradation. Key inflammatory factors including IL-1\u03b2, IL-6, IL-1A, and IL-2 were identified as core targets. The effects of letrozole on transcriptomic profiles in IFP provided a new experimental basis for understanding the pathogenesis of AIMSS.",
-   "doi": "10.1002/jat.70294",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42324096/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42333999",
-   "title": "Oestrogen receptor phosphorylation profiles and in silico PAM50 subtyping reflect sexual dimorphism in breast cancer.",
-   "journal": "J Pathol Clin Res",
-   "year": "2026",
-   "authors": [
-    "Chatterji S",
-    "Diack A",
-    "Szostok M",
-    "Morgan MD",
-    "et al."
-   ],
-   "abstract": "Breast cancer (BC) is most prevalent in females but also accounts for <1% of male cancer cases and 0.2% of male cancer-related deaths. Distribution of histological subtypes, receptor status, and age of diagnosis varies based on sex, and a growing body of evidence supports sex-specific molecular differences in BC. However, this is limited by the smaller number of male cases available for study compared to the thousands of cases of female BC. We combined publicly available male BC gene expression datasets for 195 patients from 4 studies and split randomly into discovery and validation sets. Clustering and gene expression analysis were performed. Two stable clusters were identified initially, confirmed in the validation set. Cluster C1 was enriched for genes associated with MAPK signalling and arylesterase activity. Cluster C2 showed enrichment of genes associated with proliferation, invasion, and metastasis, along with enrichment of gene ontology and pathway terms related to ECM regulation, particularly collagen-containing ECM. Of note, when stratified by ER\u03b1 and PR status, no enrichment was observed with the predicted PAM50 classification. ER\u03b1 and MAPK signalling were enriched in both clusters, albeit through different gene sets. Since these pathways were enriched, we investigated the signalling regulation of ER\u03b1 based on immunohistochemical expression of phosphorylated ER\u03b1 (S104, S118, S167, S294) and their prognostic roles. This analysis also revealed distinctions from female BC, showing a lack of prognostic outcome for any of these biomarkers. We show that male BC does not align with female BC in the same way that intrinsic subtypes of female BC are not identical. As BC heterogeneity is well recognised, we propose that male BC should be considered as a potentially unique clinical subtype of BC.",
-   "doi": "10.1002/2056-4538.70101",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42333999/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42388542",
-   "title": "Oral Contraceptive Use Associated With Lower Rates of Knee Instability After Anterior Cruciate Ligament (ACL) Reconstruction.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Mahatme RJ",
-    "Moore SA",
-    "Gangavaram A",
-    "Muthusamy N",
-    "et al."
-   ],
-   "abstract": "Background Sex hormones influence connective tissue biology and pain processing, but the relationship between oral contraceptive pill (OCP) use and postoperative outcomes after anterior cruciate ligament reconstruction (ACLR) remains unclear. The purpose of this study was to evaluate whether perioperative OCP use is associated with postoperative knee instability and other clinical outcomes after ACLR. Methods Using a multicenter database, TriNetX, females aged 14-40 years undergoing arthroscopic ACLR were grouped as OCP users (prescriptions within six months before and within two years after surgery) or non-users (no OCP prescriptions from one year before to two years after surgery). Propensity score matching (1:1) based on demographics and comorbidities yielded 815 patients per cohort. Primary outcomes were two-year reoperation, chronic knee instability diagnosis, and chronic knee pain diagnosis. Secondary outcomes included 30-day surgical site infection (SSI), 90-day deep or organ infection, six-month arthrofibrosis/manipulation under anesthesia (MUA), and postoperative opioid use (early, 1-30 days; prolonged, 30-90 days; chronic, 90-180 days). Risk ratios (RRs) with 95% confidence intervals (CIs) were calculated. Results OCP use was associated with significantly lower rates of two-year chronic knee instability (RR, 0.316; 95% CI, 0.166-0.600; p < 0.001) and early postoperative opioid use (RR, 0.363; 95% CI, 0.281-0.468; p < 0.001). Rates were similar between groups for six-month arthrofibrosis/MUA (RR, 0.750; 95% CI, 0.357-1.575; p = 0.446), two-year reoperation (RR, 1.057; 95% CI, 0.735-1.519; p = 0.766), two-year chronic knee pain (RR, 0.976; 95% CI, 0.877-1.086; p = 0.654), 30-day SSI (rare), and 90-day deep or organ infection (none; p = 1.000). Conclusion In a large propensity-matched cohort of female patients undergoing ACLR, perioperative OCP use was associated with markedly lower rates of two-year knee instability and reduced early opioid use, whereas other complications and reoperation rates did not differ, highlighting hormonal status as a potentially modifiable factor in postoperative recovery.",
-   "doi": "10.7759/cureus.110003",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42388542/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42404340",
-   "title": "Prevalence, patterns and motives for hormonal contraceptive use among German servicewomen: results from a nationwide survey.",
-   "journal": "Front Endocrinol (Lausanne)",
-   "year": "2026",
-   "authors": [
-    "Schlie J",
-    "Schink\u00f6the T",
-    "Schmidt A"
-   ],
-   "abstract": "Hormonal contraceptive (HC) use is common among servicewomen and has been discussed in relation to health, performance, and operational readiness. No systematic data exist on HC prevalence among German servicewomen. This study analyzes contraceptive practices and motivations for contraceptive choice in German servicewomen. A nationwide, cross-sectional online survey was conducted among female members of the German Armed Forces. Recruitment occurred via military institutions and a digital flyer. The anonymous questionnaire (40 items, 10-15 min) assessed demographic characteristics and contraceptive use. Data were cleaned and analyzed using R. Inferential analyses comprised pairwise adjacent comparisons using Fisher's exact test with Holm correction. A total of 2818 servicewomen completed the survey (response rate 11.2%; mean age 33.9 years). Overall, 38.1% reported current HC use. Combined oral contraceptive pills (COCP) were the most common method (18.5%), followed by hormonal intrauterine devices (8.9%) and progestin-only pills (8.4%). HC use declined with increasing age, primarily due to decreasing pill use, although 8% of women \u226540 years still reported COCP use. Systemic long-acting reversible contraceptives (LARC) (implants and injections) were virtually absent. Contraceptive use differed significantly across age- and length-of-service categories, but not BMI categories. Pregnancy prevention was the primary reason for HC use (82%), followed by management of menstrual pain and bleeding. A small proportion reported HC use for performance-related cycle control (13%) or masking of amenorrhea (2%). Deployment-related switching to HC was uncommon. HC use among German servicewomen appears low compared with reports from British and U.S. militaries. Given evidence linking certain systemic LARC formulations to potential effects on bone metabolism, the low prevalence warrants further investigation in the context on musculoskeletal health and injury risk in a population exposed to high mechanical loading. Preventive efforts in the German military should consider a broader range of modifiable risk factors, including nutrition and training load. The findings may indicate potential gaps in military-specific education and counseling regarding informed contraceptive choice, occupational implications of different methods, and age-related hormonal management. The response rate and the limited scope of certain questionnaire items should be considered when interpreting the results.",
-   "doi": "10.3389/fendo.2026.1844924",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42404340/",
-   "matched": [
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42322082",
-   "title": "Reduced Cerebral Blood Flow in the Early Chronic Phase of Recurrent Concussion Among Female Collegiate-Aged Athletes.",
-   "journal": "Hum Brain Mapp",
-   "year": "2026",
-   "authors": [
-    "Andersson MJ",
-    "Goeckner BD",
-    "Espa\u00f1a LY",
-    "Mayer AR",
-    "et al."
-   ],
-   "abstract": "The susceptibility of athletes to long-term adverse outcomes following recurrent concussion remains controversial. Acute concussion precipitates a transient reduction in cerebral blood flow (CBF) that typically returns to pre-injury levels. Recent work suggests that long-term CBF alterations may be sex-specific. We assessed whether concussion history was associated with chronic CBF alterations and whether sex moderated this relationship in otherwise healthy, active collegiate-aged athletes. Collegiate-aged athletes from the community (N\u2009=\u2009204, 37.8% female, Mage\u2009=\u200921.0\u2009\u00b1\u20091.7) underwent magnetic resonance imaging with pseudo-continuous arterial spin labeling to quantify global and regional CBF and spatial coefficient of variation. Participants also completed measures of depression, anxiety, and cognition. Multiple linear regressions incorporating prior concussion-by-sex interaction terms adjusted for relevant covariates were fit to estimate the extent to which sex moderated the concussion history-CBF relationship. Exploratory analyses further assessed whether oral contraceptive use or pill formulation moderated this association in females. The number of prior concussions was negatively associated with global and regional gray-matter CBF in female but not male athletes, with the strongest associations localizing to frontotemporal regions. CBF metrics were not related to cognitive performance or affective symptom burden. Contraceptive use did not appear to substantially moderate the concussion history-CBF association in female athletes. Female-specific associations between concussion history and cerebral hypoperfusion in early adulthood suggest potential sex differences in pathways and trajectories of adverse long-term outcomes. Early chronic CBF alterations may represent one vulnerability to future risk in a sex-specific manner.",
-   "doi": "10.1002/hbm.70584",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42322082/",
-   "matched": [
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42393427",
-   "title": "Sex Hormones & Exercise in the Musculoskeletal System: From Signaling to Structure and Function.",
-   "journal": "Endocr Rev",
-   "year": "2026",
-   "authors": [
-    "Colicchio CJ",
-    "Hernandez PA",
-    "Robinson JL",
-    "Connizzo BK"
-   ],
-   "abstract": "Sex steroid hormones, such as estrogen, progesterone, and testosterone, are primarily known as critical regulators of reproductive function in both males and females. However, increasing evidence indicates that fluctuating levels of sex hormones also affect non-reproductive organs, including tissues in the musculoskeletal system. Observations from muscle and bone literature support a model in which hormonal state modulates exercise-induced mechanotransduction and downstream extracellular matrix (ECM) remodeling. However, soft connective tissues - cartilage, meniscus, tendon, ligament, intervertebral disc - are often overlooked, despite being the primary sites of career-ending sports injuries and chronic degeneration. This review focuses on these tissues, aiming to examine how sex hormones and other sex-specific molecules critically regulate the process of exercise adaptation at the tissue level. We first outline sex steroid biosynthesis, bioavailability, and receptor mechanisms and then examine how steroids intersect with mechanosensing and mechanotransduction. Looking further downstream, we then assess how hormonal state regulates ECM turnover and functional adaptations. We propose novel connections and mechanisms by which sex hormones and other sex-specific molecules determine load-induced responses via specific mechanotransduction pathways and through ECM remodeling. We conclude by outlining open questions and experimental needs that would aid in establishing causal relationships between sex hormones and exercise responses in soft musculoskeletal tissues.",
-   "doi": "10.1210/endrev/bnag018",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42393427/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42419547",
-   "title": "Tissue-specific differences in ECM organization and collagen extractability under estrogen deficiency: A comparative study of skin and tendon.",
-   "journal": "Int J Biol Macromol",
-   "year": "2026",
-   "authors": [
-    "R\u00fdglov\u00e1 \u0160",
-    "Such\u00fd T",
-    "H\u0159\u00edbal M",
-    "Braun M",
-    "et al."
-   ],
-   "abstract": "Estrogen deficiency is known to affect connective tissues, yet its impact on collagen organization beyond bone remains insufficiently understood. In this study, we investigated tissue-specific alterations in type I collagen in rat skin and tendon following ovariectomy, with and without alendronate treatment. Native tissues were analyzed in parallel with corresponding crude collagen isolates to distinguish between collagen-related properties and extracellular matrix (ECM)-level contributions. Estrogen deficiency was associated with tissue-dependent changes, with skin exhibiting increased collagen content together with higher acid extractability, while tendon remained comparatively stable. These findings suggest that collagen extractability is influenced not only by collagen abundance but also by ECM-related factors, including matrix composition and organization. Differences between native tissues and isolates are further consistent with selective extraction effects that may be related to fibrillar organization and matrix interactions. Changes in lipid distribution and glycosaminoglycan content were consistent with tissue-specific matrix remodeling. FTIR analysis of amide I band ratios indicated differences consistent with changes in FTIR-detectable molecular organization; however, these observations should be interpreted as indirect indicators due to potential contributions from non-collagenous components and extraction-related effects. Alendronate treatment was associated with condition-dependent changes primarily at the ECM level, affecting collagen extractability and matrix composition without clear evidence of direct modification of collagen secondary structure. Overall, the results suggest that estrogen deficiency is associated with tissue-specific differences in collagen behavior and extractability, likely reflecting combined effects of ECM composition, organization, and extraction selectivity.",
-   "doi": "10.1016/j.ijbiomac.2026.153401",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42419547/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42389884",
-   "title": "Uncovering a hidden modulator for women in sports: An exploratory study of menstrual pain and brain connectivity.",
-   "journal": "Womens Health (Lond)",
-   "year": "2026",
-   "authors": [
-    "Pohle C",
-    "B\u00fcchel D",
-    "Sandbakk SB",
-    "Sandbakk \u00d8",
-    "et al."
-   ],
-   "abstract": "BackgroundThe menstrual cycle (MC), the use of combined oral contraceptives (COCs), and the presence of menstrual pain have long been overlooked factors in female athletes' health. The influence of hormonal fluctuations and pain may not only alter perceived performance and trainability but could also induce changes in brain network connectivity.ObjectivesThis study aimed to investigate whether resting-state functional connectivity (rsFC) differs between phases across the MC and COC cycle, as well as between naturally cycling (NC) subjects and COC users. A secondary goal was to explore associations between menstrual pain as a covariate and rsFC.DesignObservational, longitudinal study.MethodsNC women (n = 24) and COC users (n = 17) underwent a resting-state EEG recording during the early follicular phase (EFP) and pre-ovulatory phase (POV), and the active pill phase (pill phase) and inactive phase (pause), respectively. Mean characteristic path length (mCPL), clustering coefficient (CC), and mean debiased weighted phase lag index (mdWPLI) were computed for 37 participants (NC = 21; COC = 16). Phase and group differences were examined using mixed MANOVA, while mixed MANCOVA assessed the influence of menstrual pain as a covariate.ResultsNo significant differences between MC or COC phases, as well as between groups, were found. Including menstrual pain as a covariate revealed significant phase*pain interactions for mCPL and CC, as well as significant group*pain interactions in mdWPLI. Post-hoc tests revealed a significant increase in mCPL from the pause to the pill phase.ConclusionThe preliminary findings suggest that menstrual pain may influence baseline brain network states, which may have potential implications for performance and injury risk in female athletes. Therefore, considering menstrual pain is crucial in both research and applied sports contexts.",
-   "doi": "10.1177/17455057261456871",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42389884/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & musculoskeletal injury",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42351303",
-   "title": "Why males scar more: hormonal and chromosomal clues to idiopathic pulmonary fibrosis.",
-   "journal": "Biol Sex Differ",
-   "year": "2026",
-   "authors": [
-    "J Elliot S",
-    "Clark K",
-    "Civettini G",
-    "Roos B",
-    "et al."
-   ],
-   "abstract": "There is a gap in understanding the predominance of males with idiopathic pulmonary fibrosis (IPF). While gonadal hormones contribute to fibrosis susceptibility, evidence suggests a role for sex chromosomes. We used The Four Core Genotypes (FCG) mouse model, which uncouples gonadal sex from sex chromosomes, in aged mice before and after bleomycin (BLM)-induced lung injury. Fibrosis severity was assessed by histology, collagen content, and profibrotic gene expression, along with analysis of estrogen receptor (ER)\u03b1 and ER\u03b2 signaling, matrix metalloproteinase activity, insulin-like growth factor-1 (IGF-1), and microRNAs. Data were analyzed using two-way ANOVA to test effects of gonadal sex, sex chromosome complement, and their interaction; gonadectomy experiments used three-way ANOVA including gonadal status. BLM-induced lung injury resulted in the greatest fibrosis in XY mice with ovaries, which was associated with elevated ER\u03b1 expression and increased ER\u03b1:ER\u03b2 ratio. In contrast, ER\u03b2 expression was highest in XX mice with testes and associated with attenuated fibrosis. Multiple fibrotic pathways were regulated by gonadal sex, sex chromosome complement, or their interaction. Gonadectomy revealed organizational and activational effects of sex hormones and uncovers interactions between gonadal sex, sex chromosomes, and hormone status. Sex chromosome-dependent regulation of let-7d and miR-29a linked chromosomal dosage to ER\u03b1-IGF-1 mediated remodeling. These findings identify hormonal and chromosomal mechanisms contributing to sex bias in pulmonary fibrosis and suggest sex-informed therapeutic targets for IPF.",
-   "doi": "10.1186/s13293-026-00942-5",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42351303/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective-tissue biomarkers",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42366640",
-   "title": "A Break-Even Cost-effectiveness Analysis for Venous Thromboembolism Prophylaxis in Achilles Tendon Repair Surgery.",
-   "journal": "Foot Ankle Spec",
-   "year": "2026",
-   "authors": [
-    "Mody K",
-    "Chopra AA",
-    "Ahn D",
-    "Ali IS",
-    "et al."
-   ],
-   "abstract": "Venous thromboembolism (VTE) is a potentially life-threatening complication following orthopaedic surgery. While prophylaxis is well-established in joint arthroplasty, its role after Achilles tendon repair remains controversial. Despite being a soft-tissue procedure, prolonged postoperative immobilization increases VTE risk, with some studies reporting symptomatic rates as high as 7%. However, no prior studies have assessed whether pharmacologic VTE prophylaxis breaks-even in this population. A literature review and the TriNetX Research Network were used to identify symptomatic VTE rates within 30 days of primary Achilles tendon repair without pharmacologic prophylaxis. The cost of treating a symptomatic VTE was estimated from published data and adjusted to 2025 US dollars. Retail drug pricing was obtained from an online pharmacy database. A break-even analysis was conducted to determine the absolute risk reduction (ARR) and number needed to treat (NNT) required for aspirin (81 mg and 325 mg), warfarin (5 mg), enoxaparin (40 mg), and rivaroxaban (20 mg) to be cost-effective. A sub-analysis compared postoperative bleeding and transfusion rates in patients who received chemoprophylaxis versus those who did not. Among 8935 patients undergoing Achilles tendon repair without chemoprophylaxis, 47 developed a symptomatic VTE (0.526%). Aspirin and warfarin broke-even across all VTE rates, with NNTs ranging from 9217 to 10\u2009547. Warfarin still broke-even when including international normalized ratio (INR) monitoring costs. Enoxaparin and rivaroxaban only broke-even at the highest VTE rate (7.2%), with NNTs of 131 and 390, respectively, and required higher VTE treatment costs to be justified. In this study, we found that aspirin 81 mg, aspirin 325 mg, and warfarin break-even for VTE chemoprophylaxis following Achilles tendon repair. Enoxaparin and rivaroxaban failed to break-even. Chemoprophylaxis decisions should be individualized, weighing patient risk and economic considerations.",
-   "doi": "10.1177/19386400261452500",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42366640/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42344846",
    "title": "A multimodal spatio-temporal graph neural network framework for fatigue detection in tennis serving.",
@@ -721,35 +175,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42381831",
-   "title": "Advances in the Application of Brain-Computer Interface-Based Neurofeedback Training in the Rehabilitation of Patients with Major Depressive Disorder.",
-   "journal": "Neuropsychiatr Dis Treat",
-   "year": "2026",
-   "authors": [
-    "Liu J",
-    "Liu L",
-    "Chen H",
-    "Xuan S",
-    "et al."
-   ],
-   "abstract": "Major depressive disorder is a highly prevalent affective disorder worldwide, and existing pharmacological and psychological treatments continue to demonstrate notable limitations in terms of therapeutic stability, adverse effects, and relapse prevention. Brain-computer interface-based neurofeedback training (BCI\u2011NFT) guides patients to actively regulate abnormal neural functional states through real\u2011time feedback of brain activity signals, thereby providing a precise interventional pathway that acts directly at the level of neural function. This narrative review examines the theoretical foundations, neural mechanisms, and clinical application modalities of BCI\u2011NFT in depression rehabilitation, encompassing advances in both non\u2011invasive and invasive neurofeedback technologies, diverse combined intervention paradigms, and the application prospects of a concurrent intervention approach integrating wearable BCI technology with aerobic exercise at the interdisciplinary intersection of sports neuroscience and psychiatric rehabilitation medicine. Preliminary evidence suggests that BCI\u2011NFT may facilitate neural functional recovery in patients with major depressive disorder through three primary mechanisms: remodeling of emotion\u2011regulation\u2011related brain regions, correction of aberrant EEG activity patterns, and improvement of large\u2011scale brain network connectivity; however, given the sample sizes and methodological heterogeneity of existing studies, these conclusions still require further validation through large-scale randomized controlled trials. Nevertheless, the widespread clinical implementation of BCI\u2011NFT remains constrained by a lack of standardized training protocols, insufficient clarity regarding suitable patient populations, and a paucity of large\u2011sample clinical data. Future research should, within a precision psychiatry framework and through the integration of multimodal neuroimaging and large\u2011scale randomized controlled trials, further advance the standardized clinical translation of BCI\u2011NFT.",
-   "doi": "10.2147/NDT.S609788",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42381831/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -901,34 +326,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42422316",
-   "title": "Arterial stiffness in the context of heart rate and vasomotion during orthostatic stress and cognitive load.",
-   "journal": "Front Netw Physiol",
-   "year": "2026",
-   "authors": [
-    "Czippelova B",
-    "Turianikova Z",
-    "Cernanova Krohova J",
-    "Mazgutova N",
-    "et al."
-   ],
-   "abstract": "Variability in cardiovascular parameters reflects complex interactions among regulatory mechanisms. Arterial stiffness, a key determinant of heart-vessel interaction and cardiac performance, is commonly assessed using pulse wave velocity, though its dependence on blood pressure limits interpretability. The Cardio-Ankle Vascular Index (CAVI), a widely used non-invasive measure of arterial stiffness, and its refined form CAVI0, aim to address this limitation. However, evidence suggests that these measurements may still be affected by factors such as vascular smooth muscle tone and heart rate. This study investigated the short-term effects of physiological stressors, including body position changes (considering hydrostatic pressure) and cognitive load on CAVI0, to better understand the influence of confounding factors on arterial stiffness assessment. Twenty-three healthy adults (age 22.3 \u00b1 2.4\u00a0years, 16 male) were recruited. CAVI0 was measured using the VaSera VS-1500, with adjustments for blood pressure and hydrostatic effects (CAVI0 ADJ) during three randomized tilt sequences (10\u00b0 head-down tilt (HDT), 20\u00b0 head-up tilt (HUT), and 40\u00b0 HUT) and a mental arithmetic (MA) task inducing cognitive load. Continuous ECG, volume clamp photoplethysmography, and impedance cardiography recordings were used to derive heart rate, blood pressure, cardiac output, and systemic vascular resistance. CAVI0 ADJ increased progressively, showing significant elevations at 20\u00b0 and 40\u00b0 HUT versus supine and 10\u00b0 HDT. Brachial mean blood pressure did not change across postural positions, whereas heart rate and systemic vascular resistance increased during upright postures. Changes in CAVI0 ADJ positively correlated with heart rate (p < 0.001) and systemic vascular resistance (p = 0.040), but not with brachial mean blood pressure. During the MA task, brachial mean blood pressure, heart rate, and systemic vascular resistance all increased significantly, whereas CAVI0 remained unchanged. Our study shows that CAVI0 is not influenced by acute blood pressure changes caused by moderate mental stress pointing towards its robustness against blood pressure alterations. During head-up tilt, CAVI0 is influenced not only by hydrostatic pressure but also by heart rate and vasomotion, highlighting the importance of considering body position and autonomic responses when assessing arterial stiffness as an indicator of structural changes in arterial wall associated with atherosclerotic process.",
-   "doi": "10.3389/fnetp.2026.1829189",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42422316/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42320689",
    "title": "Arthroscopic anatomic reconstruction of the ATFL and CFL using allograft: Return to sport and one-year functional outcomes in chronic ankle instability.",
    "journal": "Orthop Traumatol Surg Res",
@@ -1010,34 +407,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42401061",
-   "title": "Biomechanical effects of Kinesio versus Mulligan ankle taping on balance and ankle function in chronic STROKE: A randomized controlled trial.",
-   "journal": "Clin Biomech (Bristol)",
-   "year": "2026",
-   "authors": [
-    "Kwag Y",
-    "Shim J",
-    "Park D"
-   ],
-   "abstract": "This study aimed to compare the effects of six weeks of Kinesio taping with treadmill training, Mulligan taping with treadmill training, and treadmill training alone on ankle dorsiflexion passive range of motion, balance, ankle stability, and fall efficacy in individuals with chronic stroke. Thirty-three individuals with chronic stroke were randomly assigned to three groups (n\u00a0=\u00a011 each). Interventions were applied for six weeks. Outcome measures included ankle dorsiflexion passive range of motion, static balance, dynamic balance, ankle stability, and fall efficacy, assessed before and after the intervention. Between-group differences were analyzed using one-way analysis of variance. Significant group differences were observed in ankle dorsiflexion passive range of motion, eyes-open static balance, dynamic balance, and ankle stability (p\u00a0<\u00a0.05). The Mulligan taping with treadmill training group showed greater improvement in ankle dorsiflexion passive range of motion than the treadmill-only group. The Mulligan taping with treadmill training and treadmill-only groups improved eyes-open static balance more than the Kinesio taping with treadmill training group. Both taping groups improved dynamic balance more than treadmill training alone. Ankle stability improved most in the Mulligan taping with treadmill training group. No significant differences were found in eyes-closed static balance or fall efficacy. Mulligan taping with treadmill training may improve ankle dorsiflexion range of motion and stability, while both taping interventions may enhance dynamic balance. Treadmill-based gait practice may contribute to eyes-open static balance improvement.",
-   "doi": "10.1016/j.clinbiomech.2026.106910",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial",
-    "Comparative Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42401061/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42351887",
@@ -1150,34 +519,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42361230",
-   "title": "Clinical Outcomes of Individualized Electrostimulation Using a Wearable Electro Suit and Qualitative Feedback From a Mixed Cohort of Survivors of Stroke and Spinal Cord Injury With Spasticity: Case Series.",
-   "journal": "JMIR Rehabil Assist Technol",
-   "year": "2026",
-   "authors": [
-    "Yen JM",
-    "Kamsani NS",
-    "Lai HS",
-    "Tang N",
-    "et al."
-   ],
-   "abstract": "Various forms of electrical stimulation have been integrated into the multimodal management of spasticity. However, high-frequency electrical stimulation can potentially induce muscle fatigue. The Exopulse Mollii Suit (EMS) is a multichannel full-body garment that delivers low-frequency (20 Hz), low-amplitude (20 V), subthreshold sensory stimulation aimed at reducing spasticity. Primarily, we examined the effects of a single session of the EMS on spasticity in 7 participants with chronic stroke or cervical spinal cord injury (SCI), specifically those with upper or lower limb spasticity impacting function and gait who were able to walk with minimal or no assistance (Functional Ambulatory Category scores of 2-5). We assessed the impact on gait and ambulatory function, as well as user perceptions of usability and acceptability. Participants wore the EMS for 60 minutes, consisting of 30 minutes of standardized goal-directed activities performed in two 15-minute blocks, interspersed with 15-minute rest breaks. Measurements included the Modified Tardieu Scale with surface electromyography for spasticity and functional mobility tests (Functional Ambulatory Category, 10-meter walk test, 5 times sit-to-stand test, and step test). Spatiotemporal gait parameters were quantified using a markerless vision-based motion capture system using the OpenPose BODY25 pose estimation model. On the basis of the Modified Tardieu Scale and surface electromyography signals, improvements in spasticity were only observed in 2 participants. However, 4 participants demonstrated faster walking speeds. Improvements in the 5 times sit-to-stand test and step test were noted in 3 and 4 participants, respectively. Spatiotemporal gait parameters revealed improvements in gait symmetry in 6 participants. Qualitative feedback based on the Assistive Technology Usability Questionnaire for People With Neurological Diseases (NATU Quest) returned positive results in 3 participants. Overall outcomes, defined as meeting the individualized goals of each participant, were positive in 4 participants. This case series provides preliminary evidence that a single session with the EMS may offer benefits for functional mobility and gait quality for individuals with spasticity resulting from stroke or SCI. To our knowledge, this is the first report examining the effects of the EMS in participants with SCI and the first to include spatiotemporal gait parameters associated with its use. However, the small sample size, variable outcomes, and lack of a control group necessitate caution in interpreting these findings and preclude definitive conclusions regarding the efficacy of the EMS. Larger, controlled trials with repeated sessions of EMS use are required to establish the effectiveness and optimal application of the EMS for spasticity management.",
-   "doi": "10.2196/81522",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42361230/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42459270",
@@ -1296,85 +637,36 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42354640",
-   "title": "Core High-Risk Foot Profiles and Surgery-Coded Care-Intensity Indicators Among Hajj Pilgrims Presenting with Foot and Ankle Conditions: A Presentation-Level Analysis.",
-   "journal": "Healthcare (Basel)",
+   "pmid": "42472892",
+   "title": "Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.",
+   "journal": "Sci Rep",
    "year": "2026",
    "authors": [
-    "AlGabgab MF",
-    "Alqurashi N",
-    "Alqahtani M",
-    "Alolyani MM",
-    "et al."
+    "ElSherbini AI",
+    "Sameh A",
+    "Ali S",
+    "Khalil AT"
    ],
-   "abstract": "Foot and ankle presentations during Hajj occur in a dense mass-gathering environment where prolonged walking, heat exposure, crowding, variable footwear, and limited self-care can interact with chronic disease and wound vulnerability. Previous Hajj studies have described foot injuries and diabetes-related complications, but less is known about whether simple high-risk foot documentation flags identify presentation records with higher care-pathway intensity. The primary objective was to estimate the presentation-level burden of core high-risk foot profiles among pilgrims presenting with foot and ankle conditions during Hajj 2025. Secondary objectives were to evaluate associations with a surgery-coded care-intensity indicator, hospital referral, and component heterogeneity. This observational presentation-level analysis included 3957 foot and ankle presentation records. The unit of analysis was the presentation/case record, not a unique individual pilgrim. A core high-risk foot profile was defined as diabetes, neuropathy, diabetic foot ulcer, foot ulcer, complications of open wound, or osteomyelitis. The primary outcome was a surgery-coded care-intensity indicator, defined solely from treatment documentation containing \"Surgery\" and interpreted as a care-pathway proxy rather than confirmed operating-room surgery. Logistic regression estimated crude and adjusted odds ratios (ORs); exploratory risk-category analyses assessed heterogeneity within the composite profile. Core high-risk foot profiles were identified in 1793/3957 presentations (45.3%). The primary outcome occurred in 239/1793 high-risk presentations (13.3%) and 201/2164 non-high-risk presentations (9.3%), an absolute difference of 4.0 percentage points. The crude OR was 1.50 (95% CI 1.23-1.83; p < 0.001). The association persisted in the primary adjusted model (adjusted OR 1.47; 95% CI 1.20-1.79; p < 0.001) and in the extended clinical sensitivity model (adjusted OR 1.47; 95% CI 1.20-1.80; p < 0.001). Care pathways and secondary outcomes are summarized was also more frequent in high-risk presentations (12.2% vs. 9.8%; crude OR 1.28; 95% CI 1.05-1.57; p = 0.017). Exploratory category analysis showed that chronic-risk-only presentations had a primary outcome rate similar to non-high-risk presentations (9.0% vs. 9.3%), whereas ulcer/wound/deep-infection presentations had a higher rate (17.3%; crude OR 2.04; 95% CI 1.63-2.55; p < 0.001). Model discrimination was modest (C-statistics 0.55-0.64). Core high-risk foot flags were common among Hajj foot and ankle presentation records and were associated with surgery-coded care-intensity and referral documentation. However, the composite was clinically heterogeneous, the outcome was not a validated surgery endpoint, and the models were not prediction tools. These findings support cautious use of high-risk foot flags as operational prompts for assessment and pathway planning rather than as standalone clinical risk estimates.",
-   "doi": "10.3390/healthcare14121782",
+   "abstract": "This paper presents the design methodology, kinematic analysis, finite element structural validation, and closed-loop computational simulation of a novel 3-degree-of-freedom (3-DOF) ankle-foot rehabilitation exoskeleton. The proposed exoskeleton addresses the simultaneous rehabilitation of dorsiflexion/plantarflexion (DF/PF), abduction/adduction (AB/AD), and inversion/eversion (INV/EV) in a seated configuration suited to patients with weight-bearing restrictions. Three NEMA 23 stepper motors independently actuate each axis through custom two-stage spur gear transmissions, achieving positive torque margins of +\u20096%, +\u200935%, and +\u200925% and sub-degree angular resolution. Full kinematic decoupling between all three axes is established through two independent architectural strategies. A finite element analysis (FEA) conducted on all four critical Al 6061-T6 structural components confirms safety factors between 2.82 and 4.87 under worst-case loading. A closed-loop PID control framework with adaptive range-of-motion (ROM) regulation, simulated in MATLAB/SIMULINK, demonstrates tracking performance characterised by maximum overshoots of 0.02\u00b0-0.12\u00b0, settling times of 3.7-7.8\u00a0s, and steady-state errors below \u00b1\u20090.04\u00b0 across all nine simulation scenarios. The results confirm the mechanical feasibility, structural integrity, and control effectiveness of the proposed exoskeleton as a viable platform for multi-DOF seated ankle rehabilitation.",
+   "doi": "10.1038/s41598-026-61133-1",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42354640/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42472892/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42344242",
-   "title": "Determinants of demand for intelligent ankle-foot orthoses in children with cerebral palsy: a multicenter cross-sectional study from a multi-stakeholder perspective.",
-   "journal": "Front Public Health",
-   "year": "2026",
-   "authors": [
-    "Yao Y"
-   ],
-   "abstract": "Intelligent ankle-foot orthoses (AFOs) have emerged as a promising assistive technology for improving mobility in children with cerebral palsy (CP). However, their effective development and implementation require a comprehensive understanding of user needs from multiple stakeholders, particularly in resource-limited regions. To systematically investigate the demand characteristics for intelligent AFOs among families of children with CP and medical professionals in Sichuan Province, and to identify key determinants influencing these demands. A multicenter cross-sectional survey was conducted, including 95 families of children with CP and 39 medical professionals. Structured questionnaires were used to assess functional demands, usage experiences, and perceived barriers. Data were collected from multiple hospitals and rehabilitation centers across different administrative regions in Sichuan Province to enhance representativeness. Group differences were analyzed using non-parametric tests, and multivariate logistic regression was applied to identify independent determinants of demand. Families demonstrated the highest demand for practical and usability-oriented functions, particularly walking stability (93.69%) and ease of donning and doffing (83.16%). In contrast, medical professionals prioritized clinically oriented functions, including gait monitoring and predictive fall prevention (both 87.18%). Significant inter-group differences were observed in data monitoring (p\u202f<\u202f0.001) and adaptive adjustment (p\u202f=\u202f0.012). Multivariate analysis revealed that higher household income was significantly associated with increased demand for both data monitoring functions (OR\u202f=\u202f3.13, 95% CI: 1.15-8.58, p\u202f=\u202f0.026) and usability-related features (OR\u202f=\u202f3.00, p\u202f=\u202f0.033). Demand for intelligent AFOs exhibits clear stakeholder-specific patterns, reflecting a divergence between practicality-driven needs among families and clinically oriented expectations among medical professionals. Safety, comfort, and indoor scenario adaptability represent shared priorities, while economic constraints and prior technology exposure further shape demand. These findings highlight the necessity of integrating multi-stakeholder perspectives into device design and support the development of context-specific strategies to improve accessibility and adoption in resource-limited settings.",
-   "doi": "10.3389/fpubh.2026.1855559",
-   "pubtypes": [
-    "Journal Article",
-    "Multicenter Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42344242/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
+    },
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42356940",
-   "title": "Development of an Instrumented Glove for Palmar Pressure Assessment in Kayakers.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Depontailler C",
-    "Jodin G",
-    "Porcon C",
-    "Alglave C",
-    "et al."
-   ],
-   "abstract": "Understanding hand-paddle interaction is essential for optimizing performance and preventing injury in kayaking, yet coaches still lack objective, practical tools. We present a soft, instrumented glove that measures and dynamically maps palmar pressure throughout the stroke cycle. A matrix of piezoresistive sensors is integrated into the glove and connected to dedicated electronics housed in a waterproof enclosure. A viscoelastic model converts sensor resistance into forces, enabling time-resolved 3D mapping of contact mechanics. Data are transmitted via Bluetooth Low Energy (BLE). Experimental validation on a kayak ergometer across multiple cadences demonstrated accurate measurements (per-sensor root mean square error (RMSE) of \u00b12 N), clear delineation of pull and push phases, evolving pressure distribution over the motion, and a peak total right-hand force of 186 N at high cadence. Beyond feasibility, these results position the glove as a practical training aid: it supports athlete-specific load monitoring and the early detection of potentially problematic movement patterns.",
-   "doi": "10.3390/s26123966",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42356940/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42460268",
@@ -1432,34 +724,6 @@
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42465975",
-   "title": "Effects of custom-made 3D-printed insoles on foot and body alignment in stroke survivors: an exploratory pilot randomized controlled trial.",
-   "journal": "PeerJ",
-   "year": "2026",
-   "authors": [
-    "Kim J",
-    "Anwar G",
-    "Kim M"
-   ],
-   "abstract": "Stroke survivors frequently exhibit foot deformities and postural asymmetry, contributing to gait instability and increased fall risk. This exploratory pilot randomized controlled trial examined the effects of custom-made 3D-printed insoles on foot alignment and postural symmetry in ambulatory chronic stroke survivors who did not require ankle-foot orthosis (AFO) support. Twenty ambulatory chronic stroke survivors who did not require AFO support were randomly allocated to experimental (n\u00a0=\u00a010) or control (n\u00a0=\u00a010) groups. Prior to enrollment, a physiotherapist assessed each participant's orthotic needs; those with significant foot drop, ankle instability, or clinical indication for AFO were excluded. Both groups participated in standard rehabilitation (five 30-minute sessions weekly for six weeks). The experimental group additionally wore custom-made 3D-printed insoles during daily activities and therapy sessions. Outcomes included foot alignment (medial longitudinal arch angle, transverse arch angle, arch height index), body alignment (shoulder, pelvic, and knee tilt angles), and dynamic balance via Timed Up and Go test (TUG). Data were analyzed using Wilcoxon signed-rank and Mann-Whitney U tests. The experimental group showed a significant increase in medial longitudinal arch (MLA) angle (mean difference 7.95\u00b0, p\u00a0=\u00a00.01) with a significant between-group difference at post-intervention (p\u00a0=\u00a00.03). A between-group difference in shoulder tilt angle was observed at post-intervention (mean difference 1.2\u00b0, p\u00a0=\u00a00.03), while no significant within-group change was detected in either group. No significant within-group changes or between-group differences were observed for transverse arch angle, arch height index, pelvic tilt, knee tilt, or TUG performance. Custom-made 3D-printed insoles improved medial arch height and were associated with a between-group difference in shoulder tilt in selected ambulatory chronic stroke survivors who did not require AFO support. These findings should be interpreted cautiously given the small sample size and exploratory pilot design. Larger definitive trials are needed to confirm these results.",
-   "doi": "10.7717/peerj.21533",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial",
-    "Clinical Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42465975/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
     }
    ],
    "is_new": false,
@@ -1671,35 +935,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42330326",
-   "title": "Extensive Inferior Vena Cava Thrombosis in Trauma when IVC Filter Placement Is Not Feasible Managed Using ClotTriever and FlowTriever.",
-   "journal": "Clin Appl Thromb Hemost",
-   "year": "2026",
-   "authors": [
-    "Aimanan K",
-    "Ismail MAT",
-    "Arvind M",
-    "Pian PM",
-    "et al."
-   ],
-   "abstract": "BackgroundManagement of extensive inferior vena cava (IVC) thrombosis following trauma is challenging, particularly when IVC filter placement is unsuitable. The presence of concomitant injuries requiring surgical intervention further complicates decisions regarding anticoagulation and pulmonary embolism prevention.Case PresentationA 40-year-old man presented following a high-velocity motorcycle accident with multiple facial fractures and a left radial shaft fracture. Contrast-enhanced computed tomography demonstrated no solid organ or major vascular injury but revealed extensive thrombosis extending from the infrarenal IVC into the bilateral common iliac veins. Following hemodynamic stabilization and exclusion of intracranial and intra-abdominal hemorrhage, therapeutic unfractionated heparin infusion was initiated. Despite anticoagulation, progressive lower limb swelling developed. Given the extensive thrombus burden and the need for subsequent surgical procedures, further intervention was considered. The suprarenal IVC measured 32 mm in diameter, and concerns regarding filter stability, migration, and reduced efficacy rendered IVC filter placement suboptimal.Intervention and OutcomeFollowing multidisciplinary discussion, percutaneous mechanical thrombectomy was performed using a combined ClotTriever BOLD and FlowTriever system. A 25-mm FlowTriever disc was deployed in the retrohepatic IVC for temporary embolic protection during thrombectomy. Successful thrombus extraction restored caval patency without complications. Lower limb swelling resolved within three days, allowing staged orthopedic and maxillofacial reconstruction. Thrombophilia screening was negative, and the patient completed nine months of rivaroxaban therapy without recurrence.ConclusionCombined ClotTriever and FlowTriever mechanical thrombectomy may be an effective treatment option for extensive traumatic iliocaval thrombosis when IVC filter placement is not feasible or considered suboptimal.",
-   "doi": "10.1177/10760296261463768",
-   "pubtypes": [
-    "Journal Article",
-    "Case Reports"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42330326/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42382458",
    "title": "Feasibility of combining a sensorimotor foot orthosis with a prefabricated carbon-fiber ankle-foot orthosis: A pilot study.",
    "journal": "Can Prosthet Orthot J",
@@ -1717,23 +952,13 @@
    "url": "https://pubmed.ncbi.nlm.nih.gov/42382458/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    },
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
-   "bucket": "research"
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42346767",
@@ -2157,35 +1382,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42389111",
-   "title": "Muscle and mind: rewiring cognitive-motor recovery through exercise-responsive neurophysiology in neurological populations.",
-   "journal": "Front Psychol",
-   "year": "2026",
-   "authors": [
-    "Calderone A",
-    "Baricich A",
-    "Pournajaf S",
-    "Sottile F",
-    "et al."
-   ],
-   "abstract": "Exercise in neurological rehabilitation is often prescribed to improve mobility, yet its influence extends to cognition through interacting peripheral, central, and behavioral pathways. This narrative review synthesizes evidence on how skeletal muscle activity can engage peripheral biomarkers and system-level interactions that become clinically meaningful only when translated into behaviorally relevant cognitive-motor integration (CMI). We examine neurotrophic, metabolic, immune, vascular, and endocrine relays, then consider central translation through synaptic plasticity, metabolic adaptation, neurovascular coupling, white matter integrity, and functional network reorganization. The central argument is that cognitive benefit cannot be inferred from biomarker change alone. Exercise is most likely to support recovery when biological pathway engagement is paired with attentionally demanding movement, dual-task control, gait automaticity, error-based adaptation, and context-sensitive learning. Research in stroke, Parkinson's disease, multiple sclerosis, and traumatic brain injury illustrates the heterogeneous benefits of exercise. This heterogeneity may be shaped by lesion topology, inflammatory activity, fatigue, autonomic stability, medication state, baseline fitness, and exercise tolerance, all of which alter the internal biological dose generated by a given external training prescription. Virtual reality, robotics, wearable sensing, and non-invasive brain stimulation may strengthen this framework when they manipulate task complexity, salience, repetition, feedback, and ecological monitoring for a defined mechanistic purpose. Current evidence supports exercise as a biologically and behaviorally meaningful adjunct in neurorehabilitation, but it cautions against uniform prescriptions and overly direct biomarker interpretations. A more precise next generation of trials should integrate exercise prescription, mechanistic readouts, technology-enabled assessment, and ecologically valid cognitive-motor outcomes within the same translational logic. Across the review, CMI is treated as the behavioral test of whether exercise-responsive biology has been recruited into adaptive function, rather than as a separate concept appended after conditioning.",
-   "doi": "10.3389/fpsyg.2026.1845070",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42389111/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42458567",
    "title": "Narrative review of the mechanisms, intrinsic risk and predictive factors, and incidence of lateral ankle sprains amongst male and female athletes participating in sex-similar sports.",
    "journal": "BMC Sports Sci Med Rehabil",
@@ -2325,6 +1521,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42388542",
+   "title": "Oral Contraceptive Use Associated With Lower Rates of Knee Instability After Anterior Cruciate Ligament (ACL) Reconstruction.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Mahatme RJ",
+    "Moore SA",
+    "Gangavaram A",
+    "Muthusamy N",
+    "et al."
+   ],
+   "abstract": "Background Sex hormones influence connective tissue biology and pain processing, but the relationship between oral contraceptive pill (OCP) use and postoperative outcomes after anterior cruciate ligament reconstruction (ACLR) remains unclear. The purpose of this study was to evaluate whether perioperative OCP use is associated with postoperative knee instability and other clinical outcomes after ACLR. Methods Using a multicenter database, TriNetX, females aged 14-40 years undergoing arthroscopic ACLR were grouped as OCP users (prescriptions within six months before and within two years after surgery) or non-users (no OCP prescriptions from one year before to two years after surgery). Propensity score matching (1:1) based on demographics and comorbidities yielded 815 patients per cohort. Primary outcomes were two-year reoperation, chronic knee instability diagnosis, and chronic knee pain diagnosis. Secondary outcomes included 30-day surgical site infection (SSI), 90-day deep or organ infection, six-month arthrofibrosis/manipulation under anesthesia (MUA), and postoperative opioid use (early, 1-30 days; prolonged, 30-90 days; chronic, 90-180 days). Risk ratios (RRs) with 95% confidence intervals (CIs) were calculated. Results OCP use was associated with significantly lower rates of two-year chronic knee instability (RR, 0.316; 95% CI, 0.166-0.600; p < 0.001) and early postoperative opioid use (RR, 0.363; 95% CI, 0.281-0.468; p < 0.001). Rates were similar between groups for six-month arthrofibrosis/MUA (RR, 0.750; 95% CI, 0.357-1.575; p = 0.446), two-year reoperation (RR, 1.057; 95% CI, 0.735-1.519; p = 0.766), two-year chronic knee pain (RR, 0.976; 95% CI, 0.877-1.086; p = 0.654), 30-day SSI (rare), and 90-day deep or organ infection (none; p = 1.000). Conclusion In a large propensity-matched cohort of female patients undergoing ACLR, perioperative OCP use was associated with markedly lower rates of two-year knee instability and reduced early opioid use, whereas other complications and reoperation rates did not differ, highlighting hormonal status as a potentially modifiable factor in postoperative recovery.",
+   "doi": "10.7759/cureus.110003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42388542/",
+   "matched": [
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42336184",
    "title": "Particulated autologous cartilage with platelet-rich plasma for osteochondral lesions of the talus in athletes: Return to sport and functional outcomes at 12 months.",
    "journal": "J Foot Ankle Surg",
@@ -2407,34 +1631,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42449781",
-   "title": "Personalized Protocol for the Dynamic Assessment of Functional Biomarkers of Vascular Stiffness: A Novel Diagnostic Tool in P4 Medicine.",
-   "journal": "Diagnostics (Basel)",
-   "year": "2026",
-   "authors": [
-    "Dorogovtsev VN",
-    "Yankevich DS",
-    "Tsareva VM",
-    "Punin DA",
-    "et al."
-   ],
-   "abstract": "Background/Objectives: Functional biomarkers of vascular stiffness (FBM-VS) may serve as an effective tool for predicting and monitoring the effectiveness of preventive strategies against accelerated vascular ageing in healthy populations within the framework of P4 medicine. The aim of this study was to perform a comparative analysis of a standardized to hydrostatic column height passive head-up tilt test (stHUTT) and a simplified supine-to-sitting test (SST) for measuring FBM-VS in a paired sample of young healthy subjects. Materials and Methods: This observational cross-sectional study included 95 healthy adults aged 18-20 years (54 women and 41 men). Brachial-ankle pulse wave velocity (baPWV) was measured in three positions: baseline supine position (baPWVb), during stHUTT (baPWVst), and after transitioning to a sitting position (baPWVsit). The functional reserve of orthostatic circulatory regulation (FR) and the functional reserve coefficient (FRC) were calculated for the stHUTT (FRst and FRCst) and during the supine-to-sitting test (FRsit and FRCsit). Results: The results showed unidirectional orthostatic changes in baPWV during both tests (significant increase compared to baseline supine values): baPWVst and baPWVsit in stHUTT and during the SST increased from 8.6 [8.1; 9.1] m/s to 13.4 [12.1; 14.4] m/s and to 15.2 [13.4; 16.1] m/s (p < 0.001), respectively. FBM-VS values in the SST were higher compared to stHUTT: FRsit = 6.4 [5.25; 7.75] m/s vs. FRst = 4.85 [3.7; 5.75] m/s (p < 0.001), and FRCsit = 0.74 [0.59;0.9] vs. FRCst = 0.55 [0.45; 0.68] (p < 0.001). The variance of these parameters was also significantly higher in the SST. Spearman rank correlation analysis demonstrated significant positive correlations between biomarkers measured during both orthostatic tests. Conclusions: The supine-to-sitting test may be used for the personalized quantitative assessment of FBM-VS in healthy populations. To assess their prognostic value and to provide personalized long-term monitoring to control the effectiveness of preventive measures against vascular ageing in healthy individuals, a prospective cohort study is required.",
-   "doi": "10.3390/diagnostics16132001",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42449781/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42457033",
@@ -2664,35 +1860,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42381097",
-   "title": "Risk stratification in diabetic ankle fractures: a systematic review of reviews and proposal of the MADRAS scoring system.",
-   "journal": "Cardiovasc Diabetol Endocrinol Rep",
-   "year": "2026",
-   "authors": [
-    "Bakr A",
-    "Nassor M",
-    "Muhammad U",
-    "Tahoun M",
-    "et al."
-   ],
-   "abstract": "Diabetic ankle fractures present significant clinical challenges, with higher rates of complications including infection, non-union, Charcot neuroarthropathy, and amputation compared to non-diabetic patients. Despite this burden, no universally accepted guidelines exist for risk stratification and management. The Adelaide Fracture in the Diabetic Ankle (AFDA) score was proposed in 2014 but has limitations including uniform weighting of risk factors and exclusion of local injury characteristics. This systematic review of reviews aimed to synthesise current evidence and develop an updated, evidence-based risk stratification tool. A comprehensive search of Embase, PubMed, and Web of Science was conducted. Eligible studies included systematic and narrative reviews examining outcomes, risk factors, or interventions for diabetic ankle fractures. Risk of bias was assessed using the ROBIS tool. Data were synthesised narratively, and an evidence-informed, consensus-based scoring system was developed by translating observed effect sizes from the included reviews into weighted risk scores. Thirteen reviews were included. Complicated diabetes, particularly peripheral neuropathy, peripheral arterial disease, and prior Charcot neuroarthropathy, emerged as the strongest predictors of adverse outcomes. Non-operative management of unstable fractures was associated with significantly higher complication rates. Based on these findings, we propose the Manchester Ankle Fracture Diabetic Risk Assessment Score (MADRAS), incorporating weighted systemic host factors, local injury characteristics, and modifiable patient factors across a 17-point scale stratifying patients into four management tiers: low risk (0-2), moderate risk (3-5), high risk (6), and very high risk (\u2265\u20097). MADRAS addresses limitations of existing frameworks by incorporating evidence-based weightings and local injury factors. Prospective external validation is required before widespread clinical adoption; until then, MADRAS should be regarded as a decision-support tool. This tool may assist clinicians in systematic risk stratification and surgical decision-making for diabetic ankle fractures.",
-   "doi": "10.1186/s40842-026-00292-6",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42381097/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42349117",
    "title": "Rolling after landing reduces ankle inversion and rotational parameters during perturbed and unperturbed landings.",
    "journal": "J Biomech",
@@ -2752,6 +1919,33 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42393427",
+   "title": "Sex Hormones & Exercise in the Musculoskeletal System: From Signaling to Structure and Function.",
+   "journal": "Endocr Rev",
+   "year": "2026",
+   "authors": [
+    "Colicchio CJ",
+    "Hernandez PA",
+    "Robinson JL",
+    "Connizzo BK"
+   ],
+   "abstract": "Sex steroid hormones, such as estrogen, progesterone, and testosterone, are primarily known as critical regulators of reproductive function in both males and females. However, increasing evidence indicates that fluctuating levels of sex hormones also affect non-reproductive organs, including tissues in the musculoskeletal system. Observations from muscle and bone literature support a model in which hormonal state modulates exercise-induced mechanotransduction and downstream extracellular matrix (ECM) remodeling. However, soft connective tissues - cartilage, meniscus, tendon, ligament, intervertebral disc - are often overlooked, despite being the primary sites of career-ending sports injuries and chronic degeneration. This review focuses on these tissues, aiming to examine how sex hormones and other sex-specific molecules critically regulate the process of exercise adaptation at the tissue level. We first outline sex steroid biosynthesis, bioavailability, and receptor mechanisms and then examine how steroids intersect with mechanosensing and mechanotransduction. Looking further downstream, we then assess how hormonal state regulates ECM turnover and functional adaptations. We propose novel connections and mechanisms by which sex hormones and other sex-specific molecules determine load-induced responses via specific mechanotransduction pathways and through ECM remodeling. We conclude by outlining open questions and experimental needs that would aid in establishing causal relationships between sex hormones and exercise responses in soft musculoskeletal tissues.",
+   "doi": "10.1210/endrev/bnag018",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42393427/",
+   "matched": [
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -2947,34 +2141,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42335199",
-   "title": "The biomechanical effects of 3D-printed ankle-foot orthosis in individuals with unilateral foot drop.",
-   "journal": "Assist Technol",
-   "year": "2026",
-   "authors": [
-    "Rayothee P",
-    "Niamsang W",
-    "Manupibul U",
-    "Apidech H",
-    "et al."
-   ],
-   "abstract": "Thermoplastic ankle-foot orthotics (AFOs) effectively manage foot drop but are time-intensive to fabricate, while 3D printing offers a faster, customizable alternative with promising early results. However, broader adoption requires further clinical evidence on biomechanical efficacy and user satisfaction, particularly for novel 3D-printed AFOs. This study compared the biomechanical effects of a 3D-printed ankle-foot orthosis (3D-AFO) with a standard thermoplastic AFO (S-AFO) during walking in individuals with unilateral foot drop and evaluated user satisfaction. Nine participants were assessed while walking barefoot, with S-AFO and 3D-AFO conditions. Gait was analyzed using a three-dimensional optical motion-capture system, and satisfaction was measured using the Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST 2.0). The 3D-AFO significantly increased walking speed (0.62\u2009v.s. 0.42\u2009m/s barefoot; p\u2009=\u20090.040) and improved satisfaction regarding device dimensions (p\u2009=\u20090.014) and comfort (p\u2009=\u20090.020). SPM analysis showed both AFOs improved ankle kinematic symmetry during initial and terminal swing phases, with no significant differences at the hip or knee. Overall, the 3D-AFO improves patient satisfaction, walking speed, and ankle kinematics compared to barefoot walking. These results demonstrate that 3D-AFOs are a clinically viable and effective alternative to traditionally made S-AFOs for individuals with unilateral foot drop.",
-   "doi": "10.1080/10400435.2026.2689528",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42335199/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42468341",
