@@ -86,7 +86,7 @@ def entry_xml(r):
 
 def build(records, title, slug):
     now = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
-    self_link = f'{SITE}/data/{slug}.xml' if SITE else f'data/{slug}.xml'
+    self_link = f'{SITE}/data/{slug}.atom' if SITE else f'data/{slug}.atom'
     entries = "\n".join(entry_xml(r) for r in records)
     feed = f"""<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -98,7 +98,7 @@ def build(records, title, slug):
 {entries}
 </feed>
 """
-    (DATA / f"{slug}.xml").write_text(feed, encoding="utf-8")
+    (DATA / f"{slug}.atom").write_text(feed, encoding="utf-8")
     return len(records)
 
 
