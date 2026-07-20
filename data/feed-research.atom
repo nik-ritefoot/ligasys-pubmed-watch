@@ -3,7 +3,16 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-07-20T02:55:01Z</updated>
+  <updated>2026-07-20T05:05:10Z</updated>
   <generator>ligasys-pubmed-watch</generator>
-
+  <entry>
+    <title>Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.</title>
+    <id>urn:pmid:42472892</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42472892/" rel="alternate"/>
+    <updated>2026-07-20T05:05:10Z</updated>
+    <published>2026-07-20T05:05:10Z</published>
+    <author><name>ElSherbini AI</name></author><author><name>Sameh A</name></author><author><name>Ali S</name></author><author><name>Khalil AT</name></author>
+    <category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="actuation-assistive" label="Ankle actuation / assistive devices"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;ElSherbini AI, Sameh A, Ali S, Khalil AT · Sci Rep · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This paper presents the design methodology, kinematic analysis, finite element structural validation, and closed-loop computational simulation of a novel 3-degree-of-freedom (3-DOF) ankle-foot rehabilitation exoskeleton. The proposed exoskeleton addresses the simultaneous rehabilitation of dorsiflexion/plantarflexion (DF/PF), abduction/adduction (AB/AD), and inversion/eversion (INV/EV) in a seated configuration suited to patients with weight-bearing restrictions. Three NEMA 23 stepper motors independently actuate each axis through custom two-stage spur gear transmissions, achieving positive torque margins of + 6%, + 35%, and + 25% and sub-degree angular resolution. Full kinematic decoupling between all three axes is established through two independent architectural strategies. A finite element analysis (FEA) conducted on all four critical Al 6061-T6 structural components confirms safety factors between 2.82 and 4.87 under worst-case loading. A closed-loop PID control framework with adaptive range-of-motion (ROM) regulation, simulated in MATLAB/SIMULINK, demonstrates tracking performance characterised by maximum overshoots of 0.02°-0.12°, settling times of 3.7-7.8 s, and steady-state errors below ± 0.04° across all nine simulation scenarios. The results confirm the mechanical feasibility, structural integrity, and control effectiveness of the proposed exoskeleton as a viable platform for multi-DOF seated ankle rehabilitation.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1038/s41598-026-61133-1&quot;&gt;10.1038/s41598-026-61133-1&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42472892/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
 </feed>

@@ -1,1 +1,464 @@
-[]
+[
+ {
+  "pmid": "42396364",
+  "title": "A hypothesis on the aetiology of adenomyosis: is there an association between cumulative number of menstruations and severity of adenomyosis on ultrasound?",
+  "journal": "Eur J Obstet Gynecol Reprod Biol X",
+  "year": "2026",
+  "authors": [
+   "de Bock EJE",
+   "Verbeek C",
+   "Klinkenberg E",
+   "Twisk JWR",
+   "et al."
+  ],
+  "abstract": "Adenomyosis is a common uterine disorder, yet its aetiology remains debated. The tissue injury and repair (TIAR) hypothesis suggests that repeated microtrauma from menstrual contractions damages the endometrial-myometrial interface, thereby contributing to development and progression of adenomyosis. We investigated whether cumulative menstrual exposure is associated with severity of adenomyosis on ultrasound. This exploratory retrospective study was conducted at Amsterdam University Medical Centre, as a sub-analysis of the prospective UteroVue cohort study. For the UteroVue study, premenopausal participants with and without adenomyosis were recruited via the benign gynaecology outpatient clinic and through flyering, and underwent transvaginal ultrasound. The percentage of myometrium affected by Morphological Uterus Sonographic Assessment features of adenomyosis was estimated. For this sub-analysis, cumulative menstrual exposure was derived from menstrual history questionnaires, accounting for pregnancy, lactation, and hormonal menstruation suppression. The association between cumulative menstruations and disease severity was assessed using multivariable regression analyses with collinearity evaluation. We included 119 participants in the final analysis. The median age of the study population was 27 years, of whom 79% were nulliparous and 14% had a history of uterine surgery. Previous hormonal menstruation suppression with the oral contraceptive pill was reported by 87% of participants, with a median duration of use of 7 years. In addition, 32% had previously used a hormonal intrauterine device, with a median duration of use of 3 years. Age was excluded from multivariable analyses due to collinearity (r\u202f=\u202f0.72). After adjustment for vaginal births and uterine surgeries, cumulative menstrual exposure was associated with severity of adenomyosis (\u03b2=0.003; 95% CI 1.001-1.006; p\u202f<\u202f0.05). Higher cumulative menstrual exposure was associated with increased severity of adenomyosis, supporting the TIAR hypothesis. Given the retrospective study design and collinearity with age, results should be interpreted with caution.",
+  "doi": "10.1016/j.eurox.2026.100472",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42396364/",
+  "matched": [
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42359984",
+  "title": "A Novel Strategy Using Dental Pulp Stem Cells and Jiarong Tablets to Treat Intrauterine Adhesions in Rats.",
+  "journal": "J Obstet Gynaecol Res",
+  "year": "2026",
+  "authors": [
+   "Huang YH",
+   "Ding X",
+   "Liang YT",
+   "Wang Y",
+   "et al."
+  ],
+  "abstract": "To evaluate the efficacy and underlying mechanisms of dental pulp stem cells (DPSCs), alone or with Jiarong Tablets, for the treatment of intrauterine adhesions (IUAs) in rats. IUAs were induced in Sprague Dawley (SD) rats. The rats were randomly assigned to the following groups (n\u2009=\u200918/group): Sham, IUA, IUA\u2009+\u2009Estrogen, IUA\u2009+\u2009low-/medium-/high-dose DPSC (5\u2009\u00d7\u2009105, 1\u2009\u00d7\u2009106 and 2\u2009\u00d7\u2009106 cells), IUA\u2009+\u2009DPSC\u2009+\u2009Estrogen (1\u2009\u00d7\u2009106 DPSCs\u2009+\u2009estradiol (E2)), and IUA\u2009+\u2009DPSC\u2009+\u2009Jiarong Tablets (1\u2009\u00d7\u2009106 DPSCs +40\u2009mg/mL Jiarong Tablet administered by gavage). At 28\u2009days post-establishment, the rats were sacrificed (n\u2009=\u200912/group) and assessed for endometrial morphology, gland count, fibrosis, serum E2 levels, and PKH26-labeled DPSC tracking, and protein and mRNA analyses of connective tissue growth factor (CTGF), estrogen receptor alpha 1 (ESR1), transforming growth factor beta 1 (TGF-\u03b21), and vascular endothelial growth factor (VEGF) were conducted. Fertility was evaluated on gestational Day 14 after mating (n\u2009=\u20096/group). Compared with the rats in the sham group, the rats in the IUA group exhibited uterine occlusion, a reduced number of endometrial glands, increased fibrosis, decreased serum E2 levels (p\u2009<\u20090.01), and more irregularly shaped glands (p\u2009<\u20090.05). Treatment with DPSCs (all doses) and combination therapies significantly improved uterine morphology and reduced fibrosis and E2 levels (p\u2009<\u20090.05). Treatment with low- and medium-dose DPSCs increased gland count (p\u2009<\u20090.05), whereas treatment with DPSCs\u2009+\u2009Jiarong Tablet reduced the number of irregularly shaped glands (p\u2009<\u20090.01). The fluorescence intensity of DPSCs was dose-dependent in uterine and ovarian tissues (p\u2009<\u20090.05). The occurrence of IUAs significantly increased the expressions of CTGF, TGF-\u03b21, and VEGF, which were reversed following treatment (p\u2009<\u20090.05). ESR1 expression was significantly increased after treatment with DPSC and Jiarong Tablet (p\u2009<\u20090.05). Fertility outcomes improved significantly in all treatment groups. DPSCs were used to effectively treat IUAs, with 1\u2009\u00d7\u2009106 cells being identified as the optimal dose. Combining DPSCs with Jiarong Tablets further enhanced the therapeutic outcomes by modulating the levels of fibrosis-related factors (CTGF, TGF-\u03b21) and angiogenesis factor (VEGF) and estrogen response (ESR1).",
+  "doi": "10.1111/jog.70389",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42359984/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42390497",
+  "title": "Association of menopausal status and genetic polymorphisms with early crestal bone loss around dental implants: A prospective observational study.",
+  "journal": "J Indian Prosthodont Soc",
+  "year": "2026",
+  "authors": [
+   "Agrawal KK",
+   "Goel P",
+   "Bakrolwala H"
+  ],
+  "abstract": "Menopause associated estrogen deficiency affects bone metabolism and may increase peri implant bone resorption. Genetic polymorphisms in inflammatory and bone related genes may further influence implant outcomes. This study evaluated the association between gene polymorphisms and peri implant early crestal bone loss (ECBL) in premenopausal and postmenopausal females. This was a prospective observational clinical study conducted at a tertiary care government institution. The study included 146 female patients (73 premenopausal and 73 postmenopausal), each receiving a single mandibular posterior dental implant. Menopausal status was confirmed using medical history and serum estradiol quantification. A standardized two stage protocol was followed for implant placement. Cone beam computed tomography based measurements of ECBL were performed at baseline and 6 months. Genotyping of interleukin 1 alpha (IL1A 889), interleukin 1 beta (IL1B 3954) and IL1B 511, IL6 572, collagen type I alpha 1 (COL1A1), and bone gamma carboxyglutamate protein (BGP) (osteocalcin) polymorphisms was performed using real time PCR. Data were analyzed using IBM SPSS Statistics software (version 26.0). Chi-square test, unpaired t-test, Mann-Whitney U test, and univariate binary logistic regression analysis were applied. Final analysis included 141 women (69 premenopausal and 72 postmenopausal). Postmenopausal females had significantly higher body mass index and lower bone mineral density ( P < 0.05). Mean ECBL was significantly greater in postmenopausal females (1.20 \u00b1 0.78 mm) than in premenopausal females (0.65 \u00b1 0.51 mm; P < 0.001), with critical ECBL (>0.5 mm) observed in 84.7% and 44.9% of participants, respectively. No genetic associations were identified in premenopausal females. In postmenopausal females, IL1A 889 AG (odds ratio (OR) = 7.75; P = 0.044) and IL6 572 CC genotypes (OR = 8.96; P = 0.045) were significantly associated with critical ECBL. Postmenopausal females exhibited significantly greater ECBL around dental implants, and IL1A 889 and IL6 572 polymorphisms showed a significant association with increased ECBL. These findings highlighted the influence of IL1A 889 and IL6 572 gene polymorphisms on early peri implant bone remodeling in postmenopausal females.",
+  "doi": "10.4103/jips.jips_588_25",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42390497/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42395934",
+  "title": "Cardiac arrest due to ST-elevation myocardial infarction in young woman with antiphospholipid syndrome on combined oral contraceptives.",
+  "journal": "J Cardiol Cases",
+  "year": "2026",
+  "authors": [
+   "Koike T",
+   "Yaginuma K",
+   "Isoda K"
+  ],
+  "abstract": "A 35-year-old woman taking a low-dose combined oral contraceptive (COC) for uterine fibroids presented by ambulance to a referring hospital with nausea. During the initial evaluation, she suddenly became unresponsive and developed cardiac arrest, prompting immediate cardiopulmonary resuscitation. Electrocardiography (ECG) documented ventricular fibrillation (VF), and external defibrillation restored spontaneous circulation. After return of spontaneous circulation, ECG showed ST-segment elevation in leads II, III, and aVF. She was transferred to our hospital. Emergency coronary angiography demonstrated 90% stenosis of the proximal right coronary artery (RCA) and total occlusion of the mid RCA. During percutaneous coronary intervention, VF storm occurred, necessitating initiation of veno-arterial extracorporeal membrane oxygenation. Intravascular ultrasound (IVUS) revealed a plaque-containing culprit lesion, and drug-coated balloon angioplasty was performed. Subsequent thrombophilia testing disclosed anti-\u03b22-glycoprotein I IgG positivity, establishing antiphospholipid syndrome (APS). Notably, despite the absence of conventional risk factors (e.g. dyslipidemia, diabetes), IVUS demonstrated an atherosclerotic-appearing lesion in the prothrombotic milieu of COC use and APS. In young women, it is important to consider non-atherosclerotic causes such as antiphospholipid syndrome (APS) and combined oral contraceptive use as differential diagnoses for acute coronary syndrome. Although embolic mechanisms are often implicated in such settings, the present case demonstrated an atherosclerotic-appearing lesion on intravascular ultrasound despite the absence of conventional coronary risk factors, suggesting the possibility of APS-related vascular injury contributing to plaque formation.",
+  "doi": "10.1016/j.jccase.2026.04.004",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42395934/",
+  "matched": [
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42472892",
+  "title": "Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.",
+  "journal": "Sci Rep",
+  "year": "2026",
+  "authors": [
+   "ElSherbini AI",
+   "Sameh A",
+   "Ali S",
+   "Khalil AT"
+  ],
+  "abstract": "This paper presents the design methodology, kinematic analysis, finite element structural validation, and closed-loop computational simulation of a novel 3-degree-of-freedom (3-DOF) ankle-foot rehabilitation exoskeleton. The proposed exoskeleton addresses the simultaneous rehabilitation of dorsiflexion/plantarflexion (DF/PF), abduction/adduction (AB/AD), and inversion/eversion (INV/EV) in a seated configuration suited to patients with weight-bearing restrictions. Three NEMA 23 stepper motors independently actuate each axis through custom two-stage spur gear transmissions, achieving positive torque margins of +\u20096%, +\u200935%, and +\u200925% and sub-degree angular resolution. Full kinematic decoupling between all three axes is established through two independent architectural strategies. A finite element analysis (FEA) conducted on all four critical Al 6061-T6 structural components confirms safety factors between 2.82 and 4.87 under worst-case loading. A closed-loop PID control framework with adaptive range-of-motion (ROM) regulation, simulated in MATLAB/SIMULINK, demonstrates tracking performance characterised by maximum overshoots of 0.02\u00b0-0.12\u00b0, settling times of 3.7-7.8\u00a0s, and steady-state errors below \u00b1\u20090.04\u00b0 across all nine simulation scenarios. The results confirm the mechanical feasibility, structural integrity, and control effectiveness of the proposed exoskeleton as a viable platform for multi-DOF seated ankle rehabilitation.",
+  "doi": "10.1038/s41598-026-61133-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42472892/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   },
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42338453",
+  "title": "Effect of hypoestrogenism on the alveolar bone and periodontal ligament.",
+  "journal": "J Indian Soc Periodontol",
+  "year": "2026",
+  "authors": [
+   "De La Cruz-Rodriguez R",
+   "Mallma-Medina AS",
+   "Franco-Quino C",
+   "Nguyen H",
+   "et al."
+  ],
+  "abstract": "Previous studies have shown that ovariectomy can alter bone structure, especially in the maxilla, as well as the periodontal ligament at the molecular level, and lead to cementum accumulation in the apical region. The present study was conducted to elucidate the molecular mechanisms involved. For the experiment, 12 BALB/c mice were randomly assigned to two groups: a sham surgery group and an ovariectomy group. In the sham surgery group, the ovaries were exposed and then repositioned without removal, whereas in the ovariectomy group, the ovaries were surgically excised. Twelve weeks postsurgery, the mice were sacrificed by an overdose of general anesthesia. Subsequently, the mandibles and maxillae were dissected for histological analysis. Samples were examined under a Nikon\u00ae microscope using ToupView to measure the periodontal ligament (\u00d7100) and ImageJ software for cell counting (\u00d7400). The ovariectomy group exhibited an increase in osteoclastic cell number, particularly in the mesial alveolar crest and the interradicular bone of the maxillary and mandibular regions. In addition, within the same group, widening of the periodontal ligament fibers, dilation of blood vessels, structural alterations in the periodontal ligament, as well as cementum accumulation in the apical region, were observed. Estrogen deficiency increases the number of osteoclasts, alters their orientation, widens the periodontal ligament, and leads to the accumulation of apical cementum.",
+  "doi": "10.4103/jisp.jisp_118_25",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42338453/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42363416",
+  "title": "Ellagic Acid Attenuates Oxidative Stress and Improves Cardiovascular Function Following Myocardial Infarction in Ovariectomized Rats.",
+  "journal": "J Cell Mol Med",
+  "year": "2026",
+  "authors": [
+   "Gon\u00e7alves LL",
+   "Alves IV",
+   "Nicoli EF",
+   "Lima DSS",
+   "et al."
+  ],
+  "abstract": "Oestrogen deficiency increases oxidative stress and reduces nitric oxide (NO) bioavailability, contributing to cardiac fibrosis following myocardial infarction (MI). This study investigated whether ellagic acid (EA), a natural antioxidant, attenuates post-MI cardiac fibrosis in ovariectomized rats by reducing oxidative stress and pro-inflammatory mediators. MI was induced by coronary artery ligation, and EA (30\u2009mg/kg) was administered orally for 4\u2009weeks. Hemodynamic parameters, collagen deposition, infarct size, matrix metalloproteinase-8 (MMP-8), NO, superoxide anion and inflammatory cytokines were assessed. MI resulted in ventricular dysfunction, increased collagen deposition and elevated levels of MMP-8, interleukin-6 (IL-6) and superoxide anion. EA treatment improved hemodynamic function, reduced collagen deposition, decreased MMP-8, IL-6 and superoxide anion, and enhanced NO bioavailability. These findings demonstrate that EA mitigates cardiac fibrosis and ventricular dysfunction through antioxidant and anti-inflammatory mechanisms, highlighting its potential as a cardioprotective compound in post-MI conditions under oestrogen deficiency.",
+  "doi": "10.1111/jcmm.71262",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42363416/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42447936",
+  "title": "Histoprotective and antiproliferative effects of Raloxifene treatment during prostate carcinogenesis in rats.",
+  "journal": "Toxicol Appl Pharmacol",
+  "year": "2026",
+  "authors": [
+   "Pinho CF",
+   "Soares LBDS",
+   "Chamelete JLG",
+   "Salata GC",
+   "et al."
+  ],
+  "abstract": "The ability of prostate cancer to progress to castration-resistant disease underscores the importance of study on adjuvant therapies. Recent research suggests estrogen receptors as possible therapeutic targets in neoplasias and they can be modulated by drugs such as Raloxifene. In this context, this study aimed to evaluate the effects of Raloxifene therapy during prostatic carcinogenesis through exposure to the carcinogen N-methyl-N-nitrosourea (MNU). To this end, male Fisher 344 rats underwent a tumor induction protocol using MNU (15\u00a0mg/kg), followed or not by treatment with Raloxifene (10\u00a0mg/kg). Raloxifene mitigated the tissue alterations induced by the tumor induction protocol by attenuating cell proliferation and the development of lesions, and by limiting their progression to malignancy. Additionally, the periacinar smooth muscle layer and the stromal distribution of collagen fibers were preserved in Raloxifene group. These results pointed to a protective role of Raloxifene on the prostatic microenvironment, attenuating the structural and proliferative alterations that accumulate during the carcinogenic process.",
+  "doi": "10.1016/j.taap.2026.117947",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42447936/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42332940",
+  "title": "Hormonal Shifts and Structural Strain: A Literature Review of Menopause and Perimenopause in Relation to Overuse Injuries and Stress Fractures.",
+  "journal": "Ann Rehabil Med",
+  "year": "2026",
+  "authors": [
+   "Ansari M",
+   "Hussain F",
+   "Shopon M",
+   "Ajmal H",
+   "et al."
+  ],
+  "abstract": "Musculoskeletal injury risk in midlife women has traditionally been attributed to estrogen decline, but this narrow focus overlooks the broader biomechanical, neuromuscular, and structural changes associated with menopause. Estrogen plays a multisystem role in maintaining trabecular bone integrity, collagen turnover, and neuromuscular coordination. Its abrupt loss causes bone demineralization (2%-5% annually in early menopause), impairs tendon repair, and contributes to sarcopenia. Fluctuating estradiol levels during perimenopause may transiently increase ligament laxity, further destabilizing joints. Common injuries such as Achilles and rotator cuff tendinopathies, plantar fasciitis, and stress fractures are amplified by low bone mineral density, prior fracture history, aromatase inhibitor use, and rapid increases in physical activity. Although early initiation of hormone replacement therapy reduces fracture risk by 20%-40%, it is not appropriate for all patients due to contraindications and individualized risk-benefit profiles. Non-hormonal strategies-including resistance training, nutritional optimization, and early screening with dual-energy X-ray absorptiometry and peripheral quantitative computed tomography-remain underutilized, particularly among marginalized populations. This structured narrative review synthesizes evidence from endocrinology, biomechanics, and musculoskeletal epidemiology to evaluate limitations in current research, including reliance on observational data, homogeneous cohorts, and technocentric approaches with limited generalizability. Future efforts should prioritize personalized, hormone-informed exercise prescriptions, biomarker-guided monitoring, and community-based prevention strategies. The prevailing estrogen-centric paradigm may benefit from a broader multidisciplinary framework integrating biological, mechanical, and social determinants of injury risk. We propose a hormone-tissue-load mismatch model that reframes menopause as a modifiable biomechanical window for injury prevention.",
+  "doi": "10.5535/arm.250134",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42332940/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42324096",
+  "title": "Letrozole Alters Transcriptomic Profiles in Infrapatellar Fat Pad From Female Mice: Possible Involvement of Interleukins in Aromatase Inhibitor-Induced Arthralgias.",
+  "journal": "J Appl Toxicol",
+  "year": "2026",
+  "authors": [
+   "Mo S",
+   "Lin J",
+   "Cheng W",
+   "Lin Y",
+   "et al."
+  ],
+  "abstract": "Letrozole is an aromatase inhibitor (AIs) preventing estrogen synthesis from testosterone, and it induces many side effects, known as the aromatase inhibitor-associated musculoskeletal syndrome (AIMSS), including arthralgias. However, its toxicity to the musculoskeletal system in female mice remains largely unknown. In this study, the mice were injected with letrozole subcutaneously for 12\u2009weeks, and white cell count, pathological sectioning and RNA sequencing were used to investigate the effects of letrozole on the joint. Firstly, after the treatment of letrozole for 12\u2009weeks, the mice with letrozole tended to gain weight and the number of white blood cells, lymphocytes and mean corpuscular hemoglobin concentration increased significantly by 88.2%, 87.4%, and 3.0% (p\u2009<\u20090.01), respectively. The hematocrit and platelet distribution width decreased by 6.2% and 1.7% (p\u2009<\u20090.05), respectively. Secondly, histopathological data revealed that the cartilage structure remained intact in both the control and letrozole groups, with no obvious signs of cartilage degradation. However, fibrosis of the infrapatellar fat pad (IFP) had dramatically increased at 12\u2009weeks and the expression of ACAN and COL2A1 was significantly reduced, while ADAMTS5 and MMP13 were significantly increased. Thirdly, after the treatment of letrozole for 2\u2009weeks, the differentially expressed genes in IFP were associated with the neutrophil-mediated immunity and collagen degradation. Key inflammatory factors including IL-1\u03b2, IL-6, IL-1A, and IL-2 were identified as core targets. The effects of letrozole on transcriptomic profiles in IFP provided a new experimental basis for understanding the pathogenesis of AIMSS.",
+  "doi": "10.1002/jat.70294",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42324096/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42333999",
+  "title": "Oestrogen receptor phosphorylation profiles and in silico PAM50 subtyping reflect sexual dimorphism in breast cancer.",
+  "journal": "J Pathol Clin Res",
+  "year": "2026",
+  "authors": [
+   "Chatterji S",
+   "Diack A",
+   "Szostok M",
+   "Morgan MD",
+   "et al."
+  ],
+  "abstract": "Breast cancer (BC) is most prevalent in females but also accounts for <1% of male cancer cases and 0.2% of male cancer-related deaths. Distribution of histological subtypes, receptor status, and age of diagnosis varies based on sex, and a growing body of evidence supports sex-specific molecular differences in BC. However, this is limited by the smaller number of male cases available for study compared to the thousands of cases of female BC. We combined publicly available male BC gene expression datasets for 195 patients from 4 studies and split randomly into discovery and validation sets. Clustering and gene expression analysis were performed. Two stable clusters were identified initially, confirmed in the validation set. Cluster C1 was enriched for genes associated with MAPK signalling and arylesterase activity. Cluster C2 showed enrichment of genes associated with proliferation, invasion, and metastasis, along with enrichment of gene ontology and pathway terms related to ECM regulation, particularly collagen-containing ECM. Of note, when stratified by ER\u03b1 and PR status, no enrichment was observed with the predicted PAM50 classification. ER\u03b1 and MAPK signalling were enriched in both clusters, albeit through different gene sets. Since these pathways were enriched, we investigated the signalling regulation of ER\u03b1 based on immunohistochemical expression of phosphorylated ER\u03b1 (S104, S118, S167, S294) and their prognostic roles. This analysis also revealed distinctions from female BC, showing a lack of prognostic outcome for any of these biomarkers. We show that male BC does not align with female BC in the same way that intrinsic subtypes of female BC are not identical. As BC heterogeneity is well recognised, we propose that male BC should be considered as a potentially unique clinical subtype of BC.",
+  "doi": "10.1002/2056-4538.70101",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42333999/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42388542",
+  "title": "Oral Contraceptive Use Associated With Lower Rates of Knee Instability After Anterior Cruciate Ligament (ACL) Reconstruction.",
+  "journal": "Cureus",
+  "year": "2026",
+  "authors": [
+   "Mahatme RJ",
+   "Moore SA",
+   "Gangavaram A",
+   "Muthusamy N",
+   "et al."
+  ],
+  "abstract": "Background Sex hormones influence connective tissue biology and pain processing, but the relationship between oral contraceptive pill (OCP) use and postoperative outcomes after anterior cruciate ligament reconstruction (ACLR) remains unclear. The purpose of this study was to evaluate whether perioperative OCP use is associated with postoperative knee instability and other clinical outcomes after ACLR. Methods Using a multicenter database, TriNetX, females aged 14-40 years undergoing arthroscopic ACLR were grouped as OCP users (prescriptions within six months before and within two years after surgery) or non-users (no OCP prescriptions from one year before to two years after surgery). Propensity score matching (1:1) based on demographics and comorbidities yielded 815 patients per cohort. Primary outcomes were two-year reoperation, chronic knee instability diagnosis, and chronic knee pain diagnosis. Secondary outcomes included 30-day surgical site infection (SSI), 90-day deep or organ infection, six-month arthrofibrosis/manipulation under anesthesia (MUA), and postoperative opioid use (early, 1-30 days; prolonged, 30-90 days; chronic, 90-180 days). Risk ratios (RRs) with 95% confidence intervals (CIs) were calculated. Results OCP use was associated with significantly lower rates of two-year chronic knee instability (RR, 0.316; 95% CI, 0.166-0.600; p < 0.001) and early postoperative opioid use (RR, 0.363; 95% CI, 0.281-0.468; p < 0.001). Rates were similar between groups for six-month arthrofibrosis/MUA (RR, 0.750; 95% CI, 0.357-1.575; p = 0.446), two-year reoperation (RR, 1.057; 95% CI, 0.735-1.519; p = 0.766), two-year chronic knee pain (RR, 0.976; 95% CI, 0.877-1.086; p = 0.654), 30-day SSI (rare), and 90-day deep or organ infection (none; p = 1.000). Conclusion In a large propensity-matched cohort of female patients undergoing ACLR, perioperative OCP use was associated with markedly lower rates of two-year knee instability and reduced early opioid use, whereas other complications and reoperation rates did not differ, highlighting hormonal status as a potentially modifiable factor in postoperative recovery.",
+  "doi": "10.7759/cureus.110003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42388542/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42404340",
+  "title": "Prevalence, patterns and motives for hormonal contraceptive use among German servicewomen: results from a nationwide survey.",
+  "journal": "Front Endocrinol (Lausanne)",
+  "year": "2026",
+  "authors": [
+   "Schlie J",
+   "Schink\u00f6the T",
+   "Schmidt A"
+  ],
+  "abstract": "Hormonal contraceptive (HC) use is common among servicewomen and has been discussed in relation to health, performance, and operational readiness. No systematic data exist on HC prevalence among German servicewomen. This study analyzes contraceptive practices and motivations for contraceptive choice in German servicewomen. A nationwide, cross-sectional online survey was conducted among female members of the German Armed Forces. Recruitment occurred via military institutions and a digital flyer. The anonymous questionnaire (40 items, 10-15 min) assessed demographic characteristics and contraceptive use. Data were cleaned and analyzed using R. Inferential analyses comprised pairwise adjacent comparisons using Fisher's exact test with Holm correction. A total of 2818 servicewomen completed the survey (response rate 11.2%; mean age 33.9 years). Overall, 38.1% reported current HC use. Combined oral contraceptive pills (COCP) were the most common method (18.5%), followed by hormonal intrauterine devices (8.9%) and progestin-only pills (8.4%). HC use declined with increasing age, primarily due to decreasing pill use, although 8% of women \u226540 years still reported COCP use. Systemic long-acting reversible contraceptives (LARC) (implants and injections) were virtually absent. Contraceptive use differed significantly across age- and length-of-service categories, but not BMI categories. Pregnancy prevention was the primary reason for HC use (82%), followed by management of menstrual pain and bleeding. A small proportion reported HC use for performance-related cycle control (13%) or masking of amenorrhea (2%). Deployment-related switching to HC was uncommon. HC use among German servicewomen appears low compared with reports from British and U.S. militaries. Given evidence linking certain systemic LARC formulations to potential effects on bone metabolism, the low prevalence warrants further investigation in the context on musculoskeletal health and injury risk in a population exposed to high mechanical loading. Preventive efforts in the German military should consider a broader range of modifiable risk factors, including nutrition and training load. The findings may indicate potential gaps in military-specific education and counseling regarding informed contraceptive choice, occupational implications of different methods, and age-related hormonal management. The response rate and the limited scope of certain questionnaire items should be considered when interpreting the results.",
+  "doi": "10.3389/fendo.2026.1844924",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42404340/",
+  "matched": [
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42322082",
+  "title": "Reduced Cerebral Blood Flow in the Early Chronic Phase of Recurrent Concussion Among Female Collegiate-Aged Athletes.",
+  "journal": "Hum Brain Mapp",
+  "year": "2026",
+  "authors": [
+   "Andersson MJ",
+   "Goeckner BD",
+   "Espa\u00f1a LY",
+   "Mayer AR",
+   "et al."
+  ],
+  "abstract": "The susceptibility of athletes to long-term adverse outcomes following recurrent concussion remains controversial. Acute concussion precipitates a transient reduction in cerebral blood flow (CBF) that typically returns to pre-injury levels. Recent work suggests that long-term CBF alterations may be sex-specific. We assessed whether concussion history was associated with chronic CBF alterations and whether sex moderated this relationship in otherwise healthy, active collegiate-aged athletes. Collegiate-aged athletes from the community (N\u2009=\u2009204, 37.8% female, Mage\u2009=\u200921.0\u2009\u00b1\u20091.7) underwent magnetic resonance imaging with pseudo-continuous arterial spin labeling to quantify global and regional CBF and spatial coefficient of variation. Participants also completed measures of depression, anxiety, and cognition. Multiple linear regressions incorporating prior concussion-by-sex interaction terms adjusted for relevant covariates were fit to estimate the extent to which sex moderated the concussion history-CBF relationship. Exploratory analyses further assessed whether oral contraceptive use or pill formulation moderated this association in females. The number of prior concussions was negatively associated with global and regional gray-matter CBF in female but not male athletes, with the strongest associations localizing to frontotemporal regions. CBF metrics were not related to cognitive performance or affective symptom burden. Contraceptive use did not appear to substantially moderate the concussion history-CBF association in female athletes. Female-specific associations between concussion history and cerebral hypoperfusion in early adulthood suggest potential sex differences in pathways and trajectories of adverse long-term outcomes. Early chronic CBF alterations may represent one vulnerability to future risk in a sex-specific manner.",
+  "doi": "10.1002/hbm.70584",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42322082/",
+  "matched": [
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42393427",
+  "title": "Sex Hormones & Exercise in the Musculoskeletal System: From Signaling to Structure and Function.",
+  "journal": "Endocr Rev",
+  "year": "2026",
+  "authors": [
+   "Colicchio CJ",
+   "Hernandez PA",
+   "Robinson JL",
+   "Connizzo BK"
+  ],
+  "abstract": "Sex steroid hormones, such as estrogen, progesterone, and testosterone, are primarily known as critical regulators of reproductive function in both males and females. However, increasing evidence indicates that fluctuating levels of sex hormones also affect non-reproductive organs, including tissues in the musculoskeletal system. Observations from muscle and bone literature support a model in which hormonal state modulates exercise-induced mechanotransduction and downstream extracellular matrix (ECM) remodeling. However, soft connective tissues - cartilage, meniscus, tendon, ligament, intervertebral disc - are often overlooked, despite being the primary sites of career-ending sports injuries and chronic degeneration. This review focuses on these tissues, aiming to examine how sex hormones and other sex-specific molecules critically regulate the process of exercise adaptation at the tissue level. We first outline sex steroid biosynthesis, bioavailability, and receptor mechanisms and then examine how steroids intersect with mechanosensing and mechanotransduction. Looking further downstream, we then assess how hormonal state regulates ECM turnover and functional adaptations. We propose novel connections and mechanisms by which sex hormones and other sex-specific molecules determine load-induced responses via specific mechanotransduction pathways and through ECM remodeling. We conclude by outlining open questions and experimental needs that would aid in establishing causal relationships between sex hormones and exercise responses in soft musculoskeletal tissues.",
+  "doi": "10.1210/endrev/bnag018",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42393427/",
+  "matched": [
+   {
+    "id": "menstrual-cycle-injury",
+    "label": "Menstrual cycle / hormonal phase & injury risk",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42419547",
+  "title": "Tissue-specific differences in ECM organization and collagen extractability under estrogen deficiency: A comparative study of skin and tendon.",
+  "journal": "Int J Biol Macromol",
+  "year": "2026",
+  "authors": [
+   "R\u00fdglov\u00e1 \u0160",
+   "Such\u00fd T",
+   "H\u0159\u00edbal M",
+   "Braun M",
+   "et al."
+  ],
+  "abstract": "Estrogen deficiency is known to affect connective tissues, yet its impact on collagen organization beyond bone remains insufficiently understood. In this study, we investigated tissue-specific alterations in type I collagen in rat skin and tendon following ovariectomy, with and without alendronate treatment. Native tissues were analyzed in parallel with corresponding crude collagen isolates to distinguish between collagen-related properties and extracellular matrix (ECM)-level contributions. Estrogen deficiency was associated with tissue-dependent changes, with skin exhibiting increased collagen content together with higher acid extractability, while tendon remained comparatively stable. These findings suggest that collagen extractability is influenced not only by collagen abundance but also by ECM-related factors, including matrix composition and organization. Differences between native tissues and isolates are further consistent with selective extraction effects that may be related to fibrillar organization and matrix interactions. Changes in lipid distribution and glycosaminoglycan content were consistent with tissue-specific matrix remodeling. FTIR analysis of amide I band ratios indicated differences consistent with changes in FTIR-detectable molecular organization; however, these observations should be interpreted as indirect indicators due to potential contributions from non-collagenous components and extraction-related effects. Alendronate treatment was associated with condition-dependent changes primarily at the ECM level, affecting collagen extractability and matrix composition without clear evidence of direct modification of collagen secondary structure. Overall, the results suggest that estrogen deficiency is associated with tissue-specific differences in collagen behavior and extractability, likely reflecting combined effects of ECM composition, organization, and extraction selectivity.",
+  "doi": "10.1016/j.ijbiomac.2026.153401",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42419547/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42389884",
+  "title": "Uncovering a hidden modulator for women in sports: An exploratory study of menstrual pain and brain connectivity.",
+  "journal": "Womens Health (Lond)",
+  "year": "2026",
+  "authors": [
+   "Pohle C",
+   "B\u00fcchel D",
+   "Sandbakk SB",
+   "Sandbakk \u00d8",
+   "et al."
+  ],
+  "abstract": "BackgroundThe menstrual cycle (MC), the use of combined oral contraceptives (COCs), and the presence of menstrual pain have long been overlooked factors in female athletes' health. The influence of hormonal fluctuations and pain may not only alter perceived performance and trainability but could also induce changes in brain network connectivity.ObjectivesThis study aimed to investigate whether resting-state functional connectivity (rsFC) differs between phases across the MC and COC cycle, as well as between naturally cycling (NC) subjects and COC users. A secondary goal was to explore associations between menstrual pain as a covariate and rsFC.DesignObservational, longitudinal study.MethodsNC women (n = 24) and COC users (n = 17) underwent a resting-state EEG recording during the early follicular phase (EFP) and pre-ovulatory phase (POV), and the active pill phase (pill phase) and inactive phase (pause), respectively. Mean characteristic path length (mCPL), clustering coefficient (CC), and mean debiased weighted phase lag index (mdWPLI) were computed for 37 participants (NC = 21; COC = 16). Phase and group differences were examined using mixed MANOVA, while mixed MANCOVA assessed the influence of menstrual pain as a covariate.ResultsNo significant differences between MC or COC phases, as well as between groups, were found. Including menstrual pain as a covariate revealed significant phase*pain interactions for mCPL and CC, as well as significant group*pain interactions in mdWPLI. Post-hoc tests revealed a significant increase in mCPL from the pause to the pill phase.ConclusionThe preliminary findings suggest that menstrual pain may influence baseline brain network states, which may have potential implications for performance and injury risk in female athletes. Therefore, considering menstrual pain is crucial in both research and applied sports contexts.",
+  "doi": "10.1177/17455057261456871",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42389884/",
+  "matched": [
+   {
+    "id": "menstrual-cycle-injury",
+    "label": "Menstrual cycle / hormonal phase & injury risk",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & musculoskeletal injury",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ },
+ {
+  "pmid": "42351303",
+  "title": "Why males scar more: hormonal and chromosomal clues to idiopathic pulmonary fibrosis.",
+  "journal": "Biol Sex Differ",
+  "year": "2026",
+  "authors": [
+   "J Elliot S",
+   "Clark K",
+   "Civettini G",
+   "Roos B",
+   "et al."
+  ],
+  "abstract": "There is a gap in understanding the predominance of males with idiopathic pulmonary fibrosis (IPF). While gonadal hormones contribute to fibrosis susceptibility, evidence suggests a role for sex chromosomes. We used The Four Core Genotypes (FCG) mouse model, which uncouples gonadal sex from sex chromosomes, in aged mice before and after bleomycin (BLM)-induced lung injury. Fibrosis severity was assessed by histology, collagen content, and profibrotic gene expression, along with analysis of estrogen receptor (ER)\u03b1 and ER\u03b2 signaling, matrix metalloproteinase activity, insulin-like growth factor-1 (IGF-1), and microRNAs. Data were analyzed using two-way ANOVA to test effects of gonadal sex, sex chromosome complement, and their interaction; gonadectomy experiments used three-way ANOVA including gonadal status. BLM-induced lung injury resulted in the greatest fibrosis in XY mice with ovaries, which was associated with elevated ER\u03b1 expression and increased ER\u03b1:ER\u03b2 ratio. In contrast, ER\u03b2 expression was highest in XX mice with testes and associated with attenuated fibrosis. Multiple fibrotic pathways were regulated by gonadal sex, sex chromosome complement, or their interaction. Gonadectomy revealed organizational and activational effects of sex hormones and uncovers interactions between gonadal sex, sex chromosomes, and hormone status. Sex chromosome-dependent regulation of let-7d and miR-29a linked chromosomal dosage to ER\u03b1-IGF-1 mediated remodeling. These findings identify hormonal and chromosomal mechanisms contributing to sex bias in pulmonary fibrosis and suggest sex-informed therapeutic targets for IPF.",
+  "doi": "10.1186/s13293-026-00942-5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42351303/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective-tissue biomarkers",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-20T05:05:10Z"
+ }
+]
