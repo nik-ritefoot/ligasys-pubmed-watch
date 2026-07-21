@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-07-20T15:31:55Z</updated>
+  <updated>2026-07-21T15:24:35Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Effect of external trunk perturbations on the biomechanics of plant leg during instep kick.</title>
+    <id>urn:pmid:42474076</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42474076/" rel="alternate"/>
+    <updated>2026-07-21T15:24:35Z</updated>
+    <published>2026-07-21T15:24:35Z</published>
+    <author><name>Wang J</name></author><author><name>Zhan Y</name></author><author><name>Fang J</name></author><author><name>Wang Y</name></author><author><name>et al.</name></author>
+    <category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Wang J, Zhan Y, Fang J, Wang Y, et al. · Ann Med · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This study aimed to investigate the biomechanical effect of external trunk perturbations on the plant leg during a football instep kick. Fifteen healthy male national level division-II football athletes were recruited as participants. A Vicon three-dimensional motion capture system synchronized with Kistler force plates was utilized to collect kinematic and kinetic data during standardized instep kicking. Joint angles, moments, and stiffness of the plant leg under four perturbation conditions. Two-way repeated measures ANOVA were employed for statistical analysis. Significant main effects of perturbation anticipation and direction on the biomechanical variables of the plant leg were found. UN perturbation increased hip flexion-extension (F = 21.94, p &amp;lt; 0.01) and abduction-adduction (F = 30.64, p &amp;lt; 0.01) and knee abduction-adduction (F = 20.13, p &amp;lt; 0.01) range of motion. Reduced knee extension angles, increased ankle inversion angles, and abnormal changes in knee flexion-extension moments and ankle plantarflexion moments were observed, indicating compromised joint stability. Regarding directional effects, contralateral perturbations (right side) produced more pronounced alterations with increased hip adduction angles (F = 20.75, p &amp;lt; 0.01) and moments, higher peak knee adduction angles (F = 8.8, p = 0.01), and enhanced ankle inversion-eversion stiffness (F = 9.11, p &amp;lt; 0.01). As the key findings suggested, the dynamic stability under UN perturbation should be enhanced to improve the resistance of perturbations and movement control, thereby providing reference for injury prevention and training optimization.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1080/07853890.2026.2702690&quot;&gt;10.1080/07853890.2026.2702690&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42474076/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.</title>
     <id>urn:pmid:42472892</id>
