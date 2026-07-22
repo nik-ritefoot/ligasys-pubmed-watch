@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42479507",
+  "title": "Intra-Foot Energy Recycling Enhances Gait Economy in a Low-Profile Passive Foot Exoskeleton.",
+  "journal": "IEEE Trans Neural Syst Rehabil Eng",
+  "year": "2026",
+  "authors": [
+   "Lyu Y",
+   "Wei J",
+   "Tang P",
+   "Guo J",
+   "et al."
+  ],
+  "abstract": "The human foot possesses passive elastic mechanisms that recycle energy during gait, yet these mechanisms are largely neglected in walking assistance exoskeletons, which predominantly focus on the ankle joint leaving the foot's distal energy modulation capacity unaddressed. In this study, we developed a low-profile passive foot exoskeleton that improves gait economy through intra-foot energy recycling. The exoskeleton stores energy at heel strike using a torsion spring embedded beneath the hindfoot and releases it at push-off via a mechanically gated clutch, producing an assistive moment at the metatarsophalangeal (MTP) joint aligned with biological propulsion. We evaluated the system in walking experiments with fifteen healthy male participants. Compared to mass-matched shoes, the exoskeleton reduced net metabolic cost by 3.31% (p = 0.001), reflecting decreased whole-body and local muscular demand. Electromyographic analysis showed a reduction in late-stance plantarflexor activity. Biomechanical data further demonstrated temporally consistent assistance and effective intra-foot energy redirection across walking speeds. These results demonstrate that MTP-targeted assistance, implemented entirely below the ankle, can contribute to offloading plantarflexor workload and enhancing gait economy. The proposed system establishes a new passive exoskeleton paradigm centered on intra-foot energy recycling, offering a compact, standalone solution for unobtrusive and metabolically efficient walking assistance.",
+  "doi": "10.1109/TNSRE.2026.3715671",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42479507/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-22T15:22:19Z"
+ },
+ {
   "pmid": "42474076",
   "title": "Effect of external trunk perturbations on the biomechanics of plant leg during instep kick.",
   "journal": "Ann Med",

@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-07-21T15:24:35Z</updated>
+  <updated>2026-07-22T15:22:19Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Intra-Foot Energy Recycling Enhances Gait Economy in a Low-Profile Passive Foot Exoskeleton.</title>
+    <id>urn:pmid:42479507</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42479507/" rel="alternate"/>
+    <updated>2026-07-22T15:22:19Z</updated>
+    <published>2026-07-22T15:22:19Z</published>
+    <author><name>Lyu Y</name></author><author><name>Wei J</name></author><author><name>Tang P</name></author><author><name>Guo J</name></author><author><name>et al.</name></author>
+    <category term="actuation-assistive" label="Ankle actuation / assistive devices"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Lyu Y, Wei J, Tang P, Guo J, et al. · IEEE Trans Neural Syst Rehabil Eng · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The human foot possesses passive elastic mechanisms that recycle energy during gait, yet these mechanisms are largely neglected in walking assistance exoskeletons, which predominantly focus on the ankle joint leaving the foot&amp;#x27;s distal energy modulation capacity unaddressed. In this study, we developed a low-profile passive foot exoskeleton that improves gait economy through intra-foot energy recycling. The exoskeleton stores energy at heel strike using a torsion spring embedded beneath the hindfoot and releases it at push-off via a mechanically gated clutch, producing an assistive moment at the metatarsophalangeal (MTP) joint aligned with biological propulsion. We evaluated the system in walking experiments with fifteen healthy male participants. Compared to mass-matched shoes, the exoskeleton reduced net metabolic cost by 3.31% (p = 0.001), reflecting decreased whole-body and local muscular demand. Electromyographic analysis showed a reduction in late-stance plantarflexor activity. Biomechanical data further demonstrated temporally consistent assistance and effective intra-foot energy redirection across walking speeds. These results demonstrate that MTP-targeted assistance, implemented entirely below the ankle, can contribute to offloading plantarflexor workload and enhancing gait economy. The proposed system establishes a new passive exoskeleton paradigm centered on intra-foot energy recycling, offering a compact, standalone solution for unobtrusive and metabolically efficient walking assistance.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1109/TNSRE.2026.3715671&quot;&gt;10.1109/TNSRE.2026.3715671&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42479507/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Provider-Cleared Return-to-Sport After Freiberg Infraction in Adolescent Athletes.</title>
     <id>urn:pmid:42474446</id>
