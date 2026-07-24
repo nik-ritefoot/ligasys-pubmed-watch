@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-07-23T15:35:08Z</updated>
+  <updated>2026-07-24T15:15:37Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.</title>
+    <id>urn:pmid:42493723</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42493723/" rel="alternate"/>
+    <updated>2026-07-24T15:15:37Z</updated>
+    <published>2026-07-24T15:15:37Z</published>
+    <author><name>Ikuta Y</name></author><author><name>Yamakawa R</name></author><author><name>Toriyama M</name></author><author><name>Ito H</name></author><author><name>et al.</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Ikuta Y, Yamakawa R, Toriyama M, Ito H, et al. · Lasers Med Sci · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3 ± 3.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group × CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group × CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1007/s10103-026-04966-6&quot;&gt;10.1007/s10103-026-04966-6&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42493723/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Comparative Effects of Platelet-Rich Plasma, Exercise Therapy, and Myofascial Superficial Back Line Manual Therapy on Balance, Posture, and Function in Chronic Ankle Instability: A Three Arm Randomized Controlled Trial.</title>
     <id>urn:pmid:42486293</id>

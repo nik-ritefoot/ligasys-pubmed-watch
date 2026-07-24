@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-23T15:35:08+00:00",
+ "generated": "2026-07-24T15:15:37+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,55 +65,31 @@
   }
  ],
  "counts": {
-  "total": 86,
-  "new": 9,
+  "total": 87,
+  "new": 3,
   "research": 34,
-  "fieldnotes": 52
+  "fieldnotes": 53
  },
  "records": [
   {
-   "pmid": "42482068",
-   "title": "Biomechanical effects of powered knee orthoses and articulated ankle-foot orthoses in people with diparetic cerebral palsy: a pilot study.",
-   "journal": "J Neuroeng Rehabil",
+   "pmid": "42493723",
+   "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
+   "journal": "Lasers Med Sci",
    "year": "2026",
    "authors": [
-    "Finnegan S",
-    "Juco M",
-    "Manocha RHK",
-    "Rogers-Bradley E"
+    "Ikuta Y",
+    "Yamakawa R",
+    "Toriyama M",
+    "Ito H",
+    "et al."
    ],
-   "abstract": "Diparetic cerebral palsy affects approximately 2 in 1000 people, and can result in gait impairments such as excessive knee flexion and excessive ankle dorsiflexion during the stance phase in gait. Short-term clinical trials using robotic rehabilitation devices have shown gait improvements comparable to invasive multilevel surgery for spastic cerebral palsy. This study aimed to determine if the stiffness of articulated forms of ankle-foot orthoses influences the effectiveness of a powered knee-ankle-foot orthosis on crouch gait reduction. It was hypothesized that AFO stiffness would be an important factor influencing crouch gait in individuals with diparetic cerebral palsy when walking with a powered KAFO. A pilot study with three participants with diparetic cerebral palsy causing crouch gait was conducted to evaluate the effects of varying ankle stiffness of ankle-foot orthoses on sagittal plane kinematics and kinetics while walking with a powered-knee knee-ankle-foot orthosis. Experimental ankle foot orthoses were made to enable adjustable joint stiffness during the experiment. Optical motion capture and in-ground force plates were used to capture gait biomechanics during self-selected walking for eight experimental conditions. Overall, the presence or absence of a powered knee and AFO stiffness had an impact on ankle and knee biomechanics during walking. Across conditions using the powered KAFO, the greatest improvement in crouch at both the ankle and knee was observed with the highest-stiffness experimental AFO. Ankle torque increased with AFO use, while knee torque increased with the powered KAFO but was lower when paired with the experimental AFOs. Ankle power was not consistently improved by the KAFO and AFO conditions, while knee power generally increased with KAFO use and was highest in the powered conditions. This study provides preliminary results on the impact of ankle-foot orthoses in conjunction with a powered knee exoskeleton, and may inform further exploration of treatment of pathological gaits using robotic assistive devices.",
-   "doi": "10.1186/s12984-026-02098-0",
+   "abstract": "To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3\u2009\u00b1\u20093.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group \u00d7 CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group \u00d7 CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.",
+   "doi": "10.1007/s10103-026-04966-6",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Randomized Controlled Trial"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42482068/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42486293",
-   "title": "Comparative Effects of Platelet-Rich Plasma, Exercise Therapy, and Myofascial Superficial Back Line Manual Therapy on Balance, Posture, and Function in Chronic Ankle Instability: A Three Arm Randomized Controlled Trial.",
-   "journal": "J Foot Ankle Surg",
-   "year": "2026",
-   "authors": [
-    "\u00c7ak\u0131c\u0131 \u0130",
-    "Cerbezer N",
-    "Tu\u011f\u00e7e \u00c7il E"
-   ],
-   "abstract": "Chronic ankle instability is a musculoskeletal disorder involving repeated ankle sprains, reduced joint position sense, and postural imbalance. Although exercise-based rehabilitation is essential, variations in program design and a focus on local stabilization limit overall effectiveness. This randomized controlled study compared platelet-rich plasma injection, platelet-rich plasma combined with a structured exercise program, and manual therapy focusing on the myofascial superficial back line in terms of pain, proprioception, posture, balance, and function. A Three-Arm Randomized Controlled Trial Methods: Forty-seven participants were randomly divided into three groups: platelet-rich plasma injection (three ultrasound-guided intra-articular applications at two-week intervals), platelet-rich plasma with exercise (the same injections plus an eight-week supervised exercise program), and manual therapy (an eight-week fascial-based intervention). All groups showed significant improvements after treatment (p<0.05). Platelet-rich plasma injection produced the greatest pain reduction (Visual Analog Scale \u0394=-6.94). The platelet-rich plasma with exercise and manual therapy groups showed superior improvements in posture and functional outcomes, including Foot and Ankle Ability Measure (\u0394=+20.58), Cumberland Ankle Instability Tool (\u0394=+9.94), and posture score (\u0394=-5.93). Dynamic balance improved significantly, particularly in the platelet-rich plasma with exercise group. While platelet-rich plasma provides strong analgesic benefits, its combination with exercise or fascial-based manual therapy yields broader gains in posture, proprioception, and function, supporting multimodal rehabilitation in chronic ankle instability. 2 or 3.",
-   "doi": "10.1053/j.jfas.2026.07.008",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42486293/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42493723/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -125,117 +101,32 @@
    "bucket": "research"
   },
   {
-   "pmid": "42481683",
-   "title": "Comparison of NASM Corrective Exercise Alone Versus with Kinesio Taping on Navicular Drop and Lower Limb Function in Female Adolescents with Flexible Flatfoot: A Randomized Clinical Trial.",
-   "journal": "Sci Rep",
+   "pmid": "42494100",
+   "title": "Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.",
+   "journal": "Sports Health",
    "year": "2026",
    "authors": [
-    "Mazloum V",
-    "Honarvar A",
-    "Tofighi SS",
-    "Matin M"
+    "Trentacosta N",
+    "Kaneda G",
+    "Schimmoeller N",
+    "Huang DT",
+    "et al."
    ],
-   "abstract": "Functional flatfoot is a common condition in adolescents that can impair postural control and increase the risk of lower limb injuries, making effective management important. This randomized clinical trial examined the effects of an eight-week National Academy of Sports Medicine (NASM) corrective exercise program, with and without Kinesio taping, on clinical and functional outcomes in adolescents with functional flatfoot. Forty-five female adolescents aged 13 to 16\u00a0years with a navicular drop\u2009\u2265\u200910\u00a0mm were randomly assigned to three groups: NASM corrective exercise, NASM corrective exercise plus Kinesio taping, and control. Primary outcomes were navicular drop, assessed with the Navicular Drop Test (NDT), and lower limb function, measured using the Manchester Oxford Foot Questionnaire (MOXFQ). Secondary outcomes included dynamic balance, evaluated by the Y-Balance Test, and ankle proprioception. Results showed that both intervention groups achieved significant improvements in NDT, function, balance, and proprioception compared with the control group (p\u2009=\u20090.001), confirming the effectiveness of NASM corrective exercise. However, no additional benefits were observed when Kinesio taping was combined with corrective exercise (p\u2009>\u20090.05). These findings suggest that NASM corrective exercise alone is a practical, non-invasive, and cost-effective intervention for improving foot posture, functional performance, and balance in adolescents with functional flatfoot.Clinical Trial Registration:Registered in the Iranian Registry of Clinical Trials (IRCT) under the code:IRCT20240907062968N2. Registration date: 09/03/2025.",
-   "doi": "10.1038/s41598-026-63352-y",
+   "abstract": "Female reproductive hormones are attributed to the higher rate of musculoskeletal (MSK) injuries among female athletes compared with male athletes. To evaluate association between exposure to hormonal contraceptives (HCs), joint laxity, and number of injuries in female athletes over a 1-year period. Cohort study. Level 3. Professional and Division I collegiate female athletes were recruited into 2 groups based on HC status (HC vs non-HC). Serum relaxin, estrogen and progesterone levels, knee laxity, generalized hypermobility, and lower extremity kinematics during a single-legged jump were examined during preseason in the luteal phase of each athlete's menstrual cycle. Injuries were tracked for 1\u2009year after testing. Circulating levels of progesterone (non-HC, 38.9\u2009\u00b1\u200915.0 pg/mg vs HC, 28.6\u2009\u00b1\u200911.4 pg/mg; P\u2009<\u20090.01), estrogen (non-HC, 2.80\u2009\u00b1\u20093.0 pg/mg vs HC, 2.0\u2009\u00b1\u20093.0 pg/mg; P\u2009=\u20090.01), and relaxin (non-HC, 0.26\u2009\u00b1\u20090.08\u2009pg/mg vs HC, 0.22\u2009\u00b1\u20090.03 pg/mg; P\u2009=\u20090.04) were lower in HC (n\u2009=\u200932) than in non-HC (n\u2009=\u200940) athletes during the luteal phase of the cycle. Non-HC athletes demonstrated significantly greater hip flexion at initial contact (non-HC, 29.42\u00b0\u00b1\u20097.64\u00b0 vs HC, 25.25\u00b0\u00b1\u20097.13\u00b0; P\u2009=\u20090.02), and greater knee adduction (valgus) at maximum knee flexion (non-HC, -1.90\u00b0\u00b1\u20093.25\u00b0 vs HC, -0.25\u00b0 \u00b1 3.40\u00b0; P\u2009=\u20090.02) during a single-legged drop. Average (\u00b1SD) injury count for non-HC athletes was 0.71 (\u00b11.3) compared with 0.35 (\u00b10.70) in the HC group (P\u2009=\u20090.25). Injury count was correlated significantly to circulating levels of relaxin (r\u2009=\u20090.32; P\u2009<\u20090.01). A potential relationship between increased circulating relaxin levels and the risk of injury was established. Athletes taking HCs demonstrated significantly reduced peak knee adduction angles when landing from a jump. The results advance knowledge of relationships between specific hormones and injury risk, and the potential role of HCs on kinematic patterns when landing from a jump. Future research will determine HC formulations that may protect against MSK injury, and inform broader strategies to reduce sport-related injury risk in female athletes.",
+   "doi": "10.1177/19417381261459590",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42481683/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42494100/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
     },
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42488193",
-   "title": "Foot and Ankle Contributions to Noncontact ACL Injury Risk: A Systematic Review.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Farrington L",
-    "Hotze C",
-    "Markowsky R",
-    "Coda R",
-    "et al."
-   ],
-   "abstract": "Noncontact anterior cruciate ligament (ACL) injuries are common and carry long-term consequences for the athlete. Altered foot and ankle biomechanics, landing patterns, and prior ankle injury have been implicated in ACL injury risk and may inform prevention strategies. To identify key biomechanical risk factors associated with the foot and ankle that may contribute to ACL injury risk. Systematic review; Level of evidence, 4. A systematic review was conducted following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. PubMed, Cochrane, and SPORTDiscus databases were searched for English-language studies (2010-2025) evaluating ACL injuries and reporting on the foot or ankle. Screening was performed using Rayyan, followed by full-text review. Data were extracted, and then risk of bias was assessed using the methodological index for non-randomized studies (MINORS). Out of 1772 studies evaluated, a total of 48 (2.7%) studies met inclusion criteria. Overall, 33 studies (68.8%) identified variables associated with increased ACL injury risk, while 11 (22.9%) reported decreased risk and 9 (18.8%) found no association. Foot and ankle biomechanics were examined in 32 studies (66.7%), foot strike pattern in 8 (16.7%), toe direction in 7 (14.6%), and prior ankle injury history in 5 (10.4%). Statistically supported findings were present in 81% of studies. Greater dynamic rearfoot motion (eversion/inversion), increased dorsiflexion, and medial arch collapse (eg, navicular drop) were commonly associated with increased risk. Forefoot landings were protective, while rearfoot and flatfoot strikes, as well as toe-in or toe-out positions, were consistently linked to higher injury risk. Sex-specific analysis showed that female athletes demonstrated more high-risk biomechanical patterns than their male counterparts. Sport-specific analysis revealed basketball (n = 14), soccer (n = 8), and handball (n = 6) as the most studied sports, with >75% of these studies identifying \u22651 foot- or ankle-related ACL injury risk factor. Study quality was generally low, with predominantly noncomparative designs and modest MINORS. Foot and ankle factors, including prior injury, alignment, foot strike patterns, and toe progression, contribute meaningfully to ACL injury risk, yet their precise influence on knee stabilization remains unclear. The foot and ankle are understudied, with few investigations addressing their role in dynamic tasks that challenge knee stability. High-quality comparative research that accounts for sex and sport differences is needed to inform targeted prevention and improve risk stratification.",
-   "doi": "10.1177/23259671261463141",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42488193/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42483571",
-   "title": "Preventive efficiency of neuromuscular training in reducing lower limb injuries among youth soccer athletes: a systematic review and meta-analysis of randomized controlled trials.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Alkishnawi HM",
-    "Alshater HM",
-    "Alakkas EA",
-    "Alshehri ND",
-    "et al."
-   ],
-   "abstract": "Lower-limb injuries are common in youth soccer. Neuromuscular training (NMT) warm-ups are used, but the preventive effects across injury types in young players are unclear. This review quantified NMT effectiveness for lower-limb injury prevention in 8-18-year-old soccer players. A PRISMA-guided systematic review and meta-analysis of randomized controlled trials was conducted. Four databases were searched up to October 2025 using keywords including soccer/football, neuromuscular training, balance, proprioception, plyometrics, injury prevention, ACL, ankle sprain, and hamstring strain. English-language RCTs (January 2000-present) in youth soccer comparing NMT with standard warm-up or no intervention were included; adult (>18 years), non-soccer, and non-RCT studies were excluded. The primary outcome was the incidence of all lower-limb injuries; secondary outcomes were knee, ankle, ligament, and muscle injuries. Incidence rate ratios (IRRs) were pooled using random-effects models with the Hartung-Knapp adjustment for outcomes in which at least two trials reported exposure time; the remaining outcomes were summarised using a structured narrative synthesis. Heterogeneity was assessed with I2. Five RCTs (2012-2025; n\u2009=\u20096,447) were included. Two outcomes had sufficient exposure data for meta-analysis: NMT was associated with non-significant reductions in all lower-limb injuries (IRR\u2009=\u20090.54, 95% CI 0.20-1.45; I2\u2009=\u200983.7%) and knee injuries (IRR\u2009=\u20090.86, 95% CI 0.62-1.19; I2\u2009=\u20090%). For ankle, ligament and muscle injuries only one trial reported exposure time, precluding pooling; in that trial NMT was associated with significantly lower ankle (IRR\u2009=\u20090.59, 95% CI 0.40-0.88), ligament (IRR\u2009=\u20090.62, 95% CI 0.43-0.90) and muscle (IRR\u2009=\u20090.66, 95% CI 0.47-0.93) injury rates, with the remaining trials reporting fewer injuries in the NMT group. NMT warm-ups may reduce ankle injuries in youth soccer, while evidence for overall and knee injury prevention is inconclusive and heterogeneous. Implementation with adherence support is clinically relevant. Future trials should standardize injury definitions, report exposure/compliance, and evaluate programme dose and components across age and sex groups. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251207720, identifier CRD420251207720.",
-   "doi": "10.3389/fspor.2026.1853354",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42483571/",
-   "matched": [
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42483632",
-   "title": "Return-to-Sport Outcomes After Suture Button Fixation for Syndesmotic Injury in Elite Athletes With Chronic Lateral Ankle Instability: A Prospective Case Series.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Wang C",
-    "Chen C",
-    "Fu S",
-    "Wang J",
-    "et al."
-   ],
-   "abstract": "Chronic lateral ankle instability (CLAI) with concomitant syndesmotic injury presents a complex challenge for elite athletes. The arthroscopic modified Brostr\u00f6m procedure (AMBP) is the gold-standard surgical treatment for CLAI, and suture button fixation (SBF) is an effective method for dynamically stabilizing the syndesmosis. To evaluate functional outcomes and return-to-sport (RTS) metrics and identify prognostic factors after combined AMBP and SBF in this specific population. Case series; Level of evidence, 4. A total of 70 elite athletes with CLAI and a confirmed syndesmotic injury who underwent AMBP and SBF between January 2021 and June 2023 were prospectively enrolled. Outcomes included the Foot and Ankle Outcome Score (FAOS), Karlsson-Peterson score, mean time to RTS, RTS rate, ankle range of motion (ROM), and complication rates. Weightbearing computed tomography was analyzed to measure anatomical parameters, including anterior, posterior, and maximum tibiofibular distances (ATFD, PTFD, maxTFD), angle of fibular rotation (AFR), and syndesmotic area (SA). Univariate and multivariate regression analyses identified factors associated with improvement in FAOS (\u0394-FAOS). A total of 68 patients (68 ankles [97.1%]), with a minimum 2-year follow-up, were included in our analysis. The mean time to unrestricted RTS was 53.2 \u00b1 14.7 days, with a 98.5% (67/68) successful RTS rate. All FAOS subscales and the Karlsson-Peterson score demonstrated significant improvements from baselines (P < .001). Ankle ROM was restored to symmetry in all patients. One patient (1.5%) experienced transient superficial wound irritation. Univariate analysis indicated that \u0394-FAOS was associated with sex, reduction in body mass index (BMI) (\u0394BMI), duration of symptoms before surgery, and preoperative PTFD, maxTFD, AFR, and SA. Multivariate analysis confirmed that a greater reduction in BMI (P = .032; \u03b2 = 1.8; [95% CI, 1.1-3.1]) and a smaller preoperative SA (P = .018; \u03b2 = -0.7 [95% CI, 0.5-0.9]) were independent predictors of greater \u0394-FAOS. Our study demonstrated that the combined AMBP and SBF procedure may facilitate rapid, successful RTS, with satisfactory patient-reported outcomes and a low complication rate among elite athletes. Preoperative SA and postoperative weight management (\u0394BMI) may be significant prognostic factors for optimal clinical outcome.",
-   "doi": "10.1177/23259671261463133",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42483632/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -243,77 +134,25 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42482792",
-   "title": "The Additive Effects of Transcranial Direct Current Stimulation Combined With Exercise-Based Rehabilitation Interventions on Balance, Ankle Kinematics, and Muscle Activity in Individuals With Ankle Instability: A Systematic Review.",
-   "journal": "Health Sci Rep",
+   "pmid": "42491455",
+   "title": "Smartphone-based vestibular & gait analysis for remote fall risk assessment.",
+   "journal": "Front Digit Health",
    "year": "2026",
    "authors": [
-    "Bayati A",
-    "Yousefian Molla R"
+    "Rezk E",
+    "Luschin-Ebengreuth M",
+    "Kaufmann H"
    ],
-   "abstract": "Transcranial direct current stimulation (tDCS) has been explored as a neuromodulatory technique to enhance sensorimotor function and rehabilitation outcomes in individuals with musculoskeletal disorders, including ankle instability. This study aimed to systematically synthesize the existing evidence on the additive effects of tDCS combined with exercise-based rehabilitation interventions on balance, ankle kinematics, and muscle activity in individuals with ankle instability. The databases of PubMed, Scopus, Cochrane Library, ProQuest, Web of Science, and Science Direct were searched up to October 2025. Eligible studies were randomized controlled trials evaluating the impacts of tDCS on individuals with ankle instability and reporting at least one outcome related to balance, ankle kinematics, or electromyographic activity. Methodological quality was appraised using a modified Downs and Black checklist. Nine randomized controlled trials (n\u2009=\u2009298) were included. Overall methodological quality ranged from fair to good, with six studies rated as good and three as fair. Most studies evaluated chronic ankle instability and compared tDCS combined with exercise to exercise alone. Across trials, some studies demonstrated greater improvements in balance and ankle kinematic outcomes in the tDCS\u2009+\u2009exercise groups, consistent with a potential additive effect, whereas other studies found no between-group differences. Effects on muscle activation were inconsistent, with only one study showing sustained increases in activation with tDCS\u2009+\u2009exercise-based interventions. When used as an adjunct to exercise-based rehabilitation interventions, tDCS shows preliminary and context-dependent additive effects on balance and ankle kinematics in individuals with ankle instability, while evidence for effects on muscle activation remains inconsistent. Current data are insufficient to support routine clinical use due to methodological heterogeneity and inconsistent evidence across studies, and further methodologically standardized trials are required.",
-   "doi": "10.1002/hsr2.72833",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42482792/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42483716",
-   "title": "Ultrafast Return to Sport in International Feminine Football Following Arthroscopic Anatomic Lateral Ankle Ligament Reconstruction Using Gracilis Autograft: A Case Report.",
-   "journal": "Case Rep Orthop",
-   "year": "2026",
-   "authors": [
-    "Lambrey PJ",
-    "Saniel G",
-    "Lopes R"
-   ],
-   "abstract": "Lateral ankle instability is a common condition in elite football, but returning to play following arthroscopic anatomic ligament reconstruction (AALR) typically requires 4-6 months. We report the case of a 24-year-old professional female football player who achieved a full return to elite competition and national team duties within 12 weeks following arthroscopic ALR of the anterior talofibular (ATFL) and calcaneofibular (CFL) ligaments using an autologous gracilis graft. Preoperative instability followed recurrent sprains incurred during the World Cup, with examination and imaging demonstrating complete lateral ligament complex insufficiency. Arthroscopic exploration identified a complete ATFL/CFL rupture, anterolateral impingement, and a lateral talar chondral rail lesion, which were treated by synovectomy, debridement, and AALR. Rehabilitation followed an intensive, criterion-based protocol integrating immediate full weight-bearing, progressive range of motion, neuromuscular training, strength symmetry targets, and field-based functional testing. At 12 weeks, the athlete achieved full functional symmetry: AnkleGO score 25/25, FAAM-ADL and FAAM-Sport 100%, ALR-RSI 100%, symmetric hop performance, and unrestricted football-specific metrics. She returned to international duty without restrictions and completed full match participation. This case illustrates that arthroscopic anatomic reconstruction combined with structured high-performance rehabilitation can enable ultrafast return to elite football, challenging conventional timelines while illustrating an accelerated, criterion-based return in a single elite athlete rather than a generalizable target.",
-   "doi": "10.1155/cro/5568199",
+   "abstract": "Dizziness and vertigo are among the most common reasons for clinical consultation worldwide and represent key risk factors for falls, particularly in neurologic and neuroorthopedic patient populations. Early identification of balance and gait impairments is therefore relevant for fall prevention. However, access to established diagnostic tools such as video-oculography (VOG) and motion analysis systems remains limited due to cost, technical complexity, and the need for specialized personnel, especially in resource-constrained settings. This work proposes a conceptual framework for smartphone-based assessment of vestibular function and gait stability, aimed at supporting fall-related screening concepts. The approach is designed to integrate near-infrared eye tracking with inertial measurement unit (IMU)-based motion analysis within a unified smartphone-based sensing environment, enabling mobile and scalable applications. The framework outlines methods for extracting oculomotor and biomechanical features, including vestibulo-ocular behavior and gait stability metrics such as Triangular Area Variability (TAV) and inter-limb symmetry. In addition, it introduces the use of virtual anatomical reference points (S1, P L  , P R  ) and the projection of sacral motion onto the interpatellar axis to describe biomechanical stability. As a conceptual contribution, this work does not include clinical validation or real-world data but provides a structured methodological foundation for future studies. The proposed framework is intended to support the development of accessible, smartphone-based screening and monitoring approaches for the early identification of balance-related impairments, thereby contributing to fall prevention research in neurologic and neuroorthopedic populations.",
+   "doi": "10.3389/fdgth.2026.1798559",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42483716/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42491455/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42482073",
-   "title": "Why inverse simulations overestimate optimal ankle exoskeleton assistance: the role of bi-articular coordination and joint stiffness.",
-   "journal": "J Neuroeng Rehabil",
-   "year": "2026",
-   "authors": [
-    "Luis I",
-    "Gutierrez-Farewik EM",
-    "Afschrift M"
-   ],
-   "abstract": "Ankle-foot exoskeletons can reduce muscle activity and metabolic energy consumption during walking. Experimental studies consistently show that submaximal assistance, typically providing 40-60% of the biological plantarflexion moment, achieves the largest reductions in metabolic power. Inverse musculoskeletal simulations, which neglect factors such as comfort and balance, also predict that submaximal assistance is optimal, yet at higher levels than those observed experimentally. The biomechanical mechanisms underlying this submaximal assistance and its disagreement with experimental observations remain poorly understood. In this study, we addressed these questions using inverse simulations of walking and systematically examining muscle-tendon dynamics, metabolic power, and ankle joint stiffness across ten assistance levels (0-100% of the biological plantarflexion moment). We found that the bi-articular role of the gastrocnemius limits the reduction of metabolic power at the highest levels of assistance. A sensitivity analysis modifying biceps femoris short head strength provided causal confirmation of this mechanism. We further show that increasing assistance substantially reduces ankle joint stiffness by up to 55%, primarily due to de-recruitment of the soleus. These findings identify both the explanation for submaximal assistance in inverse simulations and propose a missing control objective in exoskeleton simulation frameworks. Because standard effort-based cost functions do not penalize reductions in joint mechanical impedance, this trade-off between effort minimization and stiffness preservation may help explain why simulation-based optimal assistance exceeds experimentally observed values. Inverse simulation does not model robustness, for which impedance preservation may serve as a tractable formulation. Accounting for such a term might represent a new direction for more accurate prediction of optimal exoskeleton assistance.",
-   "doi": "10.1186/s12984-026-02106-3",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42482073/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -605,6 +444,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42482068",
+   "title": "Biomechanical effects of powered knee orthoses and articulated ankle-foot orthoses in people with diparetic cerebral palsy: a pilot study.",
+   "journal": "J Neuroeng Rehabil",
+   "year": "2026",
+   "authors": [
+    "Finnegan S",
+    "Juco M",
+    "Manocha RHK",
+    "Rogers-Bradley E"
+   ],
+   "abstract": "Diparetic cerebral palsy affects approximately 2 in 1000 people, and can result in gait impairments such as excessive knee flexion and excessive ankle dorsiflexion during the stance phase in gait. Short-term clinical trials using robotic rehabilitation devices have shown gait improvements comparable to invasive multilevel surgery for spastic cerebral palsy. This study aimed to determine if the stiffness of articulated forms of ankle-foot orthoses influences the effectiveness of a powered knee-ankle-foot orthosis on crouch gait reduction. It was hypothesized that AFO stiffness would be an important factor influencing crouch gait in individuals with diparetic cerebral palsy when walking with a powered KAFO. A pilot study with three participants with diparetic cerebral palsy causing crouch gait was conducted to evaluate the effects of varying ankle stiffness of ankle-foot orthoses on sagittal plane kinematics and kinetics while walking with a powered-knee knee-ankle-foot orthosis. Experimental ankle foot orthoses were made to enable adjustable joint stiffness during the experiment. Optical motion capture and in-ground force plates were used to capture gait biomechanics during self-selected walking for eight experimental conditions. Overall, the presence or absence of a powered knee and AFO stiffness had an impact on ankle and knee biomechanics during walking. Across conditions using the powered KAFO, the greatest improvement in crouch at both the ankle and knee was observed with the highest-stiffness experimental AFO. Ankle torque increased with AFO use, while knee torque increased with the powered KAFO but was lower when paired with the experimental AFOs. Ankle power was not consistently improved by the KAFO and AFO conditions, while knee power generally increased with KAFO use and was highest in the powered conditions. This study provides preliminary results on the impact of ankle-foot orthoses in conjunction with a powered knee exoskeleton, and may inform further exploration of treatment of pathological gaits using robotic assistive devices.",
+   "doi": "10.1186/s12984-026-02098-0",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42482068/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42351887",
    "title": "Biomechanical Effects of Socks on Plantar Loading and Foot Function: A Systematic Review.",
    "journal": "Bioengineering (Basel)",
@@ -739,6 +605,64 @@
      "id": "ankle-instability-mechanism",
      "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42486293",
+   "title": "Comparative Effects of Platelet-Rich Plasma, Exercise Therapy, and Myofascial Superficial Back Line Manual Therapy on Balance, Posture, and Function in Chronic Ankle Instability: A Three Arm Randomized Controlled Trial.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "\u00c7ak\u0131c\u0131 \u0130",
+    "Cerbezer N",
+    "Tu\u011f\u00e7e \u00c7il E"
+   ],
+   "abstract": "Chronic ankle instability is a musculoskeletal disorder involving repeated ankle sprains, reduced joint position sense, and postural imbalance. Although exercise-based rehabilitation is essential, variations in program design and a focus on local stabilization limit overall effectiveness. This randomized controlled study compared platelet-rich plasma injection, platelet-rich plasma combined with a structured exercise program, and manual therapy focusing on the myofascial superficial back line in terms of pain, proprioception, posture, balance, and function. A Three-Arm Randomized Controlled Trial Methods: Forty-seven participants were randomly divided into three groups: platelet-rich plasma injection (three ultrasound-guided intra-articular applications at two-week intervals), platelet-rich plasma with exercise (the same injections plus an eight-week supervised exercise program), and manual therapy (an eight-week fascial-based intervention). All groups showed significant improvements after treatment (p<0.05). Platelet-rich plasma injection produced the greatest pain reduction (Visual Analog Scale \u0394=-6.94). The platelet-rich plasma with exercise and manual therapy groups showed superior improvements in posture and functional outcomes, including Foot and Ankle Ability Measure (\u0394=+20.58), Cumberland Ankle Instability Tool (\u0394=+9.94), and posture score (\u0394=-5.93). Dynamic balance improved significantly, particularly in the platelet-rich plasma with exercise group. While platelet-rich plasma provides strong analgesic benefits, its combination with exercise or fascial-based manual therapy yields broader gains in posture, proprioception, and function, supporting multimodal rehabilitation in chronic ankle instability. 2 or 3.",
+   "doi": "10.1053/j.jfas.2026.07.008",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42486293/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42481683",
+   "title": "Comparison of NASM Corrective Exercise Alone Versus with Kinesio Taping on Navicular Drop and Lower Limb Function in Female Adolescents with Flexible Flatfoot: A Randomized Clinical Trial.",
+   "journal": "Sci Rep",
+   "year": "2026",
+   "authors": [
+    "Mazloum V",
+    "Honarvar A",
+    "Tofighi SS",
+    "Matin M"
+   ],
+   "abstract": "Functional flatfoot is a common condition in adolescents that can impair postural control and increase the risk of lower limb injuries, making effective management important. This randomized clinical trial examined the effects of an eight-week National Academy of Sports Medicine (NASM) corrective exercise program, with and without Kinesio taping, on clinical and functional outcomes in adolescents with functional flatfoot. Forty-five female adolescents aged 13 to 16\u00a0years with a navicular drop\u2009\u2265\u200910\u00a0mm were randomly assigned to three groups: NASM corrective exercise, NASM corrective exercise plus Kinesio taping, and control. Primary outcomes were navicular drop, assessed with the Navicular Drop Test (NDT), and lower limb function, measured using the Manchester Oxford Foot Questionnaire (MOXFQ). Secondary outcomes included dynamic balance, evaluated by the Y-Balance Test, and ankle proprioception. Results showed that both intervention groups achieved significant improvements in NDT, function, balance, and proprioception compared with the control group (p\u2009=\u20090.001), confirming the effectiveness of NASM corrective exercise. However, no additional benefits were observed when Kinesio taping was combined with corrective exercise (p\u2009>\u20090.05). These findings suggest that NASM corrective exercise alone is a practical, non-invasive, and cost-effective intervention for improving foot posture, functional performance, and balance in adolescents with functional flatfoot.Clinical Trial Registration:Registered in the Iranian Registry of Clinical Trials (IRCT) under the code:IRCT20240907062968N2. Registration date: 09/03/2025.",
+   "doi": "10.1038/s41598-026-63352-y",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42481683/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
@@ -1155,6 +1079,35 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42488193",
+   "title": "Foot and Ankle Contributions to Noncontact ACL Injury Risk: A Systematic Review.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Farrington L",
+    "Hotze C",
+    "Markowsky R",
+    "Coda R",
+    "et al."
+   ],
+   "abstract": "Noncontact anterior cruciate ligament (ACL) injuries are common and carry long-term consequences for the athlete. Altered foot and ankle biomechanics, landing patterns, and prior ankle injury have been implicated in ACL injury risk and may inform prevention strategies. To identify key biomechanical risk factors associated with the foot and ankle that may contribute to ACL injury risk. Systematic review; Level of evidence, 4. A systematic review was conducted following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. PubMed, Cochrane, and SPORTDiscus databases were searched for English-language studies (2010-2025) evaluating ACL injuries and reporting on the foot or ankle. Screening was performed using Rayyan, followed by full-text review. Data were extracted, and then risk of bias was assessed using the methodological index for non-randomized studies (MINORS). Out of 1772 studies evaluated, a total of 48 (2.7%) studies met inclusion criteria. Overall, 33 studies (68.8%) identified variables associated with increased ACL injury risk, while 11 (22.9%) reported decreased risk and 9 (18.8%) found no association. Foot and ankle biomechanics were examined in 32 studies (66.7%), foot strike pattern in 8 (16.7%), toe direction in 7 (14.6%), and prior ankle injury history in 5 (10.4%). Statistically supported findings were present in 81% of studies. Greater dynamic rearfoot motion (eversion/inversion), increased dorsiflexion, and medial arch collapse (eg, navicular drop) were commonly associated with increased risk. Forefoot landings were protective, while rearfoot and flatfoot strikes, as well as toe-in or toe-out positions, were consistently linked to higher injury risk. Sex-specific analysis showed that female athletes demonstrated more high-risk biomechanical patterns than their male counterparts. Sport-specific analysis revealed basketball (n = 14), soccer (n = 8), and handball (n = 6) as the most studied sports, with >75% of these studies identifying \u22651 foot- or ankle-related ACL injury risk factor. Study quality was generally low, with predominantly noncomparative designs and modest MINORS. Foot and ankle factors, including prior injury, alignment, foot strike patterns, and toe progression, contribute meaningfully to ACL injury risk, yet their precise influence on knee stabilization remains unclear. The foot and ankle are understudied, with few investigations addressing their role in dynamic tasks that challenge knee stability. High-quality comparative research that accounts for sex and sport differences is needed to inform targeted prevention and improve risk stratification.",
+   "doi": "10.1177/23259671261463141",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42488193/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42346767",
@@ -1774,34 +1727,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42333900",
-   "title": "Patient-Reported Outcomes, Patient Satisfaction, and Return to Play After Surgical Treatment of Syndesmosis Injuries in Competitive Athletes.",
-   "journal": "Foot Ankle Spec",
-   "year": "2026",
-   "authors": [
-    "Ruland JR",
-    "Mercante MG",
-    "Novicoff WM",
-    "Cooper MT",
-    "et al."
-   ],
-   "abstract": "BackgroundFew studies have investigated return to play after surgical stabilization of syndesmotic injuries without fracture with minimal data on patient-reported outcome measures. The purpose of this study was to evaluate patient-reported outcomes, patient satisfaction, and return to play after surgical repair of syndesmosis injuries in competitive athletes.MethodsA retrospective review of competitive athletes who underwent surgery for an unstable syndesmosis was performed. Patients were excluded if they were not competitive athletes or had the presence of a concomitant fracture. Patient-reported outcome measures were collected via telephone questionnaires. These included the Foot and Ankle Ability Measure (FAAM) Sports Subscale as well as 7 other questions regarding subjective assessment of function, patient satisfaction, and return to play.ResultsA total of 29 ankles in 28 competitive athletes were included. Twenty-four of 28 (86%) patients were male, and 4 of 28 (14%) patients were female. Average age at surgery was 20.7 \u00b1 2.4 (15-24). Twenty-five of 28 (89.3%) athletes completed the post-operative telephone questionnaire with a mean follow-up of 41 months (minimum 9 months). In total, 100% of patients returned to athletic activity. Nineteen of 20 patients (95%) eligible to do so returned to competition, with 16 of 25 (64%) patients reporting a return to pre-injury level of function. The average FAAM-sports score was 29.6 (max 32) \u00b1 3.5. Twenty-four of 25 patients reported post-operative function as normal or nearly normal. Twenty-four of 25 patients reported that they were either very satisfied or satisfied. Patient-reported time of return to unrestricted play was 19.9 \u00b1 9.8 weeks. Injury grade, repair technique, acuity of injury, and concomitant injuries were not associated with prolonged return to play or decreased FAAM scores.ConclusionA high percentage of competitive athletes undergoing surgical treatment of syndesmosis injury were able to return to their previous level of competition, with nearly all achieving good-to-excellent outcome scores and satisfaction. Severity of injury, concomitant injury, or repair technique was not found to have an effect on outcomes.Level of EvidenceIV, single-arm retrospective case series.",
-   "doi": "10.1177/19386400261456902",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42333900/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42439906",
    "title": "Patient-specific talar resurfacing improves pain and function at 24 months in osteochondral lesions of the talus.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -1917,27 +1842,28 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42334892",
-   "title": "Proprioceptive Impairment and Joint Position Exposure Time in Relation to Patient-Report Outcome With Chronic Ankle Instability.",
-   "journal": "Percept Mot Skills",
+   "pmid": "42483571",
+   "title": "Preventive efficiency of neuromuscular training in reducing lower limb injuries among youth soccer athletes: a systematic review and meta-analysis of randomized controlled trials.",
+   "journal": "Front Sports Act Living",
    "year": "2026",
    "authors": [
-    "Shi X",
-    "Ganderton C",
-    "Adams R",
-    "Han J",
+    "Alkishnawi HM",
+    "Alshater HM",
+    "Alakkas EA",
+    "Alshehri ND",
     "et al."
    ],
-   "abstract": "ObjectiveTo investigate ankle proprioceptive sensitivity under different position exposure times (PETs) and performance score relationship with the severity of perceived ankle instability in individuals with CAI.DesignTest-retest reliability, cross-sectional comparative study.SettingsUniversity laboratory.ParticipantsForty-eight individuals (24 CAI, 24 non-CAI).Outcome measureSmartphone Proprioception for Ankle Navigation (SPAN) was used to assess active ankle movement proprioceptive performance under two PET conditions (0.25\u00a0s and 1\u00a0s). The symptomatic (CAI-SS) and asymptomatic side (CAS-AS) were tested and retested for reliability for CAI group, whilst randomly selected side of non-CAI group was tested once for between-group comparisons. Cumberland Ankle Instability Tool (CAIT) was self-administered to quantify perceived severity of ankle instability.ResultsLonger PET (1.0\u00a0s) improved proprioceptive sensitivity in non-CAI and CAI-AS groups but not in CAI-SS. Ankle proprioceptive performance at 1.0\u00a0s PET was significantly correlated with CAIT scores. SPAN test-retest reliability was influenced by PET, with similar ICCs for CAI-SS at both PETs but notable differences for CAI-AS.ConclusionThis study highlights the temporal aspect of proprioceptive impairments associated with CAI as measured with SPAN. Individuals with CAI struggled to utilize prolonged exposure time to enhance proprioceptive sensitivity, and this limitation was significantly associated with the severity of perceived ankle instability.",
-   "doi": "10.1177/00315125261462635",
+   "abstract": "Lower-limb injuries are common in youth soccer. Neuromuscular training (NMT) warm-ups are used, but the preventive effects across injury types in young players are unclear. This review quantified NMT effectiveness for lower-limb injury prevention in 8-18-year-old soccer players. A PRISMA-guided systematic review and meta-analysis of randomized controlled trials was conducted. Four databases were searched up to October 2025 using keywords including soccer/football, neuromuscular training, balance, proprioception, plyometrics, injury prevention, ACL, ankle sprain, and hamstring strain. English-language RCTs (January 2000-present) in youth soccer comparing NMT with standard warm-up or no intervention were included; adult (>18 years), non-soccer, and non-RCT studies were excluded. The primary outcome was the incidence of all lower-limb injuries; secondary outcomes were knee, ankle, ligament, and muscle injuries. Incidence rate ratios (IRRs) were pooled using random-effects models with the Hartung-Knapp adjustment for outcomes in which at least two trials reported exposure time; the remaining outcomes were summarised using a structured narrative synthesis. Heterogeneity was assessed with I2. Five RCTs (2012-2025; n\u2009=\u20096,447) were included. Two outcomes had sufficient exposure data for meta-analysis: NMT was associated with non-significant reductions in all lower-limb injuries (IRR\u2009=\u20090.54, 95% CI 0.20-1.45; I2\u2009=\u200983.7%) and knee injuries (IRR\u2009=\u20090.86, 95% CI 0.62-1.19; I2\u2009=\u20090%). For ankle, ligament and muscle injuries only one trial reported exposure time, precluding pooling; in that trial NMT was associated with significantly lower ankle (IRR\u2009=\u20090.59, 95% CI 0.40-0.88), ligament (IRR\u2009=\u20090.62, 95% CI 0.43-0.90) and muscle (IRR\u2009=\u20090.66, 95% CI 0.47-0.93) injury rates, with the remaining trials reporting fewer injuries in the NMT group. NMT warm-ups may reduce ankle injuries in youth soccer, while evidence for overall and knee injury prevention is inconclusive and heterogeneous. Implementation with adherence support is clinically relevant. Future trials should standardize injury definitions, report exposure/compliance, and evaluate programme dose and components across age and sex groups. https://www.crd.york.ac.uk/PROSPERO/view/CRD420251207720, identifier CRD420251207720.",
+   "doi": "10.3389/fspor.2026.1853354",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Systematic Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42334892/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42483571/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
+     "id": "lateral-sprain-epi",
+     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
      "bucket": "research"
     }
    ],
@@ -2078,6 +2004,34 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42483632",
+   "title": "Return-to-Sport Outcomes After Suture Button Fixation for Syndesmotic Injury in Elite Athletes With Chronic Lateral Ankle Instability: A Prospective Case Series.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Wang C",
+    "Chen C",
+    "Fu S",
+    "Wang J",
+    "et al."
+   ],
+   "abstract": "Chronic lateral ankle instability (CLAI) with concomitant syndesmotic injury presents a complex challenge for elite athletes. The arthroscopic modified Brostr\u00f6m procedure (AMBP) is the gold-standard surgical treatment for CLAI, and suture button fixation (SBF) is an effective method for dynamically stabilizing the syndesmosis. To evaluate functional outcomes and return-to-sport (RTS) metrics and identify prognostic factors after combined AMBP and SBF in this specific population. Case series; Level of evidence, 4. A total of 70 elite athletes with CLAI and a confirmed syndesmotic injury who underwent AMBP and SBF between January 2021 and June 2023 were prospectively enrolled. Outcomes included the Foot and Ankle Outcome Score (FAOS), Karlsson-Peterson score, mean time to RTS, RTS rate, ankle range of motion (ROM), and complication rates. Weightbearing computed tomography was analyzed to measure anatomical parameters, including anterior, posterior, and maximum tibiofibular distances (ATFD, PTFD, maxTFD), angle of fibular rotation (AFR), and syndesmotic area (SA). Univariate and multivariate regression analyses identified factors associated with improvement in FAOS (\u0394-FAOS). A total of 68 patients (68 ankles [97.1%]), with a minimum 2-year follow-up, were included in our analysis. The mean time to unrestricted RTS was 53.2 \u00b1 14.7 days, with a 98.5% (67/68) successful RTS rate. All FAOS subscales and the Karlsson-Peterson score demonstrated significant improvements from baselines (P < .001). Ankle ROM was restored to symmetry in all patients. One patient (1.5%) experienced transient superficial wound irritation. Univariate analysis indicated that \u0394-FAOS was associated with sex, reduction in body mass index (BMI) (\u0394BMI), duration of symptoms before surgery, and preoperative PTFD, maxTFD, AFR, and SA. Multivariate analysis confirmed that a greater reduction in BMI (P = .032; \u03b2 = 1.8; [95% CI, 1.1-3.1]) and a smaller preoperative SA (P = .018; \u03b2 = -0.7 [95% CI, 0.5-0.9]) were independent predictors of greater \u0394-FAOS. Our study demonstrated that the combined AMBP and SBF procedure may facilitate rapid, successful RTS, with satisfactory patient-reported outcomes and a low complication rate among elite athletes. Preoperative SA and postoperative weight management (\u0394BMI) may be significant prognostic factors for optimal clinical outcome.",
+   "doi": "10.1177/23259671261463133",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42483632/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -2340,6 +2294,32 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42482792",
+   "title": "The Additive Effects of Transcranial Direct Current Stimulation Combined With Exercise-Based Rehabilitation Interventions on Balance, Ankle Kinematics, and Muscle Activity in Individuals With Ankle Instability: A Systematic Review.",
+   "journal": "Health Sci Rep",
+   "year": "2026",
+   "authors": [
+    "Bayati A",
+    "Yousefian Molla R"
+   ],
+   "abstract": "Transcranial direct current stimulation (tDCS) has been explored as a neuromodulatory technique to enhance sensorimotor function and rehabilitation outcomes in individuals with musculoskeletal disorders, including ankle instability. This study aimed to systematically synthesize the existing evidence on the additive effects of tDCS combined with exercise-based rehabilitation interventions on balance, ankle kinematics, and muscle activity in individuals with ankle instability. The databases of PubMed, Scopus, Cochrane Library, ProQuest, Web of Science, and Science Direct were searched up to October 2025. Eligible studies were randomized controlled trials evaluating the impacts of tDCS on individuals with ankle instability and reporting at least one outcome related to balance, ankle kinematics, or electromyographic activity. Methodological quality was appraised using a modified Downs and Black checklist. Nine randomized controlled trials (n\u2009=\u2009298) were included. Overall methodological quality ranged from fair to good, with six studies rated as good and three as fair. Most studies evaluated chronic ankle instability and compared tDCS combined with exercise to exercise alone. Across trials, some studies demonstrated greater improvements in balance and ankle kinematic outcomes in the tDCS\u2009+\u2009exercise groups, consistent with a potential additive effect, whereas other studies found no between-group differences. Effects on muscle activation were inconsistent, with only one study showing sustained increases in activation with tDCS\u2009+\u2009exercise-based interventions. When used as an adjunct to exercise-based rehabilitation interventions, tDCS shows preliminary and context-dependent additive effects on balance and ankle kinematics in individuals with ankle instability, while evidence for effects on muscle activation remains inconsistent. Current data are insufficient to support routine clinical use due to methodological heterogeneity and inconsistent evidence across studies, and further methodologically standardized trials are required.",
+   "doi": "10.1002/hsr2.72833",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42482792/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42371706",
    "title": "The association between running velocity, cadence, and tibial acceleration in recreational runners in an outdoor environment.",
    "journal": "Sports Biomech",
@@ -2504,6 +2484,58 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42483716",
+   "title": "Ultrafast Return to Sport in International Feminine Football Following Arthroscopic Anatomic Lateral Ankle Ligament Reconstruction Using Gracilis Autograft: A Case Report.",
+   "journal": "Case Rep Orthop",
+   "year": "2026",
+   "authors": [
+    "Lambrey PJ",
+    "Saniel G",
+    "Lopes R"
+   ],
+   "abstract": "Lateral ankle instability is a common condition in elite football, but returning to play following arthroscopic anatomic ligament reconstruction (AALR) typically requires 4-6 months. We report the case of a 24-year-old professional female football player who achieved a full return to elite competition and national team duties within 12 weeks following arthroscopic ALR of the anterior talofibular (ATFL) and calcaneofibular (CFL) ligaments using an autologous gracilis graft. Preoperative instability followed recurrent sprains incurred during the World Cup, with examination and imaging demonstrating complete lateral ligament complex insufficiency. Arthroscopic exploration identified a complete ATFL/CFL rupture, anterolateral impingement, and a lateral talar chondral rail lesion, which were treated by synovectomy, debridement, and AALR. Rehabilitation followed an intensive, criterion-based protocol integrating immediate full weight-bearing, progressive range of motion, neuromuscular training, strength symmetry targets, and field-based functional testing. At 12 weeks, the athlete achieved full functional symmetry: AnkleGO score 25/25, FAAM-ADL and FAAM-Sport 100%, ALR-RSI 100%, symmetric hop performance, and unrestricted football-specific metrics. She returned to international duty without restrictions and completed full match participation. This case illustrates that arthroscopic anatomic reconstruction combined with structured high-performance rehabilitation can enable ultrafast return to elite football, challenging conventional timelines while illustrating an accelerated, criterion-based return in a single elite athlete rather than a generalizable target.",
+   "doi": "10.1155/cro/5568199",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42483716/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42482073",
+   "title": "Why inverse simulations overestimate optimal ankle exoskeleton assistance: the role of bi-articular coordination and joint stiffness.",
+   "journal": "J Neuroeng Rehabil",
+   "year": "2026",
+   "authors": [
+    "Luis I",
+    "Gutierrez-Farewik EM",
+    "Afschrift M"
+   ],
+   "abstract": "Ankle-foot exoskeletons can reduce muscle activity and metabolic energy consumption during walking. Experimental studies consistently show that submaximal assistance, typically providing 40-60% of the biological plantarflexion moment, achieves the largest reductions in metabolic power. Inverse musculoskeletal simulations, which neglect factors such as comfort and balance, also predict that submaximal assistance is optimal, yet at higher levels than those observed experimentally. The biomechanical mechanisms underlying this submaximal assistance and its disagreement with experimental observations remain poorly understood. In this study, we addressed these questions using inverse simulations of walking and systematically examining muscle-tendon dynamics, metabolic power, and ankle joint stiffness across ten assistance levels (0-100% of the biological plantarflexion moment). We found that the bi-articular role of the gastrocnemius limits the reduction of metabolic power at the highest levels of assistance. A sensitivity analysis modifying biceps femoris short head strength provided causal confirmation of this mechanism. We further show that increasing assistance substantially reduces ankle joint stiffness by up to 55%, primarily due to de-recruitment of the soleus. These findings identify both the explanation for submaximal assistance in inverse simulations and propose a missing control objective in exoskeleton simulation frameworks. Because standard effort-based cost functions do not penalize reductions in joint mechanical impedance, this trade-off between effort minimization and stiffness preservation may help explain why simulation-based optimal assistance exceeds experimentally observed values. Inverse simulation does not model robustness, for which impedance preservation may serve as a tractable formulation. Accounting for such a term might represent a new direction for more accurate prediction of optimal exoskeleton assistance.",
+   "doi": "10.1186/s12984-026-02106-3",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42482073/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   }
  ]
 }

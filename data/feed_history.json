@@ -1,5 +1,83 @@
 [
  {
+  "pmid": "42493723",
+  "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
+  "journal": "Lasers Med Sci",
+  "year": "2026",
+  "authors": [
+   "Ikuta Y",
+   "Yamakawa R",
+   "Toriyama M",
+   "Ito H",
+   "et al."
+  ],
+  "abstract": "To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3\u2009\u00b1\u20093.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group \u00d7 CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group \u00d7 CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.",
+  "doi": "10.1007/s10103-026-04966-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42493723/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-24T15:15:37Z"
+ },
+ {
+  "pmid": "42494100",
+  "title": "Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.",
+  "journal": "Sports Health",
+  "year": "2026",
+  "authors": [
+   "Trentacosta N",
+   "Kaneda G",
+   "Schimmoeller N",
+   "Huang DT",
+   "et al."
+  ],
+  "abstract": "Female reproductive hormones are attributed to the higher rate of musculoskeletal (MSK) injuries among female athletes compared with male athletes. To evaluate association between exposure to hormonal contraceptives (HCs), joint laxity, and number of injuries in female athletes over a 1-year period. Cohort study. Level 3. Professional and Division I collegiate female athletes were recruited into 2 groups based on HC status (HC vs non-HC). Serum relaxin, estrogen and progesterone levels, knee laxity, generalized hypermobility, and lower extremity kinematics during a single-legged jump were examined during preseason in the luteal phase of each athlete's menstrual cycle. Injuries were tracked for 1\u2009year after testing. Circulating levels of progesterone (non-HC, 38.9\u2009\u00b1\u200915.0 pg/mg vs HC, 28.6\u2009\u00b1\u200911.4 pg/mg; P\u2009<\u20090.01), estrogen (non-HC, 2.80\u2009\u00b1\u20093.0 pg/mg vs HC, 2.0\u2009\u00b1\u20093.0 pg/mg; P\u2009=\u20090.01), and relaxin (non-HC, 0.26\u2009\u00b1\u20090.08\u2009pg/mg vs HC, 0.22\u2009\u00b1\u20090.03 pg/mg; P\u2009=\u20090.04) were lower in HC (n\u2009=\u200932) than in non-HC (n\u2009=\u200940) athletes during the luteal phase of the cycle. Non-HC athletes demonstrated significantly greater hip flexion at initial contact (non-HC, 29.42\u00b0\u00b1\u20097.64\u00b0 vs HC, 25.25\u00b0\u00b1\u20097.13\u00b0; P\u2009=\u20090.02), and greater knee adduction (valgus) at maximum knee flexion (non-HC, -1.90\u00b0\u00b1\u20093.25\u00b0 vs HC, -0.25\u00b0 \u00b1 3.40\u00b0; P\u2009=\u20090.02) during a single-legged drop. Average (\u00b1SD) injury count for non-HC athletes was 0.71 (\u00b11.3) compared with 0.35 (\u00b10.70) in the HC group (P\u2009=\u20090.25). Injury count was correlated significantly to circulating levels of relaxin (r\u2009=\u20090.32; P\u2009<\u20090.01). A potential relationship between increased circulating relaxin levels and the risk of injury was established. Athletes taking HCs demonstrated significantly reduced peak knee adduction angles when landing from a jump. The results advance knowledge of relationships between specific hormones and injury risk, and the potential role of HCs on kinematic patterns when landing from a jump. Future research will determine HC formulations that may protect against MSK injury, and inform broader strategies to reduce sport-related injury risk in female athletes.",
+  "doi": "10.1177/19417381261459590",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42494100/",
+  "matched": [
+   {
+    "id": "menstrual-cycle-injury",
+    "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-24T15:15:37Z"
+ },
+ {
+  "pmid": "42491455",
+  "title": "Smartphone-based vestibular & gait analysis for remote fall risk assessment.",
+  "journal": "Front Digit Health",
+  "year": "2026",
+  "authors": [
+   "Rezk E",
+   "Luschin-Ebengreuth M",
+   "Kaufmann H"
+  ],
+  "abstract": "Dizziness and vertigo are among the most common reasons for clinical consultation worldwide and represent key risk factors for falls, particularly in neurologic and neuroorthopedic patient populations. Early identification of balance and gait impairments is therefore relevant for fall prevention. However, access to established diagnostic tools such as video-oculography (VOG) and motion analysis systems remains limited due to cost, technical complexity, and the need for specialized personnel, especially in resource-constrained settings. This work proposes a conceptual framework for smartphone-based assessment of vestibular function and gait stability, aimed at supporting fall-related screening concepts. The approach is designed to integrate near-infrared eye tracking with inertial measurement unit (IMU)-based motion analysis within a unified smartphone-based sensing environment, enabling mobile and scalable applications. The framework outlines methods for extracting oculomotor and biomechanical features, including vestibulo-ocular behavior and gait stability metrics such as Triangular Area Variability (TAV) and inter-limb symmetry. In addition, it introduces the use of virtual anatomical reference points (S1, P L  , P R  ) and the projection of sacral motion onto the interpatellar axis to describe biomechanical stability. As a conceptual contribution, this work does not include clinical validation or real-world data but provides a structured methodological foundation for future studies. The proposed framework is intended to support the development of accessible, smartphone-based screening and monitoring approaches for the early identification of balance-related impairments, thereby contributing to fall prevention research in neurologic and neuroorthopedic populations.",
+  "doi": "10.3389/fdgth.2026.1798559",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42491455/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-24T15:15:37Z"
+ },
+ {
   "pmid": "42482068",
   "title": "Biomechanical effects of powered knee orthoses and articulated ankle-foot orthoses in people with diparetic cerebral palsy: a pilot study.",
   "journal": "J Neuroeng Rehabil",
