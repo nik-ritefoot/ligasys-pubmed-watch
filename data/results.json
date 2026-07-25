@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-24T15:15:37+00:00",
+ "generated": "2026-07-25T14:48:36+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,94 +65,35 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 3,
-  "research": 34,
-  "fieldnotes": 53
+  "total": 85,
+  "new": 1,
+  "research": 33,
+  "fieldnotes": 52
  },
  "records": [
   {
-   "pmid": "42493723",
-   "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
-   "journal": "Lasers Med Sci",
+   "pmid": "42496709",
+   "title": "Imaging of bone stress injury in runners.",
+   "journal": "Skeletal Radiol",
    "year": "2026",
    "authors": [
-    "Ikuta Y",
-    "Yamakawa R",
-    "Toriyama M",
-    "Ito H",
+    "Rawal S",
+    "Yeo EG",
+    "Rawal S",
+    "Kwon H",
     "et al."
    ],
-   "abstract": "To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3\u2009\u00b1\u20093.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group \u00d7 CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group \u00d7 CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.",
-   "doi": "10.1007/s10103-026-04966-6",
+   "abstract": "Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.",
+   "doi": "10.1007/s00256-026-05310-3",
    "pubtypes": [
     "Journal Article",
-    "Randomized Controlled Trial"
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42493723/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42496709/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42494100",
-   "title": "Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Trentacosta N",
-    "Kaneda G",
-    "Schimmoeller N",
-    "Huang DT",
-    "et al."
-   ],
-   "abstract": "Female reproductive hormones are attributed to the higher rate of musculoskeletal (MSK) injuries among female athletes compared with male athletes. To evaluate association between exposure to hormonal contraceptives (HCs), joint laxity, and number of injuries in female athletes over a 1-year period. Cohort study. Level 3. Professional and Division I collegiate female athletes were recruited into 2 groups based on HC status (HC vs non-HC). Serum relaxin, estrogen and progesterone levels, knee laxity, generalized hypermobility, and lower extremity kinematics during a single-legged jump were examined during preseason in the luteal phase of each athlete's menstrual cycle. Injuries were tracked for 1\u2009year after testing. Circulating levels of progesterone (non-HC, 38.9\u2009\u00b1\u200915.0 pg/mg vs HC, 28.6\u2009\u00b1\u200911.4 pg/mg; P\u2009<\u20090.01), estrogen (non-HC, 2.80\u2009\u00b1\u20093.0 pg/mg vs HC, 2.0\u2009\u00b1\u20093.0 pg/mg; P\u2009=\u20090.01), and relaxin (non-HC, 0.26\u2009\u00b1\u20090.08\u2009pg/mg vs HC, 0.22\u2009\u00b1\u20090.03 pg/mg; P\u2009=\u20090.04) were lower in HC (n\u2009=\u200932) than in non-HC (n\u2009=\u200940) athletes during the luteal phase of the cycle. Non-HC athletes demonstrated significantly greater hip flexion at initial contact (non-HC, 29.42\u00b0\u00b1\u20097.64\u00b0 vs HC, 25.25\u00b0\u00b1\u20097.13\u00b0; P\u2009=\u20090.02), and greater knee adduction (valgus) at maximum knee flexion (non-HC, -1.90\u00b0\u00b1\u20093.25\u00b0 vs HC, -0.25\u00b0 \u00b1 3.40\u00b0; P\u2009=\u20090.02) during a single-legged drop. Average (\u00b1SD) injury count for non-HC athletes was 0.71 (\u00b11.3) compared with 0.35 (\u00b10.70) in the HC group (P\u2009=\u20090.25). Injury count was correlated significantly to circulating levels of relaxin (r\u2009=\u20090.32; P\u2009<\u20090.01). A potential relationship between increased circulating relaxin levels and the risk of injury was established. Athletes taking HCs demonstrated significantly reduced peak knee adduction angles when landing from a jump. The results advance knowledge of relationships between specific hormones and injury risk, and the potential role of HCs on kinematic patterns when landing from a jump. Future research will determine HC formulations that may protect against MSK injury, and inform broader strategies to reduce sport-related injury risk in female athletes.",
-   "doi": "10.1177/19417381261459590",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42494100/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42491455",
-   "title": "Smartphone-based vestibular & gait analysis for remote fall risk assessment.",
-   "journal": "Front Digit Health",
-   "year": "2026",
-   "authors": [
-    "Rezk E",
-    "Luschin-Ebengreuth M",
-    "Kaufmann H"
-   ],
-   "abstract": "Dizziness and vertigo are among the most common reasons for clinical consultation worldwide and represent key risk factors for falls, particularly in neurologic and neuroorthopedic patient populations. Early identification of balance and gait impairments is therefore relevant for fall prevention. However, access to established diagnostic tools such as video-oculography (VOG) and motion analysis systems remains limited due to cost, technical complexity, and the need for specialized personnel, especially in resource-constrained settings. This work proposes a conceptual framework for smartphone-based assessment of vestibular function and gait stability, aimed at supporting fall-related screening concepts. The approach is designed to integrate near-infrared eye tracking with inertial measurement unit (IMU)-based motion analysis within a unified smartphone-based sensing environment, enabling mobile and scalable applications. The framework outlines methods for extracting oculomotor and biomechanical features, including vestibulo-ocular behavior and gait stability metrics such as Triangular Area Variability (TAV) and inter-limb symmetry. In addition, it introduces the use of virtual anatomical reference points (S1, P L  , P R  ) and the projection of sacral motion onto the interpatellar axis to describe biomechanical stability. As a conceptual contribution, this work does not include clinical validation or real-world data but provides a structured methodological foundation for future studies. The proposed framework is intended to support the development of accessible, smartphone-based screening and monitoring approaches for the early identification of balance-related impairments, thereby contributing to fall prevention research in neurologic and neuroorthopedic populations.",
-   "doi": "10.3389/fdgth.2026.1798559",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42491455/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -263,31 +204,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42339922",
-   "title": "An Information-Driven Approach for the Early Health Technology Sustainability Assessment and the Frugal Design of the Internet of Medical Things: An Exploratory Study of Wearable Activity Monitoring Devices.",
-   "journal": "JMIR Mhealth Uhealth",
-   "year": "2026",
-   "authors": [
-    "Quisbert-Trujillo E",
-    "Vuillerme N"
-   ],
-   "abstract": "Wearable Activity Monitoring (WAM) devices have become increasingly prevalent in the last decade for improving quality of life, and the prevention and day-to-day management of a wide range of health disorders. WAM devices based on the Internet of Medical Things (IoMT) paradigm offer a practical means of tracking Physical Activity (PA), but their widespread use raises sustainability concerns. Meanwhile, established methodologies such as Health Technology Assessment (HTA) and Life Cycle Assessment (LCA) are typically applied at very advanced stages of development, when empirical certainty about the final design and operating conditions is available, leaving little room for subsequent improvements. This exploratory work aims to provide the empirical foundations for an information-driven approach that addresses this paradox in the development, early evaluation, and conception of wrist-worn step counters, for which recent evidence suggests overdimensioned and unsustainable electronic designs. Specifically, we seek to identify optimal resource-performance trade-offs in critical electronic components of frugal smartbands, based on the amount of data they can collect and the information they preserve for step counting. In this manner, we explicitly account for uncertainties in device reliability, variability in users' gait speeds, and material and energy consumption in final products. We proceeded in three steps. First, we conducted a secondary analysis of an existing accelerometer dataset characterizing wrist motion in healthy individuals walking at different speeds. The original sampling rate of the x-, y-, and z-axis signals was progressively reduced using cubic spline interpolation and then discretized to quantify the information preserved in the downsampled signals, first as a function of frequency variations and then with respect to changes in motion velocity. Additionally, we assessed preliminarily the viability of the downsampled signals for step detection by estimating percentage errors in peak and valley counts. Based on this analysis, we constructed and evaluated four design archetypes for frugal smartbands, linking energy consumption and sampling frequency for four widely used accelerometers, and combining the capabilities of essential electronic components (transceivers and microcontrollers) required to implement a suboptimal asynchronous First-In-First-Out (FIFO) algorithm operating at different sampling rates. In a third step, we evaluated the environmental impact and circularity of these components through a streamlined analysis focused exclusively on their raw materials. Between 70% and 90% of the information is lost in signals downsampled at very low frequencies (between 2 Hz and 5 Hz), whereas moderate losses below 24% are observed from 20 Hz onwards. Additionally, substantial information loss occurs when individuals walk briskly or jog (\u2265 8 km/h), or when they walk at normal speeds below 8 km/h with sampling frequencies below 7 Hz or above 25 Hz. Step-counting accuracy is expected to be acceptable from approximately 11 Hz onwards. Conversely, higher sampling rates rapidly saturate FIFO buffers and increase energy overhead, particularly when implemented in memory-dense components handling both data transfer and processing. Finally, gold and silver in transceivers and microcontrollers contribute significantly to resource depletion, while copper content remains relevant for potential material recovery. These findings provide preliminary insights toward the concurrent assessment and development of frugal WAM devices. This work extends current understanding in step detection under knowledge-constrained conditions and provides concrete mechanisms to reduce uncertainty during early Health Technology Assessment and eco design.",
-   "doi": "10.2196/88237",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42339922/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -845,33 +761,29 @@
    "bucket": "research"
   },
   {
-   "pmid": "42339465",
-   "title": "Effect of visual disruption on the lower limb kinematic and kinetic characteristics in athletes after anterior cruciate ligament reconstruction.",
-   "journal": "Front Bioeng Biotechnol",
+   "pmid": "42493723",
+   "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
+   "journal": "Lasers Med Sci",
    "year": "2026",
    "authors": [
-    "Yu P",
-    "Yu Y",
-    "Sun J",
-    "Chen Y",
+    "Ikuta Y",
+    "Yamakawa R",
+    "Toriyama M",
+    "Ito H",
     "et al."
    ],
-   "abstract": "Proprioceptive deficits following anterior cruciate ligament (ACL) injury increase reliance on visual input in athletes after ACL reconstruction (ACLR). Visual disruption may therefore alter movement patterns and increase re-injury risk. However, its influence on lower limb biomechanics during cutting maneuvers in ACLR athletes remains unclear. To investigate the effects of visual disruption on the kinematic and kinetic characteristics of the lower limb during the 90\u00b0 cutting maneuver in athletes after ACLR. Twenty athletes after ACLR and twenty healthy athletes were recruited to randomly undergo two different visual conditions, eyes-open and visual disruption, and to complete the 90\u00b0 cutting maneuver in each of the two visual conditions. Visual disruption was performed with strobe glasses. A nine-camera infrared motion capture system (Vicon T40, 200\u00a0Hz) was used to collect lower-limb kinematics data during the 90\u00b0 cutting task, while a three-dimensional force platform (Kistler, 1,000\u00a0Hz) recorded kinetic data. Data were processed using Visual 3D software, and statistical analyses were conducted using SPSS (version 25.0). A two-factor repeated measures analysis of variance was used to determine the effects of group and visual conditions on kinematic and kinetic variables. (1) Compared with the eyes-open condition, the peak knee valgus angle (P = 0.025, ES = 0.157) and peak ankle inversion angle (P = 0.005, ES = 0.233) of athletes after ACLR were significantly increased under visual disruption conditions. There was no significant difference between the kinematic variables of the healthy athletes in the two visual conditions (P > 0.05). (2) Compared with the eyes-open condition, the hip extension moment of athletes after ACLR was significantly increased (P = 0.037) and the knee extension moment was significantly reduced (P = 0.039) under visual disruption conditions. There was no significant difference (P > 0.05) in the kinetic variables of the healthy athletes between the two visual conditions. Visual disruption increased knee valgus and ankle inversion angles in athletes after ACLR, which may increase the risk of secondary anterior cruciate ligament injuries and lateral ankle sprains. These results suggest that ACLR athletes have a poorer ability to recalibrate sensory information to visual disruption compared to healthy athletes.",
-   "doi": "10.3389/fbioe.2026.1767092",
+   "abstract": "To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3\u2009\u00b1\u20093.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group \u00d7 CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group \u00d7 CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.",
+   "doi": "10.1007/s10103-026-04966-6",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Randomized Controlled Trial"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42339465/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42493723/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
@@ -1187,6 +1099,39 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42494100",
+   "title": "Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "Trentacosta N",
+    "Kaneda G",
+    "Schimmoeller N",
+    "Huang DT",
+    "et al."
+   ],
+   "abstract": "Female reproductive hormones are attributed to the higher rate of musculoskeletal (MSK) injuries among female athletes compared with male athletes. To evaluate association between exposure to hormonal contraceptives (HCs), joint laxity, and number of injuries in female athletes over a 1-year period. Cohort study. Level 3. Professional and Division I collegiate female athletes were recruited into 2 groups based on HC status (HC vs non-HC). Serum relaxin, estrogen and progesterone levels, knee laxity, generalized hypermobility, and lower extremity kinematics during a single-legged jump were examined during preseason in the luteal phase of each athlete's menstrual cycle. Injuries were tracked for 1\u2009year after testing. Circulating levels of progesterone (non-HC, 38.9\u2009\u00b1\u200915.0 pg/mg vs HC, 28.6\u2009\u00b1\u200911.4 pg/mg; P\u2009<\u20090.01), estrogen (non-HC, 2.80\u2009\u00b1\u20093.0 pg/mg vs HC, 2.0\u2009\u00b1\u20093.0 pg/mg; P\u2009=\u20090.01), and relaxin (non-HC, 0.26\u2009\u00b1\u20090.08\u2009pg/mg vs HC, 0.22\u2009\u00b1\u20090.03 pg/mg; P\u2009=\u20090.04) were lower in HC (n\u2009=\u200932) than in non-HC (n\u2009=\u200940) athletes during the luteal phase of the cycle. Non-HC athletes demonstrated significantly greater hip flexion at initial contact (non-HC, 29.42\u00b0\u00b1\u20097.64\u00b0 vs HC, 25.25\u00b0\u00b1\u20097.13\u00b0; P\u2009=\u20090.02), and greater knee adduction (valgus) at maximum knee flexion (non-HC, -1.90\u00b0\u00b1\u20093.25\u00b0 vs HC, -0.25\u00b0 \u00b1 3.40\u00b0; P\u2009=\u20090.02) during a single-legged drop. Average (\u00b1SD) injury count for non-HC athletes was 0.71 (\u00b11.3) compared with 0.35 (\u00b10.70) in the HC group (P\u2009=\u20090.25). Injury count was correlated significantly to circulating levels of relaxin (r\u2009=\u20090.32; P\u2009<\u20090.01). A potential relationship between increased circulating relaxin levels and the risk of injury was established. Athletes taking HCs demonstrated significantly reduced peak knee adduction angles when landing from a jump. The results advance knowledge of relationships between specific hormones and injury risk, and the potential role of HCs on kinematic patterns when landing from a jump. Future research will determine HC formulations that may protect against MSK injury, and inform broader strategies to reduce sport-related injury risk in female athletes.",
+   "doi": "10.1177/19417381261459590",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42494100/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -1699,34 +1644,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42336184",
-   "title": "Particulated autologous cartilage with platelet-rich plasma for osteochondral lesions of the talus in athletes: Return to sport and functional outcomes at 12 months.",
-   "journal": "J Foot Ankle Surg",
-   "year": "2026",
-   "authors": [
-    "Barastegui D",
-    "Velasco P",
-    "Malatesta A",
-    "Ferre-Aniorte A",
-    "et al."
-   ],
-   "abstract": "Osteochondral lesions of the talus (OLT) are common in athletes and may compromise performance. Single-stage autologous cartilage procedures have emerged as alternatives to microfracture and osteochondral transplantation. To evaluate return-to-sport (RTS) outcomes and functional results after particulated autologous cartilage combined with platelet-rich plasma (PACI-PRP) in athletes with symptomatic OLT. Case series, Level IV. Fifty-three athletes (mean age 28.8 \u00b1 11.4 years, 66% male) with symptomatic OLT >150 mm\u00b2 underwent PACI-PRP via arthroscopy (83%) or arthrotomy with malleolar osteotomy (17%). Clinical outcomes (AOFAS, VAS, FADI, Karlsson) were assessed at 12 months. RTS metrics included time to return, competitive level achieved, and continuation at one year. All scores improved significantly (p < 0.001): AOFAS 72\u219286 (+14 points), VAS 5.9\u21922.0 (-3.9 points), FADI 66\u219284 (+18 points), Karlsson 78\u219293 (+15 points). MCID achievement ranged from 75% to 94%. Forty-two of 52 athletes (81%, 95% CI: 68-90) returned to sport at median 32 weeks; 65% reached preinjury level. Four patients (8%) required reoperation for complications. PACI-PRP demonstrated promising short-term effectiveness with high RTS rates and significant functional improvements in athletes with OLT >150 mm\u00b2. As a single-stage, fully autologous procedure, PACI-PRP may offer potential advantages, though longer follow-up and comparative studies are needed to establish durability and precise indications.",
-   "doi": "10.1053/j.jfas.2026.06.017",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42336184/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42439906",
    "title": "Patient-specific talar resurfacing improves pain and function at 24 months in osteochondral lesions of the talus.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -2155,6 +2072,32 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42491455",
+   "title": "Smartphone-based vestibular & gait analysis for remote fall risk assessment.",
+   "journal": "Front Digit Health",
+   "year": "2026",
+   "authors": [
+    "Rezk E",
+    "Luschin-Ebengreuth M",
+    "Kaufmann H"
+   ],
+   "abstract": "Dizziness and vertigo are among the most common reasons for clinical consultation worldwide and represent key risk factors for falls, particularly in neurologic and neuroorthopedic patient populations. Early identification of balance and gait impairments is therefore relevant for fall prevention. However, access to established diagnostic tools such as video-oculography (VOG) and motion analysis systems remains limited due to cost, technical complexity, and the need for specialized personnel, especially in resource-constrained settings. This work proposes a conceptual framework for smartphone-based assessment of vestibular function and gait stability, aimed at supporting fall-related screening concepts. The approach is designed to integrate near-infrared eye tracking with inertial measurement unit (IMU)-based motion analysis within a unified smartphone-based sensing environment, enabling mobile and scalable applications. The framework outlines methods for extracting oculomotor and biomechanical features, including vestibulo-ocular behavior and gait stability metrics such as Triangular Area Variability (TAV) and inter-limb symmetry. In addition, it introduces the use of virtual anatomical reference points (S1, P L  , P R  ) and the projection of sacral motion onto the interpatellar axis to describe biomechanical stability. As a conceptual contribution, this work does not include clinical validation or real-world data but provides a structured methodological foundation for future studies. The proposed framework is intended to support the development of accessible, smartphone-based screening and monitoring approaches for the early identification of balance-related impairments, thereby contributing to fall prevention research in neurologic and neuroorthopedic populations.",
+   "doi": "10.3389/fdgth.2026.1798559",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42491455/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42439885",

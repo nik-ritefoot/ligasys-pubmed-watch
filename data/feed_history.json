@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42496709",
+  "title": "Imaging of bone stress injury in runners.",
+  "journal": "Skeletal Radiol",
+  "year": "2026",
+  "authors": [
+   "Rawal S",
+   "Yeo EG",
+   "Rawal S",
+   "Kwon H",
+   "et al."
+  ],
+  "abstract": "Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.",
+  "doi": "10.1007/s00256-026-05310-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42496709/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-25T14:48:36Z"
+ },
+ {
   "pmid": "42493723",
   "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
   "journal": "Lasers Med Sci",

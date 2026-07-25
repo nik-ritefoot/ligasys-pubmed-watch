@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-07-24T15:15:37Z</updated>
+  <updated>2026-07-25T14:48:36Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Imaging of bone stress injury in runners.</title>
+    <id>urn:pmid:42496709</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42496709/" rel="alternate"/>
+    <updated>2026-07-25T14:48:36Z</updated>
+    <published>2026-07-25T14:48:36Z</published>
+    <author><name>Rawal S</name></author><author><name>Yeo EG</name></author><author><name>Rawal S</name></author><author><name>Kwon H</name></author><author><name>et al.</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Rawal S, Yeo EG, Rawal S, Kwon H, et al. · Skeletal Radiol · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1007/s00256-026-05310-3&quot;&gt;10.1007/s00256-026-05310-3&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42496709/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.</title>
     <id>urn:pmid:42494100</id>
