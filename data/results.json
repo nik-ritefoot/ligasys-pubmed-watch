@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-25T14:48:36+00:00",
+ "generated": "2026-07-26T14:51:15+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,68 +65,12 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 1,
+  "total": 83,
+  "new": 0,
   "research": 33,
-  "fieldnotes": 52
+  "fieldnotes": 50
  },
  "records": [
-  {
-   "pmid": "42496709",
-   "title": "Imaging of bone stress injury in runners.",
-   "journal": "Skeletal Radiol",
-   "year": "2026",
-   "authors": [
-    "Rawal S",
-    "Yeo EG",
-    "Rawal S",
-    "Kwon H",
-    "et al."
-   ],
-   "abstract": "Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.",
-   "doi": "10.1007/s00256-026-05310-3",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42496709/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42344846",
-   "title": "A multimodal spatio-temporal graph neural network framework for fatigue detection in tennis serving.",
-   "journal": "Front Bioeng Biotechnol",
-   "year": "2026",
-   "authors": [
-    "Yuan Y",
-    "Wang L",
-    "Jia H",
-    "Jiao J"
-   ],
-   "abstract": "The tennis serve is a complex, high-velocity motion dependent on the efficient transfer of energy through the kinetic chain, from the lower extremities to the racquet. Fatigue-induced alterations in this chain are primary precursors to overuse injuries, such as rotator cuff tendinopathy and elbow medial collateral ligament stress. However, current wearable monitoring solutions predominantly rely on unimodal kinematic data, failing to capture the neuromuscular compensatory mechanisms that precede mechanical performance degradation. This study introduces a novel multimodal framework integrating inertial measurement units (IMUs) and surface electromyography (sEMG) with a Spatio-Temporal Graph Convolutional Network (ST-GCN). We recruited 15 high-performance tennis players to perform a standardized specific endurance protocol (serving to exhaustion). A graph topology representing the human skeletal structure was constructed to model spatial dependencies, while sEMG signals were fused as node attributes to capture neural drive intensity. Statistical significance was assessed using paired t -tests with Bonferroni correction, and model performance differences were evaluated by one-way repeated measures ANOVA with post-hoc pairwise comparisons. The proposed ST-GCN framework achieved a fatigue state classification accuracy of 95.2% (F1-score: 0.94), significantly outperforming traditional Long Short-Term Memory (LSTM) (88.1%) and Convolutional Neural Network (CNN) architectures (85.6%), as well as a Spatial-Temporal Transformer network (ST-TR) (93.1%) ( p < 0.001 for all pairwise comparisons). Biomechanical analysis revealed a significant \"neuromechanical lag\" (p < 0.01) and a compensatory pattern characterized by reduced knee flexion (-12.4\u00b0) during the fatigued state, accompanied by a non-significant upward trend in shoulder internal rotation velocity (+8.5%, p = 0.012). By decoding the hidden dependencies within the kinetic chain, this system provides a computationally efficient fatigue detection framework with a model inference latency of 8.4\u00a0ms, constituting a technically feasible step toward on-court deployment and offering a potential paradigm for smart sports engineering and precision rehabilitation.",
-   "doi": "10.3389/fbioe.2026.1828589",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42344846/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42453598",
    "title": "A Simple Ankle Value to Differentiate Copers and Patients Likely to Develop Chronic Ankle Instability After Lateral Ankle Sprain.",
@@ -1022,33 +966,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42346767",
-   "title": "Functional Differences Across Playing Roles in Volleyball: A Sensor-Based Assessment.",
-   "journal": "J Funct Morphol Kinesiol",
-   "year": "2026",
-   "authors": [
-    "Taborri J",
-    "Strippoli M",
-    "Molinaro L",
-    "Rossi S"
-   ],
-   "abstract": "Objectives: Volleyball playing positions are associated with different functional demands. This study compared postural control, jump performance, and upper-limb mobility across playing roles in competitive male volleyball players. Methods: Fifty male volleyball players competing in the Italian Serie C championship were equally distributed across five roles: middle blockers (MB), liberos (LIB), opposite hitters (OH), setters (SET), and outside hitters (HIT). Using a wearable inertial sensor, athletes performed bipodalic balance tasks with eyes open and closed, dominant- and non-dominant-leg single-leg balance, squat jump (SJ), countermovement jump (CMJ), and bilateral upper-limb flexion and extension tests. Results: Significant role-related differences emerged in balance and jump performance. In bipodalic balance, the eyes-open condition showed a mixed pattern, with HIT displaying the largest ellipse area and SET showing the highest path-related values, whereas in the eyes-closed condition, HIT showed the highest values across all stabilometric parameters. In the single-leg stance, OH showed the largest postural excursions on the dominant side, while LIB stood out on the non-dominant side. In jump tests, MB showed the best vertical performance in both SJ and CMJ, whereas LIB and SET generally showed the lowest outputs. Temporal differences also emerged across roles. Upper-limb mobility was similar across roles in flexion, while extension showed a role-specific pattern, with SET displaying greater ROM than LIB, HIT, and OH. Conclusions: Volleyball roles are associated with distinct functional profiles in balance, jump mechanics, and upper-limb mobility. This integrated assessment may support more specific training, monitoring, and injury-prevention strategies.",
-   "doi": "10.3390/jfmk11020238",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42346767/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42457031",
    "title": "Functional Outcomes and Return to Sport After Surgical Repair of Complete Proximal Hamstring Avulsions in Recreational Athletes: A Retrospective Case Series.",
    "journal": "J ISAKOS",
@@ -1157,6 +1074,35 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42362907/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42496709",
+   "title": "Imaging of bone stress injury in runners.",
+   "journal": "Skeletal Radiol",
+   "year": "2026",
+   "authors": [
+    "Rawal S",
+    "Yeo EG",
+    "Rawal S",
+    "Kwon H",
+    "et al."
+   ],
+   "abstract": "Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.",
+   "doi": "10.1007/s00256-026-05310-3",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42496709/",
    "matched": [
     {
      "id": "return-to-play",
