@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-26T14:51:15+00:00",
+ "generated": "2026-07-27T16:01:33+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,10 +65,10 @@
   }
  ],
  "counts": {
-  "total": 83,
+  "total": 75,
   "new": 0,
-  "research": 33,
-  "fieldnotes": 50
+  "research": 30,
+  "fieldnotes": 45
  },
  "records": [
   {
@@ -93,36 +93,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42356929",
-   "title": "Accuracy and Validity of 3D Markerless Motion Capture Compared to Marker-Based Systems for Lower-Limb Biomechanical Assessment: A Systematic Review.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Chougule A",
-    "Dowsett M",
-    "Ekundayomi D",
-    "Machesney A",
-    "et al."
-   ],
-   "abstract": "Marker-based motion capture systems are considered the gold standard for biomechanical analysis of movements associated with anterior cruciate ligament (ACL) injury risk; however, their cost and technical requirements limit their use for large-scale athlete screening. Markerless motion capture has emerged as a potential alternative, using pose estimation algorithms or depth cameras to quantify movement without reflective markers. This systematic review evaluated the accuracy and validity of markerless motion capture systems for measuring lower-limb kinematics during jump-landing tasks commonly used in ACL injury screening. MEDLINE, Embase, and Web of Science were searched from 1990 to March 2025 for studies comparing markerless and marker-based systems in healthy participants. Extracted outcomes included Bland-Altman plots, root mean square error, mean absolute error, Pearson's correlation coefficient, coefficient of multiple correlation, and intraclass correlation coefficient. Across studies, markerless systems demonstrated moderate to high validity for several lower-limb kinematic measures, particularly in the sagittal plane, although validity varied across joints, movement phases, and task complexity. These findings suggest markerless motion capture shows potential for biomechanical assessment in ACL injury screening, but further validation is required before widespread implementation.",
-   "doi": "10.3390/s26123956",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42356929/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -217,35 +187,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42351936",
-   "title": "Application of Artificial Intelligence for Predicting Sports Injuries and Customizing Personalized Prevention Strategies: A Scoping Review.",
-   "journal": "Bioengineering (Basel)",
-   "year": "2026",
-   "authors": [
-    "Dhahbi W",
-    "Jebabli N",
-    "Souaifi M",
-    "Ceylan H\u0130",
-    "et al."
-   ],
-   "abstract": "Background: Sports injuries impose a substantial burden on athletes. Machine learning (ML) and deep learning (DL) methods, collectively referred to as artificial intelligence (AI), are increasingly applied to develop predictive models and targeted prevention strategies. Objective: This scoping review aimed to map contemporary trends in AI applications for sports injury prediction and personalised prevention strategies, critically appraising the existing methodological approaches and identifying future research directions. Methods: Following PRISMA-ScR guidelines, we systematically searched five electronic databases, i.e., PubMed, Web of Science, Institute of Electrical and Electronics Engineers Xplore, Scopus, and Google Scholar, for peer-reviewed studies published up to February 2026 that applied AI methods for injury prediction and/or prevention in athletic populations. Results: Thirty-nine studies were included. Tree-based ML algorithms were the most common (59% of studies) methods used, with reported area under the curve values ranging from 0.82 to 0.95. DL was used in 18% of studies, with one hybrid model reporting 92% accuracy. Integrating multi-modal data was associated with improved model performance in 37% of studies. Among included studies, AI-informed prevention strategies were associated with injury reductions ranging from 23% to 42%, derived from synthesis-level and single-centre intervention evidence, respectively. The key challenges identified were heterogeneous injury definitions, small sample sizes, and data privacy concerns. Conclusions: AI models can inform personalised injury prevention, but their clinical use is limited by methodological issues. Key limitations include heterogeneous injury definitions, small sample sizes, and a lack of external validation. Standardised protocols are needed to improve the reliability and application of these models in practice.",
-   "doi": "10.3390/bioengineering13060692",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42351936/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42389367",
    "title": "Arthroscopic vs. open Brostr\u00f6m-Gould procedure for chronic lateral ankle instability: a systematic review and meta-analysis.",
    "journal": "Front Surg",
@@ -324,59 +265,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42351887",
-   "title": "Biomechanical Effects of Socks on Plantar Loading and Foot Function: A Systematic Review.",
-   "journal": "Bioengineering (Basel)",
-   "year": "2026",
-   "authors": [
-    "Painceira-Villar R",
-    "Cobos-Moreno P",
-    "Gudaitis K",
-    "Nova AM",
-    "et al."
-   ],
-   "abstract": "The biomechanical interaction within the foot-footwear system plays a critical role in load distribution, impact attenuation, and locomotor function. While footwear and orthoses have been widely studied, the role of socks as an interface component remains poorly understood. This study aimed to systematically review the evidence on the biomechanical effects of socks on human gait, including their influence on plantar pressure, impact attenuation, postural control, and functional performance. A systematic review was conducted in accordance with PRISMA guidelines and registered in PROSPERO (CRD420261344641). PubMed, Scopus, and Web of Science were searched from inception to March 2026. Experimental, observational, and clinical studies evaluating the effects of socks on foot or lower limb biomechanical variables were included. Study selection, data extraction, and risk of bias assessment were performed independently by two reviewers using adapted Cochrane RoB domains. Twenty-five studies were included. Socks with cushioning or specific designs consistently reduced plantar pressure, particularly in the forefoot, with peak pressure reductions of up to 49% in high-risk populations. Socks also contributed to impact attenuation, reducing peak forces by 6-20%, although this was less than that of footwear. Effects on postural control were heterogeneous: compression socks improved balance and neuromuscular response, whereas thick socks impaired plantar sensitivity and stability. Regarding functional performance, high-friction socks improved performance in sports settings by reducing in-shoe foot displacement, although results were inconsistent. Overall risk of bias was high, mainly due to limitations in randomization. Socks are an active component of the foot-footwear system, capable of influencing key biomechanical parameters, such as plantar pressures. However, further high-quality studies are needed to strengthen the evidence.",
-   "doi": "10.3390/bioengineering13060643",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42351887/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42355846",
-   "title": "Body Composition Architecture and Injury Topology in Physically Active Young Adults: A Tanglegram-Based Cophylogenetic Approach.",
-   "journal": "J Clin Med",
-   "year": "2026",
-   "authors": [
-    "Domaradzki J"
-   ],
-   "abstract": "Background/Objectives: Injury occurrence in physically active young adults is considered a multifactorial phenomenon influenced by body composition and training-related characteristics. This study aimed to investigate the multidimensional relationships between body composition, training context variables, and injury phenotypes in physically active university students using exploratory multivariate approaches. Methods: The study included 418 physically active university students. Participants completed questionnaires regarding injury history, physical activity, and sport participation and underwent standardized anthropometric and body composition assessments. Analyses included Kendall's Tau correlations, multiple correspondence analysis (MCA), hierarchical clustering, heatmap phenotyping, tanglegram-based clustering analysis, and distance-based redundancy analysis (dbRDA). The tanglegram analyses were intended as exploratory structure-matching procedures designed to evaluate similarities in hierarchical organization between domains rather than direct biological associations, causal relationships, or predictive effects. Results: Weak but significant associations were observed between selected body composition variables and injury outcomes, particularly for skeletal-muscle-related indicators and lower limb injuries. MCA and clustering analyses identified partially differentiated sport-training profiles and exploratory injury-burden phenotypes. Topology-based cross-domain matching analyses suggested partial structural correspondence between body composition, training context, and injury phenotypes; however, the most anatomically coherent patterns were observed for local body composition variables. Nevertheless, overall cross-domain concordance remained weak-to-moderate. dbRDA demonstrated statistically significant but weak associations for body composition (adjusted R2 = 0.027, p = 0.001) and the combined explanatory model (adjusted R2 = 0.022, p = 0.023), whereas the training context model was not significant (adjusted R2 = 0.002, p = 0.304). Conclusions: Injury occurrence was weakly associated with body composition and training context characteristics within a multidimensional exploratory framework. The findings are consistent with the interpretation of injury occurrence as a heterogeneous and predominantly multifactorial phenomenon and highlight the utility of multidimensional exploratory approaches for investigating complex injury-related patterns.",
-   "doi": "10.3390/jcm15124678",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42355846/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1425,31 +1313,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42355854",
-   "title": "Motion Analysis Technologies for ACL Injury Prevention: From Laboratory Assessment to Field-Based Clinical Screening.",
-   "journal": "J Clin Med",
-   "year": "2026",
-   "authors": [
-    "Alfayyadh A"
-   ],
-   "abstract": "Anterior cruciate ligament (ACL) injuries remain a leading cause of morbidity in athletic populations, with 70-80% occurring through non-contact mechanisms driven by biomechanical risk factors including knee valgus (>10\u00b0), low knee flexion (<30\u00b0), tibial internal rotation (>20\u00b0), and loading asymmetry (>15\u00b0), yet implementation of evidence-based neuromuscular training (which reduces injury risk by 50-70%) remains limited due to barriers in identifying at-risk individuals through accessible field-based screening. This narrative review synthesizes motion analysis technologies spanning laboratory-based optical systems (marker-based), wearable inertial measurement units (IMUs), computer vision and marker-less pose estimation, force plate and pressure-sensitive insole systems, and integrated drone-based field assessment platforms to address this critical gap. We present a three-tier clinical screening framework that progresses from basic anthropometric and single-plane video analysis to multi-modal biomechanical assessment using real-time kinematic feedback. As an illustrative example of emerging field-deployable technology, an integrated drone-based motion capture and smart insole system combining 4K video capture, AI-driven 3D motion reconstruction, and plantar pressure mapping is described to demonstrate how laboratory-quality biomechanical assessment can be achieved in ecologically valid field settings. This evidence-based review addresses current gaps between laboratory research and practical field deployment, with emphasis on cost-effectiveness, accessibility, and clinical utility for ACL injury prevention in diverse sporting environments.",
-   "doi": "10.3390/jcm15124686",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42355854/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42458567",
    "title": "Narrative review of the mechanisms, intrinsic risk and predictive factors, and incidence of lateral ankle sprains amongst male and female athletes participating in sex-similar sports.",
    "journal": "BMC Sports Sci Med Rehabil",
@@ -1677,34 +1540,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42356055",
-   "title": "Preliminary Clinical and Functional Outcomes After Combined Treatment of Lateral Osteochondral Lesions of the Talus and Chronic Ankle Instability Using Autologous Minced Cartilage and Retinaculum Flap Augmentation.",
-   "journal": "Medicina (Kaunas)",
-   "year": "2026",
-   "authors": [
-    "Klos K",
-    "Landgraeber S",
-    "Roth KE",
-    "Penev P",
-    "et al."
-   ],
-   "abstract": "Background: Osteochondral lesions of the lateral talar shoulder (OLT) represent a significant therapeutic challenge, particularly when associated with chronic lateral ankle instability (CAI). While bone marrow stimulation is well established for talar lesions, clinical evidence on the minced cartilage technique (AutoCart\u2122, Arthrex, Naples, FL, USA) in this specific localization remains limited. This study aimed to evaluate the short-term clinical and functional outcomes following combined treatment of lateral OLT and CAI using autologous minced cartilage and open ligament repair. Methods: Nine patients (mean age: 39.8 years) with symptomatic lateral OLT and concomitant CAI were treated using the minced cartilage technique in conjunction with lateral ligament reconstruction. The mean defect size was 64.8 \u00b1 30.2 mm2. Clinical and functional outcomes were assessed at a mean follow-up of 15.8 months using the Foot Function Index (FFI), Visual Analog Scale (VAS) for pain, return-to-sport status, and a motor-cognitive test (Skillcourt system). Postoperative complications and patient satisfaction were recorded. Results: No postoperative complications occurred. All patients reported satisfaction with surgical outcomes. The mean postoperative FFI was 14.92 \u00b1 12.74, indicating minimal functional limitations in daily life. Skillcourt testing revealed no significant side-to-side differences in most tests, except for the Single Leg Stability Test, which showed a significant deficit on the operated side (p = 0.027; Cohen's d = 0.9). Reduced dorsiflexion limited test performance of four patients. The average postoperative VAS during functional testing was 1.42 \u00b1 1.62. Conclusions: Combined treatment of lateral OLT and CAI using the minced cartilage technique and open ligament stabilization yields favorable short-term clinical and functional outcomes. Despite minor limitations in dorsiflexion, patients achieved high satisfaction rates and functional recovery. These preliminary findings support the technical feasibility and short-term clinical applicability of combining biological cartilage repair with mechanical stabilization for lateral talar lesions < 100 mm2. However, larger prospective studies with longer follow-ups are warranted to validate these findings.",
-   "doi": "10.3390/medicina62061042",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42356055/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42483571",
    "title": "Preventive efficiency of neuromuscular training in reducing lower limb injuries among youth soccer athletes: a systematic review and meta-analysis of randomized controlled trials.",
    "journal": "Front Sports Act Living",
@@ -1784,38 +1619,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42349374",
-   "title": "Reduced Cerebellar Activation With Eyes Closed Is Associated With Delayed Peroneal Reaction Time in Patients With Chronic Ankle Instability.",
-   "journal": "Clin Orthop Relat Res",
-   "year": "2026",
-   "authors": [
-    "Hou Z",
-    "Zeng X",
-    "Huang W",
-    "Jiang D"
-   ],
-   "abstract": "Chronic ankle instability (CAI) is a common consequence of lateral ankle sprain and is characterized by recurrent episodes of giving way and impaired neuromuscular control. Neuromuscular control impairments (such as decreased postural stability and delayed muscle responses) are dominant during reduced vision. However, the neural mechanisms underlying impaired sensorimotor integration under reduced vision remain unclear. As a key structure involved in sensorimotor processing, the role of the cerebellum during vision-related neuromuscular control impairments has not been well defined. (1) Are there any differences in cerebellar activation across different visual conditions in patients with CAI compared with a control group? (2) Are there any associations between vision-related cortical activation changes and static and dynamic neuromuscular control deficits in patients with CAI? This cross-sectional study enrolled physically active adults with unilateral CAI and control participants matched for age, sex, and activity level. Between May and September 2025, a total of 55 individuals were screened. Of these, 64% (35 of 55) were considered eligible based on the inclusion criteria, consisting of 57% (20 of 35) in the CAI group (nine females, mean \u00b1 SD age 28 \u00b1 7 years) and 43% (15 of 35) in the control group (eight females, mean age 25 \u00b1 4 years). To assess cerebellar activation and its relation to neuromuscular control, all participants underwent task-based functional MRI (fMRI) and laboratory-based neuromuscular assessments. During fMRI, participants performed repetitive ankle dorsiflexion and plantarflexion movements using an MRI-compatible device under alternating eyes-open and eyes-closed conditions in a block design. Neuromuscular control was assessed during single-leg stance and a sudden ankle inversion (trapdoor) task. Postural stability was quantified using the Romberg ratio derived from center-of-pressure measures. Dynamic neuromuscular response was evaluated by peroneal reaction time using surface EMG synchronized with motion capture. Ankle function and perceived instability were assessed using questionnaires (Cumberland Ankle Instability Tool [CAIT], Foot and Ankle Ability Measure [FAAM], and Ankle Ligament Reconstruction-Return to Sport After Injury [ALR-RSI] tool). Whole-brain analyses were conducted to identify between-group differences in vision-related activation (eyes closed minus eyes open) using a general linear model with Gaussian random field correction. Clusters greater than 50 voxels were considered to be the minimum clinically important difference. Correlation analyses were performed to examine associations between neural activation patterns, neuromuscular outcomes, and clinical measures, with age and sex included as covariates. Compared with controls, individuals with CAI demonstrated reduced activation when eyes changed from open to closed in bilateral cerebellar regions including lobule VI (left hemisphere: cluster size 156 voxels, group mean difference -25.1 [95% confidence interval (CI) -40.1 to -10.1]; p < 0.001; right hemisphere: cluster size 153 voxels, group mean difference -21.7 [95% CI -36.3 to -7.6]), vermis VI (cluster size 51, group mean difference -26.6 voxels [95% CI -44.8 to -8.4]), and crus I (cluster size 112 voxels, group mean difference -21.9 [95% CI -35.8 to -8.1]), as well as in the left fusiform gyrus (cluster size 54 voxels, group mean difference -18.1 [95% CI -29.3 to -6.8]). Correlation analyses revealed that reduced activation in cerebellar and fusiform gyrus in both eyes-open and eyes-closed states was moderately associated with delayed peroneal reaction time in both visual conditions (eyes open: r = -0.38; p = 0.03; eyes closed: r = -0.40; p = 0.02) and worse self-reported ankle stability and function, as measured by the CAIT (r = 0.34; p = 0.046) and ALR-RSI (r = 0.38; p = 0.02). No correlations were observed between cerebellar activation and Romberg ratio. Patients with CAI demonstrated reduced cerebellar activation across visual conditions, which was associated with delayed dynamic muscle responses and worse perceived ankle stability. These findings suggest that patients with CAI had vision-related central activation strategies, such as reduced cerebellar activation when eyes were closed compared with controls. Such neural alterations were associated with decreased neuromuscular control and diminished ankle function. These vision-specific central alterations may be important in designing future interventions aimed at enhancing central sensorimotor integration.",
-   "doi": "10.1097/CORR.0000000000003986",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42349374/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42429293",
@@ -1900,44 +1703,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42349117",
-   "title": "Rolling after landing reduces ankle inversion and rotational parameters during perturbed and unperturbed landings.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Song Y",
-    "Gilbert R",
-    "Dai B",
-    "Fong DTP",
-    "et al."
-   ],
-   "abstract": "Lateral ankle sprain is one of the most common musculoskeletal injuries, frequently occurring in team sports involving player contact. Despite the well-documented injury mechanism of lateral ankle sprain, its incidence remains high. This study aimed to investigate the effect of three landing strategies, natural, soft, and rolling after landing, on ankle joint angles, angular velocities, and moments associated with lateral ankle sprain, with and without unanticipated mid-air trunk perturbation. Twenty-eight recreational athletes performed double-leg jumps with single-leg landings under three landing strategies and two perturbation conditions, with motion and force data collected. Ankle angles at initial ground contact, peak angles, angular velocities, and internal net moments during landings were obtained in three planes. Two-by-three repeated-measure ANOVAs were applied (p-value\u00a0\u2264\u00a00.05). Rolling significantly increased peak ankle eversion angles, decreased peak ankle inversion angular velocity, and reduced peak internal plantarflexion moments and external rotation moments during landing compared to other landing strategies, regardless of perturbation conditions. Perturbation reduced ankle plantarflexion and internal rotation angles at initial contact and peak values, and peak internal ankle eversion moment during landing, among landing strategies. When mid-air perturbation was applied, greater peak ankle plantarflexion angular velocities were observed in natural and soft landings compared to rolling after landing. Rolling after landing appears to reduce ankle inversion and rotational mechanics commonly implicated in lateral ankle sprain mechanisms, particularly under perturbation conditions. Therefore, rolling was associated with reduced ankle moments under both perturbed and unperturbed conditions, suggesting potential mechanical benefits during landing.",
-   "doi": "10.1016/j.jbiomech.2026.113426",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42349117/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42401083",
