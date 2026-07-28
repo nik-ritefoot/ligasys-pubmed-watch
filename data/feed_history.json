@@ -1,5 +1,311 @@
 [
  {
+  "pmid": "42516644",
+  "title": "Assessment of the Effect of Improved Medial Linkage Reciprocating Orthosis Compared to Isocentric Orthosis on the Motor Function in Spinal Cord Injury Patients.",
+  "journal": "Med J Islam Repub Iran",
+  "year": "2026",
+  "authors": [
+   "Rajabi Moghaddam A",
+   "Daryabor A",
+   "Arazpour M",
+   "Hajiaghaei B",
+   "et al."
+  ],
+  "abstract": "Spinal cord injuries (SCI) result in profound mobility impairments, particularly the inability to walk. Traditional orthotic devices, while aiding mobility, often lead to high energy expenditure and discomfort. This study aimed to develop a novel orthosis that enhances comfort, improves movement parameters, and reduces energy consumption by incorporating medial linkage joints and reciprocal mechanisms into the existing Medial Linkage Reciprocating Gait Orthosis (MLRGO). The effectiveness of this new device was evaluated against both the Isocentric Reciprocating Gait Orthosis (IRGO) and conventional Knee-Ankle-Foot Orthoses (KAFOs) in a case study with three participants. This case study involved three patients with thoracic SCI, selected through convenience sampling. The new MLRGO was designed in the initial phase, followed by a comparative analysis involving the new MLRGO, IRGO, and KAFOs. Parameters assessed included average step length, walking speed, cadence, physiological cost index (PCI), static balance, and the time required for donning and doffing the orthoses, using standardized assessment tests. Repeated measures ANOVA with Bonferroni correction was used to compare group means, with a significance level of P value< 0.05. The new MLRGO significantly enhanced walking speed (P=0.037 vs. IRGO, P=0.006 vs. KAFOs), distance (P=0.036 vs. KAFOs), average step length (P=0.084 vs. KAFOs), and cadence (P=0.098 vs. KAFOs) compared to both the IRGO and KAFOs. Furthermore, it demonstrated superior energy efficiency relative to KAFOs (P=0.050), although no significant differences were found when compared to the IRGO. The new MLRGO also reduced donning (P=0.008 vs. IRGO) and doffing times (P=0.008 vs. IRGO), achieving performance levels comparable to KAFOs. The findings suggest that the new MLRGO facilitates a more natural and efficient walking pattern in patients with SCI compared to the IRGO and KAFOs. However, due to the small sample size, further studies are needed to confirm its efficacy as a promising alternative for rehabilitation in individuals with lower limb paralysis.",
+  "doi": "10.47176/mjiri.40.36",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42516644/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42510385",
+  "title": "Attention-Based Multimodal Framework for Athlete-Performance Analysis and Rehabilitation Monitoring Using Vision and Wearable Sensors.",
+  "journal": "Bioengineering (Basel)",
+  "year": "2026",
+  "authors": [
+   "Alonazi M",
+   "Abro IA",
+   "Abdelhaq M",
+   "Alsaqour R",
+   "et al."
+  ],
+  "abstract": "Advances in monitoring systems featuring wearable sensors, computer vision, and artificial intelligence (AI) have been increasingly used in sports science and rehabilitation practices as a means of movement pattern analysis, injury prevention, and training optimization. These technologies are becoming essential components of athlete-performance analysis and rehabilitation-monitoring systems designed to support biomechanical assessment, athlete development, and movement-quality evaluation. Athlete-performance analysis and rehabilitation monitoring increasingly rely on intelligent multimodal sensing systems capable of continuously evaluating movement quality, biomechanical patterns, training execution, and recovery progress. Human activity recognition (HAR) serves as a key enabling technology for these applications by providing automated assessment of human movement using wearable and vision-based sensing modalities. Therefore, the purpose of this study was to develop and evaluate an attention-based multimodal framework that integrates wearable inertial sensing and RGB video analysis for robust athlete-performance assessment and rehabilitation monitoring through accurate recognition of human movement patterns. Athlete-performance analysis and rehabilitation monitoring combining inertial sensor data and RGB-based visual information was introduced. Inertial signals were segmented with adaptive windowing, whereas silhouette refinement was performed to analyze motion structures from visual inputs in support of athlete-performance analysis and rehabilitation monitoring. Temporal, spatial, and motion features such as trajectory, orientation, and skeleton-based space-time representations were calculated from multimodal inputs. The proposed framework was designed to capture complex movement dynamics associated with rehabilitation exercises and sports-related motion patterns across heterogeneous sensing environments. Extracted features were then combined and optimized with a multimodal feature fusion approach, while the Ranger optimization algorithm was utilized during the process. An attention-based deep learning classifier was implemented to classify movement activities. The results showed that the proposed framework reached accuracy scores of 88.40% and 87.96% on the VIDIMU dataset and the UTD-MHAD dataset respectively. Recognition performance across both inertial and vision-based modalities provided greater robustness than single-modality solutions. The integration of wearable sensing and computer vision modalities further improved the ability of the framework to analyze complex movement behaviors under varying execution conditions and environmental variations. The proposed multimodal framework provides a foundation for intelligent athlete-performance and rehabilitation-monitoring systems by integrating wearable sensing, computer vision, and attention-based artificial intelligence for robust movement analysis. The findings highlight its potential to support biomechanical assessment, movement-quality evaluation, training-performance monitoring, rehabilitation tracking, and injury-risk management in modern sports and healthcare environments.",
+  "doi": "10.3390/bioengineering13070718",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42510385/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42514199",
+  "title": "Conservative Treatment Including Focused Extracorporeal Shockwave Therapy as a First-Line Treatment for Isolated Peroneus Longus Tendon Tear in a Professional Football Player Shows Excellent Clinical and Radiological Outcomes: A Case Report.",
+  "journal": "Life (Basel)",
+  "year": "2026",
+  "authors": [
+   "Culebras Almeida LA",
+   "Schwitzguebel AJ"
+  ],
+  "abstract": "Isolated peroneus longus (PL) tendon tears are rare injuries and an often-overlooked cause of chronic lateral ankle pain. Evidence regarding optimal conservative management, especially in elite athletes, remains limited. Focused extracorporeal shockwave therapy (F-ESWT) has shown promising results in tendinopathies, yet its application in acute tendon tears is poorly documented. We present the case of a professional football player in his late twenties who sustained an isolated longitudinal PL tear. The player underwent a combined conservative protocol including F-ESWT, physiotherapy, and custom orthotics. Pain (Visual Analog Scale, VAS) and function (AOFAS Ankle-Hindfoot Score) were assessed at baseline, three months, and in an 18-month follow-up. MRI scans were obtained at diagnosis and after six weeks to evaluate tendon healing. The conservative treatment protocol, including eight sessions of ultrasound-guided F-ESWT (2500-4000 impulses per session, 50-550 \u00b5J/mm2) led to marked pain relief and functional improvement. VAS decreased from 7/10 to 1/10, while AOFAS improved from 57 to 95 points, maintained at 18 months. MRI after six weeks of treatment demonstrated decreased intratendinous hyperintensity, reduced lesion length, and re-establishment of normal tendon architecture. The player returned to training after eight weeks and full competition after 12 weeks, remaining asymptomatic thereafter. A multimodal treatment consisting of F-ESWT, physiotherapy with progressive loading and orthotic correction resulted in rapid and durable healing of an isolated PL tear in a professional athlete. This case supports the potential role of a multimodal conservative treatment strategy including F-ESWT as a first-line, non-invasive option for acute peroneal tendon tears.",
+  "doi": "10.3390/life16071129",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42514199/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42515272",
+  "title": "Deep Learning for Sensor-Based Sport Performance and Health Monitoring: A Review of Wearable, Vision-Based, and Multimodal Sensing Approaches.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Liu L",
+   "Hu X",
+   "Wei H",
+   "Yang Z",
+   "et al."
+  ],
+  "abstract": "Recent advances in wearable, vision-based, trajectory, physiological, and multimodal sensing technologies, together with deep learning, have enabled continuous, objective, and individualized assessment of sport performance and athlete health. Unlike prior reviews that primarily focus on a single sensing modality, sport, or algorithmic series, this review integrates wearable, vision-based, trajectory, physiological, and multimodal sensing streams with deep learning models across both performance analysis and athlete health monitoring, thereby clarifying modality-task-model relationships and translational limitations. This review synthesizes recent progress in sensor-based sports intelligence, focusing on how heterogeneous data streams are transformed into performance- and health-related decision support. The reviewed applications include athlete and ball perception, multi-object tracking, pose estimation, action recognition, trajectory and tactical analysis, training-load and fatigue monitoring, injury-risk prediction, rehabilitation monitoring, and return-to-play support. Deep learning architectures, including CNNs, LSTMs, GRUs, TCNs, Transformers, attention mechanisms, graph neural networks, and multimodal fusion models, are discussed in relation to their suitability for visual, temporal, spatial, physiological, and multisource data. This review further identifies key challenges, including data heterogeneity, annotation scarcity, limited cross-sport and cross-device generalization, real-time deployment constraints, model interpretability, privacy protection, and ethical governance. Moving forward, research efforts should focus on the development of standardized datasets, reliable multimodal data fusion strategies, self-supervised and transfer learning approaches, and deployment on edge or cloud computing platforms. Additionally, enhancing interpretability through explainable AI and implementing closed-loop, individualized monitoring systems are critical. By synthesizing advances in sensing technologies, deep learning methodologies, and real-world applications, this review aims to provide a practical reference for optimizing athletic performance, preventing injuries, guiding rehabilitation, and supporting long-term health management of athletes.",
+  "doi": "10.3390/s26144384",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42515272/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42512791",
+  "title": "Effects of Medial and Lateral Foot Wedge Placement on Lower Limb Biomechanics and Muscle Activation During the Split Squat: A Randomized Crossover Trial.",
+  "journal": "Medicina (Kaunas)",
+  "year": "2026",
+  "authors": [
+   "Lee SH",
+   "Lee YM",
+   "Shin HJ",
+   "Kwon JW"
+  ],
+  "abstract": "Background and Objectives: Foot wedges are widely used to modulate ankle alignment in clinical and athletic settings, yet the effects of mediolateral wedge placement on multi-planar lower limb biomechanics during functional unilateral exercises remain poorly characterized. This study aimed to quantify the effects of medial and lateral foot wedge placement on lower limb joint kinematics, muscle activation, and ground reaction forces (GRFs) during the split squat. Materials and Methods: Thirty healthy young adults (12 males, 18 females; 24.5 \u00b1 2.7 years) performed split squats under three randomized conditions using a rigid inclined platform rather than a custom foot orthosis: no wedge (NW), medial wedge (MW), and lateral wedge (LW). Three-dimensional kinematics (Qualisys, 100 Hz), bilateral GRFs (Bertec, 1000 Hz), and surface electromyography (sEMG, 1000 Hz) of the peroneus longus (PL), tibialis anterior (TA), vastus medialis (VM), and vastus lateralis (VL) were recorded synchronously. Repeated-measures ANOVA with Bonferroni post hoc tests and partial eta-squared (\u03b72p) were used (\u03b1 = 0.05). Results: LW significantly increased PL and VM activation, sagittal-plane range of motion (ROM) at the ankle, knee, and pelvis, and vertical GRF, compared with MW and NW (p < 0.05). MW significantly increased TA and VL activation and reduced sagittal hip ROM (p < 0.05). No significant differences were observed for mediolateral or anteroposterior GRF. Conclusions: Mediolateral foot wedge placement acutely reorganizes lower limb neuromuscular recruitment, joint kinematics, and vertical ground reaction force during the split squat in healthy young adults. These preliminary findings indicate that wedge orientation, applied via a rigid inclined platform, can acutely and selectively modulate muscle activation patterns; any therapeutic or performance applications, however, were not evaluated here and should not be generalized to conventional clinical orthoses without further investigation.",
+  "doi": "10.3390/medicina62071249",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42512791/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42515838",
+  "title": "Femoral anterior distal hemiepiphysiodesis for correction of knee flexion contractures in arthrogryposis.",
+  "journal": "J Pediatr Orthop B",
+  "year": "2026",
+  "authors": [
+   "van Bosse HJP",
+   "Samuel SP"
+  ],
+  "abstract": "Knee flexion contractures in children with arthrogryposis limit or prevent efficient ambulation. This study assesses the effectiveness of femoral anterior distal hemiepiphysiodesis (FADHE) to treat knee contractures. Over an 8-year period, 57 children with arthrogryposis underwent 90 FADHEs for knee flexion contractures. The mean age at surgery was 7.1 years. Knee range of motion data was recorded preoperatively, postoperatively, and at clinical follow-ups, as was ambulatory ability. The average follow-up was 4.2 years; 65 knees had concomitant posterior releases; eight knees were treated for recurrences after initial correction with distraction arthrodiastasis. The preoperative mean flexion contracture of 35\u00b0 improved to 7\u00b0 at hardware removal (<0.0001) an average 17.5 months after implantation, for a correction rate of 2.1\u00b0/month. Knees with contractures of less than or equal to 25\u00b0 corrected well without a posterior release, and most knees with contractures between 30\u00b0 and 55\u00b0 corrected well with a concomitant posterior release. The 82 knees undergoing a FADHE as an initial procedure had a 75\u00b0 mean total arc of motion preoperatively and 62\u00b0 at final follow-up. The overall recurrence rate was 0.61\u00b0/month. Nine patients (14 knees) underwent repeat hemiepiphysiodesis for contracture recurrence at 39 months after plate removal. Sixteen of the 31 patients who were not independent ambulators preoperatively became so by final follow-up. In children with arthrogryposis, FADHE is an appropriate treatment for knee contractures less than or equal to 25\u00b0, and for contractures less than or equal to 55\u00b0 with a concomitant posterior knee release. Recurrence of contracture is common but treatable. Knee-ankle-foot orthoses are essential to obtain and maintain soft tissue stretch. Therapeutic Level IV.",
+  "doi": "10.1097/BPB.0000000000001389",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42515838/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42515231",
+  "title": "Modified Gait Support in Adults Three to Eighteen Months After Concussion.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Wood TA",
+   "Grahovec NE"
+  ],
+  "abstract": "Concussion is associated with persistent motor control deficits that may not be detected using standard clinical assessments. This study examined differences in average velocity, average step length, and single- and double-support percentages during gait under increasing task demands in individuals with a history of concussion. Sixty participants aged 18 to 35 years were recruited, including 32 individuals with a concussion within the past 3 to 18 months and 28 healthy controls. Gait data were collected using an instrumented pressure-sensitive walkway across four conditions: single-task and dual-task walking, with and without obstacles. Repeated-measures analyses of covariance were used to assess group and condition effects, with sex as a covariate, which showed a significant group-by-condition effect for step length, single-support percentage, and double-support percentage. These findings identify step length, single-support percentage, and double-support percentage as candidate sensor-derived gait biomarkers for detecting persistent post-concussion motor control alterations. The results directly support the use of pressure-based gait sensing to quantify deficits missed by conventional clinical measures; however, future work is needed to determine whether these features translate to wearable or real-world monitoring systems.",
+  "doi": "10.3390/s26144346",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42515231/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42515287",
+  "title": "Non-Standardized Methods of Assessing Tibial Loads During Different Gait Speeds Obscures Load-Management Recommendations in Healthy Adults.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Hart JD",
+   "Drinkwater EJ",
+   "Bradshaw EJ"
+  ],
+  "abstract": "This scoping review aimed to investigate (i) the methods used to measure tibial load during human gait, and (ii) the effect of gait mode and velocity on tibial load in healthy adults. This review followed the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Extension for Scoping Reviews (PRISMA-ScR). Two databases (EMBASE, MEDLINE) were searched, revealing twelve studies that met the inclusion criteria from the previous 24 years. Tibia load was measured using indirect (in vivo strain gauges) and direct (accelerometers, inertial measurement units [IMUs]) sensor methods, and three-dimensional motion analysis systems. A range of surfaces were used, including treadmill (motorized, curved non-motorized) and overground conditions. Velocity was a key determinant of tibia load, with surface type and gait modifications further influencing the loads. The non-standardized measurement methods resulted in varied tibial load results, particularly from varied anatomical positions used in indirect sensor methods. The findings suggest that, based on the current literature, prescribing load management recommendations for healthy adults is not currently possible, given the variability in results. Future research should aim to develop standardized measurement protocols to improve injury risk reduction strategies and to inform rehabilitation programs to support individuals in resuming participation in gait-related activities.",
+  "doi": "10.3390/s26144401",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42515287/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42513377",
+  "title": "One in Five Patients Returns to Sport Before Assessment: Real-World Use of the Ankle-GO Composite Score in 6934 Patients.",
+  "journal": "J Clin Med",
+  "year": "2026",
+  "authors": [
+   "Lopes R",
+   "Hardy A",
+   "Fourchet F"
+  ],
+  "abstract": "Background: The Ankle-GO is a composite score integrating physical, functional, and psychological recovery after lateral ankle sprain (LAS). Its psychometric properties have been validated prospectively, but no large-scale data describe how it is used in routine practice. We aimed to characterise real-world usage patterns, score distributions, and the gap between intended and actual clinical use. Methods: Retrospective observational analysis of all Ankle-GO web-application sessions recorded between 1 February and 31 December 2024. Patients with at least one valid session and a single injured ankle were included. Quantitative variables were summarised as mean (SD) or median (IQR); proportions are reported with 95% Wilson confidence intervals (CIs). No inferential testing was performed. Results: Of 8988 registered patients, 6934 (77.1%) were analysed; 88.5% were assessed after ankle sprain (mean age 26.0 \u00b1 10.0 years; 92.5% in France). Only 14.0% of sessions were follow-ups. Injured-ankle scores were consistently lower than contralateral scores and improved modestly across sessions. Notably, 20.4% (95% CI 19.4-21.4) of patients had already returned to sport before their first assessment. Conclusions: Real-world Ankle-GO implementation diverges substantially from its intended prospective use, defining clear priorities for future standardised, outcome-driven studies.",
+  "doi": "10.3390/jcm15145463",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42513377/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42512463",
+  "title": "Powered Exoskeleton Gait Training and Hip Rate of Force Development in Chronic Hypoxic-Ischemic Encephalopathy: A Case Study.",
+  "journal": "Brain Sci",
+  "year": "2026",
+  "authors": [
+   "Won Y",
+   "Hong J"
+  ],
+  "abstract": "Evidence on powered wearable exoskeleton gait training in patients with chronic hypoxic-ischemic encephalopathy (HIE) is virtually absent, and existing studies have focused on macroscopic functional outcomes while neglecting joint-level neuromuscular force-generation characteristics such as rate of force development (RFD). To examine the effects of a six-week powered exoskeleton gait training program on isometric hip strength and RFD, sit-to-stand (STS) performance, frontal-plane hip strength, and center-of-pressure (CoP) dynamics in a patient with chronic HIE-induced quadriparesis. A case report with pre- and post-intervention evaluation was conducted. A 47-year-old male with chronic HIE-induced quadriparesis (onset 2017) completed 18 sessions (three per week, six weeks) of powered lower-limb exoskeleton gait training. Outcomes included isometric hip peak force and RFD (DynaMo, Vald Performance), STS peak force and body mass-normalized RFD (ForceDecks, Vald Performance), frontal-plane hip strength (ForceFrame, Vald Performance), and CoP path length and mean velocity. Hip extension peak force increased by 247-256% bilaterally, and hip extension RFD increased by 174-188%, whereas hip flexion peak force showed minimal change (+3.3-5.2%). Body mass-normalized STS RFD increased by 250% (10 to 35 N\u00b7s-1\u00b7kg-1), representing the largest relative gain. Hip abduction strength increased by 27.1-36.8% with improved bilateral symmetry; hip adduction imbalance reversed from right to left dominance. CoP path length and mean velocity each decreased by 3.7%. Six weeks of powered exoskeleton gait training selectively enhanced time-dependent neuromuscular output-particularly RFD-beyond maximal strength gains, with meaningful improvements in functional weight acceptance during STS. These findings support exoskeleton-based training as a promising rehabilitation strategy for patients with chronic CNS injury.",
+  "doi": "10.3390/brainsci16070688",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42512463/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42509659",
+  "title": "Real-World Walking Patterns From Wrist-Worn Wearables Predict Incident Type 2 Diabetes: A UK Biobank WatchWalk Study.",
+  "journal": "J Diabetes Sci Technol",
+  "year": "2026",
+  "authors": [
+   "Toapanta Gaibor CL",
+   "Bell\u00e9s Andreu S",
+   "Lord SR",
+   "Chan LLY"
+  ],
+  "abstract": "Digital gait biomarkers derived from wearable devices may capture early functional changes relevant to type 2 diabetes (T2D) risk. We investigated the associations between real-world gait characteristics and incident T2D and their contribution to risk discrimination beyond established risk factors. We analysed data from 71\u2009618 UK Biobank participants without diabetes at baseline who wore a wrist accelerometer for seven days. Multiple digital gait biomarkers capturing walking speed, quality and distribution patterns were derived. Incident T2D was ascertained from linked health records. Cox proportional hazards models were fitted, adjusting for traditional T2D risk factors. Model discrimination was assessed using Harrell's C-index. During follow-up, 2577 participants (3.6%) developed T2D. Several digital gait biomarkers were significantly associated with T2D in minimally adjusted analyses, and of these, slower walking speed, shorter maximum walking bouts and lower daily running duration remained independently associated with higher T2D risk after multivariable adjustment. A streamlined model including digital gait biomarkers and established risk factors showed good discrimination (C-index 0.80), outperforming models based on traditional risk factors and step counts alone. In this large population-based cohort, real-world walking patterns measured using wrist-worn devices were independently associated with incident T2D and enabled more accurate identification of at-risk individuals. Digital gait biomarkers may reflect early metabolic and functional vulnerability preceding the clinical diagnosis of T2D and may facilitate risk stratification in clinical practice and prevention initiatives.",
+  "doi": "10.1177/19322968261464535",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42509659/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42512505",
+  "title": "Robotic Rehabilitation in Spinal Cord Injury: Neurophysiological Basis and Severity-Based Clinical Framework.",
+  "journal": "Brain Sci",
+  "year": "2026",
+  "authors": [
+   "Calabr\u00f2 RS",
+   "Calderone A",
+   "Gregorio TD",
+   "Onesta MP",
+   "et al."
+  ],
+  "abstract": "Background/Objectives: Spinal cord injury (SCI) causes heterogeneous motor, sensory, autonomic, and participation limitations; recovery priorities vary by injury level, completeness, time since injury and residual function. Robotic rehabilitation has expanded from assistive technology to restorative, compensatory and health-promoting interventions, but patient-tailored prescription frameworks remain underdeveloped. Methods: PubMed/MEDLINE was searched from database inception to May 2026 using predefined domain-specific strategies, and findings were synthesized narratively to integrate mechanistic, clinical, safety and implementation evidence. Results: Robotic systems can increase task-specific repetition, sensorimotor feedback, active engagement and quantitative monitoring. Upper-limb robotics are feasible in cervical SCI and may support reach, grasp and activities of daily living, although SCI-specific controlled evidence remains limited. Lower-limb exoskeletons and locomotor robots can support gait practice, upright mobility, exercise exposure and selected secondary health outcomes, but walking speed, energy expenditure, cost, supervision needs and community translation remain important barriers. Sensory and non-motor effects, including proprioceptive input, spasticity, pain, bowel routine, cardiometabolic conditioning, participation and psychological well-being, are clinically relevant but should be interpreted according to evidence strength. Robotics combined with functional electrical stimulation, virtual reality, brain-computer interfaces, non-invasive brain stimulation and artificial intelligence-driven adaptation is promising but not yet routine. Conclusions: Robotic rehabilitation in SCI should be prescribed through a severity-based process that considers lesion level, American Spinal Injury Association Impairment Scale grade, residual voluntary and sensory function, safety, patient priorities and measurable goals. The proposed framework supports transparent selection and prospective validation of individualized robotic rehabilitation and shifts decisions beyond device availability toward clinically meaningful and equitable implementation.",
+  "doi": "10.3390/brainsci16070732",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42512505/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
+  "pmid": "42510511",
+  "title": "Surface Electromyography-Based Motion Analysis of Thigh Muscle Activation During the Modified Star Excursion Balance Test in Novice Recreational Runners with Chronic Ankle Instability: A Preliminary Cross-Sectional Case-Control Study.",
+  "journal": "Bioengineering (Basel)",
+  "year": "2026",
+  "authors": [
+   "Lee GB",
+   "Kim JS",
+   "Lee JH",
+   "Lee D"
+  ],
+  "abstract": "Chronic ankle instability (CAI) is associated with impaired sensorimotor function and dynamic postural control; however, reach distance alone may not fully capture task-specific neuromuscular strategies during functional balance tasks. This preliminary cross-sectional case-control study examined modified Star Excursion Balance Test (mSEBT) performance and thigh muscle activation during the mSEBT in novice recreational runners with CAI. Thirty-two novice recreational runners were classified into a CAI group (n = 16) or a healthy control group (n = 16). Normalized mSEBT reach distances, composite score, weight-bearing lunge test performance, and surface electromyography (sEMG) activity of the rectus femoris, vastus lateralis, vastus medialis, and biceps femoris were analyzed. The anterior reach direction was designated as the primary functional and sEMG task before the formal analyses. No significant between-group differences were observed in functional performance or anterior-task thigh muscle activation. Within the CAI group, anterior reach distance was shorter in the involved limb before adjustment (p = 0.014), but the difference did not remain significant after false discovery rate (FDR) correction (q = 0.120). In contrast, rectus femoris (RF) activation during anterior reaching was significantly lower in the involved limb than in the uninvolved limb (p = 0.002, q = 0.035) and remained significant after FDR correction. In this preliminary sample, sEMG provided complementary information to mSEBT reach distance by identifying a side-specific difference in RF activation within novice recreational runners with CAI.",
+  "doi": "10.3390/bioengineering13070846",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42510511/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-28T15:53:11Z"
+ },
+ {
   "pmid": "42496709",
   "title": "Imaging of bone stress injury in runners.",
   "journal": "Skeletal Radiol",
