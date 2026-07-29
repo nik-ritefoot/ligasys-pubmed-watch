@@ -1,5 +1,79 @@
 [
  {
+  "pmid": "42520921",
+  "title": "Arthroscopic lateral ankle ligament reconstruction (ALALR) with hamstring autograft does not affect jumping ability at 6 months post-surgery.",
+  "journal": "J Foot Ankle Surg",
+  "year": "2026",
+  "authors": [
+   "Jean-Charles G",
+   "Florian V",
+   "Guillaume V",
+   "Natacha B",
+   "et al."
+  ],
+  "abstract": "Arthroscopic lateral ankle ligament reconstruction with hamstring graft (ALALR) generally yields good clinical outcomes and enables an early return to sports. However, no studies have specifically evaluated persistent functional deficits, particularly regarding jumping ability, following ALALR with hamstring autograft. To evaluate post-operative ankle stability via jumping ability in patients six months after ALALR with hamstring autograft compared to healthy patients. Retrospective comparative study; METHODS: Forty-nine patients who underwent ALALR with hamstring graft and forty-nine healthy controls performed bipodal drop jump (DJ), single hop (SNH), side hop (SDH), and single-leg vertical jump (SVJ) tests. Measurements included jump height (m), jump distance (m), lateral jump time (s), and reactive strength index for bipodal drop jump (DJ-RSI). These metrics were compared between groups. Additionally, single hop, side hop, and SVJ results were compared between healthy participants and both the injured and contralateral legs of ALALR patients. At an average of 5.8 \u00b1 0.9 months postoperatively, ALALR patients showed no significant differences in DJ-RSI, Single hop, Side Hop tests or SVJ compared to the control group (p > 0.05). Vertical, lateral, and anteroposterior jumping performances were similar for both the injured and contralateral legs (p > 0.05). No statistically significant difference in jumping ability was detected between patients six months after ALALR with hamstring autograft and healthy controls. As a non-significant result does not establish equivalence, these findings should be interpreted as descriptive and suggest that jumping ability is not markedly impaired, which may support return to sport after the ALALR procedure. III.",
+  "doi": "10.1053/j.jfas.2026.07.022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42520921/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-29T15:33:19Z"
+ },
+ {
+  "pmid": "42519520",
+  "title": "Limb salvage versus primary amputation in severe lower extremity trauma: a systematic review and meta-analysis.",
+  "journal": "Trauma Surg Acute Care Open",
+  "year": "2026",
+  "authors": [
+   "Salimi J",
+   "Soltani Asl Heris S",
+   "Shokri A",
+   "Nikzamir M",
+   "et al."
+  ],
+  "abstract": "The optimal management of severe lower extremity trauma remains controversial, with debate between limb salvage and primary amputation. Recent evidence synthesis is needed to guide clinical decision-making. To compare functional outcomes, quality of life, complications, and economic factors between limb salvage and primary amputation in severe lower extremity trauma. Electronic searches of five databases (PubMed, Embase, Cochrane CENTRAL, Scopus, Web of Science) from January 2000 to January 2025, supplemented by hand-searching of reference lists. Eligible studies were randomized controlled trials and prospective and retrospective cohort studies with a minimum 12-month follow-up assessing severe lower limb trauma (Gustilo-Anderson IIIB/IIIC or MESS (Mangled Extremity Severity Score) \u22657). Interventions were limb salvage compared with primary amputation. Forty-seven studies involving 8742 patients (4318 limb salvage, 4424 amputation) were identified. Systematic review and meta-analysis conducted according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. Risk of bias assessed using ROBINS-I (Risk Of Bias In Non-randomized Studies - of Interventions); certainty of evidence evaluated using GRADE (Grading of Recommendations Assessment, Development and Evaluation) methodology. Quality of life metrics showed no clinically meaningful differences at 2-year follow-up (Short Form-36 (SF-36) Physical Component Summary: standardized mean differences (SMD) 0.16, p=0.0001; EQ-5D: SMD 0.07, p=0.31). Functional outcomes were comparable between groups (SMD 0.12, p=0.09). Limb salvage demonstrated modestly higher return-to-work rates (risk ratio (RR) 1.08, p=0.03) but required 4.7 months longer recovery. However, limb salvage was associated with significantly higher complications: 2.5-fold increased infection rates (RR 2.54, p<0.001), 87% higher re-hospitalization (RR 1.87, p<0.001), and 34% increased chronic pain prevalence (RR 1.34, p<0.001). Secondary amputation occurred in 22.7% of salvage attempts. Initial healthcare costs were significantly higher for salvage (mean difference $28 600, p<0.001), converging over 15+ years. Psychological outcomes were comparable between groups. The evidence base was predominantly observational, limiting causal inference, and residual confounding by injury severity and patient selection could not be excluded. Outcome measurement was heterogeneous across studies, and most studies originated from high-income countries, limiting generalisability to resource-limited settings. Long-term functional outcomes and quality of life are comparable between limb salvage and primary amputation despite substantially higher complication burdens with salvage. Findings support a paradigm shift toward individualized, shared decision-making incorporating injury characteristics, patient preferences, and realistic outcome expectations.Systematic review registration number. PROSPERO CRD420251236066.",
+  "doi": "10.1136/tsaco-2025-002211",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42519520/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-29T15:33:19Z"
+ },
+ {
+  "pmid": "42520742",
+  "title": "The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.",
+  "journal": "Gait Posture",
+  "year": "2026",
+  "authors": [
+   "Anderson KM",
+   "Gari WJ",
+   "Pacha MS",
+   "Wilken JM"
+  ],
+  "abstract": "Limb trauma often results in long-term disability. Carbon fiber custom dynamic orthoses (CDOs) include a proximal cuff, posterior strut, and footplate, and improve outcomes following limb trauma, but the effects of cuff design are not well understood. Does CDO cuff design influence limb mechanics, foot loading, or CDO comfort? Fifteen unimpaired individuals completed testing without an orthosis (NoCDO) and in a CDO with four interchangeable cuffs: anterior shell with straps, patellar tendon bearing shell with ratcheting system, patellar tendon bearing shell with pivot point and straps, flexible shell with strap. Joint kinematic, kinetic, and plantar force data were collected as participants walked at a controlled speed. There were no significant differences in ankle mechanics or foot loading between cuffs. CDO use had the greatest effect on the ankle, effectively stiffening the joint and significantly decreasing motion, increasing dorsiflexion moment, and decreasing power absorption and generation for all cuffs compared to NoCDO. CDO use redistributed forces from the forefoot to the hindfoot, resulting in significantly lower peak forefoot force and forefoot impulse and higher hindfoot impulse with all cuffs compared to NoCDO. Study results indicate that multiple cuffs, representative of clinical practice and previous research, had a similar effect on gait mechanics, foot loading, and comfort. The limited differences suggest that clinicians could select the cuff best suited to patient needs outside of limb motion and loading such as ease of donning and doffing, available range of motion, or preference.",
+  "doi": "10.1016/j.gaitpost.2026.110288",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42520742/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-29T15:33:19Z"
+ },
+ {
   "pmid": "42516644",
   "title": "Assessment of the Effect of Improved Medial Linkage Reciprocating Orthosis Compared to Isocentric Orthosis on the Motor Function in Spinal Cord Injury Patients.",
   "journal": "Med J Islam Repub Iran",

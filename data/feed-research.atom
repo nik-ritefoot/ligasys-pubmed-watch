@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-07-28T15:53:11Z</updated>
+  <updated>2026-07-29T15:33:19Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.</title>
+    <id>urn:pmid:42520742</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42520742/" rel="alternate"/>
+    <updated>2026-07-29T15:33:19Z</updated>
+    <published>2026-07-29T15:33:19Z</published>
+    <author><name>Anderson KM</name></author><author><name>Gari WJ</name></author><author><name>Pacha MS</name></author><author><name>Wilken JM</name></author>
+    <category term="bracing-orthosis-efficacy" label="Bracing / orthosis efficacy &amp; performance cost"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Anderson KM, Gari WJ, Pacha MS, Wilken JM · Gait Posture · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Limb trauma often results in long-term disability. Carbon fiber custom dynamic orthoses (CDOs) include a proximal cuff, posterior strut, and footplate, and improve outcomes following limb trauma, but the effects of cuff design are not well understood. Does CDO cuff design influence limb mechanics, foot loading, or CDO comfort? Fifteen unimpaired individuals completed testing without an orthosis (NoCDO) and in a CDO with four interchangeable cuffs: anterior shell with straps, patellar tendon bearing shell with ratcheting system, patellar tendon bearing shell with pivot point and straps, flexible shell with strap. Joint kinematic, kinetic, and plantar force data were collected as participants walked at a controlled speed. There were no significant differences in ankle mechanics or foot loading between cuffs. CDO use had the greatest effect on the ankle, effectively stiffening the joint and significantly decreasing motion, increasing dorsiflexion moment, and decreasing power absorption and generation for all cuffs compared to NoCDO. CDO use redistributed forces from the forefoot to the hindfoot, resulting in significantly lower peak forefoot force and forefoot impulse and higher hindfoot impulse with all cuffs compared to NoCDO. Study results indicate that multiple cuffs, representative of clinical practice and previous research, had a similar effect on gait mechanics, foot loading, and comfort. The limited differences suggest that clinicians could select the cuff best suited to patient needs outside of limb motion and loading such as ease of donning and doffing, available range of motion, or preference.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.gaitpost.2026.110288&quot;&gt;10.1016/j.gaitpost.2026.110288&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42520742/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Effects of Medial and Lateral Foot Wedge Placement on Lower Limb Biomechanics and Muscle Activation During the Split Squat: A Randomized Crossover Trial.</title>
     <id>urn:pmid:42512791</id>
