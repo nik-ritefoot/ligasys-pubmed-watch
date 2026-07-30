@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-07-29T15:33:19Z</updated>
+  <updated>2026-07-30T15:34:53Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.</title>
+    <id>urn:pmid:42525433</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42525433/" rel="alternate"/>
+    <updated>2026-07-30T15:34:53Z</updated>
+    <published>2026-07-30T15:34:53Z</published>
+    <author><name>Chen YR</name></author><author><name>Chang NJ</name></author>
+    <category term="bracing-orthosis-efficacy" label="Bracing / orthosis efficacy &amp; performance cost"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Chen YR, Chang NJ · Res Sports Med · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition × time interactions were observed for Y Balance Test (YBT)-dominant (F = 6.202, p = .019), YBT-non-dominant (p = .004), CMJ height (F = 9.829, p = .004), and six-point footwork time (F = 29.905, p &amp;lt; .001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d = 0.19-0.59); ST produced only trivial changes (d &amp;lt; 0.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1080/15438627.2026.2700732&quot;&gt;10.1080/15438627.2026.2700732&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42525433/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.</title>
     <id>urn:pmid:42520742</id>

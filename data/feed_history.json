@@ -1,5 +1,102 @@
 [
  {
+  "pmid": "42524706",
+  "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
+  "journal": "Rev Bras Ortop (Sao Paulo)",
+  "year": "2026",
+  "authors": [
+   "Godoy MM",
+   "Ch\u00e1vare J",
+   "Chaves PLL",
+   "Almeida JPF",
+   "et al."
+  ],
+  "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
+  "doi": "10.1055/s-0046-1822978",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42524706/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-30T15:34:53Z"
+ },
+ {
+  "pmid": "42525433",
+  "title": "Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.",
+  "journal": "Res Sports Med",
+  "year": "2026",
+  "authors": [
+   "Chen YR",
+   "Chang NJ"
+  ],
+  "abstract": "Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition\u2009\u00d7\u2009time interactions were observed for Y Balance Test (YBT)-dominant (F\u2009=\u20096.202, p\u2009=\u2009.019), YBT-non-dominant (p\u2009=\u2009.004), CMJ height (F\u2009=\u20099.829, p\u2009=\u2009.004), and six-point footwork time (F\u2009=\u200929.905, p\u2009<\u2009.001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d\u2009=\u20090.19-0.59); ST produced only trivial changes (d\u2009<\u20090.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.",
+  "doi": "10.1080/15438627.2026.2700732",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42525433/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-07-30T15:34:53Z"
+ },
+ {
+  "pmid": "42529416",
+  "title": "Gait-Semantic Relational Knowledge Distillation for Ground Reaction Force Estimation.",
+  "journal": "Adv Eng Inform",
+  "year": "2026",
+  "authors": [
+   "Lim H",
+   "Lee J",
+   "Kettner N",
+   "Save OM",
+   "et al."
+  ],
+  "abstract": "Wearable sensor-based gait analysis has attracted increasing attention for diverse applications in industrial fields, such as healthcare, rehabilitation, sports science, and continuous monitoring for worker injury prevention. Among gait-related signals, ground reaction force (GRF) is a key indicator for understanding human locomotion and is conventionally measured using force plates or instrumented treadmills. However, such systems are costly and limited to controlled laboratory environments, which restrict their use in daily-life settings. Wearable insole sensors provide a more portable alternative for GRF acquisition, but their measurements are often noisy and less reliable, making accurate estimation challenging. Although deep learning models have shown promise in improving GRF estimation from wearable sensor data, high-performing models are often computationally expensive and difficult to deploy on resource-constrained devices. Moreover, since gait signals exhibit phase-specific temporal structures, effective estimation requires the model to develop a semantically meaningful understanding of the gait sequence rather than merely matching signal values. In this regard, human-interpretable semantic information can provide useful guidance for modeling such structured temporal dynamics. To address these issues, we propose a Gait-Semantic Relational Knowledge Distillation (SRKD) framework for GRF estimation using wearable insole sensor data. The proposed method introduces gait-phase-aware semantic guidance into the teacher-student distillation process by decomposing intermediate representations into phase-specific components and aligning them with corresponding textual semantic representations. This phase-aware distillation framework uses textual semantics as anchors to bridge the teacher-student representational gap, enabling the student to effectively learn the structured temporal relational knowledge underlying gait dynamics. We evaluate SRKD under several experimental configurations, including different teacher-student architectures, temporal window lengths, text encoders, and human-refined semantic descriptions. The experimental results show that SRKD generally improved the estimation performance of the evaluated lightweight student models compared with the considered baseline methods. Qualitative analyses also indicate that the predicted GRF signals more closely captured both the overall waveform and phase-dependent temporal variations in the evaluated settings. Furthermore, the results obtained using human-refined descriptions suggest that human-guided semantics can enhance the effectiveness of knowledge distillation by providing more task-relevant semantic guidance. Further validation across broader populations, sensor configurations, and real-world environments is required to assess the generalizability and practical applicability of the proposed framework.",
+  "doi": "10.1016/j.aei.2026.105063",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42529416/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-30T15:34:53Z"
+ },
+ {
+  "pmid": "42524670",
+  "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
+  "journal": "Rev Bras Ortop (Sao Paulo)",
+  "year": "2026",
+  "authors": [
+   "Godoy MM",
+   "Ch\u00e1vare J",
+   "Chaves PLL",
+   "Almeida JPF",
+   "et al."
+  ],
+  "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
+  "doi": "10.1055/s-0046-1822977",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42524670/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-30T15:34:53Z"
+ },
+ {
   "pmid": "42520921",
   "title": "Arthroscopic lateral ankle ligament reconstruction (ALALR) with hamstring autograft does not affect jumping ability at 6 months post-surgery.",
   "journal": "J Foot Ankle Surg",

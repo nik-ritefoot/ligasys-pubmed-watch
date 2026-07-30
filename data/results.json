@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-29T15:33:18+00:00",
+ "generated": "2026-07-30T15:34:53+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,29 +66,30 @@
  ],
  "counts": {
   "total": 87,
-  "new": 3,
-  "research": 32,
-  "fieldnotes": 55
+  "new": 4,
+  "research": 33,
+  "fieldnotes": 54
  },
  "records": [
   {
-   "pmid": "42520921",
-   "title": "Arthroscopic lateral ankle ligament reconstruction (ALALR) with hamstring autograft does not affect jumping ability at 6 months post-surgery.",
-   "journal": "J Foot Ankle Surg",
+   "pmid": "42524706",
+   "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
+   "journal": "Rev Bras Ortop (Sao Paulo)",
    "year": "2026",
    "authors": [
-    "Jean-Charles G",
-    "Florian V",
-    "Guillaume V",
-    "Natacha B",
+    "Godoy MM",
+    "Ch\u00e1vare J",
+    "Chaves PLL",
+    "Almeida JPF",
     "et al."
    ],
-   "abstract": "Arthroscopic lateral ankle ligament reconstruction with hamstring graft (ALALR) generally yields good clinical outcomes and enables an early return to sports. However, no studies have specifically evaluated persistent functional deficits, particularly regarding jumping ability, following ALALR with hamstring autograft. To evaluate post-operative ankle stability via jumping ability in patients six months after ALALR with hamstring autograft compared to healthy patients. Retrospective comparative study; METHODS: Forty-nine patients who underwent ALALR with hamstring graft and forty-nine healthy controls performed bipodal drop jump (DJ), single hop (SNH), side hop (SDH), and single-leg vertical jump (SVJ) tests. Measurements included jump height (m), jump distance (m), lateral jump time (s), and reactive strength index for bipodal drop jump (DJ-RSI). These metrics were compared between groups. Additionally, single hop, side hop, and SVJ results were compared between healthy participants and both the injured and contralateral legs of ALALR patients. At an average of 5.8 \u00b1 0.9 months postoperatively, ALALR patients showed no significant differences in DJ-RSI, Single hop, Side Hop tests or SVJ compared to the control group (p > 0.05). Vertical, lateral, and anteroposterior jumping performances were similar for both the injured and contralateral legs (p > 0.05). No statistically significant difference in jumping ability was detected between patients six months after ALALR with hamstring autograft and healthy controls. As a non-significant result does not establish equivalence, these findings should be interpreted as descriptive and suggest that jumping ability is not markedly impaired, which may support return to sport after the ALALR procedure. III.",
-   "doi": "10.1053/j.jfas.2026.07.022",
+   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
+   "doi": "10.1055/s-0046-1822978",
    "pubtypes": [
+    "English Abstract",
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42520921/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42524706/",
    "matched": [
     {
      "id": "return-to-play",
@@ -100,50 +101,20 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42519520",
-   "title": "Limb salvage versus primary amputation in severe lower extremity trauma: a systematic review and meta-analysis.",
-   "journal": "Trauma Surg Acute Care Open",
+   "pmid": "42525433",
+   "title": "Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.",
+   "journal": "Res Sports Med",
    "year": "2026",
    "authors": [
-    "Salimi J",
-    "Soltani Asl Heris S",
-    "Shokri A",
-    "Nikzamir M",
-    "et al."
+    "Chen YR",
+    "Chang NJ"
    ],
-   "abstract": "The optimal management of severe lower extremity trauma remains controversial, with debate between limb salvage and primary amputation. Recent evidence synthesis is needed to guide clinical decision-making. To compare functional outcomes, quality of life, complications, and economic factors between limb salvage and primary amputation in severe lower extremity trauma. Electronic searches of five databases (PubMed, Embase, Cochrane CENTRAL, Scopus, Web of Science) from January 2000 to January 2025, supplemented by hand-searching of reference lists. Eligible studies were randomized controlled trials and prospective and retrospective cohort studies with a minimum 12-month follow-up assessing severe lower limb trauma (Gustilo-Anderson IIIB/IIIC or MESS (Mangled Extremity Severity Score) \u22657). Interventions were limb salvage compared with primary amputation. Forty-seven studies involving 8742 patients (4318 limb salvage, 4424 amputation) were identified. Systematic review and meta-analysis conducted according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. Risk of bias assessed using ROBINS-I (Risk Of Bias In Non-randomized Studies - of Interventions); certainty of evidence evaluated using GRADE (Grading of Recommendations Assessment, Development and Evaluation) methodology. Quality of life metrics showed no clinically meaningful differences at 2-year follow-up (Short Form-36 (SF-36) Physical Component Summary: standardized mean differences (SMD) 0.16, p=0.0001; EQ-5D: SMD 0.07, p=0.31). Functional outcomes were comparable between groups (SMD 0.12, p=0.09). Limb salvage demonstrated modestly higher return-to-work rates (risk ratio (RR) 1.08, p=0.03) but required 4.7 months longer recovery. However, limb salvage was associated with significantly higher complications: 2.5-fold increased infection rates (RR 2.54, p<0.001), 87% higher re-hospitalization (RR 1.87, p<0.001), and 34% increased chronic pain prevalence (RR 1.34, p<0.001). Secondary amputation occurred in 22.7% of salvage attempts. Initial healthcare costs were significantly higher for salvage (mean difference $28 600, p<0.001), converging over 15+ years. Psychological outcomes were comparable between groups. The evidence base was predominantly observational, limiting causal inference, and residual confounding by injury severity and patient selection could not be excluded. Outcome measurement was heterogeneous across studies, and most studies originated from high-income countries, limiting generalisability to resource-limited settings. Long-term functional outcomes and quality of life are comparable between limb salvage and primary amputation despite substantially higher complication burdens with salvage. Findings support a paradigm shift toward individualized, shared decision-making incorporating injury characteristics, patient preferences, and realistic outcome expectations.Systematic review registration number. PROSPERO CRD420251236066.",
-   "doi": "10.1136/tsaco-2025-002211",
+   "abstract": "Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition\u2009\u00d7\u2009time interactions were observed for Y Balance Test (YBT)-dominant (F\u2009=\u20096.202, p\u2009=\u2009.019), YBT-non-dominant (p\u2009=\u2009.004), CMJ height (F\u2009=\u20099.829, p\u2009=\u2009.004), and six-point footwork time (F\u2009=\u200929.905, p\u2009<\u2009.001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d\u2009=\u20090.19-0.59); ST produced only trivial changes (d\u2009<\u20090.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.",
+   "doi": "10.1080/15438627.2026.2700732",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42519520/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42520742",
-   "title": "The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.",
-   "journal": "Gait Posture",
-   "year": "2026",
-   "authors": [
-    "Anderson KM",
-    "Gari WJ",
-    "Pacha MS",
-    "Wilken JM"
-   ],
-   "abstract": "Limb trauma often results in long-term disability. Carbon fiber custom dynamic orthoses (CDOs) include a proximal cuff, posterior strut, and footplate, and improve outcomes following limb trauma, but the effects of cuff design are not well understood. Does CDO cuff design influence limb mechanics, foot loading, or CDO comfort? Fifteen unimpaired individuals completed testing without an orthosis (NoCDO) and in a CDO with four interchangeable cuffs: anterior shell with straps, patellar tendon bearing shell with ratcheting system, patellar tendon bearing shell with pivot point and straps, flexible shell with strap. Joint kinematic, kinetic, and plantar force data were collected as participants walked at a controlled speed. There were no significant differences in ankle mechanics or foot loading between cuffs. CDO use had the greatest effect on the ankle, effectively stiffening the joint and significantly decreasing motion, increasing dorsiflexion moment, and decreasing power absorption and generation for all cuffs compared to NoCDO. CDO use redistributed forces from the forefoot to the hindfoot, resulting in significantly lower peak forefoot force and forefoot impulse and higher hindfoot impulse with all cuffs compared to NoCDO. Study results indicate that multiple cuffs, representative of clinical practice and previous research, had a similar effect on gait mechanics, foot loading, and comfort. The limited differences suggest that clinicians could select the cuff best suited to patient needs outside of limb motion and loading such as ease of donning and doffing, available range of motion, or preference.",
-   "doi": "10.1016/j.gaitpost.2026.110288",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42520742/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42525433/",
    "matched": [
     {
      "id": "bracing-orthosis-efficacy",
@@ -153,6 +124,62 @@
    ],
    "is_new": true,
    "bucket": "research"
+  },
+  {
+   "pmid": "42529416",
+   "title": "Gait-Semantic Relational Knowledge Distillation for Ground Reaction Force Estimation.",
+   "journal": "Adv Eng Inform",
+   "year": "2026",
+   "authors": [
+    "Lim H",
+    "Lee J",
+    "Kettner N",
+    "Save OM",
+    "et al."
+   ],
+   "abstract": "Wearable sensor-based gait analysis has attracted increasing attention for diverse applications in industrial fields, such as healthcare, rehabilitation, sports science, and continuous monitoring for worker injury prevention. Among gait-related signals, ground reaction force (GRF) is a key indicator for understanding human locomotion and is conventionally measured using force plates or instrumented treadmills. However, such systems are costly and limited to controlled laboratory environments, which restrict their use in daily-life settings. Wearable insole sensors provide a more portable alternative for GRF acquisition, but their measurements are often noisy and less reliable, making accurate estimation challenging. Although deep learning models have shown promise in improving GRF estimation from wearable sensor data, high-performing models are often computationally expensive and difficult to deploy on resource-constrained devices. Moreover, since gait signals exhibit phase-specific temporal structures, effective estimation requires the model to develop a semantically meaningful understanding of the gait sequence rather than merely matching signal values. In this regard, human-interpretable semantic information can provide useful guidance for modeling such structured temporal dynamics. To address these issues, we propose a Gait-Semantic Relational Knowledge Distillation (SRKD) framework for GRF estimation using wearable insole sensor data. The proposed method introduces gait-phase-aware semantic guidance into the teacher-student distillation process by decomposing intermediate representations into phase-specific components and aligning them with corresponding textual semantic representations. This phase-aware distillation framework uses textual semantics as anchors to bridge the teacher-student representational gap, enabling the student to effectively learn the structured temporal relational knowledge underlying gait dynamics. We evaluate SRKD under several experimental configurations, including different teacher-student architectures, temporal window lengths, text encoders, and human-refined semantic descriptions. The experimental results show that SRKD generally improved the estimation performance of the evaluated lightweight student models compared with the considered baseline methods. Qualitative analyses also indicate that the predicted GRF signals more closely captured both the overall waveform and phase-dependent temporal variations in the evaluated settings. Furthermore, the results obtained using human-refined descriptions suggest that human-guided semantics can enhance the effectiveness of knowledge distillation by providing more task-relevant semantic guidance. Further validation across broader populations, sensor configurations, and real-world environments is required to assess the generalizability and practical applicability of the proposed framework.",
+   "doi": "10.1016/j.aei.2026.105063",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42529416/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42524670",
+   "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
+   "journal": "Rev Bras Ortop (Sao Paulo)",
+   "year": "2026",
+   "authors": [
+    "Godoy MM",
+    "Ch\u00e1vare J",
+    "Chaves PLL",
+    "Almeida JPF",
+    "et al."
+   ],
+   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
+   "doi": "10.1055/s-0046-1822977",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42524670/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42453598",
@@ -268,6 +295,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42520921",
+   "title": "Arthroscopic lateral ankle ligament reconstruction (ALALR) with hamstring autograft does not affect jumping ability at 6 months post-surgery.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "Jean-Charles G",
+    "Florian V",
+    "Guillaume V",
+    "Natacha B",
+    "et al."
+   ],
+   "abstract": "Arthroscopic lateral ankle ligament reconstruction with hamstring graft (ALALR) generally yields good clinical outcomes and enables an early return to sports. However, no studies have specifically evaluated persistent functional deficits, particularly regarding jumping ability, following ALALR with hamstring autograft. To evaluate post-operative ankle stability via jumping ability in patients six months after ALALR with hamstring autograft compared to healthy patients. Retrospective comparative study; METHODS: Forty-nine patients who underwent ALALR with hamstring graft and forty-nine healthy controls performed bipodal drop jump (DJ), single hop (SNH), side hop (SDH), and single-leg vertical jump (SVJ) tests. Measurements included jump height (m), jump distance (m), lateral jump time (s), and reactive strength index for bipodal drop jump (DJ-RSI). These metrics were compared between groups. Additionally, single hop, side hop, and SVJ results were compared between healthy participants and both the injured and contralateral legs of ALALR patients. At an average of 5.8 \u00b1 0.9 months postoperatively, ALALR patients showed no significant differences in DJ-RSI, Single hop, Side Hop tests or SVJ compared to the control group (p > 0.05). Vertical, lateral, and anteroposterior jumping performances were similar for both the injured and contralateral legs (p > 0.05). No statistically significant difference in jumping ability was detected between patients six months after ALALR with hamstring autograft and healthy controls. As a non-significant result does not establish equivalence, these findings should be interpreted as descriptive and suggest that jumping ability is not markedly impaired, which may support return to sport after the ALALR procedure. III.",
+   "doi": "10.1053/j.jfas.2026.07.022",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42520921/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42389367",
@@ -851,7 +906,8 @@
    "abstract": "Background and Objectives: Foot wedges are widely used to modulate ankle alignment in clinical and athletic settings, yet the effects of mediolateral wedge placement on multi-planar lower limb biomechanics during functional unilateral exercises remain poorly characterized. This study aimed to quantify the effects of medial and lateral foot wedge placement on lower limb joint kinematics, muscle activation, and ground reaction forces (GRFs) during the split squat. Materials and Methods: Thirty healthy young adults (12 males, 18 females; 24.5 \u00b1 2.7 years) performed split squats under three randomized conditions using a rigid inclined platform rather than a custom foot orthosis: no wedge (NW), medial wedge (MW), and lateral wedge (LW). Three-dimensional kinematics (Qualisys, 100 Hz), bilateral GRFs (Bertec, 1000 Hz), and surface electromyography (sEMG, 1000 Hz) of the peroneus longus (PL), tibialis anterior (TA), vastus medialis (VM), and vastus lateralis (VL) were recorded synchronously. Repeated-measures ANOVA with Bonferroni post hoc tests and partial eta-squared (\u03b72p) were used (\u03b1 = 0.05). Results: LW significantly increased PL and VM activation, sagittal-plane range of motion (ROM) at the ankle, knee, and pelvis, and vertical GRF, compared with MW and NW (p < 0.05). MW significantly increased TA and VL activation and reduced sagittal hip ROM (p < 0.05). No significant differences were observed for mediolateral or anteroposterior GRF. Conclusions: Mediolateral foot wedge placement acutely reorganizes lower limb neuromuscular recruitment, joint kinematics, and vertical ground reaction force during the split squat in healthy young adults. These preliminary findings indicate that wedge orientation, applied via a rigid inclined platform, can acutely and selectively modulate muscle activation patterns; any therapeutic or performance applications, however, were not evaluated here and should not be generalized to conventional clinical orthoses without further investigation.",
    "doi": "10.3390/medicina62071249",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Randomized Controlled Trial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42512791/",
    "matched": [
@@ -1364,6 +1420,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42519520",
+   "title": "Limb salvage versus primary amputation in severe lower extremity trauma: a systematic review and meta-analysis.",
+   "journal": "Trauma Surg Acute Care Open",
+   "year": "2026",
+   "authors": [
+    "Salimi J",
+    "Soltani Asl Heris S",
+    "Shokri A",
+    "Nikzamir M",
+    "et al."
+   ],
+   "abstract": "The optimal management of severe lower extremity trauma remains controversial, with debate between limb salvage and primary amputation. Recent evidence synthesis is needed to guide clinical decision-making. To compare functional outcomes, quality of life, complications, and economic factors between limb salvage and primary amputation in severe lower extremity trauma. Electronic searches of five databases (PubMed, Embase, Cochrane CENTRAL, Scopus, Web of Science) from January 2000 to January 2025, supplemented by hand-searching of reference lists. Eligible studies were randomized controlled trials and prospective and retrospective cohort studies with a minimum 12-month follow-up assessing severe lower limb trauma (Gustilo-Anderson IIIB/IIIC or MESS (Mangled Extremity Severity Score) \u22657). Interventions were limb salvage compared with primary amputation. Forty-seven studies involving 8742 patients (4318 limb salvage, 4424 amputation) were identified. Systematic review and meta-analysis conducted according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. Risk of bias assessed using ROBINS-I (Risk Of Bias In Non-randomized Studies - of Interventions); certainty of evidence evaluated using GRADE (Grading of Recommendations Assessment, Development and Evaluation) methodology. Quality of life metrics showed no clinically meaningful differences at 2-year follow-up (Short Form-36 (SF-36) Physical Component Summary: standardized mean differences (SMD) 0.16, p=0.0001; EQ-5D: SMD 0.07, p=0.31). Functional outcomes were comparable between groups (SMD 0.12, p=0.09). Limb salvage demonstrated modestly higher return-to-work rates (risk ratio (RR) 1.08, p=0.03) but required 4.7 months longer recovery. However, limb salvage was associated with significantly higher complications: 2.5-fold increased infection rates (RR 2.54, p<0.001), 87% higher re-hospitalization (RR 1.87, p<0.001), and 34% increased chronic pain prevalence (RR 1.34, p<0.001). Secondary amputation occurred in 22.7% of salvage attempts. Initial healthcare costs were significantly higher for salvage (mean difference $28 600, p<0.001), converging over 15+ years. Psychological outcomes were comparable between groups. The evidence base was predominantly observational, limiting causal inference, and residual confounding by injury severity and patient selection could not be excluded. Outcome measurement was heterogeneous across studies, and most studies originated from high-income countries, limiting generalisability to resource-limited settings. Long-term functional outcomes and quality of life are comparable between limb salvage and primary amputation despite substantially higher complication burdens with salvage. Findings support a paradigm shift toward individualized, shared decision-making incorporating injury characteristics, patient preferences, and realistic outcome expectations.Systematic review registration number. PROSPERO CRD420251236066.",
+   "doi": "10.1136/tsaco-2025-002211",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42519520/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42402753",
    "title": "Mechanical Contribution of the Anterior Talofibular Ligament to Ankle Stability: 3D Anatomical Finite Element Analysis.",
    "journal": "J Orthop Res",
@@ -1390,30 +1474,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42369091",
-   "title": "Minimally Invasive Fixation of a Distal Fibula Fracture With an Intramedullary Nail.",
-   "journal": "Video J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Murali-Larson J"
-   ],
-   "abstract": "Advantages of using an intramedullary (IM) nail over a lateral plate for fixation of distal fibula fractures include the ability to allow for earlier weightbearing and return to sport, smaller incisions, and decreased hardware prominence. When comparing a fibular nail with an IM screw, the nail allows for syndesmosis fixation through the device and imparts rotational stability. Long-term studies support the viability and clinical outcomes of using an IM nail. In this technique video, a case is presented to illustrate the use of an IM nail for fixation of a distal fibula fracture. Distal fibula fractures should be treated operatively in the following cases: open fractures, bimalleolar fractures, or lateral malleolar fractures with medial clear space widening, displacement >3 mm, or decreased tib-fib overlap, increased talocrural angle, any talar displacement, fracture-dislocation, or nonunion. When treating these fractures operatively, it is crucial to get an anatomic reduction, as this will lead to a satisfactory outcome. By restoring the anatomy, the talar shift is decreased, and a normal tibiotalar contact area is approached. Percutaneous incisions are made around the fracture to place a clamp and hold anatomic reduction. Once reduced, a small incision is made 1cm distal to the fibular tip and in line with its axis. The start point is checked with the K-wire on anteroposterior and lateral views. An opening reamer is used, followed by a flexible guidewire and then a proximal reamer. Talons are deployed once the appropriate position is confirmed, and interlocking screws are placed through the guide. Syndesmosis fixation is added if necessary. The success rate for achieving good outcomes is high at 90%. Patients should be counseled that their braking time while driving is normal at around 9 weeks and that overall recovery is about 2 years. This technique should not be used if the 6.2-mm opening reamer will breach the cortex, and should not be used if a plate will provide superior fixation. Like with any nailing procedure, obtaining and maintaining the reduction is paramount. A proper start point is critical for optimal fixation. The author(s) attests that consent has been obtained from any patient(s) appearing in this publication. If the individual may be identifiable, the author(s) has included a statement of release or other written form of approval from the patient(s) with this submission for publication.",
-   "doi": "10.1177/26350254261452269",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42369091/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42423986",
@@ -1939,34 +1999,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42371439",
-   "title": "Relationship Between Ankle Plantar Flexion Angle and Tendon Gap in Achilles Tendon Rupture: A Prospective Study Using Portable Handheld Ultrasonography.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Waryasz G",
-    "Taseh A",
-    "Nassour N",
-    "Ranganathan N",
-    "et al."
-   ],
-   "abstract": "Background Achilles tendon rupture (ATR) requires accurate diagnosis and timely intervention to reduce complications, disabilities, and costs. ATR gap influences treatment decisions, surgical or non-surgical. This study aimed to assess the correlation between ankle angle in knee flexion at 90 degrees and ATR gap size, exploring whether this method could reliably detect ATR and estimate the tendon gap. Methods In this prospective study, 47 patients with acute ATR underwent pre-operative assessment using portable handheld ultrasound. Measurements included the tendon gap at various foot positions and ankle angles in knee flexion. Baseline patient-reported outcome measures (PROMs) were also collected. Spearman's correlation was used to analyze relationships between gap size, angle measurements, and PROMs, while receiver operating characteristic (ROC) analysis identified an optimal ankle angle threshold. Results No significant correlation emerged between tendon gap size and angle values, nor between PROMs and angle or gap measurements. However, a significant difference in plantar flexion angles was found between injured and uninjured ankles, with a median of 99.4\u00b0 for injured and 110.6\u00b0 for healthy sides (p < 0.001). The optimal threshold of 104.75\u00b0 achieved 83% sensitivity and 78% specificity in distinguishing ATR. Conclusion Ankle angle measurement may enhance ATR screening in settings without advanced imaging. The identified threshold could assist in clinical evaluation, though further research is needed to validate its use alongside portable handheld ultrasound as an accessible, cost-effective diagnostic tool.",
-   "doi": "10.7759/cureus.109845",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42371439/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42483632",
    "title": "Return-to-Sport Outcomes After Suture Button Fixation for Syndesmotic Injury in Elite Athletes With Chronic Lateral Ankle Instability: A Prospective Case Series.",
    "journal": "Orthop J Sports Med",
@@ -2320,32 +2352,31 @@
    "bucket": "research"
   },
   {
-   "pmid": "42371706",
-   "title": "The association between running velocity, cadence, and tibial acceleration in recreational runners in an outdoor environment.",
-   "journal": "Sports Biomech",
+   "pmid": "42520742",
+   "title": "The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.",
+   "journal": "Gait Posture",
    "year": "2026",
    "authors": [
-    "Wong J",
-    "Wyatt HE",
-    "Whatman C",
-    "Cross MR",
-    "et al."
+    "Anderson KM",
+    "Gari WJ",
+    "Pacha MS",
+    "Wilken JM"
    ],
-   "abstract": "Advances in wearable technology have improved the ability to measure spatiotemporal gait parameters and training metrics in real-world environments, providing greater insight into how runners accumulate mechanical load. While spatiotemporal parameters such as velocity and cadence are associated with tibial acceleration (TA), these relationships have typically been examined at fixed velocities under controlled conditions, and do not consider their potential interaction or reflect real-world running conditions. The purpose of this study was to investigate the association between running velocity, cadence and TA in an outdoor environment. One hundred recreational runners ran on an athletics track at five velocities, ranging from very slow to very fast, based on their self-selected training pace. The results showed a significant interaction effect between cadence and velocity for both axial (p=0.002) and resultant TA (p<0.001). The estimated increase in axial TA for every 1-step increase in cadence ranged from 0.017 g to 0.042 g across the five velocity bands. For resultant TA, the estimated increase ranged from 0.006 g to 0.082 g. These findings suggest that cadence had a larger effect on TA at faster velocities, highlighting the importance of monitoring cadence in conjunction with velocity to inform TA.",
-   "doi": "10.1080/14763141.2026.2693712",
+   "abstract": "Limb trauma often results in long-term disability. Carbon fiber custom dynamic orthoses (CDOs) include a proximal cuff, posterior strut, and footplate, and improve outcomes following limb trauma, but the effects of cuff design are not well understood. Does CDO cuff design influence limb mechanics, foot loading, or CDO comfort? Fifteen unimpaired individuals completed testing without an orthosis (NoCDO) and in a CDO with four interchangeable cuffs: anterior shell with straps, patellar tendon bearing shell with ratcheting system, patellar tendon bearing shell with pivot point and straps, flexible shell with strap. Joint kinematic, kinetic, and plantar force data were collected as participants walked at a controlled speed. There were no significant differences in ankle mechanics or foot loading between cuffs. CDO use had the greatest effect on the ankle, effectively stiffening the joint and significantly decreasing motion, increasing dorsiflexion moment, and decreasing power absorption and generation for all cuffs compared to NoCDO. CDO use redistributed forces from the forefoot to the hindfoot, resulting in significantly lower peak forefoot force and forefoot impulse and higher hindfoot impulse with all cuffs compared to NoCDO. Study results indicate that multiple cuffs, representative of clinical practice and previous research, had a similar effect on gait mechanics, foot loading, and comfort. The limited differences suggest that clinicians could select the cuff best suited to patient needs outside of limb motion and loading such as ease of donning and doffing, available range of motion, or preference.",
+   "doi": "10.1016/j.gaitpost.2026.110288",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42371706/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42520742/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
     }
    ],
    "is_new": false,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42468341",
@@ -2367,34 +2398,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42371861",
-   "title": "The experience of individuals following non-surgical management of Achilles tendon rupture in the United Kingdom - a qualitative study.",
-   "journal": "PLoS One",
-   "year": "2026",
-   "authors": [
-    "Briggs-Price S",
-    "Yates T",
-    "Mangwani J",
-    "Bhatia M",
-    "et al."
-   ],
-   "abstract": "Despite extensive research on Achilles tendon ruptures (ATR), the lived experience of patients remains\u00a0under explored. This study aimed to investigate the experiences of individuals managed non-surgically within the National Health Service (NHS). Qualitative study using semi-structured, one-to-one interviews. NHS services in the United Kingdom providing non-surgical management for ATR. Fifteen patients (mean age 54.5 years) who had sustained an ATR and were managed non-surgically. Participants were recruited from a specialist ATR clinic. A stakeholder-informed topic guide was used to conduct semi-structured interviews. Interviews were audio-recorded, transcribed verbatim, and analysed using reflexive thematic analysis. Coding was undertaken independently by two researchers, with themes reviewed by the full research team. The study followed COREQ guidelines for qualitative reporting. Three themes were identified: (1) The experience of injury and entering the healthcare system: 'it felt as if my whole ankle had exploded' participants described sudden injury onset, sometimes painless, and varied understanding of treatment options; (2) The experience of non-surgical immobilisation: 'you're being told so much in that first session\u2026I just couldn't remember' boot immobilisation was valued for mobility but challenged comfort and self-management; and (3) The rehabilitation journey: 'it happened so unexpectedly so it can happen again' fear and uncertainty about rehabilitation and returning to sport were common, shaping participant's rehabilitation experience. This study highlights how diverse ATR injury experiences, early management variability, and boot-related challenges impact recovery. Fear of re-rupture shapes rehabilitation and return to sport, emphasising the need for clearer guidance on boot use, weightbearing, and rehabilitation progression, alongside consistent healthcare professional support to optimise outcomes.",
-   "doi": "10.1371/journal.pone.0352761",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42371861/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
