@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-30T15:34:53+00:00",
+ "generated": "2026-07-31T15:39:42+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,95 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 4,
-  "research": 33,
-  "fieldnotes": 54
+  "total": 89,
+  "new": 3,
+  "research": 32,
+  "fieldnotes": 57
  },
  "records": [
+  {
+   "pmid": "42534234",
+   "title": "A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Rossie D"
+   ],
+   "abstract": "Musculoskeletal (MSK) complaints account for a significant proportion of emergency department (ED) visits and range from minor soft tissue injuries to fractures, tendon ruptures, dislocations, septic arthritis, and compartment syndrome. Despite their frequency, these presentations can be diagnostically challenging because of variable mechanisms of injury, overlapping examination findings, and limitations of plain radiography for detecting soft tissue and occult bony injuries. Missed diagnoses, such as Achilles tendon rupture, scaphoid fracture, Lisfranc injury, and tibial plateau fracture, may result in substantial morbidity, while excessive imaging contributes to unnecessary cost and resource utilization. This review presents a practical framework for evaluating acute MSK injuries in the ED. The approach emphasizes five core components: mechanism of injury, functional assessment, focused physical examination, targeted imaging, and disposition planning. Validated clinical decision tools, including the Ottawa Ankle and Knee Rules, are reviewed, along with the evolving role of point-of-care ultrasound in emergency MSK evaluation. High-risk injuries that are commonly missed in the ED are discussed in detail, with emphasis on recognition, imaging strategy, and early management. By applying a structured diagnostic approach, emergency physicians can improve diagnostic accuracy, reduce unnecessary imaging, and better identify injuries requiring urgent intervention or specialty follow-up.",
+   "doi": "10.7759/cureus.111769",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42534234/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42531926",
+   "title": "Predicting ACL injury risk in athletes: A systematic review of machine learning-based models.",
+   "journal": "Knee",
+   "year": "2026",
+   "authors": [
+    "Bing\u00f6l \u015e",
+    "Hosseini E",
+    "\u015eahin B\u00d6",
+    "Tan \u00c7",
+    "et al."
+   ],
+   "abstract": "Early ACL injury risk identification in athletes is essential. This systematic review examines machine learning (ML) models for predicting ACL injuries, evaluating their methodological quality, performance, and reliability. A comprehensive electronic search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases, supplemented by Google Scholar for grey literature, covering articles published between January 1, 2015, and August 30, 2025. Eligible studies were appraised using the Prediction Model Study Risk of Bias Assessment Tool (PROBAST) for methodological quality and risk of bias, and the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) guidelines for quality of evidence. Ten studies were included. PROBAST showed eight studies had moderate risk of bias and two low risk. TRIPOD found only two studies met quality criteria. ML models included logistic regression (n\u00a0=\u00a05), support vector machines (n\u00a0=\u00a04), k-nearest neighbor (n\u00a0=\u00a03), decision trees (n\u00a0=\u00a03), random forests (n\u00a0=\u00a05), neural networks (n\u00a0=\u00a02), linear discriminant analysis (n\u00a0=\u00a01), and pre-trained CNNs (n\u00a0=\u00a01). AUC ranged from 0.63 to 0.98. Accuracy (reported in six studies) ranged from 26% to 95%; however, these values should be interpreted with caution due to the absence of confidence intervals, lack of class imbalance handling, and limited external validation across studies. Tree-based ensemble methods such as random forest achieved competitive accuracy (74-86%), while SVM, a non-ensemble classifier, reported accuracy ranging from 71% to 95%; however, the highest values were obtained in studies with notably small sample sizes (n\u00a0=\u00a012 to n\u00a0=\u00a039), raising concerns about overfitting and generalizability. Current ML algorithms show promise for identifying athletes at high ACL injury risk and detecting relevant risk factors. Although study quality was generally satisfactory, future research should prioritize external validation and model interpretability to support clinical translation.",
+   "doi": "10.1016/j.knee.2026.104581",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42531926/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42531369",
+   "title": "Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.",
+   "journal": "JBJS Case Connect",
+   "year": "2026",
+   "authors": [
+    "Wharton BR",
+    "McCarty EC",
+    "Metzl JA",
+    "Albright JC",
+    "et al."
+   ],
+   "abstract": "We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.",
+   "doi": "10.2106/JBJS.CC.25.00483",
+   "pubtypes": [
+    "Journal Article",
+    "Case Reports"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "42524706",
    "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
@@ -97,88 +180,7 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42525433",
-   "title": "Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.",
-   "journal": "Res Sports Med",
-   "year": "2026",
-   "authors": [
-    "Chen YR",
-    "Chang NJ"
-   ],
-   "abstract": "Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition\u2009\u00d7\u2009time interactions were observed for Y Balance Test (YBT)-dominant (F\u2009=\u20096.202, p\u2009=\u2009.019), YBT-non-dominant (p\u2009=\u2009.004), CMJ height (F\u2009=\u20099.829, p\u2009=\u2009.004), and six-point footwork time (F\u2009=\u200929.905, p\u2009<\u2009.001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d\u2009=\u20090.19-0.59); ST produced only trivial changes (d\u2009<\u20090.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.",
-   "doi": "10.1080/15438627.2026.2700732",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42525433/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42529416",
-   "title": "Gait-Semantic Relational Knowledge Distillation for Ground Reaction Force Estimation.",
-   "journal": "Adv Eng Inform",
-   "year": "2026",
-   "authors": [
-    "Lim H",
-    "Lee J",
-    "Kettner N",
-    "Save OM",
-    "et al."
-   ],
-   "abstract": "Wearable sensor-based gait analysis has attracted increasing attention for diverse applications in industrial fields, such as healthcare, rehabilitation, sports science, and continuous monitoring for worker injury prevention. Among gait-related signals, ground reaction force (GRF) is a key indicator for understanding human locomotion and is conventionally measured using force plates or instrumented treadmills. However, such systems are costly and limited to controlled laboratory environments, which restrict their use in daily-life settings. Wearable insole sensors provide a more portable alternative for GRF acquisition, but their measurements are often noisy and less reliable, making accurate estimation challenging. Although deep learning models have shown promise in improving GRF estimation from wearable sensor data, high-performing models are often computationally expensive and difficult to deploy on resource-constrained devices. Moreover, since gait signals exhibit phase-specific temporal structures, effective estimation requires the model to develop a semantically meaningful understanding of the gait sequence rather than merely matching signal values. In this regard, human-interpretable semantic information can provide useful guidance for modeling such structured temporal dynamics. To address these issues, we propose a Gait-Semantic Relational Knowledge Distillation (SRKD) framework for GRF estimation using wearable insole sensor data. The proposed method introduces gait-phase-aware semantic guidance into the teacher-student distillation process by decomposing intermediate representations into phase-specific components and aligning them with corresponding textual semantic representations. This phase-aware distillation framework uses textual semantics as anchors to bridge the teacher-student representational gap, enabling the student to effectively learn the structured temporal relational knowledge underlying gait dynamics. We evaluate SRKD under several experimental configurations, including different teacher-student architectures, temporal window lengths, text encoders, and human-refined semantic descriptions. The experimental results show that SRKD generally improved the estimation performance of the evaluated lightweight student models compared with the considered baseline methods. Qualitative analyses also indicate that the predicted GRF signals more closely captured both the overall waveform and phase-dependent temporal variations in the evaluated settings. Furthermore, the results obtained using human-refined descriptions suggest that human-guided semantics can enhance the effectiveness of knowledge distillation by providing more task-relevant semantic guidance. Further validation across broader populations, sensor configurations, and real-world environments is required to assess the generalizability and practical applicability of the proposed framework.",
-   "doi": "10.1016/j.aei.2026.105063",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42529416/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42524670",
-   "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
-   "journal": "Rev Bras Ortop (Sao Paulo)",
-   "year": "2026",
-   "authors": [
-    "Godoy MM",
-    "Ch\u00e1vare J",
-    "Chaves PLL",
-    "Almeida JPF",
-    "et al."
-   ],
-   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
-   "doi": "10.1055/s-0046-1822977",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42524670/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "fieldnotes"
   },
   {
@@ -439,6 +441,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42525433",
+   "title": "Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.",
+   "journal": "Res Sports Med",
+   "year": "2026",
+   "authors": [
+    "Chen YR",
+    "Chang NJ"
+   ],
+   "abstract": "Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition\u2009\u00d7\u2009time interactions were observed for Y Balance Test (YBT)-dominant (F\u2009=\u20096.202, p\u2009=\u2009.019), YBT-non-dominant (p\u2009=\u2009.004), CMJ height (F\u2009=\u20099.829, p\u2009=\u2009.004), and six-point footwork time (F\u2009=\u200929.905, p\u2009<\u2009.001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d\u2009=\u20090.19-0.59); ST produced only trivial changes (d\u2009<\u20090.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.",
+   "doi": "10.1080/15438627.2026.2700732",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42525433/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42482068",
    "title": "Biomechanical effects of powered knee orthoses and articulated ankle-foot orthoses in people with diparetic cerebral palsy: a pilot study.",
    "journal": "J Neuroeng Rehabil",
@@ -464,38 +491,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42378736",
-   "title": "Characterizing the relationship between isolated extrinsic lower limb muscle activity and Talocrural, Subtalar, and midtarsal joint kinematics under an unweighted condition.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Le AH",
-    "Sroka O",
-    "Henninger HB",
-    "Lenz AL"
-   ],
-   "abstract": "Extrinsic lower limb muscle activity is often studied using simplified segmental models that overlook distinct kinematics of individual joints within the ankle joint complex and its associated articulations. This study provides a joint-level characterization of how individual muscle groups influence talocrural, subtalar, and midtarsal joint kinematics under an unweighted condition. Six fresh-frozen cadaveric specimens were mounted to a tendon force actuator system to independently actuate six functional muscle groups: tibialis anterior (TA), extensors (EXT), peroneals (PER), flexors (FLX), tibialis posterior (TP), and Achilles. Individual stepwise loading trials were performed for the five muscle groups other than the Achilles. Each muscle group was tested in 20\u00a0% force increments while the Achilles was held at a constant 10\u00a0% baseline tension. Three-dimensional rotations at the tibiotalar (TT), talofibular, tibiofibular, subtalar (ST), talonavicular (TN), and calcaneocuboid joints were measured. Parallel coordinate plots revealed distinct muscle-specific and shared joint coordination patterns, with consistent ST/TN coronal and transverse coupled motions across muscle groups. Principal component analysis showed that the first principal component strongly reflected force-dependent motion (R2\u00a0=\u00a00.75-0.90). TA primarily drove TT dorsiflexion and ST/TN inversion and internal rotation. EXT produced ST/TN eversion and external rotation. PER and FLX contributed greater midtarsal motions in the coronal and transverse planes, consistent with common hindfoot-midfoot stabilization strategies. FLX and TP did not generate strong TT plantarflexion, likely due to the initial plantarflexed alignment and baseline Achilles activation, but TP showed strong ST/TN inversion and internal rotation. Findings highlight the influence of initial foot posture, hindfoot-midfoot coupling, and the value of joint-level analysis for understanding muscle function, refining musculoskeletal models, and evaluating surgical interventions.",
-   "doi": "10.1016/j.jbiomech.2026.113408",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42378736/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42421229",
@@ -1151,6 +1146,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42529416",
+   "title": "Gait-Semantic Relational Knowledge Distillation for Ground Reaction Force Estimation.",
+   "journal": "Adv Eng Inform",
+   "year": "2026",
+   "authors": [
+    "Lim H",
+    "Lee J",
+    "Kettner N",
+    "Save OM",
+    "et al."
+   ],
+   "abstract": "Wearable sensor-based gait analysis has attracted increasing attention for diverse applications in industrial fields, such as healthcare, rehabilitation, sports science, and continuous monitoring for worker injury prevention. Among gait-related signals, ground reaction force (GRF) is a key indicator for understanding human locomotion and is conventionally measured using force plates or instrumented treadmills. However, such systems are costly and limited to controlled laboratory environments, which restrict their use in daily-life settings. Wearable insole sensors provide a more portable alternative for GRF acquisition, but their measurements are often noisy and less reliable, making accurate estimation challenging. Although deep learning models have shown promise in improving GRF estimation from wearable sensor data, high-performing models are often computationally expensive and difficult to deploy on resource-constrained devices. Moreover, since gait signals exhibit phase-specific temporal structures, effective estimation requires the model to develop a semantically meaningful understanding of the gait sequence rather than merely matching signal values. In this regard, human-interpretable semantic information can provide useful guidance for modeling such structured temporal dynamics. To address these issues, we propose a Gait-Semantic Relational Knowledge Distillation (SRKD) framework for GRF estimation using wearable insole sensor data. The proposed method introduces gait-phase-aware semantic guidance into the teacher-student distillation process by decomposing intermediate representations into phase-specific components and aligning them with corresponding textual semantic representations. This phase-aware distillation framework uses textual semantics as anchors to bridge the teacher-student representational gap, enabling the student to effectively learn the structured temporal relational knowledge underlying gait dynamics. We evaluate SRKD under several experimental configurations, including different teacher-student architectures, temporal window lengths, text encoders, and human-refined semantic descriptions. The experimental results show that SRKD generally improved the estimation performance of the evaluated lightweight student models compared with the considered baseline methods. Qualitative analyses also indicate that the predicted GRF signals more closely captured both the overall waveform and phase-dependent temporal variations in the evaluated settings. Furthermore, the results obtained using human-refined descriptions suggest that human-guided semantics can enhance the effectiveness of knowledge distillation by providing more task-relevant semantic guidance. Further validation across broader populations, sensor configurations, and real-world environments is required to assess the generalizability and practical applicability of the proposed framework.",
+   "doi": "10.1016/j.aei.2026.105063",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42529416/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42414802",
    "title": "Heatstroke Over the Past Decade: Risk Factors, Long-Term Health Consequences, and Preventive Measures.",
    "journal": "J Gen Intern Med",
@@ -1274,6 +1297,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42524670",
+   "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
+   "journal": "Rev Bras Ortop (Sao Paulo)",
+   "year": "2026",
+   "authors": [
+    "Godoy MM",
+    "Ch\u00e1vare J",
+    "Chaves PLL",
+    "Almeida JPF",
+    "et al."
+   ],
+   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
+   "doi": "10.1055/s-0046-1822977",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42524670/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42438226",

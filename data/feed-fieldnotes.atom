@@ -3,8 +3,38 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-07-30T15:34:53Z</updated>
+  <updated>2026-07-31T15:39:42Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.</title>
+    <id>urn:pmid:42534234</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42534234/" rel="alternate"/>
+    <updated>2026-07-31T15:39:42Z</updated>
+    <published>2026-07-31T15:39:42Z</published>
+    <author><name>Rossie D</name></author>
+    <category term="burden-cost" label="Injury burden, cost &amp; time loss"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Rossie D · Cureus · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Musculoskeletal (MSK) complaints account for a significant proportion of emergency department (ED) visits and range from minor soft tissue injuries to fractures, tendon ruptures, dislocations, septic arthritis, and compartment syndrome. Despite their frequency, these presentations can be diagnostically challenging because of variable mechanisms of injury, overlapping examination findings, and limitations of plain radiography for detecting soft tissue and occult bony injuries. Missed diagnoses, such as Achilles tendon rupture, scaphoid fracture, Lisfranc injury, and tibial plateau fracture, may result in substantial morbidity, while excessive imaging contributes to unnecessary cost and resource utilization. This review presents a practical framework for evaluating acute MSK injuries in the ED. The approach emphasizes five core components: mechanism of injury, functional assessment, focused physical examination, targeted imaging, and disposition planning. Validated clinical decision tools, including the Ottawa Ankle and Knee Rules, are reviewed, along with the evolving role of point-of-care ultrasound in emergency MSK evaluation. High-risk injuries that are commonly missed in the ED are discussed in detail, with emphasis on recognition, imaging strategy, and early management. By applying a structured diagnostic approach, emergency physicians can improve diagnostic accuracy, reduce unnecessary imaging, and better identify injuries requiring urgent intervention or specialty follow-up.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.7759/cureus.111769&quot;&gt;10.7759/cureus.111769&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42534234/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Predicting ACL injury risk in athletes: A systematic review of machine learning-based models.</title>
+    <id>urn:pmid:42531926</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42531926/" rel="alternate"/>
+    <updated>2026-07-31T15:39:42Z</updated>
+    <published>2026-07-31T15:39:42Z</published>
+    <author><name>Bingöl Ş</name></author><author><name>Hosseini E</name></author><author><name>Şahin BÖ</name></author><author><name>Tan Ç</name></author><author><name>et al.</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Bingöl Ş, Hosseini E, Şahin BÖ, Tan Ç, et al. · Knee · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Early ACL injury risk identification in athletes is essential. This systematic review examines machine learning (ML) models for predicting ACL injuries, evaluating their methodological quality, performance, and reliability. A comprehensive electronic search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases, supplemented by Google Scholar for grey literature, covering articles published between January 1, 2015, and August 30, 2025. Eligible studies were appraised using the Prediction Model Study Risk of Bias Assessment Tool (PROBAST) for methodological quality and risk of bias, and the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) guidelines for quality of evidence. Ten studies were included. PROBAST showed eight studies had moderate risk of bias and two low risk. TRIPOD found only two studies met quality criteria. ML models included logistic regression (n = 5), support vector machines (n = 4), k-nearest neighbor (n = 3), decision trees (n = 3), random forests (n = 5), neural networks (n = 2), linear discriminant analysis (n = 1), and pre-trained CNNs (n = 1). AUC ranged from 0.63 to 0.98. Accuracy (reported in six studies) ranged from 26% to 95%; however, these values should be interpreted with caution due to the absence of confidence intervals, lack of class imbalance handling, and limited external validation across studies. Tree-based ensemble methods such as random forest achieved competitive accuracy (74-86%), while SVM, a non-ensemble classifier, reported accuracy ranging from 71% to 95%; however, the highest values were obtained in studies with notably small sample sizes (n = 12 to n = 39), raising concerns about overfitting and generalizability. Current ML algorithms show promise for identifying athletes at high ACL injury risk and detecting relevant risk factors. Although study quality was generally satisfactory, future research should prioritize external validation and model interpretability to support clinical translation.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.knee.2026.104581&quot;&gt;10.1016/j.knee.2026.104581&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42531926/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.</title>
+    <id>urn:pmid:42531369</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42531369/" rel="alternate"/>
+    <updated>2026-07-31T15:39:42Z</updated>
+    <published>2026-07-31T15:39:42Z</published>
+    <author><name>Wharton BR</name></author><author><name>McCarty EC</name></author><author><name>Metzl JA</name></author><author><name>Albright JC</name></author><author><name>et al.</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Wharton BR, McCarty EC, Metzl JA, Albright JC, et al. · JBJS Case Connect · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.2106/JBJS.CC.25.00483&quot;&gt;10.2106/JBJS.CC.25.00483&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42531369/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].</title>
     <id>urn:pmid:42524706</id>

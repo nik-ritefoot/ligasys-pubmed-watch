@@ -1,5 +1,76 @@
 [
  {
+  "pmid": "42534234",
+  "title": "A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.",
+  "journal": "Cureus",
+  "year": "2026",
+  "authors": [
+   "Rossie D"
+  ],
+  "abstract": "Musculoskeletal (MSK) complaints account for a significant proportion of emergency department (ED) visits and range from minor soft tissue injuries to fractures, tendon ruptures, dislocations, septic arthritis, and compartment syndrome. Despite their frequency, these presentations can be diagnostically challenging because of variable mechanisms of injury, overlapping examination findings, and limitations of plain radiography for detecting soft tissue and occult bony injuries. Missed diagnoses, such as Achilles tendon rupture, scaphoid fracture, Lisfranc injury, and tibial plateau fracture, may result in substantial morbidity, while excessive imaging contributes to unnecessary cost and resource utilization. This review presents a practical framework for evaluating acute MSK injuries in the ED. The approach emphasizes five core components: mechanism of injury, functional assessment, focused physical examination, targeted imaging, and disposition planning. Validated clinical decision tools, including the Ottawa Ankle and Knee Rules, are reviewed, along with the evolving role of point-of-care ultrasound in emergency MSK evaluation. High-risk injuries that are commonly missed in the ED are discussed in detail, with emphasis on recognition, imaging strategy, and early management. By applying a structured diagnostic approach, emergency physicians can improve diagnostic accuracy, reduce unnecessary imaging, and better identify injuries requiring urgent intervention or specialty follow-up.",
+  "doi": "10.7759/cureus.111769",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42534234/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-31T15:39:42Z"
+ },
+ {
+  "pmid": "42531926",
+  "title": "Predicting ACL injury risk in athletes: A systematic review of machine learning-based models.",
+  "journal": "Knee",
+  "year": "2026",
+  "authors": [
+   "Bing\u00f6l \u015e",
+   "Hosseini E",
+   "\u015eahin B\u00d6",
+   "Tan \u00c7",
+   "et al."
+  ],
+  "abstract": "Early ACL injury risk identification in athletes is essential. This systematic review examines machine learning (ML) models for predicting ACL injuries, evaluating their methodological quality, performance, and reliability. A comprehensive electronic search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases, supplemented by Google Scholar for grey literature, covering articles published between January 1, 2015, and August 30, 2025. Eligible studies were appraised using the Prediction Model Study Risk of Bias Assessment Tool (PROBAST) for methodological quality and risk of bias, and the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) guidelines for quality of evidence. Ten studies were included. PROBAST showed eight studies had moderate risk of bias and two low risk. TRIPOD found only two studies met quality criteria. ML models included logistic regression (n\u00a0=\u00a05), support vector machines (n\u00a0=\u00a04), k-nearest neighbor (n\u00a0=\u00a03), decision trees (n\u00a0=\u00a03), random forests (n\u00a0=\u00a05), neural networks (n\u00a0=\u00a02), linear discriminant analysis (n\u00a0=\u00a01), and pre-trained CNNs (n\u00a0=\u00a01). AUC ranged from 0.63 to 0.98. Accuracy (reported in six studies) ranged from 26% to 95%; however, these values should be interpreted with caution due to the absence of confidence intervals, lack of class imbalance handling, and limited external validation across studies. Tree-based ensemble methods such as random forest achieved competitive accuracy (74-86%), while SVM, a non-ensemble classifier, reported accuracy ranging from 71% to 95%; however, the highest values were obtained in studies with notably small sample sizes (n\u00a0=\u00a012 to n\u00a0=\u00a039), raising concerns about overfitting and generalizability. Current ML algorithms show promise for identifying athletes at high ACL injury risk and detecting relevant risk factors. Although study quality was generally satisfactory, future research should prioritize external validation and model interpretability to support clinical translation.",
+  "doi": "10.1016/j.knee.2026.104581",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42531926/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-31T15:39:42Z"
+ },
+ {
+  "pmid": "42531369",
+  "title": "Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.",
+  "journal": "JBJS Case Connect",
+  "year": "2026",
+  "authors": [
+   "Wharton BR",
+   "McCarty EC",
+   "Metzl JA",
+   "Albright JC",
+   "et al."
+  ],
+  "abstract": "We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.",
+  "doi": "10.2106/JBJS.CC.25.00483",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-07-31T15:39:42Z"
+ },
+ {
   "pmid": "42524706",
   "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
   "journal": "Rev Bras Ortop (Sao Paulo)",
