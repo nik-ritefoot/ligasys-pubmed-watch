@@ -3,8 +3,28 @@
   <title>LigaSys — PubMed Watch</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom" rel="self"/>
-  <updated>2026-07-31T15:39:42Z</updated>
+  <updated>2026-08-01T14:46:44Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.</title>
+    <id>urn:pmid:42537386</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42537386/" rel="alternate"/>
+    <updated>2026-08-01T14:46:44Z</updated>
+    <published>2026-08-01T14:46:44Z</published>
+    <author><name>Williams JM</name></author><author><name>Luo J</name></author><author><name>Wylde MJ</name></author><author><name>Callaway AJ</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Williams JM, Luo J, Wylde MJ, Callaway AJ · J Biomech · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Mechanical loading can be beneficial or consequential, and it is typically measured through accelerometry in the time-domain. This prevents frequency-specific characteristics underpinning musculoskeletal adaptation and injury risk, from being identified. This study aimed to (1) characterise the frequency-domain loading profile (loading rate, band power and transmissibility) of high-performance youth badminton players across four frequency bands, and (2) determine whether limb symmetry within these bands differs between players with and without a history of injury. Accelerometer data from 90 min of simulated matchplay were collected from 30 players (13 female, 17 male) wearing inertial measurement units on the trunk and bilateral shanks. Data were transformed into four bands using the Fast Fourier Transform (FFT; B1: 0 ≤ f &amp;lt; 2 Hz, B2: 2 ≤ f &amp;lt; 5 Hz, B3: 5 ≤ f &amp;lt; 10 Hz, B4: 10 ≤ f &amp;lt; 20 Hz). Loading rate, band power and band RMS were greater at the shanks than the trunk, with the dominant shank demonstrating greater loading and attenuation than the non-dominant shank across all bands. Descriptive patterns suggested that players with bilateral injury history demonstrated the largest asymmetry for loading rate and band power (-11.6 to -28.7%), favouring the dominant limb, while players with unilateral injury history showed a 0.6-10.4% limb symmetry index favouring the non-injured limb and reduced attenuation on the injured limb, most prominently in B4 (10 ≤ f &amp;lt; 20 Hz). These findings should be interpreted cautiously given the small subgroup sizes and absence of statistical significance and are considered exploratory. Such methods offer novel insights into sport-specific loading demands, injury risk and rehabilitation.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.jbiomech.2026.113485&quot;&gt;10.1016/j.jbiomech.2026.113485&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42537386/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Editorial: Brain function alterations in populations with musculoskeletal disorders: now let&#x27;s talk about it.</title>
+    <id>urn:pmid:42534807</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42534807/" rel="alternate"/>
+    <updated>2026-08-01T14:46:44Z</updated>
+    <published>2026-08-01T14:46:44Z</published>
+    <author><name>Xue X</name></author><author><name>Burcal CJ</name></author><author><name>Tassignon B</name></author><author><name>Needle AR</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Xue X, Burcal CJ, Tassignon B, Needle AR · Front Sports Act Living · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;No abstract indexed.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fspor.2026.1913466&quot;&gt;10.3389/fspor.2026.1913466&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42534807/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.</title>
     <id>urn:pmid:42534234</id>

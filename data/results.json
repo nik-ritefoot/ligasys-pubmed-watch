@@ -1,5 +1,5 @@
 {
- "generated": "2026-07-31T15:39:42+00:00",
+ "generated": "2026-08-01T14:46:44+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,56 +65,29 @@
   }
  ],
  "counts": {
-  "total": 89,
-  "new": 3,
-  "research": 32,
-  "fieldnotes": 57
+  "total": 82,
+  "new": 2,
+  "research": 27,
+  "fieldnotes": 55
  },
  "records": [
   {
-   "pmid": "42534234",
-   "title": "A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.",
-   "journal": "Cureus",
+   "pmid": "42537386",
+   "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
+   "journal": "J Biomech",
    "year": "2026",
    "authors": [
-    "Rossie D"
+    "Williams JM",
+    "Luo J",
+    "Wylde MJ",
+    "Callaway AJ"
    ],
-   "abstract": "Musculoskeletal (MSK) complaints account for a significant proportion of emergency department (ED) visits and range from minor soft tissue injuries to fractures, tendon ruptures, dislocations, septic arthritis, and compartment syndrome. Despite their frequency, these presentations can be diagnostically challenging because of variable mechanisms of injury, overlapping examination findings, and limitations of plain radiography for detecting soft tissue and occult bony injuries. Missed diagnoses, such as Achilles tendon rupture, scaphoid fracture, Lisfranc injury, and tibial plateau fracture, may result in substantial morbidity, while excessive imaging contributes to unnecessary cost and resource utilization. This review presents a practical framework for evaluating acute MSK injuries in the ED. The approach emphasizes five core components: mechanism of injury, functional assessment, focused physical examination, targeted imaging, and disposition planning. Validated clinical decision tools, including the Ottawa Ankle and Knee Rules, are reviewed, along with the evolving role of point-of-care ultrasound in emergency MSK evaluation. High-risk injuries that are commonly missed in the ED are discussed in detail, with emphasis on recognition, imaging strategy, and early management. By applying a structured diagnostic approach, emergency physicians can improve diagnostic accuracy, reduce unnecessary imaging, and better identify injuries requiring urgent intervention or specialty follow-up.",
-   "doi": "10.7759/cureus.111769",
+   "abstract": "Mechanical loading can be beneficial or consequential, and it is typically measured through accelerometry in the time-domain. This prevents frequency-specific characteristics underpinning musculoskeletal adaptation and injury risk, from being identified. This study aimed to (1) characterise the frequency-domain loading profile (loading rate, band power and transmissibility) of high-performance youth badminton players across four frequency bands, and (2) determine whether limb symmetry within these bands differs between players with and without a history of injury. Accelerometer data from 90\u00a0min of simulated matchplay were collected from 30 players (13 female, 17 male) wearing inertial measurement units on the trunk and bilateral shanks. Data were transformed into four bands using the Fast Fourier Transform (FFT; B1: 0\u00a0\u2264\u00a0f\u00a0<\u00a02\u00a0Hz, B2: 2\u00a0\u2264\u00a0f\u00a0<\u00a05\u00a0Hz, B3: 5\u00a0\u2264\u00a0f\u00a0<\u00a010\u00a0Hz, B4: 10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). Loading rate, band power and band RMS were greater at the shanks than the trunk, with the dominant shank demonstrating greater loading and attenuation than the non-dominant shank across all bands. Descriptive patterns suggested that players with bilateral injury history demonstrated the largest asymmetry for loading rate and band power (-11.6 to -28.7%), favouring the dominant limb, while players with unilateral injury history showed a 0.6-10.4% limb symmetry index favouring the non-injured limb and reduced attenuation on the injured limb, most prominently in B4 (10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). These findings should be interpreted cautiously given the small subgroup sizes and absence of statistical significance and are considered exploratory. Such methods offer novel insights into sport-specific loading demands, injury risk and rehabilitation.",
+   "doi": "10.1016/j.jbiomech.2026.113485",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42534234/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42531926",
-   "title": "Predicting ACL injury risk in athletes: A systematic review of machine learning-based models.",
-   "journal": "Knee",
-   "year": "2026",
-   "authors": [
-    "Bing\u00f6l \u015e",
-    "Hosseini E",
-    "\u015eahin B\u00d6",
-    "Tan \u00c7",
-    "et al."
-   ],
-   "abstract": "Early ACL injury risk identification in athletes is essential. This systematic review examines machine learning (ML) models for predicting ACL injuries, evaluating their methodological quality, performance, and reliability. A comprehensive electronic search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases, supplemented by Google Scholar for grey literature, covering articles published between January 1, 2015, and August 30, 2025. Eligible studies were appraised using the Prediction Model Study Risk of Bias Assessment Tool (PROBAST) for methodological quality and risk of bias, and the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) guidelines for quality of evidence. Ten studies were included. PROBAST showed eight studies had moderate risk of bias and two low risk. TRIPOD found only two studies met quality criteria. ML models included logistic regression (n\u00a0=\u00a05), support vector machines (n\u00a0=\u00a04), k-nearest neighbor (n\u00a0=\u00a03), decision trees (n\u00a0=\u00a03), random forests (n\u00a0=\u00a05), neural networks (n\u00a0=\u00a02), linear discriminant analysis (n\u00a0=\u00a01), and pre-trained CNNs (n\u00a0=\u00a01). AUC ranged from 0.63 to 0.98. Accuracy (reported in six studies) ranged from 26% to 95%; however, these values should be interpreted with caution due to the absence of confidence intervals, lack of class imbalance handling, and limited external validation across studies. Tree-based ensemble methods such as random forest achieved competitive accuracy (74-86%), while SVM, a non-ensemble classifier, reported accuracy ranging from 71% to 95%; however, the highest values were obtained in studies with notably small sample sizes (n\u00a0=\u00a012 to n\u00a0=\u00a039), raising concerns about overfitting and generalizability. Current ML algorithms show promise for identifying athletes at high ACL injury risk and detecting relevant risk factors. Although study quality was generally satisfactory, future research should prioritize external validation and model interpretability to support clinical translation.",
-   "doi": "10.1016/j.knee.2026.104581",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42531926/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42537386/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -126,24 +99,22 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42531369",
-   "title": "Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.",
-   "journal": "JBJS Case Connect",
+   "pmid": "42534807",
+   "title": "Editorial: Brain function alterations in populations with musculoskeletal disorders: now let's talk about it.",
+   "journal": "Front Sports Act Living",
    "year": "2026",
    "authors": [
-    "Wharton BR",
-    "McCarty EC",
-    "Metzl JA",
-    "Albright JC",
-    "et al."
+    "Xue X",
+    "Burcal CJ",
+    "Tassignon B",
+    "Needle AR"
    ],
-   "abstract": "We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.",
-   "doi": "10.2106/JBJS.CC.25.00483",
+   "abstract": "",
+   "doi": "10.3389/fspor.2026.1913466",
    "pubtypes": [
-    "Journal Article",
-    "Case Reports"
+    "Editorial"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42534807/",
    "matched": [
     {
      "id": "return-to-play",
@@ -212,6 +183,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42534234",
+   "title": "A Systematic Approach to the Evaluation of Acute Musculoskeletal Injuries in the Emergency Department.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Rossie D"
+   ],
+   "abstract": "Musculoskeletal (MSK) complaints account for a significant proportion of emergency department (ED) visits and range from minor soft tissue injuries to fractures, tendon ruptures, dislocations, septic arthritis, and compartment syndrome. Despite their frequency, these presentations can be diagnostically challenging because of variable mechanisms of injury, overlapping examination findings, and limitations of plain radiography for detecting soft tissue and occult bony injuries. Missed diagnoses, such as Achilles tendon rupture, scaphoid fracture, Lisfranc injury, and tibial plateau fracture, may result in substantial morbidity, while excessive imaging contributes to unnecessary cost and resource utilization. This review presents a practical framework for evaluating acute MSK injuries in the ED. The approach emphasizes five core components: mechanism of injury, functional assessment, focused physical examination, targeted imaging, and disposition planning. Validated clinical decision tools, including the Ottawa Ankle and Knee Rules, are reviewed, along with the evolving role of point-of-care ultrasound in emergency MSK evaluation. High-risk injuries that are commonly missed in the ED are discussed in detail, with emphasis on recognition, imaging strategy, and early management. By applying a structured diagnostic approach, emergency physicians can improve diagnostic accuracy, reduce unnecessary imaging, and better identify injuries requiring urgent intervention or specialty follow-up.",
+   "doi": "10.7759/cureus.111769",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42534234/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42420437",
    "title": "Active knee-ankle-foot orthosis with personalized knee trajectory compared with locked orthosis and multi-joint exoskeleton.",
    "journal": "Sci Rep",
@@ -235,33 +231,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42380911",
-   "title": "Ankle-foot orthosis mechanical testing: a scoping review.",
-   "journal": "J Neuroeng Rehabil",
-   "year": "2026",
-   "authors": [
-    "Vaiciulis K",
-    "Williston Z",
-    "Totah D"
-   ],
-   "abstract": "Ankle-foot orthoses (AFOs) are assistive devices that support the ankle during gait. AFO mechanical properties, such as rotational stiffness about the ankle, influence the level of support these devices provide. Interest in quantifying AFO mechanical properties is on the rise but is limited by the lack of standardized measurement and assessment techniques. This scoping review discusses existing techniques for the measurement of AFO mechanical properties and introduces a taxonomy for organizing and describing these methods. A scoping review was conducted using a snowballing approach starting from two previously published literature reviews and a database search using PubMed, Engineering Village (Compendex), and Web of Science. Articles with methods that experimentally measured the mechanical properties of AFOs were eligible for inclusion. Data extracted from the selected articles included operation specifications, planes/joints tested, and presence of a biological or surrogate limb during AFO testing. The majority of methods utilize benchtop AFO testing, with a few in-situ methods that involve a biological limb. We highlight key design challenges related to replicating biological gait, including bending axis location and design, motion in single versus multiple planes, and limited testing speeds and range of motion. We introduced a taxonomy for describing AFO testing methods to facilitate cross-device comparisons and inform future development. Future work should include developing standardized, biomimetic methods and validation techniques for testing a variety of AFO designs. This would enable more accurate AFO measurement and enable cross-study comparisons, ultimately leading to optimized AFO properties and improved user performance outcomes.",
-   "doi": "10.1186/s12984-026-02072-w",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42380911/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42465963",
@@ -606,35 +575,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42379566",
-   "title": "Comparison of the modified Brostr\u00f6m-Gould procedure for chronic lateral ankle instability in adolescents with and without an os subfibulare : a propensity score-matched study.",
-   "journal": "Bone Joint J",
-   "year": "2026",
-   "authors": [
-    "Xiong S",
-    "Li Y",
-    "Liu Z",
-    "Zhao F",
-    "et al."
-   ],
-   "abstract": "An os subfibulare (OS) is frequently seen in adolescents with chronic lateral instability of the ankle, potentially impairing participation in sport and the quality of life. The aim of this study was to compare the clinical outcomes of the modified Brostr\u00f6m-Gould procedure in adolescent patients with chronic lateral instability of the ankle with and without an OS. We retrospectively reviewed adolescent patients who underwent a modified Brostr\u00f6m-Gould procedure for chronic instability of the ankle between August 2019 and July 2023. Propensity score matching (1:1) was undertaken based on age, sex, side, BMI, the duration of symptoms, pre-injury Tegner score, and joint hypermobility, yielding 82 matched cases (41 OS and 41 non-OS). Preoperative imaging parameters and intraoperative findings were recorded. Primary outcomes included patient-reported outcome measures (PROMs): a visual analogue scale (VAS) for pain, the Karlsson score, the Tegner score, and the Foot and Ankle Outcome Score (FAOS). Secondary outcomes included the incidence of re-sprain, the time to return to sport, satisfaction, and complications. Logistic regression analysis identified risk factors for re-sprain. The mean follow-up was 47.8 months (SD 11.2) in the OS group and 47.9 months (SD 9.6) in the non-OS group (p = 0.949). Both groups had significant improvements in all PROMs, with no differences between the groups for the VAS, Karlsson score, Tegner score, or FAOS. Re-sprain occurred in five in the OS group (12.2%) and 12 in the non-OS group (29.3%) (p = 0.081). Multivariate analysis identified higher pre-injury Tegner score (p = 0.001) and concomitant calcaneofibular ligament injury (p = 0.028) as significant independent risk factors for re-sprain. In adolescent patients with chronic lateral instabilty of the ankle, the presence of an OS does not compromise the outcomes of a modified Brostr\u00f6m-Gould procedure. Excision of the OS combined with ligamentous repair provides improvements which are comparable to those of an isolated repair, representing a safe and effective form of surgical treatment. Nonetheless, greater attention should be given to patients with high sporting demands or concomitant calcaneofibular ligament injury, due to their increased risk of re-sprain postoperatively.",
-   "doi": "10.1302/0301-620X.108B7.BJJ-2025-1558.R1",
-   "pubtypes": [
-    "Journal Article",
-    "Comparative Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42379566/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42402080",
    "title": "Comprehensive management of the adolescent athlete with osgood-schlatter disease: a multidimensional approach.",
    "journal": "Musculoskelet Surg",
@@ -833,34 +773,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42384475",
-   "title": "Effects of different resistance loads during resisted sprint running on internal stresses of the ankle joint: a finite element analysis.",
-   "journal": "Comput Methods Biomech Biomed Engin",
-   "year": "2026",
-   "authors": [
-    "Li H",
-    "Shao E",
-    "Sun D",
-    "Huang Y",
-    "et al."
-   ],
-   "abstract": "This study examined how three resistance loads (10%, 20%, and 30% of body weight) affect ankle bone stress during sprint running. Thirty elite male sprinters performed trials, and kinematic, kinetic, and finite\u2011element analyses were conducted. With increasing load, peak dorsiflexion angle and moments rose, while peak inversion angle fell. The 30% load produced the highest stress in the tibia, talus, and second/third metatarsals, with concentration in the metatarsal shafts. The 20% load generally yielded lower stress than both 10% and 30% conditions. Overall, the 30% load increased local bone stress, whereas the 10% load caused smaller changes. In this sample, the 20% load provided a meaningful training stimulus while maintaining relatively stable bone stress, suggesting it may offer a better balance between training demand and bone loading.",
-   "doi": "10.1080/10255842.2026.2691258",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42384475/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42404364",
    "title": "Effects of Dynamic Taping on Dynamic Balance and Proprioception in Recreational Athletes with Chronic Ankle Instability.",
    "journal": "Int J Sports Phys Ther",
@@ -1036,32 +948,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42382458",
-   "title": "Feasibility of combining a sensorimotor foot orthosis with a prefabricated carbon-fiber ankle-foot orthosis: A pilot study.",
-   "journal": "Can Prosthet Orthot J",
-   "year": "2026",
-   "authors": [
-    "Aljohani Y",
-    "Alamri A",
-    "Fiedler G"
-   ],
-   "abstract": "Stroke, traumatic brain injury, cerebral palsy, and other neuromuscular impairments can result in foot drop, which reduces toe clearance, increases fall risk, and limits mobility. Ankle-foot orthoses (AFOs) are frequently prescribed to address foot drop. Sensorimotor foot orthoses (SMFOs) represent an alternative approach intended to influence muscle activation through sensory stimulation; however, evidence supporting their combined use with AFOs remains limited. To evaluate the feasibility of a subsequent Randomized Controlled Trial (RCT) comparing a prefabricated carbon-fiber AFO worn with and without an SMFO in individuals with neuromuscular or musculoskeletal conditions. A six-month randomized crossover pilot trial was conducted from February to July 2025 at the Department of Rehabilitation Science and Technology, University of Pittsburgh. Three participants with neuromuscular or musculoskeletal conditions were enrolled. The two conditions compared were a prefabricated carbon-fiber AFO (F5 AFO, Thrive Orthopedics, USA) worn alone and the same AFO worn in combination with a custom-made SMFO designed to activate muscles through exteroceptor and proprioceptor stimulation (Springer Aktiv, Germany). The primary outcome was average daily step count measured by a wearable pedometer. Secondary outcomes included gait performance using the Two-Minute Walk Test (2MWT), dynamic balance using the Narrowing Beam Walking Test (NBWT), mobility using the Rivermead Mobility Index (RMI), and device experience assessed via an Ecological Momentary Assessment (EMA) survey. Three subjects enrolled; one withdrew due to difficulty finding footwear that accommodated the SMFO when worn in combination with the AFO. Two participants completed the study (mean age = 65 years), responded to approximately 77% of EMA prompts, and reported no adverse events. Step count was higher in the SMFO+AFO condition for one participant (1,952 vs. 116 steps) and comparable between conditions for the other (884 vs. 933 steps). Differences on the NBWT and RMI were minimal across conditions; RMI scores were at ceiling for both participants. On the 2MWT, Participant 1 walked 470 m with the AFO alone and 404 m with the combined condition, while Participant 2 walked 303 m and 294 m, respectively. EMA ratings for comfort, function, and satisfaction were higher, and inhibiting effects and wear time were lower with the combined condition throughout the study period. The protocol was feasible, safe, and acceptable to participants, with no adverse events and minimal participation burden. These findings support the design of a larger RCT to confirm these preliminary observations.",
-   "doi": "10.33137/cpoj.v9i1.47162",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42382458/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42515838",
@@ -1265,40 +1151,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42384316",
-   "title": "Immediate and Mid-Long-Term Effects of Foot Orthoses on Gait Biomechanics and Clinical Characteristics in Medial Knee Osteoarthritis: A Systematic Review and Meta-analysis.",
-   "journal": "Ann Biomed Eng",
-   "year": "2026",
-   "authors": [
-    "Jiang Z",
-    "Gr\u00f6bli M",
-    "Nasab SHH",
-    "Taylor WR",
-    "et al."
-   ],
-   "abstract": "To systematically review and meta-analyze the literature evaluating the biomechanical and clinical efficacies of foot orthoses for medial tibiofemoral osteoarthritis (TF-OA). Through using the PubMed and Scopus databases, the scientific manuscripts were identified, screened, and classified. Quality of the included articles was evaluated. Where possible, meta-analyses were performed on the peak knee adduction moment (KAM), knee adduction angular impulse (KAAI), pain, function scores, and gait speed. Effect sizes were calculated as standardized mean differences with 95% confidence intervals. Pooled standard mean differences (SMDs) were calculated using a fixed-effects model; when substantial heterogeneity was detected (I2\u2009\u2265\u200950%), a random-effects model was applied. Ninety-two original research articles were included, and categorized into Lateral Wedge Insoles (LWI), Variable Stiffness Shoes (VSS), Hybrid (LWI\u2009+\u2009VSS), AposTherapy, Ankle-Foot Orthoses (AFOs), and Others groups. Only LWIs with moderate inclinations (5-10\u00b0) showed significant small-to-moderate reductions in the 1st peak KAM during both immediate responses and mid-long-term follow-ups, significant moderate-to-large mid-long-term improvements in knee pain, function, and gait speed. LWIs with low inclinations (\u2264 5\u00b0) showed significant small immediate reductions in the 2nd peak KAM and KAAI and significant small mid-long-term improvements in knee pain and function. AFOs and AposTherapy shoes demonstrated significant large clinical benefits after mid-long-term interventions. VSSs exhibited immediate biomechanical efficacy in reducing the 1st peak KAM. LWIs with moderate inclinations may be most effective for medial TF-OA. More studies are needed to clarify the effects of AposTherapy shoes, AFOs, and VSSs. Adaptation training with newly prescribed orthoses may enhance biomechanical and clinical outcomes. CRD420251240304.",
-   "doi": "10.1007/s10439-026-04224-4",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42384316/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42524670",
    "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
    "journal": "Rev Bras Ortop (Sao Paulo)",
@@ -1346,67 +1198,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42384888",
-   "title": "Injury surveillance during the 2024 under 20s Men's European Field Lacrosse Championships.",
-   "journal": "Phys Sportsmed",
-   "year": "2026",
-   "authors": [
-    "Collier MW",
-    "Ripley NJ",
-    "McBride L",
-    "O'Neill S",
-    "et al."
-   ],
-   "abstract": "To investigate the epidemiological characteristics of injuries sustained at the under 20s (U20) Men's European Lacrosse Championships. Injury surveillance data was prospectively collected during the 2024 U20 European Lacrosse Championships (Wroc\u0142aw, Poland). A standardized electronic reporting system based on the 2020 IOC consensus statement was used. Injury incidence was reported per 1000 match-player-hours (match-p-h). A total of 55 match-related injuries were reported with an injury incidence rate of 88.7 injuries per 1000 match-p-h (66.8-115.5\u2009CI). The majority of injuries were non-time-loss (82%, 72.6 per 1000 match-p-h, 52.9-97.1\u2009CI), 15% resulted in time-loss (>24\u2009hours lost due to injury, 12.9 per 1000 match-p-h, 5.6-25.4\u2009CI), and 4% reported as unknown (3.2 per 1000 match-p-h, 0.4-11.7\u2009CI). Most injuries had a time-loss lasting between 0-1 day (73%; 64.5 per 1000 match-p-h, 46.1-87.9\u2009CI). The onset of injury was predominantly as a result of sudden-acute trauma (73%; 64.5 per 1000 match-p-h, 46.1-87.9\u2009CI), with contact mechanisms accounting for 67% (59.7 per 1000 match-p-h, 42.0-82.3\u2009CI). The most frequent injuries reported were anterior thigh muscle contusion (9%; 8.1 per 1000 match-p-h, 2.6-18.8\u2009CI), calf muscle injury (9%; 8.1 per 1000 match-p-h, 2.6-18.8\u2009CI), ankle sprain (7%, 6.5 per 1000 match-p-h, 1.8-16.5\u2009CI), and knee contusion (7%, 6.5 per 1000 match-p-h, 1.8-16.5\u2009CI). The injury incidence during the 2024 U20 Men's European Lacrosse Championships was high compared to similar youth field sports, though most injuries did not result in time-loss. The findings should be used to inform preparations for future age-group international lacrosse tournaments.",
-   "doi": "10.1080/00913847.2026.2698415",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42384888/",
-   "matched": [
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42380576",
-   "title": "Interactive effects of age and lower-limb muscle strength asymmetry on spatiotemporal gait parameters.",
-   "journal": "Sci Rep",
-   "year": "2026",
-   "authors": [
-    "Hyeon G",
-    "Kim C",
-    "Chung CM",
-    "Kim K",
-    "et al."
-   ],
-   "abstract": "Ageing is associated with gait deterioration, yet the influence of lower-limb muscle asymmetry on age-related gait changes remains unclear. This cross-sectional study investigated the interaction effects of age and lower-limb muscle strength asymmetry on spatiotemporal gait parameters in 345 community-dwelling adults aged 19-85 years. Lower-limb muscle strength was assessed using a hand-held dynamometer, and gait parameters were measured using an inertial measurement unit. Spearman correlation and multiple regression analyses examined associations between strength asymmetry and gait metrics, with interaction terms testing age-dependent effects. Age was associated with reduced stride length and some variability measures. Muscle asymmetry effects varied by joint: knee asymmetry correlated with spatial measures (stride length), while ankle asymmetry linked to temporal measures (stance, swing, and double support phases). Notably, knee extension asymmetry was associated with shorter stride length only in elderly participants, and ankle plantarflexion asymmetry was linked to poorer temporal symmetry exclusively in older adults, with no effects observed in younger groups. These findings suggest that lower-limb strength asymmetry, combined with ageing, is selectively associated with greater gait deterioration. Assessment of bilateral strength balance, beyond absolute strength levels, may be relevant to understanding gait stability in older adults and may inform targeted intervention strategies for fall prevention.",
-   "doi": "10.1038/s41598-026-59184-5",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42380576/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1883,30 +1674,28 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42382450",
-   "title": "Predictive accuracy of machine learning and markerless gait analysis for return-to-sport following lower extremity injury: a systematic review and meta-analysis.",
-   "journal": "Front Sports Act Living",
+   "pmid": "42531926",
+   "title": "Predicting ACL injury risk in athletes: A systematic review of machine learning-based models.",
+   "journal": "Knee",
    "year": "2026",
    "authors": [
-    "Satija R",
-    "Dkhar D"
+    "Bing\u00f6l \u015e",
+    "Hosseini E",
+    "\u015eahin B\u00d6",
+    "Tan \u00c7",
+    "et al."
    ],
-   "abstract": "Anterior cruciate ligament and lower extremity injuries impose a substantial burden in sports medicine, yet conventional assessments fail to capture the dynamic nature of injury risk and recovery. Machine learning and markerless gait analysis offer potential improvements in predicting return-to-sport readiness and re-injury risk, but their clinical reliability remains uncertain. This review evaluates the predictive accuracy and clinical applicability of these approaches. A comprehensive search of PubMed, Embase, Scopus, IEEE Xplore, and CINAHL was conducted up to March 2026. Studies involving adults with lower extremity injuries using machine learning or markerless systems and reporting predictive metrics were included. Pooled accuracy estimates were calculated using a fixed-effect model with logit transformation. Heterogeneity was assessed using the I\u00b2 statistic. Eleven studies met inclusion criteria for quantitative synthesis. For return-to-sport readiness (six wearable sensor studies), pooled accuracy was 0.92 (95% CI: 0.89-0.95; I\u00b2\u2009=\u200952.2%). Sensitivity ranged from 0.79 to 0.99, and specificity from 0.75 to 0.99. For re-injury risk (two wearable sensor studies), pooled accuracy was 0.90 (95% CI: 0.84-0.95; I\u00b2\u2009=\u20090.0%). Markerless motion analysis demonstrated sensitivity of 0.82 and specificity of 0.77 for injury risk screening. Deep learning and ensemble models outperformed traditional approaches. Wearable sensor-based machine learning models achieve high predictive accuracy for return-to-sport and re-injury risk. However, methodological heterogeneity, reliance on internal validation, and absence of external validation limit generalisability. Standardised reporting and rigorous external validation are urgently needed before clinical implementation. https://www.crd.york.ac.uk/PROSPERO/view/CRD420261352158, identifier CRD420261352158.",
-   "doi": "10.3389/fspor.2026.1862870",
+   "abstract": "Early ACL injury risk identification in athletes is essential. This systematic review examines machine learning (ML) models for predicting ACL injuries, evaluating their methodological quality, performance, and reliability. A comprehensive electronic search was conducted across PubMed, Scopus, Web of Science, and IEEE Xplore databases, supplemented by Google Scholar for grey literature, covering articles published between January 1, 2015, and August 30, 2025. Eligible studies were appraised using the Prediction Model Study Risk of Bias Assessment Tool (PROBAST) for methodological quality and risk of bias, and the Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD) guidelines for quality of evidence. Ten studies were included. PROBAST showed eight studies had moderate risk of bias and two low risk. TRIPOD found only two studies met quality criteria. ML models included logistic regression (n\u00a0=\u00a05), support vector machines (n\u00a0=\u00a04), k-nearest neighbor (n\u00a0=\u00a03), decision trees (n\u00a0=\u00a03), random forests (n\u00a0=\u00a05), neural networks (n\u00a0=\u00a02), linear discriminant analysis (n\u00a0=\u00a01), and pre-trained CNNs (n\u00a0=\u00a01). AUC ranged from 0.63 to 0.98. Accuracy (reported in six studies) ranged from 26% to 95%; however, these values should be interpreted with caution due to the absence of confidence intervals, lack of class imbalance handling, and limited external validation across studies. Tree-based ensemble methods such as random forest achieved competitive accuracy (74-86%), while SVM, a non-ensemble classifier, reported accuracy ranging from 71% to 95%; however, the highest values were obtained in studies with notably small sample sizes (n\u00a0=\u00a012 to n\u00a0=\u00a039), raising concerns about overfitting and generalizability. Current ML algorithms show promise for identifying athletes at high ACL injury risk and detecting relevant risk factors. Although study quality was generally satisfactory, future research should prioritize external validation and model interpretability to support clinical translation.",
+   "doi": "10.1016/j.knee.2026.104581",
    "pubtypes": [
     "Journal Article",
-    "Systematic Review"
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42382450/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42531926/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -2324,6 +2113,35 @@
    "bucket": "research"
   },
   {
+   "pmid": "42531369",
+   "title": "Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.",
+   "journal": "JBJS Case Connect",
+   "year": "2026",
+   "authors": [
+    "Wharton BR",
+    "McCarty EC",
+    "Metzl JA",
+    "Albright JC",
+    "et al."
+   ],
+   "abstract": "We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.",
+   "doi": "10.2106/JBJS.CC.25.00483",
+   "pubtypes": [
+    "Journal Article",
+    "Case Reports"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42391061",
    "title": "Systematic Evaluation of Hip Exoskeleton Assistance Parameters for Enhancing Gait Stability During Ground Slip Perturbations.",
    "journal": "IEEE Trans Biomed Eng",
@@ -2477,34 +2295,6 @@
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42383862",
-   "title": "The Role of Y Balance Test Execution Time in Detecting Chronic Ankle Instability.",
-   "journal": "J Strength Cond Res",
-   "year": "2026",
-   "authors": [
-    "De Maio M",
-    "Festino E",
-    "Di Rocco F",
-    "Cortis C",
-    "et al."
-   ],
-   "abstract": "De Maio, M, Festino, E, Di Rocco, F, Cortis, C, Fuchs, PX, Fusco, A, and Papale, O. The role of Y Balance Test execution time in detecting chronic ankle instability. J Strength Cond Res XX(X): 000-000, 2026-Chronic ankle instability (CAI) affects postural balance, and identifying clinical parameters to assess CAI-related impairments remains challenging. This study assessed whether normalized anterior reach distance and normalized execution time during the Y Balance Test can discriminate between the CAI and healthy leg. Fifteen individuals with CAI performed three anterior Y Balance Test trials on CAI and healthy leg. Normalized anterior reach distance (%) and normalized execution time (s\u00b7%-1) were recorded. Repeated measures analysis of variance, logistic regression, and receiver operating characteristic curve analyses were conducted. Significance was set at p < 0.05. The CAI leg showed a lower (p < 0.001) normalized anterior reach distance (83.00 \u00b1 7.85%) than the healthy leg (88.40 \u00b1 7.06%) and a higher (p = 0.039) normalized execution time (CAI = 0.140 \u00b1 0.03 s\u00b7%-1) than the healthy leg (0.128 \u00b1 0.02 s\u00b7%-1). Logistic regression identified normalized anterior reach distance as a predictor of CAI (odds ratio = 1.13; p = 0.048), whereas normalized execution time did not reach statistical significance. Receiver operating characteristic analysis indicated a fair discriminatory capacity of normalized anterior reach distance (area under the curve = 0.716; cutoff = 84.11%) and normalized execution time (area under the curve = 0.676; cutoff = 0.132 s\u00b7%-1). Although normalized execution time was not a significant predictor of CAI, a high execution time in the CAI leg may reflect altered neuromuscular control and movement strategies. Therefore, combining reach distance with execution time may provide complementary information for assessing dynamic balance in individuals with CAI.",
-   "doi": "10.1519/JSC.0000000000005496",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42383862/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
