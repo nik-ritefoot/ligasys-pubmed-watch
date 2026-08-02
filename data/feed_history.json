@@ -1,5 +1,109 @@
 [
  {
+  "pmid": "42542908",
+  "title": "Comparative efficacy of conventional rehabilitation, balance acupuncture combined with conventional rehabilitation and additional unconscious proprioception training for chronic ankle instability: A randomized-controlled clinical study.",
+  "journal": "Jt Dis Relat Surg",
+  "year": "2026",
+  "authors": [
+   "Liu N",
+   "Wang M",
+   "Meng Q",
+   "Wang M",
+   "et al."
+  ],
+  "abstract": "This study aims to compare the efficacy of conventional rehabilitation alone, conventional rehabilitation combined with balance acupuncture (BA) and conventional rehabilitation plus BA and unconscious proprioception training in chronic ankle instability (CAI) patients. This single-center, parallel-group, assessor-blinded randomized-controlled trial included a total of 120 CAI patients between October 2022 and October 2024. The patients were randomly assigned to control (n = 40), BA (n = 40), and combination therapy (CT, (n = 40) groups. All groups received six weeks of intervention (6 days/week): the control group received conventional rehabilitation, the BA group received conventional rehabilitation + BA and the CT group received conventional rehabilitation + BA + unconscious proprioception training. Unconscious proprioception training was defined as dual-task training using the MOTOmed system with cognitive distraction to shift focus away from conscious movement control. Assessments were conducted before and after treatment using a three-dimensional gait analysis system, a balance function testing and training system, and the Star Excursion Balance Test (SEBT). There was no statistically significant difference in age and sex among the groups (p > 0.05). In addition, disease duration and number of previous sprains were comparable among the groups (p > 0.05). Following the six-week intervention, all three groups showed significant improvements in gait parameters, balance function and SEBT scores compared to baseline (p < 0.05). The CT group exhibited significantly greater improvements in gait speed, cadence, movement length, movement ellipse area and SEBT scores than the BA group (p < 0.05), whereas the BA group outperformed the control group in all outcome measures (p < 0.05). No adverse reactions were reported in any group. The integration of BA and unconscious proprioception training may offer additional benefits for improving gait and balance in CAI patients compared to conventional rehabilitation plus BA or conventional rehabilitation alone. Based on these preliminary findings, the combined approach shows potential clinical value for targeted populations with CAI.",
+  "doi": "10.52312/jdrs.2026.2311",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42542908/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-02T14:49:06Z"
+ },
+ {
+  "pmid": "42540021",
+  "title": "Design and preliminary bench-level validation of a low-cost 3D-printed hip-knee exoskeleton for lower-limb rehabilitation training.",
+  "journal": "J Rehabil Assist Technol Eng",
+  "year": "2026",
+  "authors": [
+   "Rabbi MF",
+   "Nahiyan HA",
+   "Karmaker S",
+   "Anik FI"
+  ],
+  "abstract": "Lower-limb impairment caused by neurological injury, musculoskeletal disorders, or reduced mobility often requires repetitive rehabilitation exercises, but continuous therapist-assisted therapy may be difficult to access in low-resource settings. In this study, we developed and preliminarily evaluated a low-cost, lightweight, portable hip-knee exoskeleton prototype capable of generating controlled hip and knee joint motion for rehabilitation-oriented range-of-motion training. The prototype was constructed mainly of 3D-printed polylactic acid parts and powered by a pair of high-torque servo motors in the hip and knee joints. A Bluetooth-connected Android app was programmed to offer two modes: rehabilitation mode for independent joint control and a gait-inspired sinusoidal mode that generates coordinated hip and knee joint trajectories. The cost of the materials used to construct the prototype is estimated to be USD 155 with a weight of about 2.1 kg. Joint motion performance was assessed through time-angle measurements at three predefined speed settings. The hip joint (approximately 60\u00b0 movement) was achieved in 2.2, 1.6, and 1.1 s and the knee joint (approximately 140\u00b0 movement) was achieved in 3.0, 2.0, and 0.6 s for slow, medium and fast modes, respectively. The trial-to-trial variation in commanded servo position remained below \u00b11\u00b0 under the tested conditions. The results demonstrate the feasibility of generating repeatable commanded hip and knee joint motion under controlled laboratory conditions. However, further investigations involving quantitative load-bearing evaluation, safety assessment, user studies, and clinical trials are required before the system can be considered for practical rehabilitation applications.",
+  "doi": "10.1177/20556683261474539",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42540021/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-02T14:49:06Z"
+ },
+ {
+  "pmid": "42539434",
+  "title": "Effects of a cognitive-motor dual task on neuromuscular and biomechanical control during single-leg drop landing in individuals with chronic ankle instability.",
+  "journal": "Front Public Health",
+  "year": "2026",
+  "authors": [
+   "He Y",
+   "Wang Z",
+   "Sun W",
+   "Cui H",
+   "et al."
+  ],
+  "abstract": "To compare lower-extremity neuromuscular and biomechanical characteristics during single-leg drop landing under single-task and cognitive-motor dual-task conditions in individuals with chronic ankle instability (CAI). Twenty-three male participants with unilateral CAI completed single-leg drop landings from a 30-cm platform under single-task and auditory 2-back dual-task conditions in randomized order using a within-participant repeated-measures design. Whole-body three-dimensional kinematics, ground reaction force (GRF), and surface electromyographic (sEMG) signals from eight muscles of the affected limb were recorded synchronously. Outcomes included GRF and dynamic-stability measures, hip, knee, and ankle joint angles and internal moments, muscle activation, and co-contraction indices (CCIs). Depending on the distribution of paired differences, two-sided paired-samples t-tests or Wilcoxon signed-rank tests were used. Effect sizes were reported as Cohen's dz or rank-biserial correlations (rrb), respectively. Compared with the single-task condition, the dual-task condition produced a higher peak vertical GRF (vGRF; p = 0.004, dz = 0.66) and smaller hip flexion angles at peak vGRF (p = 0.033, rrb = -0.507) and maximum knee flexion (p = 0.012, rrb = -0.587). At maximum knee flexion, the internal hip extension moment was lower (p < 0.001, dz = -0.80), whereas the internal ankle plantarflexion moment was higher (p = 0.028, dz = 0.49). The dual-task condition was also associated with lower lateral gastrocnemius root-mean-square activation (p = 0.002, dz = -0.75), higher peak tibialis anterior activation (p = 0.015, dz = 0.55), higher peak vastus lateralis activation (p = 0.001, dz = 0.77), and a lower peroneus longus-medial gastrocnemius CCI (p = 0.030, dz = -0.48). No significant between-condition differences were observed in average vertical loading rate, time to stabilization, time to peak vGRF, hip flexion at initial contact, the measured knee and ankle joint angles, or frontal-plane joint angles. In individuals with CAI, a concurrent working-memory task was associated with higher peak impact, reduced hip flexion at selected post-contact events, and selective changes in net internal joint moments and lower-extremity sEMG measures. These findings indicate that dual-task effects on landing control are outcome- and event-specific rather than uniform across biomechanical and neuromuscular domains.",
+  "doi": "10.3389/fpubh.2026.1912171",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42539434/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-02T14:49:06Z"
+ },
+ {
+  "pmid": "42541993",
+  "title": "Rapid atlas-based predictions of regional brain strain simulations from wearable head kinematics using diffusion MRI-informed machine learning.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Mathew J",
+   "Saludar CJA",
+   "Yeung T",
+   "Holdsworth S",
+   "et al."
+  ],
+  "abstract": "Sports-related traumatic brain injury (TBI) remains significantly underdiagnosed, with up to 50% of mild TBI cases in sport going undetected. While finite element (FE) simulations can predict brain deformation from head impacts, their computational cost limits clinical applicability for on-field assessments. This study shows a proof-of-principle in using a personalised machine learning framework capable of rapidly predicting regional brain strain simulations over time from wearable sensor kinematics, requiring as few as 150 head acceleration events (HAE) per athlete for training. Subject-specific anisotropic, viscoelastic FE brain models were constructed from T1-weighted and diffusion MRI for ten high school rugby players. Head kinematics were recorded via instrumented mouthguards and used to simulate the FE brain models. The resulting brain strains were parcellated to two commonly used atlases, including the Desikan-Killiany (supplemented with additional structures for whole-brain coverage, totalling 98 regions) and Automated Anatomical Labelling (116 regions) atlases, with the approach readily adaptable to other atlas schemes. Subject-specific multi-output Random Forest regression models were trained on 150 HAEs for every athlete using 70 time-series-extracted kinematic features (using the tsfresh python package) to predict time-dependent parcellated strain profiles. The ML models achieved an R2 from 75% to 87% and an average RMSE from 0.02 to 0.04 between target and predicted regional strains, with low inter-athlete variability. This framework captures the location, magnitude, and temporal behaviour of regional brain strain simulations, enabling rapid estimation directly from wearable devices and potentially enabling personalised, real-time concussion monitoring in sport.",
+  "doi": "10.1016/j.jbiomech.2026.113497",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42541993/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-02T14:49:06Z"
+ },
+ {
   "pmid": "42537386",
   "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
   "journal": "J Biomech",

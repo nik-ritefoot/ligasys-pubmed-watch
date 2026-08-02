@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-01T14:46:44+00:00",
+ "generated": "2026-08-02T14:49:06+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,32 +66,67 @@
  ],
  "counts": {
   "total": 82,
-  "new": 2,
-  "research": 27,
-  "fieldnotes": 55
+  "new": 4,
+  "research": 29,
+  "fieldnotes": 53
  },
  "records": [
   {
-   "pmid": "42537386",
-   "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
-   "journal": "J Biomech",
+   "pmid": "42542908",
+   "title": "Comparative efficacy of conventional rehabilitation, balance acupuncture combined with conventional rehabilitation and additional unconscious proprioception training for chronic ankle instability: A randomized-controlled clinical study.",
+   "journal": "Jt Dis Relat Surg",
    "year": "2026",
    "authors": [
-    "Williams JM",
-    "Luo J",
-    "Wylde MJ",
-    "Callaway AJ"
+    "Liu N",
+    "Wang M",
+    "Meng Q",
+    "Wang M",
+    "et al."
    ],
-   "abstract": "Mechanical loading can be beneficial or consequential, and it is typically measured through accelerometry in the time-domain. This prevents frequency-specific characteristics underpinning musculoskeletal adaptation and injury risk, from being identified. This study aimed to (1) characterise the frequency-domain loading profile (loading rate, band power and transmissibility) of high-performance youth badminton players across four frequency bands, and (2) determine whether limb symmetry within these bands differs between players with and without a history of injury. Accelerometer data from 90\u00a0min of simulated matchplay were collected from 30 players (13 female, 17 male) wearing inertial measurement units on the trunk and bilateral shanks. Data were transformed into four bands using the Fast Fourier Transform (FFT; B1: 0\u00a0\u2264\u00a0f\u00a0<\u00a02\u00a0Hz, B2: 2\u00a0\u2264\u00a0f\u00a0<\u00a05\u00a0Hz, B3: 5\u00a0\u2264\u00a0f\u00a0<\u00a010\u00a0Hz, B4: 10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). Loading rate, band power and band RMS were greater at the shanks than the trunk, with the dominant shank demonstrating greater loading and attenuation than the non-dominant shank across all bands. Descriptive patterns suggested that players with bilateral injury history demonstrated the largest asymmetry for loading rate and band power (-11.6 to -28.7%), favouring the dominant limb, while players with unilateral injury history showed a 0.6-10.4% limb symmetry index favouring the non-injured limb and reduced attenuation on the injured limb, most prominently in B4 (10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). These findings should be interpreted cautiously given the small subgroup sizes and absence of statistical significance and are considered exploratory. Such methods offer novel insights into sport-specific loading demands, injury risk and rehabilitation.",
-   "doi": "10.1016/j.jbiomech.2026.113485",
+   "abstract": "This study aims to compare the efficacy of conventional rehabilitation alone, conventional rehabilitation combined with balance acupuncture (BA) and conventional rehabilitation plus BA and unconscious proprioception training in chronic ankle instability (CAI) patients. This single-center, parallel-group, assessor-blinded randomized-controlled trial included a total of 120 CAI patients between October 2022 and October 2024. The patients were randomly assigned to control (n = 40), BA (n = 40), and combination therapy (CT, (n = 40) groups. All groups received six weeks of intervention (6 days/week): the control group received conventional rehabilitation, the BA group received conventional rehabilitation + BA and the CT group received conventional rehabilitation + BA + unconscious proprioception training. Unconscious proprioception training was defined as dual-task training using the MOTOmed system with cognitive distraction to shift focus away from conscious movement control. Assessments were conducted before and after treatment using a three-dimensional gait analysis system, a balance function testing and training system, and the Star Excursion Balance Test (SEBT). There was no statistically significant difference in age and sex among the groups (p > 0.05). In addition, disease duration and number of previous sprains were comparable among the groups (p > 0.05). Following the six-week intervention, all three groups showed significant improvements in gait parameters, balance function and SEBT scores compared to baseline (p < 0.05). The CT group exhibited significantly greater improvements in gait speed, cadence, movement length, movement ellipse area and SEBT scores than the BA group (p < 0.05), whereas the BA group outperformed the control group in all outcome measures (p < 0.05). No adverse reactions were reported in any group. The integration of BA and unconscious proprioception training may offer additional benefits for improving gait and balance in CAI patients compared to conventional rehabilitation plus BA or conventional rehabilitation alone. Based on these preliminary findings, the combined approach shows potential clinical value for targeted populations with CAI.",
+   "doi": "10.52312/jdrs.2026.2311",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Comparative Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42542908/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42540021",
+   "title": "Design and preliminary bench-level validation of a low-cost 3D-printed hip-knee exoskeleton for lower-limb rehabilitation training.",
+   "journal": "J Rehabil Assist Technol Eng",
+   "year": "2026",
+   "authors": [
+    "Rabbi MF",
+    "Nahiyan HA",
+    "Karmaker S",
+    "Anik FI"
+   ],
+   "abstract": "Lower-limb impairment caused by neurological injury, musculoskeletal disorders, or reduced mobility often requires repetitive rehabilitation exercises, but continuous therapist-assisted therapy may be difficult to access in low-resource settings. In this study, we developed and preliminarily evaluated a low-cost, lightweight, portable hip-knee exoskeleton prototype capable of generating controlled hip and knee joint motion for rehabilitation-oriented range-of-motion training. The prototype was constructed mainly of 3D-printed polylactic acid parts and powered by a pair of high-torque servo motors in the hip and knee joints. A Bluetooth-connected Android app was programmed to offer two modes: rehabilitation mode for independent joint control and a gait-inspired sinusoidal mode that generates coordinated hip and knee joint trajectories. The cost of the materials used to construct the prototype is estimated to be USD 155 with a weight of about 2.1 kg. Joint motion performance was assessed through time-angle measurements at three predefined speed settings. The hip joint (approximately 60\u00b0 movement) was achieved in 2.2, 1.6, and 1.1 s and the knee joint (approximately 140\u00b0 movement) was achieved in 3.0, 2.0, and 0.6 s for slow, medium and fast modes, respectively. The trial-to-trial variation in commanded servo position remained below \u00b11\u00b0 under the tested conditions. The results demonstrate the feasibility of generating repeatable commanded hip and knee joint motion under controlled laboratory conditions. However, further investigations involving quantitative load-bearing evaluation, safety assessment, user studies, and clinical trials are required before the system can be considered for practical rehabilitation applications.",
+   "doi": "10.1177/20556683261474539",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42537386/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42540021/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -99,26 +134,55 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42534807",
-   "title": "Editorial: Brain function alterations in populations with musculoskeletal disorders: now let's talk about it.",
-   "journal": "Front Sports Act Living",
+   "pmid": "42539434",
+   "title": "Effects of a cognitive-motor dual task on neuromuscular and biomechanical control during single-leg drop landing in individuals with chronic ankle instability.",
+   "journal": "Front Public Health",
    "year": "2026",
    "authors": [
-    "Xue X",
-    "Burcal CJ",
-    "Tassignon B",
-    "Needle AR"
+    "He Y",
+    "Wang Z",
+    "Sun W",
+    "Cui H",
+    "et al."
    ],
-   "abstract": "",
-   "doi": "10.3389/fspor.2026.1913466",
+   "abstract": "To compare lower-extremity neuromuscular and biomechanical characteristics during single-leg drop landing under single-task and cognitive-motor dual-task conditions in individuals with chronic ankle instability (CAI). Twenty-three male participants with unilateral CAI completed single-leg drop landings from a 30-cm platform under single-task and auditory 2-back dual-task conditions in randomized order using a within-participant repeated-measures design. Whole-body three-dimensional kinematics, ground reaction force (GRF), and surface electromyographic (sEMG) signals from eight muscles of the affected limb were recorded synchronously. Outcomes included GRF and dynamic-stability measures, hip, knee, and ankle joint angles and internal moments, muscle activation, and co-contraction indices (CCIs). Depending on the distribution of paired differences, two-sided paired-samples t-tests or Wilcoxon signed-rank tests were used. Effect sizes were reported as Cohen's dz or rank-biserial correlations (rrb), respectively. Compared with the single-task condition, the dual-task condition produced a higher peak vertical GRF (vGRF; p = 0.004, dz = 0.66) and smaller hip flexion angles at peak vGRF (p = 0.033, rrb = -0.507) and maximum knee flexion (p = 0.012, rrb = -0.587). At maximum knee flexion, the internal hip extension moment was lower (p < 0.001, dz = -0.80), whereas the internal ankle plantarflexion moment was higher (p = 0.028, dz = 0.49). The dual-task condition was also associated with lower lateral gastrocnemius root-mean-square activation (p = 0.002, dz = -0.75), higher peak tibialis anterior activation (p = 0.015, dz = 0.55), higher peak vastus lateralis activation (p = 0.001, dz = 0.77), and a lower peroneus longus-medial gastrocnemius CCI (p = 0.030, dz = -0.48). No significant between-condition differences were observed in average vertical loading rate, time to stabilization, time to peak vGRF, hip flexion at initial contact, the measured knee and ankle joint angles, or frontal-plane joint angles. In individuals with CAI, a concurrent working-memory task was associated with higher peak impact, reduced hip flexion at selected post-contact events, and selective changes in net internal joint moments and lower-extremity sEMG measures. These findings indicate that dual-task effects on landing control are outcome- and event-specific rather than uniform across biomechanical and neuromuscular domains.",
+   "doi": "10.3389/fpubh.2026.1912171",
    "pubtypes": [
-    "Editorial"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42534807/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42539434/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42541993",
+   "title": "Rapid atlas-based predictions of regional brain strain simulations from wearable head kinematics using diffusion MRI-informed machine learning.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Mathew J",
+    "Saludar CJA",
+    "Yeung T",
+    "Holdsworth S",
+    "et al."
+   ],
+   "abstract": "Sports-related traumatic brain injury (TBI) remains significantly underdiagnosed, with up to 50% of mild TBI cases in sport going undetected. While finite element (FE) simulations can predict brain deformation from head impacts, their computational cost limits clinical applicability for on-field assessments. This study shows a proof-of-principle in using a personalised machine learning framework capable of rapidly predicting regional brain strain simulations over time from wearable sensor kinematics, requiring as few as 150 head acceleration events (HAE) per athlete for training. Subject-specific anisotropic, viscoelastic FE brain models were constructed from T1-weighted and diffusion MRI for ten high school rugby players. Head kinematics were recorded via instrumented mouthguards and used to simulate the FE brain models. The resulting brain strains were parcellated to two commonly used atlases, including the Desikan-Killiany (supplemented with additional structures for whole-brain coverage, totalling 98 regions) and Automated Anatomical Labelling (116 regions) atlases, with the approach readily adaptable to other atlas schemes. Subject-specific multi-output Random Forest regression models were trained on 150 HAEs for every athlete using 70 time-series-extracted kinematic features (using the tsfresh python package) to predict time-dependent parcellated strain profiles. The ML models achieved an R2 from 75% to 87% and an average RMSE from 0.02 to 0.04 between target and predicted regional strains, with low inter-athlete variability. This framework captures the location, magnitude, and temporal behaviour of regional brain strain simulations, enabling rapid estimation directly from wearable devices and potentially enabling personalised, real-time concussion monitoring in sport.",
+   "doi": "10.1016/j.jbiomech.2026.113497",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42541993/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -296,35 +360,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42389367",
-   "title": "Arthroscopic vs. open Brostr\u00f6m-Gould procedure for chronic lateral ankle instability: a systematic review and meta-analysis.",
-   "journal": "Front Surg",
-   "year": "2026",
-   "authors": [
-    "Liu J",
-    "Wan J",
-    "Zhang W",
-    "Sun K",
-    "et al."
-   ],
-   "abstract": "Chronic lateral ankle instability (CLAI) is a common complication of ankle sprains, and the Brostr\u00f6m-Gould procedure is the preferred option. This study aimed to compare the short-term (with a mean follow-up period of 24 months) clinical efficacy and postoperative recovery rate between arthroscopic and open Brostr\u00f6m-Gould surgery in patients with CLAI. The present study followed the PRISMA 2020 guidelines. PubMed, Embase, Cochrane Library, Web of Science were searched to 31 December 2025.Meta-analyses were performed using Review Manager (version5.3) for the following outcomes: surgery time, AOFAS scores, K-P scores, VAS scores, Tegner activity scores, Anterior drawer, Talar tilt, Return to sports, Total complication rates, Bias risk evaluation was performed applying the Cochrane Collaboration's Risk of Bias 2 (RoB2) tool and the Newcastle-Ottawa Scale (NOS). 14 studies (875 patients) met criteria, with 421 allocated to open and 454 to arthroscopic groups.There were no statistically significant differences in surgical time [mean difference [MD]\u2009=\u2009-5.33; 95% confidence interval [CI], -13.68 to 3.01; p\u2009=\u20090.21], AOFAS scores (MD\u2009=\u20090.36; 95% CI, -0.23 to 0.96; p\u2009=\u20090.23), Tegner activity scores (MD\u2009=\u20090.13; 95% CI, -0.10 to 0.36; p\u2009=\u20090.27), anterior drawer test (MD\u2009=\u2009-0.10; 95% CI, -0.23 to 0.03; p\u2009=\u20090.14), talar tilt (MD\u2009=\u2009-0.00; 95% CI, -0.51 to 0.51; p\u2009=\u20090.99) and all complication rates [odds ratio (OR)\u2009=\u20090.88; 95%CI, 0.55 to 1.41; p\u2009=\u20090.59]. The arthroscopy group achieved significantly better results in terms of K-P scores (MD\u2009=\u20090.78; 95% CI, 0.02 to 1.54, p\u2009=\u20090.04), VAS scores (MD\u2009=\u2009-0.65; 95% CI, -1.17 to -0.12, p\u2009=\u20090.02), and time to return to sports (MD\u2009=\u2009-3.91; 95% CI, -7.52 to -0.30; p\u2009=\u20090.03). Both techniques show broadly comparable outcomes, with possible earlier return to sport or less pain after arthroscopy, although the certainty of this finding is limited. Level III, systematic review.This protocol has been registered in the PROSPERO database CRD420261298649.",
-   "doi": "10.3389/fsurg.2026.1859946",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42389367/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42516644",
    "title": "Assessment of the Effect of Improved Medial Linkage Reciprocating Orthosis Compared to Isocentric Orthosis on the Motor Function in Spinal Cord Injury Patients.",
    "journal": "Med J Islam Repub Iran",
@@ -462,6 +497,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42537386",
+   "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Williams JM",
+    "Luo J",
+    "Wylde MJ",
+    "Callaway AJ"
+   ],
+   "abstract": "Mechanical loading can be beneficial or consequential, and it is typically measured through accelerometry in the time-domain. This prevents frequency-specific characteristics underpinning musculoskeletal adaptation and injury risk, from being identified. This study aimed to (1) characterise the frequency-domain loading profile (loading rate, band power and transmissibility) of high-performance youth badminton players across four frequency bands, and (2) determine whether limb symmetry within these bands differs between players with and without a history of injury. Accelerometer data from 90\u00a0min of simulated matchplay were collected from 30 players (13 female, 17 male) wearing inertial measurement units on the trunk and bilateral shanks. Data were transformed into four bands using the Fast Fourier Transform (FFT; B1: 0\u00a0\u2264\u00a0f\u00a0<\u00a02\u00a0Hz, B2: 2\u00a0\u2264\u00a0f\u00a0<\u00a05\u00a0Hz, B3: 5\u00a0\u2264\u00a0f\u00a0<\u00a010\u00a0Hz, B4: 10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). Loading rate, band power and band RMS were greater at the shanks than the trunk, with the dominant shank demonstrating greater loading and attenuation than the non-dominant shank across all bands. Descriptive patterns suggested that players with bilateral injury history demonstrated the largest asymmetry for loading rate and band power (-11.6 to -28.7%), favouring the dominant limb, while players with unilateral injury history showed a 0.6-10.4% limb symmetry index favouring the non-injured limb and reduced attenuation on the injured limb, most prominently in B4 (10\u00a0\u2264\u00a0f\u00a0<\u00a020\u00a0Hz). These findings should be interpreted cautiously given the small subgroup sizes and absence of statistical significance and are considered exploratory. Such methods offer novel insights into sport-specific loading demands, injury risk and rehabilitation.",
+   "doi": "10.1016/j.jbiomech.2026.113485",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42537386/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42421229",
    "title": "Chronic Pain Severity Modifies Gait Biomechanics and Muscle Activation in Individuals with Chronic Ankle Instability.",
    "journal": "Med Sci Sports Exerc",
@@ -518,7 +580,7 @@
   },
   {
    "pmid": "42486293",
-   "title": "Comparative Effects of Platelet-Rich Plasma, Exercise Therapy, and Myofascial Superficial Back Line Manual Therapy on Balance, Posture, and Function in Chronic Ankle Instability: A Three Arm Randomized Controlled Trial.",
+   "title": "Comparative effects of platelet-rich plasma, exercise therapy, and myofascial superficial back line manual therapy on balance, posture,and function in chronic ankle instability: A three arm randomized controlled trial.",
    "journal": "J Foot Ankle Surg",
    "year": "2026",
    "authors": [
@@ -526,7 +588,7 @@
     "Cerbezer N",
     "Tu\u011f\u00e7e \u00c7il E"
    ],
-   "abstract": "Chronic ankle instability is a musculoskeletal disorder involving repeated ankle sprains, reduced joint position sense, and postural imbalance. Although exercise-based rehabilitation is essential, variations in program design and a focus on local stabilization limit overall effectiveness. This randomized controlled study compared platelet-rich plasma injection, platelet-rich plasma combined with a structured exercise program, and manual therapy focusing on the myofascial superficial back line in terms of pain, proprioception, posture, balance, and function. A Three-Arm Randomized Controlled Trial Methods: Forty-seven participants were randomly divided into three groups: platelet-rich plasma injection (three ultrasound-guided intra-articular applications at two-week intervals), platelet-rich plasma with exercise (the same injections plus an eight-week supervised exercise program), and manual therapy (an eight-week fascial-based intervention). All groups showed significant improvements after treatment (p<0.05). Platelet-rich plasma injection produced the greatest pain reduction (Visual Analog Scale \u0394=-6.94). The platelet-rich plasma with exercise and manual therapy groups showed superior improvements in posture and functional outcomes, including Foot and Ankle Ability Measure (\u0394=+20.58), Cumberland Ankle Instability Tool (\u0394=+9.94), and posture score (\u0394=-5.93). Dynamic balance improved significantly, particularly in the platelet-rich plasma with exercise group. While platelet-rich plasma provides strong analgesic benefits, its combination with exercise or fascial-based manual therapy yields broader gains in posture, proprioception, and function, supporting multimodal rehabilitation in chronic ankle instability. 2 or 3.",
+   "abstract": "Chronic ankle instability is a musculoskeletal disorder involving repeated ankle sprains, reduced joint position sense, and postural imbalance. Although exercise-based rehabilitation is essential, variations in program design and a focus on local stabilization limit overall effectiveness. This randomized controlled study compared platelet-rich plasma injection, platelet-rich plasma combined with a structured exercise program, and manual therapy focusing on the myofascial superficial back line in terms of pain, proprioception, posture, balance, and function. A Three-Arm Randomized Controlled Trial METHODS: Forty-seven participants were randomly divided into three groups: platelet-rich plasma injection (three ultrasound-guided intra-articular applications at two-week intervals), platelet-rich plasma with exercise (the same injections plus an eight-week supervised exercise program), and manual therapy (an eight-week fascial-based intervention). All groups showed significant improvements after treatment (p < 0.05). Platelet-rich plasma injection produced the greatest pain reduction (Visual Analog Scale \u0394=-6.94). The platelet-rich plasma with exercise and manual therapy groups showed superior improvements in posture and functional outcomes, including Foot and Ankle Ability Measure (\u0394=+20.58), Cumberland Ankle Instability Tool (\u0394=+9.94), and posture score (\u0394=-5.93). Dynamic balance improved significantly, particularly in the platelet-rich plasma with exercise group. While platelet-rich plasma provides strong analgesic benefits, its combination with exercise or fascial-based manual therapy yields broader gains in posture, proprioception, and function, supporting multimodal rehabilitation in chronic ankle instability.",
    "doi": "10.1053/j.jfas.2026.07.008",
    "pubtypes": [
     "Journal Article"
@@ -686,6 +748,33 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42534807",
+   "title": "Editorial: Brain function alterations in populations with musculoskeletal disorders: now let's talk about it.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Xue X",
+    "Burcal CJ",
+    "Tassignon B",
+    "Needle AR"
+   ],
+   "abstract": "",
+   "doi": "10.3389/fspor.2026.1913466",
+   "pubtypes": [
+    "Editorial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42534807/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42460268",
@@ -1564,34 +1653,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42388542",
-   "title": "Oral Contraceptive Use Associated With Lower Rates of Knee Instability After Anterior Cruciate Ligament (ACL) Reconstruction.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Mahatme RJ",
-    "Moore SA",
-    "Gangavaram A",
-    "Muthusamy N",
-    "et al."
-   ],
-   "abstract": "Background Sex hormones influence connective tissue biology and pain processing, but the relationship between oral contraceptive pill (OCP) use and postoperative outcomes after anterior cruciate ligament reconstruction (ACLR) remains unclear. The purpose of this study was to evaluate whether perioperative OCP use is associated with postoperative knee instability and other clinical outcomes after ACLR. Methods Using a multicenter database, TriNetX, females aged 14-40 years undergoing arthroscopic ACLR were grouped as OCP users (prescriptions within six months before and within two years after surgery) or non-users (no OCP prescriptions from one year before to two years after surgery). Propensity score matching (1:1) based on demographics and comorbidities yielded 815 patients per cohort. Primary outcomes were two-year reoperation, chronic knee instability diagnosis, and chronic knee pain diagnosis. Secondary outcomes included 30-day surgical site infection (SSI), 90-day deep or organ infection, six-month arthrofibrosis/manipulation under anesthesia (MUA), and postoperative opioid use (early, 1-30 days; prolonged, 30-90 days; chronic, 90-180 days). Risk ratios (RRs) with 95% confidence intervals (CIs) were calculated. Results OCP use was associated with significantly lower rates of two-year chronic knee instability (RR, 0.316; 95% CI, 0.166-0.600; p < 0.001) and early postoperative opioid use (RR, 0.363; 95% CI, 0.281-0.468; p < 0.001). Rates were similar between groups for six-month arthrofibrosis/MUA (RR, 0.750; 95% CI, 0.357-1.575; p = 0.446), two-year reoperation (RR, 1.057; 95% CI, 0.735-1.519; p = 0.766), two-year chronic knee pain (RR, 0.976; 95% CI, 0.877-1.086; p = 0.654), 30-day SSI (rare), and 90-day deep or organ infection (none; p = 1.000). Conclusion In a large propensity-matched cohort of female patients undergoing ACLR, perioperative OCP use was associated with markedly lower rates of two-year knee instability and reduced early opioid use, whereas other complications and reoperation rates did not differ, highlighting hormonal status as a potentially modifiable factor in postoperative recovery.",
-   "doi": "10.7759/cureus.110003",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42388542/",
-   "matched": [
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42439906",
    "title": "Patient-specific talar resurfacing improves pain and function at 24 months in osteochondral lesions of the talus.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -2131,59 +2192,6 @@
     "Case Reports"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42391061",
-   "title": "Systematic Evaluation of Hip Exoskeleton Assistance Parameters for Enhancing Gait Stability During Ground Slip Perturbations.",
-   "journal": "IEEE Trans Biomed Eng",
-   "year": "2026",
-   "authors": [
-    "Tagliaferri MT",
-    "Kang I"
-   ],
-   "abstract": "Falls are the leading cause of injuryrelated hospitalization and mortality among older adults. Consequently, mitigating age-related declines in gait stability and reducing fall risk during walking are critical goals for assistive devices. Lower-limb exoskeletons have the potential to support users in maintaining walking stability. However, most exoskeleton controllers are optimized to reduce the energetic cost of walking rather than to improve stability. Existing stability-focused controllers use a fixed, heuristic assistance profile, limiting understanding of how to optimize and personalize assistance strategies. To address this gap, we systematically modulated the magnitude and duration of torque provided by a bilateral hip exoskeleton during slip perturbations in eight healthy adults, quantifying stability using whole-body angular momentum (WBAM). WBAM responses were governed by a significant interaction between assistance magnitude and duration, with duration determining whether exoskeleton assistance was stabilizing or destabilizing relative to not wearing the exoskeleton device. Compared to an existing energy-optimized controller, experimentally identified stability-optimal parameters reduced WBAM range by 27.4% on average. Notably, substantial inter-subject variability was observed in the parameter combinations that minimized WBAM during perturbations. We found that optimizing exoskeleton assistance for energetic outcomes alone is insufficient for improving reactive stability during gait perturbations. Stability-focused exoskeleton control should prioritize temporal assistance parameters and include user-specific personalization. This study represents an important step toward personalized, stability-focused exoskeleton control, characterizing the effects of assistance on reactive stability in young adults and motivating future investigations in aging populations.",
-   "doi": "10.1109/TBME.2026.3709674",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42391061/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42388333",
-   "title": "The acute effectiveness of ankle taping in dancers with chronic ankle instability - a randomized crossover study.",
-   "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
-   "year": "2026",
-   "authors": [
-    "Lai JH",
-    "Tang TC",
-    "Lo LS",
-    "Chia CS",
-    "et al."
-   ],
-   "abstract": "Lateral ankle sprains and subsequent chronic ankle instability (CAI) are common among dancers, often presenting with impaired static and dynamic balance. Ankle taping is a conservative treatment option, but its effectiveness remains controversial. Dancers, who often exhibit greater generalized ligamentous laxity compared to other athletes, may respond differently to ankle taping, yet research specific to this population is limited. Hence, this study aimed to investigate the acute effects of taping on ankle stability and subjective functional outcomes in dancers with CAI, as well as to compare any outcome differences between CAI and non-CAI dancers. This was a randomized crossover study in which eligible dancers were recruited in local dance institutions on a voluntary basis. Dancers underwent 4 ankle functional tests (single-leg stance, Y balance, side hop, figure-of-8 test) with and without ankle taping, clinical screening for ankle instability and generalized ligamentous laxity, as well as a questionnaire on their subjective ankle functional outcome (i.e., Cumberland Ankle Instability Tool/CAIT) and their perception of ankle taping. The primary outcome measure was single-leg stance result parameters, while secondary outcome measures included results from the remaining three ankle functional tests and the CAIT score. CAI in this study was defined as dancers with at least one ankle sprain and CAIT \u226424, the recommended cutoff by the International Ankle Consortium (IAC). Control group was defined as dancers with no ankle sprain or CAIT >24. Eighty-nine eligible dancers from local dance institutions were recruited, with 85 (170 ankles) completing the study. 74.1% reported at least one ankle sprain, and 64.7% met the criteria for CAI. Ankle taping significantly improved static balance in dancers with non-structural instability (i.e., functional CAI or non-hypermobile dancers), but not for those with structural instability (i.e., mechanical CAI or hypermobile dancers). No significant improvements were observed in dynamic balance or other functional tests across all dancers. While this study showed evidence that ankle taping can improve static balance in CAI dancers with non-structural instability (e.g., functional CAI, non-hypermobile), the effectiveness of reducing reinjury risks in dancers with CAI remained uncertain. These findings provided some support for the use of ankle taping as an adjunct for dancers with CAI. There is a need to explore alternative conservative treatments tailored to this population.",
-   "doi": "10.1016/j.asmart.2026.05.013",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42388333/",
    "matched": [
     {
      "id": "return-to-play",
