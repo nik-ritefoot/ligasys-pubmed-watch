@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42548634",
+  "title": "Risk factors and postoperative complications following revision total knee arthroplasty in patients with metabolic syndrome-associated osteoarthritis: a 10-year retrospective analysis using a national inpatient database.",
+  "journal": "Front Endocrinol (Lausanne)",
+  "year": "2026",
+  "authors": [
+   "Yuan M",
+   "Xie H",
+   "He Y",
+   "Qin Y",
+   "et al."
+  ],
+  "abstract": "The aim of this study was to examine temporal trends in metabolic syndrome-associated osteoarthritis (MetS-OA) among patients undergoing revision total knee arthroplasty (RTKA) and to identify patient- and clinical-level factors associated with this condition and related outcomes. A retrospective cohort analysis was conducted using data from the Nationwide Inpatient Sample from 2010 through 2019. Patient demographics, hospital characteristics, length of stay, total hospitalization charges, in-hospital mortality, comorbid conditions, and perioperative complications were assessed. All analyses incorporated NIS discharge weights, and multivariable logistic regression models were used to assess associations between MetS-OA and clinical outcomes among patients undergoing RTKA. Among 1,361,454 RTKA hospitalizations identified, 1,330,099 RTKA hospitalizations were included in the analysis. The overall prevalence of MetS-OA was 16.1%, demonstrating a progressive increase from 2011 through 2019. Factors independently associated with MetS-OA included advanced age, male sex, non-White racial background, and the presence of comorbid conditions such as chronic pulmonary disease, depression, and hypothyroidism. Patients with MetS-OA experienced slightly longer hospital stays and incurred higher median total hospitalization charges, exceeding those without MetS-OA by $1,445.50. In-hospital mortality did not differ significantly between groups. MetS-OA was also associated with a higher likelihood of postoperative complications, including acute myocardial infarction, severe malnutrition, acute cerebrovascular disease, postoperative delirium, acute respiratory distress syndrome, prolonged mechanical ventilation, urinary tract infections, acute renal failure, and lower limb nerve injury. The prevalence of MetS-OA among patients undergoing RTKA has increased over time and is associated with a higher burden of postoperative complications and healthcare utilization. Patient- and hospital-level factors play a substantial role in shaping these outcomes. Targeted preoperative optimization and standardized perioperative management strategies for patients with MetS-OA may mitigate adverse events, enhance postoperative recovery, and reduce overall hospitalization charges.",
+  "doi": "10.3389/fendo.2026.1820941",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42548634/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-04T15:59:34Z"
+ },
+ {
   "pmid": "42543907",
   "title": "An Information-Driven Approach for the Early Health Technology Sustainability Assessment and the Frugal Design of the Internet of Medical Things: Exploratory Study of Wearable Activity Monitoring Devices.",
   "journal": "JMIR Mhealth Uhealth",
