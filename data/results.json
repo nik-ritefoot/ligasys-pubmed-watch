@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T15:59:34+00:00",
+ "generated": "2026-08-05T15:49:27+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,29 +66,58 @@
  ],
  "counts": {
   "total": 83,
-  "new": 1,
+  "new": 2,
   "research": 29,
   "fieldnotes": 54
  },
  "records": [
   {
-   "pmid": "42548634",
-   "title": "Risk factors and postoperative complications following revision total knee arthroplasty in patients with metabolic syndrome-associated osteoarthritis: a 10-year retrospective analysis using a national inpatient database.",
-   "journal": "Front Endocrinol (Lausanne)",
+   "pmid": "42549193",
+   "title": "Accelerated Return to Competition Following a Full-Thickness Abdominal Wall Tear in an Elite Sprinter: A Data-informed Case Report.",
+   "journal": "Int J Sports Phys Ther",
    "year": "2026",
    "authors": [
-    "Yuan M",
-    "Xie H",
-    "He Y",
-    "Qin Y",
+    "Carragher P",
+    "O'Leary F",
+    "Kirby K",
+    "McCarthy M",
     "et al."
    ],
-   "abstract": "The aim of this study was to examine temporal trends in metabolic syndrome-associated osteoarthritis (MetS-OA) among patients undergoing revision total knee arthroplasty (RTKA) and to identify patient- and clinical-level factors associated with this condition and related outcomes. A retrospective cohort analysis was conducted using data from the Nationwide Inpatient Sample from 2010 through 2019. Patient demographics, hospital characteristics, length of stay, total hospitalization charges, in-hospital mortality, comorbid conditions, and perioperative complications were assessed. All analyses incorporated NIS discharge weights, and multivariable logistic regression models were used to assess associations between MetS-OA and clinical outcomes among patients undergoing RTKA. Among 1,361,454 RTKA hospitalizations identified, 1,330,099 RTKA hospitalizations were included in the analysis. The overall prevalence of MetS-OA was 16.1%, demonstrating a progressive increase from 2011 through 2019. Factors independently associated with MetS-OA included advanced age, male sex, non-White racial background, and the presence of comorbid conditions such as chronic pulmonary disease, depression, and hypothyroidism. Patients with MetS-OA experienced slightly longer hospital stays and incurred higher median total hospitalization charges, exceeding those without MetS-OA by $1,445.50. In-hospital mortality did not differ significantly between groups. MetS-OA was also associated with a higher likelihood of postoperative complications, including acute myocardial infarction, severe malnutrition, acute cerebrovascular disease, postoperative delirium, acute respiratory distress syndrome, prolonged mechanical ventilation, urinary tract infections, acute renal failure, and lower limb nerve injury. The prevalence of MetS-OA among patients undergoing RTKA has increased over time and is associated with a higher burden of postoperative complications and healthcare utilization. Patient- and hospital-level factors play a substantial role in shaping these outcomes. Targeted preoperative optimization and standardized perioperative management strategies for patients with MetS-OA may mitigate adverse events, enhance postoperative recovery, and reduce overall hospitalization charges.",
-   "doi": "10.3389/fendo.2026.1820941",
+   "abstract": "Muscle strain injuries are a leading cause of time loss in elite sport. While lower-limb muscle strains are well documented, full-thickness lateral abdominal wall tears involving the external oblique, internal oblique, and transversus abdominis are rare in elite sprinting, with limited evidence to guide rehabilitation or return-to-sport decision-making. The purpose of this case report was to describe the rehabilitation and return-to-competition process following a full-thickness lateral abdominal wall tear in an elite international sprinter. # Case Description A 22-year-old elite international sprinter sustained a full-thickness tear of the external oblique, internal oblique, and transversus abdominis during block acceleration. Rehabilitation commenced two days post-injury and emphasized early optimal loading, objective monitoring using trunk force profiling and sprint kinematic assessment, and collaborative decision-making across the medical, coaching, and performance teams. Progression was guided by athlete response and objective performance data rather than predetermined time-based criteria. # Outcomes Pain-free sprinting was achieved within 16 days, unrestricted training resumed by Day 18, and the athlete returned to competition on Day 28, recording a lifetime personal best of 10.08 seconds in the 100 m. Persistent asymmetries remained in selected trunk force measures despite successful return to competition. # Discussion This case report provides a descriptive example of individualized, data-informed rehabilitation following a severe abdominal wall injury and may contribute to ongoing discussion regarding the role of objective monitoring, clinical reasoning, and symmetry restoration in return-to-sport decision-making. # Level of Evidence 4.",
+   "doi": "10.26603/001c.165381",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42549193/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42553458",
+   "title": "Sport Injury Profile and Influence of Playing Position in Egyptian Professional Soccer Players: A Prospective Cohort Study.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Haroun HK",
+    "El Ghazaly SA",
+    "Elzifzaf DS",
+    "Elsayed MA",
+    "et al."
+   ],
+   "abstract": "Despite soccer's popularity in Egypt, no comprehensive epidemiological studies have examined injury distribution by playing position. To characterize the injury profile of Egyptian professional soccer players and assess differences by playing position. Cohort study; Level of evidence, 2. A prospective cohort study was conducted across 12 soccer clubs in the Egyptian professional league during the 2022 to 2023 season. Player exposure was recorded using a standardized form. Injuries were documented by medical staff. Data were collected on player demographics, injury profile, and diagnostic modalities. Associations between categorical injury variables and position were assessed using chi-square tests with Cram\u00e9r V, followed by post hoc analysis using adjusted residuals. Among 384 male players, midfielders were the largest group (38.5%), followed by forwards (27.9%), defenders (22.1%), and goalkeepers (11.5%). There were 422 time-loss injuries (incidence: 2.36/1000 player-hours). Goalkeepers were taller (182 \u00b1 5 cm) and heavier (74.5 \u00b1 3.9 kg) than defenders (178 \u00b1 4 cm; 70.2 \u00b1 5.1 kg), midfielders (175 \u00b1 3 cm; 67.2 \u00b1 4.8 kg), and forwards (175 \u00b1 4 cm; 67.1 \u00b1 5.5 kg); all P < .001. Exposure hours differed by position (P = .007): goalkeepers, 403.7 \u00b1 112.9 h; defenders, 405.1 \u00b1 108.5 h; midfielders, 447.3 \u00b1 106.7 h; and forwards, 411.8 \u00b1 108.9 h. Injury incidence showed no positional variation (P = .07): goalkeepers, 2.54 (IQR, 2.1-3.2); defenders, 2.38 (IQR, 2.2-3.2); midfielders, 2.19 (IQR, 1.9-3.1); and forwards, 2.38 (IQR, 2.1-3.2) per 1000 h. Goalkeepers sustained more nervous system/soft tissue injuries, upper limb/head injuries, contact injuries, first-time training injuries, and minimal degree injuries, and were more often diagnosed by imaging. Among outfield players, defenders were taller and heavier, midfielders had more overstretch injuries with shorter layoffs, and forwards had more severe injuries. Outfield injuries relied more on clinical assessment (36.1%). Our study showed that injury patterns among Egyptian professional soccer players vary significantly by playing position. While muscle/tendon and lower limb injuries are common overall, the 4 positions exhibit distinct anthropometric, injury mechanism, site, severity, and diagnostic profiles. These findings recommend position-specific injury prevention and rehabilitation in Egyptian professional soccer.",
+   "doi": "10.1177/23259671261464701",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42548634/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42553458/",
    "matched": [
     {
      "id": "burden-cost",
@@ -600,32 +629,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42402080",
-   "title": "Comprehensive management of the adolescent athlete with osgood-schlatter disease: a multidimensional approach.",
-   "journal": "Musculoskelet Surg",
-   "year": "2026",
-   "authors": [
-    "Colmenares-Bonilla D",
-    "Solis-Pena J"
-   ],
-   "abstract": "Osgood-Schlatter disease (OSD), also known as tibial tubercle apophysitis, is a traction apophysitis of the tibial tuberosity that disproportionately affects adolescents during periods of rapid skeletal growth (1). First described independently by Robert Osgood and Carl Schlatter in 1903, this condition represents the most prevalent cause of knee pain in the skeletally immature athletic population (3). Despite its self-limiting nature, OSD can result in prolonged symptoms lasting up to 24 months, with approximately 10% of affected individuals experiencing persistent pain into adulthood, particularly with activities such as kneeling. However, conservative management achieves successful outcomes in over 90% of pediatric cases (4). The burden of OSD extends beyond immediate symptomatology. Recent epidemiological data indicate that lower extremity apophysitis can result in pain lasting between 1 and 45 weeks, with potential consequences for physical activity participation during critical developmental periods (7). This is particularly concerning given the established relationship between childhood physical activity and long-term health outcomes. Furthermore, the condition's propensity to affect athletes during peak competitive years raises important considerations for talent development, psychological well-being, and long-term athletic participation. Historically, OSD management has relied heavily on activity modification and symptomatic treatment. However, advances in our understanding of its pathophysiology-particularly the identification of specific biomechanical risk factors and critical developmental windows-have enabled a more nuanced, multidimensional approach to care.",
-   "doi": "10.1007/s12306-026-00962-9",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42402080/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42514199",
@@ -1980,6 +1983,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42548634",
+   "title": "Risk factors and postoperative complications following revision total knee arthroplasty in patients with metabolic syndrome-associated osteoarthritis: a 10-year retrospective analysis using a national inpatient database.",
+   "journal": "Front Endocrinol (Lausanne)",
+   "year": "2026",
+   "authors": [
+    "Yuan M",
+    "Xie H",
+    "He Y",
+    "Qin Y",
+    "et al."
+   ],
+   "abstract": "The aim of this study was to examine temporal trends in metabolic syndrome-associated osteoarthritis (MetS-OA) among patients undergoing revision total knee arthroplasty (RTKA) and to identify patient- and clinical-level factors associated with this condition and related outcomes. A retrospective cohort analysis was conducted using data from the Nationwide Inpatient Sample from 2010 through 2019. Patient demographics, hospital characteristics, length of stay, total hospitalization charges, in-hospital mortality, comorbid conditions, and perioperative complications were assessed. All analyses incorporated NIS discharge weights, and multivariable logistic regression models were used to assess associations between MetS-OA and clinical outcomes among patients undergoing RTKA. Among 1,361,454 RTKA hospitalizations identified, 1,330,099 RTKA hospitalizations were included in the analysis. The overall prevalence of MetS-OA was 16.1%, demonstrating a progressive increase from 2011 through 2019. Factors independently associated with MetS-OA included advanced age, male sex, non-White racial background, and the presence of comorbid conditions such as chronic pulmonary disease, depression, and hypothyroidism. Patients with MetS-OA experienced slightly longer hospital stays and incurred higher median total hospitalization charges, exceeding those without MetS-OA by $1,445.50. In-hospital mortality did not differ significantly between groups. MetS-OA was also associated with a higher likelihood of postoperative complications, including acute myocardial infarction, severe malnutrition, acute cerebrovascular disease, postoperative delirium, acute respiratory distress syndrome, prolonged mechanical ventilation, urinary tract infections, acute renal failure, and lower limb nerve injury. The prevalence of MetS-OA among patients undergoing RTKA has increased over time and is associated with a higher burden of postoperative complications and healthcare utilization. Patient- and hospital-level factors play a substantial role in shaping these outcomes. Targeted preoperative optimization and standardized perioperative management strategies for patients with MetS-OA may mitigate adverse events, enhance postoperative recovery, and reduce overall hospitalization charges.",
+   "doi": "10.3389/fendo.2026.1820941",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42548634/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42512505",
    "title": "Robotic Rehabilitation in Spinal Cord Injury: Neurophysiological Basis and Severity-Based Clinical Framework.",
    "journal": "Brain Sci",
@@ -2002,34 +2033,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42401083",
-   "title": "Sensor-derived multidimensional gait domains mediate the association between intrinsic capacity impairment and fall risk in community-dwelling older adults: a cross-sectional study.",
-   "journal": "J Nutr Health Aging",
-   "year": "2026",
-   "authors": [
-    "Chen S",
-    "Shen J",
-    "Kang Y",
-    "Zhang Y",
-    "et al."
-   ],
-   "abstract": "Falls are a leading cause of injury and functional decline in older adults. Intrinsic capacity (IC) impairment has emerged as an important predictor of fall risk, yet the biomechanical pathways linking IC decline to falls remain uncharacterized. Whether sensor-derived multidimensional gait domains serve as domain-specific indirect pathways in the IC-fall association has not been examined. In this cross-sectional study of 813 community-dwelling adults (aged \u226560 years), IC impairment and a 12-month self-reported fall history were assessed. Gait was quantified using a wearable multi-sensor system, with nine parameters summarized into three domains: pace, gait phase, and kinetics. Logistic regression-based mediation analysis was used to test the indirect effects of gait domains on the association between IC and falls. Higher IC impairment was independently associated with greater odds of falling after full adjustment (OR\u2009=\u20091.36, 95% CI: 1.11-1.66). Among gait domains, pace (OR\u2009=\u20090.75, 95% CI: 0.56-0.99) and kinetics (OR\u2009=\u20090.76, 95% CI: 0.59-0.99) were independently associated with lower fall odds, whereas gait phase was not. Mediation analyses indicated that pace and kinetics partially mediated the IC-fall association, accounting for 18.76% and 10.64% of the total effect respectively, with gait phase showing no significant indirect effect. These exploratory findings suggest that multidimensional gait assessment may complement IC screening to improve fall risk stratification and identify domain-specific intervention targets in older adults.",
-   "doi": "10.1016/j.jnha.2026.100922",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42401083/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
