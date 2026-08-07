@@ -3,8 +3,28 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-08-05T15:49:27Z</updated>
+  <updated>2026-08-07T14:36:09Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Chronic Ankle Instability and Low Back Pain: A Narrative Review With a Conceptual Framework Linking Distal and Proximal Sensorimotor Dysfunction.</title>
+    <id>urn:pmid:42555525</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42555525/" rel="alternate"/>
+    <updated>2026-08-07T14:36:09Z</updated>
+    <published>2026-08-07T14:36:09Z</published>
+    <author><name>Abdallah EA</name></author><author><name>Elshinnawy AM</name></author><author><name>Abdelhaleem MD</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Abdallah EA, Elshinnawy AM, Abdelhaleem MD · Physiother Res Int · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chronic ankle instability and chronic low back pain are highly prevalent in musculoskeletal conditions. Emerging evidence suggests that they are interconnected through shared biomechanical, neuromuscular, and neurophysiological mechanisms, where deficits in proprioception, postural control, and load distribution contribute to persistent dysfunction across the kinetic chain. This study employed a narrative review with a conceptual framework, incorporating evidence from biomechanical, neuromuscular, and neurophysiological studies found through targeted database searches (PubMed, Scopus, and Google Scholar 2019-2025). Findings were thematically analyzed to establish connections between distal and proximal dysfunction within the kinetic chain. A total of 23 studies were included. Overall, the evidence suggests consistent distal-to-proximal alterations in individuals with chronic ankle instability, including impaired ankle biomechanics, compensatory lumbopelvic movement patterns, and deficits in proprioception and neuromuscular control. Emerging findings also indicate neurophysiological adaptations affecting sensorimotor integration. Collectively, these findings suggest a potential association between chronic ankle instability and chronic low back pain. Chronic ankle instability and chronic low back pain may coexist within a functionally interconnected kinetic system. Recognizing their potential interdependence supports a model of multi-segmental stability and highlights the importance of combined ankle-core rehabilitation strategies.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1002/pri.70307&quot;&gt;10.1002/pri.70307&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42555525/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.</title>
+    <id>urn:pmid:42561756</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42561756/" rel="alternate"/>
+    <updated>2026-08-07T14:36:09Z</updated>
+    <published>2026-08-07T14:36:09Z</published>
+    <author><name>Wang Z</name></author><author><name>Wang P</name></author><author><name>Wang T</name></author><author><name>Xuan B</name></author><author><name>et al.</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Wang Z, Wang P, Wang T, Xuan B, et al. · Phys Ther Sport · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To compare lower limb biomechanics during single-leg drop landings between individuals with low (2-4/year) and high (≥5/year) chronic ankle instability (CAI) recurrence frequencies. Cross-sectional study. Biomechanics laboratory. Sixty males with unilateral CAI, stratified into High-CAI (n = 30) and Low-CAI (n = 30) groups. Peak vertical ground reaction force (vGRF), time to peak vGRF, vertical loading rate (LR), leg stiffness, and lower extremity kinematics. High-CAI participants demonstrated greater peak vGRF, shorter time to peak vGRF, higher LR, and greater hip flexion, hip abduction, and ankle inversion at initial contact than the Low-CAI group (all p ≤ 0.048; ηp2 = 0.066-0.275). Group × side interactions occurred for knee flexion, ankle inversion, and LR (p = 0.005-0.033; ηp2 = 0.076-0.128). Simple-effects analyses showed the unstable side of the Low-CAI group exhibited less knee flexion than its stable side, whereas the unstable side of the High-CAI group exhibited greater ankle inversion and LR than both the unstable side of the Low-CAI group and its stable side (all p ≤ 0.040; d = 0.350-1.221). High-frequency CAI recurrence (≥5 times/year) induces a maladaptive landing strategy with altered proximal compensations and impaired shock absorption. Frequency-based stratification is essential for optimizing management.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.ptsp.2026.101972&quot;&gt;10.1016/j.ptsp.2026.101972&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42561756/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Comparative efficacy of conventional rehabilitation, balance acupuncture combined with conventional rehabilitation and additional unconscious proprioception training for chronic ankle instability: A randomized-controlled clinical study.</title>
     <id>urn:pmid:42542908</id>

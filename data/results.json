@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T15:49:27+00:00",
+ "generated": "2026-08-07T14:36:09+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,31 +65,173 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 2,
+  "total": 88,
+  "new": 7,
   "research": 29,
-  "fieldnotes": 54
+  "fieldnotes": 59
  },
  "records": [
   {
-   "pmid": "42549193",
-   "title": "Accelerated Return to Competition Following a Full-Thickness Abdominal Wall Tear in an Elite Sprinter: A Data-informed Case Report.",
-   "journal": "Int J Sports Phys Ther",
+   "pmid": "42564466",
+   "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
+   "journal": "Wearable Technol",
    "year": "2026",
    "authors": [
-    "Carragher P",
-    "O'Leary F",
-    "Kirby K",
-    "McCarthy M",
+    "Li K",
+    "Yang Z",
+    "Wang H",
+    "Ye X",
     "et al."
    ],
-   "abstract": "Muscle strain injuries are a leading cause of time loss in elite sport. While lower-limb muscle strains are well documented, full-thickness lateral abdominal wall tears involving the external oblique, internal oblique, and transversus abdominis are rare in elite sprinting, with limited evidence to guide rehabilitation or return-to-sport decision-making. The purpose of this case report was to describe the rehabilitation and return-to-competition process following a full-thickness lateral abdominal wall tear in an elite international sprinter. # Case Description A 22-year-old elite international sprinter sustained a full-thickness tear of the external oblique, internal oblique, and transversus abdominis during block acceleration. Rehabilitation commenced two days post-injury and emphasized early optimal loading, objective monitoring using trunk force profiling and sprint kinematic assessment, and collaborative decision-making across the medical, coaching, and performance teams. Progression was guided by athlete response and objective performance data rather than predetermined time-based criteria. # Outcomes Pain-free sprinting was achieved within 16 days, unrestricted training resumed by Day 18, and the athlete returned to competition on Day 28, recording a lifetime personal best of 10.08 seconds in the 100 m. Persistent asymmetries remained in selected trunk force measures despite successful return to competition. # Discussion This case report provides a descriptive example of individualized, data-informed rehabilitation following a severe abdominal wall injury and may contribute to ongoing discussion regarding the role of objective monitoring, clinical reasoning, and symmetry restoration in return-to-sport decision-making. # Level of Evidence 4.",
-   "doi": "10.26603/001c.165381",
+   "abstract": "Passive exoskeletons offer several advantages, including lightweight design, simple structure, and inherent energy efficiency. Most existing passive exoskeletons rely on clutch mechanisms to control spring-based energy storage and release, typically focusing only on recovering biomechanical energy during the stance phase of gait. In this study, we propose and analyze a lightweight passive ankle exoskeleton capable of harvesting and releasing energy during both the stance and swing phases of walking. The device aims to enhance gait assistance while maintaining structural simplicity and minimizing weight. By integrating the optimal stiffness ratio between the stance and swing phases, derived from musculoskeletal model simulations, with previously established optimal stance-phase stiffness parameters, we determined a suitable stiffness coefficient for the swing-phase spring. To validate the design, we conducted comparative experiments on participants walking with exoskeletons configured with different stiffness coefficients. Spatiotemporal parameters, metabolic energy cost, and muscle activation patterns were analyzed to evaluate performance. The results demonstrate that the proposed exoskeleton effectively reduces Soleus muscle activation while increasing tibialis anterior activity, leading to a 6.84% reduction in walking energy cost compared to a nonassistive condition. Furthermore, energy recovery during the swing phase alone contributes an additional 1.67% reduction in energy expenditure, improving overall walking efficiency. The proposed design also eliminates complex clutch components, significantly simplifying manufacturing and reducing costs, thereby enhancing the applicability of passive exoskeletons in daily mobility and rehabilitation scenarios.",
+   "doi": "10.1017/wtc.2026.10046",
    "pubtypes": [
-    "Case Reports",
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42549193/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42564466/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42554668",
+   "title": "Case study evaluation of stability and mobility in a length-actuated transfemoral prosthesis.",
+   "journal": "Prosthet Orthot Int",
+   "year": "2026",
+   "authors": [
+    "Parr TE",
+    "Lv G",
+    "Hippensteal A",
+    "Pitts C",
+    "et al."
+   ],
+   "abstract": "Unilateral transfemoral prosthesis users experience increased gait compensations, possibly because of their inability to produce sufficient knee flexion resistance during stance, ankle plantar flexion for forward progression, and leg shortening for toe clearance. This case study evaluates a novel kneeless prosthesis with powered length actuation (lengthening for push-off and shortening for toe clearance), which was hypothesized to result in greater stability, easier toe clearance, and assisted-forward progression, toward improving compensatory mechanisms of prosthesis users. Two persons with unilateral transfemoral amputation walked with both their habitual devices and the length-actuated prosthesis. Quantitative metrics of knee stability (thigh velocity and hip flexion/extension moment), mobility (ankle power, pelvis obliquity, hip abduction, toe clearance) and qualitative rankings were collected for both devices. Stability-related results showed increased confidence in the length-actuated prosthesis' knee buckling avoidance with decreased prosthetic-side early stance hip extension and swing hip flexion angle/velocity. Mobility-related metrics showed decreased confidence in the length-actuated prosthesis' toe clearance with increased frontal plane compensations and push-off ankle power (vaulting). Although both participants were encouraging of the overall concept, the user with higher mobility and a microprocessor knee preferred his own device, whereas the user with lower mobility and a passive knee preferred the length-actuated prosthesis. Both users had increased confidence (and decreased compensations) in knee stability during stance but continued to have compensations during swing to ease toe clearance. The device received positive feedback and was well received by the participant with a more recent amputation, knee buckling difficulty, and lower mobility level.",
+   "doi": "10.1097/PXR.0000000000000557",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42554668/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42555525",
+   "title": "Chronic Ankle Instability and Low Back Pain: A Narrative Review With a Conceptual Framework Linking Distal and Proximal Sensorimotor Dysfunction.",
+   "journal": "Physiother Res Int",
+   "year": "2026",
+   "authors": [
+    "Abdallah EA",
+    "Elshinnawy AM",
+    "Abdelhaleem MD"
+   ],
+   "abstract": "Chronic ankle instability and chronic low back pain are highly prevalent in musculoskeletal conditions. Emerging evidence suggests that they are interconnected through shared biomechanical, neuromuscular, and neurophysiological mechanisms, where deficits in proprioception, postural control, and load distribution contribute to persistent dysfunction across the kinetic chain. This study employed a narrative review with a conceptual framework, incorporating evidence from biomechanical, neuromuscular, and neurophysiological studies found through targeted database searches (PubMed, Scopus, and Google Scholar 2019-2025). Findings were thematically analyzed to establish connections between distal and proximal dysfunction within the kinetic chain. A total of 23 studies were included. Overall, the evidence suggests consistent distal-to-proximal alterations in individuals with chronic ankle instability, including impaired ankle biomechanics, compensatory lumbopelvic movement patterns, and deficits in proprioception and neuromuscular control. Emerging findings also indicate neurophysiological adaptations affecting sensorimotor integration. Collectively, these findings suggest a potential association between chronic ankle instability and chronic low back pain. Chronic ankle instability and chronic low back pain may coexist within a functionally interconnected kinetic system. Recognizing their potential interdependence supports a model of multi-segmental stability and highlights the importance of combined ankle-core rehabilitation strategies.",
+   "doi": "10.1002/pri.70307",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42561756",
+   "title": "From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Wang Z",
+    "Wang P",
+    "Wang T",
+    "Xuan B",
+    "et al."
+   ],
+   "abstract": "To compare lower limb biomechanics during single-leg drop landings between individuals with low (2-4/year) and high (\u22655/year) chronic ankle instability (CAI) recurrence frequencies. Cross-sectional study. Biomechanics laboratory. Sixty males with unilateral CAI, stratified into High-CAI (n\u202f=\u202f30) and Low-CAI (n\u202f=\u202f30) groups. Peak vertical ground reaction force (vGRF), time to peak vGRF, vertical loading rate (LR), leg stiffness, and lower extremity kinematics. High-CAI participants demonstrated greater peak vGRF, shorter time to peak vGRF, higher LR, and greater hip flexion, hip abduction, and ankle inversion at initial contact than the Low-CAI group (all p\u202f\u2264\u202f0.048; \u03b7p2\u202f=\u202f0.066-0.275). Group\u202f\u00d7\u202fside interactions occurred for knee flexion, ankle inversion, and LR (p\u202f=\u202f0.005-0.033; \u03b7p2\u202f=\u202f0.076-0.128). Simple-effects analyses showed the unstable side of the Low-CAI group exhibited less knee flexion than its stable side, whereas the unstable side of the High-CAI group exhibited greater ankle inversion and LR than both the unstable side of the Low-CAI group and its stable side (all p\u202f\u2264\u202f0.040; d\u202f=\u202f0.350-1.221). High-frequency CAI recurrence (\u22655 times/year) induces a maladaptive landing strategy with altered proximal compensations and impaired shock absorption. Frequency-based stratification is essential for optimizing management.",
+   "doi": "10.1016/j.ptsp.2026.101972",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42561756/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42559571",
+   "title": "Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation.",
+   "journal": "Measurement (Lond)",
+   "year": "2026",
+   "authors": [
+    "Lim H",
+    "Lee J",
+    "Save OM",
+    "Lee H",
+    "et al."
+   ],
+   "abstract": "Wearable sensor-based gait analysis has broad applicability across healthcare, rehabilitation, and injury prevention. Ground reaction force (GRF) provides key insight into human-ground interactions but is typically measured with instrumented treadmills and force plates that are costly and confined to laboratory settings. Insole sensors offer a portable alternative, but their sensings are often noisy and susceptible to environmental interference. Deep learning can mitigate these issues, but high accuracy usually demands substantial compute, hindering real-time and on-device utilization. With these, knowledge distillation can be adopted as a promising solution to generate a compact model. However, many feature- and relation-based distillation methods compute teacher-student relations using fixed similarity or metric operators, such as inner products and Euclidean distances. directly on intermediate representations. Although these have been widely used in feature matching, they do not explicitly learn a shared nonlinear feature geometry in which teacher and student relations are compared. This can also be limiting when the teacher and student have different capacities, channel widths, and representation distributions. To address these issues, we propose Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation, GFKD. During distillation, intermediate features from the teacher and student are leveraged in a teacher-student shared assistant module (TSM) that operates a shared intermediate alignment between their representations. TSM computes nonlinear geometric relations and encourages the student to capture them, providing geometry-aware supervision instead of general direct feature matching. In our experiments, students distilled by GFKD outperforms recent baselines for GRF estimation, showing the robustness of the proposed method in both accuracy as well as resource-efficiency.",
+   "doi": "10.1016/j.measurement.2026.122341",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42559571/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42562366",
+   "title": "Prediction of Running Anteroposterior Ground Reaction Force From the Vertical Component Through a Deep Learning Approach.",
+   "journal": "J Appl Biomech",
+   "year": "2026",
+   "authors": [
+    "Roinson R",
+    "Karamanoukian A",
+    "Boucher JP",
+    "Vignais N"
+   ],
+   "abstract": "Studying ground reaction force (GRF) is essential for in situ running analysis, as they provide critical insights into both performance optimization and the etiology of running-related injuries. However, the use of current measurement systems in ecological or field conditions remains limited: their restricted measurement areas constrain data collection to only a few steps, and their high cost hinders widespread adoption. Recently, a size-adjustable instrumented track has been developed to measure the vertical component of GRF outside the laboratory environment. Building on this advancement, the present study aims to develop a neural network approach for predicting the anteroposterior component from the measured vertical component and to evaluate the impact of prediction errors on joint kinetics. A public data set comprising 9500 running steps was used to train, validate, and test the prediction model. The results demonstrated that a convolutional neural network can accurately predict the anteroposterior component of the GRF (relative root mean square error = 7.44%). While these anteroposterior-GRF prediction errors had only a minor impact on ankle moment calculations, estimates at the knee and hip were more substantially affected. These findings suggest that the proposed model may be effectively applied in conjunction with the size-adjustable instrumented track.",
+   "doi": "10.1123/jab.2025-0313",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42562366/",
    "matched": [
     {
      "id": "burden-cost",
@@ -101,27 +243,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42553458",
-   "title": "Sport Injury Profile and Influence of Playing Position in Egyptian Professional Soccer Players: A Prospective Cohort Study.",
-   "journal": "Orthop J Sports Med",
+   "pmid": "42562204",
+   "title": "Sensor-Based Gait Recovery Analysis After Total Hip and Knee Arthroplasty: A One-Year Follow-Up Study Integrating Muscle Strength and Patient-Reported Outcomes.",
+   "journal": "J Arthroplasty",
    "year": "2026",
    "authors": [
-    "Haroun HK",
-    "El Ghazaly SA",
-    "Elzifzaf DS",
-    "Elsayed MA",
+    "Chen WC",
+    "Wang CL",
+    "Lee SH",
+    "Peng SH",
     "et al."
    ],
-   "abstract": "Despite soccer's popularity in Egypt, no comprehensive epidemiological studies have examined injury distribution by playing position. To characterize the injury profile of Egyptian professional soccer players and assess differences by playing position. Cohort study; Level of evidence, 2. A prospective cohort study was conducted across 12 soccer clubs in the Egyptian professional league during the 2022 to 2023 season. Player exposure was recorded using a standardized form. Injuries were documented by medical staff. Data were collected on player demographics, injury profile, and diagnostic modalities. Associations between categorical injury variables and position were assessed using chi-square tests with Cram\u00e9r V, followed by post hoc analysis using adjusted residuals. Among 384 male players, midfielders were the largest group (38.5%), followed by forwards (27.9%), defenders (22.1%), and goalkeepers (11.5%). There were 422 time-loss injuries (incidence: 2.36/1000 player-hours). Goalkeepers were taller (182 \u00b1 5 cm) and heavier (74.5 \u00b1 3.9 kg) than defenders (178 \u00b1 4 cm; 70.2 \u00b1 5.1 kg), midfielders (175 \u00b1 3 cm; 67.2 \u00b1 4.8 kg), and forwards (175 \u00b1 4 cm; 67.1 \u00b1 5.5 kg); all P < .001. Exposure hours differed by position (P = .007): goalkeepers, 403.7 \u00b1 112.9 h; defenders, 405.1 \u00b1 108.5 h; midfielders, 447.3 \u00b1 106.7 h; and forwards, 411.8 \u00b1 108.9 h. Injury incidence showed no positional variation (P = .07): goalkeepers, 2.54 (IQR, 2.1-3.2); defenders, 2.38 (IQR, 2.2-3.2); midfielders, 2.19 (IQR, 1.9-3.1); and forwards, 2.38 (IQR, 2.1-3.2) per 1000 h. Goalkeepers sustained more nervous system/soft tissue injuries, upper limb/head injuries, contact injuries, first-time training injuries, and minimal degree injuries, and were more often diagnosed by imaging. Among outfield players, defenders were taller and heavier, midfielders had more overstretch injuries with shorter layoffs, and forwards had more severe injuries. Outfield injuries relied more on clinical assessment (36.1%). Our study showed that injury patterns among Egyptian professional soccer players vary significantly by playing position. While muscle/tendon and lower limb injuries are common overall, the 4 positions exhibit distinct anthropometric, injury mechanism, site, severity, and diagnostic profiles. These findings recommend position-specific injury prevention and rehabilitation in Egyptian professional soccer.",
-   "doi": "10.1177/23259671261464701",
+   "abstract": "Functional recovery after total joint arthroplasty (TJA) is multifactorial. This study aimed to characterize the one-year recovery trajectory in elderly patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA) by integrating objective gait analysis, muscle strength assessment, and patient-reported outcome measures (PROMs). In this prospective cohort study, 84 patients (THA: 36, TKA: 48; age \u2265 70 years) with Kellgren-Lawrence (K-L) grades III or IV osteoarthritis were evaluated pre-operatively and at two weeks and one, three, six, and 12 months post-surgery. Spatiotemporal gait parameters were collected using foot-mounted inertial sensors. Isokinetic dynamometry measured hip abductor (THA) or quadriceps muscle (TKA) strength. The PROMs, including the Hip Disability and Osteoarthritis Outcome Score for Joint Replacement (HOOS-JR) and the Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR), were collected at all time points. Correlation and regression analyses were performed to identify predictors of recovery. The TKA patients demonstrated significant and persistent gait asymmetry up to three months, which normalized by six months. The THA recovery was more symmetrical, with only transient asymmetry at one month. Pre-operative muscle strength was the strongest predictor of 12-month gait speed (\u03b2 = 0.42, P < 0.001), while radiographic severity (K-L grade III versus IV) did not significantly predict functional gait recovery (P = 0.38). By 12 months, both groups approached normative values for gait and strength, with 94.0% of THA and 92.0% of TKA patients achieving the patient acceptable symptom state (PASS). Muscle strength, rather than radiographic severity, is the critical determinant of functional gait recovery after TJA in the elderly. Pre-operative muscle strength assessment should be incorporated into surgical planning to guide personalized post-operative rehabilitation strategies. Future prospective randomized trials incorporating pre-operative gait analysis and intervention arms are warranted to establish causal relationships.",
+   "doi": "10.1016/j.arth.2026.05.038",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42553458/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42562204/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -200,6 +342,35 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42534234/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42549193",
+   "title": "Accelerated Return to Competition Following a Full-Thickness Abdominal Wall Tear in an Elite Sprinter: A Data-informed Case Report.",
+   "journal": "Int J Sports Phys Ther",
+   "year": "2026",
+   "authors": [
+    "Carragher P",
+    "O'Leary F",
+    "Kirby K",
+    "McCarthy M",
+    "et al."
+   ],
+   "abstract": "Muscle strain injuries are a leading cause of time loss in elite sport. While lower-limb muscle strains are well documented, full-thickness lateral abdominal wall tears involving the external oblique, internal oblique, and transversus abdominis are rare in elite sprinting, with limited evidence to guide rehabilitation or return-to-sport decision-making. The purpose of this case report was to describe the rehabilitation and return-to-competition process following a full-thickness lateral abdominal wall tear in an elite international sprinter. # Case Description A 22-year-old elite international sprinter sustained a full-thickness tear of the external oblique, internal oblique, and transversus abdominis during block acceleration. Rehabilitation commenced two days post-injury and emphasized early optimal loading, objective monitoring using trunk force profiling and sprint kinematic assessment, and collaborative decision-making across the medical, coaching, and performance teams. Progression was guided by athlete response and objective performance data rather than predetermined time-based criteria. # Outcomes Pain-free sprinting was achieved within 16 days, unrestricted training resumed by Day 18, and the athlete returned to competition on Day 28, recording a lifetime personal best of 10.08 seconds in the 100 m. Persistent asymmetries remained in selected trunk force measures despite successful return to competition. # Discussion This case report provides a descriptive example of individualized, data-informed rehabilitation following a severe abdominal wall injury and may contribute to ongoing discussion regarding the role of objective monitoring, clinical reasoning, and symmetry restoration in return-to-sport decision-making. # Level of Evidence 4.",
+   "doi": "10.26603/001c.165381",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42549193/",
    "matched": [
     {
      "id": "burden-cost",
@@ -890,33 +1061,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42404364",
-   "title": "Effects of Dynamic Taping on Dynamic Balance and Proprioception in Recreational Athletes with Chronic Ankle Instability.",
-   "journal": "Int J Sports Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Chang YC",
-    "Chen PT",
-    "Hsu WJ",
-    "Chang HY"
-   ],
-   "abstract": "Chronic ankle instability (CAI) commonly develops after recurrent ankle sprains and is associated with deficits in proprioception and dynamic balance. Sports taping (ST) is frequently used to enhance joint stability but may restrict movement. Dynamic taping (DT) is a novel alternative elastic taping technique designed to provide support without restricting functional motion. To compare the immediate effects of DT and ST on dynamic balance and proprioception in recreational athletes with CAI. Single-blind randomized controlled trial. Twenty-eight participants with CAI were randomly assigned to either a DT group (n = 14) or an ST group (n = 14). Outcomes included joint position sense error (reproduction of angle measured using a smartphone App) and dynamic balance (assessed using the single-leg multiple hop stabilization test). Measurements were obtained before and 15 min after taping. A mixed-design, repeated-measures 2-way analysis of variance was used for statistical analysis. Both groups exhibited significant improvements in joint position sense error over time (p < 0.05), with no significant group \u00d7 time interaction (F (1,26) = 0.85, p = 0.366, \u03b7\u00b2 = 0.03). A significant group \u00d7 time interaction was observed in dynamic balance (F (1,26) = 20.42, p < 0.001, \u03b7\u00b2 = 0.44), indicating that DT may enhance dynamic balance relative to ST. DT may enhance dynamic balance more than ST does, although both taping methods improve proprioception in individuals with CAI. However, these findings should be interpreted with caution, as the sample size was small and the assessment was conducted over a short period. Level 2.",
-   "doi": "10.26603/001c.163298",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42404364/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42512791",
    "title": "Effects of Medial and Lateral Foot Wedge Placement on Lower Limb Biomechanics and Muscle Activation During the Split Squat: A Randomized Crossover Trial.",
    "journal": "Medicina (Kaunas)",
@@ -1407,34 +1551,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42402753",
-   "title": "Mechanical Contribution of the Anterior Talofibular Ligament to Ankle Stability: 3D Anatomical Finite Element Analysis.",
-   "journal": "J Orthop Res",
-   "year": "2026",
-   "authors": [
-    "Minagawa A",
-    "Ogihara N",
-    "Kubota M",
-    "Matsumoto Y",
-    "et al."
-   ],
-   "abstract": "Ankle sprains are among the most common musculoskeletal injuries, with the anterior talofibular ligament (ATFL) most frequently affected. Although cadaveric and in vivo studies have demonstrated the ATFL's role in restraining anterior talar translation and inversion, its isolated mechanical contribution remains unclear due to technical challenges in selectively altering individual ligaments. In this study, we developed a three-dimensional finite element (FE) model of the human foot and ankle to investigate ATFL function. The model was validated against experimental data using the anterior drawer test (ADT), with talar translation in the ATFL-intact condition falling within reported ranges. Simulations compared ATFL-intact and ATFL-injured conditions under ADT, Telos loading, and ankle varus loading. The ATFL-injured model showed increased anterior talar translation, inversion, and internal rotation, suggesting that the ATFL plays an important role in ankle stability. Fascicular analysis in the present model suggested that the inferior fascicle mainly contributed to resisting anterior translation, whereas the superior fascicle experienced greater model-predicted loading under inversion and plantar-flexion positions representative of ankle-sprain-like postures, suggesting possible vulnerability to injury. These findings provide model-based biomechanical insight for the ATFL's role in ankle stability and may provide a computational platform for future investigations into chronic ankle instability and surgical reconstruction outcomes.",
-   "doi": "10.1002/jor.70241",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42402753/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42423986",
    "title": "Mobile robotic walker enables precision moderately intense exercise and environmental exploration in a child with cerebral palsy GMFCS IV: assessment of use, user experience and quantitative impact in a home and hospital based setting.",
    "journal": "Disabil Rehabil Assist Technol",
@@ -1709,7 +1825,7 @@
   },
   {
    "pmid": "42457033",
-   "title": "Plantar pressure distribution has potential to be an adjunct to predict return to sport after Anterior Cruciate ligament reconstruction: An Observational Study.",
+   "title": "Plantar pressure distribution has potential to be an adjunct to predict return to sport after anterior cruciate ligament reconstruction: An observational study.",
    "journal": "J ISAKOS",
    "year": "2026",
    "authors": [
@@ -1719,7 +1835,7 @@
     "Gupta A",
     "et al."
    ],
-   "abstract": "The human foot plays an important role in the biomechanical function of the lower limb. Plantar pressure distribution (PPD) can be a useful way to gauge functional knee stability. The objective of the study was to determine whether plantar pressure distribution can be used as objective criterion for return to sports post anterior cruciate ligament reconstruction (ACLR). Over a period of 18 months, 54 symptomatic, MRI-confirmed, isolated anterior cruciate ligament (ACL) tear patients were enrolled in the study. Plantar pressure distribution was documented preoperatively and at 3, 4, 5 and 6 months postoperatively. International Knee Documentation Committee (IKDC) scoring and isometric strength testing of quadriceps and hamstrings were also done simultaneously. 50 patients completed follow-up. IKDC score improved at all follow-ups. The forefoot plantar pressure distribution (PPD) decreased, while the hindfoot PPD increased with statistically significant differences (p< 0.01) between both limbs up to 6 months. Reduced knee extension isometric strength was seen on the involved side with statistically significant difference (p<0.01) between both limbs at all follow-up timelines. Twenty-seven participants were cleared to perform the advanced lower-extremity sports assessment (ALESA) return to sport test at 6 months. Participants with ALESA score > 11 had statistically significant higher hindfoot (p=0.031) and lower forefoot pressures (p =0.033) compared to those who did not. Plantar pressure distribution changes can guide dynamic functional assessment of patients with ACL tears and recovery patterns after ACL reconstruction. It has potential to be used as an adjunct criterion when determining readiness for return to sports (RTS).",
+   "abstract": "The human foot plays an important role in the biomechanical function of the lower limb. Plantar pressure distribution (PPD) can be a useful way to gauge functional knee stability. The objective of the study was to determine whether PPD can be used as an objective criterion for return to sports post anterior cruciate ligament (ACL) reconstruction (ACLR). Over a period of 18 months, 54 symptomatic, MRI-confirmed, isolated ACL tear patients were enrolled in the study. Plantar pressure distribution was documented preoperatively and at 3, 4, 5, and 6 months postoperatively. International Knee Documentation Committee (IKDC) scoring and isometric strength testing of quadriceps and hamstrings were also done simultaneously. 50 patients completed follow-up. IKDC score improved at all follow-ups. The forefoot PPD decreased, while the hindfoot PPD increased with statistically significant differences (p < 0.01) between both limbs up to 6 months. Reduced knee extension isometric strength was seen on the involved side with statistically significant differences (p < 0.01) between both limbs at all follow-up timelines. Twenty-seven participants were cleared to perform the advanced lower-extremity sports assessment (ALESA) return to sport test at 6 months. Participants with ALESA score \u226511 had statistically significantly higher hindfoot (p = 0.031) and lower forefoot pressures (p = 0.033) compared to those who did not. PPD changes can guide dynamic functional assessment of patients with ACL tears and recovery patterns after ACL reconstruction. It has potential to be used as an adjunct criterion when determining readiness for return to sports.",
    "doi": "10.1016/j.jisako.2026.101182",
    "pubtypes": [
     "Journal Article"
@@ -2084,6 +2200,34 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42553458",
+   "title": "Sport Injury Profile and Influence of Playing Position in Egyptian Professional Soccer Players: A Prospective Cohort Study.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Haroun HK",
+    "El Ghazaly SA",
+    "Elzifzaf DS",
+    "Elsayed MA",
+    "et al."
+   ],
+   "abstract": "Despite soccer's popularity in Egypt, no comprehensive epidemiological studies have examined injury distribution by playing position. To characterize the injury profile of Egyptian professional soccer players and assess differences by playing position. Cohort study; Level of evidence, 2. A prospective cohort study was conducted across 12 soccer clubs in the Egyptian professional league during the 2022 to 2023 season. Player exposure was recorded using a standardized form. Injuries were documented by medical staff. Data were collected on player demographics, injury profile, and diagnostic modalities. Associations between categorical injury variables and position were assessed using chi-square tests with Cram\u00e9r V, followed by post hoc analysis using adjusted residuals. Among 384 male players, midfielders were the largest group (38.5%), followed by forwards (27.9%), defenders (22.1%), and goalkeepers (11.5%). There were 422 time-loss injuries (incidence: 2.36/1000 player-hours). Goalkeepers were taller (182 \u00b1 5 cm) and heavier (74.5 \u00b1 3.9 kg) than defenders (178 \u00b1 4 cm; 70.2 \u00b1 5.1 kg), midfielders (175 \u00b1 3 cm; 67.2 \u00b1 4.8 kg), and forwards (175 \u00b1 4 cm; 67.1 \u00b1 5.5 kg); all P < .001. Exposure hours differed by position (P = .007): goalkeepers, 403.7 \u00b1 112.9 h; defenders, 405.1 \u00b1 108.5 h; midfielders, 447.3 \u00b1 106.7 h; and forwards, 411.8 \u00b1 108.9 h. Injury incidence showed no positional variation (P = .07): goalkeepers, 2.54 (IQR, 2.1-3.2); defenders, 2.38 (IQR, 2.2-3.2); midfielders, 2.19 (IQR, 1.9-3.1); and forwards, 2.38 (IQR, 2.1-3.2) per 1000 h. Goalkeepers sustained more nervous system/soft tissue injuries, upper limb/head injuries, contact injuries, first-time training injuries, and minimal degree injuries, and were more often diagnosed by imaging. Among outfield players, defenders were taller and heavier, midfielders had more overstretch injuries with shorter layoffs, and forwards had more severe injuries. Outfield injuries relied more on clinical assessment (36.1%). Our study showed that injury patterns among Egyptian professional soccer players vary significantly by playing position. While muscle/tendon and lower limb injuries are common overall, the 4 positions exhibit distinct anthropometric, injury mechanism, site, severity, and diagnostic profiles. These findings recommend position-specific injury prevention and rehabilitation in Egyptian professional soccer.",
+   "doi": "10.1177/23259671261464701",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42553458/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
