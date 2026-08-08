@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T14:36:09+00:00",
+ "generated": "2026-08-08T14:15:55+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,119 +65,32 @@
   }
  ],
  "counts": {
-  "total": 88,
-  "new": 7,
-  "research": 29,
-  "fieldnotes": 59
+  "total": 89,
+  "new": 2,
+  "research": 31,
+  "fieldnotes": 58
  },
  "records": [
   {
-   "pmid": "42564466",
-   "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
-   "journal": "Wearable Technol",
+   "pmid": "42568072",
+   "title": "Anterior cruciate ligament rupture during a cognitively demanding change-of-direction task in football: biomechanical insights from a laboratory injury.",
+   "journal": "BMC Musculoskelet Disord",
    "year": "2026",
    "authors": [
-    "Li K",
-    "Yang Z",
-    "Wang H",
-    "Ye X",
+    "Gehring D",
+    "Ebner C",
+    "Di Paolo S",
+    "Della Villa F",
     "et al."
    ],
-   "abstract": "Passive exoskeletons offer several advantages, including lightweight design, simple structure, and inherent energy efficiency. Most existing passive exoskeletons rely on clutch mechanisms to control spring-based energy storage and release, typically focusing only on recovering biomechanical energy during the stance phase of gait. In this study, we propose and analyze a lightweight passive ankle exoskeleton capable of harvesting and releasing energy during both the stance and swing phases of walking. The device aims to enhance gait assistance while maintaining structural simplicity and minimizing weight. By integrating the optimal stiffness ratio between the stance and swing phases, derived from musculoskeletal model simulations, with previously established optimal stance-phase stiffness parameters, we determined a suitable stiffness coefficient for the swing-phase spring. To validate the design, we conducted comparative experiments on participants walking with exoskeletons configured with different stiffness coefficients. Spatiotemporal parameters, metabolic energy cost, and muscle activation patterns were analyzed to evaluate performance. The results demonstrate that the proposed exoskeleton effectively reduces Soleus muscle activation while increasing tibialis anterior activity, leading to a 6.84% reduction in walking energy cost compared to a nonassistive condition. Furthermore, energy recovery during the swing phase alone contributes an additional 1.67% reduction in energy expenditure, improving overall walking efficiency. The proposed design also eliminates complex clutch components, significantly simplifying manufacturing and reducing costs, thereby enhancing the applicability of passive exoskeletons in daily mobility and rehabilitation scenarios.",
-   "doi": "10.1017/wtc.2026.10046",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42564466/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42554668",
-   "title": "Case study evaluation of stability and mobility in a length-actuated transfemoral prosthesis.",
-   "journal": "Prosthet Orthot Int",
-   "year": "2026",
-   "authors": [
-    "Parr TE",
-    "Lv G",
-    "Hippensteal A",
-    "Pitts C",
-    "et al."
-   ],
-   "abstract": "Unilateral transfemoral prosthesis users experience increased gait compensations, possibly because of their inability to produce sufficient knee flexion resistance during stance, ankle plantar flexion for forward progression, and leg shortening for toe clearance. This case study evaluates a novel kneeless prosthesis with powered length actuation (lengthening for push-off and shortening for toe clearance), which was hypothesized to result in greater stability, easier toe clearance, and assisted-forward progression, toward improving compensatory mechanisms of prosthesis users. Two persons with unilateral transfemoral amputation walked with both their habitual devices and the length-actuated prosthesis. Quantitative metrics of knee stability (thigh velocity and hip flexion/extension moment), mobility (ankle power, pelvis obliquity, hip abduction, toe clearance) and qualitative rankings were collected for both devices. Stability-related results showed increased confidence in the length-actuated prosthesis' knee buckling avoidance with decreased prosthetic-side early stance hip extension and swing hip flexion angle/velocity. Mobility-related metrics showed decreased confidence in the length-actuated prosthesis' toe clearance with increased frontal plane compensations and push-off ankle power (vaulting). Although both participants were encouraging of the overall concept, the user with higher mobility and a microprocessor knee preferred his own device, whereas the user with lower mobility and a passive knee preferred the length-actuated prosthesis. Both users had increased confidence (and decreased compensations) in knee stability during stance but continued to have compensations during swing to ease toe clearance. The device received positive feedback and was well received by the participant with a more recent amputation, knee buckling difficulty, and lower mobility level.",
-   "doi": "10.1097/PXR.0000000000000557",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42554668/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42555525",
-   "title": "Chronic Ankle Instability and Low Back Pain: A Narrative Review With a Conceptual Framework Linking Distal and Proximal Sensorimotor Dysfunction.",
-   "journal": "Physiother Res Int",
-   "year": "2026",
-   "authors": [
-    "Abdallah EA",
-    "Elshinnawy AM",
-    "Abdelhaleem MD"
-   ],
-   "abstract": "Chronic ankle instability and chronic low back pain are highly prevalent in musculoskeletal conditions. Emerging evidence suggests that they are interconnected through shared biomechanical, neuromuscular, and neurophysiological mechanisms, where deficits in proprioception, postural control, and load distribution contribute to persistent dysfunction across the kinetic chain. This study employed a narrative review with a conceptual framework, incorporating evidence from biomechanical, neuromuscular, and neurophysiological studies found through targeted database searches (PubMed, Scopus, and Google Scholar 2019-2025). Findings were thematically analyzed to establish connections between distal and proximal dysfunction within the kinetic chain. A total of 23 studies were included. Overall, the evidence suggests consistent distal-to-proximal alterations in individuals with chronic ankle instability, including impaired ankle biomechanics, compensatory lumbopelvic movement patterns, and deficits in proprioception and neuromuscular control. Emerging findings also indicate neurophysiological adaptations affecting sensorimotor integration. Collectively, these findings suggest a potential association between chronic ankle instability and chronic low back pain. Chronic ankle instability and chronic low back pain may coexist within a functionally interconnected kinetic system. Recognizing their potential interdependence supports a model of multi-segmental stability and highlights the importance of combined ankle-core rehabilitation strategies.",
-   "doi": "10.1002/pri.70307",
+   "abstract": "In laboratory-based injury risk assessments, there is always a small and not entirely avoidable risk of injury to participants. This case report describes an anterior cruciate ligament (ACL) re-rupture of a female participant during the approach run of a stimulus-response change-of-direction (COD) task. Marker-based kinematic data from the injury trial were compared with 14 successful trials of the same participant. These trials included unanticipated CODs in response to an opponent's kicking action with varying cognitive demands, including one trial under identical high-demand conditions involving a feint. The participant approached at a speed of 4.08\u00a0m/s and the feint was initiated 475 ms before the injury step. The injury trial differed from the non-injury trials in terms of a markedly prolonged flight phase preceding initial contact in combination with deviations in lower-limb and trunk kinematics during the flight phase and the step before. These deviations exceeded the participant's typical movement range observed during the non-injury trials and included temporally pre-shifted flexion-extension patterns at the knee and hip, a more extended trunk at initial contact, an altered pelvic drop, and reduced ankle inversion. During the injury stance phase, pronounced hip adduction, knee abduction and ankle eversion were observed. The findings substantiate previously theorized mechanisms of non-contact ACL injury and show in a within-subject comparison that critical proximal and distal kinematic deviations at the trunk and lower limbs arise already during the preparatory phase. The occurrence after an opponent's feint further suggests and highlights the importance of a neurocognitive contribution for ACL injuries. The study protocol was preregistered on Open Science Framework ( https://doi.org/10.17605/OSF.IO/4Z5R8 ).",
+   "doi": "10.1186/s12891-026-10338-6",
    "pubtypes": [
     "Journal Article",
-    "Review"
+    "Case Reports"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42568072/",
    "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42561756",
-   "title": "From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.",
-   "journal": "Phys Ther Sport",
-   "year": "2026",
-   "authors": [
-    "Wang Z",
-    "Wang P",
-    "Wang T",
-    "Xuan B",
-    "et al."
-   ],
-   "abstract": "To compare lower limb biomechanics during single-leg drop landings between individuals with low (2-4/year) and high (\u22655/year) chronic ankle instability (CAI) recurrence frequencies. Cross-sectional study. Biomechanics laboratory. Sixty males with unilateral CAI, stratified into High-CAI (n\u202f=\u202f30) and Low-CAI (n\u202f=\u202f30) groups. Peak vertical ground reaction force (vGRF), time to peak vGRF, vertical loading rate (LR), leg stiffness, and lower extremity kinematics. High-CAI participants demonstrated greater peak vGRF, shorter time to peak vGRF, higher LR, and greater hip flexion, hip abduction, and ankle inversion at initial contact than the Low-CAI group (all p\u202f\u2264\u202f0.048; \u03b7p2\u202f=\u202f0.066-0.275). Group\u202f\u00d7\u202fside interactions occurred for knee flexion, ankle inversion, and LR (p\u202f=\u202f0.005-0.033; \u03b7p2\u202f=\u202f0.076-0.128). Simple-effects analyses showed the unstable side of the Low-CAI group exhibited less knee flexion than its stable side, whereas the unstable side of the High-CAI group exhibited greater ankle inversion and LR than both the unstable side of the Low-CAI group and its stable side (all p\u202f\u2264\u202f0.040; d\u202f=\u202f0.350-1.221). High-frequency CAI recurrence (\u22655 times/year) induces a maladaptive landing strategy with altered proximal compensations and impaired shock absorption. Frequency-based stratification is essential for optimizing management.",
-   "doi": "10.1016/j.ptsp.2026.101972",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42561756/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
@@ -188,87 +101,32 @@
    "bucket": "research"
   },
   {
-   "pmid": "42559571",
-   "title": "Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation.",
-   "journal": "Measurement (Lond)",
+   "pmid": "42565735",
+   "title": "Sex Dominates Task Anticipation in Shaping 90\u00b0 Sidestep Cutting Biomechanics: Evidence for a Proximal-to-Distal Cascade.",
+   "journal": "Sports Health",
    "year": "2026",
    "authors": [
-    "Lim H",
-    "Lee J",
-    "Save OM",
-    "Lee H",
+    "AminiAghdam S",
+    "Nijmeijer E",
+    "Scharbert J",
+    "Woergoetter S",
     "et al."
    ],
-   "abstract": "Wearable sensor-based gait analysis has broad applicability across healthcare, rehabilitation, and injury prevention. Ground reaction force (GRF) provides key insight into human-ground interactions but is typically measured with instrumented treadmills and force plates that are costly and confined to laboratory settings. Insole sensors offer a portable alternative, but their sensings are often noisy and susceptible to environmental interference. Deep learning can mitigate these issues, but high accuracy usually demands substantial compute, hindering real-time and on-device utilization. With these, knowledge distillation can be adopted as a promising solution to generate a compact model. However, many feature- and relation-based distillation methods compute teacher-student relations using fixed similarity or metric operators, such as inner products and Euclidean distances. directly on intermediate representations. Although these have been widely used in feature matching, they do not explicitly learn a shared nonlinear feature geometry in which teacher and student relations are compared. This can also be limiting when the teacher and student have different capacities, channel widths, and representation distributions. To address these issues, we propose Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation, GFKD. During distillation, intermediate features from the teacher and student are leveraged in a teacher-student shared assistant module (TSM) that operates a shared intermediate alignment between their representations. TSM computes nonlinear geometric relations and encourages the student to capture them, providing geometry-aware supervision instead of general direct feature matching. In our experiments, students distilled by GFKD outperforms recent baselines for GRF estimation, showing the robustness of the proposed method in both accuracy as well as resource-efficiency.",
-   "doi": "10.1016/j.measurement.2026.122341",
+   "abstract": "Sidestep cutting (SSC) is used widely to examine surrogate markers of anterior cruciate ligament (ACL) loading, but the combined influence of sex and task anticipation (anticipated vs unanticipated) on whole-body biomechanics during 90\u00b0 cutting remains unclear. It was hypothesized that sex and task anticipation would exert distinct and interactive effects on trunk, pelvic, and lower-limb biomechanics during 90\u00b0 cutting, with sex exerting the dominant influence. Controlled laboratory study. Level 3. A total of 44 competitive amateur athletes (20 women, 24 men) performed anticipated and unanticipated 90\u00b0 sidestep cuts. Whole-body 3-dimensional kinematics and lower-limb kinetics were captured. Statistical parametric mapping tested main and interactive effects of sex and task anticipation across stance (P\u2009<\u20090.05). No sex\u2009\u00d7\u2009task anticipation interactions emerged. Sex main effects spanned all variables and longer stance periods, whereas task anticipation main effects involved fewer variables and shorter intervals. Men demonstrated greater trunk and knee flexion and larger early-stance net knee flexion, varus, and external-rotation knee moments, whereas women showed a more upright trunk and pelvis with less hip and knee flexion and greater knee abduction (valgus) angles. Unanticipated cuts elicited short, phase-specific changes, including early trunk lean and reduced pelvic mobility, mid-stance hip and knee moment modulation, and late-stance ankle inversion and internal rotation changes, and attenuated braking forces. Sex was the dominant determinant of 90\u00b0 SSC kinematics, joint moments, and ground-reaction forces, with effects spanning longer stance intervals than the phase-ordered proximal-to-distal differences between anticipated and unanticipated cuts, reinforcing the value of whole-body, multiplanar whole-stance interpretation. Given larger and more sustained sex effects, sex-specific benchmarking may aid interpretation and individualization. Progressive exposure to unanticipated 90\u00b0 cutting - building from planned, lower-demand conditions - may emphasize coordinated, multiplanar control across stance.",
+   "doi": "10.1177/19417381261463632",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42559571/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42565735/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42562366",
-   "title": "Prediction of Running Anteroposterior Ground Reaction Force From the Vertical Component Through a Deep Learning Approach.",
-   "journal": "J Appl Biomech",
-   "year": "2026",
-   "authors": [
-    "Roinson R",
-    "Karamanoukian A",
-    "Boucher JP",
-    "Vignais N"
-   ],
-   "abstract": "Studying ground reaction force (GRF) is essential for in situ running analysis, as they provide critical insights into both performance optimization and the etiology of running-related injuries. However, the use of current measurement systems in ecological or field conditions remains limited: their restricted measurement areas constrain data collection to only a few steps, and their high cost hinders widespread adoption. Recently, a size-adjustable instrumented track has been developed to measure the vertical component of GRF outside the laboratory environment. Building on this advancement, the present study aims to develop a neural network approach for predicting the anteroposterior component from the measured vertical component and to evaluate the impact of prediction errors on joint kinetics. A public data set comprising 9500 running steps was used to train, validate, and test the prediction model. The results demonstrated that a convolutional neural network can accurately predict the anteroposterior component of the GRF (relative root mean square error = 7.44%). While these anteroposterior-GRF prediction errors had only a minor impact on ankle moment calculations, estimates at the knee and hip were more substantially affected. These findings suggest that the proposed model may be effectively applied in conjunction with the size-adjustable instrumented track.",
-   "doi": "10.1123/jab.2025-0313",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42562366/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42562204",
-   "title": "Sensor-Based Gait Recovery Analysis After Total Hip and Knee Arthroplasty: A One-Year Follow-Up Study Integrating Muscle Strength and Patient-Reported Outcomes.",
-   "journal": "J Arthroplasty",
-   "year": "2026",
-   "authors": [
-    "Chen WC",
-    "Wang CL",
-    "Lee SH",
-    "Peng SH",
-    "et al."
-   ],
-   "abstract": "Functional recovery after total joint arthroplasty (TJA) is multifactorial. This study aimed to characterize the one-year recovery trajectory in elderly patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA) by integrating objective gait analysis, muscle strength assessment, and patient-reported outcome measures (PROMs). In this prospective cohort study, 84 patients (THA: 36, TKA: 48; age \u2265 70 years) with Kellgren-Lawrence (K-L) grades III or IV osteoarthritis were evaluated pre-operatively and at two weeks and one, three, six, and 12 months post-surgery. Spatiotemporal gait parameters were collected using foot-mounted inertial sensors. Isokinetic dynamometry measured hip abductor (THA) or quadriceps muscle (TKA) strength. The PROMs, including the Hip Disability and Osteoarthritis Outcome Score for Joint Replacement (HOOS-JR) and the Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR), were collected at all time points. Correlation and regression analyses were performed to identify predictors of recovery. The TKA patients demonstrated significant and persistent gait asymmetry up to three months, which normalized by six months. The THA recovery was more symmetrical, with only transient asymmetry at one month. Pre-operative muscle strength was the strongest predictor of 12-month gait speed (\u03b2 = 0.42, P < 0.001), while radiographic severity (K-L grade III versus IV) did not significantly predict functional gait recovery (P = 0.38). By 12 months, both groups approached normative values for gait and strength, with 94.0% of THA and 92.0% of TKA patients achieving the patient acceptable symptom state (PASS). Muscle strength, rather than radiographic severity, is the critical determinant of functional gait recovery after TJA in the elderly. Pre-operative muscle strength assessment should be incorporated into surgical planning to guide personalized post-operative rehabilitation strategies. Future prospective randomized trials incorporating pre-operative gait analysis and intervention arms are warranted to establish causal relationships.",
-   "doi": "10.1016/j.arth.2026.05.038",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42562204/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42524706",
@@ -293,6 +151,34 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42564466",
+   "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
+   "journal": "Wearable Technol",
+   "year": "2026",
+   "authors": [
+    "Li K",
+    "Yang Z",
+    "Wang H",
+    "Ye X",
+    "et al."
+   ],
+   "abstract": "Passive exoskeletons offer several advantages, including lightweight design, simple structure, and inherent energy efficiency. Most existing passive exoskeletons rely on clutch mechanisms to control spring-based energy storage and release, typically focusing only on recovering biomechanical energy during the stance phase of gait. In this study, we propose and analyze a lightweight passive ankle exoskeleton capable of harvesting and releasing energy during both the stance and swing phases of walking. The device aims to enhance gait assistance while maintaining structural simplicity and minimizing weight. By integrating the optimal stiffness ratio between the stance and swing phases, derived from musculoskeletal model simulations, with previously established optimal stance-phase stiffness parameters, we determined a suitable stiffness coefficient for the swing-phase spring. To validate the design, we conducted comparative experiments on participants walking with exoskeletons configured with different stiffness coefficients. Spatiotemporal parameters, metabolic energy cost, and muscle activation patterns were analyzed to evaluate performance. The results demonstrate that the proposed exoskeleton effectively reduces Soleus muscle activation while increasing tibialis anterior activity, leading to a 6.84% reduction in walking energy cost compared to a nonassistive condition. Furthermore, energy recovery during the swing phase alone contributes an additional 1.67% reduction in energy expenditure, improving overall walking efficiency. The proposed design also eliminates complex clutch components, significantly simplifying manufacturing and reducing costs, thereby enhancing the applicability of passive exoskeletons in daily mobility and rehabilitation scenarios.",
+   "doi": "10.1017/wtc.2026.10046",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42564466/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -632,6 +518,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42554668",
+   "title": "Case study evaluation of stability and mobility in a length-actuated transfemoral prosthesis.",
+   "journal": "Prosthet Orthot Int",
+   "year": "2026",
+   "authors": [
+    "Parr TE",
+    "Lv G",
+    "Hippensteal A",
+    "Pitts C",
+    "et al."
+   ],
+   "abstract": "Unilateral transfemoral prosthesis users experience increased gait compensations, possibly because of their inability to produce sufficient knee flexion resistance during stance, ankle plantar flexion for forward progression, and leg shortening for toe clearance. This case study evaluates a novel kneeless prosthesis with powered length actuation (lengthening for push-off and shortening for toe clearance), which was hypothesized to result in greater stability, easier toe clearance, and assisted-forward progression, toward improving compensatory mechanisms of prosthesis users. Two persons with unilateral transfemoral amputation walked with both their habitual devices and the length-actuated prosthesis. Quantitative metrics of knee stability (thigh velocity and hip flexion/extension moment), mobility (ankle power, pelvis obliquity, hip abduction, toe clearance) and qualitative rankings were collected for both devices. Stability-related results showed increased confidence in the length-actuated prosthesis' knee buckling avoidance with decreased prosthetic-side early stance hip extension and swing hip flexion angle/velocity. Mobility-related metrics showed decreased confidence in the length-actuated prosthesis' toe clearance with increased frontal plane compensations and push-off ankle power (vaulting). Although both participants were encouraging of the overall concept, the user with higher mobility and a microprocessor knee preferred his own device, whereas the user with lower mobility and a passive knee preferred the length-actuated prosthesis. Both users had increased confidence (and decreased compensations) in knee stability during stance but continued to have compensations during swing to ease toe clearance. The device received positive feedback and was well received by the participant with a more recent amputation, knee buckling difficulty, and lower mobility level.",
+   "doi": "10.1097/PXR.0000000000000557",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42554668/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42537386",
    "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
    "journal": "J Biomech",
@@ -657,6 +571,33 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42555525",
+   "title": "Chronic Ankle Instability and Low Back Pain: A Narrative Review With a Conceptual Framework Linking Distal and Proximal Sensorimotor Dysfunction.",
+   "journal": "Physiother Res Int",
+   "year": "2026",
+   "authors": [
+    "Abdallah EA",
+    "Elshinnawy AM",
+    "Abdelhaleem MD"
+   ],
+   "abstract": "Chronic ankle instability and chronic low back pain are highly prevalent in musculoskeletal conditions. Emerging evidence suggests that they are interconnected through shared biomechanical, neuromuscular, and neurophysiological mechanisms, where deficits in proprioception, postural control, and load distribution contribute to persistent dysfunction across the kinetic chain. This study employed a narrative review with a conceptual framework, incorporating evidence from biomechanical, neuromuscular, and neurophysiological studies found through targeted database searches (PubMed, Scopus, and Google Scholar 2019-2025). Findings were thematically analyzed to establish connections between distal and proximal dysfunction within the kinetic chain. A total of 23 studies were included. Overall, the evidence suggests consistent distal-to-proximal alterations in individuals with chronic ankle instability, including impaired ankle biomechanics, compensatory lumbopelvic movement patterns, and deficits in proprioception and neuromuscular control. Emerging findings also indicate neurophysiological adaptations affecting sensorimotor integration. Collectively, these findings suggest a potential association between chronic ankle instability and chronic low back pain. Chronic ankle instability and chronic low back pain may coexist within a functionally interconnected kinetic system. Recognizing their potential interdependence supports a model of multi-segmental stability and highlights the importance of combined ankle-core rehabilitation strategies.",
+   "doi": "10.1002/pri.70307",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42421229",
@@ -1265,6 +1206,39 @@
    "bucket": "research"
   },
   {
+   "pmid": "42561756",
+   "title": "From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Wang Z",
+    "Wang P",
+    "Wang T",
+    "Xuan B",
+    "et al."
+   ],
+   "abstract": "To compare lower limb biomechanics during single-leg drop landings between individuals with low (2-4/year) and high (\u22655/year) chronic ankle instability (CAI) recurrence frequencies. Cross-sectional study. Biomechanics laboratory. Sixty males with unilateral CAI, stratified into High-CAI (n\u202f=\u202f30) and Low-CAI (n\u202f=\u202f30) groups. Peak vertical ground reaction force (vGRF), time to peak vGRF, vertical loading rate (LR), leg stiffness, and lower extremity kinematics. High-CAI participants demonstrated greater peak vGRF, shorter time to peak vGRF, higher LR, and greater hip flexion, hip abduction, and ankle inversion at initial contact than the Low-CAI group (all p\u202f\u2264\u202f0.048; \u03b7p2\u202f=\u202f0.066-0.275). Group\u202f\u00d7\u202fside interactions occurred for knee flexion, ankle inversion, and LR (p\u202f=\u202f0.005-0.033; \u03b7p2\u202f=\u202f0.076-0.128). Simple-effects analyses showed the unstable side of the Low-CAI group exhibited less knee flexion than its stable side, whereas the unstable side of the High-CAI group exhibited greater ankle inversion and LR than both the unstable side of the Low-CAI group and its stable side (all p\u202f\u2264\u202f0.040; d\u202f=\u202f0.350-1.221). High-frequency CAI recurrence (\u22655 times/year) induces a maladaptive landing strategy with altered proximal compensations and impaired shock absorption. Frequency-based stratification is essential for optimizing management.",
+   "doi": "10.1016/j.ptsp.2026.101972",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42561756/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42457031",
    "title": "Functional Outcomes and Return to Sport After Surgical Repair of Complete Proximal Hamstring Avulsions in Recreational Athletes: A Retrospective Case Series.",
    "journal": "J ISAKOS",
@@ -1321,24 +1295,23 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42414802",
-   "title": "Heatstroke Over the Past Decade: Risk Factors, Long-Term Health Consequences, and Preventive Measures.",
-   "journal": "J Gen Intern Med",
+   "pmid": "42559571",
+   "title": "Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation.",
+   "journal": "Measurement (Lond)",
    "year": "2026",
    "authors": [
-    "Wahid F",
-    "Ahmed S",
-    "Islam MT",
-    "Yadav A",
+    "Lim H",
+    "Lee J",
+    "Save OM",
+    "Lee H",
     "et al."
    ],
-   "abstract": "Heatstroke (HS) encompasses acute multi-organ dysfunction and increases susceptibility to subsequent heat-related conditions, making timely diagnosis and intervention critical. This systematic review aimed to identify risk factors and long-term health consequences, evaluate cooling methods for field interventions, and assess the accuracy of predictive technologies. A comprehensive search of five major databases (MEDLINE/PubMed, Embase, Web of Science, Scopus, and CINAHL) was conducted in May 2024 for peer-reviewed English studies published between January 2014 and May 2024. Eligibility criteria included populations diagnosed with classic or exertional heatstroke (EHS) and reports on clinical outcomes. Methodological quality was assessed using the JBI critical appraisal tools, and the certainty of the evidence was determined using the GRADE system. Results were synthesized narratively due to study heterogeneity. Out of 1346 identified records, 39 studies were included. Risk of Bias (RoB) assessment categorized 66.7% of studies as low RoB, 20.5% as moderate, and 12.8% as low/moderate. High-precision data confirm a bimodal age risk distribution: runners younger than 30 have a 5.5-fold higher incidence of EHS, while classic heatstroke peaks at\u2009\u2265\u200965; at\u2009\u2265\u200980\u00a0years, it is 4.45 per 100,000 (moderate certainty). Among comorbidities, neuropsychiatric disorders carried the highest independent risk (aOR 7.69; 95% CI 4.06-14.54; P\u2009<\u20090.01) (high certainty). Survivors face significant chronic risks, with strong associations found for acute myocardial infarction (aHR 7.43) and chronic kidney disease (aHR 4.35) (low certainty due to serious inconsistency/imprecision). Cold-water immersion (CWI) is the definitive gold standard (0.14-0.22\u00a0\u00b0C/min), achieving cooling rates that are mathematically five times faster than cold IV saline (0.039\u00a0\u00b0C/min; P\u2009<\u20090.01) (moderate certainty). Emerging machine learning models utilizing wearable sensors achieved a predictive AUC of 0.99, though clinical certainty is low due to small event samples and suspected publication bias. CWI is the gold standard treatment for rapidly reducing core temperature to prevent permanent organ damage. \"Cool first, transport second\" should be prioritized, with prevention targeted at young athletes and elderly populations with neuropsychiatric conditions. Future research is needed on predictive models in large clinical cohorts to translate laboratory validation into real-time prevention.",
-   "doi": "10.1007/s11606-026-10594-1",
+   "abstract": "Wearable sensor-based gait analysis has broad applicability across healthcare, rehabilitation, and injury prevention. Ground reaction force (GRF) provides key insight into human-ground interactions but is typically measured with instrumented treadmills and force plates that are costly and confined to laboratory settings. Insole sensors offer a portable alternative, but their sensings are often noisy and susceptible to environmental interference. Deep learning can mitigate these issues, but high accuracy usually demands substantial compute, hindering real-time and on-device utilization. With these, knowledge distillation can be adopted as a promising solution to generate a compact model. However, many feature- and relation-based distillation methods compute teacher-student relations using fixed similarity or metric operators, such as inner products and Euclidean distances. directly on intermediate representations. Although these have been widely used in feature matching, they do not explicitly learn a shared nonlinear feature geometry in which teacher and student relations are compared. This can also be limiting when the teacher and student have different capacities, channel widths, and representation distributions. To address these issues, we propose Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation, GFKD. During distillation, intermediate features from the teacher and student are leveraged in a teacher-student shared assistant module (TSM) that operates a shared intermediate alignment between their representations. TSM computes nonlinear geometric relations and encourages the student to capture them, providing geometry-aware supervision instead of general direct feature matching. In our experiments, students distilled by GFKD outperforms recent baselines for GRF estimation, showing the robustness of the proposed method in both accuracy as well as resource-efficiency.",
+   "doi": "10.1016/j.measurement.2026.122341",
    "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42414802/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42559571/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -1907,6 +1880,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42562366",
+   "title": "Prediction of Running Anteroposterior Ground Reaction Force From the Vertical Component Through a Deep Learning Approach.",
+   "journal": "J Appl Biomech",
+   "year": "2026",
+   "authors": [
+    "Roinson R",
+    "Karamanoukian A",
+    "Boucher JP",
+    "Vignais N"
+   ],
+   "abstract": "Studying ground reaction force (GRF) is essential for in situ running analysis, as they provide critical insights into both performance optimization and the etiology of running-related injuries. However, the use of current measurement systems in ecological or field conditions remains limited: their restricted measurement areas constrain data collection to only a few steps, and their high cost hinders widespread adoption. Recently, a size-adjustable instrumented track has been developed to measure the vertical component of GRF outside the laboratory environment. Building on this advancement, the present study aims to develop a neural network approach for predicting the anteroposterior component from the measured vertical component and to evaluate the impact of prediction errors on joint kinetics. A public data set comprising 9500 running steps was used to train, validate, and test the prediction model. The results demonstrated that a convolutional neural network can accurately predict the anteroposterior component of the GRF (relative root mean square error = 7.44%). While these anteroposterior-GRF prediction errors had only a minor impact on ankle moment calculations, estimates at the knee and hip were more substantially affected. These findings suggest that the proposed model may be effectively applied in conjunction with the size-adjustable instrumented track.",
+   "doi": "10.1123/jab.2025-0313",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42562366/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42483571",
    "title": "Preventive efficiency of neuromuscular training in reducing lower limb injuries among youth soccer athletes: a systematic review and meta-analysis of randomized controlled trials.",
    "journal": "Front Sports Act Living",
@@ -2149,6 +2149,34 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42562204",
+   "title": "Sensor-Based Gait Recovery Analysis After Total Hip and Knee Arthroplasty: A One-Year Follow-Up Study Integrating Muscle Strength and Patient-Reported Outcomes.",
+   "journal": "J Arthroplasty",
+   "year": "2026",
+   "authors": [
+    "Chen WC",
+    "Wang CL",
+    "Lee SH",
+    "Peng SH",
+    "et al."
+   ],
+   "abstract": "Functional recovery after total joint arthroplasty (TJA) is multifactorial. This study aimed to characterize the one-year recovery trajectory in elderly patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA) by integrating objective gait analysis, muscle strength assessment, and patient-reported outcome measures (PROMs). In this prospective cohort study, 84 patients (THA: 36, TKA: 48; age \u2265 70 years) with Kellgren-Lawrence (K-L) grades III or IV osteoarthritis were evaluated pre-operatively and at two weeks and one, three, six, and 12 months post-surgery. Spatiotemporal gait parameters were collected using foot-mounted inertial sensors. Isokinetic dynamometry measured hip abductor (THA) or quadriceps muscle (TKA) strength. The PROMs, including the Hip Disability and Osteoarthritis Outcome Score for Joint Replacement (HOOS-JR) and the Knee Injury and Osteoarthritis Outcome Score for Joint Replacement (KOOS-JR), were collected at all time points. Correlation and regression analyses were performed to identify predictors of recovery. The TKA patients demonstrated significant and persistent gait asymmetry up to three months, which normalized by six months. The THA recovery was more symmetrical, with only transient asymmetry at one month. Pre-operative muscle strength was the strongest predictor of 12-month gait speed (\u03b2 = 0.42, P < 0.001), while radiographic severity (K-L grade III versus IV) did not significantly predict functional gait recovery (P = 0.38). By 12 months, both groups approached normative values for gait and strength, with 94.0% of THA and 92.0% of TKA patients achieving the patient acceptable symptom state (PASS). Muscle strength, rather than radiographic severity, is the critical determinant of functional gait recovery after TJA in the elderly. Pre-operative muscle strength assessment should be incorporated into surgical planning to guide personalized post-operative rehabilitation strategies. Future prospective randomized trials incorporating pre-operative gait analysis and intervention arms are warranted to establish causal relationships.",
+   "doi": "10.1016/j.arth.2026.05.038",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42562204/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],

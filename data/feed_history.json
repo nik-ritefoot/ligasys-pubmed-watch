@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42568072",
+  "title": "Anterior cruciate ligament rupture during a cognitively demanding change-of-direction task in football: biomechanical insights from a laboratory injury.",
+  "journal": "BMC Musculoskelet Disord",
+  "year": "2026",
+  "authors": [
+   "Gehring D",
+   "Ebner C",
+   "Di Paolo S",
+   "Della Villa F",
+   "et al."
+  ],
+  "abstract": "In laboratory-based injury risk assessments, there is always a small and not entirely avoidable risk of injury to participants. This case report describes an anterior cruciate ligament (ACL) re-rupture of a female participant during the approach run of a stimulus-response change-of-direction (COD) task. Marker-based kinematic data from the injury trial were compared with 14 successful trials of the same participant. These trials included unanticipated CODs in response to an opponent's kicking action with varying cognitive demands, including one trial under identical high-demand conditions involving a feint. The participant approached at a speed of 4.08\u00a0m/s and the feint was initiated 475 ms before the injury step. The injury trial differed from the non-injury trials in terms of a markedly prolonged flight phase preceding initial contact in combination with deviations in lower-limb and trunk kinematics during the flight phase and the step before. These deviations exceeded the participant's typical movement range observed during the non-injury trials and included temporally pre-shifted flexion-extension patterns at the knee and hip, a more extended trunk at initial contact, an altered pelvic drop, and reduced ankle inversion. During the injury stance phase, pronounced hip adduction, knee abduction and ankle eversion were observed. The findings substantiate previously theorized mechanisms of non-contact ACL injury and show in a within-subject comparison that critical proximal and distal kinematic deviations at the trunk and lower limbs arise already during the preparatory phase. The occurrence after an opponent's feint further suggests and highlights the importance of a neurocognitive contribution for ACL injuries. The study protocol was preregistered on Open Science Framework ( https://doi.org/10.17605/OSF.IO/4Z5R8 ).",
+  "doi": "10.1186/s12891-026-10338-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42568072/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-08T14:15:55Z"
+ },
+ {
+  "pmid": "42565735",
+  "title": "Sex Dominates Task Anticipation in Shaping 90\u00b0 Sidestep Cutting Biomechanics: Evidence for a Proximal-to-Distal Cascade.",
+  "journal": "Sports Health",
+  "year": "2026",
+  "authors": [
+   "AminiAghdam S",
+   "Nijmeijer E",
+   "Scharbert J",
+   "Woergoetter S",
+   "et al."
+  ],
+  "abstract": "Sidestep cutting (SSC) is used widely to examine surrogate markers of anterior cruciate ligament (ACL) loading, but the combined influence of sex and task anticipation (anticipated vs unanticipated) on whole-body biomechanics during 90\u00b0 cutting remains unclear. It was hypothesized that sex and task anticipation would exert distinct and interactive effects on trunk, pelvic, and lower-limb biomechanics during 90\u00b0 cutting, with sex exerting the dominant influence. Controlled laboratory study. Level 3. A total of 44 competitive amateur athletes (20 women, 24 men) performed anticipated and unanticipated 90\u00b0 sidestep cuts. Whole-body 3-dimensional kinematics and lower-limb kinetics were captured. Statistical parametric mapping tested main and interactive effects of sex and task anticipation across stance (P\u2009<\u20090.05). No sex\u2009\u00d7\u2009task anticipation interactions emerged. Sex main effects spanned all variables and longer stance periods, whereas task anticipation main effects involved fewer variables and shorter intervals. Men demonstrated greater trunk and knee flexion and larger early-stance net knee flexion, varus, and external-rotation knee moments, whereas women showed a more upright trunk and pelvis with less hip and knee flexion and greater knee abduction (valgus) angles. Unanticipated cuts elicited short, phase-specific changes, including early trunk lean and reduced pelvic mobility, mid-stance hip and knee moment modulation, and late-stance ankle inversion and internal rotation changes, and attenuated braking forces. Sex was the dominant determinant of 90\u00b0 SSC kinematics, joint moments, and ground-reaction forces, with effects spanning longer stance intervals than the phase-ordered proximal-to-distal differences between anticipated and unanticipated cuts, reinforcing the value of whole-body, multiplanar whole-stance interpretation. Given larger and more sustained sex effects, sex-specific benchmarking may aid interpretation and individualization. Progressive exposure to unanticipated 90\u00b0 cutting - building from planned, lower-demand conditions - may emphasize coordinated, multiplanar control across stance.",
+  "doi": "10.1177/19417381261463632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42565735/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-08T14:15:55Z"
+ },
+ {
   "pmid": "42564466",
   "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
   "journal": "Wearable Technol",
