@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom" rel="self"/>
-  <updated>2026-08-08T14:15:55Z</updated>
+  <updated>2026-08-09T14:17:39Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.</title>
+    <id>urn:pmid:42568778</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42568778/" rel="alternate"/>
+    <updated>2026-08-09T14:17:39Z</updated>
+    <published>2026-08-09T14:17:39Z</published>
+    <author><name>Riesenberg J</name></author><author><name>Emerson H</name></author><author><name>Ulman S</name></author><author><name>Erdman AL</name></author><author><name>et al.</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Riesenberg J, Emerson H, Ulman S, Erdman AL, et al. · Orthop J Sports Med · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Patients with patellofemoral instability (PFI) often demonstrate altered movement patterns and strength deficits. The vastus medialis plays an important role in patellar stabilization as a dynamic medial force vector on the patella. It was hypothesized that limb-to-limb asymmetries in muscle activity would be present preoperatively and at the time of return to sport (RTS). Cross-sectional study; Level of evidence, 3. A total of 25 adolescents with unilaterally treated PFI were evaluated before arthroscopic assisted medial patellofemoral ligament reconstruction with an allograft. A separate group of 16 patients with PFI were examined for RTS clearance. All participants completed an unweighted squat task in a motion capture laboratory. Surface electromyography sensors were placed on the rectus femoris, vastus medialis, semitendinosus, tibialis anterior, and gastrocnemius. Electromyography data were filtered and rectified, and a linear envelope was created. Peak activity of each muscle was analyzed. The Wilcoxon signed-rank test was used to compare muscle activity between limbs (α = 0.05). Preoperatively, peak rectus femoris activity of the involved limb was 40% less than that of the contralateral limb (P = .006). At the time of RTS, peak vastus medialis activity was 73% less in the involved limb than in the contralateral limb (P = .001). A preoperative reduction in rectus femoris activity of the involved limb indicated that there might be compensations in movement patterns among those with PFI. At the time of RTS after medial patellofemoral ligament reconstruction, vastus medialis discrepancies suggested that there might be a muscle imbalance after surgery and continue through physical therapy. A greater emphasis on vastus medialis training may prove beneficial during the rehabilitation process and help to prevent the reduction in activity observed at the time of RTS.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1177/23259671261466476&quot;&gt;10.1177/23259671261466476&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42568778/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Anterior cruciate ligament rupture during a cognitively demanding change-of-direction task in football: biomechanical insights from a laboratory injury.</title>
     <id>urn:pmid:42568072</id>

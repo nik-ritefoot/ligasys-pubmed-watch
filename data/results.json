@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T14:15:55+00:00",
+ "generated": "2026-08-09T14:17:39+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,68 +65,39 @@
   }
  ],
  "counts": {
-  "total": 89,
-  "new": 2,
-  "research": 31,
-  "fieldnotes": 58
+  "total": 83,
+  "new": 1,
+  "research": 29,
+  "fieldnotes": 54
  },
  "records": [
   {
-   "pmid": "42568072",
-   "title": "Anterior cruciate ligament rupture during a cognitively demanding change-of-direction task in football: biomechanical insights from a laboratory injury.",
-   "journal": "BMC Musculoskelet Disord",
+   "pmid": "42568778",
+   "title": "Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.",
+   "journal": "Orthop J Sports Med",
    "year": "2026",
    "authors": [
-    "Gehring D",
-    "Ebner C",
-    "Di Paolo S",
-    "Della Villa F",
+    "Riesenberg J",
+    "Emerson H",
+    "Ulman S",
+    "Erdman AL",
     "et al."
    ],
-   "abstract": "In laboratory-based injury risk assessments, there is always a small and not entirely avoidable risk of injury to participants. This case report describes an anterior cruciate ligament (ACL) re-rupture of a female participant during the approach run of a stimulus-response change-of-direction (COD) task. Marker-based kinematic data from the injury trial were compared with 14 successful trials of the same participant. These trials included unanticipated CODs in response to an opponent's kicking action with varying cognitive demands, including one trial under identical high-demand conditions involving a feint. The participant approached at a speed of 4.08\u00a0m/s and the feint was initiated 475 ms before the injury step. The injury trial differed from the non-injury trials in terms of a markedly prolonged flight phase preceding initial contact in combination with deviations in lower-limb and trunk kinematics during the flight phase and the step before. These deviations exceeded the participant's typical movement range observed during the non-injury trials and included temporally pre-shifted flexion-extension patterns at the knee and hip, a more extended trunk at initial contact, an altered pelvic drop, and reduced ankle inversion. During the injury stance phase, pronounced hip adduction, knee abduction and ankle eversion were observed. The findings substantiate previously theorized mechanisms of non-contact ACL injury and show in a within-subject comparison that critical proximal and distal kinematic deviations at the trunk and lower limbs arise already during the preparatory phase. The occurrence after an opponent's feint further suggests and highlights the importance of a neurocognitive contribution for ACL injuries. The study protocol was preregistered on Open Science Framework ( https://doi.org/10.17605/OSF.IO/4Z5R8 ).",
-   "doi": "10.1186/s12891-026-10338-6",
-   "pubtypes": [
-    "Journal Article",
-    "Case Reports"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42568072/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42565735",
-   "title": "Sex Dominates Task Anticipation in Shaping 90\u00b0 Sidestep Cutting Biomechanics: Evidence for a Proximal-to-Distal Cascade.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "AminiAghdam S",
-    "Nijmeijer E",
-    "Scharbert J",
-    "Woergoetter S",
-    "et al."
-   ],
-   "abstract": "Sidestep cutting (SSC) is used widely to examine surrogate markers of anterior cruciate ligament (ACL) loading, but the combined influence of sex and task anticipation (anticipated vs unanticipated) on whole-body biomechanics during 90\u00b0 cutting remains unclear. It was hypothesized that sex and task anticipation would exert distinct and interactive effects on trunk, pelvic, and lower-limb biomechanics during 90\u00b0 cutting, with sex exerting the dominant influence. Controlled laboratory study. Level 3. A total of 44 competitive amateur athletes (20 women, 24 men) performed anticipated and unanticipated 90\u00b0 sidestep cuts. Whole-body 3-dimensional kinematics and lower-limb kinetics were captured. Statistical parametric mapping tested main and interactive effects of sex and task anticipation across stance (P\u2009<\u20090.05). No sex\u2009\u00d7\u2009task anticipation interactions emerged. Sex main effects spanned all variables and longer stance periods, whereas task anticipation main effects involved fewer variables and shorter intervals. Men demonstrated greater trunk and knee flexion and larger early-stance net knee flexion, varus, and external-rotation knee moments, whereas women showed a more upright trunk and pelvis with less hip and knee flexion and greater knee abduction (valgus) angles. Unanticipated cuts elicited short, phase-specific changes, including early trunk lean and reduced pelvic mobility, mid-stance hip and knee moment modulation, and late-stance ankle inversion and internal rotation changes, and attenuated braking forces. Sex was the dominant determinant of 90\u00b0 SSC kinematics, joint moments, and ground-reaction forces, with effects spanning longer stance intervals than the phase-ordered proximal-to-distal differences between anticipated and unanticipated cuts, reinforcing the value of whole-body, multiplanar whole-stance interpretation. Given larger and more sustained sex effects, sex-specific benchmarking may aid interpretation and individualization. Progressive exposure to unanticipated 90\u00b0 cutting - building from planned, lower-demand conditions - may emphasize coordinated, multiplanar control across stance.",
-   "doi": "10.1177/19417381261463632",
+   "abstract": "Patients with patellofemoral instability (PFI) often demonstrate altered movement patterns and strength deficits. The vastus medialis plays an important role in patellar stabilization as a dynamic medial force vector on the patella. It was hypothesized that limb-to-limb asymmetries in muscle activity would be present preoperatively and at the time of return to sport (RTS). Cross-sectional study; Level of evidence, 3. A total of 25 adolescents with unilaterally treated PFI were evaluated before arthroscopic assisted medial patellofemoral ligament reconstruction with an allograft. A separate group of 16 patients with PFI were examined for RTS clearance. All participants completed an unweighted squat task in a motion capture laboratory. Surface electromyography sensors were placed on the rectus femoris, vastus medialis, semitendinosus, tibialis anterior, and gastrocnemius. Electromyography data were filtered and rectified, and a linear envelope was created. Peak activity of each muscle was analyzed. The Wilcoxon signed-rank test was used to compare muscle activity between limbs (\u03b1 = 0.05). Preoperatively, peak rectus femoris activity of the involved limb was 40% less than that of the contralateral limb (P = .006). At the time of RTS, peak vastus medialis activity was 73% less in the involved limb than in the contralateral limb (P = .001). A preoperative reduction in rectus femoris activity of the involved limb indicated that there might be compensations in movement patterns among those with PFI. At the time of RTS after medial patellofemoral ligament reconstruction, vastus medialis discrepancies suggested that there might be a muscle imbalance after surgery and continue through physical therapy. A greater emphasis on vastus medialis training may prove beneficial during the rehabilitation process and help to prevent the reduction in activity observed at the time of RTS.",
+   "doi": "10.1177/23259671261466476",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42565735/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42568778/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
-   "bucket": "research"
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42524706",
@@ -268,31 +239,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42420437",
-   "title": "Active knee-ankle-foot orthosis with personalized knee trajectory compared with locked orthosis and multi-joint exoskeleton.",
-   "journal": "Sci Rep",
-   "year": "2026",
-   "authors": [
-    "Hosseinpour Malakouti S",
-    "Ozgoli S"
-   ],
-   "abstract": "Assistive walking devices after spinal cord injury (SCI) should balance functional gait assistance with practical usability. This study presents a user-priority-guided pathway that links a needs-assessment survey to minimal actuation in a knee-ankle-foot orthosis (active KAFO) and objective-driven personalization of knee motion. A retrofit prototype with a single powered knee joint was implemented to preserve the orthosis-like form factor while enabling personalized, impedance-controlled knee motion. Personalization was formulated in OpenSim as a kinematic optimization, where a low-dimensional knee-trajectory template was tuned using a sagittal foot-path objective, coordinate tracking, smoothness regularization, and feasibility constraints. The optimized trajectory was deployed during overground walking in one individual with SCI and compared within subject against a locked KAFO and a multi-joint exoskeleton. Relative to the locked condition, the personalized active-KAFO condition improved swing-phase outcomes, increasing step length by 38.6% and step height by 100.0%. It also reduced reliance on upper-limb support, with peak vertical walker force decreasing by 35.0%. Compared with the active KAFO, the exoskeleton showed similar step height (+\u20092.2%) and swing speed (-\u200910.2%), but greater limb progression, with step length increasing by 19.7%. These feasibility-level results support personalized, knee-focused actuation as an intermediate option between locked orthoses and multi-joint exoskeletons.",
-   "doi": "10.1038/s41598-026-60912-0",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42420437/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42543907",
    "title": "An Information-Driven Approach for the Early Health Technology Sustainability Assessment and the Frugal Design of the Internet of Medical Things: Exploratory Study of Wearable Activity Monitoring Devices.",
    "journal": "JMIR Mhealth Uhealth",
@@ -316,6 +262,35 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42568072",
+   "title": "Anterior cruciate ligament rupture during a cognitively demanding change-of-direction task in football: biomechanical insights from a laboratory injury.",
+   "journal": "BMC Musculoskelet Disord",
+   "year": "2026",
+   "authors": [
+    "Gehring D",
+    "Ebner C",
+    "Di Paolo S",
+    "Della Villa F",
+    "et al."
+   ],
+   "abstract": "In laboratory-based injury risk assessments, there is always a small and not entirely avoidable risk of injury to participants. This case report describes an anterior cruciate ligament (ACL) re-rupture of a female participant during the approach run of a stimulus-response change-of-direction (COD) task. Marker-based kinematic data from the injury trial were compared with 14 successful trials of the same participant. These trials included unanticipated CODs in response to an opponent's kicking action with varying cognitive demands, including one trial under identical high-demand conditions involving a feint. The participant approached at a speed of 4.08\u00a0m/s and the feint was initiated 475 ms before the injury step. The injury trial differed from the non-injury trials in terms of a markedly prolonged flight phase preceding initial contact in combination with deviations in lower-limb and trunk kinematics during the flight phase and the step before. These deviations exceeded the participant's typical movement range observed during the non-injury trials and included temporally pre-shifted flexion-extension patterns at the knee and hip, a more extended trunk at initial contact, an altered pelvic drop, and reduced ankle inversion. During the injury stance phase, pronounced hip adduction, knee abduction and ankle eversion were observed. The findings substantiate previously theorized mechanisms of non-contact ACL injury and show in a within-subject comparison that critical proximal and distal kinematic deviations at the trunk and lower limbs arise already during the preparatory phase. The occurrence after an opponent's feint further suggests and highlights the importance of a neurocognitive contribution for ACL injuries. The study protocol was preregistered on Open Science Framework ( https://doi.org/10.17605/OSF.IO/4Z5R8 ).",
+   "doi": "10.1186/s12891-026-10338-6",
+   "pubtypes": [
+    "Journal Article",
+    "Case Reports"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42568072/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42465963",
@@ -430,35 +405,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42420758",
-   "title": "Australian Research Related to Sporting and Musculoskeletal Injuries of the Foot and Ankle: A Bibliometric Analysis.",
-   "journal": "J Foot Ankle Res",
-   "year": "2026",
-   "authors": [
-    "Peterson B",
-    "Osborne J",
-    "Azhar AN",
-    "Carroll M",
-    "et al."
-   ],
-   "abstract": "There is growing research evidence related to musculoskeletal and sports podiatry published by Australian researchers. This short report presents data from the musculoskeletal and sports podiatry stream of a national bibliometric review which aimed to map all Australian podiatry-related research from 1970 to 2024. A systematic search of the literature was conducted via Scopus until December 2024. Studies were screened for eligibility using Covidence. Study meta-data was analysed using Biblioshiny to describe publications volume, authors, institutions, journals, and research collaborations. Via manual processes, each publication was categorised for: level of evidence using National Health and Medical Research Council criteria; research type using the United Kingdom Clinical Research Collaboration Health Research Classification System; and funding source, using Higher Education Research Data Collection specifications. The search strategy yielded 288 records published by 774 authors (19% international), with a total 12,593 citations, with 44.1 mean citations per article from 1991 to 2024 were included. A total of 65 articles (23%) were categorised as level I evidence. The British Journal of Sports Medicine and the Journal of Science and Medicine in Sport were equally the most frequent publication sources, publishing 23 (8%) articles respectively. Podiatry-related musculoskeletal and sports research is usually undertaken without dedicated funding (67%). The majority of published articles focussed on the evaluation of treatments and therapeutic interventions (36%) and on the aetiology of conditions (34%). The musculoskeletal and sports podiatry stream was the most widely researched, with the highest proportion of level I evidence among all streams of the national bibliometric review. Given the high burden of disease and adverse impacts on activities of daily living associated with musculoskeletal conditions, further attention in preventative care and the promotion of wellbeing in sports and musculoskeletal research would be beneficial.",
-   "doi": "10.1002/jfa2.70184",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42420758/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -589,33 +535,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42421229",
-   "title": "Chronic Pain Severity Modifies Gait Biomechanics and Muscle Activation in Individuals with Chronic Ankle Instability.",
-   "journal": "Med Sci Sports Exerc",
-   "year": "2026",
-   "authors": [
-    "Lee H",
-    "Oh M",
-    "Han S",
-    "Hopkins JT"
-   ],
-   "abstract": "To investigate differences in neuromechanics during walking between individuals with chronic ankle instability (CAI) reporting high and low chronic pain, and healthy controls, with a focus on stance-phase joint kinematics and muscle activation patterns. Sixty physically active participants were classified into three groups: CAI with high pain (n=20), CAI with low pain (n=20), and controls (n=20). Pain severity was determined using the Foot and Ankle Outcome Score pain subscale. Three-dimensional lower extremity kinematics and surface electromyography activation of six lower extremity muscles were recorded during overground walking at self-selected speed. Functional data analysis was used to identify stance-phase differences between groups. Relative to controls, both CAI groups exhibited reduced activation of the peroneus longus and gluteal muscles across multiple stance subphases, with more widespread reductions in the high pain group-particularly diminished tibialis anterior (0-15%), gluteus medius (15-45%), and gluteus maximus (0-20%, 30-50%). Compared with the low pain group, the high pain group demonstrated greater ankle dorsiflexion during midstance (20-45%), greater knee flexion in early stance (5-15%) and preswing (85-95%), and greater hip flexion throughout early stance (0-20%). Increased hip adduction occurred in midstance (30-50%). Individuals with CAI who report greater pain severity demonstrate distinct, time-specific gait deviations and greater neuromuscular inhibition, which may extend beyond the effects of instability alone. These findings highlight the potential role of pain in influencing gait adaptations in chronic ankle instability and underscore the importance of considering pain in the evaluation and rehabilitation of these individuals.",
-   "doi": "10.1249/MSS.0000000000004083",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42421229/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -1028,34 +947,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42421836",
-   "title": "Epidemiology of injuries in male under-19 futsal players competing in the highest national league in Spain.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Villanueva-Guerrero O",
-    "Travassos B",
-    "Lopes M",
-    "Albalad-Aiguabella R",
-    "et al."
-   ],
-   "abstract": "This study analyzed injury epidemiology and incidence in male youth futsal players competing in the top national category over a regular season. The aim was to quantify injury incidence, prevalence, and burden, and to describe injury distribution according to exposure (training vs. match), body region, injury type, severity, and playing position. A prospective cohort study was conducted during the 2023-2024 season in the Spanish Youth Division of Honour, the highest national Under-19 futsal league in Spain. The sample comprised 164 male players from 13 teams who were followed prospectively over a nine-month period. Injury data were recorded throughout the season, whereas training and match exposure were estimated based on the standard schedule of the participating teams. Playing position, dominant leg, injured body region, injury type, severity, and time-loss duration were also recorded. Injury incidence, prevalence, and burden were subsequently calculated. A total of 111 injuries were registered, affecting 79 players (48% of the cohort), resulting in an overall incidence of 4.96 injuries per 1,000\u2005hours of exposure. Match incidence (53.84/1,000\u2005h) was substantially higher than training incidence (1.94/1,000\u2005h). Most injuries involved the lower limbs (80.1%), particularly the ankle (23.4%) and knee (20.7%). Muscle/tendon (36.9%) and ligament (36.0%) injuries were the most frequent, and wingers sustained the highest number of injuries (n\u2009=\u200951). Median time loss was 16 days, while mean time loss reached approximately 36 days, and injury burden reached 176.5 days per 1,000\u2005hours. These findings indicated a considerable injury risk in this population, especially during matches, and supported the need for targeted prevention strategies focused on strength development, neuromuscular control, and load management.",
-   "doi": "10.3389/fspor.2026.1830511",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42421836/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42458962",
@@ -1524,34 +1415,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42423986",
-   "title": "Mobile robotic walker enables precision moderately intense exercise and environmental exploration in a child with cerebral palsy GMFCS IV: assessment of use, user experience and quantitative impact in a home and hospital based setting.",
-   "journal": "Disabil Rehabil Assist Technol",
-   "year": "2026",
-   "authors": [
-    "Alazem H",
-    "Friesen AH",
-    "Dennison T",
-    "Nizam A",
-    "et al."
-   ],
-   "abstract": "Investigating initial usage and tolerance of an untethered paediatric mobile Robotic Gait Trainer (RGT)within home and hospital settings, in a 5-year-old child with mixed tone spastic quadriplegic Cerebral Palsy, GMFCS IV. Secondary objectives included parent proxy and therapist qualitative feedback on RGT use. Single participant mixed-method observational case study to assess use of a paediatric mobile RGT over 6-weeks. Minimum goal was to complete 3-weekly 20-minute or longer training sessions, hospital or home-based. 7 hospital-based and 18 home-based sessions were completed with no adverse effects; each session was approximately 30-minutes regardless of setting. Average step counts in hospital and home sessions were 857 and 881, respectively. Mild heart rate elevation was achieved. Distance walked over 2\u2009min with a manual walker increased from 0.3\u2009m pre-intervention to 1.5\u2009m post-intervention. Total Spinal Alignment Range of Motion Measure (SAROMM) score improved significantly, decreasing from 42 to 30 with range improvement at the knees (-5), ankle (-5) and upper extremities (-4). A modest but clinically insignificant decrease in hip range (+2) was noted. MAS Hamstring spasticity score improved from 3, pre-intervention to 2 post intervention. Qualitative feedback included themes of ease of transfer in/out of the device, and comfortable use. Improvements to RGT functionality including independent steering were suggested. Potential for social integration and neuroplasticity were highlighted. In a single participant, a paediatric mobile robotic walker improved exercise participation with heart rate reaching moderate exercise ranges, high step counts in short sessions, and walking endurance and functional capacity.",
-   "doi": "10.1080/17483107.2026.2679619",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42423986/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42515231",
    "title": "Modified Gait Support in Adults Three to Eighteen Months After Concussion.",
    "journal": "Sensors (Basel)",
@@ -1736,32 +1599,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42422400",
-   "title": "Optimal Energy Shaping and Force Amplification Framework for Task-Agnostic, Biomimetic Ankle Exoskeletons.",
-   "journal": "IEEE Trans Robot",
-   "year": "2026",
-   "authors": [
-    "Walters K",
-    "Thomas GC",
-    "Gregg RD"
-   ],
-   "abstract": "Task-agnostic controllers for partial-assist lower-limb exoskeletons aim to reliably mimic biological torque while seamlessly adapting to changing movement patterns. However, current approaches relying on hidden state estimators or neural networks lack explainability and safety guarantees, while force amplification methods risk instability with an inherent trade-off between sensitivity and robustness to control inputs. Energy shaping control uses a kinematic model-based framework to provide predictable, stable assistance, though its traditional passive form limits biomimetic performance. Previous work relaxed the strict passivity requirements to improve biomimicry but reduced the stability guarantees. This paper presents an optimization-based extension of the energy-shaping control framework that combines the stability benefits of energy shaping with the intuitive biomimicry of force amplification. Our framework enables controlled trade-offs between sensitivity to changing human impedance and high performance through adjustable cost contributions of force amplification and model-based terms. We provide theoretical guarantees of closed-loop stability to an invariant set under human joint impedance control, supported by empirical validation of stability characteristics of an ankle exoskeleton under varying controller passivity constraints. A study of ten able-bodied participants using bilateral ankle exoskeletons demonstrates that the biomimetic controller reduced biological ankle torque by 19.1% across various activities of daily life.",
-   "doi": "10.1109/TRO.2026.3686250",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42422400/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -2184,6 +2021,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42565735",
+   "title": "Sex Dominates Task Anticipation in Shaping 90\u00b0 Sidestep Cutting Biomechanics: Evidence for a Proximal-to-Distal Cascade.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "AminiAghdam S",
+    "Nijmeijer E",
+    "Scharbert J",
+    "Woergoetter S",
+    "et al."
+   ],
+   "abstract": "Sidestep cutting (SSC) is used widely to examine surrogate markers of anterior cruciate ligament (ACL) loading, but the combined influence of sex and task anticipation (anticipated vs unanticipated) on whole-body biomechanics during 90\u00b0 cutting remains unclear. It was hypothesized that sex and task anticipation would exert distinct and interactive effects on trunk, pelvic, and lower-limb biomechanics during 90\u00b0 cutting, with sex exerting the dominant influence. Controlled laboratory study. Level 3. A total of 44 competitive amateur athletes (20 women, 24 men) performed anticipated and unanticipated 90\u00b0 sidestep cuts. Whole-body 3-dimensional kinematics and lower-limb kinetics were captured. Statistical parametric mapping tested main and interactive effects of sex and task anticipation across stance (P\u2009<\u20090.05). No sex\u2009\u00d7\u2009task anticipation interactions emerged. Sex main effects spanned all variables and longer stance periods, whereas task anticipation main effects involved fewer variables and shorter intervals. Men demonstrated greater trunk and knee flexion and larger early-stance net knee flexion, varus, and external-rotation knee moments, whereas women showed a more upright trunk and pelvis with less hip and knee flexion and greater knee abduction (valgus) angles. Unanticipated cuts elicited short, phase-specific changes, including early trunk lean and reduced pelvic mobility, mid-stance hip and knee moment modulation, and late-stance ankle inversion and internal rotation changes, and attenuated braking forces. Sex was the dominant determinant of 90\u00b0 SSC kinematics, joint moments, and ground-reaction forces, with effects spanning longer stance intervals than the phase-ordered proximal-to-distal differences between anticipated and unanticipated cuts, reinforcing the value of whole-body, multiplanar whole-stance interpretation. Given larger and more sustained sex effects, sex-specific benchmarking may aid interpretation and individualization. Progressive exposure to unanticipated 90\u00b0 cutting - building from planned, lower-demand conditions - may emphasize coordinated, multiplanar control across stance.",
+   "doi": "10.1177/19417381261463632",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42565735/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42468935",
    "title": "Sex-Moderated Effects of Soccer Cleat Stud Shape and Fatigue on Traction and Knee Joint Mechanics During Lateral Cutting.",
    "journal": "J Appl Biomech",
@@ -2480,34 +2345,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42421705",
-   "title": "The impact of physical-mental mixed fatigue on landing biomechanics inter-joint coordination and injury risk in elite American football players.",
-   "journal": "Front Psychol",
-   "year": "2026",
-   "authors": [
-    "Wang Z",
-    "Cui H",
-    "Lu J",
-    "Meng L",
-    "et al."
-   ],
-   "abstract": "This study aimed to investigate the effects of physical-mental mixed fatigue (PMF) on lower limb Biomechanics, Inter-joint Coordination and potential injury risk during landing task in elite American football players. Twelve male collegiate American football players were recruited. A randomized crossover controlled design was employed, wherein participants randomly completed baseline testing, physical fatigue (PF) intervention, and PMF intervention. PMF was induced utilizing a cycle ergometer protocol concurrently performed with a Stroop cognitive task. Kinematic and kinetic data during a landing task were synchronously collected using a Vicon motion capture system and force plates. Statistical comparisons were performed using repeated-measures analysis of variance. PMF specifically altered ankle joint kinematic patterns, manifested as a decreased ankle dorsiflexion angle (p\u202f<\u202f0.05) and an increased inversion angle (p\u202f<\u202f0.05) at the instant of peak vertical ground reaction force (vGRF), alongside an increased peak inversion angle throughout the landing cycle (p\u202f<\u202f0.05). However, neither PMF nor PF significantly affected hip or knee kinematics, joint range of motion (RoM), joint contribution strategy, lower limb coordination indices, or landing impact load indicators (p\u202f>\u202f0.05). The findings suggest that PMF specifically disrupts ankle biomechanics, potentially predisposing the joint to a posture that may be associated with higher injury risk. Nevertheless, highly trained athletes may utilize adaptive compensatory strategies developed through long-term training to maintain overall landing stability and impact load levels, thereby potentially offsetting the negative effects of PMF on neuromuscular control. When assessing injury risk associated with PMF, joint-level kinematic changes should be emphasized in addition to global indicators.",
-   "doi": "10.3389/fpsyg.2026.1778145",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42421705/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42483716",
