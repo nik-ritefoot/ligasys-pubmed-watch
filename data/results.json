@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T14:17:39+00:00",
+ "generated": "2026-08-10T14:40:42+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,40 +65,12 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 1,
-  "research": 29,
-  "fieldnotes": 54
+  "total": 80,
+  "new": 0,
+  "research": 27,
+  "fieldnotes": 53
  },
  "records": [
-  {
-   "pmid": "42568778",
-   "title": "Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Riesenberg J",
-    "Emerson H",
-    "Ulman S",
-    "Erdman AL",
-    "et al."
-   ],
-   "abstract": "Patients with patellofemoral instability (PFI) often demonstrate altered movement patterns and strength deficits. The vastus medialis plays an important role in patellar stabilization as a dynamic medial force vector on the patella. It was hypothesized that limb-to-limb asymmetries in muscle activity would be present preoperatively and at the time of return to sport (RTS). Cross-sectional study; Level of evidence, 3. A total of 25 adolescents with unilaterally treated PFI were evaluated before arthroscopic assisted medial patellofemoral ligament reconstruction with an allograft. A separate group of 16 patients with PFI were examined for RTS clearance. All participants completed an unweighted squat task in a motion capture laboratory. Surface electromyography sensors were placed on the rectus femoris, vastus medialis, semitendinosus, tibialis anterior, and gastrocnemius. Electromyography data were filtered and rectified, and a linear envelope was created. Peak activity of each muscle was analyzed. The Wilcoxon signed-rank test was used to compare muscle activity between limbs (\u03b1 = 0.05). Preoperatively, peak rectus femoris activity of the involved limb was 40% less than that of the contralateral limb (P = .006). At the time of RTS, peak vastus medialis activity was 73% less in the involved limb than in the contralateral limb (P = .001). A preoperative reduction in rectus femoris activity of the involved limb indicated that there might be compensations in movement patterns among those with PFI. At the time of RTS after medial patellofemoral ligament reconstruction, vastus medialis discrepancies suggested that there might be a muscle imbalance after surgery and continue through physical therapy. A greater emphasis on vastus medialis training may prove beneficial during the rehabilitation process and help to prevent the reduction in activity observed at the time of RTS.",
-   "doi": "10.1177/23259671261466476",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42568778/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42524706",
    "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
@@ -779,6 +751,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42568778",
+   "title": "Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Riesenberg J",
+    "Emerson H",
+    "Ulman S",
+    "Erdman AL",
+    "et al."
+   ],
+   "abstract": "Patients with patellofemoral instability (PFI) often demonstrate altered movement patterns and strength deficits. The vastus medialis plays an important role in patellar stabilization as a dynamic medial force vector on the patella. It was hypothesized that limb-to-limb asymmetries in muscle activity would be present preoperatively and at the time of return to sport (RTS). Cross-sectional study; Level of evidence, 3. A total of 25 adolescents with unilaterally treated PFI were evaluated before arthroscopic assisted medial patellofemoral ligament reconstruction with an allograft. A separate group of 16 patients with PFI were examined for RTS clearance. All participants completed an unweighted squat task in a motion capture laboratory. Surface electromyography sensors were placed on the rectus femoris, vastus medialis, semitendinosus, tibialis anterior, and gastrocnemius. Electromyography data were filtered and rectified, and a linear envelope was created. Peak activity of each muscle was analyzed. The Wilcoxon signed-rank test was used to compare muscle activity between limbs (\u03b1 = 0.05). Preoperatively, peak rectus femoris activity of the involved limb was 40% less than that of the contralateral limb (P = .006). At the time of RTS, peak vastus medialis activity was 73% less in the involved limb than in the contralateral limb (P = .001). A preoperative reduction in rectus femoris activity of the involved limb indicated that there might be compensations in movement patterns among those with PFI. At the time of RTS after medial patellofemoral ligament reconstruction, vastus medialis discrepancies suggested that there might be a muscle imbalance after surgery and continue through physical therapy. A greater emphasis on vastus medialis training may prove beneficial during the rehabilitation process and help to prevent the reduction in activity observed at the time of RTS.",
+   "doi": "10.1177/23259671261466476",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42568778/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42534807",
@@ -1494,35 +1494,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42426890",
-   "title": "Neuromuscular characteristics of individuals with chronic ankle instability during unilateral landing tasks: a meta-analysis of electromyographic studies.",
-   "journal": "J Orthop Surg Res",
-   "year": "2026",
-   "authors": [
-    "Poor MH",
-    "Rajabi R",
-    "Alizadeh MH",
-    "Zandi S",
-    "et al."
-   ],
-   "abstract": "Chronic ankle instability (CAI) is a prevalent consequence of lateral ankle sprain. Electromyographic (EMG) investigations examining neuromuscular control during unilateral landing tasks have produced inconsistent findings, particularly during the critical post-initialcontact (post-IC) phase. This systematic review and meta-analysis aimed to synthesize current evidence on post-IC muscle activation patterns in individuals with CAI during unilateral landing tasks. This PRISMA-compliant review (PROSPERO: CRD420261415793) searched PubMed, Scopus, and Web of Science from inception to June 2026. Cross-sectional studies comparing EMG activity between individuals with CAI and healthy controls during unilateral landing tasks were included. Study quality was assessed using Joanna Briggs Institute checklists; random-effects meta-analysis was performed with Comprehensive Meta-Analysis software, evaluating heterogeneity (I2, Q-test) and publication bias (Egger's test). Seventeen studies involving 757 participants met the inclusion criteria. Compared with healthy controls, individuals with CAI demonstrated significantly lower post-IC activation of the peroneus longus (p\u2009=\u20090.005), gluteus medius (p\u2009=\u20090.027), and biceps femoris (p\u2009=\u20090.010), alongside significantly greater activation of the soleus (p\u2009=\u20090.036) and rectus femoris (p\u2009=\u20090.013). No significant differences were observed for the tibialis anterior (p\u2009=\u20090.453), medial gastrocnemius (p\u2009=\u20090.552), or lateral gastrocnemius (p\u2009=\u20090.845). Substantial heterogeneity was identified for several muscles, particularly the peroneus longus, tibialis anterior, soleus, and rectus femoris (I2 = 76-90%). Subgroup analyses suggested potential sex-related differences in peroneus longus activation patterns. Individuals with CAI exhibit distinct neuromuscular alterations during the post-IC phase of unilateral landing tasks, characterized by reduced activation of key lateral ankle and proximal stabilizing muscles and increased activation of muscles associated with joint stiffening and impact attenuation. Rehabilitation strategies should extend beyond the ankle to target proximal muscle function and landing mechanics to optimize dynamic stability and reduce recurrent injury risk.",
-   "doi": "10.1186/s13018-026-07106-6",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42426890/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42515287",
    "title": "Non-Standardized Methods of Assessing Tibial Loads During Different Gait Speeds Obscures Load-Management Recommendations in Healthy Adults.",
    "journal": "Sensors (Basel)",
@@ -1880,34 +1851,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42429293",
-   "title": "Reduced Effective Postural Responses to External Perturbations in Chronic Ankle Instability.",
-   "journal": "Scand J Med Sci Sports",
-   "year": "2026",
-   "authors": [
-    "Xu X",
-    "Bowtell J",
-    "Young WR",
-    "Fong DTP",
-    "et al."
-   ],
-   "abstract": "Chronic ankle instability (CAI) is associated with postural control deficits due to altered postural strategy, particularly during transitions between postures (e.g., landing followed by immediate medial jump) and in response to sudden external perturbations. However, postural stability and the underpinning joint action remain unclear. This study aimed to identify differences in postural response to a mediolateral moving platform during single-leg stance between individuals with CAI and healthy controls (HC). Twenty-three CAI and 23 HC participants performed balance tasks during 1-s mediolateral perturbation. Ground reaction force and kinematic data were recorded, and margin of stability (MoS), and joint torques in the frontal plane were calculated for their first successful trial. The CAI group showed increased MoS during sudden changes in platform movement direction (p\u2009=\u20090.045) and the phase after platform stop (p\u2009=\u20090.033) compared to the HC, suggesting a less effective postural response to external perturbations. These findings suggest a less stable postural strategy in people with CAI during single-leg stance with perturbation. The weaker relationship between MoS and hip- and trunk- torque in the CAI than HC group in response to the perturbation provided evidence for reduced effectiveness of joint actions in postural control. Sudden base of support changes, such as accelerations and decelerations, are shown to be effective in identifying postural impairments in CAI. Further research is needed to determine whether these impairments can be improved through practice.",
-   "doi": "10.1111/sms.70345",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42429293/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42483632",
    "title": "Return-to-Sport Outcomes After Suture Button Fixation for Syndesmotic Injury in Elite Athletes With Chronic Lateral Ankle Instability: A Prospective Case Series.",
    "journal": "Orthop J Sports Med",
@@ -2149,34 +2092,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42430352",
-   "title": "Structure-aware fatigue modeling in foot deformities: A digital health framework for tissue-specific running injury risk prediction using multi-modal data.",
-   "journal": "PLOS Digit Health",
-   "year": "2026",
-   "authors": [
-    "Zhou Z",
-    "Zhou H",
-    "Xu D",
-    "Van Hooren B",
-    "et al."
-   ],
-   "abstract": "Hallux Valgus (HV) is a common deformity in runners that reflects altered foot morphology and thereby redistributes mechanical loads along the lower limb, possibly increasing injury risk. However, the biomechanical consequences of this deformity on loading at common running injury locations, and the resulting fatigue-failure injury risk remain undocumented. This study integrated gait analysis with subject-specific musculoskeletal modelling to estimate Achilles tendon, plantar fascia, patellofemoral, and tibial loading and probability of fatigue-failure during running at 12 km/h in a cohort of 26 runners with HV and 26 healthy controls. HV runners exhibited pronounced structural deviation, reflected by increased hallux valgus and intermetatarsal angles, and elevated Foot Posture Index scores. During running, HV runners showed reduced ankle and metatarsophalangeal range of motions and increased peak joint moments (ankle p\u2009=\u20090.004; MTP p\u2009=\u20090.003). These biomechanical alterations were associated with higher Cumulative Load, Cumulative Damage, and Probability of Fatigue Failure, particularly in the Achilles tendon and plantar fascia, whereas tibial loading was largely similar to individuals without HV. To enable individualized prediction of biomechanical loading at the four injury locations, we trained deep learning models that used IMU input data (Model 1) or IMU plus foot structure data (Model 2). Model 1 (SSO-CNN-BiLSTM-HAM) accurately estimated loading indices (R\u00b2\u2009=\u20090.89-0.93), and Model 2 further enhanced predictive accuracy (R\u00b2\u2009=\u20090.94-0.97). Collectively, these findings suggest that HVA and foot posture index-related structural deviations increase lower-limb loading patterns and accelerate tissue fatigue-failure probability.",
-   "doi": "10.1371/journal.pdig.0001537",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42430352/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
