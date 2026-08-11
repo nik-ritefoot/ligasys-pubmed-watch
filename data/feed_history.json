@@ -1,5 +1,76 @@
 [
  {
+  "pmid": "42577447",
+  "title": "A sixteen-year epidemiological study of match injuries sustained during the women's Rugby World Cup (2010 to 2025).",
+  "journal": "Front Sports Act Living",
+  "year": "2026",
+  "authors": [
+   "Fuller CW",
+   "Taylor A"
+  ],
+  "abstract": "Professionalisation of women's rugby has increased over the past ten years. The impact of this development on the incidence and nature of injuries sustained during international competitions has not been reported. This study aimed to provide anthropometric and epidemiological information relating to women's international Rugby-15s. Team medical staff, working with eighteen national teams taking part in five women's Rugby World Cups over the period 2010-2025, recorded players' anthropometric and injury data. The observational methodology used in the study followed the international consensus statement for surveillance studies in elite rugby. Data relating to the incidence, severity, burden, nature and cause of injuries were collected. The overall incidence of injury over the 16-year period was 45.2 injuries/1,000 player-match-hours with a mean severity of 48.4 days. Concussion (21.7%), knee-ligament (12.5%) and ankle-ligament (10.8%) injuries were the most common injuries sustained by backs and knee-ligament (17.2%), concussion (14.2%) and ankle-ligament (8.2%) injuries the most common for forwards. Knee-ligament injuries were responsible for 33.0% of all time-loss by backs and 43.2% of all time-loss by forwards. The incidence of injury during the women's Rugby World Cup was significantly lower but the mean severity of the injuries significantly higher than values reported previously for the men's Rugby World Cup. Consequently, injury burden values during the women's and men's Rugby World Cups are similar. Knee-ligament and concussion injuries should be the focus of injury prevention initiatives in women's rugby, as they are the most common injuries and are responsible for the greatest time-loss.",
+  "doi": "10.3389/fspor.2026.1812403",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42577447/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-11T14:40:39Z"
+ },
+ {
+  "pmid": "42577126",
+  "title": "Functional outcomes and rehabilitation behaviors following ankle sprain in amateur padel players: a cross-sectional study.",
+  "journal": "Front Med (Lausanne)",
+  "year": "2026",
+  "authors": [
+   "Alanazi F",
+   "Al Dera HS",
+   "Al Shammary T",
+   "AlSharif A",
+   "et al."
+  ],
+  "abstract": "Ankle sprain is one of the most common injuries in racket sports; however, data on its prevalence, risk factors, and functional impact among amateur padel players remain limited. To determine the prevalence and clinical profile of ankle sprain injuries, identify associated risk factors, and evaluate the relationship between preventive behaviors and functional outcomes among amateur padel players in Saudi Arabia. A cross-sectional study was conducted among 187 amateur padel players. Data on demographics, playing exposure, injury characteristics, and preventive behaviors were collected. Functional outcomes were assessed using the Foot and Ankle Disability Index (FADI). Parametric statistical analyses, including independent-samples t-tests, one-way ANOVA, Pearson correlation, and multivariable logistic regression, were performed. The prevalence of ankle sprain was 14.97% (95% CI: 10.30-20.80). Injuries were predominantly right-sided (60.71%) and commonly caused by landing (57.14%), with most classified as moderate (46.43%). Functional limitation was reported by 75.00%, and recurrent sprains occurred in 42.86%. Mean FADI score was 86.12 \u00b1 8.74. Playing experience \u22651 year (aOR = 3.18, p = 0.021) and frequency \u22652 sessions/week (aOR = 2.88, p = 0.026) were independent predictors of injury. Preventive behaviors were not associated with injury risk but were significantly associated with higher FADI scores, particularly balance and strengthening exercises (\u0394 = 8.20, p = 0.008). Ankle sprains are common among amateur padel players and are associated with persistent functional impairment. Playing exposure was the primary factor associated with injury risk, while preventive behaviors play a significant role in improving functional recovery.",
+  "doi": "10.3389/fmed.2026.1887372",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42577126/",
+  "matched": [
+   {
+    "id": "lateral-sprain-epi",
+    "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-11T14:40:39Z"
+ },
+ {
+  "pmid": "42575027",
+  "title": "Trauma Visits Relating to E-Bikes and Non-E-Bikes at a London University Hospital Emergency Department Between 2022 and 2025: A Retrospective Cohort Study.",
+  "journal": "J Emerg Med",
+  "year": "2026",
+  "authors": [
+   "Siswick J",
+   "Albert A",
+   "Kotecha S",
+   "Stoneham A"
+  ],
+  "abstract": "Electric bicycle (\"e-bike\") use has increased rapidly in London and internationally. E-bike-related trauma ranges from minor injuries to major polytrauma, with a substantial long-term health care burden. Contemporary U.K. emergency department (ED) data comparing e-bike and conventional bicycle injuries remain limited. To quantify trends in e-bike-related ED visits in a 3-year period and compare demographics, injury patterns, alcohol involvement, helmet use, and markers of clinical severity with non-e-bike cycling injuries. We conducted a retrospective cohort study of ED visits between September 2022 and August 2025. Cycling-related visits were identified from the electronic patient record using predefined search terms and categorized as \"e-bike\" or \"non-e-bike.\" Data collected included demographics, time of presentation, injury type, admission, operative management, and documented alcohol and helmet use. Comparative statistical analysis was carried out using \"R\" software. Among 5529 cycling-related visits, 564 (10%) involved e-bikes. The proportion attributable to e-bikes increased from 3.8% in year 1 to 16.0% in year 3 (p < 0.001). Compared with non-e-bike injuries, e-bike injuries were associated with an increased relative risk of head or neck injury (+41%) and lower limb injury (+33%) and a reduced risk of upper limb injury (-36%). Alcohol involvement was more frequent in e-bike cases (8.0% vs. 3.0%). Where documented, 81% of e-bike riders were not wearing helmets. A total of 17 e-bike patients (3%) required surgery. E-bike-related ED visits increased substantially in the study period and were associated with distinct injury patterns and modifiable risk factors. These findings support targeted injury prevention and public health interventions as e-bike use continues to rise.",
+  "doi": "10.1016/j.jemermed.2026.07.006",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42575027/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-11T14:40:39Z"
+ },
+ {
   "pmid": "42568778",
   "title": "Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.",
   "journal": "Orthop J Sports Med",
