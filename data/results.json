@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T14:40:52+00:00",
+ "generated": "2026-08-13T14:40:53+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,30 +65,30 @@
   }
  ],
  "counts": {
-  "total": 84,
+  "total": 82,
   "new": 2,
-  "research": 28,
-  "fieldnotes": 56
+  "research": 27,
+  "fieldnotes": 55
  },
  "records": [
   {
-   "pmid": "42580194",
-   "title": "Impacts of ankle sprain on functional performance in under-20 soccer players: a cross-sectional study.",
-   "journal": "Phys Ther Sport",
+   "pmid": "42583262",
+   "title": "Injuries in Professional Roundnet (Spikeball) Athletes.",
+   "journal": "Sports Med Int Open",
    "year": "2026",
    "authors": [
-    "Oliveira VF",
-    "Mesquita LB",
-    "Sousa JE",
-    "Carmo VJG",
+    "Paul RW",
+    "Park R",
+    "Sirch FJ",
+    "Nyugen J",
     "et al."
    ],
-   "abstract": "To compare functional and biomechanical parameters related to ankle mobility, neuromuscular control, and dynamic balance in under-20 soccer players with and without a history of lateral ankle sprain. Multicenter cross-sectional observational study. Training centers of two professional soccer clubs in Brazil. Seventy-five male soccer players aged 16-20 years. A comprehensive assessment was performed using the Cumberland Ankle Instability Tool (CAIT) to assess perceived ankle instability, the Foot and Ankle Ability Measure (FAAM) to evaluate self-reported function, the Weight-Bearing Lunge Test (WBLT) to measure ankle dorsiflexion, the Y-Balance Test (YBT) to assess dynamic balance, and the Hop Tests to evaluate lower-limb neuromuscular performance. Athletes with a history of lateral ankle sprain showed lower joint stability (p\u202f\u2264\u202f0.005), reduced functionality (p\u202f\u2264\u202f0.040), decreased dorsiflexion (p\u202f=\u202f0.031), impaired dynamic balance (p\u202f=\u202f0.046), and worse performance in hop tests (p\u202f\u2264\u202f0.018) CONCLUSIONS: A history of lateral ankle sprain was associated with poorer ankle function, reduced dorsiflexion, impaired dynamic balance, and lower neuromuscular performance in under-20 soccer players. These findings support the use of comprehensive functional assessment to guide rehabilitation and return-to-sport strategies.",
-   "doi": "10.1016/j.ptsp.2026.101964",
+   "abstract": "This study aimed to evaluate training workload and injury history in specifically professional roundnet athletes. An anonymous survey regarding players' injuries specific to roundnet was created with input from two premier roundnet athletes and two orthopedic surgeons. The 56 Spikeball Tour Series professional roundnet athletes from the 2023 season were contacted after the 2023 season to complete an anonymous injury history survey. Overall, 49 (88%) of the 56 professional roundnet athletes from the 2023 season were included in the study. Professional roundnet athletes had been competing in roundnet for a mean of 4 years and train 9.5 months per year. Players reported 82 roundnet injuries comprised of 43 (52%) upper extremity injuries, 24 (29%) lower extremity injuries, and 15 (18%) axial injuries. No reported injuries required surgical treatment. Upper extremity, lower extremity, and axial injuries had an average time to return to sport (RTS) of 1.8 months, 2.8 months, and 2.2 months missed, respectively. In conclusion, the upper extremity is the most commonly injured region in professional roundnet athletes, accounting for about half of roundnet injuries. Professional roundnet athletes most frequently experience significant acute injuries of the elbow and ankle, and significant chronic injuries of the shoulder and lower back.",
+   "doi": "10.1055/a-2891-5869",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42580194/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42583262/",
    "matched": [
     {
      "id": "return-to-play",
@@ -100,36 +100,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42578423",
-   "title": "Oral Contraceptive Use Has Protective Effect Against Ankle Sprains in Women.",
-   "journal": "Sports Health",
+   "pmid": "42590683",
+   "title": "Tracking Recovery in Motion: Longitudinal, Multi-Contextual Monitoring of Return-to-Play in Collegiate Basketball.",
+   "journal": "Sensors (Basel)",
    "year": "2026",
    "authors": [
-    "Shi RX",
-    "Maloy GC",
-    "Pappajohn AF",
-    "Grauer JN"
+    "Kritzer TD",
+    "White K",
+    "Maynard M",
+    "Palanisamy A",
+    "et al."
    ],
-   "abstract": "Ankle sprain (AS) is among the most common musculoskeletal injury, particularly in women. Hormonal fluctuations during the menstrual cycle may contribute to this sex disparity by affecting ligamentous laxity and muscle stiffness. While oral contraceptive pills (OCPs) modulate hormone levels and have been linked to reduced anterior cruciate ligament (ACL) injuries, there is limited evidence on the correlation of OCPs with AS. OCP use is associated with decreased odds of AS in a large national cohort. Case-control study. Level 4. The 2010-2023 PearlDiver database was queried for female patients aged 15\u2009years to 50 years old with and without AS, identified from orthopaedic and control populations, respectively. Controls were subsequently matched 1:1 to AS patients. Each cohort was stratified by OCP use, defined as OCP prescription within 1\u2009year before AS, and subcategorized by OCP formulation. Multivariate analysis was used to investigate independent predictors of AS, including OCP use, with secondary analysis for OCP type. In total, 1,836,163 patients with ASs and 108,761 controls met inclusion criteria. On average, the AS cohort was older (30.3 vs 27.5\u2009years; P\u2009<\u20090.001), had a higher comorbidity index (1.9 vs 1.0; P\u2009<\u20090.001), and had a higher proportion of patients with severe obesity (5.4% vs 2.2%; P\u2009<\u20090.001). Postmatch multivariate analysis showed OCP use to be associated with decreased odds of ASs (odds ratio [OR], 0.47; 95% CI, 0.46-0.49; P\u2009<\u20090.001). Nonestrogen formulations had a greater protective effect (OR, 0.20; 95% CI, 0.18-0.22; P\u2009<\u20090.001) compared with estrogen-progesterone OCPs (OR, 0.47; 95% CI, 0.46-0.48; P\u2009<\u20090.001). Patients using OCP were found to have significantly decreased odds of AS compared with non-OCP patients. These findings may guide future treatment and injury prevention plans, particularly for at-risk female athletes.",
-   "doi": "10.1177/19417381261472581",
+   "abstract": "Anterior cruciate ligament (ACL) injuries represent one of the most common and disruptive conditions in sport. Effective return-to-play (RTP) monitoring requires multidimensional approaches capturing physical, psychological, and sport-specific components rather than reliance on isolated benchmarks. This study aimed to longitudinally examine the RTP process of a female varsity basketball athlete following ACL reconstruction, using a framework integrating physical performance (capacity), biomechanical sport-specific (capability), and psychological (confidence) components relative to pre-injury benchmarks. Data collection included countermovement jump testing with force plates, on-court inertial measurement unit (IMU) monitoring of limb-loading, and psychological questionnaires, analyzed relative to the athlete's pre-injury baseline, with post-surgical change interpreted against that individualized reference using minimal detectable change thresholds. Pre-injury monitoring indicated stable movement profiles with minor fluctuations. Following ACL reconstruction, jump height recovered within seven weeks of RTP initiation, but notable inter-limb asymmetries persisted in force plate and IMU measures despite high confidence scores. Symmetry improved over time, yet variability in on-court loading remained after clinical clearance. These findings highlight the value of integrated, multidimensional monitoring to detect residual deficits that may be overlooked by traditional outcome-based assessments. This study demonstrates that integrating athlete-specific biomechanical, psychological, and sport-specific assessments relative to pre-injury baselines can support RTP decision-making to enhance individualized recovery trajectories in female athletes.",
+   "doi": "10.3390/s26154909",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42578423/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42590683/",
    "matched": [
     {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1100,39 +1091,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42438618",
-   "title": "Evidence-Based Physical Therapy Management for Chronic Ankle Instability in Young Females: A Systematic Review.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Shinde VV",
-    "Patrekar SP",
-    "Shinde S",
-    "Desai SS"
-   ],
-   "abstract": "Chronic ankle instability (CAI) is a prevalent and debilitating musculoskeletal condition, particularly among young active females, resulting from recurrent lateral ankle sprains and subsequent neuromuscular deficits. Despite its high incidence in this demographic, evidence-based physiotherapy protocols tailored specifically to young female populations remain understudied. The primary aim of this review was to analyze evidence-based physical therapy interventions for CAI in young females, synthesize current findings on therapeutic efficacy, and identify gaps that warrant further investigation. A thorough online search for papers published between 2014 and 2026 was conducted using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 methodology across PubMed, Google Scholar, Scopus, Excerpta Medica Database (EMBASE), and the Cochrane Library. Thirteen studies satisfied the requirements for inclusion. The Risk of Bias-2 (RoB-2) tool for randomized controlled trials (RCTs) and the AXIS tool (appraisal tool for cross-sectional studies) were used to evaluate methodological quality. The selected research frequently indicated that structured physiotherapy encompassing balance training, neuromuscular re-education, peroneal strengthening, whole-body vibration, joint mobilization, proprioceptive neuromuscular facilitation (PNF)\u00a0stretching, core stabilization, and multimodal rehabilitation significantly improves dynamic balance, proprioception, functional performance, and self-reported function in young females with CAI. Multimodal physiotherapy targeting neuromuscular and sensorimotor deficits is highly effective for CAI management in young females. Early identification, individualized programming, and integration of core and proximal strengthening into rehabilitation protocols are essential for optimizing outcomes and reducing reinjury risk.",
-   "doi": "10.7759/cureus.110739",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42438618/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42515838",
    "title": "Femoral anterior distal hemiepiphysiodesis for correction of knee flexion contractures in arthrogryposis.",
    "journal": "J Pediatr Orthop B",
@@ -1394,6 +1352,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42580194",
+   "title": "Impacts of ankle sprain on functional performance in under-20 soccer players: a cross-sectional study.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Oliveira VF",
+    "Mesquita LB",
+    "Sousa JE",
+    "Carmo VJG",
+    "et al."
+   ],
+   "abstract": "To compare functional and biomechanical parameters related to ankle mobility, neuromuscular control, and dynamic balance in under-20 soccer players with and without a history of lateral ankle sprain. Multicenter cross-sectional observational study. Training centers of two professional soccer clubs in Brazil. Seventy-five male soccer players aged 16-20 years. A comprehensive assessment was performed using the Cumberland Ankle Instability Tool (CAIT) to assess perceived ankle instability, the Foot and Ankle Ability Measure (FAAM) to evaluate self-reported function, the Weight-Bearing Lunge Test (WBLT) to measure ankle dorsiflexion, the Y-Balance Test (YBT) to assess dynamic balance, and the Hop Tests to evaluate lower-limb neuromuscular performance. Athletes with a history of lateral ankle sprain showed lower joint stability (p\u202f\u2264\u202f0.005), reduced functionality (p\u202f\u2264\u202f0.040), decreased dorsiflexion (p\u202f=\u202f0.031), impaired dynamic balance (p\u202f=\u202f0.046), and worse performance in hop tests (p\u202f\u2264\u202f0.018) CONCLUSIONS: A history of lateral ankle sprain was associated with poorer ankle function, reduced dorsiflexion, impaired dynamic balance, and lower neuromuscular performance in under-20 soccer players. These findings support the use of comprehensive functional assessment to guide rehabilitation and return-to-sport strategies.",
+   "doi": "10.1016/j.ptsp.2026.101964",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42580194/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42524670",
    "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
    "journal": "Rev Bras Ortop (Sao Paulo)",
@@ -1415,32 +1401,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42438226",
-   "title": "Injury characteristics and cost of ankle sprains in amateur soccer (football): a national analysis involving 3\u2009years of Australian insurance data.",
-   "journal": "Sci Med Footb",
-   "year": "2026",
-   "authors": [
-    "Ross AG",
-    "Rowe P",
-    "Thomas R"
-   ],
-   "abstract": "This national retrospective analytical cross-sectional study investigated the injury characteristics and insurance costs associated with ankle sprains in Australian amateur soccer (football). Three years of insurance records (2018-2020) were analysed to describe claim characteristics, costs, and mechanisms of injury, stratified by sex and age group (junior: 7-17\u2009years; senior: 18-34\u2009years; veteran: 35+ years). Categorical variables were presented as frequencies and percentages and compared using Chi-squared or Fisher's exact tests, while cost data were reported as means\u2009\u00b1\u2009standard deviation (SD) with 95% confidence intervals (CI). Across three football seasons, 749 ankle sprain claims were reported, with a total insurance cost of AU$1,727,858 and a mean cost of AU$2,307 per claim. Indirect costs (AU$1,117,711) accounted for 65% of total expenditure and were six-fold higher than direct medical costs. Male players were responsible for 80% of total costs, reflecting higher claim numbers, while senior players (18-34\u2009years) contributed 74% of the financial burden. Syndesmosis sprains were uncommon (3%) but had the highest mean cost (AU$7,690). Direct contact (56%) was the most common injury mechanism, although non-contact sprains incurred higher mean costs. No significant sex-based differences were observed in injury characteristics; however, junior players sustained proportionally more tackle-related sprains and fewer non-contact sprains than senior or veteran players. Ankle sprains impose a substantial economic burden within the insurance-covered costs captured in this dataset in amateur football, driven primarily by indirect costs. The disproportionate cost of syndesmosis and non-contact injuries identifies key areas for prevention and provides data for future economic evaluations in football.",
-   "doi": "10.1080/24733938.2026.2701683",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42438226/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1695,27 +1655,36 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42439906",
-   "title": "Patient-specific talar resurfacing improves pain and function at 24 months in osteochondral lesions of the talus.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "pmid": "42578423",
+   "title": "Oral Contraceptive Use Has Protective Effect Against Ankle Sprains in Women.",
+   "journal": "Sports Health",
    "year": "2026",
    "authors": [
-    "Mosca M",
-    "Di Ponte M",
-    "Cassanelli E",
-    "Bonaiuti M",
-    "et al."
+    "Shi RX",
+    "Maloy GC",
+    "Pappajohn AF",
+    "Grauer JN"
    ],
-   "abstract": "Osteochondral lesions of the talus are a frequent cause of ankle pain and functional limitation, particularly in physically active patients. The purpose of this prospective study was to assess patient-reported outcomes, return to sport and work and safety after second-generation patient-specific focal talar resurfacing in patients with symptomatic talar osteochondral lesions. Between October 2021 and July 2023, 40 patients were screened and 20 underwent implantation of a customized focal talar resurfacing implant. Outcomes were collected preoperatively and at 3, 6, 12 and 24 months using the Foot and Ankle Outcome Score (FAOS), visual analogue scale pain at rest and during activity and the EuroQol 5-dimension 5-level questionnaire. Time to return to sport and work and adverse events (complications, reoperations and treatment failures) were recorded. Changes over time were assessed with repeated-measures analysis of variance. Best-case and worst-case sensitivity analyses explored the impact of incomplete 24-month follow-up on treatment-failure estimates. Seventeen patients completed the 24-month follow-up. The mean FAOS total increased from 58.6\u2009\u00b1\u200916.6 preoperatively to 97.3\u2009\u00b1\u20094.9 at 24 months. Pain improved from 4.3\u2009\u00b1\u20092.7 to 0.0\u2009\u00b1\u20090.0 at rest and from 6.8\u2009\u00b1\u20091.7 to 0.1\u2009\u00b1\u20090.3 during activity. Seventeen of 20 patients returned to sport at a mean of 5.1\u2009\u00b1\u20093.2 months, and mean time to return to work was 4.2\u2009\u00b1\u20093.0 months. Three complications occurred, including one treatment failure requiring revision surgery. The observed treatment-failure rate was 1/20 (5%). Patient-specific talar resurfacing was associated with sustained improvements in pain, function and quality of life at 24 months, with high rates of return to sport and work. Larger studies with longer follow-up are needed to confirm durability and refine patient selection. Level II.",
-   "doi": "10.1002/ksa.70527",
+   "abstract": "Ankle sprain (AS) is among the most common musculoskeletal injury, particularly in women. Hormonal fluctuations during the menstrual cycle may contribute to this sex disparity by affecting ligamentous laxity and muscle stiffness. While oral contraceptive pills (OCPs) modulate hormone levels and have been linked to reduced anterior cruciate ligament (ACL) injuries, there is limited evidence on the correlation of OCPs with AS. OCP use is associated with decreased odds of AS in a large national cohort. Case-control study. Level 4. The 2010-2023 PearlDiver database was queried for female patients aged 15\u2009years to 50 years old with and without AS, identified from orthopaedic and control populations, respectively. Controls were subsequently matched 1:1 to AS patients. Each cohort was stratified by OCP use, defined as OCP prescription within 1\u2009year before AS, and subcategorized by OCP formulation. Multivariate analysis was used to investigate independent predictors of AS, including OCP use, with secondary analysis for OCP type. In total, 1,836,163 patients with ASs and 108,761 controls met inclusion criteria. On average, the AS cohort was older (30.3 vs 27.5\u2009years; P\u2009<\u20090.001), had a higher comorbidity index (1.9 vs 1.0; P\u2009<\u20090.001), and had a higher proportion of patients with severe obesity (5.4% vs 2.2%; P\u2009<\u20090.001). Postmatch multivariate analysis showed OCP use to be associated with decreased odds of ASs (odds ratio [OR], 0.47; 95% CI, 0.46-0.49; P\u2009<\u20090.001). Nonestrogen formulations had a greater protective effect (OR, 0.20; 95% CI, 0.18-0.22; P\u2009<\u20090.001) compared with estrogen-progesterone OCPs (OR, 0.47; 95% CI, 0.46-0.48; P\u2009<\u20090.001). Patients using OCP were found to have significantly decreased odds of AS compared with non-OCP patients. These findings may guide future treatment and injury prevention plans, particularly for at-risk female athletes.",
+   "doi": "10.1177/19417381261472581",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42439906/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42578423/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "contraception-msk-injury",
+     "label": "Hormonal contraception & MSK injury (sports)",
      "bucket": "fieldnotes"
     }
    ],
@@ -2182,34 +2151,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42439885",
-   "title": "Sport participation after isolated distal femoral osteotomy in young patients: High return-to-sport rates and predictive role of preoperative activity level.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
-   "year": "2026",
-   "authors": [
-    "Lucidi GA",
-    "Adravanti FM",
-    "Rossi C",
-    "Bonaiuti M",
-    "et al."
-   ],
-   "abstract": "The present study aimed to assess return to sport (RTS) rate, activity level and return to work (RTW) in young, physically active patients who underwent isolated distal femoral osteotomy (DFO) for lateral knee pain and valgus malalignment. A retrospective analysis was conducted on consecutive isolated DFO procedures performed at a single institution with a minimum 2-year follow-up. Inclusion criteria specified patients under the age of 45 who were active in sports 2 years prior to surgery. Data were collected regarding RTS rate, type of sports, sports impact level, RTW and complications. Univariate regression analyses were performed to identify predictors influencing RTS and the level of RTS. Thirty-four patients (mean age 31.7\u2009\u00b1\u20099.7 years) were evaluated at a mean follow-up of 7.2\u2009\u00b1\u20093.8 years. The mean preoperative hip-knee-ankle (HKA) was 187.1\u2009\u00b1\u20093.1 with a mean achieved correction value of 7.7\u2009\u00b1\u20092.5\u00b0. The RTS rate was 79.4% (27/34), with a mean time to resumption of 5.4\u2009\u00b1\u20095.4 months. Among those returning to sports, 85.2% maintained their pre-symptom IMPACT level, though no patients reported an improvement in status. At the final follow-up, 67.7% remained active, averaging 4.5\u2009\u00b1\u20097.1\u2009h of sports participation per week. Univariate regression identified the pre-symptom Tegner scale as a significant predictor of absolute RTS (odds ratio\u2009=\u20092.33, p\u2009=\u20090.018). Regarding occupational outcomes, 100% of patients returned to work at a mean of 4.4 months, with 86.4% of active workers resuming previous or similar physical demands. The complication rate was 11.8% (4/34), with no clinical failures reported. DFO performed in a young and active population results in high RTS rates and continuous sports participation even 7 years after surgery. Moreover, higher pre-symptoms Tegner scale was associated with higher odds of returning to sport compared to lower Tegner scale values. Level IV, case series.",
-   "doi": "10.1002/ksa.70524",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42439885/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],

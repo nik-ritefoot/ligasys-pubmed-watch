@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42583262",
+  "title": "Injuries in Professional Roundnet (Spikeball) Athletes.",
+  "journal": "Sports Med Int Open",
+  "year": "2026",
+  "authors": [
+   "Paul RW",
+   "Park R",
+   "Sirch FJ",
+   "Nyugen J",
+   "et al."
+  ],
+  "abstract": "This study aimed to evaluate training workload and injury history in specifically professional roundnet athletes. An anonymous survey regarding players' injuries specific to roundnet was created with input from two premier roundnet athletes and two orthopedic surgeons. The 56 Spikeball Tour Series professional roundnet athletes from the 2023 season were contacted after the 2023 season to complete an anonymous injury history survey. Overall, 49 (88%) of the 56 professional roundnet athletes from the 2023 season were included in the study. Professional roundnet athletes had been competing in roundnet for a mean of 4 years and train 9.5 months per year. Players reported 82 roundnet injuries comprised of 43 (52%) upper extremity injuries, 24 (29%) lower extremity injuries, and 15 (18%) axial injuries. No reported injuries required surgical treatment. Upper extremity, lower extremity, and axial injuries had an average time to return to sport (RTS) of 1.8 months, 2.8 months, and 2.2 months missed, respectively. In conclusion, the upper extremity is the most commonly injured region in professional roundnet athletes, accounting for about half of roundnet injuries. Professional roundnet athletes most frequently experience significant acute injuries of the elbow and ankle, and significant chronic injuries of the shoulder and lower back.",
+  "doi": "10.1055/a-2891-5869",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42583262/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-13T14:40:53Z"
+ },
+ {
+  "pmid": "42590683",
+  "title": "Tracking Recovery in Motion: Longitudinal, Multi-Contextual Monitoring of Return-to-Play in Collegiate Basketball.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Kritzer TD",
+   "White K",
+   "Maynard M",
+   "Palanisamy A",
+   "et al."
+  ],
+  "abstract": "Anterior cruciate ligament (ACL) injuries represent one of the most common and disruptive conditions in sport. Effective return-to-play (RTP) monitoring requires multidimensional approaches capturing physical, psychological, and sport-specific components rather than reliance on isolated benchmarks. This study aimed to longitudinally examine the RTP process of a female varsity basketball athlete following ACL reconstruction, using a framework integrating physical performance (capacity), biomechanical sport-specific (capability), and psychological (confidence) components relative to pre-injury benchmarks. Data collection included countermovement jump testing with force plates, on-court inertial measurement unit (IMU) monitoring of limb-loading, and psychological questionnaires, analyzed relative to the athlete's pre-injury baseline, with post-surgical change interpreted against that individualized reference using minimal detectable change thresholds. Pre-injury monitoring indicated stable movement profiles with minor fluctuations. Following ACL reconstruction, jump height recovered within seven weeks of RTP initiation, but notable inter-limb asymmetries persisted in force plate and IMU measures despite high confidence scores. Symmetry improved over time, yet variability in on-court loading remained after clinical clearance. These findings highlight the value of integrated, multidimensional monitoring to detect residual deficits that may be overlooked by traditional outcome-based assessments. This study demonstrates that integrating athlete-specific biomechanical, psychological, and sport-specific assessments relative to pre-injury baselines can support RTP decision-making to enhance individualized recovery trajectories in female athletes.",
+  "doi": "10.3390/s26154909",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42590683/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-13T14:40:53Z"
+ },
+ {
   "pmid": "42580194",
   "title": "Impacts of ankle sprain on functional performance in under-20 soccer players: a cross-sectional study.",
   "journal": "Phys Ther Sport",
