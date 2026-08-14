@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-08-13T14:40:53Z</updated>
+  <updated>2026-08-14T14:34:50Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.</title>
+    <id>urn:pmid:42594821</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42594821/" rel="alternate"/>
+    <updated>2026-08-14T14:34:50Z</updated>
+    <published>2026-08-14T14:34:50Z</published>
+    <author><name>Ogihara N</name></author><author><name>Matsumoto Y</name></author><author><name>Seki H</name></author><author><name>Nagura T</name></author><author><name>et al.</name></author>
+    <category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Ogihara N, Matsumoto Y, Seki H, Nagura T, et al. · J Biomech · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Despite its importance to hindfoot function, subtalar joint kinematics remain largely unexplored in primates. Subtalar joint motion reflects the functional consequences of articular morphology for locomotion, but how this motion varies across primate taxa is poorly understood. To provide a quantitative basis, we compared subtalar kinematics across humans, great apes, and a macaque under controlled inversion/eversion using cadaveric specimens. Calcaneal motion relative to the talus was quantified from CT scans within a common foot-based coordinate system using both a conventional helical-axis decomposition and a posterior facet-based representation grounded in articular geometry. Humans exhibited a more vertically oriented subtalar rotational axis than great apes and the macaque, whereas deviation angles varied little among taxa. The magnitude of translation accompanying inversion-eversion was relatively small in the macaque and human sample of the current study. This translation tended to be larger in African apes, while orangutans partly overlapped with humans. Across all taxa, translation associated with inversion/eversion aligned more closely with the cylindrical axis derived from posterior facet geometry than with the helical axis. Consequently, translation quantified along the helical axis may underestimate displacement relative to the facet-based representation. These findings demonstrate systematic taxonomic differences in subtalar axis orientation and mobility, and suggest that a posterior facet-based representation provides a more anatomically grounded description of subtalar translation than conventional helical-axis decomposition. Reduced translation and a more vertical axis in humans are consistent with functional demands for hindfoot stability during bipedal locomotion, providing a framework for interpreting evolutionary variation in primate hindfoot morphology.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.jbiomech.2026.113519&quot;&gt;10.1016/j.jbiomech.2026.113519&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42594821/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Functional outcomes and rehabilitation behaviors following ankle sprain in amateur padel players: a cross-sectional study.</title>
     <id>urn:pmid:42577126</id>

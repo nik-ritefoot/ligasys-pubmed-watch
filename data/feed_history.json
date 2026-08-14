@@ -1,5 +1,100 @@
 [
  {
+  "pmid": "42594821",
+  "title": "Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Ogihara N",
+   "Matsumoto Y",
+   "Seki H",
+   "Nagura T",
+   "et al."
+  ],
+  "abstract": "Despite its importance to hindfoot function, subtalar joint kinematics remain largely unexplored in primates. Subtalar joint motion reflects the functional consequences of articular morphology for locomotion, but how this motion varies across primate taxa is poorly understood. To provide a quantitative basis, we compared subtalar kinematics across humans, great apes, and a macaque under controlled inversion/eversion using cadaveric specimens. Calcaneal motion relative to the talus was quantified from CT scans within a common foot-based coordinate system using both a conventional helical-axis decomposition and a posterior facet-based representation grounded in articular geometry. Humans exhibited a more vertically oriented subtalar rotational axis than great apes and the macaque, whereas deviation angles varied little among taxa. The magnitude of translation accompanying inversion-eversion was relatively small in the macaque and human sample of the current study. This translation tended to be larger in African apes, while orangutans partly overlapped with humans. Across all taxa, translation associated with inversion/eversion aligned more closely with the cylindrical axis derived from posterior facet geometry than with the helical axis. Consequently, translation quantified along the helical axis may underestimate displacement relative to the facet-based representation. These findings demonstrate systematic taxonomic differences in subtalar axis orientation and mobility, and suggest that a posterior facet-based representation provides a more anatomically grounded description of subtalar translation than conventional helical-axis decomposition. Reduced translation and a more vertical axis in humans are consistent with functional demands for hindfoot stability during bipedal locomotion, providing a framework for interpreting evolutionary variation in primate hindfoot morphology.",
+  "doi": "10.1016/j.jbiomech.2026.113519",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42594821/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-14T14:34:50Z"
+ },
+ {
+  "pmid": "42591514",
+  "title": "Current concepts in arthroscopic treatment for chronic lateral ankle instability: a clinical practice review.",
+  "journal": "Ann Jt",
+  "year": "2026",
+  "authors": [
+   "Sano S",
+   "Hoshino Y",
+   "Yamamoto T",
+   "Kanzaki N",
+   "et al."
+  ],
+  "abstract": "Chronic lateral ankle instability (CLAI) is a frequent sequela of acute lateral ligament injury, causing recurrent sprains, persistent pain, and functional limitations, particularly among athletes and active individuals. While most acute ankle sprains respond well to conservative treatment, approximately 20-30% of patients experience persistent mechanical or functional instability requiring surgical intervention. In recent years, arthroscopic techniques have grown in popularity due to their minimally invasive nature, ability to address concomitant intra-articular pathology, and favorable recovery profiles compared to open surgery. This clinical practice review integrates recent evidence from randomized controlled trials, comparative cohort studies, and technical reports with expert clinical experience to provide practical guidance on the arthroscopic management of CLAI. For patients with adequate ligament tissue quality, arthroscopic Brostr\u00f6m repair remains the preferred first-line option, offering high return to sport (RTS) rates and low complication rates. For cases involving revision, poor-quality tissue, or generalized ligamentous laxity, arthroscopic ligament reconstruction using autografts or allografts is recommended. Concomitant procedures such as synovectomy, loose body removal, and cartilage debridement or microfracture can be performed during the same operation. A structured postoperative rehabilitation program is essential for achieving optimal outcomes. Early protected mobilization is followed by progressive range of motion (ROM) and strengthening phases, with sport-specific training typically initiated at about 3 months postoperatively. Current evidence suggests that arthroscopic management yields comparable clinical results to open procedures, while enabling the simultaneous treatment of associated joint pathologies and potentially facilitating faster recovery. Arthroscopic management of CLAI should be regarded not merely as a surgical alternative, but as a comprehensive clinical approach that integrates diagnosis, surgical decision-making, and rehabilitation for optimized patient outcomes. This review aims to provide an evidence-informed framework to guide orthopedic surgeons and sports medicine clinicians in the individualized, evidence-based management of CLAI.",
+  "doi": "10.21037/aoj-2026-1-0008",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42591514/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-14T14:34:50Z"
+ },
+ {
+  "pmid": "42594004",
+  "title": "Effect of discrepant gait assistance on the motion and stability of unplanned gait termination.",
+  "journal": "IEEE Trans Neural Syst Rehabil Eng",
+  "year": "2026",
+  "authors": [
+   "Sakashita Y",
+   "Akiyama Y",
+   "Okamoto S"
+  ],
+  "abstract": "For the development and widespread adoption of wearable robots, ensuring the safety of the wearers is critical. The gait instability risks specific to wearable gait-assist robots arise from the motion interference of the robot. Such motion interference occurs due to sudden changes in the wearer's gait. This study focuses on unplanned gait termination, an abrupt stopping motion during walking. The primary objective of this study was to clarify the effects of discrepant assistance provided continuously during gait termination, in contrast to the wearers' intention. In the experiments, unplanned gait termination was induced while walking with a gait-assist robot, and the wearers' motions were compared between conditions with and without discrepant assistance in terms of gait termination distance, time, and physical stability. The results showed that discrepant assistance facilitated leg swings and significantly increased the step length required to stop. This extension impedes the wearers' ability to stop within short distances and may increase situational hazards such as collision or misstep risk in spatially constrained environments. Regression analysis indicated that joint kinematics during the late swing phase were most strongly associated with this extension. Conversely, the anterior mechanical stability margin increased. These findings indicate that discrepant assistance may increase risks specific to unplanned gait termination, highlighting the need to consider such risks beyond the conventional focus on fall prevention. The effect of discrepant assistance revealed in this study provides insight into the design of gait assistance that ensures the safety of gait-assist robots.",
+  "doi": "10.1109/TNSRE.2026.3723589",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42594004/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-14T14:34:50Z"
+ },
+ {
+  "pmid": "42592166",
+  "title": "Over-the-counter hearing aids and integrated health-monitoring sensors: a review of clinical evidence and implementation.",
+  "journal": "Front Digit Health",
+  "year": "2026",
+  "authors": [
+   "Itatani N",
+   "Zavaglia M"
+  ],
+  "abstract": "The FDA's 2022 over-the-counter (OTC) hearing aid rule created a new access pathway for adults with mild to moderate hearing loss. Hearing aids have also begun incorporating health-monitoring sensors. This PRISMA-guided narrative review evaluates the clinical evidence for OTC hearing aids and the validation status of health sensors in hearing aids, based on 59 studies identified from PubMed, Scopus, Web of Science, and the Cochrane Library and published between 2020 and 2026. In most randomized trials, self-fitted OTC hearing aids produced outcomes noninferior to professionally fitted devices, though one trial found audiologist-fitted hearing aids achieved better results. Consumer adoption has been incremental, with most OTC users still seeking professional support. Usability assessments found that many older adults had difficulty completing self-fitting tasks without error, and current self-fitting interfaces may not guide users toward optimal amplification. Accelerometry-based hearing aid sensors for gait analysis and energy expenditure demonstrated accuracy comparable to established reference and consumer devices. A prototype multi-sensor platform successfully measured temperature, oxygen saturation, heart rate, and respiration rate. Health sensors in hearing aids are technically validated but clinically unproven, as no study has linked sensor data to improved patient outcomes. If outcome studies confirm these uses, sensor-equipped hearing aids could become useful in geriatric medicine, cardiovascular monitoring, and fall prevention, linking audiology to wider medical care. Getting there will require prospective clinical trials, standard validation methods, and regulatory frameworks for dual-purpose devices.",
+  "doi": "10.3389/fdgth.2026.1771022",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42592166/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-14T14:34:50Z"
+ },
+ {
   "pmid": "42583262",
   "title": "Injuries in Professional Roundnet (Spikeball) Athletes.",
   "journal": "Sports Med Int Open",
