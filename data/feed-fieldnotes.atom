@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-08-14T14:34:50Z</updated>
+  <updated>2026-08-15T13:55:53Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?</title>
+    <id>urn:pmid:42599019</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42599019/" rel="alternate"/>
+    <updated>2026-08-15T13:55:53Z</updated>
+    <published>2026-08-15T13:55:53Z</published>
+    <author><name>Argentieri E</name></author><author><name>Hamilton TW</name></author><author><name>Koff MF</name></author><author><name>Koch KM</name></author><author><name>et al.</name></author>
+    <category term="menstrual-cycle-injury" label="Menstrual cycle / hormonal phase &amp; injury risk (sports)"/><category term="contraception-msk-injury" label="Hormonal contraception &amp; MSK injury (sports)"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Argentieri E, Hamilton TW, Koff MF, Koch KM, et al. · Am J Sports Med · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Sex-based disparities in the anterior cruciate ligament (ACL) injury risk may be partly explained by cyclic variations in sex hormones that drive systemic shifts in tissue osmoregulation. Ultrashort echo time (UTE) T2* magnetic resonance imaging provides a noninvasive, quantitative means of evaluating the water content and collagen orientation in tissue. Eumenorrheic female participants will exhibit significant ACL T2* changes across the cycle, while anovulatory control participants will demonstrate no significant changes over time. Cohort study; Level of evidence, 2. A total of 25 women with no prior knee injuries were enrolled: 10 premenopausal, eumenorrheic participants and 15 anovulatory control participants (6 postmenopausal and 9 premenopausal using oral contraceptives). Bilateral knee magnetic resonance imaging was performed at 4 time points evenly spaced over 1 month, with the first visit within 24 hours of menses onset. Ovulation status was confirmed using commercially available ovulation predictor kits. Three-dimensional UTE sequences (11 echoes; 0.03-25 ms) were acquired to evaluate bicomponent ACL T2* metrics. Linear mixed-effects models assessed temporal differences in long and short T2* values, and the Cohen d quantified effect size. Eumenorrheic participants demonstrated significantly shorter preovulatory long T2* values compared with postovulatory values (mean difference, 1.0 ms [95% CI, 0.2-1.9 ms]; P = .015; Cohen d = 0.51). No significant temporal differences were observed for any T2* metric in anovulatory controls. Eumenorrheic female participants exhibited significant preovulatory to postovulatory changes in ACL T2* metrics, while anovulatory controls demonstrated no significant changes over time. These findings suggest that ACL T2* metrics are sensitive to cyclic fluctuations in female sex hormones across the menstrual cycle.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1177/03635465261470921&quot;&gt;10.1177/03635465261470921&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42599019/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Current concepts in arthroscopic treatment for chronic lateral ankle instability: a clinical practice review.</title>
     <id>urn:pmid:42591514</id>

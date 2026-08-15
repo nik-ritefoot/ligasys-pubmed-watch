@@ -1,5 +1,35 @@
 [
  {
+  "pmid": "42599019",
+  "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
+  "journal": "Am J Sports Med",
+  "year": "2026",
+  "authors": [
+   "Argentieri E",
+   "Hamilton TW",
+   "Koff MF",
+   "Koch KM",
+   "et al."
+  ],
+  "abstract": "Sex-based disparities in the anterior cruciate ligament (ACL) injury risk may be partly explained by cyclic variations in sex hormones that drive systemic shifts in tissue osmoregulation. Ultrashort echo time (UTE) T2* magnetic resonance imaging provides a noninvasive, quantitative means of evaluating the water content and collagen orientation in tissue. Eumenorrheic female participants will exhibit significant ACL T2* changes across the cycle, while anovulatory control participants will demonstrate no significant changes over time. Cohort study; Level of evidence, 2. A total of 25 women with no prior knee injuries were enrolled: 10 premenopausal, eumenorrheic participants and 15 anovulatory control participants (6 postmenopausal and 9 premenopausal using oral contraceptives). Bilateral knee magnetic resonance imaging was performed at 4 time points evenly spaced over 1 month, with the first visit within 24 hours of menses onset. Ovulation status was confirmed using commercially available ovulation predictor kits. Three-dimensional UTE sequences (11 echoes; 0.03-25 ms) were acquired to evaluate bicomponent ACL T2* metrics. Linear mixed-effects models assessed temporal differences in long and short T2* values, and the Cohen d quantified effect size. Eumenorrheic participants demonstrated significantly shorter preovulatory long T2* values compared with postovulatory values (mean difference, 1.0 ms [95% CI, 0.2-1.9 ms]; P = .015; Cohen d = 0.51). No significant temporal differences were observed for any T2* metric in anovulatory controls. Eumenorrheic female participants exhibited significant preovulatory to postovulatory changes in ACL T2* metrics, while anovulatory controls demonstrated no significant changes over time. These findings suggest that ACL T2* metrics are sensitive to cyclic fluctuations in female sex hormones across the menstrual cycle.",
+  "doi": "10.1177/03635465261470921",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42599019/",
+  "matched": [
+   {
+    "id": "menstrual-cycle-injury",
+    "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "contraception-msk-injury",
+    "label": "Hormonal contraception & MSK injury (sports)",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-15T13:55:53Z"
+ },
+ {
   "pmid": "42594821",
   "title": "Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.",
   "journal": "J Biomech",
