@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T13:55:52+00:00",
+ "generated": "2026-08-16T13:56:42+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,45 +65,12 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 1,
-  "research": 28,
-  "fieldnotes": 57
+  "total": 78,
+  "new": 0,
+  "research": 24,
+  "fieldnotes": 54
  },
  "records": [
-  {
-   "pmid": "42599019",
-   "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
-   "journal": "Am J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Argentieri E",
-    "Hamilton TW",
-    "Koff MF",
-    "Koch KM",
-    "et al."
-   ],
-   "abstract": "Sex-based disparities in the anterior cruciate ligament (ACL) injury risk may be partly explained by cyclic variations in sex hormones that drive systemic shifts in tissue osmoregulation. Ultrashort echo time (UTE) T2* magnetic resonance imaging provides a noninvasive, quantitative means of evaluating the water content and collagen orientation in tissue. Eumenorrheic female participants will exhibit significant ACL T2* changes across the cycle, while anovulatory control participants will demonstrate no significant changes over time. Cohort study; Level of evidence, 2. A total of 25 women with no prior knee injuries were enrolled: 10 premenopausal, eumenorrheic participants and 15 anovulatory control participants (6 postmenopausal and 9 premenopausal using oral contraceptives). Bilateral knee magnetic resonance imaging was performed at 4 time points evenly spaced over 1 month, with the first visit within 24 hours of menses onset. Ovulation status was confirmed using commercially available ovulation predictor kits. Three-dimensional UTE sequences (11 echoes; 0.03-25 ms) were acquired to evaluate bicomponent ACL T2* metrics. Linear mixed-effects models assessed temporal differences in long and short T2* values, and the Cohen d quantified effect size. Eumenorrheic participants demonstrated significantly shorter preovulatory long T2* values compared with postovulatory values (mean difference, 1.0 ms [95% CI, 0.2-1.9 ms]; P = .015; Cohen d = 0.51). No significant temporal differences were observed for any T2* metric in anovulatory controls. Eumenorrheic female participants exhibited significant preovulatory to postovulatory changes in ACL T2* metrics, while anovulatory controls demonstrated no significant changes over time. These findings suggest that ACL T2* metrics are sensitive to cyclic fluctuations in female sex hormones across the menstrual cycle.",
-   "doi": "10.1177/03635465261470921",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42599019/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42524706",
    "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
@@ -494,6 +461,39 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42599019",
+   "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
+   "journal": "Am J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Argentieri E",
+    "Hamilton TW",
+    "Koff MF",
+    "Koch KM",
+    "et al."
+   ],
+   "abstract": "Sex-based disparities in the anterior cruciate ligament (ACL) injury risk may be partly explained by cyclic variations in sex hormones that drive systemic shifts in tissue osmoregulation. Ultrashort echo time (UTE) T2* magnetic resonance imaging provides a noninvasive, quantitative means of evaluating the water content and collagen orientation in tissue. Eumenorrheic female participants will exhibit significant ACL T2* changes across the cycle, while anovulatory control participants will demonstrate no significant changes over time. Cohort study; Level of evidence, 2. A total of 25 women with no prior knee injuries were enrolled: 10 premenopausal, eumenorrheic participants and 15 anovulatory control participants (6 postmenopausal and 9 premenopausal using oral contraceptives). Bilateral knee magnetic resonance imaging was performed at 4 time points evenly spaced over 1 month, with the first visit within 24 hours of menses onset. Ovulation status was confirmed using commercially available ovulation predictor kits. Three-dimensional UTE sequences (11 echoes; 0.03-25 ms) were acquired to evaluate bicomponent ACL T2* metrics. Linear mixed-effects models assessed temporal differences in long and short T2* values, and the Cohen d quantified effect size. Eumenorrheic participants demonstrated significantly shorter preovulatory long T2* values compared with postovulatory values (mean difference, 1.0 ms [95% CI, 0.2-1.9 ms]; P = .015; Cohen d = 0.51). No significant temporal differences were observed for any T2* metric in anovulatory controls. Eumenorrheic female participants exhibited significant preovulatory to postovulatory changes in ACL T2* metrics, while anovulatory controls demonstrated no significant changes over time. These findings suggest that ACL T2* metrics are sensitive to cyclic fluctuations in female sex hormones across the menstrual cycle.",
+   "doi": "10.1177/03635465261470921",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42599019/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "contraception-msk-injury",
+     "label": "Hormonal contraception & MSK injury (sports)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42537386",
    "title": "Characterisation of frequency-domain loading profiles in high-performance youth badminton players: exploring limb asymmetry across injury history groups.",
    "journal": "J Biomech",
@@ -537,34 +537,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42459270",
-   "title": "Comparative effectiveness of floss band-augmented perceptual balance training on balance, proprioception, and lower limb function in women with chronic ankle instability: Implications for injury prevention and rehabilitation in public health.",
-   "journal": "AIMS Public Health",
-   "year": "2026",
-   "authors": [
-    "Hamzehzadeh M",
-    "Sadati SKM",
-    "Daneshjoo A",
-    "Samakosh HMN",
-    "et al."
-   ],
-   "abstract": "In this study, an assessor-blinded randomized trial with concealed allocation was conducted. Thirty women aged 25-35 years with chronic ankle instability (CAIT score \u2264 24 on the affected ankle) were randomly assigned (1:1) to perceptual balance (PB) training with floss bands (FB group, n = 15) or PB training alone (n = 15). Both groups completed a 6-week program (3 sessions/week), progressing from static to dynamic and plyometric tasks. FBs were applied at perceived occlusion pressure of 5-7/10 (0-10 scale); no adverse events occurred. Outcomes (assessed on the affected limb only) included static balance (single-leg stance time), dynamic balance (Y-balance test-normalized reaches in anterior, posteromedial, and posterolateral directions and composite score), ankle proprioception [joint position sense (JPS) error at 20\u00b0 plantarflexion], and functional performance (single-leg hop and triple-hop for distance). A 2 \u00d7 2 mixed ANOVA (time \u00d7 group) was used, with Bonferroni post hoc tests. Effect sizes were partial \u03b7\u00b2 (ANOVA interactions) and Cohen's dz (repeated-measures within-group changes with 95% CI). Both groups improved significantly (p < 0.01). The FB group showed greater improvements in static balance (25.7 \u00b1 2.9 s vs. 22.3 \u00b1 2.8 s, p = 0.015), dynamic balance (composite and all directions, p < 0.015), JPS (4.2 \u00b1 1.1\u00b0 vs. 6.1 \u00b1 1.3\u00b0, p = 0.022), single-leg hop (1.80 \u00b1 0.15 m vs. 1.65 \u00b1 0.18 m, p = 0.032), and triple-hop (5.10 \u00b1 0.30 m vs. 4.70 \u00b1 0.35 m, p = 0.039). Interaction effect sizes (dz) ranged from 0.143 to 0.234 (large). These findings suggest that floss band augmentation may provide additional short-term benefit to PB training in women with CAI, although mechanisms remain speculative, and larger, longitudinal trials are needed.",
-   "doi": "10.3934/publichealth.2026034",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42459270/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -895,34 +867,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42460268",
-   "title": "Editorial: Lateral ankle sprain, chronic ankle instability and ankle osteoarthritis: unraveling mechanisms and exploring management approaches.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Han J",
-    "Smith M",
-    "Newman P",
-    "Song K",
-    "et al."
-   ],
-   "abstract": "",
-   "doi": "10.3389/fspor.2026.1898800",
-   "pubtypes": [
-    "Editorial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42460268/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42594004",
    "title": "Effect of discrepant gait assistance on the motion and stability of unplanned gait termination.",
    "journal": "IEEE Trans Neural Syst Rehabil Eng",
@@ -1055,39 +999,6 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42458962",
-   "title": "Evaluation of Chronic Lateral Ankle Instability With an Ankle Sprain Simulator: A Controlled Study in Physically Active Subjects.",
-   "journal": "J Foot Ankle Res",
-   "year": "2026",
-   "authors": [
-    "Lalev\u00e9e M",
-    "Melone MA",
-    "l'Hermette M",
-    "Beldame J",
-    "et al."
-   ],
-   "abstract": "Chronic lateral ankle instability (CLAI), categorized by repetitive ankle sprains, has previously been studied utilizing either questionnaires or ankle sprain simulators. However, a quantitative tool that safely creates an unexpected ankle sprain during gait has not been proposed. This study aimed to determine if a novel ankle sprain simulator differentiates between CLAI and healthy controls and compare findings to known measures of impaired function. Thirty-two feet were assigned to the CLAI group or the control group. Participants walked on a treadmill wearing boots designed to induce unexpected ankle inversion. To do so, the device was triggered randomly during swing to induce instability during loading response. Maximal inversion velocities (MIV) were measured immediately after initial contact. A Ratio MIV was determined by dividing the MIV of the simulated sprain by the average MIV of the 5 steps preceding the simulated sprain. Also, Identification of Functional Ankle Instability (IdFAI) and the Foot Ankle Ability Measurement (FAAM) questionnaires were collected. Mean MIV in the CLAI and Control groups were 213.5\u00a0\u00b1\u00a054.7\u00b0/s and 177.0\u00a0\u00b1\u00a064.2\u00b0/s (p\u00a0=\u00a00.02), while mean Ratio MIV were 1.22\u00a0\u00b1\u00a00.13 and 1.08\u00a0\u00b1\u00a00.08 (p\u00a0<\u00a00.001), respectively. The area under the curve to predict CLAI was 0.83 (95% CI; [0.73; 0.93]) for Ratio MIV with a value greater than 1.15 showing 68% sensitivity and 93.8% specificity. Ratio MIV was moderately correlated with IdFAI (\u03c1\u00a0=\u00a00.50; p\u00a0<\u00a00.0001) and weakly correlated with impairments in activities of daily living (\u03c1\u00a0=\u00a0-0.45; p\u00a0<\u00a00.001) and sports (\u03c1\u00a0=\u00a0-0.43; p\u00a0<\u00a00.001). Inversion velocities caused by the ankle sprain simulator differentiated CLAI from healthy controls. Ratio MIV was associated with measurements of functional CLAI, impairments in ADLs and sports.",
-   "doi": "10.1002/jfa2.70182",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42458962/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -1236,34 +1147,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42457031",
-   "title": "Functional Outcomes and Return to Sport After Surgical Repair of Complete Proximal Hamstring Avulsions in Recreational Athletes: A Retrospective Case Series.",
-   "journal": "J ISAKOS",
-   "year": "2026",
-   "authors": [
-    "Isla J",
-    "Gonzalez W",
-    "Carrasco C",
-    "Zu\u00f1iga J",
-    "et al."
-   ],
-   "abstract": "Proximal hamstring avulsion is an uncommon but disabling injury that may cause persistent pain, weakness, sitting intolerance, and sciatic nerve-related symptoms. Surgical repair is commonly considered in active patients with complete three-tendon avulsions or two-tendon avulsions with substantial retraction, although optimal management remains debated. This study aimed to describe functional outcomes, health-related quality of life, neurological symptoms, and return to sport after open repair of complete or retracted proximal hamstring avulsions in recreational athletes. A retrospective descriptive case series was conducted at a single center. Recreational athletes who underwent open proximal hamstring repair by the same surgeon between April 2022 and July 2025 were included if they had complete two-tendon avulsion with >2 cm retraction or complete three-tendon avulsion. Patients with <6 months of follow-up, low sporting demand, or incomplete records were excluded. Final follow-up outcomes included the Lower Extremity Functional Scale (LEFS), Perth Hamstring Assessment Tool (PHAT), Short Form-36 Health Survey (SF-36), time to return to sport, and return to preinjury level. Normality of continuous variables was assessed using the Shapiro-Wilk test, and results were reported as mean \u00b1 standard deviation or median with interquartile range according to data distribution. Eleven patients were included, with a mean age of 47.7 years and a mean sports participation frequency of 3.2 sessions per week. All injuries were Wood type 5, and 81.8% involved three tendons. Mean time from injury to surgery was 16.2 days, and mean clinical follow-up was 18.9 months. Preoperative sciatic symptoms were present in 36.4% of patients. Immediate postoperative numbness occurred in 54.5% and persisted at final follow-up in 36.4%. All patients returned to sport at a mean of 5.1 months; however, only 36.4% returned to their preinjury sporting level. The median LEFS was 96.3% of the maximum score, the mean PHAT score was 92.3 \u00b1 6.5, the median Short Form-36 Physical Component Summary was 62.7, and the median Short Form-36 Mental Component Summary was 50.7. Open repair of complete or retracted proximal hamstring avulsions in active recreational athletes was associated with excellent patient-reported function and universal return to sport at mid-term follow-up. However, return to preinjury sporting level was achieved by only one-third of patients, and persistent sensory symptoms were relatively frequent. These findings support surgical repair in selected active patients while emphasizing careful preoperative counseling and larger comparative studies. Level IV, Retrospective case series.",
-   "doi": "10.1016/j.jisako.2026.101175",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42457031/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42529416",
@@ -1578,60 +1461,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42460387",
-   "title": "Morphology and control roles in perturbed standing recovery: a robotic study.",
-   "journal": "Front Robot AI",
-   "year": "2026",
-   "authors": [
-    "Jiang Y",
-    "Murcia M",
-    "Yang J",
-    "Seyfarth A",
-    "et al."
-   ],
-   "abstract": "Postural balance is essential for both humans and robots, as failures increase fall risk and limit robotic performance in real-world settings. Although humans and robots share fundamental balancing mechanics, biological complexity limits the isolation of individual muscle functions and direct principle transfer to robots. In this study, we use EPA-Walker, a bio-inspired robot actuated by electric motors and pneumatic artificial muscles (PAMs), as a physical platform to investigate perturbed standing. Here, we focus on the PAM-driven actuation to systematically examine the roles of muscle morphology and control, and to validate biomechanical findings in a robotic setting. To enable a clear upper body perturbation, a Control Moment Gyroscope (CMG) was integrated. We evaluated two stabilization paradigms: passive standing, in which joint compliance was tuned through static PAM pressurization, and active balancing, in which a bio-inspired ground reaction force (GRF) feedback controller generated muscle reflexes. The results showed that biarticular thigh muscles, particularly the hamstrings and rectus femoris, played the most prominent role in enhancing robustness through both morphology in the passive experiments and reflex control in the active experiments, consistent with findings from human perturbation studies. While ankle muscles, such as the soleus, were essential for stable standing mainly through their passive morphological contribution, their reflex-based action could also improve robustness in a more specific manner through center-of-pressure regulation. Activating a single muscle could significantly improve robustness beyond morphology, enabling recovery from 3 \u2009 N m  perturbations. Furthermore, synergistic reflex of biarticular muscles, especially hamstrings and gastrocnemius, extends the robustness to larger perturbations ( 5 \u2009 N m )  . Our contribution highlights the synchronization of control strategies with the underlying morphological design through a universal sensory feedback signal, namely, GRF. These findings demonstrate the value of bio-inspired robots as testbeds to understand the potential principles underlying human motor control and support the transfer of such principles to legged robots and assistive systems.",
-   "doi": "10.3389/frobt.2026.1840011",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42460387/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42458567",
-   "title": "Narrative review of the mechanisms, intrinsic risk and predictive factors, and incidence of lateral ankle sprains amongst male and female athletes participating in sex-similar sports.",
-   "journal": "BMC Sports Sci Med Rehabil",
-   "year": "2026",
-   "authors": [
-    "Newman R",
-    "Kent R"
-   ],
-   "abstract": "Lateral ankle sprains (LAS) are the most common sports-related injuries. Despite increased female participation in sport, there is little information explaining how sex-specific musculoskeletal anatomy lends itself to the mechanisms that cause LAS. Perform a narrative review of the literature from 2000 to the present (2025) that investigates if and how sex affects the mechanism, risk and predictive factors, and incidence of LAS amongst male and female athletes participating in sex-similar sports and activities. Three electronic systematic literature searches of PubMed were performed. One on July 6th, 2022, one on March 2nd, 2023, and the last on August 28th, 2025. Included articles contained information regarding the lateral ligament complex (LLC) or LAS in individuals participating in sex-similar sports, activities, or movements. Articles focused on the diagnosis, recovery, prevention, and long-lasting effects of LAS were excluded. For parallel LAS incidence studies conducted on males and females, two-sample t-tests, assuming unequal variances, were performed using a 5% significance level. One hundred sixteen articles met the study inclusion criteria. Lower body kinematics and kinetics, history of previous sprain, and multiple hop and balance tests were risk factors for LAS in males and females. History of previous sprain, anatomical alignment, weight, ankle joint laxity, general balance, BMI, and hip strength may be more prevalent risk factors in males, while postural sway and instability may be a more prevalent risk factor in females. Epidemiology studies investigating LAS incidence relative to all injuries did not find females to sustain significantly more LAS than males. Epidemiology studies investigating LAS incidence relative to all ankle injuries found females to sustain significantly more LAS than males. Although sex was found to influence the morphology and morphometry of the LLC, there was a lack of research that used these anatomical differences to justify differences in LAS risk factors, thresholds for injury, or mechanisms of injury that exist between males and females. Future work should look to distinguish whether musculoskeletal anatomical differences between male and female ankles influence sex-specific biomechanics and mechanisms of injury, as these factors contribute to LAS incidence and risk factors.",
-   "doi": "10.1186/s13102-026-01857-9",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42458567/",
-   "matched": [
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42515287",
    "title": "Non-Standardized Methods of Assessing Tibial Loads During Different Gait Speeds Obscures Load-Management Recommendations in Healthy Adults.",
    "journal": "Sensors (Basel)",
@@ -1741,34 +1570,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42457033",
-   "title": "Plantar pressure distribution has potential to be an adjunct to predict return to sport after anterior cruciate ligament reconstruction: An observational study.",
-   "journal": "J ISAKOS",
-   "year": "2026",
-   "authors": [
-    "Mehra P",
-    "Nayak BK",
-    "Uppal H",
-    "Gupta A",
-    "et al."
-   ],
-   "abstract": "The human foot plays an important role in the biomechanical function of the lower limb. Plantar pressure distribution (PPD) can be a useful way to gauge functional knee stability. The objective of the study was to determine whether PPD can be used as an objective criterion for return to sports post anterior cruciate ligament (ACL) reconstruction (ACLR). Over a period of 18 months, 54 symptomatic, MRI-confirmed, isolated ACL tear patients were enrolled in the study. Plantar pressure distribution was documented preoperatively and at 3, 4, 5, and 6 months postoperatively. International Knee Documentation Committee (IKDC) scoring and isometric strength testing of quadriceps and hamstrings were also done simultaneously. 50 patients completed follow-up. IKDC score improved at all follow-ups. The forefoot PPD decreased, while the hindfoot PPD increased with statistically significant differences (p < 0.01) between both limbs up to 6 months. Reduced knee extension isometric strength was seen on the involved side with statistically significant differences (p < 0.01) between both limbs at all follow-up timelines. Twenty-seven participants were cleared to perform the advanced lower-extremity sports assessment (ALESA) return to sport test at 6 months. Participants with ALESA score \u226511 had statistically significantly higher hindfoot (p = 0.031) and lower forefoot pressures (p = 0.033) compared to those who did not. PPD changes can guide dynamic functional assessment of patients with ACL tears and recovery patterns after ACL reconstruction. It has potential to be used as an adjunct criterion when determining readiness for return to sports.",
-   "doi": "10.1016/j.jisako.2026.101182",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42457033/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
