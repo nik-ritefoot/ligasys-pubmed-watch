@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-16T13:56:42+00:00",
+ "generated": "2026-08-17T14:03:58+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,9 +65,9 @@
   }
  ],
  "counts": {
-  "total": 78,
+  "total": 76,
   "new": 0,
-  "research": 24,
+  "research": 22,
   "fieldnotes": 54
  },
  "records": [
@@ -256,41 +256,6 @@
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42465963",
-   "title": "Anticipation may underestimate neuromechanical deficits in chronic ankle instability during walking inversion perturbations.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Ran W",
-    "Yin W"
-   ],
-   "abstract": "This study aimed to compare ankle kinematics and lower limb muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following an inversion perturbation during walking, with a particular focus on how anticipation modulates muscle activation and the consequent ankle inversion post-perturbation. Forty-six participants were enrolled, including 23 with CAI and 23 age- and sex-matched non-CAI controls. They walked at a self-selected pace on a custom-designed platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation under both anticipated and unanticipated conditions. Ankle kinematics and lower limb muscle electromyography were synchronously collected during a 400-ms window, specifically 200\u2005ms pre- and 200\u2005ms post-perturbation. Continuous time-series data were compared using a two-way mixed-design ANOVA via Statistical Parametric Mapping. Significant interactions were detected in ankle inversion angles (30.0-105.0\u2005ms, F max\u2009=\u200929.981,\u2009=\u20098.337, p\u2009=\u20090.005), as well as for the activation of the peroneus longus (PL) (67-121\u2005ms, F max\u2009=\u200925.097, p\u2009=\u20090.005) and pre-activation of lateral gastrocnemius (LG) (-200 to -161\u2005ms, F max\u2009=\u200915.694, p\u2009=\u20090.014). Transitioning from anticipated to unanticipated conditions elicited an increase in ankle inversion across both individuals with and without CAI, with a significantly greater magnitude of increase observed in CAI individuals (all p\u2009<\u20090.001). Individuals without CAI significantly increased their PL activation when transitioning from anticipated to unanticipated conditions (p\u2009<\u20090.001), whereas the CAI individuals exhibited no significant change. Conversely, individuals with CAI demonstrated a significant increase in LG pre-activation (p\u2009=\u20090.006), while those without CAI exhibited no significant change. Under unanticipated perturbations, the compensatory increase in LG pre-activation observed in individuals with CAI remains insufficient to offset diminished PL activation and the subsequent increase in ankle inversion. These neuromechanical deficits, typically masked by anticipation, indicate that predictable paradigms may not fully capture real-world injury scenarios. Rehabilitation should prioritize targeted PL recruitment to enhance dynamic stability and reduce reinjury risk.",
-   "doi": "10.3389/fspor.2026.1852628",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42465963/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
@@ -999,34 +964,6 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42462423",
-   "title": "Evaluation of foot biomechanics following surgical interventions, including SPOTT and SPLATT procedures in the management of equinovarus deformity in cerebral palsy hemiplegia.",
-   "journal": "Gait Posture",
-   "year": "2026",
-   "authors": [
-    "Walsh HP",
-    "Carty CP",
-    "Vasudeva V",
-    "Brierty A",
-    "et al."
-   ],
-   "abstract": "Cerebral Palsy (CP) is a group of disorders affecting movement and posture and is the most common physical disability in children. Surgical interventions, such as split anterior and posterior tibial tendon transfers (SPLATT and SPOTT), can be necessary to correct foot and ankle deformities in CP. This is a retrospective pre-/post-operative cohort study that aims to specifically investigate effects on lower limb and foot biomechanics in children with CP. Fifteen children aged 8-16 years at initial assessment (10 girls, 5 boys) underwent SPLATT and SPOTT procedures as part of their CP hemiplegic equinovarus correction. 3D multi-segment foot kinematics, lower limb kinematic and kinetics was assessed pre- and 12months-post operatively using descriptive statistics, one-way ANOVA and statistical parametric mapping. Walking velocity did not change, but there was a significant reduction in cadence, with a trending, but not significant, increase in stride length. There were several improvements in lower limb kinematics, with significant changes in inversion across all three foot segments. This was accompanied by significant changes in adduction in the mid-foot segment and to a lesser extent, the forefoot segment. Combined equinovarus correction procedures can lead to improvements in foot biomechanics during gait in children with CP hemiplegia. Overall improvements in cadence and the low revision rate further highlight the potential benefits of these procedures. While the individual contribution of each procedure requires further investigation, the outcomes of this study demonstrate the effectiveness of combined surgical procedures and guides clinical decision-making for the treatment of equinovarus deformity in children with cerebral palsy hemiplegia.",
-   "doi": "10.1016/j.gaitpost.2026.110280",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42462423/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
