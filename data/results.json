@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T14:03:58+00:00",
+ "generated": "2026-08-18T14:16:17+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,11 +66,125 @@
  ],
  "counts": {
   "total": 76,
-  "new": 0,
+  "new": 4,
   "research": 22,
   "fieldnotes": 54
  },
  "records": [
+  {
+   "pmid": "42607798",
+   "title": "Clinical Outcomes Following Platelet-Rich Plasma Injection for Plantar Plate Injuries at Midterm Follow-up.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "Rubin J",
+    "Rutherford R",
+    "Gauthier P",
+    "Walls C",
+    "et al."
+   ],
+   "abstract": "Evidence supporting platelet-rich plasma (PRP) injection for plantar plate injuries remains limited. To evaluate patient-reported outcomes, return to activity, complications, and failures at midterm follow-up in patients with plantar plate injuries treated with PRP injection. Retrospective case series evaluating outcomes following PRP injection for plantar plate injuries. Patients with plantar plate injuries were treated with ultrasound-guided PRP injection following failure of nonoperative management. Clinical outcomes evaluated were Foot and Ankle Outcome Score (FAOS) and Visual Analog Scale (VAS). Complications and failures were also reported. Twenty patients (23 feet) with a mean age of 51.0 \u00b1 14.5 years and mean follow-up time of 58.0 \u00b1 28.4 months were included. Mean FAOS scores improved 32.2 points (p < 0.001), with 20 of 23 (87%) feet achieving the minimal clinically important difference (MCID). Mean VAS scores improved 4.5 points (p < 0.001), with 19 of 23 (83%) feet achieving the MCID. Among 10 athletes, 7 (70%) returned to sport at a mean time of 3.1 \u00b1 1.1 months. Complications occurred in 1 of 23 (4%) feet, and 3 of 23 (13%) feet required subsequent surgical intervention. At midterm follow-up, PRP injection for plantar plate injuries was associated with significant clinical improvement and a favorable safety profile, suggesting a potential role as an intermediary treatment option between conservative management and surgery. Female sex, smoking history, and higher-grade injuries were associated with inferior outcomes, underscoring the importance of individualized patient counseling and injury severity assessment. IV, retrospective case series.",
+   "doi": "10.1053/j.jfas.2026.08.012",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42607798/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42606584",
+   "title": "High ankle sprains in athletes: A comprehensive imaging focused review.",
+   "journal": "Skeletal Radiol",
+   "year": "2026",
+   "authors": [
+    "Anandh N",
+    "Dorrian F",
+    "Ramaswami G",
+    "Linklater J"
+   ],
+   "abstract": "High ankle sprains represent a distinct subset of ankle injuries involving disruption of the distal tibiofibular syndesmosis. Although less common than lateral ankle sprains, these injuries are frequently underdiagnosed on initial clinical and radiographic assessment and carry significant implications for ankle stability and long-term function. In the athletic setting, high ankle sprains are associated with an increased return-to-play time compared to lateral ligament injuries. Accurate diagnosis relies heavily on imaging, with weight-bearing radiographs and computed tomography aiding in assessment of syndesmotic alignment and fractures, whilst MRI allows for direct visualisation of the ligaments and associated injuries. This review provides a comprehensive, imaging-centred overview of the spectrum of high ankle sprain injuries with a focus on lower energy mechanisms, which occur more commonly in sport. We will discuss and review the relevant anatomy, biomechanics, injury patterns, common associated injuries, the phases of healing, postoperative appearances and common complications. KEY POINTS: \u2022 MRI is pivotal in diagnosis of high ankle sprains, injury grading, evaluation of associated injuries, assessment of ligament healing and demonstration of postoperative complications. \u2022 The sagittal and coronal planes are key in initial MRI assessment of the AITFL. Axial plane assessment is limited due to obliquity of the AITFL and resultant partial sampling. \u2022 The AITFL is the first ligament to fail, usually towards the fibular attachment. \u2022 The IIOL usually fails toward the tibial attachment. \u2022 The PITFL typically fails at the inferior, lateral border of the tibial attachment, with variable propagation superiorly and medially often associated with periosteal stripping and tibial plafond chondral injury.",
+   "doi": "10.1007/s00256-026-05291-3",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42606584/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42608902",
+   "title": "Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial.",
+   "journal": "Acta Orthop Traumatol Turc",
+   "year": "2026",
+   "authors": [
+    "G\u00fcltekin O",
+    "K\u0131l\u0131n\u00e7 BE",
+    "\u015een AE",
+    "\u00c7etin C",
+    "et al."
+   ],
+   "abstract": "Surgical treatment of Weber type B ankle fractures often requires careful postoperative rehabilitation, especially when syndesmotic injuries are present. In recent years, Kinesio taping (KT) has been used in various orthopedic conditions, though its role in fracture recovery remains debatable. This study aimed to explore whether KT might support early recovery in such cases. Thirty adult patients with isolated Weber B ankle fractures and confirmed syndesmotic injury were enrolled. They were randomly assigned to 2 groups. One received KT in addition to a conventional rehabilitation protocol; the other followed rehabilitation without taping. Pain was assessed using the Visual Analog Scale. Ankle range of motion (ROM), swelling (via tape measurement), and functional mobility through the Timed Up and Go (TUG) test were also evaluated on postoperative days 1, 7, 14, and 28. Measurement reliability was verified using intraclass correlation coefficients. Statistical comparisons involved t-tests and analysis of variance (P < .05). On day 1, outcome measures were similar between groups. However, by day 7 and more evidently on day 28, the KT group showed reduced pain, improved ROM, and faster TUG performance (P < .001). Edema reduction was particularly noticeable and persisted throughout follow-up. Kinesio taping may serve as a beneficial adjunct during early postoperative rehabilitation following Weber B fractures. Importantly, integrating KT into standard care protocols may enrich patient-centered rehabilitation approaches due to its simplicity, safety, and noninvasive nature. \u00a0 Cite this article as: G\u00fcltekin O, K\u0131l\u0131n. BE, \u015een AE, .etin C, Ol\u011fun Y, Varol A. Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial. Acta Orthop Traumatol Turc., 2026; 60(4), 0397, doi: 10.5152/j.aott.2026.25397.",
+   "doi": "10.5152/j.aott.2026.25397",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42608902/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42606090",
+   "title": "Reliability, Validity, and Predictive Value of the Landing Error Scoring System in Soccer Players: A Systematic Review.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "Li Z",
+    "Yang Y",
+    "Fu Y",
+    "Guo X",
+    "et al."
+   ],
+   "abstract": "Lower-limb injuries are common in soccer. The landing error scoring system (LESS) is used widely for field-based movement screening, yet its psychometric properties and prognostic value in soccer populations remain uncertain. To synthesize evidence on the reliability, validity, and prognostic utility of the LESS among soccer participants. PubMed, Web of Science, Cochrane Library, CNKI, and Wanfang were searched from inception to August 2025. Studies were included if they involved soccer participants and reported LESS-related reliability, validity, or prognostic outcomes. Modified versions of the LESS were included only when their scoring framework was clearly described and broadly comparable with the original tool. Systematic review with exploratory meta-analysis. Level 2 to 4. Two reviewers independently screened studies, extracted data, and assessed methodological quality using a modified Newcastle-Ottawa Scale. Reliability and validity outcomes, including intraclass correlation coefficients (ICCs) and agreement with 3-dimensional (3-D) motion analysis, were summarized descriptively. Prognostic metrics, including odds ratios (ORs) and area under the curve values, were extracted when available. When \u22652 comparable prospective cohorts were available, an exploratory random-effects meta-analysis was performed. A total of 10 studies met the inclusion criteria. In soccer settings, the LESS demonstrated excellent intra-rater reliability (ICC \u2248 0.90-0.95) and good inter-rater reliability (ICC \u2248 0.84-0.95), with item-dependent convergent validity versus 3-D kinematics. Evidence for prognostic utility was inconsistent across cohorts. Exploratory pooling of 2 comparable prospective studies showed that higher preseason LESS scores were associated with greater odds of subsequent lower-limb injury (pooled OR, 9.31; 95% CI, 3.11-27.91; I\u00b2 = 0%). However, this pooled estimate should be interpreted cautiously because it was based on only 2 studies with variable injury definitions. The LESS is reliable and shows acceptable construct validity in soccer participants, but evidence for its prognostic utility remains inconsistent. It should not be interpreted as a stand-alone predictor of injury risk. Clinically, the LESS may serve as a low-cost, field-based assessment of landing movement quality within a broader multifactorial screening framework.",
+   "doi": "10.1177/19417381261463676",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42606090/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "42524706",
    "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
@@ -1288,35 +1402,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42469828",
-   "title": "Internal brace augmentation versus modified brostrom-gould procedure for chronic lateral ankle instability: a systematic review and meta-analysis of functional and radiographic outcomes.",
-   "journal": "J Orthop Surg Res",
-   "year": "2026",
-   "authors": [
-    "Li X",
-    "Wei Z",
-    "Cao Y",
-    "Cui Z",
-    "et al."
-   ],
-   "abstract": "To compare functional, radiographic, and safety outcomes between internal brace (IB) augmentation and modified Brostr\u00f6m-Gould (MBG) repair for chronic lateral ankle instability (CLAI), and to determine whether IB provides clinically relevant advantages over conventional anatomic repair. A systematic review and meta-analysis was conducted in accordance with PRISMA 2020 and prospectively registered in PROSPERO. PubMed/MEDLINE, Embase, Cochrane CENTRAL, Web of Science, and Scopus were searched from inception to January 2026. Randomized controlled trials and observational studies comparing IB augmentation with MBG repair for CLAI were included. The primary outcome was the Foot and Ankle Ability Measure (FAAM) Sports score. Secondary outcomes included Foot and Ankle Outcome Score (FAOS), American Orthopaedic Foot & Ankle Society (AOFAS) score, return-to-sport time and rate, complications, recurrence, talar tilt angle (TTA), anterior talar translation (ATT), and operative time. Risk of bias was assessed using RoB 2 and ROBINS-I. Random-effects meta-analyses were performed. Thirteen comparative studies involving 1,015 patients (472 IB, 543 MBG) were included. IB was associated with a significant improvement in FAAM Sports score versus MBG (mean difference [MD]\u2009+\u20094.59; 95% confidence interval [CI]\u2009+\u20091.35 to +\u20097.82; I\u00b2=67.1%). After exclusion of a young female-specific cohort, the effect increased (MD\u2009+\u20096.06; 95% CI\u2009+\u20094.26 to +\u20097.86; I\u00b2=0%). Descriptively, IB patients returned to sport 4-8 weeks earlier than MBG patients across two studies; formal meta-analysis was not performed owing to the limited number of studies (k\u2009=\u20092). No significant between-group differences were observed for FAOS, AOFAS, return-to-sport rate, complications, recurrence, TTA, ATT, or operative time. IB augmentation was associated with better sports-specific function and earlier return to sport than MBG repair in patients with CLAI, without evidence of inferior radiographic or safety outcomes. These findings support IB as a useful surgical option, particularly for active patients in whom recovery trajectory and return to sport are important clinical priorities. This systematic review and meta-analysis was prospectively registered in PROSPERO (Registration No. CRD420261355719; registration date: 30 March 2026).",
-   "doi": "10.1186/s13018-026-07113-7",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42469828/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42479507",
    "title": "Intra-Foot Energy Recycling Enhances Gait Economy in a Low-Profile Passive Foot Exoskeleton.",
    "journal": "IEEE Trans Neural Syst Rehabil Eng",
@@ -1708,30 +1793,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42468922",
-   "title": "Recovery Latency as a Dynamic Biomarker of Adaptive Capacity.",
-   "journal": "Int J Sports Physiol Perform",
-   "year": "2026",
-   "authors": [
-    "Silva AA"
-   ],
-   "abstract": "To examine Recovery Latency (RL) as a candidate temporal marker of adaptive capacity by assessing whether recovery dynamics can be consistently quantified across independent sport and physiological data sets. A total of 23 unique data sets (\u223c230,000 observations) were analyzed including athletic performance cohorts, injury surveillance systems, and heart rate variability-based recovery studies. RL was defined as the time required for recovery proxies to return to an individualized rolling baseline following high-load events. Analyses focused on sport-performance contexts, with additional data sets included as exploratory extensions. Associations with autonomic and performance-related variables were evaluated using correlation analyses and predictive modeling. The Dynamic Adaptive Capacity framework was explored as a potential application of RL dynamics. Preliminary evidence suggests that RL captures variation in recovery dynamics. RL showed high apparent discriminative performance for overtraining risk (area under the receiver operating characteristic curve = 0.934) and was associated with physiological markers including cortisol (r = .631) and heart rate variability (r = -.644). Longitudinal analysis identified 28,472 RL events across 74 athletes, with 60% exhibiting a positive RL slope suggesting progressive changes in recovery dynamics across individuals. Patterns were consistent with expected physiological responses to training load and stress. These findings suggest that RL may be relevant in sport-performance contexts; however, they should be interpreted as exploratory and hypothesis-generating rather than as evidence of validation.",
-   "doi": "10.1123/ijspp.2026-0111",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42468922/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42483632",
    "title": "Return-to-Sport Outcomes After Suture Button Fixation for Syndesmotic Injury in Elite Athletes With Chronic Lateral Ankle Instability: A Prospective Case Series.",
    "journal": "Orthop J Sports Med",
@@ -1866,31 +1927,6 @@
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42468935",
-   "title": "Sex-Moderated Effects of Soccer Cleat Stud Shape and Fatigue on Traction and Knee Joint Mechanics During Lateral Cutting.",
-   "journal": "J Appl Biomech",
-   "year": "2026",
-   "authors": [
-    "Karolidis E",
-    "Hahn ME"
-   ],
-   "abstract": "Market-available soccer footwear is predominantly designed according to male athlete mechanics. With known sex differences in cutting strategies, it should not be assumed that the female body can withstand the same amount of traction as males. Mechanical stability of the lower limbs is affected by fatigue, with negative effects most pronounced in female athletes. Soccer cleats could play a key role in moderating female athletes' exposure to torsional injury mechanisms across game play, such as those mechanisms in anterior cruciate ligament injury. This study investigates the influence of soccer cleat stud shape, elliptical, and bladed on traction utilization and knee mechanics of male and female participants during lateral cutting before and after fatigue progression. College-aged soccer participants (10 males, 10 females) performed 2 data collections in cleated footwear of different stud shapes. Lower limb kinetics and kinematics were compared between cleats and across fatigue states. No interaction effects were found on knee mechanics, though main effects of sex and fatigue were observed. A 3-way interaction on the rate of traction utilized at initial contact was found, demonstrating the influence of fatigue and cleat on sex-specific ground interactions. Future works are warranted to understand the effect of high-performance product on female mechanics.",
-   "doi": "10.1123/jab.2025-0132",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42468935/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
      "bucket": "research"
     }
    ],
@@ -2059,32 +2095,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42468341",
-   "title": "The effects of ankle exoskeleton assistance on propulsive capacity in younger adult walking.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Simaitis EG",
-    "Lewek MD",
-    "Franz JR"
-   ],
-   "abstract": "Propulsive capacity - the maximum ability to generate forward propulsion during push-off in walking - is an important determinant of walking performance. Accordingly, an insufficient ankle push-off can limit physical activity and community accessibility. Wearable ankle exoskeletons (EXOs) have emerged as a strategy to augment ankle push-off, but most prior work has focused on metabolic cost or habitual walking mechanics, providing limited insight into how EXO assistance influences propulsive capacity in walking. Here, we used a treadmill-based propulsive stress test to determine how powered ankle EXO assistance affects propulsive capacity and its biomechanical determinants in healthy younger adults. Fifteen participants completed walking trials with four EXO assistance levels (none, low, medium, high) while a horizontal impeding force progressively increased until task failure. Propulsive capacity was defined as the maximum achievable impeding force. Group-level analyses revealed no main effect of assistance level on propulsive capacity or most biomechanical outcomes. However, exploratory within-subject analyses indicated that 12/15 participants improved propulsive stress test performance with assistance. Comparisons between unassisted walking and participants' best-performing assistance condition revealed significant increases in propulsive capacity and anterior ground reaction force (GRF) impulse without increases in peak biological ankle moment (AMom), trailing limb angle (TLA), or calf excitation. Improvements in propulsive capacity were associated with larger anterior GRF, which were jointly explained by those in AMom and TLA. These results highlight the importance of a capacity-based, within-subject framework to evaluate how ankle assistance influences maximal propulsive performance and provide a mechanistic foundation for future studies in populations with insufficient propulsion.",
-   "doi": "10.1016/j.jbiomech.2026.113462",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42468341/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42590683",

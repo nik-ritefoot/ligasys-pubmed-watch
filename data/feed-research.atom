@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-08-17T14:03:58Z</updated>
+  <updated>2026-08-18T14:16:17Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial.</title>
+    <id>urn:pmid:42608902</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42608902/" rel="alternate"/>
+    <updated>2026-08-18T14:16:17Z</updated>
+    <published>2026-08-18T14:16:17Z</published>
+    <author><name>Gültekin O</name></author><author><name>Kılınç BE</name></author><author><name>Şen AE</name></author><author><name>Çetin C</name></author><author><name>et al.</name></author>
+    <category term="bracing-orthosis-efficacy" label="Bracing / orthosis efficacy &amp; performance cost"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Gültekin O, Kılınç BE, Şen AE, Çetin C, et al. · Acta Orthop Traumatol Turc · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Surgical treatment of Weber type B ankle fractures often requires careful postoperative rehabilitation, especially when syndesmotic injuries are present. In recent years, Kinesio taping (KT) has been used in various orthopedic conditions, though its role in fracture recovery remains debatable. This study aimed to explore whether KT might support early recovery in such cases. Thirty adult patients with isolated Weber B ankle fractures and confirmed syndesmotic injury were enrolled. They were randomly assigned to 2 groups. One received KT in addition to a conventional rehabilitation protocol; the other followed rehabilitation without taping. Pain was assessed using the Visual Analog Scale. Ankle range of motion (ROM), swelling (via tape measurement), and functional mobility through the Timed Up and Go (TUG) test were also evaluated on postoperative days 1, 7, 14, and 28. Measurement reliability was verified using intraclass correlation coefficients. Statistical comparisons involved t-tests and analysis of variance (P &amp;lt; .05). On day 1, outcome measures were similar between groups. However, by day 7 and more evidently on day 28, the KT group showed reduced pain, improved ROM, and faster TUG performance (P &amp;lt; .001). Edema reduction was particularly noticeable and persisted throughout follow-up. Kinesio taping may serve as a beneficial adjunct during early postoperative rehabilitation following Weber B fractures. Importantly, integrating KT into standard care protocols may enrich patient-centered rehabilitation approaches due to its simplicity, safety, and noninvasive nature.   Cite this article as: Gültekin O, Kılın. BE, Şen AE, .etin C, Olğun Y, Varol A. Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial. Acta Orthop Traumatol Turc., 2026; 60(4), 0397, doi: 10.5152/j.aott.2026.25397.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.5152/j.aott.2026.25397&quot;&gt;10.5152/j.aott.2026.25397&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42608902/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.</title>
     <id>urn:pmid:42594821</id>

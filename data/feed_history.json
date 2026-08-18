@@ -1,5 +1,104 @@
 [
  {
+  "pmid": "42607798",
+  "title": "Clinical Outcomes Following Platelet-Rich Plasma Injection for Plantar Plate Injuries at Midterm Follow-up.",
+  "journal": "J Foot Ankle Surg",
+  "year": "2026",
+  "authors": [
+   "Rubin J",
+   "Rutherford R",
+   "Gauthier P",
+   "Walls C",
+   "et al."
+  ],
+  "abstract": "Evidence supporting platelet-rich plasma (PRP) injection for plantar plate injuries remains limited. To evaluate patient-reported outcomes, return to activity, complications, and failures at midterm follow-up in patients with plantar plate injuries treated with PRP injection. Retrospective case series evaluating outcomes following PRP injection for plantar plate injuries. Patients with plantar plate injuries were treated with ultrasound-guided PRP injection following failure of nonoperative management. Clinical outcomes evaluated were Foot and Ankle Outcome Score (FAOS) and Visual Analog Scale (VAS). Complications and failures were also reported. Twenty patients (23 feet) with a mean age of 51.0 \u00b1 14.5 years and mean follow-up time of 58.0 \u00b1 28.4 months were included. Mean FAOS scores improved 32.2 points (p < 0.001), with 20 of 23 (87%) feet achieving the minimal clinically important difference (MCID). Mean VAS scores improved 4.5 points (p < 0.001), with 19 of 23 (83%) feet achieving the MCID. Among 10 athletes, 7 (70%) returned to sport at a mean time of 3.1 \u00b1 1.1 months. Complications occurred in 1 of 23 (4%) feet, and 3 of 23 (13%) feet required subsequent surgical intervention. At midterm follow-up, PRP injection for plantar plate injuries was associated with significant clinical improvement and a favorable safety profile, suggesting a potential role as an intermediary treatment option between conservative management and surgery. Female sex, smoking history, and higher-grade injuries were associated with inferior outcomes, underscoring the importance of individualized patient counseling and injury severity assessment. IV, retrospective case series.",
+  "doi": "10.1053/j.jfas.2026.08.012",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42607798/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-18T14:16:17Z"
+ },
+ {
+  "pmid": "42606584",
+  "title": "High ankle sprains in athletes: A comprehensive imaging focused review.",
+  "journal": "Skeletal Radiol",
+  "year": "2026",
+  "authors": [
+   "Anandh N",
+   "Dorrian F",
+   "Ramaswami G",
+   "Linklater J"
+  ],
+  "abstract": "High ankle sprains represent a distinct subset of ankle injuries involving disruption of the distal tibiofibular syndesmosis. Although less common than lateral ankle sprains, these injuries are frequently underdiagnosed on initial clinical and radiographic assessment and carry significant implications for ankle stability and long-term function. In the athletic setting, high ankle sprains are associated with an increased return-to-play time compared to lateral ligament injuries. Accurate diagnosis relies heavily on imaging, with weight-bearing radiographs and computed tomography aiding in assessment of syndesmotic alignment and fractures, whilst MRI allows for direct visualisation of the ligaments and associated injuries. This review provides a comprehensive, imaging-centred overview of the spectrum of high ankle sprain injuries with a focus on lower energy mechanisms, which occur more commonly in sport. We will discuss and review the relevant anatomy, biomechanics, injury patterns, common associated injuries, the phases of healing, postoperative appearances and common complications. KEY POINTS: \u2022 MRI is pivotal in diagnosis of high ankle sprains, injury grading, evaluation of associated injuries, assessment of ligament healing and demonstration of postoperative complications. \u2022 The sagittal and coronal planes are key in initial MRI assessment of the AITFL. Axial plane assessment is limited due to obliquity of the AITFL and resultant partial sampling. \u2022 The AITFL is the first ligament to fail, usually towards the fibular attachment. \u2022 The IIOL usually fails toward the tibial attachment. \u2022 The PITFL typically fails at the inferior, lateral border of the tibial attachment, with variable propagation superiorly and medially often associated with periosteal stripping and tibial plafond chondral injury.",
+  "doi": "10.1007/s00256-026-05291-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42606584/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-18T14:16:17Z"
+ },
+ {
+  "pmid": "42608902",
+  "title": "Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial.",
+  "journal": "Acta Orthop Traumatol Turc",
+  "year": "2026",
+  "authors": [
+   "G\u00fcltekin O",
+   "K\u0131l\u0131n\u00e7 BE",
+   "\u015een AE",
+   "\u00c7etin C",
+   "et al."
+  ],
+  "abstract": "Surgical treatment of Weber type B ankle fractures often requires careful postoperative rehabilitation, especially when syndesmotic injuries are present. In recent years, Kinesio taping (KT) has been used in various orthopedic conditions, though its role in fracture recovery remains debatable. This study aimed to explore whether KT might support early recovery in such cases. Thirty adult patients with isolated Weber B ankle fractures and confirmed syndesmotic injury were enrolled. They were randomly assigned to 2 groups. One received KT in addition to a conventional rehabilitation protocol; the other followed rehabilitation without taping. Pain was assessed using the Visual Analog Scale. Ankle range of motion (ROM), swelling (via tape measurement), and functional mobility through the Timed Up and Go (TUG) test were also evaluated on postoperative days 1, 7, 14, and 28. Measurement reliability was verified using intraclass correlation coefficients. Statistical comparisons involved t-tests and analysis of variance (P < .05). On day 1, outcome measures were similar between groups. However, by day 7 and more evidently on day 28, the KT group showed reduced pain, improved ROM, and faster TUG performance (P < .001). Edema reduction was particularly noticeable and persisted throughout follow-up. Kinesio taping may serve as a beneficial adjunct during early postoperative rehabilitation following Weber B fractures. Importantly, integrating KT into standard care protocols may enrich patient-centered rehabilitation approaches due to its simplicity, safety, and noninvasive nature. \u00a0 Cite this article as: G\u00fcltekin O, K\u0131l\u0131n. BE, \u015een AE, .etin C, Ol\u011fun Y, Varol A. Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial. Acta Orthop Traumatol Turc., 2026; 60(4), 0397, doi: 10.5152/j.aott.2026.25397.",
+  "doi": "10.5152/j.aott.2026.25397",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42608902/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-18T14:16:17Z"
+ },
+ {
+  "pmid": "42606090",
+  "title": "Reliability, Validity, and Predictive Value of the Landing Error Scoring System in Soccer Players: A Systematic Review.",
+  "journal": "Sports Health",
+  "year": "2026",
+  "authors": [
+   "Li Z",
+   "Yang Y",
+   "Fu Y",
+   "Guo X",
+   "et al."
+  ],
+  "abstract": "Lower-limb injuries are common in soccer. The landing error scoring system (LESS) is used widely for field-based movement screening, yet its psychometric properties and prognostic value in soccer populations remain uncertain. To synthesize evidence on the reliability, validity, and prognostic utility of the LESS among soccer participants. PubMed, Web of Science, Cochrane Library, CNKI, and Wanfang were searched from inception to August 2025. Studies were included if they involved soccer participants and reported LESS-related reliability, validity, or prognostic outcomes. Modified versions of the LESS were included only when their scoring framework was clearly described and broadly comparable with the original tool. Systematic review with exploratory meta-analysis. Level 2 to 4. Two reviewers independently screened studies, extracted data, and assessed methodological quality using a modified Newcastle-Ottawa Scale. Reliability and validity outcomes, including intraclass correlation coefficients (ICCs) and agreement with 3-dimensional (3-D) motion analysis, were summarized descriptively. Prognostic metrics, including odds ratios (ORs) and area under the curve values, were extracted when available. When \u22652 comparable prospective cohorts were available, an exploratory random-effects meta-analysis was performed. A total of 10 studies met the inclusion criteria. In soccer settings, the LESS demonstrated excellent intra-rater reliability (ICC \u2248 0.90-0.95) and good inter-rater reliability (ICC \u2248 0.84-0.95), with item-dependent convergent validity versus 3-D kinematics. Evidence for prognostic utility was inconsistent across cohorts. Exploratory pooling of 2 comparable prospective studies showed that higher preseason LESS scores were associated with greater odds of subsequent lower-limb injury (pooled OR, 9.31; 95% CI, 3.11-27.91; I\u00b2 = 0%). However, this pooled estimate should be interpreted cautiously because it was based on only 2 studies with variable injury definitions. The LESS is reliable and shows acceptable construct validity in soccer participants, but evidence for its prognostic utility remains inconsistent. It should not be interpreted as a stand-alone predictor of injury risk. Clinically, the LESS may serve as a low-cost, field-based assessment of landing movement quality within a broader multifactorial screening framework.",
+  "doi": "10.1177/19417381261463676",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42606090/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-18T14:16:17Z"
+ },
+ {
   "pmid": "42599019",
   "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
   "journal": "Am J Sports Med",
