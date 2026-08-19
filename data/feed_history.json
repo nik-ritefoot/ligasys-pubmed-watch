@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42611401",
+  "title": "Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.",
+  "journal": "Sports Med Open",
+  "year": "2026",
+  "authors": [
+   "Miralles-Iborra A",
+   "Rond\u00f3n-Espinosa H",
+   "Vera-Garcia FJ",
+   "Courel-Ib\u00e1\u00f1ez J",
+   "et al."
+  ],
+  "abstract": "Understanding the situational contexts of lower-limb muscle injuries in football is critical for informing the design of effective prevention strategies. While their frequency and burden are well documented, the frequently observed inciting events and situational patterns underlying these injuries remain insufficiently synthesised. To systematically review and meta-analyse video-based analysis studies examining the inciting events, timing, field location, and situational patterns associated with lower-limb muscle injuries in professional football players. A PRISMA-guided systematic review was conducted across five databases (PubMed, Web of Science, Embase, Scopus, SPORTDiscus) from inception to October 1, 2025. Eligible studies used video analysis to examine inciting events (type, kinetic chain, vertical and horizontal velocities), timing (match half, minute), field location (short and long axis), and situational/tactical patterns (specific action, defensive/offensive context, ball possession status) of lower-limb muscle injuries in professional football. Dichotomous outcomes were pooled using random-effects odds ratios (OR), and multi-category outcomes were synthesised via a Bayesian hierarchical multinomial-logit model with study-level pooled random-effects marginal proportions (RE) and 95% credible intervals (CrI). Risk of bias and methodological quality of included studies were appraised using the AXIS, QA-SIVAS and STROBE-SIIS tools. Twelve studies (513 players [434 male and 79 female]; 538 injuries [452 in males, 86 in females]) were included. Hamstring injuries predominated (74.7%), followed by adductor (14.3%), quadriceps (7.1%), and calf (3.9%) injuries. Sufficient data for meta-analysis were available only for male players. Non-contact injuries (n\u2009=\u2009322) were significantly more frequent than indirect contact (n\u2009=\u2009108) injuries (OR\u2009=\u20098.01, 95% CI 3.85-16.64; p\u2009<\u20090.001). These injuries occurred predominantly during moderate-to-high horizontal velocity actions, compared with zero-to-low velocity actions (OR\u2009=\u200919.56, 95% CI 2.55-150.12; p\u2009=\u20090.004). Pooled proportions were highest during running (RE\u2009=\u20090.29, 95% CrI: 0.17-0.44), stretching/reaching (RE\u2009=\u20090.24, 95% CrI: 0.12-0.40), or kicking actions (RE\u2009=\u20090.22, 95% CrI: 0.09-0.38), although no credible differences were observed between categories. No consistent effects were found for the kinetic chain, match time, field location, or tactical phase. In professional football, lower-limb muscle injuries were predominantly observed during non-contact inciting events occurring at moderate-to-high horizontal speed, frequently involving the hamstrings during running, stretching/reaching, or kicking actions. No consistent effects were found for match time, field location, or tactical phase. Methodological heterogeneity and the absence of exposure-adjusted data limit the certainty of these findings. The protocol for this systematic review was registered a priori in the INPLASY database (registration number INPLASY2024100091).",
+  "doi": "10.1186/s40798-026-01090-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42611401/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-19T14:16:03Z"
+ },
+ {
   "pmid": "42607798",
   "title": "Clinical Outcomes Following Platelet-Rich Plasma Injection for Plantar Plate Injuries at Midterm Follow-up.",
   "journal": "J Foot Ankle Surg",
