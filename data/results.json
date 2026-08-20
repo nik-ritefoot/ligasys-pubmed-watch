@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T14:16:03+00:00",
+ "generated": "2026-08-20T14:18:14+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,39 +66,97 @@
  ],
  "counts": {
   "total": 77,
-  "new": 1,
-  "research": 22,
-  "fieldnotes": 55
+  "new": 3,
+  "research": 23,
+  "fieldnotes": 54
  },
  "records": [
   {
-   "pmid": "42611401",
-   "title": "Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.",
-   "journal": "Sports Med Open",
+   "pmid": "42618352",
+   "title": "Athletes with chronic ankle instability adopt protective landing strategies and exhibit reduced anterior talofibular ligament strain during dynamic inversion perturbations.",
+   "journal": "J Sci Med Sport",
    "year": "2026",
    "authors": [
-    "Miralles-Iborra A",
-    "Rond\u00f3n-Espinosa H",
-    "Vera-Garcia FJ",
-    "Courel-Ib\u00e1\u00f1ez J",
+    "Zhu X",
+    "Yan Z",
+    "Zhao Q",
+    "Wang Q",
     "et al."
    ],
-   "abstract": "Understanding the situational contexts of lower-limb muscle injuries in football is critical for informing the design of effective prevention strategies. While their frequency and burden are well documented, the frequently observed inciting events and situational patterns underlying these injuries remain insufficiently synthesised. To systematically review and meta-analyse video-based analysis studies examining the inciting events, timing, field location, and situational patterns associated with lower-limb muscle injuries in professional football players. A PRISMA-guided systematic review was conducted across five databases (PubMed, Web of Science, Embase, Scopus, SPORTDiscus) from inception to October 1, 2025. Eligible studies used video analysis to examine inciting events (type, kinetic chain, vertical and horizontal velocities), timing (match half, minute), field location (short and long axis), and situational/tactical patterns (specific action, defensive/offensive context, ball possession status) of lower-limb muscle injuries in professional football. Dichotomous outcomes were pooled using random-effects odds ratios (OR), and multi-category outcomes were synthesised via a Bayesian hierarchical multinomial-logit model with study-level pooled random-effects marginal proportions (RE) and 95% credible intervals (CrI). Risk of bias and methodological quality of included studies were appraised using the AXIS, QA-SIVAS and STROBE-SIIS tools. Twelve studies (513 players [434 male and 79 female]; 538 injuries [452 in males, 86 in females]) were included. Hamstring injuries predominated (74.7%), followed by adductor (14.3%), quadriceps (7.1%), and calf (3.9%) injuries. Sufficient data for meta-analysis were available only for male players. Non-contact injuries (n\u2009=\u2009322) were significantly more frequent than indirect contact (n\u2009=\u2009108) injuries (OR\u2009=\u20098.01, 95% CI 3.85-16.64; p\u2009<\u20090.001). These injuries occurred predominantly during moderate-to-high horizontal velocity actions, compared with zero-to-low velocity actions (OR\u2009=\u200919.56, 95% CI 2.55-150.12; p\u2009=\u20090.004). Pooled proportions were highest during running (RE\u2009=\u20090.29, 95% CrI: 0.17-0.44), stretching/reaching (RE\u2009=\u20090.24, 95% CrI: 0.12-0.40), or kicking actions (RE\u2009=\u20090.22, 95% CrI: 0.09-0.38), although no credible differences were observed between categories. No consistent effects were found for the kinetic chain, match time, field location, or tactical phase. In professional football, lower-limb muscle injuries were predominantly observed during non-contact inciting events occurring at moderate-to-high horizontal speed, frequently involving the hamstrings during running, stretching/reaching, or kicking actions. No consistent effects were found for match time, field location, or tactical phase. Methodological heterogeneity and the absence of exposure-adjusted data limit the certainty of these findings. The protocol for this systematic review was registered a priori in the INPLASY database (registration number INPLASY2024100091).",
-   "doi": "10.1186/s40798-026-01090-1",
+   "abstract": "This study aimed to compare lower-limb landing kinematics and modeled anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) strains between athletes with and without chronic ankle instability (CAI) during a dynamic inversion-plantarflexion perturbation, and to determine whether altered landing strategies in athletes with CAI were associated with increased or reduced ligament strain. Cross-sectional study. 55 athletes with CAI and 55 without CAI were recruited. Each participant performed a 30-cm drop landing on a simulated sprain apparatus. The unaffected limb was placed on a support pedal, while the affected limb landed on a tilt pedal that was set to 24\u00b0 of inversion and 15\u00b0 of plantarflexion to simulate the condition of lateral ankle sprains. Kinematic data were obtained using a 12-camera motion analysis system, and ATFL and CFL strains were calculated with a 3D rigid-body foot model. Independent sample t-tests and Pearson's correlations were used to analyze data. Athletes with CAI exhibited higher hip flexion (p\u202f<\u202f0.001), hip abduction (p\u202f<\u202f0.001), knee abduction (p\u202f=\u202f0.043), ankle external rotation (p\u202f=\u202f0.032), foot toe-out (p\u202f<\u202f0.001) angles and lower ATFL strain (p\u202f=\u202f0.002). ATFL strain was negatively correlated with ankle external rotation (r\u202f=\u202f-0.263, p\u202f=\u202f0.006), and foot toe-out (r\u202f=\u202f-0.286, p\u202f=\u202f0.002) angles. Athletes with CAI adopt a protective landing strategy compared to those without CAI. This strategy was associated with reduction in ATFL strain, which may help mitigate the risk of lateral ankle sprain during challenging landings.",
+   "doi": "10.1016/j.jsams.2026.08.003",
    "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42611401/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42618352/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
+  },
+  {
+   "pmid": "42614049",
+   "title": "Effects of tissue flossing on sports performance, injury prevention, and post-injury rehabilitation outcomes: a systematic review.",
+   "journal": "Res Sports Med",
+   "year": "2026",
+   "authors": [
+    "Chang PH",
+    "Ko BJ",
+    "Hung MH",
+    "Huang YT",
+    "et al."
+   ],
+   "abstract": "Tissue flossing (TF) is a compression-based soft-tissue intervention increasingly used in athletic and rehabilitation settings. However, current evidence is heterogeneous and inconsistent. This systematic review synthesized the effects of TF on sports performance, injury prevention, and post-injury rehabilitation, while distinguishing experimentally demonstrated outcomes from hypothesized mechanisms. Following PRISMA 2020 guidelines, PubMed/MEDLINE, Web of Science, Scopus, and SPORTDiscus were searched, and quantitative data, including means, p values, and effect sizes, were extracted where available. Twenty peer-reviewed trials met the inclusion criteria. TF applied at approximately 50% elongation acutely improved joint range of motion (ROM; Hedges' g\u2009=\u20090.19, p\u2009=\u2009.010) and selected force outputs, including plantar-flexion torque, which increased by 4.3-4.9\u2009N\u00b7m. Compared with active interventions, TF produced sustained reductions in muscle stiffness, including a mean difference of -43.40 kPa in the distal semitendinosus (p\u2009=\u2009.007). Preliminary evidence also suggested potential benefits for proprioception and feedforward neuromuscular activation in individuals with chronic ankle instability. Overall, TF may improve acute mobility, selected force outputs, and sensorimotor function. However, small sample sizes, protocol heterogeneity, and limited follow-up periods prevent definitive conclusions regarding its effectiveness for injury prevention or post-injury rehabilitation across diverse populations, intervention protocols, and longer-term clinical and functional outcomes.",
+   "doi": "10.1080/15438627.2026.2720160",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42614049/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42617228",
+   "title": "Gait patterns observed during obstacle walking in adults with mild intellectual disability.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Jin DH",
+    "Hwang YI"
+   ],
+   "abstract": "To compare three-dimensional gait kinematics, pressure-platform-derived variables, and intellectual disability during level walking and obstacle negotiation. Twenty participants were enrolled (mild intellectual disability, n\u202f=\u202f10; control, n\u202f=\u202f10). Participants walked barefoot at a self-selected speed during level walking and obstacle crossing over three heights (2.5, 5.2, and 15.2\u202fcm). Three-dimensional kinematics were captured using inertial measurement units. During level walking, pressure-platform-derived variables, including body-weight-normalized force-related values and peak plantar pressure, were obtained using a pressure platform. Surface EMG activity of the rectus femoris, biceps femoris, tibialis anterior, and medial gastrocnemius was recorded during obstacle walking. During level walking, adults with mild intellectual disability showed greater hip and knee flexion during early stance phase than controls (p\u202f<\u202f0.05). During obstacle negotiation, leading-limb responses primarily reflected obstacle-height effects. In the trailing limb, significant obstacle-height effects were observed for hip flexion, knee flexion, ankle dorsiflexion, ankle inversion, rectus femoris, biceps femoris, and tibialis anterior activity. Significant group-related effects were observed for trailing-limb ankle dorsiflexion and tibialis anterior activity, indicating different ankle-control strategies across obstacle heights between groups. Adults with mild intellectual disability demonstrate altered gait kinematics and reduced adaptability during obstacle negotiation, particularly in trailing-limb ankle control. These findings support rehabilitation approaches that progressively challenge gait control under commonly encountered environmental constraints to enhance movement regulation during walking.",
+   "doi": "10.1016/j.gaitpost.2026.110606",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42617228/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
   },
   {
    "pmid": "42524706",
@@ -802,38 +860,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42472892",
-   "title": "Design, control, and computational validation of a mechanically decoupled 3-DOF ankle rehabilitation device.",
-   "journal": "Sci Rep",
-   "year": "2026",
-   "authors": [
-    "ElSherbini AI",
-    "Sameh A",
-    "Ali S",
-    "Khalil AT"
-   ],
-   "abstract": "This paper presents the design methodology, kinematic analysis, finite element structural validation, and closed-loop computational simulation of a novel 3-degree-of-freedom (3-DOF) ankle-foot rehabilitation exoskeleton. The proposed exoskeleton addresses the simultaneous rehabilitation of dorsiflexion/plantarflexion (DF/PF), abduction/adduction (AB/AD), and inversion/eversion (INV/EV) in a seated configuration suited to patients with weight-bearing restrictions. Three NEMA 23 stepper motors independently actuate each axis through custom two-stage spur gear transmissions, achieving positive torque margins of +\u20096%, +\u200935%, and +\u200925% and sub-degree angular resolution. Full kinematic decoupling between all three axes is established through two independent architectural strategies. A finite element analysis (FEA) conducted on all four critical Al 6061-T6 structural components confirms safety factors between 2.82 and 4.87 under worst-case loading. A closed-loop PID control framework with adaptive range-of-motion (ROM) regulation, simulated in MATLAB/SIMULINK, demonstrates tracking performance characterised by maximum overshoots of 0.02\u00b0-0.12\u00b0, settling times of 3.7-7.8\u00a0s, and steady-state errors below \u00b1\u20090.04\u00b0 across all nine simulation scenarios. The results confirm the mechanical feasibility, structural integrity, and control effectiveness of the proposed exoskeleton as a viable platform for multi-DOF seated ankle rehabilitation.",
-   "doi": "10.1038/s41598-026-61133-1",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42472892/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42568778",
    "title": "Differential Quadriceps Muscle Activation Preoperatively and at the Time of Return to Sport After Medial Patellofemoral Ligament Reconstruction.",
    "journal": "Orthop J Sports Med",
@@ -890,7 +916,7 @@
   },
   {
    "pmid": "42594004",
-   "title": "Effect of discrepant gait assistance on the motion and stability of unplanned gait termination.",
+   "title": "Effect of Discrepant Gait Assistance on the Motion and Stability of Unplanned Gait Termination.",
    "journal": "IEEE Trans Neural Syst Rehabil Eng",
    "year": "2026",
    "authors": [
@@ -913,34 +939,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42474076",
-   "title": "Effect of external trunk perturbations on the biomechanics of plant leg during instep kick.",
-   "journal": "Ann Med",
-   "year": "2026",
-   "authors": [
-    "Wang J",
-    "Zhan Y",
-    "Fang J",
-    "Wang Y",
-    "et al."
-   ],
-   "abstract": "This study aimed to investigate the biomechanical effect of external trunk perturbations on the plant leg during a football instep kick. Fifteen healthy male national level division-II football athletes were recruited as participants. A Vicon three-dimensional motion capture system synchronized with Kistler force plates was utilized to collect kinematic and kinetic data during standardized instep kicking. Joint angles, moments, and stiffness of the plant leg under four perturbation conditions. Two-way repeated measures ANOVA were employed for statistical analysis. Significant main effects of perturbation anticipation and direction on the biomechanical variables of the plant leg were found. UN perturbation increased hip flexion-extension (F\u2009=\u200921.94, p\u2009<\u20090.01) and abduction-adduction (F\u2009=\u200930.64, p\u2009<\u20090.01) and knee abduction-adduction (F\u2009=\u200920.13, p\u2009<\u20090.01) range of motion. Reduced knee extension angles, increased ankle inversion angles, and abnormal changes in knee flexion-extension moments and ankle plantarflexion moments were observed, indicating compromised joint stability. Regarding directional effects, contralateral perturbations (right side) produced more pronounced alterations with increased hip adduction angles (F\u2009=\u200920.75, p\u2009<\u20090.01) and moments, higher peak knee adduction angles (F\u2009=\u20098.8, p\u2009=\u20090.01), and enhanced ankle inversion-eversion stiffness (F\u2009=\u20099.11, p\u2009<\u20090.01). As the key findings suggested, the dynamic stability under UN perturbation should be enhanced to improve the resistance of perturbations and movement control, thereby providing reference for injury prevention and training optimization.",
-   "doi": "10.1080/07853890.2026.2702690",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42474076/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42493723",
@@ -1345,6 +1343,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42611401",
+   "title": "Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.",
+   "journal": "Sports Med Open",
+   "year": "2026",
+   "authors": [
+    "Miralles-Iborra A",
+    "Rond\u00f3n-Espinosa H",
+    "Vera-Garcia FJ",
+    "Courel-Ib\u00e1\u00f1ez J",
+    "et al."
+   ],
+   "abstract": "Understanding the situational contexts of lower-limb muscle injuries in football is critical for informing the design of effective prevention strategies. While their frequency and burden are well documented, the frequently observed inciting events and situational patterns underlying these injuries remain insufficiently synthesised. To systematically review and meta-analyse video-based analysis studies examining the inciting events, timing, field location, and situational patterns associated with lower-limb muscle injuries in professional football players. A PRISMA-guided systematic review was conducted across five databases (PubMed, Web of Science, Embase, Scopus, SPORTDiscus) from inception to October 1, 2025. Eligible studies used video analysis to examine inciting events (type, kinetic chain, vertical and horizontal velocities), timing (match half, minute), field location (short and long axis), and situational/tactical patterns (specific action, defensive/offensive context, ball possession status) of lower-limb muscle injuries in professional football. Dichotomous outcomes were pooled using random-effects odds ratios (OR), and multi-category outcomes were synthesised via a Bayesian hierarchical multinomial-logit model with study-level pooled random-effects marginal proportions (RE) and 95% credible intervals (CrI). Risk of bias and methodological quality of included studies were appraised using the AXIS, QA-SIVAS and STROBE-SIIS tools. Twelve studies (513 players [434 male and 79 female]; 538 injuries [452 in males, 86 in females]) were included. Hamstring injuries predominated (74.7%), followed by adductor (14.3%), quadriceps (7.1%), and calf (3.9%) injuries. Sufficient data for meta-analysis were available only for male players. Non-contact injuries (n\u2009=\u2009322) were significantly more frequent than indirect contact (n\u2009=\u2009108) injuries (OR\u2009=\u20098.01, 95% CI 3.85-16.64; p\u2009<\u20090.001). These injuries occurred predominantly during moderate-to-high horizontal velocity actions, compared with zero-to-low velocity actions (OR\u2009=\u200919.56, 95% CI 2.55-150.12; p\u2009=\u20090.004). Pooled proportions were highest during running (RE\u2009=\u20090.29, 95% CrI: 0.17-0.44), stretching/reaching (RE\u2009=\u20090.24, 95% CrI: 0.12-0.40), or kicking actions (RE\u2009=\u20090.22, 95% CrI: 0.09-0.38), although no credible differences were observed between categories. No consistent effects were found for the kinetic chain, match time, field location, or tactical phase. In professional football, lower-limb muscle injuries were predominantly observed during non-contact inciting events occurring at moderate-to-high horizontal speed, frequently involving the hamstrings during running, stretching/reaching, or kicking actions. No consistent effects were found for match time, field location, or tactical phase. Methodological heterogeneity and the absence of exposure-adjusted data limit the certainty of these findings. The protocol for this systematic review was registered a priori in the INPLASY database (registration number INPLASY2024100091).",
+   "doi": "10.1186/s40798-026-01090-1",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42611401/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42583262",
    "title": "Injuries in Professional Roundnet (Spikeball) Athletes.",
    "journal": "Sports Med Int Open",
@@ -1708,34 +1735,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42474446",
-   "title": "Provider-Cleared Return-to-Sport After Freiberg Infraction in Adolescent Athletes.",
-   "journal": "J Pediatr Orthop",
-   "year": "2026",
-   "authors": [
-    "Touban BM",
-    "Amaral JZ",
-    "Chhabra BN",
-    "Miggins J",
-    "et al."
-   ],
-   "abstract": "Return-to-sport (RTS) is an important clinical concern for adolescent athletes, but sport-related outcomes in symptomatic Freiberg infraction (FI) remain poorly characterized. The purpose of this study was to describe time to provider-cleared RTS in adolescent athletes with symptomatic FI and to report provider-cleared RTS according to treatment course. This retrospective case series included patients aged 18 years or younger with symptomatic FI treated at a single institution between 2010 and 2023. Inclusion required clinical and imaging confirmation of symptomatic FI and documented follow-up through provider-cleared RTS. Provider-cleared RTS was defined as documented clearance for unrestricted sport participation by the treating orthopaedic provider. All patients underwent an initial trial of nonoperative management; patients who ultimately underwent surgery were reported descriptively as a subgroup within the overall treatment course. Available radiographs and magnetic resonance imaging studies were reviewed by 2 fellowship-trained pediatric orthopaedic surgeons, and Smillie stage was assigned by consensus. Descriptive statistics were calculated. Of 65 patients identified by diagnostic code screening, 19 met inclusion criteria after review, representing 21 affected metatarsals. The cohort was predominantly female (68%) and had a median age of 12.7 years (range: 9.7 to 17.8\u00a0y). The second metatarsal was most commonly involved (67%), and 90% of affected metatarsals were Smillie stage I to III. The most common sports were dance (32%), soccer (27%), and track (18%). Of the 19 included patients, 16 (84%) reached documented provider-cleared RTS without surgery, most commonly after treatment with a controlled ankle motion boot or casting. Three patients (16%) ultimately underwent operative intervention after initial nonoperative management, including metatarsal head drilling (n=2) and joint debridement with fragment excision (n=1). The median time to provider-cleared RTS for the overall cohort was 4.5 months (range: 1.4 to 21.1\u00a0mo). Patients who reached provider-cleared RTS without surgery had a median time to provider-cleared RTS of 3.7 months (range: 1.4 to 21.1\u00a0mo). The 3 patients who ultimately underwent operative intervention after initial nonoperative management had a median time to provider-cleared RTS of 8.8 months (range: 8.5 to 10.4\u00a0mo). Among adolescent athletes with symptomatic FI and documented provider-cleared RTS follow-up, the median time to provider-cleared RTS was 4.5 months from initial orthopaedic evaluation. Most patients (84%) reached provider-cleared RTS without surgery, with a median time of 3.7 months. The 3 patients who ultimately underwent operative intervention after initial nonoperative management had a median time to provider-cleared RTS of 8.8 months. These findings provide preliminary descriptive data that may cautiously help inform counseling of adolescent athletes and their families regarding provider-cleared RTS, although further study is needed to clarify management strategies and long-term outcomes in this rare condition. Level IV-therapeutic.",
-   "doi": "10.1097/BPO.0000000000003420",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42474446/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42541993",
