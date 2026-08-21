@@ -3,8 +3,28 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-08-20T14:18:14Z</updated>
+  <updated>2026-08-21T14:16:29Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Editorial: Biomechanics, technology, and athletic performance: pathways to sustainable health.</title>
+    <id>urn:pmid:42620481</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42620481/" rel="alternate"/>
+    <updated>2026-08-21T14:16:29Z</updated>
+    <published>2026-08-21T14:16:29Z</published>
+    <author><name>Lin JZ</name></author><author><name>Tamura A</name></author><author><name>Peng HT</name></author><author><name>Tai WH</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Lin JZ, Tamura A, Peng HT, Tai WH · Front Sports Act Living · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;No abstract indexed.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fspor.2026.1933614&quot;&gt;10.3389/fspor.2026.1933614&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42620481/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Intention-driven ankle exoskeleton training acutely alters swing foot clearance distribution: a preliminary study.</title>
+    <id>urn:pmid:42620503</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42620503/" rel="alternate"/>
+    <updated>2026-08-21T14:16:29Z</updated>
+    <published>2026-08-21T14:16:29Z</published>
+    <author><name>Nagano H</name></author><author><name>Begg R</name></author><author><name>Sarashina E</name></author><author><name>Kawamoto H</name></author>
+    <category term="actuation-assistive" label="Ankle actuation / assistive devices"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Nagano H, Begg R, Sarashina E, Kawamoto H · Front Neurorobot · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Tripping is a leading cause of falls, and Minimum Foot Clearance (MFC)-the lowest vertical swing-foot displacement during mid-swing-is a key gait event associated with tripping risk. Preventing tripping requires not only sufficiently high MFC but also consistent control across steps, which depends on neuromotor rather than strength-based mechanisms. We hypothesized that aligning movement intention with repeated, optimal ankle motion using a surface electromyography (sEMG)-driven exoskeleton would improve neuromotor consistency and MFC characteristics. A total of 12 healthy adults completed 5 min of treadmill walking at 4 km/h before and after a 5-min ankle exoskeleton training sequence (&amp;#x27;feet-flat, toes-up, feet-flat, heels-up&amp;#x27;, 60 bpm). The Vicon motion capture system tracked the reflective markers placed on the heel and toe to collect MFC dataset. The exoskeleton (i.e., Hybrid Assistive Limb) detects voluntary neural drive through sEMG and converts it into assisted ankle motion, supporting intention-based neuromotor training. The obtained MFC dataset showed that training increased the lowest percentile of the MFC distribution (i.e., the risky tail) by 0.39 cm, reduced step-to-step variability, and increased dataset skewness, suggesting reduction of both low and high extremes in swing-foot clearance. These preliminary findings suggest that brief intention-based ankle exoskeleton training may acutely improve safety-relevant characteristics of MFC control. Further studies in older adults and neurological populations are required to determine clinical relevance for tripping-risk reduction.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fnbot.2026.1912825&quot;&gt;10.3389/fnbot.2026.1912825&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42620503/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.</title>
     <id>urn:pmid:42611401</id>

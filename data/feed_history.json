@@ -1,5 +1,83 @@
 [
  {
+  "pmid": "42620481",
+  "title": "Editorial: Biomechanics, technology, and athletic performance: pathways to sustainable health.",
+  "journal": "Front Sports Act Living",
+  "year": "2026",
+  "authors": [
+   "Lin JZ",
+   "Tamura A",
+   "Peng HT",
+   "Tai WH"
+  ],
+  "abstract": "",
+  "doi": "10.3389/fspor.2026.1933614",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42620481/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-21T14:16:29Z"
+ },
+ {
+  "pmid": "42620503",
+  "title": "Intention-driven ankle exoskeleton training acutely alters swing foot clearance distribution: a preliminary study.",
+  "journal": "Front Neurorobot",
+  "year": "2026",
+  "authors": [
+   "Nagano H",
+   "Begg R",
+   "Sarashina E",
+   "Kawamoto H"
+  ],
+  "abstract": "Tripping is a leading cause of falls, and Minimum Foot Clearance (MFC)-the lowest vertical swing-foot displacement during mid-swing-is a key gait event associated with tripping risk. Preventing tripping requires not only sufficiently high MFC but also consistent control across steps, which depends on neuromotor rather than strength-based mechanisms. We hypothesized that aligning movement intention with repeated, optimal ankle motion using a surface electromyography (sEMG)-driven exoskeleton would improve neuromotor consistency and MFC characteristics. A total of 12 healthy adults completed 5\u202fmin of treadmill walking at 4\u202fkm/h before and after a 5-min ankle exoskeleton training sequence ('feet-flat, toes-up, feet-flat, heels-up', 60\u202fbpm). The Vicon motion capture system tracked the reflective markers placed on the heel and toe to collect MFC dataset. The exoskeleton (i.e., Hybrid Assistive Limb) detects voluntary neural drive through sEMG and converts it into assisted ankle motion, supporting intention-based neuromotor training. The obtained MFC dataset showed that training increased the lowest percentile of the MFC distribution (i.e., the risky tail) by 0.39\u202fcm, reduced step-to-step variability, and increased dataset skewness, suggesting reduction of both low and high extremes in swing-foot clearance. These preliminary findings suggest that brief intention-based ankle exoskeleton training may acutely improve safety-relevant characteristics of MFC control. Further studies in older adults and neurological populations are required to determine clinical relevance for tripping-risk reduction.",
+  "doi": "10.3389/fnbot.2026.1912825",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42620503/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-21T14:16:29Z"
+ },
+ {
+  "pmid": "42620678",
+  "title": "Lower-limb biomechanical alterations across movement tasks in individuals with chronic ankle instability: An umbrella review of systematic reviews and meta-analyses.",
+  "journal": "Mechanobiol Med",
+  "year": "2026",
+  "authors": [
+   "Xuan B",
+   "Sun D",
+   "Song Y",
+   "Li F",
+   "et al."
+  ],
+  "abstract": "Chronic ankle instability (CAI) may reflect altered regulation of mechanical loading and neuromuscular control across the lower limb, but review-level evidence remains fragmented by task and outcome. This umbrella review synthesised systematic reviews and meta-analyses on biomechanical and neuromuscular alterations during movement tasks in individuals with CAI, functional or mechanical ankle instability, recurrent ankle sprain, or ankle-sprain copers. PubMed/MEDLINE, Scopus, Web of Science Core Collection, selected EBSCOhost databases, the Cochrane Library, and ScienceDirect were searched; 18 reviews were included, of which 17 informed the main synthesis and one contributed supplementary dual-task evidence. Evidence was most concentrated for landing and jump-landing tasks, where reduced pre-landing peroneal activation, greater or faster vertical loading, and stiffer sagittal-plane landing mechanics were commonly reported. Walking evidence suggested greater ankle inversion, hip adduction, and knee valgus moment, whereas perturbation landing evidence suggested delayed peroneus longus activation and greater inversion mechanics. Coper comparisons may suggest more preserved task-specific movement profiles after ankle sprain. Overall, the evidence base is sufficient to identify recurring patterns of altered lower limb biomechanics in CAI, but insufficient to support highly definitive conclusions for most task outcome domains. PROSPERO CRD420261454010.",
+  "doi": "10.1016/j.mbm.2026.100206",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42620678/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   },
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-21T14:16:29Z"
+ },
+ {
   "pmid": "42618352",
   "title": "Athletes with chronic ankle instability adopt protective landing strategies and exhibit reduced anterior talofibular ligament strain during dynamic inversion perturbations.",
   "journal": "J Sci Med Sport",

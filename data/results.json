@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T14:18:14+00:00",
+ "generated": "2026-08-21T14:16:29+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,90 +65,91 @@
   }
  ],
  "counts": {
-  "total": 77,
+  "total": 79,
   "new": 3,
-  "research": 23,
-  "fieldnotes": 54
+  "research": 24,
+  "fieldnotes": 55
  },
  "records": [
   {
-   "pmid": "42618352",
-   "title": "Athletes with chronic ankle instability adopt protective landing strategies and exhibit reduced anterior talofibular ligament strain during dynamic inversion perturbations.",
-   "journal": "J Sci Med Sport",
+   "pmid": "42620481",
+   "title": "Editorial: Biomechanics, technology, and athletic performance: pathways to sustainable health.",
+   "journal": "Front Sports Act Living",
    "year": "2026",
    "authors": [
-    "Zhu X",
-    "Yan Z",
-    "Zhao Q",
-    "Wang Q",
-    "et al."
+    "Lin JZ",
+    "Tamura A",
+    "Peng HT",
+    "Tai WH"
    ],
-   "abstract": "This study aimed to compare lower-limb landing kinematics and modeled anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) strains between athletes with and without chronic ankle instability (CAI) during a dynamic inversion-plantarflexion perturbation, and to determine whether altered landing strategies in athletes with CAI were associated with increased or reduced ligament strain. Cross-sectional study. 55 athletes with CAI and 55 without CAI were recruited. Each participant performed a 30-cm drop landing on a simulated sprain apparatus. The unaffected limb was placed on a support pedal, while the affected limb landed on a tilt pedal that was set to 24\u00b0 of inversion and 15\u00b0 of plantarflexion to simulate the condition of lateral ankle sprains. Kinematic data were obtained using a 12-camera motion analysis system, and ATFL and CFL strains were calculated with a 3D rigid-body foot model. Independent sample t-tests and Pearson's correlations were used to analyze data. Athletes with CAI exhibited higher hip flexion (p\u202f<\u202f0.001), hip abduction (p\u202f<\u202f0.001), knee abduction (p\u202f=\u202f0.043), ankle external rotation (p\u202f=\u202f0.032), foot toe-out (p\u202f<\u202f0.001) angles and lower ATFL strain (p\u202f=\u202f0.002). ATFL strain was negatively correlated with ankle external rotation (r\u202f=\u202f-0.263, p\u202f=\u202f0.006), and foot toe-out (r\u202f=\u202f-0.286, p\u202f=\u202f0.002) angles. Athletes with CAI adopt a protective landing strategy compared to those without CAI. This strategy was associated with reduction in ATFL strain, which may help mitigate the risk of lateral ankle sprain during challenging landings.",
-   "doi": "10.1016/j.jsams.2026.08.003",
+   "abstract": "",
+   "doi": "10.3389/fspor.2026.1933614",
+   "pubtypes": [
+    "Editorial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42620481/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42620503",
+   "title": "Intention-driven ankle exoskeleton training acutely alters swing foot clearance distribution: a preliminary study.",
+   "journal": "Front Neurorobot",
+   "year": "2026",
+   "authors": [
+    "Nagano H",
+    "Begg R",
+    "Sarashina E",
+    "Kawamoto H"
+   ],
+   "abstract": "Tripping is a leading cause of falls, and Minimum Foot Clearance (MFC)-the lowest vertical swing-foot displacement during mid-swing-is a key gait event associated with tripping risk. Preventing tripping requires not only sufficiently high MFC but also consistent control across steps, which depends on neuromotor rather than strength-based mechanisms. We hypothesized that aligning movement intention with repeated, optimal ankle motion using a surface electromyography (sEMG)-driven exoskeleton would improve neuromotor consistency and MFC characteristics. A total of 12 healthy adults completed 5\u202fmin of treadmill walking at 4\u202fkm/h before and after a 5-min ankle exoskeleton training sequence ('feet-flat, toes-up, feet-flat, heels-up', 60\u202fbpm). The Vicon motion capture system tracked the reflective markers placed on the heel and toe to collect MFC dataset. The exoskeleton (i.e., Hybrid Assistive Limb) detects voluntary neural drive through sEMG and converts it into assisted ankle motion, supporting intention-based neuromotor training. The obtained MFC dataset showed that training increased the lowest percentile of the MFC distribution (i.e., the risky tail) by 0.39\u202fcm, reduced step-to-step variability, and increased dataset skewness, suggesting reduction of both low and high extremes in swing-foot clearance. These preliminary findings suggest that brief intention-based ankle exoskeleton training may acutely improve safety-relevant characteristics of MFC control. Further studies in older adults and neurological populations are required to determine clinical relevance for tripping-risk reduction.",
+   "doi": "10.3389/fnbot.2026.1912825",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42618352/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42620503/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42620678",
+   "title": "Lower-limb biomechanical alterations across movement tasks in individuals with chronic ankle instability: An umbrella review of systematic reviews and meta-analyses.",
+   "journal": "Mechanobiol Med",
+   "year": "2026",
+   "authors": [
+    "Xuan B",
+    "Sun D",
+    "Song Y",
+    "Li F",
+    "et al."
+   ],
+   "abstract": "Chronic ankle instability (CAI) may reflect altered regulation of mechanical loading and neuromuscular control across the lower limb, but review-level evidence remains fragmented by task and outcome. This umbrella review synthesised systematic reviews and meta-analyses on biomechanical and neuromuscular alterations during movement tasks in individuals with CAI, functional or mechanical ankle instability, recurrent ankle sprain, or ankle-sprain copers. PubMed/MEDLINE, Scopus, Web of Science Core Collection, selected EBSCOhost databases, the Cochrane Library, and ScienceDirect were searched; 18 reviews were included, of which 17 informed the main synthesis and one contributed supplementary dual-task evidence. Evidence was most concentrated for landing and jump-landing tasks, where reduced pre-landing peroneal activation, greater or faster vertical loading, and stiffer sagittal-plane landing mechanics were commonly reported. Walking evidence suggested greater ankle inversion, hip adduction, and knee valgus moment, whereas perturbation landing evidence suggested delayed peroneus longus activation and greater inversion mechanics. Coper comparisons may suggest more preserved task-specific movement profiles after ankle sprain. Overall, the evidence base is sufficient to identify recurring patterns of altered lower limb biomechanics in CAI, but insufficient to support highly definitive conclusions for most task outcome domains. PROSPERO CRD420261454010.",
+   "doi": "10.1016/j.mbm.2026.100206",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42620678/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
      "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42614049",
-   "title": "Effects of tissue flossing on sports performance, injury prevention, and post-injury rehabilitation outcomes: a systematic review.",
-   "journal": "Res Sports Med",
-   "year": "2026",
-   "authors": [
-    "Chang PH",
-    "Ko BJ",
-    "Hung MH",
-    "Huang YT",
-    "et al."
-   ],
-   "abstract": "Tissue flossing (TF) is a compression-based soft-tissue intervention increasingly used in athletic and rehabilitation settings. However, current evidence is heterogeneous and inconsistent. This systematic review synthesized the effects of TF on sports performance, injury prevention, and post-injury rehabilitation, while distinguishing experimentally demonstrated outcomes from hypothesized mechanisms. Following PRISMA 2020 guidelines, PubMed/MEDLINE, Web of Science, Scopus, and SPORTDiscus were searched, and quantitative data, including means, p values, and effect sizes, were extracted where available. Twenty peer-reviewed trials met the inclusion criteria. TF applied at approximately 50% elongation acutely improved joint range of motion (ROM; Hedges' g\u2009=\u20090.19, p\u2009=\u2009.010) and selected force outputs, including plantar-flexion torque, which increased by 4.3-4.9\u2009N\u00b7m. Compared with active interventions, TF produced sustained reductions in muscle stiffness, including a mean difference of -43.40 kPa in the distal semitendinosus (p\u2009=\u2009.007). Preliminary evidence also suggested potential benefits for proprioception and feedforward neuromuscular activation in individuals with chronic ankle instability. Overall, TF may improve acute mobility, selected force outputs, and sensorimotor function. However, small sample sizes, protocol heterogeneity, and limited follow-up periods prevent definitive conclusions regarding its effectiveness for injury prevention or post-injury rehabilitation across diverse populations, intervention protocols, and longer-term clinical and functional outcomes.",
-   "doi": "10.1080/15438627.2026.2720160",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42614049/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42617228",
-   "title": "Gait patterns observed during obstacle walking in adults with mild intellectual disability.",
-   "journal": "Gait Posture",
-   "year": "2026",
-   "authors": [
-    "Jin DH",
-    "Hwang YI"
-   ],
-   "abstract": "To compare three-dimensional gait kinematics, pressure-platform-derived variables, and intellectual disability during level walking and obstacle negotiation. Twenty participants were enrolled (mild intellectual disability, n\u202f=\u202f10; control, n\u202f=\u202f10). Participants walked barefoot at a self-selected speed during level walking and obstacle crossing over three heights (2.5, 5.2, and 15.2\u202fcm). Three-dimensional kinematics were captured using inertial measurement units. During level walking, pressure-platform-derived variables, including body-weight-normalized force-related values and peak plantar pressure, were obtained using a pressure platform. Surface EMG activity of the rectus femoris, biceps femoris, tibialis anterior, and medial gastrocnemius was recorded during obstacle walking. During level walking, adults with mild intellectual disability showed greater hip and knee flexion during early stance phase than controls (p\u202f<\u202f0.05). During obstacle negotiation, leading-limb responses primarily reflected obstacle-height effects. In the trailing limb, significant obstacle-height effects were observed for hip flexion, knee flexion, ankle dorsiflexion, ankle inversion, rectus femoris, biceps femoris, and tibialis anterior activity. Significant group-related effects were observed for trailing-limb ankle dorsiflexion and tibialis anterior activity, indicating different ankle-control strategies across obstacle heights between groups. Adults with mild intellectual disability demonstrate altered gait kinematics and reduced adaptability during obstacle negotiation, particularly in trailing-limb ankle control. These findings support rehabilitation approaches that progressively challenge gait control under commonly encountered environmental constraints to enhance movement regulation during walking.",
-   "doi": "10.1016/j.gaitpost.2026.110606",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42617228/",
-   "matched": [
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
@@ -403,6 +404,39 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42618352",
+   "title": "Athletes with chronic ankle instability adopt protective landing strategies and exhibit reduced anterior talofibular ligament strain during dynamic inversion perturbations.",
+   "journal": "J Sci Med Sport",
+   "year": "2026",
+   "authors": [
+    "Zhu X",
+    "Yan Z",
+    "Zhao Q",
+    "Wang Q",
+    "et al."
+   ],
+   "abstract": "This study aimed to compare lower-limb landing kinematics and modeled anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) strains between athletes with and without chronic ankle instability (CAI) during a dynamic inversion-plantarflexion perturbation, and to determine whether altered landing strategies in athletes with CAI were associated with increased or reduced ligament strain. Cross-sectional study. 55 athletes with CAI and 55 without CAI were recruited. Each participant performed a 30-cm drop landing on a simulated sprain apparatus. The unaffected limb was placed on a support pedal, while the affected limb landed on a tilt pedal that was set to 24\u00b0 of inversion and 15\u00b0 of plantarflexion to simulate the condition of lateral ankle sprains. Kinematic data were obtained using a 12-camera motion analysis system, and ATFL and CFL strains were calculated with a 3D rigid-body foot model. Independent sample t-tests and Pearson's correlations were used to analyze data. Athletes with CAI exhibited higher hip flexion (p\u202f<\u202f0.001), hip abduction (p\u202f<\u202f0.001), knee abduction (p\u202f=\u202f0.043), ankle external rotation (p\u202f=\u202f0.032), foot toe-out (p\u202f<\u202f0.001) angles and lower ATFL strain (p\u202f=\u202f0.002). ATFL strain was negatively correlated with ankle external rotation (r\u202f=\u202f-0.263, p\u202f=\u202f0.006), and foot toe-out (r\u202f=\u202f-0.286, p\u202f=\u202f0.002) angles. Athletes with CAI adopt a protective landing strategy compared to those without CAI. This strategy was associated with reduction in ATFL strain, which may help mitigate the risk of lateral ankle sprain during challenging landings.",
+   "doi": "10.1016/j.jsams.2026.08.003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42618352/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42510385",
@@ -1026,6 +1060,35 @@
    "bucket": "research"
   },
   {
+   "pmid": "42614049",
+   "title": "Effects of tissue flossing on sports performance, injury prevention, and post-injury rehabilitation outcomes: a systematic review.",
+   "journal": "Res Sports Med",
+   "year": "2026",
+   "authors": [
+    "Chang PH",
+    "Ko BJ",
+    "Hung MH",
+    "Huang YT",
+    "et al."
+   ],
+   "abstract": "Tissue flossing (TF) is a compression-based soft-tissue intervention increasingly used in athletic and rehabilitation settings. However, current evidence is heterogeneous and inconsistent. This systematic review synthesized the effects of TF on sports performance, injury prevention, and post-injury rehabilitation, while distinguishing experimentally demonstrated outcomes from hypothesized mechanisms. Following PRISMA 2020 guidelines, PubMed/MEDLINE, Web of Science, Scopus, and SPORTDiscus were searched, and quantitative data, including means, p values, and effect sizes, were extracted where available. Twenty peer-reviewed trials met the inclusion criteria. TF applied at approximately 50% elongation acutely improved joint range of motion (ROM; Hedges' g\u2009=\u20090.19, p\u2009=\u2009.010) and selected force outputs, including plantar-flexion torque, which increased by 4.3-4.9\u2009N\u00b7m. Compared with active interventions, TF produced sustained reductions in muscle stiffness, including a mean difference of -43.40 kPa in the distal semitendinosus (p\u2009=\u2009.007). Preliminary evidence also suggested potential benefits for proprioception and feedforward neuromuscular activation in individuals with chronic ankle instability. Overall, TF may improve acute mobility, selected force outputs, and sensorimotor function. However, small sample sizes, protocol heterogeneity, and limited follow-up periods prevent definitive conclusions regarding its effectiveness for injury prevention or post-injury rehabilitation across diverse populations, intervention protocols, and longer-term clinical and functional outcomes.",
+   "doi": "10.1080/15438627.2026.2720160",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42614049/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42515838",
    "title": "Femoral anterior distal hemiepiphysiodesis for correction of knee flexion contractures in arthrogryposis.",
    "journal": "J Pediatr Orthop B",
@@ -1134,6 +1197,31 @@
     {
      "id": "lateral-sprain-epi",
      "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42617228",
+   "title": "Gait patterns observed during obstacle walking in adults with mild intellectual disability.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Jin DH",
+    "Hwang YI"
+   ],
+   "abstract": "To compare three-dimensional gait kinematics, pressure-platform-derived variables, and intellectual disability during level walking and obstacle negotiation. Twenty participants were enrolled (mild intellectual disability, n\u202f=\u202f10; control, n\u202f=\u202f10). Participants walked barefoot at a self-selected speed during level walking and obstacle crossing over three heights (2.5, 5.2, and 15.2\u202fcm). Three-dimensional kinematics were captured using inertial measurement units. During level walking, pressure-platform-derived variables, including body-weight-normalized force-related values and peak plantar pressure, were obtained using a pressure platform. Surface EMG activity of the rectus femoris, biceps femoris, tibialis anterior, and medial gastrocnemius was recorded during obstacle walking. During level walking, adults with mild intellectual disability showed greater hip and knee flexion during early stance phase than controls (p\u202f<\u202f0.05). During obstacle negotiation, leading-limb responses primarily reflected obstacle-height effects. In the trailing limb, significant obstacle-height effects were observed for hip flexion, knee flexion, ankle dorsiflexion, ankle inversion, rectus femoris, biceps femoris, and tibialis anterior activity. Significant group-related effects were observed for trailing-limb ankle dorsiflexion and tibialis anterior activity, indicating different ankle-control strategies across obstacle heights between groups. Adults with mild intellectual disability demonstrate altered gait kinematics and reduced adaptability during obstacle negotiation, particularly in trailing-limb ankle control. These findings support rehabilitation approaches that progressively challenge gait control under commonly encountered environmental constraints to enhance movement regulation during walking.",
+   "doi": "10.1016/j.gaitpost.2026.110606",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42617228/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -1393,34 +1481,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42479507",
-   "title": "Intra-Foot Energy Recycling Enhances Gait Economy in a Low-Profile Passive Foot Exoskeleton.",
-   "journal": "IEEE Trans Neural Syst Rehabil Eng",
-   "year": "2026",
-   "authors": [
-    "Lyu Y",
-    "Wei J",
-    "Tang P",
-    "Guo J",
-    "et al."
-   ],
-   "abstract": "The human foot possesses passive elastic mechanisms that recycle energy during gait, yet these mechanisms are largely neglected in walking assistance exoskeletons, which predominantly focus on the ankle joint leaving the foot's distal energy modulation capacity unaddressed. In this study, we developed a low-profile passive foot exoskeleton that improves gait economy through intra-foot energy recycling. The exoskeleton stores energy at heel strike using a torsion spring embedded beneath the hindfoot and releases it at push-off via a mechanically gated clutch, producing an assistive moment at the metatarsophalangeal (MTP) joint aligned with biological propulsion. We evaluated the system in walking experiments with fifteen healthy male participants. Compared to mass-matched shoes, the exoskeleton reduced net metabolic cost by 3.31% (p = 0.001), reflecting decreased whole-body and local muscular demand. Electromyographic analysis showed a reduction in late-stance plantarflexor activity. Biomechanical data further demonstrated temporally consistent assistance and effective intra-foot energy redirection across walking speeds. These results demonstrate that MTP-targeted assistance, implemented entirely below the ankle, can contribute to offloading plantarflexor workload and enhancing gait economy. The proposed system establishes a new passive exoskeleton paradigm centered on intra-foot energy recycling, offering a compact, standalone solution for unobtrusive and metabolically efficient walking assistance.",
-   "doi": "10.1109/TNSRE.2026.3715671",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42479507/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
