@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42628337",
+  "title": "In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Lubrano M",
+   "Rossanigo R",
+   "Cereatti A",
+   "Cuppini C",
+   "et al."
+  ],
+  "abstract": "Analysis of running temporal parameters is essential for evaluating runner's performance and preventing injury risk. Inertial measurement units (IMUs) are the most widely used and extensively studied technology for sports applications in the field. Various IMU-based methods for estimating stance and stride phases have been proposed based on different IMU positions, type of inertial signals analyzed, and different algorithms for signal processing and parameters extraction. However, a comprehensive guideline recommending the most suitable method for a specific experimental condition is still lacking. This study aimed to compare 36 algorithms for stance and stride estimation working on different device positions (foot, shank, lower back) across three running speeds. Ten participants performed running trials at 15, 20, and 25\u00a0km/h, for a total of 1034 stride while a photocell system served as reference system. Results indicated that foot-mounted IMUs provide the highest accuracy with the lowest median (Med) and interquartile range (IQR) error for both temporal parameters estimates (Med: 0\u00a0ms, IQR: 5\u00a0ms and 22\u00a0ms for stride and stance, respectively), followed by shank- and lower back-mounted ones. Stance estimation performance was significantly affected by running speed, highlighting the importance of taking into account speed when selecting an algorithm based on a given dataset. These findings provided practical recommendations to guide method selection for IMU-based temporal parameter estimation in running.",
+  "doi": "10.1016/j.jbiomech.2026.113539",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42628337/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-22T13:55:38Z"
+ },
+ {
   "pmid": "42620481",
   "title": "Editorial: Biomechanics, technology, and athletic performance: pathways to sustainable health.",
   "journal": "Front Sports Act Living",

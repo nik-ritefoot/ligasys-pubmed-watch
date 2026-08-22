@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed.atom" rel="self"/>
-  <updated>2026-08-21T14:16:29Z</updated>
+  <updated>2026-08-22T13:55:39Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.</title>
+    <id>urn:pmid:42628337</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42628337/" rel="alternate"/>
+    <updated>2026-08-22T13:55:38Z</updated>
+    <published>2026-08-22T13:55:38Z</published>
+    <author><name>Lubrano M</name></author><author><name>Rossanigo R</name></author><author><name>Cereatti A</name></author><author><name>Cuppini C</name></author><author><name>et al.</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Lubrano M, Rossanigo R, Cereatti A, Cuppini C, et al. · J Biomech · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Analysis of running temporal parameters is essential for evaluating runner&amp;#x27;s performance and preventing injury risk. Inertial measurement units (IMUs) are the most widely used and extensively studied technology for sports applications in the field. Various IMU-based methods for estimating stance and stride phases have been proposed based on different IMU positions, type of inertial signals analyzed, and different algorithms for signal processing and parameters extraction. However, a comprehensive guideline recommending the most suitable method for a specific experimental condition is still lacking. This study aimed to compare 36 algorithms for stance and stride estimation working on different device positions (foot, shank, lower back) across three running speeds. Ten participants performed running trials at 15, 20, and 25 km/h, for a total of 1034 stride while a photocell system served as reference system. Results indicated that foot-mounted IMUs provide the highest accuracy with the lowest median (Med) and interquartile range (IQR) error for both temporal parameters estimates (Med: 0 ms, IQR: 5 ms and 22 ms for stride and stance, respectively), followed by shank- and lower back-mounted ones. Stance estimation performance was significantly affected by running speed, highlighting the importance of taking into account speed when selecting an algorithm based on a given dataset. These findings provided practical recommendations to guide method selection for IMU-based temporal parameter estimation in running.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.jbiomech.2026.113539&quot;&gt;10.1016/j.jbiomech.2026.113539&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42628337/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Editorial: Biomechanics, technology, and athletic performance: pathways to sustainable health.</title>
     <id>urn:pmid:42620481</id>
