@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T13:55:38+00:00",
+ "generated": "2026-08-23T13:57:12+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,39 +65,64 @@
   }
  ],
  "counts": {
-  "total": 73,
-  "new": 1,
-  "research": 21,
+  "total": 72,
+  "new": 2,
+  "research": 20,
   "fieldnotes": 52
  },
  "records": [
   {
-   "pmid": "42628337",
-   "title": "In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.",
-   "journal": "J Biomech",
+   "pmid": "42633070",
+   "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
+   "journal": "Orthop J Sports Med",
    "year": "2026",
    "authors": [
-    "Lubrano M",
-    "Rossanigo R",
-    "Cereatti A",
-    "Cuppini C",
+    "Tyler JR",
+    "Gamadia M",
+    "Parnes N",
+    "Czajkowski H",
     "et al."
    ],
-   "abstract": "Analysis of running temporal parameters is essential for evaluating runner's performance and preventing injury risk. Inertial measurement units (IMUs) are the most widely used and extensively studied technology for sports applications in the field. Various IMU-based methods for estimating stance and stride phases have been proposed based on different IMU positions, type of inertial signals analyzed, and different algorithms for signal processing and parameters extraction. However, a comprehensive guideline recommending the most suitable method for a specific experimental condition is still lacking. This study aimed to compare 36 algorithms for stance and stride estimation working on different device positions (foot, shank, lower back) across three running speeds. Ten participants performed running trials at 15, 20, and 25\u00a0km/h, for a total of 1034 stride while a photocell system served as reference system. Results indicated that foot-mounted IMUs provide the highest accuracy with the lowest median (Med) and interquartile range (IQR) error for both temporal parameters estimates (Med: 0\u00a0ms, IQR: 5\u00a0ms and 22\u00a0ms for stride and stance, respectively), followed by shank- and lower back-mounted ones. Stance estimation performance was significantly affected by running speed, highlighting the importance of taking into account speed when selecting an algorithm based on a given dataset. These findings provided practical recommendations to guide method selection for IMU-based temporal parameter estimation in running.",
-   "doi": "10.1016/j.jbiomech.2026.113539",
+   "abstract": "Basketball is widely played in the United States, yet contemporary comparisons of basketball-related injuries between high school- and college-aged athletes using nationally representative emergency department (ED) data remain limited. To compare basketball-related injury epidemiology between high school- and college-aged athletes and characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System (NEISS) was queried for basketball-related injuries in athletes aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using NEISS sampling weights. US Census Bureau annual population estimates were summed across ages 14 to 18 years and 19 to 23 years to determine the population at risk for each group and calculate incidence rates (IRs) per 100,000 person-years. IR ratios (IRRs) with 95% CIs were used to compare age groups by overall incidence, injury pattern, and ED disposition. A total of 61,279 basketball-related injuries among athletes aged 14 to 23 years were documented in the NEISS database, corresponding to an estimated 2,023,859 injuries treated in US EDs between 2015 and 2024. High school-aged athletes had a higher overall injury incidence than college-aged athletes (686.67 vs 252.63 per 100,000 person-years; IRR, 2.72; 95% CI, 2.67-2.77). Both groups showed a sharp decline in injury incidence in 2020, corresponding with the onset of the COVID-19 pandemic. The ankle (26.8%), knee (11.8%), finger (10.3%), and head (8.6%) were the most frequently injured body regions. High school-aged athletes had significantly higher rates of injuries to the head (IRR, 4.88; 95% CI, 4.52-5.27), lower arm (IRR, 5.02; 95% CI, 4.18-6.04), wrist (IRR, 4.12; 95% CI, 3.71-4.58), elbow (IRR, 4.12; 95% CI, 3.54-4.80), and finger (IRR, 3.64; 95% CI, 3.42-3.87), as well as higher rates of concussion (IRR, 6.64; 95% CI, 5.81-7.58), fractures (IRR, 3.43; 95% CI, 3.25-3.61), and strains and sprains (IRR, 2.73; 95% CI, 2.65-2.81). Treated-and-discharged injuries accounted for 97.6% of ED visits among high school-aged athletes and 96.8% among college-aged athletes; however, high school-aged athletes had higher rates of transfer or admission (IRR, 7.61; 95% CI, 5.26-10.99) and observation (IRR, 5.49; 95% CI, 3.06-9.84). Our study showed that from 2015 to 2024, high school-aged athletes had substantially higher IRs than college-aged athletes for basketball-related ED injuries across most body regions, diagnoses, and ED dispositions. These findings support targeted injury prevention strategies at the high school level and highlight the burden basketball injuries place on US EDs.",
+   "doi": "10.1177/23259671261476937",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42628337/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42633070/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42630356",
+   "title": "Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Hales M",
+    "Johnson JD"
+   ],
+   "abstract": "Exercise-associated muscle cramps (EAMC) remain a common, disruptive, and incompletely explained phenomenon in sport. Traditional explanations have emphasized dehydration and electrolyte imbalance; however, accumulating evidence indicates that these factors alone do not adequately explain many cramping events. The altered neuromuscular control theory provides a more plausible physiological mechanism, proposing that fatigue disrupts the balance between excitatory input from muscle spindles and inhibitory feedback from Golgi tendon organs. While this framework explains the immediate pathway leading to cramp, it does not sufficiently identify the upstream factors that initiate the fatigue state. We propose that the interaction between the athlete and the mechanical properties of the playing surface represents an underrecognized upstream contributor to EAMC. Exposure to unfamiliar or mismatched surface mechanical properties is proposed to alter muscle recruitment patterns, increase localized neuromuscular demand, and accelerate fatigue development. This fatigue-related state may increase susceptibility to the excitatory-inhibitory imbalance associated with EAMC in athletes operating near an individual cramp threshold. Evidence from studies examining surface stiffness, energy dissipation, energy return, and myoelectric activity support the premise that surface characteristics influence neuromuscular behavior, metabolic demand, and performance output. When athletes train and compete on surfaces with differing mechanical properties, the resulting mismatch in neuromuscular preparation may increase susceptibility to EAMC. Accordingly, aligning training conditions with competition surfaces, or optimizing footwear-surface interaction, represents a plausible risk-reduction strategy that requires further experimental validation. This hypothesis integrates biomechanical and neuromuscular perspectives and provides a testable framework for future experimental research aimed at identifying modifiable risk factors for EAMC.",
+   "doi": "10.3389/fspor.2026.1848906",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42630356/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
   },
   {
    "pmid": "42524706",
@@ -575,32 +600,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42486293",
-   "title": "Comparative effects of platelet-rich plasma, exercise therapy, and myofascial superficial back line manual therapy on balance, posture,and function in chronic ankle instability: A three arm randomized controlled trial.",
-   "journal": "J Foot Ankle Surg",
-   "year": "2026",
-   "authors": [
-    "\u00c7ak\u0131c\u0131 \u0130",
-    "Cerbezer N",
-    "Tu\u011f\u00e7e \u00c7il E"
-   ],
-   "abstract": "Chronic ankle instability is a musculoskeletal disorder involving repeated ankle sprains, reduced joint position sense, and postural imbalance. Although exercise-based rehabilitation is essential, variations in program design and a focus on local stabilization limit overall effectiveness. This randomized controlled study compared platelet-rich plasma injection, platelet-rich plasma combined with a structured exercise program, and manual therapy focusing on the myofascial superficial back line in terms of pain, proprioception, posture, balance, and function. A Three-Arm Randomized Controlled Trial METHODS: Forty-seven participants were randomly divided into three groups: platelet-rich plasma injection (three ultrasound-guided intra-articular applications at two-week intervals), platelet-rich plasma with exercise (the same injections plus an eight-week supervised exercise program), and manual therapy (an eight-week fascial-based intervention). All groups showed significant improvements after treatment (p < 0.05). Platelet-rich plasma injection produced the greatest pain reduction (Visual Analog Scale \u0394=-6.94). The platelet-rich plasma with exercise and manual therapy groups showed superior improvements in posture and functional outcomes, including Foot and Ankle Ability Measure (\u0394=+20.58), Cumberland Ankle Instability Tool (\u0394=+9.94), and posture score (\u0394=-5.93). Dynamic balance improved significantly, particularly in the platelet-rich plasma with exercise group. While platelet-rich plasma provides strong analgesic benefits, its combination with exercise or fascial-based manual therapy yields broader gains in posture, proprioception, and function, supporting multimodal rehabilitation in chronic ankle instability.",
-   "doi": "10.1053/j.jfas.2026.07.008",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42486293/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42542908",
    "title": "Comparative efficacy of conventional rehabilitation, balance acupuncture combined with conventional rehabilitation and additional unconscious proprioception training for chronic ankle instability: A randomized-controlled clinical study.",
    "journal": "Jt Dis Relat Surg",
@@ -1022,35 +1021,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42488193",
-   "title": "Foot and Ankle Contributions to Noncontact ACL Injury Risk: A Systematic Review.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Farrington L",
-    "Hotze C",
-    "Markowsky R",
-    "Coda R",
-    "et al."
-   ],
-   "abstract": "Noncontact anterior cruciate ligament (ACL) injuries are common and carry long-term consequences for the athlete. Altered foot and ankle biomechanics, landing patterns, and prior ankle injury have been implicated in ACL injury risk and may inform prevention strategies. To identify key biomechanical risk factors associated with the foot and ankle that may contribute to ACL injury risk. Systematic review; Level of evidence, 4. A systematic review was conducted following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines. PubMed, Cochrane, and SPORTDiscus databases were searched for English-language studies (2010-2025) evaluating ACL injuries and reporting on the foot or ankle. Screening was performed using Rayyan, followed by full-text review. Data were extracted, and then risk of bias was assessed using the methodological index for non-randomized studies (MINORS). Out of 1772 studies evaluated, a total of 48 (2.7%) studies met inclusion criteria. Overall, 33 studies (68.8%) identified variables associated with increased ACL injury risk, while 11 (22.9%) reported decreased risk and 9 (18.8%) found no association. Foot and ankle biomechanics were examined in 32 studies (66.7%), foot strike pattern in 8 (16.7%), toe direction in 7 (14.6%), and prior ankle injury history in 5 (10.4%). Statistically supported findings were present in 81% of studies. Greater dynamic rearfoot motion (eversion/inversion), increased dorsiflexion, and medial arch collapse (eg, navicular drop) were commonly associated with increased risk. Forefoot landings were protective, while rearfoot and flatfoot strikes, as well as toe-in or toe-out positions, were consistently linked to higher injury risk. Sex-specific analysis showed that female athletes demonstrated more high-risk biomechanical patterns than their male counterparts. Sport-specific analysis revealed basketball (n = 14), soccer (n = 8), and handball (n = 6) as the most studied sports, with >75% of these studies identifying \u22651 foot- or ankle-related ACL injury risk factor. Study quality was generally low, with predominantly noncomparative designs and modest MINORS. Foot and ankle factors, including prior injury, alignment, foot strike patterns, and toe progression, contribute meaningfully to ACL injury risk, yet their precise influence on knee stabilization remains unclear. The foot and ankle are understudied, with few investigations addressing their role in dynamic tasks that challenge knee stability. High-quality comparative research that accounts for sex and sport differences is needed to inform targeted prevention and improve risk stratification.",
-   "doi": "10.1177/23259671261463141",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42488193/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42561756",
    "title": "From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.",
    "journal": "Phys Ther Sport",
@@ -1304,6 +1274,34 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42628337",
+   "title": "In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Lubrano M",
+    "Rossanigo R",
+    "Cereatti A",
+    "Cuppini C",
+    "et al."
+   ],
+   "abstract": "Analysis of running temporal parameters is essential for evaluating runner's performance and preventing injury risk. Inertial measurement units (IMUs) are the most widely used and extensively studied technology for sports applications in the field. Various IMU-based methods for estimating stance and stride phases have been proposed based on different IMU positions, type of inertial signals analyzed, and different algorithms for signal processing and parameters extraction. However, a comprehensive guideline recommending the most suitable method for a specific experimental condition is still lacking. This study aimed to compare 36 algorithms for stance and stride estimation working on different device positions (foot, shank, lower back) across three running speeds. Ten participants performed running trials at 15, 20, and 25\u00a0km/h, for a total of 1034 stride while a photocell system served as reference system. Results indicated that foot-mounted IMUs provide the highest accuracy with the lowest median (Med) and interquartile range (IQR) error for both temporal parameters estimates (Med: 0\u00a0ms, IQR: 5\u00a0ms and 22\u00a0ms for stride and stance, respectively), followed by shank- and lower back-mounted ones. Stance estimation performance was significantly affected by running speed, highlighting the importance of taking into account speed when selecting an algorithm based on a given dataset. These findings provided practical recommendations to guide method selection for IMU-based temporal parameter estimation in running.",
+   "doi": "10.1016/j.jbiomech.2026.113539",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42628337/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1932,32 +1930,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42491455",
-   "title": "Smartphone-based vestibular & gait analysis for remote fall risk assessment.",
-   "journal": "Front Digit Health",
-   "year": "2026",
-   "authors": [
-    "Rezk E",
-    "Luschin-Ebengreuth M",
-    "Kaufmann H"
-   ],
-   "abstract": "Dizziness and vertigo are among the most common reasons for clinical consultation worldwide and represent key risk factors for falls, particularly in neurologic and neuroorthopedic patient populations. Early identification of balance and gait impairments is therefore relevant for fall prevention. However, access to established diagnostic tools such as video-oculography (VOG) and motion analysis systems remains limited due to cost, technical complexity, and the need for specialized personnel, especially in resource-constrained settings. This work proposes a conceptual framework for smartphone-based assessment of vestibular function and gait stability, aimed at supporting fall-related screening concepts. The approach is designed to integrate near-infrared eye tracking with inertial measurement unit (IMU)-based motion analysis within a unified smartphone-based sensing environment, enabling mobile and scalable applications. The framework outlines methods for extracting oculomotor and biomechanical features, including vestibulo-ocular behavior and gait stability metrics such as Triangular Area Variability (TAV) and inter-limb symmetry. In addition, it introduces the use of virtual anatomical reference points (S1, P L  , P R  ) and the projection of sacral motion onto the interpatellar axis to describe biomechanical stability. As a conceptual contribution, this work does not include clinical validation or real-world data but provides a structured methodological foundation for future studies. The proposed framework is intended to support the development of accessible, smartphone-based screening and monitoring approaches for the early identification of balance-related impairments, thereby contributing to fall prevention research in neurologic and neuroorthopedic populations.",
-   "doi": "10.3389/fdgth.2026.1798559",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42491455/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42553458",

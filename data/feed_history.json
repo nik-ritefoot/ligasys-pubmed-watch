@@ -1,5 +1,52 @@
 [
  {
+  "pmid": "42633070",
+  "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
+  "journal": "Orthop J Sports Med",
+  "year": "2026",
+  "authors": [
+   "Tyler JR",
+   "Gamadia M",
+   "Parnes N",
+   "Czajkowski H",
+   "et al."
+  ],
+  "abstract": "Basketball is widely played in the United States, yet contemporary comparisons of basketball-related injuries between high school- and college-aged athletes using nationally representative emergency department (ED) data remain limited. To compare basketball-related injury epidemiology between high school- and college-aged athletes and characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System (NEISS) was queried for basketball-related injuries in athletes aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using NEISS sampling weights. US Census Bureau annual population estimates were summed across ages 14 to 18 years and 19 to 23 years to determine the population at risk for each group and calculate incidence rates (IRs) per 100,000 person-years. IR ratios (IRRs) with 95% CIs were used to compare age groups by overall incidence, injury pattern, and ED disposition. A total of 61,279 basketball-related injuries among athletes aged 14 to 23 years were documented in the NEISS database, corresponding to an estimated 2,023,859 injuries treated in US EDs between 2015 and 2024. High school-aged athletes had a higher overall injury incidence than college-aged athletes (686.67 vs 252.63 per 100,000 person-years; IRR, 2.72; 95% CI, 2.67-2.77). Both groups showed a sharp decline in injury incidence in 2020, corresponding with the onset of the COVID-19 pandemic. The ankle (26.8%), knee (11.8%), finger (10.3%), and head (8.6%) were the most frequently injured body regions. High school-aged athletes had significantly higher rates of injuries to the head (IRR, 4.88; 95% CI, 4.52-5.27), lower arm (IRR, 5.02; 95% CI, 4.18-6.04), wrist (IRR, 4.12; 95% CI, 3.71-4.58), elbow (IRR, 4.12; 95% CI, 3.54-4.80), and finger (IRR, 3.64; 95% CI, 3.42-3.87), as well as higher rates of concussion (IRR, 6.64; 95% CI, 5.81-7.58), fractures (IRR, 3.43; 95% CI, 3.25-3.61), and strains and sprains (IRR, 2.73; 95% CI, 2.65-2.81). Treated-and-discharged injuries accounted for 97.6% of ED visits among high school-aged athletes and 96.8% among college-aged athletes; however, high school-aged athletes had higher rates of transfer or admission (IRR, 7.61; 95% CI, 5.26-10.99) and observation (IRR, 5.49; 95% CI, 3.06-9.84). Our study showed that from 2015 to 2024, high school-aged athletes had substantially higher IRs than college-aged athletes for basketball-related ED injuries across most body regions, diagnoses, and ED dispositions. These findings support targeted injury prevention strategies at the high school level and highlight the burden basketball injuries place on US EDs.",
+  "doi": "10.1177/23259671261476937",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42633070/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-08-23T13:57:12Z"
+ },
+ {
+  "pmid": "42630356",
+  "title": "Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.",
+  "journal": "Front Sports Act Living",
+  "year": "2026",
+  "authors": [
+   "Hales M",
+   "Johnson JD"
+  ],
+  "abstract": "Exercise-associated muscle cramps (EAMC) remain a common, disruptive, and incompletely explained phenomenon in sport. Traditional explanations have emphasized dehydration and electrolyte imbalance; however, accumulating evidence indicates that these factors alone do not adequately explain many cramping events. The altered neuromuscular control theory provides a more plausible physiological mechanism, proposing that fatigue disrupts the balance between excitatory input from muscle spindles and inhibitory feedback from Golgi tendon organs. While this framework explains the immediate pathway leading to cramp, it does not sufficiently identify the upstream factors that initiate the fatigue state. We propose that the interaction between the athlete and the mechanical properties of the playing surface represents an underrecognized upstream contributor to EAMC. Exposure to unfamiliar or mismatched surface mechanical properties is proposed to alter muscle recruitment patterns, increase localized neuromuscular demand, and accelerate fatigue development. This fatigue-related state may increase susceptibility to the excitatory-inhibitory imbalance associated with EAMC in athletes operating near an individual cramp threshold. Evidence from studies examining surface stiffness, energy dissipation, energy return, and myoelectric activity support the premise that surface characteristics influence neuromuscular behavior, metabolic demand, and performance output. When athletes train and compete on surfaces with differing mechanical properties, the resulting mismatch in neuromuscular preparation may increase susceptibility to EAMC. Accordingly, aligning training conditions with competition surfaces, or optimizing footwear-surface interaction, represents a plausible risk-reduction strategy that requires further experimental validation. This hypothesis integrates biomechanical and neuromuscular perspectives and provides a testable framework for future experimental research aimed at identifying modifiable risk factors for EAMC.",
+  "doi": "10.3389/fspor.2026.1848906",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42630356/",
+  "matched": [
+   {
+    "id": "footwear-interface",
+    "label": "Footwear / shoe-surface interface & traction",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-23T13:57:12Z"
+ },
+ {
   "pmid": "42628337",
   "title": "In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.",
   "journal": "J Biomech",

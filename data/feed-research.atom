@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-08-22T13:55:39Z</updated>
+  <updated>2026-08-23T13:57:12Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.</title>
+    <id>urn:pmid:42630356</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42630356/" rel="alternate"/>
+    <updated>2026-08-23T13:57:12Z</updated>
+    <published>2026-08-23T13:57:12Z</published>
+    <author><name>Hales M</name></author><author><name>Johnson JD</name></author>
+    <category term="footwear-interface" label="Footwear / shoe-surface interface &amp; traction"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Hales M, Johnson JD · Front Sports Act Living · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Exercise-associated muscle cramps (EAMC) remain a common, disruptive, and incompletely explained phenomenon in sport. Traditional explanations have emphasized dehydration and electrolyte imbalance; however, accumulating evidence indicates that these factors alone do not adequately explain many cramping events. The altered neuromuscular control theory provides a more plausible physiological mechanism, proposing that fatigue disrupts the balance between excitatory input from muscle spindles and inhibitory feedback from Golgi tendon organs. While this framework explains the immediate pathway leading to cramp, it does not sufficiently identify the upstream factors that initiate the fatigue state. We propose that the interaction between the athlete and the mechanical properties of the playing surface represents an underrecognized upstream contributor to EAMC. Exposure to unfamiliar or mismatched surface mechanical properties is proposed to alter muscle recruitment patterns, increase localized neuromuscular demand, and accelerate fatigue development. This fatigue-related state may increase susceptibility to the excitatory-inhibitory imbalance associated with EAMC in athletes operating near an individual cramp threshold. Evidence from studies examining surface stiffness, energy dissipation, energy return, and myoelectric activity support the premise that surface characteristics influence neuromuscular behavior, metabolic demand, and performance output. When athletes train and compete on surfaces with differing mechanical properties, the resulting mismatch in neuromuscular preparation may increase susceptibility to EAMC. Accordingly, aligning training conditions with competition surfaces, or optimizing footwear-surface interaction, represents a plausible risk-reduction strategy that requires further experimental validation. This hypothesis integrates biomechanical and neuromuscular perspectives and provides a testable framework for future experimental research aimed at identifying modifiable risk factors for EAMC.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fspor.2026.1848906&quot;&gt;10.3389/fspor.2026.1848906&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42630356/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Lower-limb biomechanical alterations across movement tasks in individuals with chronic ankle instability: An umbrella review of systematic reviews and meta-analyses.</title>
     <id>urn:pmid:42620678</id>
