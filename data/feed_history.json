@@ -1,5 +1,29 @@
 [
  {
+  "pmid": "42633742",
+  "title": "Decreasing postural stability after trunk perturbation is related to altered muscle activity in patients with chronic ankle instability.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Mineta S",
+   "Mitsui M",
+   "Sudo T",
+   "Ebato T"
+  ],
+  "abstract": "Approximately 47% of lateral ankle sprains (LASs) occur via indirect contact; therefore, clarifying postural control after external contact to the trunk may provide valuable insights into LAS prevention. In the present study, kinematics, kinetics, and muscle activity were measured during a stepping task following trunk perturbation. Kinematics and muscle activity were analyzed before and after both perturbation and initial contact (IC), whereas kinetics were analyzed only before and after IC. The anterior-posterior stability index, medial-lateral stability index (MLSI), and maximum lateral center of pressure (COP) displacement were calculated as stability outcomes. Co-contraction indices (CCIs) were calculated to assess muscle coactivation. Group differences were analyzed using independent t-tests, Mann-Whitney U tests, or statistical parametric mapping for time-series data. Relationships between stability outcomes and muscle activity were examined using multiple regression analysis. The CAI group exhibited significantly higher MLSI and COP lateral displacement, and significantly lower tibialis anterior (TA)/TA\u00a0+\u00a0gastrocnemius medialis (GasM) and TA/TA\u00a0+\u00a0gastrocnemius lateralis (GasL) co-contraction indices. The analyses revealed several significant group differences and associations. GasM root mean square (RMS) before IC was also significantly higher. Increased MLSI was associated with delayed peroneus longus (PL) onset; COP displacement was related to PL/PL\u00a0+\u00a0TA CCI, PL RMS before IC, and delayed GasL onset. These findings indicate that individuals with CAI exhibit impaired postural stability during post-perturbation stepping responses following external contact to the trunk, accompanied by altered ankle muscle activation. Perturbation-based training targeting foot stability and coordinated ankle muscle activation may be important for LAS prevention and rehabilitation.",
+  "doi": "10.1016/j.jbiomech.2026.113524",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42633742/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-08-24T14:22:41Z"
+ },
+ {
   "pmid": "42633070",
   "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
   "journal": "Orthop J Sports Med",

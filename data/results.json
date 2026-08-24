@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-23T13:57:12+00:00",
+ "generated": "2026-08-24T14:22:41+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,59 +65,33 @@
   }
  ],
  "counts": {
-  "total": 72,
-  "new": 2,
+  "total": 70,
+  "new": 1,
   "research": 20,
-  "fieldnotes": 52
+  "fieldnotes": 50
  },
  "records": [
   {
-   "pmid": "42633070",
-   "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
-   "journal": "Orthop J Sports Med",
+   "pmid": "42633742",
+   "title": "Decreasing postural stability after trunk perturbation is related to altered muscle activity in patients with chronic ankle instability.",
+   "journal": "J Biomech",
    "year": "2026",
    "authors": [
-    "Tyler JR",
-    "Gamadia M",
-    "Parnes N",
-    "Czajkowski H",
-    "et al."
+    "Mineta S",
+    "Mitsui M",
+    "Sudo T",
+    "Ebato T"
    ],
-   "abstract": "Basketball is widely played in the United States, yet contemporary comparisons of basketball-related injuries between high school- and college-aged athletes using nationally representative emergency department (ED) data remain limited. To compare basketball-related injury epidemiology between high school- and college-aged athletes and characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System (NEISS) was queried for basketball-related injuries in athletes aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using NEISS sampling weights. US Census Bureau annual population estimates were summed across ages 14 to 18 years and 19 to 23 years to determine the population at risk for each group and calculate incidence rates (IRs) per 100,000 person-years. IR ratios (IRRs) with 95% CIs were used to compare age groups by overall incidence, injury pattern, and ED disposition. A total of 61,279 basketball-related injuries among athletes aged 14 to 23 years were documented in the NEISS database, corresponding to an estimated 2,023,859 injuries treated in US EDs between 2015 and 2024. High school-aged athletes had a higher overall injury incidence than college-aged athletes (686.67 vs 252.63 per 100,000 person-years; IRR, 2.72; 95% CI, 2.67-2.77). Both groups showed a sharp decline in injury incidence in 2020, corresponding with the onset of the COVID-19 pandemic. The ankle (26.8%), knee (11.8%), finger (10.3%), and head (8.6%) were the most frequently injured body regions. High school-aged athletes had significantly higher rates of injuries to the head (IRR, 4.88; 95% CI, 4.52-5.27), lower arm (IRR, 5.02; 95% CI, 4.18-6.04), wrist (IRR, 4.12; 95% CI, 3.71-4.58), elbow (IRR, 4.12; 95% CI, 3.54-4.80), and finger (IRR, 3.64; 95% CI, 3.42-3.87), as well as higher rates of concussion (IRR, 6.64; 95% CI, 5.81-7.58), fractures (IRR, 3.43; 95% CI, 3.25-3.61), and strains and sprains (IRR, 2.73; 95% CI, 2.65-2.81). Treated-and-discharged injuries accounted for 97.6% of ED visits among high school-aged athletes and 96.8% among college-aged athletes; however, high school-aged athletes had higher rates of transfer or admission (IRR, 7.61; 95% CI, 5.26-10.99) and observation (IRR, 5.49; 95% CI, 3.06-9.84). Our study showed that from 2015 to 2024, high school-aged athletes had substantially higher IRs than college-aged athletes for basketball-related ED injuries across most body regions, diagnoses, and ED dispositions. These findings support targeted injury prevention strategies at the high school level and highlight the burden basketball injuries place on US EDs.",
-   "doi": "10.1177/23259671261476937",
+   "abstract": "Approximately 47% of lateral ankle sprains (LASs) occur via indirect contact; therefore, clarifying postural control after external contact to the trunk may provide valuable insights into LAS prevention. In the present study, kinematics, kinetics, and muscle activity were measured during a stepping task following trunk perturbation. Kinematics and muscle activity were analyzed before and after both perturbation and initial contact (IC), whereas kinetics were analyzed only before and after IC. The anterior-posterior stability index, medial-lateral stability index (MLSI), and maximum lateral center of pressure (COP) displacement were calculated as stability outcomes. Co-contraction indices (CCIs) were calculated to assess muscle coactivation. Group differences were analyzed using independent t-tests, Mann-Whitney U tests, or statistical parametric mapping for time-series data. Relationships between stability outcomes and muscle activity were examined using multiple regression analysis. The CAI group exhibited significantly higher MLSI and COP lateral displacement, and significantly lower tibialis anterior (TA)/TA\u00a0+\u00a0gastrocnemius medialis (GasM) and TA/TA\u00a0+\u00a0gastrocnemius lateralis (GasL) co-contraction indices. The analyses revealed several significant group differences and associations. GasM root mean square (RMS) before IC was also significantly higher. Increased MLSI was associated with delayed peroneus longus (PL) onset; COP displacement was related to PL/PL\u00a0+\u00a0TA CCI, PL RMS before IC, and delayed GasL onset. These findings indicate that individuals with CAI exhibit impaired postural stability during post-perturbation stepping responses following external contact to the trunk, accompanied by altered ankle muscle activation. Perturbation-based training targeting foot stability and coordinated ankle muscle activation may be important for LAS prevention and rehabilitation.",
+   "doi": "10.1016/j.jbiomech.2026.113524",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42633070/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42633742/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42630356",
-   "title": "Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Hales M",
-    "Johnson JD"
-   ],
-   "abstract": "Exercise-associated muscle cramps (EAMC) remain a common, disruptive, and incompletely explained phenomenon in sport. Traditional explanations have emphasized dehydration and electrolyte imbalance; however, accumulating evidence indicates that these factors alone do not adequately explain many cramping events. The altered neuromuscular control theory provides a more plausible physiological mechanism, proposing that fatigue disrupts the balance between excitatory input from muscle spindles and inhibitory feedback from Golgi tendon organs. While this framework explains the immediate pathway leading to cramp, it does not sufficiently identify the upstream factors that initiate the fatigue state. We propose that the interaction between the athlete and the mechanical properties of the playing surface represents an underrecognized upstream contributor to EAMC. Exposure to unfamiliar or mismatched surface mechanical properties is proposed to alter muscle recruitment patterns, increase localized neuromuscular demand, and accelerate fatigue development. This fatigue-related state may increase susceptibility to the excitatory-inhibitory imbalance associated with EAMC in athletes operating near an individual cramp threshold. Evidence from studies examining surface stiffness, energy dissipation, energy return, and myoelectric activity support the premise that surface characteristics influence neuromuscular behavior, metabolic demand, and performance output. When athletes train and compete on surfaces with differing mechanical properties, the resulting mismatch in neuromuscular preparation may increase susceptibility to EAMC. Accordingly, aligning training conditions with competition surfaces, or optimizing footwear-surface interaction, represents a plausible risk-reduction strategy that requires further experimental validation. This hypothesis integrates biomechanical and neuromuscular perspectives and provides a testable framework for future experimental research aimed at identifying modifiable risk factors for EAMC.",
-   "doi": "10.3389/fspor.2026.1848906",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42630356/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -658,6 +632,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42633070",
+   "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Tyler JR",
+    "Gamadia M",
+    "Parnes N",
+    "Czajkowski H",
+    "et al."
+   ],
+   "abstract": "Basketball is widely played in the United States, yet contemporary comparisons of basketball-related injuries between high school- and college-aged athletes using nationally representative emergency department (ED) data remain limited. To compare basketball-related injury epidemiology between high school- and college-aged athletes and characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System (NEISS) was queried for basketball-related injuries in athletes aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using NEISS sampling weights. US Census Bureau annual population estimates were summed across ages 14 to 18 years and 19 to 23 years to determine the population at risk for each group and calculate incidence rates (IRs) per 100,000 person-years. IR ratios (IRRs) with 95% CIs were used to compare age groups by overall incidence, injury pattern, and ED disposition. A total of 61,279 basketball-related injuries among athletes aged 14 to 23 years were documented in the NEISS database, corresponding to an estimated 2,023,859 injuries treated in US EDs between 2015 and 2024. High school-aged athletes had a higher overall injury incidence than college-aged athletes (686.67 vs 252.63 per 100,000 person-years; IRR, 2.72; 95% CI, 2.67-2.77). Both groups showed a sharp decline in injury incidence in 2020, corresponding with the onset of the COVID-19 pandemic. The ankle (26.8%), knee (11.8%), finger (10.3%), and head (8.6%) were the most frequently injured body regions. High school-aged athletes had significantly higher rates of injuries to the head (IRR, 4.88; 95% CI, 4.52-5.27), lower arm (IRR, 5.02; 95% CI, 4.18-6.04), wrist (IRR, 4.12; 95% CI, 3.71-4.58), elbow (IRR, 4.12; 95% CI, 3.54-4.80), and finger (IRR, 3.64; 95% CI, 3.42-3.87), as well as higher rates of concussion (IRR, 6.64; 95% CI, 5.81-7.58), fractures (IRR, 3.43; 95% CI, 3.25-3.61), and strains and sprains (IRR, 2.73; 95% CI, 2.65-2.81). Treated-and-discharged injuries accounted for 97.6% of ED visits among high school-aged athletes and 96.8% among college-aged athletes; however, high school-aged athletes had higher rates of transfer or admission (IRR, 7.61; 95% CI, 5.26-10.99) and observation (IRR, 5.49; 95% CI, 3.06-9.84). Our study showed that from 2015 to 2024, high school-aged athletes had substantially higher IRs than college-aged athletes for basketball-related ED injuries across most body regions, diagnoses, and ED dispositions. These findings support targeted injury prevention strategies at the high school level and highlight the burden basketball injuries place on US EDs.",
+   "doi": "10.1177/23259671261476937",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42633070/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42514199",
    "title": "Conservative Treatment Including Focused Extracorporeal Shockwave Therapy as a First-Line Treatment for Isolated Peroneus Longus Tendon Tear in a Professional Football Player Shows Excellent Clinical and Radiological Outcomes: A Case Report.",
    "journal": "Life (Basel)",
@@ -880,35 +882,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42493723",
-   "title": "Effect of photobiomodulation on fatigue-related errors in ankle joint position reproduction: the moderating role of perceived ankle instability in a randomized, placebo-controlled trial.",
-   "journal": "Lasers Med Sci",
-   "year": "2026",
-   "authors": [
-    "Ikuta Y",
-    "Yamakawa R",
-    "Toriyama M",
-    "Ito H",
-    "et al."
-   ],
-   "abstract": "To investigate whether pre-exercise photobiomodulation (PBM) attenuates fatigue-induced decline in ankle joint position reproduction (JPR) and determine whether perceived ankle instability modifies this response. In this randomized, placebo-controlled trial with participant blinding and blinded outcome assessment, 30 healthy young adults (age: 24.3\u2009\u00b1\u20093.7 years; 15 male, 15 female) received either PBM or placebo treatment applied to the lower-leg musculature before a fatiguing protocol. PBM parameters included a wavelength of 830 nm, average power of 1 W, and total energy of 300 J per limb. Ankle JPR was assessed before and after fatigue. Participants were stratified by Cumberland Ankle Instability Tool (CAIT) scores. All physical assessments were performed by independent outcome assessors blinded to group allocation, with each participant evaluated by the same designated assessor throughout the study. The primary analysis revealed no overall between-group difference in fatigue-related changes in ankle JPR. A secondary exploratory group \u00d7 CAIT interaction was observed, suggesting potential effect modification by perceived ankle instability. In the higher perceived instability subgroup, the estimated between-group difference was consistent with less post-fatigue worsening of JPR error following PBM; however, this estimate was based on small subgroup sizes and was not adjusted for multiple comparisons. The primary hypothesis was not supported; pre-exercise PBM showed no overall effect on fatigue-induced changes in ankle JPR. The exploratory group \u00d7 CAIT interaction suggests that perceived ankle instability may be an effect modifier the response to PBM. However, this hypothesis requires confirmation in a larger, preregistered trial prospectively powered for interaction testing and incorporating functional outcomes in populations with clinically diagnosed chronic ankle instability.",
-   "doi": "10.1007/s10103-026-04966-6",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42493723/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42539434",
@@ -1180,68 +1153,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42606584/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42494100",
-   "title": "Hormonal Contraceptive Use and Musculoskeletal Injury Risk in Female Athletes: A Prospective Cohort Study.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Trentacosta N",
-    "Kaneda G",
-    "Schimmoeller N",
-    "Huang DT",
-    "et al."
-   ],
-   "abstract": "Female reproductive hormones are attributed to the higher rate of musculoskeletal (MSK) injuries among female athletes compared with male athletes. To evaluate association between exposure to hormonal contraceptives (HCs), joint laxity, and number of injuries in female athletes over a 1-year period. Cohort study. Level 3. Professional and Division I collegiate female athletes were recruited into 2 groups based on HC status (HC vs non-HC). Serum relaxin, estrogen and progesterone levels, knee laxity, generalized hypermobility, and lower extremity kinematics during a single-legged jump were examined during preseason in the luteal phase of each athlete's menstrual cycle. Injuries were tracked for 1\u2009year after testing. Circulating levels of progesterone (non-HC, 38.9\u2009\u00b1\u200915.0 pg/mg vs HC, 28.6\u2009\u00b1\u200911.4 pg/mg; P\u2009<\u20090.01), estrogen (non-HC, 2.80\u2009\u00b1\u20093.0 pg/mg vs HC, 2.0\u2009\u00b1\u20093.0 pg/mg; P\u2009=\u20090.01), and relaxin (non-HC, 0.26\u2009\u00b1\u20090.08\u2009pg/mg vs HC, 0.22\u2009\u00b1\u20090.03 pg/mg; P\u2009=\u20090.04) were lower in HC (n\u2009=\u200932) than in non-HC (n\u2009=\u200940) athletes during the luteal phase of the cycle. Non-HC athletes demonstrated significantly greater hip flexion at initial contact (non-HC, 29.42\u00b0\u00b1\u20097.64\u00b0 vs HC, 25.25\u00b0\u00b1\u20097.13\u00b0; P\u2009=\u20090.02), and greater knee adduction (valgus) at maximum knee flexion (non-HC, -1.90\u00b0\u00b1\u20093.25\u00b0 vs HC, -0.25\u00b0 \u00b1 3.40\u00b0; P\u2009=\u20090.02) during a single-legged drop. Average (\u00b1SD) injury count for non-HC athletes was 0.71 (\u00b11.3) compared with 0.35 (\u00b10.70) in the HC group (P\u2009=\u20090.25). Injury count was correlated significantly to circulating levels of relaxin (r\u2009=\u20090.32; P\u2009<\u20090.01). A potential relationship between increased circulating relaxin levels and the risk of injury was established. Athletes taking HCs demonstrated significantly reduced peak knee adduction angles when landing from a jump. The results advance knowledge of relationships between specific hormones and injury risk, and the potential role of HCs on kinematic patterns when landing from a jump. Future research will determine HC formulations that may protect against MSK injury, and inform broader strategies to reduce sport-related injury risk in female athletes.",
-   "doi": "10.1177/19417381261459590",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42494100/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42496709",
-   "title": "Imaging of bone stress injury in runners.",
-   "journal": "Skeletal Radiol",
-   "year": "2026",
-   "authors": [
-    "Rawal S",
-    "Yeo EG",
-    "Rawal S",
-    "Kwon H",
-    "et al."
-   ],
-   "abstract": "Bone stress injuries (BSIs) are commonly seen in runners due to repetitive force overload applied to the lower extremity causing structural fatigue and damage. BSIs exist on a spectrum from early stress reactions to stress fractures, and a delay in diagnosis can lead to prolonged recovery time and overall worsened outcomes. Imaging plays a vital role in being able to identify early signs of a BSI and guiding management appropriately. Radiographs are the initial imaging modality utilized due to easy accessibility and low cost, but they lack early sensitivity. The gold standard for early detection of BSIs is an MRI due to its ability to evaluate for bone marrow changes and early edema. Additional modalities exist, such as CT, ultrasound, and PET imaging; however, they do not provide the early sensitivity seen with MRI and may incur radiation exposure to the patient. The goal of this narrative review article is to discuss the imaging modalities and describe the characteristic BSI findings which can be observed. Additionally, we will critically appraise various classification systems utilized by radiologists to grade BSIs with relevance to return to play.",
-   "doi": "10.1007/s00256-026-05310-3",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42496709/",
    "matched": [
     {
      "id": "return-to-play",
@@ -1980,6 +1891,31 @@
     {
      "id": "ankle-instability-mechanism",
      "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42630356",
+   "title": "Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Hales M",
+    "Johnson JD"
+   ],
+   "abstract": "Exercise-associated muscle cramps (EAMC) remain a common, disruptive, and incompletely explained phenomenon in sport. Traditional explanations have emphasized dehydration and electrolyte imbalance; however, accumulating evidence indicates that these factors alone do not adequately explain many cramping events. The altered neuromuscular control theory provides a more plausible physiological mechanism, proposing that fatigue disrupts the balance between excitatory input from muscle spindles and inhibitory feedback from Golgi tendon organs. While this framework explains the immediate pathway leading to cramp, it does not sufficiently identify the upstream factors that initiate the fatigue state. We propose that the interaction between the athlete and the mechanical properties of the playing surface represents an underrecognized upstream contributor to EAMC. Exposure to unfamiliar or mismatched surface mechanical properties is proposed to alter muscle recruitment patterns, increase localized neuromuscular demand, and accelerate fatigue development. This fatigue-related state may increase susceptibility to the excitatory-inhibitory imbalance associated with EAMC in athletes operating near an individual cramp threshold. Evidence from studies examining surface stiffness, energy dissipation, energy return, and myoelectric activity support the premise that surface characteristics influence neuromuscular behavior, metabolic demand, and performance output. When athletes train and compete on surfaces with differing mechanical properties, the resulting mismatch in neuromuscular preparation may increase susceptibility to EAMC. Accordingly, aligning training conditions with competition surfaces, or optimizing footwear-surface interaction, represents a plausible risk-reduction strategy that requires further experimental validation. This hypothesis integrates biomechanical and neuromuscular perspectives and provides a testable framework for future experimental research aimed at identifying modifiable risk factors for EAMC.",
+   "doi": "10.3389/fspor.2026.1848906",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42630356/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
      "bucket": "research"
     }
    ],

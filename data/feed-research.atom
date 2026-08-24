@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-08-23T13:57:12Z</updated>
+  <updated>2026-08-24T14:22:41Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Decreasing postural stability after trunk perturbation is related to altered muscle activity in patients with chronic ankle instability.</title>
+    <id>urn:pmid:42633742</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42633742/" rel="alternate"/>
+    <updated>2026-08-24T14:22:41Z</updated>
+    <published>2026-08-24T14:22:41Z</published>
+    <author><name>Mineta S</name></author><author><name>Mitsui M</name></author><author><name>Sudo T</name></author><author><name>Ebato T</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Mineta S, Mitsui M, Sudo T, Ebato T · J Biomech · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Approximately 47% of lateral ankle sprains (LASs) occur via indirect contact; therefore, clarifying postural control after external contact to the trunk may provide valuable insights into LAS prevention. In the present study, kinematics, kinetics, and muscle activity were measured during a stepping task following trunk perturbation. Kinematics and muscle activity were analyzed before and after both perturbation and initial contact (IC), whereas kinetics were analyzed only before and after IC. The anterior-posterior stability index, medial-lateral stability index (MLSI), and maximum lateral center of pressure (COP) displacement were calculated as stability outcomes. Co-contraction indices (CCIs) were calculated to assess muscle coactivation. Group differences were analyzed using independent t-tests, Mann-Whitney U tests, or statistical parametric mapping for time-series data. Relationships between stability outcomes and muscle activity were examined using multiple regression analysis. The CAI group exhibited significantly higher MLSI and COP lateral displacement, and significantly lower tibialis anterior (TA)/TA + gastrocnemius medialis (GasM) and TA/TA + gastrocnemius lateralis (GasL) co-contraction indices. The analyses revealed several significant group differences and associations. GasM root mean square (RMS) before IC was also significantly higher. Increased MLSI was associated with delayed peroneus longus (PL) onset; COP displacement was related to PL/PL + TA CCI, PL RMS before IC, and delayed GasL onset. These findings indicate that individuals with CAI exhibit impaired postural stability during post-perturbation stepping responses following external contact to the trunk, accompanied by altered ankle muscle activation. Perturbation-based training targeting foot stability and coordinated ankle muscle activation may be important for LAS prevention and rehabilitation.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.jbiomech.2026.113524&quot;&gt;10.1016/j.jbiomech.2026.113524&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42633742/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.</title>
     <id>urn:pmid:42630356</id>
