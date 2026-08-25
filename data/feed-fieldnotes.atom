@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-08-24T14:22:41Z</updated>
+  <updated>2026-08-25T14:24:50Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Bone stress injury recovery and return to sport in runners: a multi-site prospective observational cohort study protocol across the USA and Canada.</title>
+    <id>urn:pmid:42637262</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42637262/" rel="alternate"/>
+    <updated>2026-08-25T14:24:50Z</updated>
+    <published>2026-08-25T14:24:50Z</published>
+    <author><name>Popp KL</name></author><author><name>Whitcomb E</name></author><author><name>Hahn ME</name></author><author><name>Stellingwerff T</name></author><author><name>et al.</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Popp KL, Whitcomb E, Hahn ME, Stellingwerff T, et al. · BMJ Open · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Bone stress injuries (BSIs) are common overuse injuries in athletes and are associated with prolonged recovery and high rates of reinjury. Despite their clinical importance, there is no consensus on how to define or assess BSI healing. Clinical, functional and imaging outcomes for BSI healing are used inconsistently across studies, limiting comparability and the development of evidence-based return-to-sport guidelines. This study aims to identify and characterise candidate outcomes for assessing BSI healing in runners, including their time course and variability across function, imaging and clinical domains. This is a 1 year, multi-site prospective cohort study of male and female runners with a recent MRI-confirmed BSI of the tibia, metatarsals, femoral neck or sacrum. We will enrol participants across four clinical and academic research sites in the USA and Canada, within 3 weeks of diagnostic MRI and follow them longitudinally for 1 year through recovery, return to sport and full sport participation. Candidate outcomes for BSI healing include time to pain-free functional milestones (eg, hopping, jogging), completion of a return-to-run protocol, medical clearance for unrestricted activity, and changes in MRI grade and clinical severity scores. Secondary and exploratory measures include training patterns, wearable-derived activity and sleep metrics, biomechanical assessments, and serum proteomic profiles. We will use descriptive statistics to characterise the time course and variability of candidate outcomes. We will explore associations between outcomes and subsequent BSIs within 1 year using regression models. This study has received institutional review board approval at all participating institutions. We will obtain written informed consent from all participants prior to any study procedures (and assent with parental consent for minors). We will disseminate results through peer-reviewed publications and scientific conferences.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1136/bmjopen-2026-121916&quot;&gt;10.1136/bmjopen-2026-121916&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42637262/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.</title>
     <id>urn:pmid:42633070</id>
