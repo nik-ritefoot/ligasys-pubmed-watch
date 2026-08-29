@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T23:11:32+00:00",
+ "generated": "2026-08-29T17:21:51+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,299 +65,12 @@
   }
  ],
  "counts": {
-  "total": 80,
-  "new": 9,
-  "research": 24,
-  "fieldnotes": 56
+  "total": 75,
+  "new": 0,
+  "research": 22,
+  "fieldnotes": 53
  },
  "records": [
-  {
-   "pmid": "42662164",
-   "title": "Applications of conductive hydrogels in sports performance monitoring.",
-   "journal": "Nanoscale Adv",
-   "year": "2026",
-   "authors": [
-    "Liu J",
-    "Zhang X",
-    "Liu S"
-   ],
-   "abstract": "Conductive hydrogels, as functional materials with softness, electrical conductivity, and biocompatibility, have attracted increasing attention in the field of sports performance monitoring in recent years. Compared with traditional rigid sensors, conductive hydrogels can better conform to the skin and soft tissues, enabling stable and continuous signal acquisition during high-intensity exercise and in complex environments. This review comprehensively summarizes recent advances in the application of conductive hydrogels for sports monitoring, with a particular focus on material design strategies, conductive mechanisms, and key performance characteristics. Furthermore, typical application scenarios are discussed, including joint posture tracking, impact force measurement, electromyographic signal acquisition, sweat analysis, and feedback during rehabilitation training. The major challenges currently facing this field are also analyzed, such as insufficient durability, performance degradation in high-humidity environments, technical bottlenecks in multimodal synchronous signal acquisition, complex fabrication processes, and the lack of standardized evaluation systems. Finally, potential future development directions are proposed, including intelligence, multimodal integration, industrial translation, and green sustainable development. Conductive hydrogels are expected to become core materials for next-generation wearable sports monitoring devices, providing strong support for scientific training, injury prevention, and personalized rehabilitation.",
-   "doi": "10.1039/d6na00545d",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42662164/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42662514",
-   "title": "Autologous chondrocyte implantation in osteochondral defects of the capitulum: clinical and radiological outcome in a case series.",
-   "journal": "JSES Int",
-   "year": "2026",
-   "authors": [
-    "Schmidt AF",
-    "Wei\u00df I",
-    "Akgun D",
-    "Reisener M",
-    "et al."
-   ],
-   "abstract": "Osteochondritis dissecans (OCD) of the capitellum is a cartilage and subchondral bone disorder predominantly affecting young, physically active individuals. While established surgical techniques such as microfracturing and osteochondral autograft transfer offer acceptable outcomes, limitations in cartilage quality or procedural invasiveness remain. Autologous chondrocyte implantation (ACI) has been proposed as a less invasive, biologically restorative alternative, though clinical data on its use in the elbow are not available. Therefore, the aim of this pilot study was to evaluate the feasibility of ACI for the treatment of elbow OCD in a case series. In this prospective observational study, 6 male patients (20.5 \u00b1 5.2 years) with centralized International Cartilage Research Society grade IV OCD lesions of the capitellum were included and treated with ACI. Clinical evaluations were performed at 6 months (T1), 12 months (T2), and 34.8 \u00b1 7.9 months (T3) post-operatively, including assessment of range of motion, subjective elbow value, visual analog scale for pain, Mayo Elbow Performance Score, Kerlan-Jobe Orthopaedic Clinic score, and return to sport. Magnetic resonance imaging was conducted at T2 and T3, and cartilage repair tissue was analyzed using the magnetic resonance observation of cartilage repair tissue 2.0 Ankle Score. Improvements were observed across all clinical outcome measures. Subjective elbow value increased from 59 \u00b1 18.5% pre-operatively to 91.2 \u00b1 4.2% at final follow-up, while visual analog scale under load decreased from 6.5 \u00b1 1.6 to 0.8 \u00b1 0.7. Mayo Elbow Performance Score and Kerlan-Jobe Orthopaedic Clinic improved from 70.6 \u00b1 17.7 to 97.5 \u00b1 6 and from 38.3 \u00b1 10 to 88.5 \u00b1 8.4, respectively. Magnetic resonance imaging demonstrated defect filling and integration in all individuals, as assessed by the magnetic resonance observation of cartilage repair tissue score, which showed no deterioration between T2 and T3. The mean return to sport time was 6.8 \u00b1 3 months. No complications or need for revision surgery were recorded. This pilot feasibility study provides preliminary insights into the treatment of centralized capitellar OCD lesion with ACI in a case series of young, active patients, with clinical and radiological findings at a mean 3-year follow-up (range, 25-42 months). These exploratory findings suggest that ACI may warrant further investigation for focal, symptomatic elbow defects with minimal or limited involvement of the subchondral bone. Larger controlled studies are needed to define the role of ACI relative to established treatment options.",
-   "doi": "10.1016/j.jseint.2026.101770",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42662514/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42662945",
-   "title": "Biofeedback-Assisted Rehabilitation for Neuromotor Recovery After Lower-Extremity Musculoskeletal Injury: A Narrative Review.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Bhide R",
-    "Singh H"
-   ],
-   "abstract": "Biofeedback delivers real-time physiological or biomechanical information during rehabilitation, but the postinjury evidence is heterogeneous and does not support a simple claim of superiority over exercise. This narrative review explored how biofeedback has been used to address neuromotor recovery after lower-extremity musculoskeletal injury and summarized direct exercise-only comparisons where available. PubMed/MEDLINE, Scopus, and PEDro were searched from inception through May 31, 2026, using database-specific combinations of terms for biofeedback, rehabilitation, anterior cruciate ligament injury or reconstruction, meniscectomy, chronic ankle instability, ankle sprain, and sports injury. Therapeutic primary studies were eligible when they enrolled injured or postoperative participants, used electromyographic, visual, or kinetic, force or pressure, auditory, tactile, or vibration feedback, and reported muscle activation, knee extension, proprioception, balance, gait, or loading, symmetry, movement quality, or functional outcomes. Healthy performance or prevention cohorts, exercise-only studies, assessment-only reports, protocols, conceptual papers, and secondary reviews were excluded from the core clinical synthesis; relevant secondary and healthy-cohort evidence was discussed separately. Sixteen primary clinical reports, comprising nine randomized trials and seven nonrandomized, acute, or uncontrolled studies, were included. Randomized trials were appraised against Physiotherapy Evidence Database domains and nonrandomized studies against the revised Joanna Briggs Institute quasi-experimental tool. Overall confidence was limited by small samples, incomplete allocation or blinding reporting, heterogeneous devices and dosing, task-specific outcomes, and short follow-up. Preliminary evidence suggests that electromyographic biofeedback may support early quadriceps activation or knee-extension recovery after anterior cruciate ligament reconstruction or meniscectomy, but pain and patient-reported function were not consistently superior to standard rehabilitation. Visual, kinetic, force-based, auditory, and vibration feedback produced task-specific changes in balance, strength, joint-position sense, gait, loading, or symmetry; retention and transfer were inconsistent, and a 2026 chronic ankle instability trial found no improvement in dynamic muscle-activation timing. Biofeedback, therefore, appears promising as a targeted adjunct when the feedback variable is matched to a defined impairment. Its additional benefit over well-designed exercise rehabilitation and its effects on return to sport and reinjury remain uncertain.",
-   "doi": "10.7759/cureus.113519",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42662945/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42662975",
-   "title": "Early functional deficits following first-time acute lateral ankle sprain: A multidimensional assessment framework with clinically relevant cut-off values.",
-   "journal": "J Exp Orthop",
-   "year": "2026",
-   "authors": [
-    "Tennler J",
-    "Raeder C",
-    "Praetorius A",
-    "Colcuc S",
-    "et al."
-   ],
-   "abstract": "Lateral ankle sprain (LAS) is one of the most common musculoskeletal injuries associated with sensorimotor impairments that increase the risk of reinjury and chronic ankle instability. Early clinical assessment after acute LAS is often symptom-guided rather than based on objective functional testing. This study aimed to identify the most sensitive functional impairments within the first weeks after injury and to determine cut-off values that support structured clinical assessment. In this cross-sectional matched case-control analysis, 36 individuals (14-41\u2009years) with MRI-confirmed first-time acute LAS were compared to 36 matched healthy controls. Patients (recruiting 01/22-09/24) were assessed 2-3 weeks post-injury using patient-reported outcomes, postural control, strength, range of motion (ROM), gait/running kinematics and jump performance. Between-group differences were analysed using t tests or Statistical Parametric Mapping. Receiver operating characteristic analyses were used to determine diagnostic cut-off values. It was hypothesized that individuals with acute first-time LAS would demonstrate clinically relevant deficits across functional domains compared with healthy controls, and that these parameters would allow the derivation of clinically useful cut-off values. Individuals with LAS demonstrated substantial impairments across several domains. The most discriminative parameters were Foot and Ankle Ability Measure (FAAM) Sport (effect size [ES] -4.09, cut-off <86) and Cumberland Ankle Instability Tool (CAIT) (ES -3.65; cut-off <26) (psychometry), Star Excursion Balance Test (SEBT) composite score (ES -1.22; cut-off <92.81) (postural control), concentric plantarflexion strength (ES -1.34; cut-off <2.24\u2009Nm/kg) (strength), passive plantarflexion and total ROM (ES -2.29; cut-off <44\u00b0 and <72\u00b0), transverse ankle kinematics during gait (ES 1.14; cut-off <-15\u00b0) (gait/running) and drop jump contact time (ES 1.62; cut-off >0.23\u2009s) (jump performance). These measures formed a minimal multidimensional assessment. These parameters and cut-off values enable objective, multidimensional assessment in the early phase after acute LAS and may facilitate impairment-based rehabilitation beyond symptom-guided evaluation. Level III, cross-sectional matched pair-study.",
-   "doi": "10.1002/jeo2.70892",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42662975/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42662246",
-   "title": "Molecular-biomechanical phenotyping of ankle osteoarthritis: from synovial biomarkers to weight-bearing digital signatures.",
-   "journal": "Front Med (Lausanne)",
-   "year": "2026",
-   "authors": [
-    "Han X",
-    "Long Y",
-    "He W"
-   ],
-   "abstract": "Ankle osteoarthritis (OA) is commonly staged by pain, deformity, and radiographic joint-space loss, but this morphology-first view leaves much of its clinical heterogeneity unexplained. An ankle-specific precision framework is biologically and technically plausible because ankle OA is strongly enriched for post-traumatic mechanisms, has cartilage and synovial biology that differs from knee OA, and can be measured with weight-bearing structural and digital functional tools. Comparative cartilage studies show joint-dependent differences in catabolic susceptibility, matrix synthesis, transport, cell-matrix organization, and injury response. Human synovial-fluid and synovial-transcriptomic studies identify local inflammatory, remodeling, and WNT-related signals, while weight-bearing computed tomography (WBCT), automated three-dimensional alignment metrics, distance maps, gait analysis, plantar pressure, center of pressure (COP), and ankle-specific activity monitoring quantify structural and functional load signatures. This Mini Review integrates these data into four provisional, non-mutually-exclusive baseline research phenotypes: inflammatory-dominant, malalignment-dominant, post-traumatic or instability-dominant, and end-stage structural collapse. Post-surgical recovery is treated separately as a longitudinal response trajectory rather than a fifth baseline phenotype. The evidence is comparatively mature for ankle-knee cartilage differences, promising but preliminary for synovial, three-dimensional structural, and laboratory functional signatures, and exploratory for center-of-pressure recovery and wearable trajectories. A validation-ready pathway is proposed around a defined minimum same-patient dataset, serial measurement, a 24-month ankle-specific patient-reported outcome, explicit minimal-important-difference rules, trajectory modeling, calibrated prediction, and external evaluation. The framework is intended to organize prospective cohorts and treatment-response questions; it is not a validated clinical classification or automated treatment selector.",
-   "doi": "10.3389/fmed.2026.1931266",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42662246/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42661293",
-   "title": "Oral Contraceptive Use at the Time of ACL Reconstruction Decreases Risk of Revision Surgery.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Garlapati S",
-    "Agarwal R",
-    "Bishop M"
-   ],
-   "abstract": "Anterior cruciate ligament (ACL) reconstruction is associated with a significant risk of revision surgery. Oral contraceptive pills (OCPs) suppress endogenous estrogen and progesterone levels and have been associated with reducing the risk of primary ACL injuries in women. OCP use at the time of initial ACL reconstruction is associated with a reduced risk of subsequent ipsilateral procedures in female patients and an elevated risk of venous thromboembolism (VTE). Cohort study. Level\u20093. A retrospective cohort study was conducted using the TriNetX database to compare female patients aged 13 to 49\u2009years with and without documented OCP use at the time of initial ACL reconstruction. Cohorts were further stratified by time from reconstruction, age, body mass index, and diabetes status. Risk ratios with 95% CIs were calculated to evaluate the risk of subsequent ipsilateral procedures and VTE. Out of 26,520 patients who underwent ACL reconstruction, 1736 (6.5%) underwent subsequent ipsilateral ACL reconstruction within 5\u2009years. Documented OCP users at the time of initial ACL reconstruction had a 25.0% lower risk of subsequent ipsilateral ACL reconstruction surgery within 5\u2009years compared with nonusers (risk ratio [RR]\u2009=\u20090.750; P\u2009<\u20090.01). The protective effect was strongest in the first year (RR\u2009=\u20090.420; P\u2009<\u20090.01) and remained significant at 2 (RR\u2009=\u20090.471; P\u2009<\u20090.01), 3 (RR\u2009=\u20090.612; P\u2009<\u20090.01), and 4\u2009years (RR\u2009=\u20090.600; P\u2009=\u20090.01). For loss-of-motion procedures, OCP use was associated with a 73% decreased risk within 1\u2009year (RR\u2009=\u20090.269; P\u2009<\u20090.01). OCP use did not increase VTE risk significantly within 5\u2009years (RR\u2009=\u20091.30; P\u2009=\u20090.10). OCP use at the time of initial ACL reconstruction in female patients was associated with a reduced risk of subsequent ipsilateral procedures, without increasing VTE risk. These findings highlight the potential of OCPs to reduce the physical and economic burden of revision in high-risk populations.",
-   "doi": "10.1177/19417381261477256",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42661293/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42663402",
-   "title": "Sprint Mechanics Differ Between Pre-injury and Return-to-Sport After Hamstring Strain Injury: A Comparative Statistical Analysis with Machine Learning.",
-   "journal": "Med Sci Sports Exerc",
-   "year": "2026",
-   "authors": [
-    "Guo S",
-    "Liao K",
-    "Shafiabady N",
-    "Inan MSK",
-    "et al."
-   ],
-   "abstract": "To compare horizontal and vertical accelerations of lower limbs and pelvis during sprinting in collegiate football players between pre-injury (baseline) and return-to-sport (RTS) following hamstring strain injury (HSI). This secondary analysis used inertial measurement unit (IMU) data from 14 NCAA Division I athletes enrolled in the Hamstring Injury (HAMIR) study, collected during on-field sprinting under both conditions. Statistical parametric mapping (SPM) was applied to detect between-condition acceleration differences, and supervised ML models with data augmentation were used to classify conditions. Model-intrinsic interpretability was used to quantify feature contributions to predictions. Exploratory SPM analyses indicated that the healthy limb showed the most pronounced differences in horizontal thigh and shank acceleration during initial swing at RTS, while vertical differences were less marked. In the injured limb, horizontal shank acceleration was significantly reduced for 55% of initial swing, and the pelvis exhibited the greatest vertical difference (20%) across the stride. Among the eight ML models, the XGBoost (mean AUC: 0.75) and Random Forest (mean AUC: 0.79) demonstrated better performance following data augmentation. Global interpretability analysis of ML models identified thigh and pelvis segment features as the most influential variables for distinguishing baseline from RTS. Collegiate football players showed reduced horizontal acceleration upon RTS following HSI, most evident during initial swing. Augmented ML models accurately distinguished conditions, with thigh and pelvis features most influential. These findings highlight the potential of IMU-based interpretable ML to support RTS decisions.",
-   "doi": "10.1249/MSS.0000000000004121",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42663402/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42660526",
-   "title": "Strength and Conditioning Practices in Tennis: A Narrative Review of Contemporary Evidence.",
-   "journal": "Int J Sports Physiol Perform",
-   "year": "2026",
-   "authors": [
-    "Fernandez-Fernandez J",
-    "Colomar J",
-    "Baiget E"
-   ],
-   "abstract": "To provide a pragmatic synthesis of contemporary strength and conditioning evidence in tennis, integrating match demands, neuromuscular performance and injury-risk management, and practical testing/monitoring to support applied decision making from academy to professional settings. This narrative synthesis includes peer-reviewed primary studies and systematic reviews addressing tennis match demands, neuromuscular training and injury prevention, and monitoring/testing, with priority given to contemporary evidence available up to February 2026. Tennis exhibits an intermittent high-intensity profile in which mechanical load is dominated by frequent accelerations, decelerations, and multidirectional changes of direction, while mean internal load is moderate but highly variable with repeated peaks during rallies. Evidence supports the relevance of lower- and upper-limb strength-power, stretch-shortening cycle function, and trunk control for performance and robustness, with practical implications for on-court intermittent conditioning, strength-power/robustness strategies, and low-burden monitoring. We propose a 3-domain applied framework: (1)\u00a0on-court conditioning guided by rally structure and movement demands; (2)\u00a0year-round strength-power and robustness training targeting the lower limb, trunk, and shoulder, with dose adjusted to tournament density and athlete history; and (3)\u00a0concise monitoring combining a compact performance battery with low-burden internal/external load indices to support readiness and availability.",
-   "doi": "10.1123/ijspp.2026-0148",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42660526/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42661273",
-   "title": "The Effect of Stud Flexibility on Lower Limb Biomechanical Demands in Football-Specific Movements.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Azzolini G",
-    "Fantozzi S",
-    "Ferretti A",
-    "Preatoni E"
-   ],
-   "abstract": "Stud design is critical in modulating impact forces between football boot and turf, yet most systems prioritize traction using rigid materials, largely neglecting the role of material flexibility in load attenuation. This study assessed the biomechanical effects of 2 novel flexible stud designs compared with a traditional rigid stud during football-specific cutting and landing tasks. Replacing traditional rigid studs with more flexible alternatives would reduce the magnitude and increase the time-to-peak of key lower limb loading variables. Crossover study design. Level 3. Fourteen recreational male players performed a planned 90\u00b0 cut, a 180\u00b0 cut, and a single-leg drop-land-and-cut on dry 3G turf wearing the same boot with 3 different stud sets: rigid (STD), flexible (OPT), and more flexible (FLX). Data analysis included scalar comparisons (approach speed, stance time, loading rates) and full-waveform analysis: amplitude-phase registration on ground reaction forces (GRFs) only, along with statistical parametric mapping of GRFs, knee kinematics, and moments. Subjective perception was assessed using a visual analog scale. Participants rated flexible studs higher for stability, comfort, and overall appreciation. Approach speed and stance time were invariant across conditions. In 180\u00b0 cuts, loading rates were higher with STD than FLX in both vertical (+33.42%) and mediolateral directions (+36.91%). Amplitude-phase analysis showed significant temporal shift during early stance, with STD exhibiting a phase lead compared with FLX. In 90\u00b0 cuts, the pattern was similar: higher mediolateral loading rate with STD versus FLX (+25.06%) and STD inducing earlier GRF onsets. Knee dynamics did not show evidence of change. Increasing stud flexibility affected the timing of early load uptake - delaying and flattening the initial GRF rise - while improving perceived stability/comfort and preserving perceived grip. This exploratory study identifies stud flexibility as an actionable design lever to mitigate highly impulsive loading, providing a mechanism for attenuating lower-limb load exposures in early stance - a period highly relevant to noncontact anterior cruciate ligament injury risk, showing better subjective perception of comfort and stability and without degrading overall player performance.",
-   "doi": "10.1177/19417381261471422",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42661273/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42524706",
-   "title": "[Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study].",
-   "journal": "Rev Bras Ortop (Sao Paulo)",
-   "year": "2026",
-   "authors": [
-    "Godoy MM",
-    "Ch\u00e1vare J",
-    "Chaves PLL",
-    "Almeida JPF",
-    "et al."
-   ],
-   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
-   "doi": "10.1055/s-0046-1822978",
-   "pubtypes": [
-    "English Abstract",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42524706/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42564466",
    "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
@@ -547,6 +260,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42662164",
+   "title": "Applications of conductive hydrogels in sports performance monitoring.",
+   "journal": "Nanoscale Adv",
+   "year": "2026",
+   "authors": [
+    "Liu J",
+    "Zhang X",
+    "Liu S"
+   ],
+   "abstract": "Conductive hydrogels, as functional materials with softness, electrical conductivity, and biocompatibility, have attracted increasing attention in the field of sports performance monitoring in recent years. Compared with traditional rigid sensors, conductive hydrogels can better conform to the skin and soft tissues, enabling stable and continuous signal acquisition during high-intensity exercise and in complex environments. This review comprehensively summarizes recent advances in the application of conductive hydrogels for sports monitoring, with a particular focus on material design strategies, conductive mechanisms, and key performance characteristics. Furthermore, typical application scenarios are discussed, including joint posture tracking, impact force measurement, electromyographic signal acquisition, sweat analysis, and feedback during rehabilitation training. The major challenges currently facing this field are also analyzed, such as insufficient durability, performance degradation in high-humidity environments, technical bottlenecks in multimodal synchronous signal acquisition, complex fabrication processes, and the lack of standardized evaluation systems. Finally, potential future development directions are proposed, including intelligence, multimodal integration, industrial translation, and green sustainable development. Conductive hydrogels are expected to become core materials for next-generation wearable sports monitoring devices, providing strong support for scientific training, injury prevention, and personalized rehabilitation.",
+   "doi": "10.1039/d6na00545d",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42662164/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42649796",
    "title": "Applications of Wearable Sweat Biosensors in Sports Activities with Real-World Cases.",
    "journal": "Bioengineering (Basel)",
@@ -569,34 +309,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42520921",
-   "title": "Arthroscopic lateral ankle ligament reconstruction (ALALR) with hamstring autograft does not affect jumping ability at 6 months post-surgery.",
-   "journal": "J Foot Ankle Surg",
-   "year": "2026",
-   "authors": [
-    "Jean-Charles G",
-    "Florian V",
-    "Guillaume V",
-    "Natacha B",
-    "et al."
-   ],
-   "abstract": "Arthroscopic lateral ankle ligament reconstruction with hamstring graft (ALALR) generally yields good clinical outcomes and enables an early return to sports. However, no studies have specifically evaluated persistent functional deficits, particularly regarding jumping ability, following ALALR with hamstring autograft. To evaluate post-operative ankle stability via jumping ability in patients six months after ALALR with hamstring autograft compared to healthy patients. Retrospective comparative study; METHODS: Forty-nine patients who underwent ALALR with hamstring graft and forty-nine healthy controls performed bipodal drop jump (DJ), single hop (SNH), side hop (SDH), and single-leg vertical jump (SVJ) tests. Measurements included jump height (m), jump distance (m), lateral jump time (s), and reactive strength index for bipodal drop jump (DJ-RSI). These metrics were compared between groups. Additionally, single hop, side hop, and SVJ results were compared between healthy participants and both the injured and contralateral legs of ALALR patients. At an average of 5.8 \u00b1 0.9 months postoperatively, ALALR patients showed no significant differences in DJ-RSI, Single hop, Side Hop tests or SVJ compared to the control group (p > 0.05). Vertical, lateral, and anteroposterior jumping performances were similar for both the injured and contralateral legs (p > 0.05). No statistically significant difference in jumping ability was detected between patients six months after ALALR with hamstring autograft and healthy controls. As a non-significant result does not establish equivalence, these findings should be interpreted as descriptive and suggest that jumping ability is not markedly impaired, which may support return to sport after the ALALR procedure.",
-   "doi": "10.1053/j.jfas.2026.07.022",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42520921/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -691,25 +403,59 @@
    "bucket": "research"
   },
   {
-   "pmid": "42525433",
-   "title": "Beyond skin contact: joint-crossing as the active component of asymmetric dynamic taping for badminton performance, a randomized sham-controlled crossover trial.",
-   "journal": "Res Sports Med",
+   "pmid": "42662514",
+   "title": "Autologous chondrocyte implantation in osteochondral defects of the capitulum: clinical and radiological outcome in a case series.",
+   "journal": "JSES Int",
    "year": "2026",
    "authors": [
-    "Chen YR",
-    "Chang NJ"
+    "Schmidt AF",
+    "Wei\u00df I",
+    "Akgun D",
+    "Reisener M",
+    "et al."
    ],
-   "abstract": "Dynamic taping (DT) employs extensible elastic tape as an external spring to share biomechanical load through elastic recoil, yet its sport-specific effects in healthy competitive athletes remain unestablished. This randomized, sham-controlled trial examined whether asymmetric DT to the dominant-leg knee and non-dominant-leg ankle would acutely improve dynamic balance, countermovement jump (CMJ) height, and badminton-specific agility in 30 competitive adolescents. A sham taping (ST) preserved cutaneous input while removing mechanical load-sharing. Significant condition\u2009\u00d7\u2009time interactions were observed for Y Balance Test (YBT)-dominant (F\u2009=\u20096.202, p\u2009=\u2009.019), YBT-non-dominant (p\u2009=\u2009.004), CMJ height (F\u2009=\u20099.829, p\u2009=\u2009.004), and six-point footwork time (F\u2009=\u200929.905, p\u2009<\u2009.001). DT increased YBT scores by 3.45-3.77%, CMJ height by 3.36%, and reduced footwork time by 5.34% (d\u2009=\u20090.19-0.59); ST produced only trivial changes (d\u2009<\u20090.12). Joint-crossing rather than cutaneous stimulation alone may be the active component contributing to the performance benefits of DT, supporting asymmetric joint-crossing DT as a practical pre-competition adjunct for racket sport athletes.",
-   "doi": "10.1080/15438627.2026.2700732",
+   "abstract": "Osteochondritis dissecans (OCD) of the capitellum is a cartilage and subchondral bone disorder predominantly affecting young, physically active individuals. While established surgical techniques such as microfracturing and osteochondral autograft transfer offer acceptable outcomes, limitations in cartilage quality or procedural invasiveness remain. Autologous chondrocyte implantation (ACI) has been proposed as a less invasive, biologically restorative alternative, though clinical data on its use in the elbow are not available. Therefore, the aim of this pilot study was to evaluate the feasibility of ACI for the treatment of elbow OCD in a case series. In this prospective observational study, 6 male patients (20.5 \u00b1 5.2 years) with centralized International Cartilage Research Society grade IV OCD lesions of the capitellum were included and treated with ACI. Clinical evaluations were performed at 6 months (T1), 12 months (T2), and 34.8 \u00b1 7.9 months (T3) post-operatively, including assessment of range of motion, subjective elbow value, visual analog scale for pain, Mayo Elbow Performance Score, Kerlan-Jobe Orthopaedic Clinic score, and return to sport. Magnetic resonance imaging was conducted at T2 and T3, and cartilage repair tissue was analyzed using the magnetic resonance observation of cartilage repair tissue 2.0 Ankle Score. Improvements were observed across all clinical outcome measures. Subjective elbow value increased from 59 \u00b1 18.5% pre-operatively to 91.2 \u00b1 4.2% at final follow-up, while visual analog scale under load decreased from 6.5 \u00b1 1.6 to 0.8 \u00b1 0.7. Mayo Elbow Performance Score and Kerlan-Jobe Orthopaedic Clinic improved from 70.6 \u00b1 17.7 to 97.5 \u00b1 6 and from 38.3 \u00b1 10 to 88.5 \u00b1 8.4, respectively. Magnetic resonance imaging demonstrated defect filling and integration in all individuals, as assessed by the magnetic resonance observation of cartilage repair tissue score, which showed no deterioration between T2 and T3. The mean return to sport time was 6.8 \u00b1 3 months. No complications or need for revision surgery were recorded. This pilot feasibility study provides preliminary insights into the treatment of centralized capitellar OCD lesion with ACI in a case series of young, active patients, with clinical and radiological findings at a mean 3-year follow-up (range, 25-42 months). These exploratory findings suggest that ACI may warrant further investigation for focal, symptomatic elbow defects with minimal or limited involvement of the subchondral bone. Larger controlled studies are needed to define the role of ACI relative to established treatment options.",
+   "doi": "10.1016/j.jseint.2026.101770",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42525433/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42662514/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42662945",
+   "title": "Biofeedback-Assisted Rehabilitation for Neuromotor Recovery After Lower-Extremity Musculoskeletal Injury: A Narrative Review.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Bhide R",
+    "Singh H"
+   ],
+   "abstract": "Biofeedback delivers real-time physiological or biomechanical information during rehabilitation, but the postinjury evidence is heterogeneous and does not support a simple claim of superiority over exercise. This narrative review explored how biofeedback has been used to address neuromotor recovery after lower-extremity musculoskeletal injury and summarized direct exercise-only comparisons where available. PubMed/MEDLINE, Scopus, and PEDro were searched from inception through May 31, 2026, using database-specific combinations of terms for biofeedback, rehabilitation, anterior cruciate ligament injury or reconstruction, meniscectomy, chronic ankle instability, ankle sprain, and sports injury. Therapeutic primary studies were eligible when they enrolled injured or postoperative participants, used electromyographic, visual, or kinetic, force or pressure, auditory, tactile, or vibration feedback, and reported muscle activation, knee extension, proprioception, balance, gait, or loading, symmetry, movement quality, or functional outcomes. Healthy performance or prevention cohorts, exercise-only studies, assessment-only reports, protocols, conceptual papers, and secondary reviews were excluded from the core clinical synthesis; relevant secondary and healthy-cohort evidence was discussed separately. Sixteen primary clinical reports, comprising nine randomized trials and seven nonrandomized, acute, or uncontrolled studies, were included. Randomized trials were appraised against Physiotherapy Evidence Database domains and nonrandomized studies against the revised Joanna Briggs Institute quasi-experimental tool. Overall confidence was limited by small samples, incomplete allocation or blinding reporting, heterogeneous devices and dosing, task-specific outcomes, and short follow-up. Preliminary evidence suggests that electromyographic biofeedback may support early quadriceps activation or knee-extension recovery after anterior cruciate ligament reconstruction or meniscectomy, but pain and patient-reported function were not consistently superior to standard rehabilitation. Visual, kinetic, force-based, auditory, and vibration feedback produced task-specific changes in balance, strength, joint-position sense, gait, loading, or symmetry; retention and transfer were inconsistent, and a 2026 chronic ankle instability trial found no improvement in dynamic muscle-activation timing. Biofeedback, therefore, appears promising as a targeted adjunct when the feedback variable is matched to a defined impairment. Its additional benefit over well-designed exercise rehabilitation and its effects on return to sport and reinjury remain uncertain.",
+   "doi": "10.7759/cureus.113519",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42662945/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
@@ -1089,6 +835,39 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42662975",
+   "title": "Early functional deficits following first-time acute lateral ankle sprain: A multidimensional assessment framework with clinically relevant cut-off values.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Tennler J",
+    "Raeder C",
+    "Praetorius A",
+    "Colcuc S",
+    "et al."
+   ],
+   "abstract": "Lateral ankle sprain (LAS) is one of the most common musculoskeletal injuries associated with sensorimotor impairments that increase the risk of reinjury and chronic ankle instability. Early clinical assessment after acute LAS is often symptom-guided rather than based on objective functional testing. This study aimed to identify the most sensitive functional impairments within the first weeks after injury and to determine cut-off values that support structured clinical assessment. In this cross-sectional matched case-control analysis, 36 individuals (14-41\u2009years) with MRI-confirmed first-time acute LAS were compared to 36 matched healthy controls. Patients (recruiting 01/22-09/24) were assessed 2-3 weeks post-injury using patient-reported outcomes, postural control, strength, range of motion (ROM), gait/running kinematics and jump performance. Between-group differences were analysed using t tests or Statistical Parametric Mapping. Receiver operating characteristic analyses were used to determine diagnostic cut-off values. It was hypothesized that individuals with acute first-time LAS would demonstrate clinically relevant deficits across functional domains compared with healthy controls, and that these parameters would allow the derivation of clinically useful cut-off values. Individuals with LAS demonstrated substantial impairments across several domains. The most discriminative parameters were Foot and Ankle Ability Measure (FAAM) Sport (effect size [ES] -4.09, cut-off <86) and Cumberland Ankle Instability Tool (CAIT) (ES -3.65; cut-off <26) (psychometry), Star Excursion Balance Test (SEBT) composite score (ES -1.22; cut-off <92.81) (postural control), concentric plantarflexion strength (ES -1.34; cut-off <2.24\u2009Nm/kg) (strength), passive plantarflexion and total ROM (ES -2.29; cut-off <44\u00b0 and <72\u00b0), transverse ankle kinematics during gait (ES 1.14; cut-off <-15\u00b0) (gait/running) and drop jump contact time (ES 1.62; cut-off >0.23\u2009s) (jump performance). These measures formed a minimal multidimensional assessment. These parameters and cut-off values enable objective, multidimensional assessment in the early phase after acute LAS and may facilitate impairment-based rehabilitation beyond symptom-guided evaluation. Level III, cross-sectional matched pair-study.",
+   "doi": "10.1002/jeo2.70892",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42662975/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42620481",
@@ -1509,34 +1288,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42524670",
-   "title": "Incidence of Musculoskeletal Injuries in Natural and Artificial Turfs during the 2024 First Division of Brazilian Football Championship: A Retrospective Study.",
-   "journal": "Rev Bras Ortop (Sao Paulo)",
-   "year": "2026",
-   "authors": [
-    "Godoy MM",
-    "Ch\u00e1vare J",
-    "Chaves PLL",
-    "Almeida JPF",
-    "et al."
-   ],
-   "abstract": "To describe and compare matches played on artificial and natural turfs during the 2024 Campeonato Brasileiro S\u00e9rie A (the championship of the highest level of the professional association football league in Brazil), focusing specifically on the observed incidence and distribution of musculoskeletal injuries. In the current retrospective observational study, we analyzed all 380 matches of the 2024 season. Data regarding turf type, match characteristics, and injuries were obtained exclusively from publicly available secondary sources, including the official website of Confedera\u00e7\u00e3o Brasileira de Futebol (CBF; https://www.cbf.com.br ) and major national media outlets. Cases with conflicting information were excluded. Exposure during the match was estimated assuming 22 players and 90\u2009minutes, with incidence expressed as injuries per 1 thousand player-hours. Sub-analyses excluded previous reinjuries and direct trauma cases. A total of 88 injuries was recorded, showing 6.6 injuries per 1 thousand player-hours on natural turf versus 9.5 injuries per 1 thousand player-hours on artificial turf. Hamstring strains and ankle sprains were the most frequently observed types. Regarding the turfs, thermoplastic elastomer (TPE) turf presented the highest rates among the artificial ones, while perennial ryegrass presented the highest rates among the natural ones. Injury numbers varied by context, with considerable rates observed regarding artificial turf during afternoon or night matches and at lower temperatures. Surgical treatments were frequently observed in association with natural turf, whereas recovery times differed minimally. Notably, one team whose stadium used artificial turf home team and one team whose stadium used natural turf recorded identical injury totals. Differences in injury occurrence between turf types were minimal. Given the retrospective design, secondary data reliance, underreporting potential, and limited control of confounders, the findings represent observational associations. Future prospective studies using standardized surveillance are warranted.",
-   "doi": "10.1055/s-0046-1822977",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42524670/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42611401",
    "title": "Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.",
    "journal": "Sports Med Open",
@@ -1731,6 +1482,64 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42662246",
+   "title": "Molecular-biomechanical phenotyping of ankle osteoarthritis: from synovial biomarkers to weight-bearing digital signatures.",
+   "journal": "Front Med (Lausanne)",
+   "year": "2026",
+   "authors": [
+    "Han X",
+    "Long Y",
+    "He W"
+   ],
+   "abstract": "Ankle osteoarthritis (OA) is commonly staged by pain, deformity, and radiographic joint-space loss, but this morphology-first view leaves much of its clinical heterogeneity unexplained. An ankle-specific precision framework is biologically and technically plausible because ankle OA is strongly enriched for post-traumatic mechanisms, has cartilage and synovial biology that differs from knee OA, and can be measured with weight-bearing structural and digital functional tools. Comparative cartilage studies show joint-dependent differences in catabolic susceptibility, matrix synthesis, transport, cell-matrix organization, and injury response. Human synovial-fluid and synovial-transcriptomic studies identify local inflammatory, remodeling, and WNT-related signals, while weight-bearing computed tomography (WBCT), automated three-dimensional alignment metrics, distance maps, gait analysis, plantar pressure, center of pressure (COP), and ankle-specific activity monitoring quantify structural and functional load signatures. This Mini Review integrates these data into four provisional, non-mutually-exclusive baseline research phenotypes: inflammatory-dominant, malalignment-dominant, post-traumatic or instability-dominant, and end-stage structural collapse. Post-surgical recovery is treated separately as a longitudinal response trajectory rather than a fifth baseline phenotype. The evidence is comparatively mature for ankle-knee cartilage differences, promising but preliminary for synovial, three-dimensional structural, and laboratory functional signatures, and exploratory for center-of-pressure recovery and wearable trajectories. A validation-ready pathway is proposed around a defined minimum same-patient dataset, serial measurement, a 24-month ankle-specific patient-reported outcome, explicit minimal-important-difference rules, trajectory modeling, calibrated prediction, and external evaluation. The framework is intended to organize prospective cohorts and treatment-response questions; it is not a validated clinical classification or automated treatment selector.",
+   "doi": "10.3389/fmed.2026.1931266",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42662246/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42661293",
+   "title": "Oral Contraceptive Use at the Time of ACL Reconstruction Decreases Risk of Revision Surgery.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "Garlapati S",
+    "Agarwal R",
+    "Bishop M"
+   ],
+   "abstract": "Anterior cruciate ligament (ACL) reconstruction is associated with a significant risk of revision surgery. Oral contraceptive pills (OCPs) suppress endogenous estrogen and progesterone levels and have been associated with reducing the risk of primary ACL injuries in women. OCP use at the time of initial ACL reconstruction is associated with a reduced risk of subsequent ipsilateral procedures in female patients and an elevated risk of venous thromboembolism (VTE). Cohort study. Level\u20093. A retrospective cohort study was conducted using the TriNetX database to compare female patients aged 13 to 49\u2009years with and without documented OCP use at the time of initial ACL reconstruction. Cohorts were further stratified by time from reconstruction, age, body mass index, and diabetes status. Risk ratios with 95% CIs were calculated to evaluate the risk of subsequent ipsilateral procedures and VTE. Out of 26,520 patients who underwent ACL reconstruction, 1736 (6.5%) underwent subsequent ipsilateral ACL reconstruction within 5\u2009years. Documented OCP users at the time of initial ACL reconstruction had a 25.0% lower risk of subsequent ipsilateral ACL reconstruction surgery within 5\u2009years compared with nonusers (risk ratio [RR]\u2009=\u20090.750; P\u2009<\u20090.01). The protective effect was strongest in the first year (RR\u2009=\u20090.420; P\u2009<\u20090.01) and remained significant at 2 (RR\u2009=\u20090.471; P\u2009<\u20090.01), 3 (RR\u2009=\u20090.612; P\u2009<\u20090.01), and 4\u2009years (RR\u2009=\u20090.600; P\u2009=\u20090.01). For loss-of-motion procedures, OCP use was associated with a 73% decreased risk within 1\u2009year (RR\u2009=\u20090.269; P\u2009<\u20090.01). OCP use did not increase VTE risk significantly within 5\u2009years (RR\u2009=\u20091.30; P\u2009=\u20090.10). OCP use at the time of initial ACL reconstruction in female patients was associated with a reduced risk of subsequent ipsilateral procedures, without increasing VTE risk. These findings highlight the potential of OCPs to reduce the physical and economic burden of revision in high-risk populations.",
+   "doi": "10.1177/19417381261477256",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42661293/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -2088,6 +1897,60 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42663402",
+   "title": "Sprint Mechanics Differ Between Pre-injury and Return-to-Sport After Hamstring Strain Injury: A Comparative Statistical Analysis with Machine Learning.",
+   "journal": "Med Sci Sports Exerc",
+   "year": "2026",
+   "authors": [
+    "Guo S",
+    "Liao K",
+    "Shafiabady N",
+    "Inan MSK",
+    "et al."
+   ],
+   "abstract": "To compare horizontal and vertical accelerations of lower limbs and pelvis during sprinting in collegiate football players between pre-injury (baseline) and return-to-sport (RTS) following hamstring strain injury (HSI). This secondary analysis used inertial measurement unit (IMU) data from 14 NCAA Division I athletes enrolled in the Hamstring Injury (HAMIR) study, collected during on-field sprinting under both conditions. Statistical parametric mapping (SPM) was applied to detect between-condition acceleration differences, and supervised ML models with data augmentation were used to classify conditions. Model-intrinsic interpretability was used to quantify feature contributions to predictions. Exploratory SPM analyses indicated that the healthy limb showed the most pronounced differences in horizontal thigh and shank acceleration during initial swing at RTS, while vertical differences were less marked. In the injured limb, horizontal shank acceleration was significantly reduced for 55% of initial swing, and the pelvis exhibited the greatest vertical difference (20%) across the stride. Among the eight ML models, the XGBoost (mean AUC: 0.75) and Random Forest (mean AUC: 0.79) demonstrated better performance following data augmentation. Global interpretability analysis of ML models identified thigh and pelvis segment features as the most influential variables for distinguishing baseline from RTS. Collegiate football players showed reduced horizontal acceleration upon RTS following HSI, most evident during initial swing. Augmented ML models accurately distinguished conditions, with thigh and pelvis features most influential. These findings highlight the potential of IMU-based interpretable ML to support RTS decisions.",
+   "doi": "10.1249/MSS.0000000000004121",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42663402/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42660526",
+   "title": "Strength and Conditioning Practices in Tennis: A Narrative Review of Contemporary Evidence.",
+   "journal": "Int J Sports Physiol Perform",
+   "year": "2026",
+   "authors": [
+    "Fernandez-Fernandez J",
+    "Colomar J",
+    "Baiget E"
+   ],
+   "abstract": "To provide a pragmatic synthesis of contemporary strength and conditioning evidence in tennis, integrating match demands, neuromuscular performance and injury-risk management, and practical testing/monitoring to support applied decision making from academy to professional settings. This narrative synthesis includes peer-reviewed primary studies and systematic reviews addressing tennis match demands, neuromuscular training and injury prevention, and monitoring/testing, with priority given to contemporary evidence available up to February 2026. Tennis exhibits an intermittent high-intensity profile in which mechanical load is dominated by frequent accelerations, decelerations, and multidirectional changes of direction, while mean internal load is moderate but highly variable with repeated peaks during rallies. Evidence supports the relevance of lower- and upper-limb strength-power, stretch-shortening cycle function, and trunk control for performance and robustness, with practical implications for on-court intermittent conditioning, strength-power/robustness strategies, and low-burden monitoring. We propose a 3-domain applied framework: (1)\u00a0on-court conditioning guided by rally structure and movement demands; (2)\u00a0year-round strength-power and robustness training targeting the lower limb, trunk, and shoulder, with dose adjusted to tournament density and athlete history; and (3)\u00a0concise monitoring combining a compact performance battery with low-burden internal/external load indices to support readiness and availability.",
+   "doi": "10.1123/ijspp.2026-0148",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42660526/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42630356",
    "title": "Surface mechanical properties as a potential upstream contributor to exercise-associated muscle cramp susceptibility: a hypothesis linking athlete-surface interaction, neuromuscular fatigue, and altered neuromuscular control.",
    "journal": "Front Sports Act Living",
@@ -2142,26 +2005,26 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42520742",
-   "title": "The effect of proximal cuff design on limb loading and mechanics during gait with carbon fiber custom dynamic orthoses, in unimpaired individuals.",
-   "journal": "Gait Posture",
+   "pmid": "42661273",
+   "title": "The Effect of Stud Flexibility on Lower Limb Biomechanical Demands in Football-Specific Movements.",
+   "journal": "Sports Health",
    "year": "2026",
    "authors": [
-    "Anderson KM",
-    "Gari WJ",
-    "Pacha MS",
-    "Wilken JM"
+    "Azzolini G",
+    "Fantozzi S",
+    "Ferretti A",
+    "Preatoni E"
    ],
-   "abstract": "Limb trauma often results in long-term disability. Carbon fiber custom dynamic orthoses (CDOs) include a proximal cuff, posterior strut, and footplate, and improve outcomes following limb trauma, but the effects of cuff design are not well understood. Does CDO cuff design influence limb mechanics, foot loading, or CDO comfort? Fifteen unimpaired individuals completed testing without an orthosis (NoCDO) and in a CDO with four interchangeable cuffs: anterior shell with straps, patellar tendon bearing shell with ratcheting system, patellar tendon bearing shell with pivot point and straps, flexible shell with strap. Joint kinematic, kinetic, and plantar force data were collected as participants walked at a controlled speed. There were no significant differences in ankle mechanics or foot loading between cuffs. CDO use had the greatest effect on the ankle, effectively stiffening the joint and significantly decreasing motion, increasing dorsiflexion moment, and decreasing power absorption and generation for all cuffs compared to NoCDO. CDO use redistributed forces from the forefoot to the hindfoot, resulting in significantly lower peak forefoot force and forefoot impulse and higher hindfoot impulse with all cuffs compared to NoCDO. Study results indicate that multiple cuffs, representative of clinical practice and previous research, had a similar effect on gait mechanics, foot loading, and comfort. The limited differences suggest that clinicians could select the cuff best suited to patient needs outside of limb motion and loading such as ease of donning and doffing, available range of motion, or preference.",
-   "doi": "10.1016/j.gaitpost.2026.110288",
+   "abstract": "Stud design is critical in modulating impact forces between football boot and turf, yet most systems prioritize traction using rigid materials, largely neglecting the role of material flexibility in load attenuation. This study assessed the biomechanical effects of 2 novel flexible stud designs compared with a traditional rigid stud during football-specific cutting and landing tasks. Replacing traditional rigid studs with more flexible alternatives would reduce the magnitude and increase the time-to-peak of key lower limb loading variables. Crossover study design. Level 3. Fourteen recreational male players performed a planned 90\u00b0 cut, a 180\u00b0 cut, and a single-leg drop-land-and-cut on dry 3G turf wearing the same boot with 3 different stud sets: rigid (STD), flexible (OPT), and more flexible (FLX). Data analysis included scalar comparisons (approach speed, stance time, loading rates) and full-waveform analysis: amplitude-phase registration on ground reaction forces (GRFs) only, along with statistical parametric mapping of GRFs, knee kinematics, and moments. Subjective perception was assessed using a visual analog scale. Participants rated flexible studs higher for stability, comfort, and overall appreciation. Approach speed and stance time were invariant across conditions. In 180\u00b0 cuts, loading rates were higher with STD than FLX in both vertical (+33.42%) and mediolateral directions (+36.91%). Amplitude-phase analysis showed significant temporal shift during early stance, with STD exhibiting a phase lead compared with FLX. In 90\u00b0 cuts, the pattern was similar: higher mediolateral loading rate with STD versus FLX (+25.06%) and STD inducing earlier GRF onsets. Knee dynamics did not show evidence of change. Increasing stud flexibility affected the timing of early load uptake - delaying and flattening the initial GRF rise - while improving perceived stability/comfort and preserving perceived grip. This exploratory study identifies stud flexibility as an actionable design lever to mitigate highly impulsive loading, providing a mechanism for attenuating lower-limb load exposures in early stance - a period highly relevant to noncontact anterior cruciate ligament injury risk, showing better subjective perception of comfort and stability and without degrading overall player performance.",
+   "doi": "10.1177/19417381261471422",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42520742/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42661273/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
      "bucket": "research"
     }
    ],
