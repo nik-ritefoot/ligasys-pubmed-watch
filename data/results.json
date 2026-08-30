@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T17:21:51+00:00",
+ "generated": "2026-08-30T17:45:06+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,10 +65,10 @@
   }
  ],
  "counts": {
-  "total": 75,
+  "total": 73,
   "new": 0,
   "research": 22,
-  "fieldnotes": 53
+  "fieldnotes": 51
  },
  "records": [
   {
@@ -1148,34 +1148,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42529416",
-   "title": "Gait-Semantic Relational Knowledge Distillation for Ground Reaction Force Estimation.",
-   "journal": "Adv Eng Inform",
-   "year": "2026",
-   "authors": [
-    "Lim H",
-    "Lee J",
-    "Kettner N",
-    "Save OM",
-    "et al."
-   ],
-   "abstract": "Wearable sensor-based gait analysis has attracted increasing attention for diverse applications in industrial fields, such as healthcare, rehabilitation, sports science, and continuous monitoring for worker injury prevention. Among gait-related signals, ground reaction force (GRF) is a key indicator for understanding human locomotion and is conventionally measured using force plates or instrumented treadmills. However, such systems are costly and limited to controlled laboratory environments, which restrict their use in daily-life settings. Wearable insole sensors provide a more portable alternative for GRF acquisition, but their measurements are often noisy and less reliable, making accurate estimation challenging. Although deep learning models have shown promise in improving GRF estimation from wearable sensor data, high-performing models are often computationally expensive and difficult to deploy on resource-constrained devices. Moreover, since gait signals exhibit phase-specific temporal structures, effective estimation requires the model to develop a semantically meaningful understanding of the gait sequence rather than merely matching signal values. In this regard, human-interpretable semantic information can provide useful guidance for modeling such structured temporal dynamics. To address these issues, we propose a Gait-Semantic Relational Knowledge Distillation (SRKD) framework for GRF estimation using wearable insole sensor data. The proposed method introduces gait-phase-aware semantic guidance into the teacher-student distillation process by decomposing intermediate representations into phase-specific components and aligning them with corresponding textual semantic representations. This phase-aware distillation framework uses textual semantics as anchors to bridge the teacher-student representational gap, enabling the student to effectively learn the structured temporal relational knowledge underlying gait dynamics. We evaluate SRKD under several experimental configurations, including different teacher-student architectures, temporal window lengths, text encoders, and human-refined semantic descriptions. The experimental results show that SRKD generally improved the estimation performance of the evaluated lightweight student models compared with the considered baseline methods. Qualitative analyses also indicate that the predicted GRF signals more closely captured both the overall waveform and phase-dependent temporal variations in the evaluated settings. Furthermore, the results obtained using human-refined descriptions suggest that human-guided semantics can enhance the effectiveness of knowledge distillation by providing more task-relevant semantic guidance. Further validation across broader populations, sensor configurations, and real-world environments is required to assess the generalizability and practical applicability of the proposed framework.",
-   "doi": "10.1016/j.aei.2026.105063",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42529416/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42559571",
    "title": "Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation.",
    "journal": "Measurement (Lond)",
@@ -1974,35 +1946,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42531369",
-   "title": "Surgical Treatment of Multifocal Nonbilateral Juvenile Osteochondritis Dissecans in the Ankle and Shoulder: A Case Report.",
-   "journal": "JBJS Case Connect",
-   "year": "2026",
-   "authors": [
-    "Wharton BR",
-    "McCarty EC",
-    "Metzl JA",
-    "Albright JC",
-    "et al."
-   ],
-   "abstract": "We report a unique case of a 14-year-old girl with juvenile osteochondritis dissecans (JOCD) lesions of the talus and humeral head. She presented with painful motion of the ankle and shoulder that failed conservative treatment and was treated with surgical intervention. Four-year follow-up was achieved. A paucity of literature exists regarding the incidence and treatment of JOCD lesions occurring in multiple joint areas of a single patient. Our case highlights a unique presentation of contralateral, multijoint JOCD lesions and describes the treatment modalities subsequently used to address symptoms and assist in return to sport.",
-   "doi": "10.2106/JBJS.CC.25.00483",
-   "pubtypes": [
-    "Journal Article",
-    "Case Reports"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42531369/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42661273",
