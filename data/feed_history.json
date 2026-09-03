@@ -1,5 +1,77 @@
 [
  {
+  "pmid": "42686180",
+  "title": "Asymmetry of Single-Leg Vertical Hop Performance and Biomechanics in Adolescent Athletes With Anterior Cruciate Ligament Reconstruction.",
+  "journal": "JOSPT Open",
+  "year": "2026",
+  "authors": [
+   "Ciccodicola EM",
+   "Hanson AM",
+   "Roberts SE",
+   "Katzel MJ",
+   "et al."
+  ],
+  "abstract": "OBJECTIVE: To assess single-leg vertical hop (SLVH) symmetry in adolescent athletes with anterior cruciate ligament reconstruction (ACLR), comparing injured to uninjured limbs. DESIGN: Retrospective cohort study. METHODS: Nineteen patients (15 female; mean age=16.3 years; mean=9.2 months post-ACLR) underwent three-dimensional motion analysis during SLVH. Hop performance and biomechanics were compared between ACLR and contralateral limbs using Wilcoxon signed rank tests. RESULTS: Hop height was significantly lower for the ACLR limb compared with the contralateral side (P = .028), with a median limb symmetry index (LSI) of 92.3%. Biomechanical variables demonstrated asymmetry, including peak knee and ankle flexion angles, peak knee flexion moment, total power generation, total power absorption, and percent power absorption contributed by the knee (all P \u2264 .037) even in participants who achieved hop height symmetry (LSIheight \u226590%). CONCLUSION: Adolescent athletes in late-stage rehabilitation post-ACLR had interlimb asymmetry of biomechanics during the SLVH, indicating deficiencies of their ACLR limb and decreased readiness for return to sport. JOSPT Open 2026;4(3):321-327. Epub 18 May 2026. doi:10.2519/josptopen.2026.0199.",
+  "doi": "10.2519/josptopen.2026.0199",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42686180/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-03T17:10:15Z"
+ },
+ {
+  "pmid": "42684321",
+  "title": "Comparative return to play and performance outcomes following lower extremity injuries in European professional soccer: a systematic review and meta-analysis.",
+  "journal": "Phys Sportsmed",
+  "year": "2026",
+  "authors": [
+   "Mbengue A",
+   "Galardi W",
+   "McIntyre C",
+   "Woodhams W",
+   "et al."
+  ],
+  "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2=70.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2=0%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
+  "doi": "10.1080/00913847.2026.2726181",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42684321/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-03T17:10:15Z"
+ },
+ {
+  "pmid": "42686184",
+  "title": "Decel to Excel: Translating Countermovement Jump Metrics Into Targeted Rehabilitation Strategies for Return to Play.",
+  "journal": "JOSPT Open",
+  "year": "2026",
+  "authors": [
+   "Sheth NB",
+   "Elis J"
+  ],
+  "abstract": "BACKGROUND: Athletes often return to sport despite persistent neuromuscular deficits that impair deceleration, force attenuation, and reacceleration following change of direction-qualities that are essential for sport performance and injury risk reduction. Return-to-play (RTP) criteria have frequently relied on global outputs or symmetry thresholds, which may fail to detect subtle limitations. Building on our original Decel to Excel framework, advanced force plate metrics provide an opportunity to better characterize late-stage performance readiness. CLINICAL QUESTION: How can force plate metrics guide phase-specific rehabilitation throughout the course of care? We expand the Decel to Excel framework, which integrates clinically meaningful force plate metrics, with phase-specific rehabilitation strategies to inform RTP decision making. KEY RESULTS: Countermovement jump-derived force plate metrics, offer insight into limb- and phase-specific neuromuscular qualities not captured by jump height or distance alone. Persistent deficits in these metrics are often missed following lower-limb injury, particularly anterior cruciate ligament reconstruction, and are associated with altered movement strategies during sport-specific tasks. We outline practical methods for interpreting force traces, linking metric-specific deficits to observable movement patterns, and selecting targeted rehabilitation interventions. CLINICAL IMPLICATIONS: Integrating force plate metrics within a structured workflow allows clinicians to individualize late-stage rehabilitation, enhance interdisciplinary communication, and move beyond symmetry-based RTP thresholds. The Decel to Excel 2.0 framework helps to close the gap between objective data and clinical decision making to support safer and more performance-relevant RTP outcomes. JOSPT Open 2026;4(3):247-253. Epub 3 June 2026. doi:10.2519/josptopen.2026.0215.",
+  "doi": "10.2519/josptopen.2026.0215",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42686184/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-03T17:10:15Z"
+ },
+ {
   "pmid": "42679060",
   "title": "Effects Of Soft/Quiet Running Cues Versus Changing to a Forefoot Strike Pattern on Gait Mechanics.",
   "journal": "Med Sci Sports Exerc",

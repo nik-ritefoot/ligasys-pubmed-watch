@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T17:18:46+00:00",
+ "generated": "2026-09-03T17:10:15+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,85 +65,30 @@
   }
  ],
  "counts": {
-  "total": 74,
-  "new": 5,
+  "total": 76,
+  "new": 3,
   "research": 24,
-  "fieldnotes": 50
+  "fieldnotes": 52
  },
  "records": [
   {
-   "pmid": "42679060",
-   "title": "Effects Of Soft/Quiet Running Cues Versus Changing to a Forefoot Strike Pattern on Gait Mechanics.",
-   "journal": "Med Sci Sports Exerc",
+   "pmid": "42686180",
+   "title": "Asymmetry of Single-Leg Vertical Hop Performance and Biomechanics in Adolescent Athletes With Anterior Cruciate Ligament Reconstruction.",
+   "journal": "JOSPT Open",
    "year": "2026",
    "authors": [
-    "Sarantos L",
-    "Zeppetelli DJ",
-    "Dempsey CA",
-    "Sara LK",
+    "Ciccodicola EM",
+    "Hanson AM",
+    "Roberts SE",
+    "Katzel MJ",
     "et al."
    ],
-   "abstract": "To compare changes in running biomechanics between two gait modifications: cues to run softly and quietly (SOF) and shifting to a forefoot strike pattern (FFS). Thirty-eight individuals completed testing, including running with habitual gait (HAB) and the two gait modifications, while biomechanical data were collected. Variables of interest included joint angles and moments, knee stiffness, and ground reaction forces. Repeated measures analysis of variance was used to compare gait conditions. The SOF condition showed higher peak knee flexion angles and excursion, foot strike angles (vs. HAB and FFS), and higher peak and initial contact ankle dorsiflexion angles, peak eversion angles, and lower initial contact ankle inversion angles (vs. FFS). The FFS condition resulted in a more plantarflexed and inverted ankle at initial contact, as well as a more plantarflexed foot. The SOF condition resulted in reduced peaks and loading rates for vertical and posterior forces, however FFS led to reduced vertical loading rates compared to HAB and SOF. For joint moments, the SOF condition showed increased hip flexion and extension moments and reduced knee stiffness (vs. HAB and FFS), and reduced ankle plantarflexion moments (vs. FFS). The FFS condition also showed increased knee flexion and ankle plantarflexion moments compared to HAB. The SOF modification was shown to be a viable alternative to FFS for reducing several key aspects of biomechanical loading during running, including sagittal knee and ankle moments and knee stiffness, as well as peaks and loading rates for vertical and posterior ground reaction forces. However, the increases in hip joint moments should lead to some caution and warrant further investigation.",
-   "doi": "10.1249/MSS.0000000000004131",
+   "abstract": "OBJECTIVE: To assess single-leg vertical hop (SLVH) symmetry in adolescent athletes with anterior cruciate ligament reconstruction (ACLR), comparing injured to uninjured limbs. DESIGN: Retrospective cohort study. METHODS: Nineteen patients (15 female; mean age=16.3 years; mean=9.2 months post-ACLR) underwent three-dimensional motion analysis during SLVH. Hop performance and biomechanics were compared between ACLR and contralateral limbs using Wilcoxon signed rank tests. RESULTS: Hop height was significantly lower for the ACLR limb compared with the contralateral side (P = .028), with a median limb symmetry index (LSI) of 92.3%. Biomechanical variables demonstrated asymmetry, including peak knee and ankle flexion angles, peak knee flexion moment, total power generation, total power absorption, and percent power absorption contributed by the knee (all P \u2264 .037) even in participants who achieved hop height symmetry (LSIheight \u226590%). CONCLUSION: Adolescent athletes in late-stage rehabilitation post-ACLR had interlimb asymmetry of biomechanics during the SLVH, indicating deficiencies of their ACLR limb and decreased readiness for return to sport. JOSPT Open 2026;4(3):321-327. Epub 18 May 2026. doi:10.2519/josptopen.2026.0199.",
+   "doi": "10.2519/josptopen.2026.0199",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42679060/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42678619",
-   "title": "Evaluating the Efficacy of Biofeedback in Pain Management and Rehabilitation of Sports Injuries: A Systematic Review of Randomized Controlled Trials.",
-   "journal": "Appl Psychophysiol Biofeedback",
-   "year": "2026",
-   "authors": [
-    "Delgado Viana AM",
-    "Pirwani N",
-    "Szabo A"
-   ],
-   "abstract": "To evaluate the effectiveness of biofeedback interventions for pain management and rehabilitation outcomes in athletes and individuals with sports-related injuries. Systematic review of randomized controlled trials. A systematic literature search was conducted in eight electronic databases: PubMed, Google Scholar, Web of Science, Scopus, ProQuest, PEDro, SPORTDiscus, and the Cochrane Central Register of Controlled Trials. Searches were completed in September 2024 and updated in November 2025. Randomized controlled trials investigating the use of biofeedback interventions for pain management and rehabilitation in athletes or individuals with sports-related injuries were eligible for inclusion. Due to heterogeneity in participant characteristics, injury types, biofeedback modalities, and outcome measures, a narrative synthesis was performed. Methodological quality was assessed using the Cochrane Risk of Bias tool. Nine randomized controlled trials from Saudi Arabia, Taiwan, Canada, Romania, Brazil, and Iran were included. Biofeedback interventions addressed patellofemoral pain, shoulder impingement, chronic ankle instability, plantar fasciitis, post-traumatic osteoarthritis, chronic low back pain, meniscal injuries, and other musculoskeletal sports injuries. Modalities included electromyography, heart rate variability, neurofeedback, virtual reality feedback, and real-time visual gait retraining. Biofeedback was associated with reduced pain, improved muscle activation and strength, enhanced functional recovery, and better rehabilitation outcomes. Biofeedback may be a valuable adjunct to conventional rehabilitation for athletes or individuals with sports-related injuries. For clinicians, it can enhance neuromuscular control, patient engagement, and functional outcomes in multimodal programs. However, the certainty of the evidence is low, and further high-quality trials across diverse populations are needed.",
-   "doi": "10.1007/s10484-026-09809-2",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42678619/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42683262",
-   "title": "Midterm Outcomes After Suture Button Fixation for Arthroscopically Confirmed Concomitant Syndesmotic Instability in Chronic Lateral Ankle Instability: A Retrospective Cohort Study.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Shi P",
-    "Wei Y",
-    "Li S",
-    "Liu M",
-    "et al."
-   ],
-   "abstract": "Distal tibiofibular syndesmosis instability (DTSI) often coexists with chronic lateral ankle instability and may delay recovery. Suture button fixation is widely used, but its benefit in this setting is uncertain. To evaluate midterm outcomes of suture button fixation for DTSI with concomitant lateral ankle instability. Cohort study; Level of evidence, 3. Patients who underwent surgery for lateral ankle instability with arthroscopic syndesmosis assessment between 2017 and 2023 were retrospectively identified. Patients with an intact syndesmosis formed the intact group, whereas those with arthroscopically confirmed dynamic syndesmotic instability (\u22652-mm diastasis) underwent additional suture button fixation and formed the instability group. All patients received standardized lateral ligament surgery and rehabilitation. Clinical assessments were performed preoperatively, at 12 months, and at final follow-up using Karlsson-Peterson, Foot and Ankle Ability Measure (FAAM), Tegner, Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), visual analog scale (VAS) pain scores, and ankle range of motion. Group differences were analyzed with \u03b1 = .05 and interpreted using minimal clinically important differences (MCIDs). Of 216 eligible patients, 154 completed follow-up at a mean of 67.3 \u00b1 24.8 months (range, 24-113 months). No bilateral cases were included; therefore, the number of ankles was identical to the number of patients: 80 patients (80 ankles) in the intact syndesmosis group and 74 patients (74 ankles) in the syndesmotic instability group. Preoperatively, the instability group had lower Karlsson-Peterson scores than the intact group, with a median between-group difference of -4.00 points (95% CI, -6.00 to -2.00; P < .001). At 12 months, Karlsson-Peterson scores were comparable between groups (median between-group difference, 0.00 points; 95% CI, -1.00 to 1.00; P = .63). At final follow-up, the instability group had a statistically higher Karlsson-Peterson score than the intact group, although the absolute difference was small (median between-group difference, 1.00 point; 95% CI, 0.00 to 2.00; P = .02). The between-group difference in Karlsson-Peterson improvement was 4.88 points (95% CI, 3.13 to 6.63; P < .001), which did not exceed the MCID threshold of 13.50 points. After adjustment for preoperative Karlsson-Peterson score, sex, body mass index, age, anterior talofibular ligament surgical modality, and follow-up duration, syndesmotic instability treated with suture button fixation remained modestly associated with the final Karlsson-Peterson score (\u03b2 = 1.525; 95% CI, 0.340 to 2.709; P = .01). Final FAAM Activities of Daily Living, FAAM Sports, Tegner, ALR-RSI, and VAS scores showed no clinically meaningful between-group differences. The instability group had greater residual dorsiflexion limitation at final follow-up, with a median between-group difference of 2.00\u00b0 (95% CI, 2.00\u00b0 to 3.00\u00b0; P < .001), but this limitation was not significantly correlated with final patient-reported outcomes. Our study demonstrated that, for patients with chronic lateral ankle instability and arthroscopically confirmed concomitant DTSI, suture button fixation combined with lateral ligament surgery was associated with substantial midterm functional improvement, with outcomes approaching those of patients with an intact syndesmosis. However, because the comparison involved biologically distinct cohorts, these findings should be interpreted as supportive rather than definitive. Future matched or randomized studies are needed to clarify the independent contribution of suture button fixation.",
-   "doi": "10.1177/23259671261468979",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42683262/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686180/",
    "matched": [
     {
      "id": "return-to-play",
@@ -155,27 +100,28 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42682455",
-   "title": "Not all players warm up the same: position-specific external load during standardized pre-match protocol in women's handball.",
-   "journal": "Front Sports Act Living",
+   "pmid": "42684321",
+   "title": "Comparative return to play and performance outcomes following lower extremity injuries in European professional soccer: a systematic review and meta-analysis.",
+   "journal": "Phys Sportsmed",
    "year": "2026",
    "authors": [
-    "Garc\u00eda-S\u00e1nchez C",
-    "Caro Serrano \u00c1",
-    "Cordoves Peinado R",
-    "Nieto-Acevedo R",
+    "Mbengue A",
+    "Galardi W",
+    "McIntyre C",
+    "Woodhams W",
     "et al."
    ],
-   "abstract": "Although monitoring external load during training and match play is essential to understand game demands, optimize performance, and reduce injury risk, the external load accumulated during the pre-match warm-up has received little attention in women's handball. Therefore, the aims of the present study were: (i) to analyze and compare positional differences in the external load registered during a standardized pre-match warm-up protocol in official matches in women's handball; and (ii) to examine the external load accumulated during the warm-up relative to match demands according to playing position. Twenty-two female players from the Spanish 2nd Division were monitored across 13 official home matches and their respective pre-match warm-ups. Total distance covered (TDC), high-speed running (HSR), metabolic power (MP), high metabolic load distance (HMLD), high-intensity accelerations (HIA), high-intensity decelerations (HID), and PlayerLoad (PL) were recorded in absolute and relative values (normalized by playing time) using a WIMU PRO\u2122 LPS integrating UWB and IMU technology. Positional differences were analyzed using one-way ANOVA or Kruskal-Wallis test. The statistical significance level was set at p\u2009<\u20090.05. Significant between-position differences were found in TDC, TDC/min, HSR, HSR/min, HMLD, HMLD/min, MP/min, PL, and PL/min (p\u2009<\u20090.05). Overall, wings exhibited the greatest external load values during the warm-up, particularly in TDC, HSR, HMLD, and PL, whereas pivots consistently showed the lowest values. Backs also displayed higher TDC/min, HMLD/min, and MP/min than pivots. When warm-up load was contextualized relative to match demands, the warm-up accounted for a considerable proportion of match load in several variables. Pivots generally showed the greatest relative contribution of warm-up to match load, whereas wings showed the lowest values across most variables. External load registered during a standardized pre-match warm-up in women's handball is position-specific and should not be considered a uniform preparatory stimulus across players. Warm-up load represents a meaningful component of total match-day external load and should be structured according to the technical and physical demands of each playing position. These findings support the individualization of pre-match warm-up strategies according to playing position.",
-   "doi": "10.3389/fspor.2026.1881325",
+   "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2=70.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2=0%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
+   "doi": "10.1080/00913847.2026.2726181",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42682455/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42684321/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -183,26 +129,24 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42682620",
-   "title": "Value driven co-design of smart sportswear for heat illness prevention in tropical regions.",
-   "journal": "Front Digit Health",
+   "pmid": "42686184",
+   "title": "Decel to Excel: Translating Countermovement Jump Metrics Into Targeted Rehabilitation Strategies for Return to Play.",
+   "journal": "JOSPT Open",
    "year": "2026",
    "authors": [
-    "Wickramarathne T",
-    "Kuys B",
-    "Liu W",
-    "Al Mahmud A"
+    "Sheth NB",
+    "Elis J"
    ],
-   "abstract": "Heat illness poses a serious health risk for endurance athletes in tropical climates, yet smart sportswear solutions integrating wearable digital health functions remain underexplored in low-resource settings. The objective of this research was to co-design concepts for wearable technology-enabled cycling sportswear that integrate cooling, physiological monitoring, culturally responsive usability, and cost-sensitive implementation to inform heat illness prevention strategies and support future prototype development. We conducted five co-design workshops with 20 semi-professional cyclists in Sri Lanka, using the Functional-Expressive-Aesthetic (FEA) framework to elicit user needs. Participants generated 19 design concepts and prioritized features through group discussion, sticky-note voting and qualitative ranking based on perceived health impact, usability, and cost feasibility. Cooling comfort emerged as the top priority, with strong preference for hybrid designs combining natural wind cooling and smart user-controllable cooling. Key cooling zones included neck/upper back and underarm/chest. Participants valued physiological monitoring when it supported actionable interventions, such as future sensor-triggered cooling and hydration prompts, rather than passive monitoring dashboards. Additional priorities included localized UI in Sinhala, simplified data visualization, and safety features such as reflective elements. Two T-shirt concepts were finalized: smart cooling with user-controlled settings and lightweight cooling packs integrated with perforated panels. Findings suggest that smart sportswear for low-resource tropical cycling contexts should prioritise actionable, localised, and cost-sensitive cooling interventions rather than monitoring-only functions. The study contributes concept-level design requirements for culturally responsive wearable digital health sportswear. Because the findings are based on co-design outputs and participant perceptions, the proposed health benefits remain conceptual and require prototype development, physiological validation, usability testing, and field evaluation under cycling conditions.",
-   "doi": "10.3389/fdgth.2026.1872925",
+   "abstract": "BACKGROUND: Athletes often return to sport despite persistent neuromuscular deficits that impair deceleration, force attenuation, and reacceleration following change of direction-qualities that are essential for sport performance and injury risk reduction. Return-to-play (RTP) criteria have frequently relied on global outputs or symmetry thresholds, which may fail to detect subtle limitations. Building on our original Decel to Excel framework, advanced force plate metrics provide an opportunity to better characterize late-stage performance readiness. CLINICAL QUESTION: How can force plate metrics guide phase-specific rehabilitation throughout the course of care? We expand the Decel to Excel framework, which integrates clinically meaningful force plate metrics, with phase-specific rehabilitation strategies to inform RTP decision making. KEY RESULTS: Countermovement jump-derived force plate metrics, offer insight into limb- and phase-specific neuromuscular qualities not captured by jump height or distance alone. Persistent deficits in these metrics are often missed following lower-limb injury, particularly anterior cruciate ligament reconstruction, and are associated with altered movement strategies during sport-specific tasks. We outline practical methods for interpreting force traces, linking metric-specific deficits to observable movement patterns, and selecting targeted rehabilitation interventions. CLINICAL IMPLICATIONS: Integrating force plate metrics within a structured workflow allows clinicians to individualize late-stage rehabilitation, enhance interdisciplinary communication, and move beyond symmetry-based RTP thresholds. The Decel to Excel 2.0 framework helps to close the gap between objective data and clinical decision making to support safer and more performance-relevant RTP outcomes. JOSPT Open 2026;4(3):247-253. Epub 3 June 2026. doi:10.2519/josptopen.2026.0215.",
+   "doi": "10.2519/josptopen.2026.0215",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42682620/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686184/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -314,31 +258,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42543907",
-   "title": "An Information-Driven Approach for the Early Health Technology Sustainability Assessment and the Frugal Design of the Internet of Medical Things: Exploratory Study of Wearable Activity Monitoring Devices.",
-   "journal": "JMIR Mhealth Uhealth",
-   "year": "2026",
-   "authors": [
-    "Quisbert-Trujillo E",
-    "Vuillerme N"
-   ],
-   "abstract": "Over the past decade, wearable activity monitoring (WAM) devices have become prevalent to improve quality of life and support the prevention and management of a wide range of health disorders. WAM devices based on the Internet of Medical Things (IoMT) paradigm provide a practical means of tracking physical activity, but their widespread adoption raises sustainability concerns. Meanwhile, health technology assessment and life cycle assessment are typically applied at advanced development stages, when empirical certainty about the final design and operating conditions is available, leaving little room for further improvements. This exploratory work provides the empirical foundations for an information-driven approach addressing this paradox in the early evaluation and conception of wrist-worn step counters, for which evidence suggests overdimensioned and unsustainable electronic designs. Specifically, we identify optimal resource-performance trade-offs in critical electronic components of frugal smartbands based on the data they collect and the information they preserve for step counting. This approach accounts for uncertainties in device reliability, users' gait speeds, and material and energy consumption in final products. We conducted a secondary analysis of an accelerometer dataset characterizing wrist motion in healthy individuals walking at different speeds. The original x-, y-, and z-axis signals were progressively downsampled using cubic spline interpolation and discretized to quantify the information preserved, first across sampling frequencies and then with respect to changes in motion velocity. We also preliminarily assessed the viability of the downsampled signals for step detection by estimating percentage errors in peak and valley counts. Based on this, we constructed and evaluated 4 frugal smartband design archetypes, linking energy consumption and sampling frequency for 4 widely used accelerometers and combining essential electronic components, implementing a suboptimal asynchronous first-in-first-out (FIFO) algorithm at different sampling rates. Finally, we evaluated the environmental impact and circularity of these components through a streamlined analysis focused on raw materials. About 70%-90% of the information is lost in signals downsampled at very low frequencies (2-5 Hz), whereas losses remain below 24% from 20 Hz onward. Substantial information loss also occurs when individuals walk briskly or jog (\u22658 km/h), or walk below 8 km/h with sampling frequencies below 7 Hz or above 25 Hz. Step-counting accuracy is expected to be acceptable from approximately 11 Hz onward. Conversely, higher sampling rates rapidly saturate FIFO buffers and increase energy overhead, particularly when implemented in memory-dense components handling both processing and data transfer. Finally, gold and silver in transceivers and microcontrollers contribute substantially to resource depletion, while copper remains relevant for material recovery. These findings provide preliminary insights into the concurrent assessment and development of frugal WAM devices. This work extends the understanding of step detection under knowledge-constrained conditions and provides mechanisms to reduce uncertainty during early health technology assessment and eco-design.",
-   "doi": "10.2196/88237",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42543907/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1004,6 +923,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42679060",
+   "title": "Effects Of Soft/Quiet Running Cues Versus Changing to a Forefoot Strike Pattern on Gait Mechanics.",
+   "journal": "Med Sci Sports Exerc",
+   "year": "2026",
+   "authors": [
+    "Sarantos L",
+    "Zeppetelli DJ",
+    "Dempsey CA",
+    "Sara LK",
+    "et al."
+   ],
+   "abstract": "To compare changes in running biomechanics between two gait modifications: cues to run softly and quietly (SOF) and shifting to a forefoot strike pattern (FFS). Thirty-eight individuals completed testing, including running with habitual gait (HAB) and the two gait modifications, while biomechanical data were collected. Variables of interest included joint angles and moments, knee stiffness, and ground reaction forces. Repeated measures analysis of variance was used to compare gait conditions. The SOF condition showed higher peak knee flexion angles and excursion, foot strike angles (vs. HAB and FFS), and higher peak and initial contact ankle dorsiflexion angles, peak eversion angles, and lower initial contact ankle inversion angles (vs. FFS). The FFS condition resulted in a more plantarflexed and inverted ankle at initial contact, as well as a more plantarflexed foot. The SOF condition resulted in reduced peaks and loading rates for vertical and posterior forces, however FFS led to reduced vertical loading rates compared to HAB and SOF. For joint moments, the SOF condition showed increased hip flexion and extension moments and reduced knee stiffness (vs. HAB and FFS), and reduced ankle plantarflexion moments (vs. FFS). The FFS condition also showed increased knee flexion and ankle plantarflexion moments compared to HAB. The SOF modification was shown to be a viable alternative to FFS for reducing several key aspects of biomechanical loading during running, including sagittal knee and ankle moments and knee stiffness, as well as peaks and loading rates for vertical and posterior ground reaction forces. However, the increases in hip joint moments should lead to some caution and warrant further investigation.",
+   "doi": "10.1249/MSS.0000000000004131",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42679060/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42614049",
    "title": "Effects of tissue flossing on sports performance, injury prevention, and post-injury rehabilitation outcomes: a systematic review.",
    "journal": "Res Sports Med",
@@ -1058,6 +1005,33 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42678619",
+   "title": "Evaluating the Efficacy of Biofeedback in Pain Management and Rehabilitation of Sports Injuries: A Systematic Review of Randomized Controlled Trials.",
+   "journal": "Appl Psychophysiol Biofeedback",
+   "year": "2026",
+   "authors": [
+    "Delgado Viana AM",
+    "Pirwani N",
+    "Szabo A"
+   ],
+   "abstract": "To evaluate the effectiveness of biofeedback interventions for pain management and rehabilitation outcomes in athletes and individuals with sports-related injuries. Systematic review of randomized controlled trials. A systematic literature search was conducted in eight electronic databases: PubMed, Google Scholar, Web of Science, Scopus, ProQuest, PEDro, SPORTDiscus, and the Cochrane Central Register of Controlled Trials. Searches were completed in September 2024 and updated in November 2025. Randomized controlled trials investigating the use of biofeedback interventions for pain management and rehabilitation in athletes or individuals with sports-related injuries were eligible for inclusion. Due to heterogeneity in participant characteristics, injury types, biofeedback modalities, and outcome measures, a narrative synthesis was performed. Methodological quality was assessed using the Cochrane Risk of Bias tool. Nine randomized controlled trials from Saudi Arabia, Taiwan, Canada, Romania, Brazil, and Iran were included. Biofeedback interventions addressed patellofemoral pain, shoulder impingement, chronic ankle instability, plantar fasciitis, post-traumatic osteoarthritis, chronic low back pain, meniscal injuries, and other musculoskeletal sports injuries. Modalities included electromyography, heart rate variability, neurofeedback, virtual reality feedback, and real-time visual gait retraining. Biofeedback was associated with reduced pain, improved muscle activation and strength, enhanced functional recovery, and better rehabilitation outcomes. Biofeedback may be a valuable adjunct to conventional rehabilitation for athletes or individuals with sports-related injuries. For clinicians, it can enhance neuromuscular control, patient engagement, and functional outcomes in multimodal programs. However, the certainty of the evidence is low, and further high-quality trials across diverse populations are needed.",
+   "doi": "10.1007/s10484-026-09809-2",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42678619/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42656853",
@@ -1487,6 +1461,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42683262",
+   "title": "Midterm Outcomes After Suture Button Fixation for Arthroscopically Confirmed Concomitant Syndesmotic Instability in Chronic Lateral Ankle Instability: A Retrospective Cohort Study.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Shi P",
+    "Wei Y",
+    "Li S",
+    "Liu M",
+    "et al."
+   ],
+   "abstract": "Distal tibiofibular syndesmosis instability (DTSI) often coexists with chronic lateral ankle instability and may delay recovery. Suture button fixation is widely used, but its benefit in this setting is uncertain. To evaluate midterm outcomes of suture button fixation for DTSI with concomitant lateral ankle instability. Cohort study; Level of evidence, 3. Patients who underwent surgery for lateral ankle instability with arthroscopic syndesmosis assessment between 2017 and 2023 were retrospectively identified. Patients with an intact syndesmosis formed the intact group, whereas those with arthroscopically confirmed dynamic syndesmotic instability (\u22652-mm diastasis) underwent additional suture button fixation and formed the instability group. All patients received standardized lateral ligament surgery and rehabilitation. Clinical assessments were performed preoperatively, at 12 months, and at final follow-up using Karlsson-Peterson, Foot and Ankle Ability Measure (FAAM), Tegner, Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), visual analog scale (VAS) pain scores, and ankle range of motion. Group differences were analyzed with \u03b1 = .05 and interpreted using minimal clinically important differences (MCIDs). Of 216 eligible patients, 154 completed follow-up at a mean of 67.3 \u00b1 24.8 months (range, 24-113 months). No bilateral cases were included; therefore, the number of ankles was identical to the number of patients: 80 patients (80 ankles) in the intact syndesmosis group and 74 patients (74 ankles) in the syndesmotic instability group. Preoperatively, the instability group had lower Karlsson-Peterson scores than the intact group, with a median between-group difference of -4.00 points (95% CI, -6.00 to -2.00; P < .001). At 12 months, Karlsson-Peterson scores were comparable between groups (median between-group difference, 0.00 points; 95% CI, -1.00 to 1.00; P = .63). At final follow-up, the instability group had a statistically higher Karlsson-Peterson score than the intact group, although the absolute difference was small (median between-group difference, 1.00 point; 95% CI, 0.00 to 2.00; P = .02). The between-group difference in Karlsson-Peterson improvement was 4.88 points (95% CI, 3.13 to 6.63; P < .001), which did not exceed the MCID threshold of 13.50 points. After adjustment for preoperative Karlsson-Peterson score, sex, body mass index, age, anterior talofibular ligament surgical modality, and follow-up duration, syndesmotic instability treated with suture button fixation remained modestly associated with the final Karlsson-Peterson score (\u03b2 = 1.525; 95% CI, 0.340 to 2.709; P = .01). Final FAAM Activities of Daily Living, FAAM Sports, Tegner, ALR-RSI, and VAS scores showed no clinically meaningful between-group differences. The instability group had greater residual dorsiflexion limitation at final follow-up, with a median between-group difference of 2.00\u00b0 (95% CI, 2.00\u00b0 to 3.00\u00b0; P < .001), but this limitation was not significantly correlated with final patient-reported outcomes. Our study demonstrated that, for patients with chronic lateral ankle instability and arthroscopically confirmed concomitant DTSI, suture button fixation combined with lateral ligament surgery was associated with substantial midterm functional improvement, with outcomes approaching those of patients with an intact syndesmosis. However, because the comparison involved biologically distinct cohorts, these findings should be interpreted as supportive rather than definitive. Future matched or randomized studies are needed to clarify the independent contribution of suture button fixation.",
+   "doi": "10.1177/23259671261468979",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42683262/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42662246",
    "title": "Molecular-biomechanical phenotyping of ankle osteoarthritis: from synovial biomarkers to weight-bearing digital signatures.",
    "journal": "Front Med (Lausanne)",
@@ -1503,6 +1505,34 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42662246/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42682455",
+   "title": "Not all players warm up the same: position-specific external load during standardized pre-match protocol in women's handball.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Garc\u00eda-S\u00e1nchez C",
+    "Caro Serrano \u00c1",
+    "Cordoves Peinado R",
+    "Nieto-Acevedo R",
+    "et al."
+   ],
+   "abstract": "Although monitoring external load during training and match play is essential to understand game demands, optimize performance, and reduce injury risk, the external load accumulated during the pre-match warm-up has received little attention in women's handball. Therefore, the aims of the present study were: (i) to analyze and compare positional differences in the external load registered during a standardized pre-match warm-up protocol in official matches in women's handball; and (ii) to examine the external load accumulated during the warm-up relative to match demands according to playing position. Twenty-two female players from the Spanish 2nd Division were monitored across 13 official home matches and their respective pre-match warm-ups. Total distance covered (TDC), high-speed running (HSR), metabolic power (MP), high metabolic load distance (HMLD), high-intensity accelerations (HIA), high-intensity decelerations (HID), and PlayerLoad (PL) were recorded in absolute and relative values (normalized by playing time) using a WIMU PRO\u2122 LPS integrating UWB and IMU technology. Positional differences were analyzed using one-way ANOVA or Kruskal-Wallis test. The statistical significance level was set at p\u2009<\u20090.05. Significant between-position differences were found in TDC, TDC/min, HSR, HSR/min, HMLD, HMLD/min, MP/min, PL, and PL/min (p\u2009<\u20090.05). Overall, wings exhibited the greatest external load values during the warm-up, particularly in TDC, HSR, HMLD, and PL, whereas pivots consistently showed the lowest values. Backs also displayed higher TDC/min, HMLD/min, and MP/min than pivots. When warm-up load was contextualized relative to match demands, the warm-up accounted for a considerable proportion of match load in several variables. Pivots generally showed the greatest relative contribution of warm-up to match load, whereas wings showed the lowest values across most variables. External load registered during a standardized pre-match warm-up in women's handball is position-specific and should not be considered a uniform preparatory stimulus across players. Warm-up load represents a meaningful component of total match-day external load and should be structured according to the technical and physical demands of each playing position. These findings support the individualization of pre-match warm-up strategies according to playing position.",
+   "doi": "10.3389/fspor.2026.1881325",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42682455/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -2166,6 +2196,33 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42682620",
+   "title": "Value driven co-design of smart sportswear for heat illness prevention in tropical regions.",
+   "journal": "Front Digit Health",
+   "year": "2026",
+   "authors": [
+    "Wickramarathne T",
+    "Kuys B",
+    "Liu W",
+    "Al Mahmud A"
+   ],
+   "abstract": "Heat illness poses a serious health risk for endurance athletes in tropical climates, yet smart sportswear solutions integrating wearable digital health functions remain underexplored in low-resource settings. The objective of this research was to co-design concepts for wearable technology-enabled cycling sportswear that integrate cooling, physiological monitoring, culturally responsive usability, and cost-sensitive implementation to inform heat illness prevention strategies and support future prototype development. We conducted five co-design workshops with 20 semi-professional cyclists in Sri Lanka, using the Functional-Expressive-Aesthetic (FEA) framework to elicit user needs. Participants generated 19 design concepts and prioritized features through group discussion, sticky-note voting and qualitative ranking based on perceived health impact, usability, and cost feasibility. Cooling comfort emerged as the top priority, with strong preference for hybrid designs combining natural wind cooling and smart user-controllable cooling. Key cooling zones included neck/upper back and underarm/chest. Participants valued physiological monitoring when it supported actionable interventions, such as future sensor-triggered cooling and hydration prompts, rather than passive monitoring dashboards. Additional priorities included localized UI in Sinhala, simplified data visualization, and safety features such as reflective elements. Two T-shirt concepts were finalized: smart cooling with user-controlled settings and lightweight cooling packs integrated with perforated panels. Findings suggest that smart sportswear for low-resource tropical cycling contexts should prioritise actionable, localised, and cost-sensitive cooling interventions rather than monitoring-only functions. The study contributes concept-level design requirements for culturally responsive wearable digital health sportswear. Because the findings are based on co-design outputs and participant perceptions, the proposed health benefits remain conceptual and require prototype development, physiological validation, usability testing, and field evaluation under cycling conditions.",
+   "doi": "10.3389/fdgth.2026.1872925",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42682620/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
