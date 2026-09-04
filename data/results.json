@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-03T17:10:15+00:00",
+ "generated": "2026-09-04T17:03:38+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,84 +65,30 @@
   }
  ],
  "counts": {
-  "total": 76,
-  "new": 3,
+  "total": 75,
+  "new": 1,
   "research": 24,
-  "fieldnotes": 52
+  "fieldnotes": 51
  },
  "records": [
   {
-   "pmid": "42686180",
-   "title": "Asymmetry of Single-Leg Vertical Hop Performance and Biomechanics in Adolescent Athletes With Anterior Cruciate Ligament Reconstruction.",
-   "journal": "JOSPT Open",
+   "pmid": "42694058",
+   "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
+   "journal": "Int J Sports Phys Ther",
    "year": "2026",
    "authors": [
-    "Ciccodicola EM",
-    "Hanson AM",
-    "Roberts SE",
-    "Katzel MJ",
+    "Raji Y",
+    "Luft RE",
+    "Pierre KJ",
+    "VitoCruz F",
     "et al."
    ],
-   "abstract": "OBJECTIVE: To assess single-leg vertical hop (SLVH) symmetry in adolescent athletes with anterior cruciate ligament reconstruction (ACLR), comparing injured to uninjured limbs. DESIGN: Retrospective cohort study. METHODS: Nineteen patients (15 female; mean age=16.3 years; mean=9.2 months post-ACLR) underwent three-dimensional motion analysis during SLVH. Hop performance and biomechanics were compared between ACLR and contralateral limbs using Wilcoxon signed rank tests. RESULTS: Hop height was significantly lower for the ACLR limb compared with the contralateral side (P = .028), with a median limb symmetry index (LSI) of 92.3%. Biomechanical variables demonstrated asymmetry, including peak knee and ankle flexion angles, peak knee flexion moment, total power generation, total power absorption, and percent power absorption contributed by the knee (all P \u2264 .037) even in participants who achieved hop height symmetry (LSIheight \u226590%). CONCLUSION: Adolescent athletes in late-stage rehabilitation post-ACLR had interlimb asymmetry of biomechanics during the SLVH, indicating deficiencies of their ACLR limb and decreased readiness for return to sport. JOSPT Open 2026;4(3):321-327. Epub 18 May 2026. doi:10.2519/josptopen.2026.0199.",
-   "doi": "10.2519/josptopen.2026.0199",
+   "abstract": "The Functional Lower Extremity Evaluation (FLEE) is a validated assessment tool designed to assess lower limb function and symmetry. There is a gap in knowledge in return to sport (RTS) regarding the application of the FLEE in RTS rehabilitation protocols following hip arthroscopy. The purpose of this case series was to assess the utility of the FLEE in guiding RTS rehabilitation protocols for collegiate athletes after hip arthroscopy and to evaluate lower limb symmetry using FLEE components. Among collegiate athletes recovering from hip arthroscopy, the Functional Lower Extremity Evaluation (FLEE) will detect measurable differences in limb symmetry and will provide clinically meaningful guidance for return-to-sport rehabilitation. Study design: Retrospective case series. A retrospective review of collegiate athletes who had undergone hip arthroscopy for femoroacetabular impingement (FAI) was performed at a single institution between January 2012 to January 2024. Inclusion criteria were completion of post-operative rehabilitation with full FLEE testing at return-to-sport clearance. The eight-task FLEE assessment was administered postoperatively beginning at 4 months. Percent limb symmetry was calculated for each component. RTS, re-injury and re-operations rates were monitored for a mean of 52.9 weeks postoperatively. Descriptive statistics were calculated for demographic variables, FLEE component scores, and percent limb symmetry. Continuous variables were summarized as means and standard deviations, while categorical variables were presented as frequencies and percentages. Four collegiate athletes (3 males, 1 female; mean age - 19 years) were included, representing football (n=2), basketball (n=1) and swimming and diving (n=1). Athletes demonstrated improvements in all FLEE components following rehabilitation, achieving RTS clearance at a mean of 5.75 months \u00b1 1.44 months. All athletes returned to competitive sports at the same or higher level. No re-injuries or re-operations occurred at a mean follow-up of 52.89 months. Limb symmetry ranged from 97.95% to 110.04% across FLEE components. The FLEE may be a valuable instrument for assessing lower extremity function and symmetry in college athletes undergoing RTS rehabilitation after hip arthroscopy. These findings suggest that the FLEE may aid in guiding individualized rehabilitation programs and monitoring progress towards RTS goals. Larger, prospective studies are warranted to validate these findings. Level IV Case Series.",
+   "doi": "10.26603/001c.167445",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42686180/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42684321",
-   "title": "Comparative return to play and performance outcomes following lower extremity injuries in European professional soccer: a systematic review and meta-analysis.",
-   "journal": "Phys Sportsmed",
-   "year": "2026",
-   "authors": [
-    "Mbengue A",
-    "Galardi W",
-    "McIntyre C",
-    "Woodhams W",
-    "et al."
-   ],
-   "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2=70.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2=0%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
-   "doi": "10.1080/00913847.2026.2726181",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42684321/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42686184",
-   "title": "Decel to Excel: Translating Countermovement Jump Metrics Into Targeted Rehabilitation Strategies for Return to Play.",
-   "journal": "JOSPT Open",
-   "year": "2026",
-   "authors": [
-    "Sheth NB",
-    "Elis J"
-   ],
-   "abstract": "BACKGROUND: Athletes often return to sport despite persistent neuromuscular deficits that impair deceleration, force attenuation, and reacceleration following change of direction-qualities that are essential for sport performance and injury risk reduction. Return-to-play (RTP) criteria have frequently relied on global outputs or symmetry thresholds, which may fail to detect subtle limitations. Building on our original Decel to Excel framework, advanced force plate metrics provide an opportunity to better characterize late-stage performance readiness. CLINICAL QUESTION: How can force plate metrics guide phase-specific rehabilitation throughout the course of care? We expand the Decel to Excel framework, which integrates clinically meaningful force plate metrics, with phase-specific rehabilitation strategies to inform RTP decision making. KEY RESULTS: Countermovement jump-derived force plate metrics, offer insight into limb- and phase-specific neuromuscular qualities not captured by jump height or distance alone. Persistent deficits in these metrics are often missed following lower-limb injury, particularly anterior cruciate ligament reconstruction, and are associated with altered movement strategies during sport-specific tasks. We outline practical methods for interpreting force traces, linking metric-specific deficits to observable movement patterns, and selecting targeted rehabilitation interventions. CLINICAL IMPLICATIONS: Integrating force plate metrics within a structured workflow allows clinicians to individualize late-stage rehabilitation, enhance interdisciplinary communication, and move beyond symmetry-based RTP thresholds. The Decel to Excel 2.0 framework helps to close the gap between objective data and clinical decision making to support safer and more performance-relevant RTP outcomes. JOSPT Open 2026;4(3):247-253. Epub 3 June 2026. doi:10.2519/josptopen.2026.0215.",
-   "doi": "10.2519/josptopen.2026.0215",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42686184/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42694058/",
    "matched": [
     {
      "id": "return-to-play",
@@ -225,35 +171,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42577447/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42549193",
-   "title": "Accelerated Return to Competition Following a Full-Thickness Abdominal Wall Tear in an Elite Sprinter: A Data-informed Case Report.",
-   "journal": "Int J Sports Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Carragher P",
-    "O'Leary F",
-    "Kirby K",
-    "McCarthy M",
-    "et al."
-   ],
-   "abstract": "Muscle strain injuries are a leading cause of time loss in elite sport. While lower-limb muscle strains are well documented, full-thickness lateral abdominal wall tears involving the external oblique, internal oblique, and transversus abdominis are rare in elite sprinting, with limited evidence to guide rehabilitation or return-to-sport decision-making. The purpose of this case report was to describe the rehabilitation and return-to-competition process following a full-thickness lateral abdominal wall tear in an elite international sprinter. # Case Description A 22-year-old elite international sprinter sustained a full-thickness tear of the external oblique, internal oblique, and transversus abdominis during block acceleration. Rehabilitation commenced two days post-injury and emphasized early optimal loading, objective monitoring using trunk force profiling and sprint kinematic assessment, and collaborative decision-making across the medical, coaching, and performance teams. Progression was guided by athlete response and objective performance data rather than predetermined time-based criteria. # Outcomes Pain-free sprinting was achieved within 16 days, unrestricted training resumed by Day 18, and the athlete returned to competition on Day 28, recording a lifetime personal best of 10.08 seconds in the 100 m. Persistent asymmetries remained in selected trunk force measures despite successful return to competition. # Discussion This case report provides a descriptive example of individualized, data-informed rehabilitation following a severe abdominal wall injury and may contribute to ongoing discussion regarding the role of objective monitoring, clinical reasoning, and symmetry restoration in return-to-sport decision-making. # Level of Evidence 4.",
-   "doi": "10.26603/001c.165381",
-   "pubtypes": [
-    "Case Reports",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42549193/",
    "matched": [
     {
      "id": "burden-cost",
@@ -452,6 +369,34 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42686180",
+   "title": "Asymmetry of Single-Leg Vertical Hop Performance and Biomechanics in Adolescent Athletes With Anterior Cruciate Ligament Reconstruction.",
+   "journal": "JOSPT Open",
+   "year": "2026",
+   "authors": [
+    "Ciccodicola EM",
+    "Hanson AM",
+    "Roberts SE",
+    "Katzel MJ",
+    "et al."
+   ],
+   "abstract": "OBJECTIVE: To assess single-leg vertical hop (SLVH) symmetry in adolescent athletes with anterior cruciate ligament reconstruction (ACLR), comparing injured to uninjured limbs. DESIGN: Retrospective cohort study. METHODS: Nineteen patients (15 female; mean age=16.3 years; mean=9.2 months post-ACLR) underwent three-dimensional motion analysis during SLVH. Hop performance and biomechanics were compared between ACLR and contralateral limbs using Wilcoxon signed rank tests. RESULTS: Hop height was significantly lower for the ACLR limb compared with the contralateral side (P = .028), with a median limb symmetry index (LSI) of 92.3%. Biomechanical variables demonstrated asymmetry, including peak knee and ankle flexion angles, peak knee flexion moment, total power generation, total power absorption, and percent power absorption contributed by the knee (all P \u2264 .037) even in participants who achieved hop height symmetry (LSIheight \u226590%). CONCLUSION: Adolescent athletes in late-stage rehabilitation post-ACLR had interlimb asymmetry of biomechanics during the SLVH, indicating deficiencies of their ACLR limb and decreased readiness for return to sport. JOSPT Open 2026;4(3):321-327. Epub 18 May 2026. doi:10.2519/josptopen.2026.0199.",
+   "doi": "10.2519/josptopen.2026.0199",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686180/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -697,6 +642,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42684321",
+   "title": "Comparative return to play and performance outcomes following lower extremity injuries in European professional soccer: a systematic review and meta-analysis.",
+   "journal": "Phys Sportsmed",
+   "year": "2026",
+   "authors": [
+    "Mbengue A",
+    "Galardi W",
+    "McIntyre C",
+    "Woodhams W",
+    "et al."
+   ],
+   "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2=70.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2=0%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
+   "doi": "10.1080/00913847.2026.2726181",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42684321/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42594821",
    "title": "Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.",
    "journal": "J Biomech",
@@ -771,6 +745,31 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42591514/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42686184",
+   "title": "Decel to Excel: Translating Countermovement Jump Metrics Into Targeted Rehabilitation Strategies for Return to Play.",
+   "journal": "JOSPT Open",
+   "year": "2026",
+   "authors": [
+    "Sheth NB",
+    "Elis J"
+   ],
+   "abstract": "BACKGROUND: Athletes often return to sport despite persistent neuromuscular deficits that impair deceleration, force attenuation, and reacceleration following change of direction-qualities that are essential for sport performance and injury risk reduction. Return-to-play (RTP) criteria have frequently relied on global outputs or symmetry thresholds, which may fail to detect subtle limitations. Building on our original Decel to Excel framework, advanced force plate metrics provide an opportunity to better characterize late-stage performance readiness. CLINICAL QUESTION: How can force plate metrics guide phase-specific rehabilitation throughout the course of care? We expand the Decel to Excel framework, which integrates clinically meaningful force plate metrics, with phase-specific rehabilitation strategies to inform RTP decision making. KEY RESULTS: Countermovement jump-derived force plate metrics, offer insight into limb- and phase-specific neuromuscular qualities not captured by jump height or distance alone. Persistent deficits in these metrics are often missed following lower-limb injury, particularly anterior cruciate ligament reconstruction, and are associated with altered movement strategies during sport-specific tasks. We outline practical methods for interpreting force traces, linking metric-specific deficits to observable movement patterns, and selecting targeted rehabilitation interventions. CLINICAL IMPLICATIONS: Integrating force plate metrics within a structured workflow allows clinicians to individualize late-stage rehabilitation, enhance interdisciplinary communication, and move beyond symmetry-based RTP thresholds. The Decel to Excel 2.0 framework helps to close the gap between objective data and clinical decision making to support safer and more performance-relevant RTP outcomes. JOSPT Open 2026;4(3):247-253. Epub 3 June 2026. doi:10.2519/josptopen.2026.0215.",
+   "doi": "10.2519/josptopen.2026.0215",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42686184/",
    "matched": [
     {
      "id": "return-to-play",
@@ -1739,34 +1738,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42606090/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42548634",
-   "title": "Risk factors and postoperative complications following revision total knee arthroplasty in patients with metabolic syndrome-associated osteoarthritis: a 10-year retrospective analysis using a national inpatient database.",
-   "journal": "Front Endocrinol (Lausanne)",
-   "year": "2026",
-   "authors": [
-    "Yuan M",
-    "Xie H",
-    "He Y",
-    "Qin Y",
-    "et al."
-   ],
-   "abstract": "The aim of this study was to examine temporal trends in metabolic syndrome-associated osteoarthritis (MetS-OA) among patients undergoing revision total knee arthroplasty (RTKA) and to identify patient- and clinical-level factors associated with this condition and related outcomes. A retrospective cohort analysis was conducted using data from the Nationwide Inpatient Sample from 2010 through 2019. Patient demographics, hospital characteristics, length of stay, total hospitalization charges, in-hospital mortality, comorbid conditions, and perioperative complications were assessed. All analyses incorporated NIS discharge weights, and multivariable logistic regression models were used to assess associations between MetS-OA and clinical outcomes among patients undergoing RTKA. Among 1,361,454 RTKA hospitalizations identified, 1,330,099 RTKA hospitalizations were included in the analysis. The overall prevalence of MetS-OA was 16.1%, demonstrating a progressive increase from 2011 through 2019. Factors independently associated with MetS-OA included advanced age, male sex, non-White racial background, and the presence of comorbid conditions such as chronic pulmonary disease, depression, and hypothyroidism. Patients with MetS-OA experienced slightly longer hospital stays and incurred higher median total hospitalization charges, exceeding those without MetS-OA by $1,445.50. In-hospital mortality did not differ significantly between groups. MetS-OA was also associated with a higher likelihood of postoperative complications, including acute myocardial infarction, severe malnutrition, acute cerebrovascular disease, postoperative delirium, acute respiratory distress syndrome, prolonged mechanical ventilation, urinary tract infections, acute renal failure, and lower limb nerve injury. The prevalence of MetS-OA among patients undergoing RTKA has increased over time and is associated with a higher burden of postoperative complications and healthcare utilization. Patient- and hospital-level factors play a substantial role in shaping these outcomes. Targeted preoperative optimization and standardized perioperative management strategies for patients with MetS-OA may mitigate adverse events, enhance postoperative recovery, and reduce overall hospitalization charges.",
-   "doi": "10.3389/fendo.2026.1820941",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42548634/",
    "matched": [
     {
      "id": "burden-cost",

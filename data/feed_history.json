@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42694058",
+  "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
+  "journal": "Int J Sports Phys Ther",
+  "year": "2026",
+  "authors": [
+   "Raji Y",
+   "Luft RE",
+   "Pierre KJ",
+   "VitoCruz F",
+   "et al."
+  ],
+  "abstract": "The Functional Lower Extremity Evaluation (FLEE) is a validated assessment tool designed to assess lower limb function and symmetry. There is a gap in knowledge in return to sport (RTS) regarding the application of the FLEE in RTS rehabilitation protocols following hip arthroscopy. The purpose of this case series was to assess the utility of the FLEE in guiding RTS rehabilitation protocols for collegiate athletes after hip arthroscopy and to evaluate lower limb symmetry using FLEE components. Among collegiate athletes recovering from hip arthroscopy, the Functional Lower Extremity Evaluation (FLEE) will detect measurable differences in limb symmetry and will provide clinically meaningful guidance for return-to-sport rehabilitation. Study design: Retrospective case series. A retrospective review of collegiate athletes who had undergone hip arthroscopy for femoroacetabular impingement (FAI) was performed at a single institution between January 2012 to January 2024. Inclusion criteria were completion of post-operative rehabilitation with full FLEE testing at return-to-sport clearance. The eight-task FLEE assessment was administered postoperatively beginning at 4 months. Percent limb symmetry was calculated for each component. RTS, re-injury and re-operations rates were monitored for a mean of 52.9 weeks postoperatively. Descriptive statistics were calculated for demographic variables, FLEE component scores, and percent limb symmetry. Continuous variables were summarized as means and standard deviations, while categorical variables were presented as frequencies and percentages. Four collegiate athletes (3 males, 1 female; mean age - 19 years) were included, representing football (n=2), basketball (n=1) and swimming and diving (n=1). Athletes demonstrated improvements in all FLEE components following rehabilitation, achieving RTS clearance at a mean of 5.75 months \u00b1 1.44 months. All athletes returned to competitive sports at the same or higher level. No re-injuries or re-operations occurred at a mean follow-up of 52.89 months. Limb symmetry ranged from 97.95% to 110.04% across FLEE components. The FLEE may be a valuable instrument for assessing lower extremity function and symmetry in college athletes undergoing RTS rehabilitation after hip arthroscopy. These findings suggest that the FLEE may aid in guiding individualized rehabilitation programs and monitoring progress towards RTS goals. Larger, prospective studies are warranted to validate these findings. Level IV Case Series.",
+  "doi": "10.26603/001c.167445",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42694058/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-04T17:03:38Z"
+ },
+ {
   "pmid": "42686180",
   "title": "Asymmetry of Single-Leg Vertical Hop Performance and Biomechanics in Adolescent Athletes With Anterior Cruciate Ligament Reconstruction.",
   "journal": "JOSPT Open",
