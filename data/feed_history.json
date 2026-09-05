@@ -1,5 +1,27 @@
 [
  {
+  "pmid": "42697097",
+  "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
+  "journal": "Am J Emerg Med",
+  "year": "2026",
+  "authors": [
+   "Yorgun M",
+   "Ta\u015f O"
+  ],
+  "abstract": "Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation. In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed. Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation. ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
+  "doi": "10.1016/j.ajem.2026.08.052",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42697097/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-05T16:13:58Z"
+ },
+ {
   "pmid": "42694058",
   "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
   "journal": "Int J Sports Phys Ther",

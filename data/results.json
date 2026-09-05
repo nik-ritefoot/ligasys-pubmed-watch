@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T17:03:38+00:00",
+ "generated": "2026-09-05T16:13:58+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,34 +65,31 @@
   }
  ],
  "counts": {
-  "total": 75,
+  "total": 73,
   "new": 1,
-  "research": 24,
-  "fieldnotes": 51
+  "research": 23,
+  "fieldnotes": 50
  },
  "records": [
   {
-   "pmid": "42694058",
-   "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
-   "journal": "Int J Sports Phys Ther",
+   "pmid": "42697097",
+   "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
+   "journal": "Am J Emerg Med",
    "year": "2026",
    "authors": [
-    "Raji Y",
-    "Luft RE",
-    "Pierre KJ",
-    "VitoCruz F",
-    "et al."
+    "Yorgun M",
+    "Ta\u015f O"
    ],
-   "abstract": "The Functional Lower Extremity Evaluation (FLEE) is a validated assessment tool designed to assess lower limb function and symmetry. There is a gap in knowledge in return to sport (RTS) regarding the application of the FLEE in RTS rehabilitation protocols following hip arthroscopy. The purpose of this case series was to assess the utility of the FLEE in guiding RTS rehabilitation protocols for collegiate athletes after hip arthroscopy and to evaluate lower limb symmetry using FLEE components. Among collegiate athletes recovering from hip arthroscopy, the Functional Lower Extremity Evaluation (FLEE) will detect measurable differences in limb symmetry and will provide clinically meaningful guidance for return-to-sport rehabilitation. Study design: Retrospective case series. A retrospective review of collegiate athletes who had undergone hip arthroscopy for femoroacetabular impingement (FAI) was performed at a single institution between January 2012 to January 2024. Inclusion criteria were completion of post-operative rehabilitation with full FLEE testing at return-to-sport clearance. The eight-task FLEE assessment was administered postoperatively beginning at 4 months. Percent limb symmetry was calculated for each component. RTS, re-injury and re-operations rates were monitored for a mean of 52.9 weeks postoperatively. Descriptive statistics were calculated for demographic variables, FLEE component scores, and percent limb symmetry. Continuous variables were summarized as means and standard deviations, while categorical variables were presented as frequencies and percentages. Four collegiate athletes (3 males, 1 female; mean age - 19 years) were included, representing football (n=2), basketball (n=1) and swimming and diving (n=1). Athletes demonstrated improvements in all FLEE components following rehabilitation, achieving RTS clearance at a mean of 5.75 months \u00b1 1.44 months. All athletes returned to competitive sports at the same or higher level. No re-injuries or re-operations occurred at a mean follow-up of 52.89 months. Limb symmetry ranged from 97.95% to 110.04% across FLEE components. The FLEE may be a valuable instrument for assessing lower extremity function and symmetry in college athletes undergoing RTS rehabilitation after hip arthroscopy. These findings suggest that the FLEE may aid in guiding individualized rehabilitation programs and monitoring progress towards RTS goals. Larger, prospective studies are warranted to validate these findings. Level IV Case Series.",
-   "doi": "10.26603/001c.167445",
+   "abstract": "Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation. In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed. Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation. ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
+   "doi": "10.1016/j.ajem.2026.08.052",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42694058/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42697097/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -526,34 +523,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42554668",
-   "title": "Case study evaluation of stability and mobility in a length-actuated transfemoral prosthesis.",
-   "journal": "Prosthet Orthot Int",
-   "year": "2026",
-   "authors": [
-    "Parr TE",
-    "Lv G",
-    "Hippensteal A",
-    "Pitts C",
-    "et al."
-   ],
-   "abstract": "Unilateral transfemoral prosthesis users experience increased gait compensations, possibly because of their inability to produce sufficient knee flexion resistance during stance, ankle plantar flexion for forward progression, and leg shortening for toe clearance. This case study evaluates a novel kneeless prosthesis with powered length actuation (lengthening for push-off and shortening for toe clearance), which was hypothesized to result in greater stability, easier toe clearance, and assisted-forward progression, toward improving compensatory mechanisms of prosthesis users. Two persons with unilateral transfemoral amputation walked with both their habitual devices and the length-actuated prosthesis. Quantitative metrics of knee stability (thigh velocity and hip flexion/extension moment), mobility (ankle power, pelvis obliquity, hip abduction, toe clearance) and qualitative rankings were collected for both devices. Stability-related results showed increased confidence in the length-actuated prosthesis' knee buckling avoidance with decreased prosthetic-side early stance hip extension and swing hip flexion angle/velocity. Mobility-related metrics showed decreased confidence in the length-actuated prosthesis' toe clearance with increased frontal plane compensations and push-off ankle power (vaulting). Although both participants were encouraging of the overall concept, the user with higher mobility and a microprocessor knee preferred his own device, whereas the user with lower mobility and a passive knee preferred the length-actuated prosthesis. Both users had increased confidence (and decreased compensations) in knee stability during stance but continued to have compensations during swing to ease toe clearance. The device received positive feedback and was well received by the participant with a more recent amputation, knee buckling difficulty, and lower mobility level.",
-   "doi": "10.1097/PXR.0000000000000557",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42554668/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42599019",
    "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
    "journal": "Am J Sports Med",
@@ -587,35 +556,8 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42555525",
-   "title": "Chronic Ankle Instability and Low Back Pain: A Narrative Review With a Conceptual Framework Linking Distal and Proximal Sensorimotor Dysfunction.",
-   "journal": "Physiother Res Int",
-   "year": "2026",
-   "authors": [
-    "Abdallah EA",
-    "Elshinnawy AM",
-    "Abdelhaleem MD"
-   ],
-   "abstract": "Chronic ankle instability and chronic low back pain are highly prevalent in musculoskeletal conditions. Emerging evidence suggests that they are interconnected through shared biomechanical, neuromuscular, and neurophysiological mechanisms, where deficits in proprioception, postural control, and load distribution contribute to persistent dysfunction across the kinetic chain. This study employed a narrative review with a conceptual framework, incorporating evidence from biomechanical, neuromuscular, and neurophysiological studies found through targeted database searches (PubMed, Scopus, and Google Scholar 2019-2025). Findings were thematically analyzed to establish connections between distal and proximal dysfunction within the kinetic chain. A total of 23 studies were included. Overall, the evidence suggests consistent distal-to-proximal alterations in individuals with chronic ankle instability, including impaired ankle biomechanics, compensatory lumbopelvic movement patterns, and deficits in proprioception and neuromuscular control. Emerging findings also indicate neurophysiological adaptations affecting sensorimotor integration. Collectively, these findings suggest a potential association between chronic ankle instability and chronic low back pain. Chronic ankle instability and chronic low back pain may coexist within a functionally interconnected kinetic system. Recognizing their potential interdependence supports a model of multi-segmental stability and highlights the importance of combined ankle-core rehabilitation strategies.",
-   "doi": "10.1002/pri.70307",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42555525/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42607798",
-   "title": "Clinical Outcomes Following Platelet-Rich Plasma Injection for Plantar Plate Injuries at Midterm Follow-up.",
+   "title": "Clinical outcomes following platelet-rich plasma injection for plantar plate injuries at midterm follow-up.",
    "journal": "J Foot Ankle Surg",
    "year": "2026",
    "authors": [
@@ -625,7 +567,7 @@
     "Walls C",
     "et al."
    ],
-   "abstract": "Evidence supporting platelet-rich plasma (PRP) injection for plantar plate injuries remains limited. To evaluate patient-reported outcomes, return to activity, complications, and failures at midterm follow-up in patients with plantar plate injuries treated with PRP injection. Retrospective case series evaluating outcomes following PRP injection for plantar plate injuries. Patients with plantar plate injuries were treated with ultrasound-guided PRP injection following failure of nonoperative management. Clinical outcomes evaluated were Foot and Ankle Outcome Score (FAOS) and Visual Analog Scale (VAS). Complications and failures were also reported. Twenty patients (23 feet) with a mean age of 51.0 \u00b1 14.5 years and mean follow-up time of 58.0 \u00b1 28.4 months were included. Mean FAOS scores improved 32.2 points (p < 0.001), with 20 of 23 (87%) feet achieving the minimal clinically important difference (MCID). Mean VAS scores improved 4.5 points (p < 0.001), with 19 of 23 (83%) feet achieving the MCID. Among 10 athletes, 7 (70%) returned to sport at a mean time of 3.1 \u00b1 1.1 months. Complications occurred in 1 of 23 (4%) feet, and 3 of 23 (13%) feet required subsequent surgical intervention. At midterm follow-up, PRP injection for plantar plate injuries was associated with significant clinical improvement and a favorable safety profile, suggesting a potential role as an intermediary treatment option between conservative management and surgery. Female sex, smoking history, and higher-grade injuries were associated with inferior outcomes, underscoring the importance of individualized patient counseling and injury severity assessment. IV, retrospective case series.",
+   "abstract": "Evidence supporting platelet-rich plasma (PRP) injection for plantar plate injuries remains limited. To evaluate patient-reported outcomes, return to activity, complications, and failures at midterm follow-up in patients with plantar plate injuries treated with PRP injection. Retrospective case series evaluating outcomes following PRP injection for plantar plate injuries. Patients with plantar plate injuries were treated with ultrasound-guided PRP injection following failure of nonoperative management. Clinical outcomes evaluated were Foot and Ankle Outcome Score (FAOS) and Visual Analog Scale (VAS). Complications and failures were also reported. Twenty patients (23 feet) with a mean age of 51.0 \u00b1 14.5 years and mean follow-up time of 58.0 \u00b1 28.4 months were included. Mean FAOS scores improved 32.2 points (p < 0.001), with 20 of 23 (87%) feet achieving the minimal clinically important difference (MCID). Mean VAS scores improved 4.5 points (p < 0.001), with 19 of 23 (83%) feet achieving the MCID. Among 10 athletes, 7 (70%) returned to sport at a mean time of 3.1 \u00b1 1.1 months. Complications occurred in 1 of 23 (4%) feet, and 3 of 23 (13%) feet required subsequent surgical intervention. At midterm follow-up, PRP injection for plantar plate injuries was associated with significant clinical improvement and a favorable safety profile, suggesting a potential role as an intermediary treatment option between conservative management and surgery. Female sex, smoking history, and higher-grade injuries were associated with inferior outcomes, underscoring the importance of individualized patient counseling and injury severity assessment.",
    "doi": "10.1053/j.jfas.2026.08.012",
    "pubtypes": [
     "Journal Article"
@@ -1867,34 +1809,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42553458",
-   "title": "Sport Injury Profile and Influence of Playing Position in Egyptian Professional Soccer Players: A Prospective Cohort Study.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Haroun HK",
-    "El Ghazaly SA",
-    "Elzifzaf DS",
-    "Elsayed MA",
-    "et al."
-   ],
-   "abstract": "Despite soccer's popularity in Egypt, no comprehensive epidemiological studies have examined injury distribution by playing position. To characterize the injury profile of Egyptian professional soccer players and assess differences by playing position. Cohort study; Level of evidence, 2. A prospective cohort study was conducted across 12 soccer clubs in the Egyptian professional league during the 2022 to 2023 season. Player exposure was recorded using a standardized form. Injuries were documented by medical staff. Data were collected on player demographics, injury profile, and diagnostic modalities. Associations between categorical injury variables and position were assessed using chi-square tests with Cram\u00e9r V, followed by post hoc analysis using adjusted residuals. Among 384 male players, midfielders were the largest group (38.5%), followed by forwards (27.9%), defenders (22.1%), and goalkeepers (11.5%). There were 422 time-loss injuries (incidence: 2.36/1000 player-hours). Goalkeepers were taller (182 \u00b1 5 cm) and heavier (74.5 \u00b1 3.9 kg) than defenders (178 \u00b1 4 cm; 70.2 \u00b1 5.1 kg), midfielders (175 \u00b1 3 cm; 67.2 \u00b1 4.8 kg), and forwards (175 \u00b1 4 cm; 67.1 \u00b1 5.5 kg); all P < .001. Exposure hours differed by position (P = .007): goalkeepers, 403.7 \u00b1 112.9 h; defenders, 405.1 \u00b1 108.5 h; midfielders, 447.3 \u00b1 106.7 h; and forwards, 411.8 \u00b1 108.9 h. Injury incidence showed no positional variation (P = .07): goalkeepers, 2.54 (IQR, 2.1-3.2); defenders, 2.38 (IQR, 2.2-3.2); midfielders, 2.19 (IQR, 1.9-3.1); and forwards, 2.38 (IQR, 2.1-3.2) per 1000 h. Goalkeepers sustained more nervous system/soft tissue injuries, upper limb/head injuries, contact injuries, first-time training injuries, and minimal degree injuries, and were more often diagnosed by imaging. Among outfield players, defenders were taller and heavier, midfielders had more overstretch injuries with shorter layoffs, and forwards had more severe injuries. Outfield injuries relied more on clinical assessment (36.1%). Our study showed that injury patterns among Egyptian professional soccer players vary significantly by playing position. While muscle/tendon and lower limb injuries are common overall, the 4 positions exhibit distinct anthropometric, injury mechanism, site, severity, and diagnostic profiles. These findings recommend position-specific injury prevention and rehabilitation in Egyptian professional soccer.",
-   "doi": "10.1177/23259671261464701",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42553458/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42663402",
    "title": "Sprint Mechanics Differ Between Pre-injury and Return-to-Sport After Hamstring Strain Injury: A Comparative Statistical Analysis with Machine Learning.",
    "journal": "Med Sci Sports Exerc",
@@ -2167,6 +2081,34 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42694058",
+   "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
+   "journal": "Int J Sports Phys Ther",
+   "year": "2026",
+   "authors": [
+    "Raji Y",
+    "Luft RE",
+    "Pierre KJ",
+    "VitoCruz F",
+    "et al."
+   ],
+   "abstract": "The Functional Lower Extremity Evaluation (FLEE) is a validated assessment tool designed to assess lower limb function and symmetry. There is a gap in knowledge in return to sport (RTS) regarding the application of the FLEE in RTS rehabilitation protocols following hip arthroscopy. The purpose of this case series was to assess the utility of the FLEE in guiding RTS rehabilitation protocols for collegiate athletes after hip arthroscopy and to evaluate lower limb symmetry using FLEE components. Among collegiate athletes recovering from hip arthroscopy, the Functional Lower Extremity Evaluation (FLEE) will detect measurable differences in limb symmetry and will provide clinically meaningful guidance for return-to-sport rehabilitation. Study design: Retrospective case series. A retrospective review of collegiate athletes who had undergone hip arthroscopy for femoroacetabular impingement (FAI) was performed at a single institution between January 2012 to January 2024. Inclusion criteria were completion of post-operative rehabilitation with full FLEE testing at return-to-sport clearance. The eight-task FLEE assessment was administered postoperatively beginning at 4 months. Percent limb symmetry was calculated for each component. RTS, re-injury and re-operations rates were monitored for a mean of 52.9 weeks postoperatively. Descriptive statistics were calculated for demographic variables, FLEE component scores, and percent limb symmetry. Continuous variables were summarized as means and standard deviations, while categorical variables were presented as frequencies and percentages. Four collegiate athletes (3 males, 1 female; mean age - 19 years) were included, representing football (n=2), basketball (n=1) and swimming and diving (n=1). Athletes demonstrated improvements in all FLEE components following rehabilitation, achieving RTS clearance at a mean of 5.75 months \u00b1 1.44 months. All athletes returned to competitive sports at the same or higher level. No re-injuries or re-operations occurred at a mean follow-up of 52.89 months. Limb symmetry ranged from 97.95% to 110.04% across FLEE components. The FLEE may be a valuable instrument for assessing lower extremity function and symmetry in college athletes undergoing RTS rehabilitation after hip arthroscopy. These findings suggest that the FLEE may aid in guiding individualized rehabilitation programs and monitoring progress towards RTS goals. Larger, prospective studies are warranted to validate these findings. Level IV Case Series.",
+   "doi": "10.26603/001c.167445",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42694058/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
