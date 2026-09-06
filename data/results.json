@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-05T16:13:58+00:00",
+ "generated": "2026-09-06T16:25:13+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,27 +65,87 @@
   }
  ],
  "counts": {
-  "total": 73,
-  "new": 1,
-  "research": 23,
-  "fieldnotes": 50
+  "total": 75,
+  "new": 3,
+  "research": 24,
+  "fieldnotes": 51
  },
  "records": [
   {
-   "pmid": "42697097",
-   "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
-   "journal": "Am J Emerg Med",
+   "pmid": "42699488",
+   "title": "Association Between Playing Surface and Anterior Cruciate Ligament (ACL) Injury Risk in the National Football League: A Systematic Review and Exploratory Meta-Analysis.",
+   "journal": "Cureus",
    "year": "2026",
    "authors": [
-    "Yorgun M",
-    "Ta\u015f O"
+    "Vemugunta V",
+    "Touheed A",
+    "Mahamkali A",
+    "Runnells H",
+    "et al."
    ],
-   "abstract": "Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation. In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed. Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation. ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
-   "doi": "10.1016/j.ajem.2026.08.052",
+   "abstract": "In professional sports, anterior cruciate ligament (ACL) ruptures are among the most consequential injuries, especially in American football. This review set out to determine whether National Football League (NFL) players are more likely to sustain ACL injuries on artificial turf than on natural grass. To answer this, studies were gathered from PubMed, and the review process followed PRISMA 2020 guidelines to ensure clear and reliable reporting. Ten studies met the inclusion criteria: eight on NFL epidemiology or clinical outcomes, one systematic review covering multiple sports, and one biomechanical study. For all studies with multiple populations, data extraction and analysis were limited to the NFL stratum, comparing ACL injury outcomes between artificial turf and natural grass within this group of professional athletes. When looking at the total number of ACL injuries across NFL studies, the counts were either close between artificial turf and natural grass or slightly higher on grass. But after adjusting for how often each surface was used, the rate of ACL injuries was the same or higher on artificial turf. This pattern held whether exposure was expressed per game or per team-game, and whether the comparison was reported as an injury rate, an incidence-density ratio, or an odds ratio; no individual comparison reached statistical significance. Through an exploratory random-effects meta-analysis of four recent NFL studies, calculated through the Hartung-Knapp method, we found a small increase in injury rates on turf, with a pooled estimate modestly above the null. This trend remained steady even when each study was left out one by one. However, the difference wasn't statistically significant, and because these studies often overlapped in the seasons they covered, the authors view these results as an early indication rather than a definitive conclusion. Other findings back up this tendency: knee injuries overall, and noncontact knee injuries in particular, occurred at higher rates on synthetic turf, and season-ending surgeries, usually ACL reconstructions, were also more common after injuries sustained on turf. Previous pooled studies show that the increased risk of ACL injury is specific to American football, while biomechanical evidence suggests that natural grass reduces the force transmitted through the cleat. None of the NFL studies show a statistically significant increase in ACL injuries on artificial turf when considered individually. However, after accounting for exposure, the direction of the data, results from pooled analyses, higher rates of season-ending surgery, and biomechanical findings all suggest that ACL injuries could be more common on synthetic surfaces. A clearer understanding of these trends will be essential for guiding future decisions on field surfaces and supporting the long-term health and safety of NFL athletes.",
+   "doi": "10.7759/cureus.113994",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699488/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42699653",
+   "title": "Epidemiology of acute sports injuries in Hong Kong elite fencing athletes: A retrospective analysis of prospectively collected injury surveillance data.",
+   "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
+   "year": "2026",
+   "authors": [
+    "Leung WC",
+    "Yung KK",
+    "Habiba U",
+    "Tung MJ",
+    "et al."
+   ],
+   "abstract": "This research investigates the epidemiology of acute sports injuries amongst elite fencers in Hong Kong, focusing on the unique injury risks associated with the sport's specialized techniques and equipment. A retrospective analysis of prospectively collected injury surveillance data was conducted involving 61 elite fencers from the Hong Kong Sports Institute over one competitive season, from October 2022 to October 2023. Injury data were collected and analyzed to determine incidence rates, types, locations, and mechanisms of injuries. There were 182 recorded injuries, resulting in an overall injury incidence rate of 2.84 per 1000 training hours (95% CI: 2.43-3.26). Sabre fencers had the highest injury rate at 3.17 per 1000\u202fh (95% CI: 2.47-3.86), followed by Epee at 3.05 (95% CI: 2.26-3.83) and Foil at 2.23 (95% CI: 1.57-2.88). Sprains (39.0%) and strains (28.6%) were the most common injury types, with the hand (16.5%), ankle (13.7%), and thigh (12.1%) being the most injured areas. Non-contact injuries predominated (61.5%), mostly affecting the lower extremities (67.0% of non-contact injuries), while contact mechanisms (26.4%) primarily impacted the upper limbs. Analysis of inciting events identified \"landing\" and \"collision\" as the most common identifiable causes. Time loss occurred in 5.5% of injuries, with 50% causing 8-12 days of absence, primarily due to strains (40%) and concussions (30%). No substantial difference was observed in injury rates between males and females (RR: 0.995, 95% CI: 0.74-1.33, p\u202f=\u202f0.974). Elite fencers in Hong Kong sustained injuries at 2.84 per 1000 training hours, predominantly non-contact sprains and strains affecting the lower extremities. Sabre showed the highest injury rate compared to other disciplines. Time-loss injuries were uncommon (5.5%), reflecting mild injury severity. Targeted prevention strategies for sabre fencers and lower extremity injuries are warranted to optimize athlete safety.",
+   "doi": "10.1016/j.asmart.2026.08.005",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42697097/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699653/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42699755",
+   "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
+   "journal": "Afr J Emerg Med",
+   "year": "2026",
+   "authors": [
+    "Gorleku PN",
+    "Quarshie F",
+    "Nuer M",
+    "Attipoe PW",
+    "et al."
+   ],
+   "abstract": "Motorcycle accidents are a leading cause of traumatic injuries, including bone fractures, dislocations, and soft tissue damage. Despite the growing concern about motorcycle-related injuries, there is a paucity of research. This study assessed traumatic bone injuries secondary to motorcycle accidents in Ghana. This multi-center quantitative study employed a cross-sectional design to examine plain X-ray reports of 1736 patients with traumatic bone injuries due to motorcycle accidents from January 2020 to December 2023. Data collected were analyzed using SPSS version 25. Statistical significance was set at p-value \u2264 0.05. The prevalence rate of traumatic bone injuries due to motorcycle accidents was 82.9%, and the mortality rate was 10.3%. The tibia/fibula (43.3%), femur (20.6%), and the skull (9.3%) were the most fractured bones, whilst dislocations frequently occurred at the ankle, shoulder, and elbow joints. Fractures of the skull (67.3%, p=0.041) and spine (69.0%, p=0.002) were more common among the passengers. Passengers disproportionately sustained more fractures (50.9%) and dislocations (57.8%) than motorcycle riders. The mortality rates among patients with spine/neck and skull injuries were 85.3% and 65.0%, respectively (p<0.001). The observed increasing annual trend in traumatic bone injury cases underscores a growing burden on emergency departments and highlights the urgent need for strengthened emergency medicine systems, including rapid triage, timely imaging, and coordinated trauma care. This trend also reinforces the importance of targeted motorcycle injury prevention strategies and policy interventions, alongside improved pre-hospital and emergency response services, to reduce both the incidence and severity of motorcycle-related injuries in Ghana.",
+   "doi": "10.1016/j.afjem.2026.101002",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
    "matched": [
     {
      "id": "burden-cost",
@@ -595,7 +655,7 @@
     "Woodhams W",
     "et al."
    ],
-   "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2=70.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2=0%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
+   "abstract": "Lower extremity injuries are common in professional soccer and can significantly impact return to play (RTP) and player performance. While individual injuries have been studied, comparative data across injury types remain limited. To systematically evaluate return to play rate (RTPR), return to play time (RTPT), and post-injury performance outcomes following lower extremity injuries in professional European soccer players. Systematic review and meta-analysis; Level of evidence, 4. A systematic search of PubMed and Embase was performed in accordance with PRISMA guidelines, covering database inception through May 2026 (initial search conducted January 2024; updated May 2026). Studies evaluating professional European soccer players with lower extremity injuries and reporting RTP outcomes were included. Primary outcomes were RTPR and RTPT. Secondary outcomes included post-injury performance metrics. A random-effects meta-analysis of proportions was performed for anterior cruciate ligament (ACL) injuries and Achilles tendon ruptures. Twenty-nine studies met inclusion criteria. ACL injuries demonstrated RTPR ranging from 80% to 95%, with RTPT of 215-267\u2009days, and were associated with persistent declines in performance metrics, including minutes played and offensive production. Achilles tendon ruptures had RTPR of 70% to 78% and RTPT of 119-161\u2009days, with significant short-term reductions in performance. Meniscus and medial collateral ligament (MCL) injuries demonstrated lower RTPR (approximately 70%) but shorter recovery timelines. Adductor and hamstring injuries were associated with the shortest RTPT (approximately 15-24\u2009days) and minimal long-term performance decline. Meta-analysis demonstrated a pooled RTPR of 90.3% (95% CI, 81.2%-95.2%; I2\u2009=\u200970.6%) for ACL injuries and 76.6% (95% CI, 69.2%-82.7%; I2\u2009=\u20090%) for Achilles tendon ruptures. Among lower extremity injuries in professional European soccer, ACL injuries and Achilles tendon ruptures are associated with the greatest impact on RTP and player performance, whereas muscle injuries are associated with faster recovery and less sustained performance decline. As all included studies were observational, these findings represent associations rather than causal relationships and should be interpreted accordingly. These findings may assist clinicians and teams in prognostication and return-to-play decision-making.",
    "doi": "10.1080/00913847.2026.2726181",
    "pubtypes": [
     "Journal Article",
@@ -921,6 +981,31 @@
    "bucket": "research"
   },
   {
+   "pmid": "42697097",
+   "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
+   "journal": "Am J Emerg Med",
+   "year": "2026",
+   "authors": [
+    "Yorgun M",
+    "Ta\u015f O"
+   ],
+   "abstract": "Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation. In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed. Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation. ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
+   "doi": "10.1016/j.ajem.2026.08.052",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42697097/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42654398",
    "title": "Epidemiology of Match Injuries in Portuguese Senior Male Rugby Union XV: A Prospective Cohort Study.",
    "journal": "Medicina (Kaunas)",
@@ -1087,34 +1172,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42559571",
-   "title": "Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation.",
-   "journal": "Measurement (Lond)",
-   "year": "2026",
-   "authors": [
-    "Lim H",
-    "Lee J",
-    "Save OM",
-    "Lee H",
-    "et al."
-   ],
-   "abstract": "Wearable sensor-based gait analysis has broad applicability across healthcare, rehabilitation, and injury prevention. Ground reaction force (GRF) provides key insight into human-ground interactions but is typically measured with instrumented treadmills and force plates that are costly and confined to laboratory settings. Insole sensors offer a portable alternative, but their sensings are often noisy and susceptible to environmental interference. Deep learning can mitigate these issues, but high accuracy usually demands substantial compute, hindering real-time and on-device utilization. With these, knowledge distillation can be adopted as a promising solution to generate a compact model. However, many feature- and relation-based distillation methods compute teacher-student relations using fixed similarity or metric operators, such as inner products and Euclidean distances. directly on intermediate representations. Although these have been widely used in feature matching, they do not explicitly learn a shared nonlinear feature geometry in which teacher and student relations are compared. This can also be limiting when the teacher and student have different capacities, channel widths, and representation distributions. To address these issues, we propose Geometric Feature Relationship-Based Knowledge Distillation for Ground Reaction Force Estimation, GFKD. During distillation, intermediate features from the teacher and student are leveraged in a teacher-student shared assistant module (TSM) that operates a shared intermediate alignment between their representations. TSM computes nonlinear geometric relations and encourages the student to capture them, providing geometry-aware supervision instead of general direct feature matching. In our experiments, students distilled by GFKD outperforms recent baselines for GRF estimation, showing the robustness of the proposed method in both accuracy as well as resource-efficiency.",
-   "doi": "10.1016/j.measurement.2026.122341",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42559571/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42606584",
