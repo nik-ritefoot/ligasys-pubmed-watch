@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T16:25:13+00:00",
+ "generated": "2026-09-07T18:22:39+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,63 +65,34 @@
   }
  ],
  "counts": {
-  "total": 75,
+  "total": 73,
   "new": 3,
-  "research": 24,
-  "fieldnotes": 51
+  "research": 23,
+  "fieldnotes": 50
  },
  "records": [
   {
-   "pmid": "42699488",
-   "title": "Association Between Playing Surface and Anterior Cruciate Ligament (ACL) Injury Risk in the National Football League: A Systematic Review and Exploratory Meta-Analysis.",
-   "journal": "Cureus",
+   "pmid": "42702977",
+   "title": "Coupled Neuromusculoskeletal Finite Element Simulation Reveals Biomechanical Adaptation and Joint Tissue Risk of Ankle Exoskeleton Intervention after Stroke.",
+   "journal": "Soft Robot",
    "year": "2026",
    "authors": [
-    "Vemugunta V",
-    "Touheed A",
-    "Mahamkali A",
-    "Runnells H",
+    "Gao Y",
+    "Wang S",
+    "Lin Y",
+    "Wang Z",
     "et al."
    ],
-   "abstract": "In professional sports, anterior cruciate ligament (ACL) ruptures are among the most consequential injuries, especially in American football. This review set out to determine whether National Football League (NFL) players are more likely to sustain ACL injuries on artificial turf than on natural grass. To answer this, studies were gathered from PubMed, and the review process followed PRISMA 2020 guidelines to ensure clear and reliable reporting. Ten studies met the inclusion criteria: eight on NFL epidemiology or clinical outcomes, one systematic review covering multiple sports, and one biomechanical study. For all studies with multiple populations, data extraction and analysis were limited to the NFL stratum, comparing ACL injury outcomes between artificial turf and natural grass within this group of professional athletes. When looking at the total number of ACL injuries across NFL studies, the counts were either close between artificial turf and natural grass or slightly higher on grass. But after adjusting for how often each surface was used, the rate of ACL injuries was the same or higher on artificial turf. This pattern held whether exposure was expressed per game or per team-game, and whether the comparison was reported as an injury rate, an incidence-density ratio, or an odds ratio; no individual comparison reached statistical significance. Through an exploratory random-effects meta-analysis of four recent NFL studies, calculated through the Hartung-Knapp method, we found a small increase in injury rates on turf, with a pooled estimate modestly above the null. This trend remained steady even when each study was left out one by one. However, the difference wasn't statistically significant, and because these studies often overlapped in the seasons they covered, the authors view these results as an early indication rather than a definitive conclusion. Other findings back up this tendency: knee injuries overall, and noncontact knee injuries in particular, occurred at higher rates on synthetic turf, and season-ending surgeries, usually ACL reconstructions, were also more common after injuries sustained on turf. Previous pooled studies show that the increased risk of ACL injury is specific to American football, while biomechanical evidence suggests that natural grass reduces the force transmitted through the cleat. None of the NFL studies show a statistically significant increase in ACL injuries on artificial turf when considered individually. However, after accounting for exposure, the direction of the data, results from pooled analyses, higher rates of season-ending surgery, and biomechanical findings all suggest that ACL injuries could be more common on synthetic surfaces. A clearer understanding of these trends will be essential for guiding future decisions on field surfaces and supporting the long-term health and safety of NFL athletes.",
-   "doi": "10.7759/cureus.113994",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699488/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42699653",
-   "title": "Epidemiology of acute sports injuries in Hong Kong elite fencing athletes: A retrospective analysis of prospectively collected injury surveillance data.",
-   "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
-   "year": "2026",
-   "authors": [
-    "Leung WC",
-    "Yung KK",
-    "Habiba U",
-    "Tung MJ",
-    "et al."
-   ],
-   "abstract": "This research investigates the epidemiology of acute sports injuries amongst elite fencers in Hong Kong, focusing on the unique injury risks associated with the sport's specialized techniques and equipment. A retrospective analysis of prospectively collected injury surveillance data was conducted involving 61 elite fencers from the Hong Kong Sports Institute over one competitive season, from October 2022 to October 2023. Injury data were collected and analyzed to determine incidence rates, types, locations, and mechanisms of injuries. There were 182 recorded injuries, resulting in an overall injury incidence rate of 2.84 per 1000 training hours (95% CI: 2.43-3.26). Sabre fencers had the highest injury rate at 3.17 per 1000\u202fh (95% CI: 2.47-3.86), followed by Epee at 3.05 (95% CI: 2.26-3.83) and Foil at 2.23 (95% CI: 1.57-2.88). Sprains (39.0%) and strains (28.6%) were the most common injury types, with the hand (16.5%), ankle (13.7%), and thigh (12.1%) being the most injured areas. Non-contact injuries predominated (61.5%), mostly affecting the lower extremities (67.0% of non-contact injuries), while contact mechanisms (26.4%) primarily impacted the upper limbs. Analysis of inciting events identified \"landing\" and \"collision\" as the most common identifiable causes. Time loss occurred in 5.5% of injuries, with 50% causing 8-12 days of absence, primarily due to strains (40%) and concussions (30%). No substantial difference was observed in injury rates between males and females (RR: 0.995, 95% CI: 0.74-1.33, p\u202f=\u202f0.974). Elite fencers in Hong Kong sustained injuries at 2.84 per 1000 training hours, predominantly non-contact sprains and strains affecting the lower extremities. Sabre showed the highest injury rate compared to other disciplines. Time-loss injuries were uncommon (5.5%), reflecting mild injury severity. Targeted prevention strategies for sabre fencers and lower extremity injuries are warranted to optimize athlete safety.",
-   "doi": "10.1016/j.asmart.2026.08.005",
+   "abstract": "Stroke-induced lower limb motor dysfunction leads to abnormal gait and severely compromises quality of life. While exoskeletons are effective rehabilitation devices, their long-term biomechanical responses and tissue-level risks remain unclear. This study employed a synergy-informed neuromusculoskeletal simulation coupled with personalized finite element (FE) analysis to quantify the biomechanical adaptations and tissue-level effects of ankle exoskeleton intervention for stroke patients. Eight male patients with chronic stroke were recruited for a 2-week exoskeleton intervention. Biomechanical data were collected before and after intervention under different exoskeleton-assisted walking conditions. The most accurate synergy-informed neuromusculoskeletal model (correlation coefficient 0.759, and root mean square error 0.164 Nm/kg for the ankle) revealed that exoskeleton-assisted walking induces compensatory biomechanical adaptations, characterized by distal assistance and proximal compensation, manifested as increased knee extension moments on the affected side and higher joint and muscle forces on the unaffected side. FE analysis showed increased ankle contact pressures, medial force transmission, lateral collateral ligament forces, and forefoot stresses after intervention. These findings suggest potential long-term risk for tissue degeneration. Current ankle exoskeletons should still be cautiously regarded as rehabilitation interventions rather than long-term assistive devices. Exoskeleton rehabilitation protocols should integrate individualized ankle and foot assessments, and exoskeleton design optimization should prioritize lightweight structures and pressure-sensitive control to enhance rehabilitation efficacy while minimizing potential long-term risk.",
+   "doi": "10.1177/21695172261486297",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699653/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42702977/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -129,23 +100,46 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42699755",
-   "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
-   "journal": "Afr J Emerg Med",
+   "pmid": "42703580",
+   "title": "Effects of metatarsal bar and heel lift on foot biomechanics during gait: implications for performance-related biomechanics.",
+   "journal": "J Phys Ther Sci",
    "year": "2026",
    "authors": [
-    "Gorleku PN",
-    "Quarshie F",
-    "Nuer M",
-    "Attipoe PW",
-    "et al."
+    "Shiroshita T"
    ],
-   "abstract": "Motorcycle accidents are a leading cause of traumatic injuries, including bone fractures, dislocations, and soft tissue damage. Despite the growing concern about motorcycle-related injuries, there is a paucity of research. This study assessed traumatic bone injuries secondary to motorcycle accidents in Ghana. This multi-center quantitative study employed a cross-sectional design to examine plain X-ray reports of 1736 patients with traumatic bone injuries due to motorcycle accidents from January 2020 to December 2023. Data collected were analyzed using SPSS version 25. Statistical significance was set at p-value \u2264 0.05. The prevalence rate of traumatic bone injuries due to motorcycle accidents was 82.9%, and the mortality rate was 10.3%. The tibia/fibula (43.3%), femur (20.6%), and the skull (9.3%) were the most fractured bones, whilst dislocations frequently occurred at the ankle, shoulder, and elbow joints. Fractures of the skull (67.3%, p=0.041) and spine (69.0%, p=0.002) were more common among the passengers. Passengers disproportionately sustained more fractures (50.9%) and dislocations (57.8%) than motorcycle riders. The mortality rates among patients with spine/neck and skull injuries were 85.3% and 65.0%, respectively (p<0.001). The observed increasing annual trend in traumatic bone injury cases underscores a growing burden on emergency departments and highlights the urgent need for strengthened emergency medicine systems, including rapid triage, timely imaging, and coordinated trauma care. This trend also reinforces the importance of targeted motorcycle injury prevention strategies and policy interventions, alongside improved pre-hospital and emergency response services, to reduce both the incidence and severity of motorcycle-related injuries in Ghana.",
-   "doi": "10.1016/j.afjem.2026.101002",
+   "abstract": "[Purpose] This study investigated the biomechanical effects of metatarsal bars (MTB) and heel lifts (HL) on lower-limb kinematics and kinetics during gait. [Participants and Methods] Twenty healthy adults underwent three-dimensional gait analysis. Ankle dorsiflexion angle, internal plantarflexion moment, medial longitudinal arch (MLA) height, and gravity movement (GM) were evaluated at 0%, 12%, 31%, and 50% of the walking cycle (WC) and at peak stance. Data were analyzed using two-way repeated-measures ANOVA (condition \u00d7 WC), followed by Holm-adjusted post-hoc comparisons. [Results] Compared with HL, MTB significantly increased ankle dorsiflexion and decreased MLA height at 31% and 50% WC. Conversely, HL significantly reduced the plantarflexion moment at 12% WC but increased it at 50% WC and peak stance. No significant differences were found in GM, though MTB tended to shift GM posteriorly and HL anteriorly during the latter half of the stance phase. [Conclusion] MTB and HL exhibit distinct phase-specific biomechanical strategies. MTB increases dorsiflexion and reduces MLA height during mid-to-late stance (31-50% WC), suggesting a shock absorption-oriented strategy. In contrast, HL modulates plantarflexion moments to facilitate forward progression. These findings emphasize selecting orthotic components based on specific biomechanical demands at different gait phases.",
+   "doi": "10.1589/jpts.38.387",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42703580/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42703007",
+   "title": "Prevalence of Achilles Tendinopathy in Bharatanatyam Dancers.",
+   "journal": "J Dance Med Sci",
+   "year": "2026",
+   "authors": [
+    "Bhat AA",
+    "Raja K",
+    "Hadya Ananda K",
+    "Anand PA"
+   ],
+   "abstract": "Overuse injuries such as Achilles tendinopathy (AT) are common in dancers due to repetitive loading and biomechanical stress. Although ballet has been studied extensively, very little research exists on Indian classical dance forms. This exploratory study aimed to assess the prevalence and severity of Achilles tendinopathy (AT) among Bharatanatyam dancers in Karnataka, India, using the VISA-A questionnaire, and to explore potential associated risk factors. A cross-sectional observational study was conducted among 106 Bharatanatyam dancers aged 18 to 45\u2009years, recruited through social media and peer networks. Participants were proficient in English and actively engaged in dance practice. Those with a history of lower limb injury, surgery, or insufficient physical activity were excluded. Data collection included the International Physical Activity Questionnaire - Short Form (IPAQ-SF), a survey of known risk factors, and the VISA-A questionnaire. Associations between VISA-A scores and potential risk factors were analyzed. Of the 106 dancers (102 females, 4 males), 68.9% demonstrated signs of AT. All male participants presented with mild symptoms, while females reported AT with greater symptom variability. No significant correlation was found between VISA-A scores and years of dance or sports participation (P\u2009>\u2009.05). No significant associations were identified between the examined demographic and training-related variables and either VISA-A scores or Achilles tendon symptom status in the multivariable regression analyses. These findings provide preliminary evidence of a substantial burden of Achilles tendinopathy among Bharatanatyam dancers, although confirmation in adequately powered studies is required. This study suggests that commonly assumed risk factors, such as years of dance practice and sports involvement, did not show a significant correlation with VISA-A scores. These findings emphasize the need for early identification and management of AT in dancers to prevent long-term impairments and improve their performance.",
+   "doi": "10.1177/1089313X261479318",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42703007/",
    "matched": [
     {
      "id": "burden-cost",
@@ -175,34 +169,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42675844/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42564466",
-   "title": "A lightweight passive ankle exoskeleton with dual-phase energy harvesting and stiffness adaptation.",
-   "journal": "Wearable Technol",
-   "year": "2026",
-   "authors": [
-    "Li K",
-    "Yang Z",
-    "Wang H",
-    "Ye X",
-    "et al."
-   ],
-   "abstract": "Passive exoskeletons offer several advantages, including lightweight design, simple structure, and inherent energy efficiency. Most existing passive exoskeletons rely on clutch mechanisms to control spring-based energy storage and release, typically focusing only on recovering biomechanical energy during the stance phase of gait. In this study, we propose and analyze a lightweight passive ankle exoskeleton capable of harvesting and releasing energy during both the stance and swing phases of walking. The device aims to enhance gait assistance while maintaining structural simplicity and minimizing weight. By integrating the optimal stiffness ratio between the stance and swing phases, derived from musculoskeletal model simulations, with previously established optimal stance-phase stiffness parameters, we determined a suitable stiffness coefficient for the swing-phase spring. To validate the design, we conducted comparative experiments on participants walking with exoskeletons configured with different stiffness coefficients. Spatiotemporal parameters, metabolic energy cost, and muscle activation patterns were analyzed to evaluate performance. The results demonstrate that the proposed exoskeleton effectively reduces Soleus muscle activation while increasing tibialis anterior activity, leading to a 6.84% reduction in walking energy cost compared to a nonassistive condition. Furthermore, energy recovery during the swing phase alone contributes an additional 1.67% reduction in energy expenditure, improving overall walking efficiency. The proposed design also eliminates complex clutch components, significantly simplifying manufacturing and reducing costs, thereby enhancing the applicability of passive exoskeletons in daily mobility and rehabilitation scenarios.",
-   "doi": "10.1017/wtc.2026.10046",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42564466/",
    "matched": [
     {
      "id": "actuation-assistive",
@@ -406,6 +372,35 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42699488",
+   "title": "Association Between Playing Surface and Anterior Cruciate Ligament (ACL) Injury Risk in the National Football League: A Systematic Review and Exploratory Meta-Analysis.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Vemugunta V",
+    "Touheed A",
+    "Mahamkali A",
+    "Runnells H",
+    "et al."
+   ],
+   "abstract": "In professional sports, anterior cruciate ligament (ACL) ruptures are among the most consequential injuries, especially in American football. This review set out to determine whether National Football League (NFL) players are more likely to sustain ACL injuries on artificial turf than on natural grass. To answer this, studies were gathered from PubMed, and the review process followed PRISMA 2020 guidelines to ensure clear and reliable reporting. Ten studies met the inclusion criteria: eight on NFL epidemiology or clinical outcomes, one systematic review covering multiple sports, and one biomechanical study. For all studies with multiple populations, data extraction and analysis were limited to the NFL stratum, comparing ACL injury outcomes between artificial turf and natural grass within this group of professional athletes. When looking at the total number of ACL injuries across NFL studies, the counts were either close between artificial turf and natural grass or slightly higher on grass. But after adjusting for how often each surface was used, the rate of ACL injuries was the same or higher on artificial turf. This pattern held whether exposure was expressed per game or per team-game, and whether the comparison was reported as an injury rate, an incidence-density ratio, or an odds ratio; no individual comparison reached statistical significance. Through an exploratory random-effects meta-analysis of four recent NFL studies, calculated through the Hartung-Knapp method, we found a small increase in injury rates on turf, with a pooled estimate modestly above the null. This trend remained steady even when each study was left out one by one. However, the difference wasn't statistically significant, and because these studies often overlapped in the seasons they covered, the authors view these results as an early indication rather than a definitive conclusion. Other findings back up this tendency: knee injuries overall, and noncontact knee injuries in particular, occurred at higher rates on synthetic turf, and season-ending surgeries, usually ACL reconstructions, were also more common after injuries sustained on turf. Previous pooled studies show that the increased risk of ACL injury is specific to American football, while biomechanical evidence suggests that natural grass reduces the force transmitted through the cleat. None of the NFL studies show a statistically significant increase in ACL injuries on artificial turf when considered individually. However, after accounting for exposure, the direction of the data, results from pooled analyses, higher rates of season-ending surgery, and biomechanical findings all suggest that ACL injuries could be more common on synthetic surfaces. A clearer understanding of these trends will be essential for guiding future decisions on field surfaces and supporting the long-term health and safety of NFL athletes.",
+   "doi": "10.7759/cureus.113994",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699488/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42652869",
@@ -1006,6 +1001,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42699653",
+   "title": "Epidemiology of acute sports injuries in Hong Kong elite fencing athletes: A retrospective analysis of prospectively collected injury surveillance data.",
+   "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
+   "year": "2026",
+   "authors": [
+    "Leung WC",
+    "Yung KK",
+    "Habiba U",
+    "Tung MJ",
+    "et al."
+   ],
+   "abstract": "This research investigates the epidemiology of acute sports injuries amongst elite fencers in Hong Kong, focusing on the unique injury risks associated with the sport's specialized techniques and equipment. A retrospective analysis of prospectively collected injury surveillance data was conducted involving 61 elite fencers from the Hong Kong Sports Institute over one competitive season, from October 2022 to October 2023. Injury data were collected and analyzed to determine incidence rates, types, locations, and mechanisms of injuries. There were 182 recorded injuries, resulting in an overall injury incidence rate of 2.84 per 1000 training hours (95% CI: 2.43-3.26). Sabre fencers had the highest injury rate at 3.17 per 1000\u202fh (95% CI: 2.47-3.86), followed by Epee at 3.05 (95% CI: 2.26-3.83) and Foil at 2.23 (95% CI: 1.57-2.88). Sprains (39.0%) and strains (28.6%) were the most common injury types, with the hand (16.5%), ankle (13.7%), and thigh (12.1%) being the most injured areas. Non-contact injuries predominated (61.5%), mostly affecting the lower extremities (67.0% of non-contact injuries), while contact mechanisms (26.4%) primarily impacted the upper limbs. Analysis of inciting events identified \"landing\" and \"collision\" as the most common identifiable causes. Time loss occurred in 5.5% of injuries, with 50% causing 8-12 days of absence, primarily due to strains (40%) and concussions (30%). No substantial difference was observed in injury rates between males and females (RR: 0.995, 95% CI: 0.74-1.33, p\u202f=\u202f0.974). Elite fencers in Hong Kong sustained injuries at 2.84 per 1000 training hours, predominantly non-contact sprains and strains affecting the lower extremities. Sabre showed the highest injury rate compared to other disciplines. Time-loss injuries were uncommon (5.5%), reflecting mild injury severity. Targeted prevention strategies for sabre fencers and lower extremity injuries are warranted to optimize athlete safety.",
+   "doi": "10.1016/j.asmart.2026.08.005",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699653/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42654398",
    "title": "Epidemiology of Match Injuries in Portuguese Senior Male Rugby Union XV: A Prospective Cohort Study.",
    "journal": "Medicina (Kaunas)",
@@ -1081,39 +1104,6 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42561756",
-   "title": "From compensation to decompensation: The threshold effect of recurrence frequency on shock absorption and movement strategies in individuals with chronic ankle instability during single-leg drop landing.",
-   "journal": "Phys Ther Sport",
-   "year": "2026",
-   "authors": [
-    "Wang Z",
-    "Wang P",
-    "Wang T",
-    "Xuan B",
-    "et al."
-   ],
-   "abstract": "To compare lower limb biomechanics during single-leg drop landings between individuals with low (2-4/year) and high (\u22655/year) chronic ankle instability (CAI) recurrence frequencies. Cross-sectional study. Biomechanics laboratory. Sixty males with unilateral CAI, stratified into High-CAI (n\u202f=\u202f30) and Low-CAI (n\u202f=\u202f30) groups. Peak vertical ground reaction force (vGRF), time to peak vGRF, vertical loading rate (LR), leg stiffness, and lower extremity kinematics. High-CAI participants demonstrated greater peak vGRF, shorter time to peak vGRF, higher LR, and greater hip flexion, hip abduction, and ankle inversion at initial contact than the Low-CAI group (all p\u202f\u2264\u202f0.048; \u03b7p2\u202f=\u202f0.066-0.275). Group\u202f\u00d7\u202fside interactions occurred for knee flexion, ankle inversion, and LR (p\u202f=\u202f0.005-0.033; \u03b7p2\u202f=\u202f0.076-0.128). Simple-effects analyses showed the unstable side of the Low-CAI group exhibited less knee flexion than its stable side, whereas the unstable side of the High-CAI group exhibited greater ankle inversion and LR than both the unstable side of the Low-CAI group and its stable side (all p\u202f\u2264\u202f0.040; d\u202f=\u202f0.350-1.221). High-frequency CAI recurrence (\u22655 times/year) induces a maladaptive landing strategy with altered proximal compensations and impaired shock absorption. Frequency-based stratification is essential for optimizing management.",
-   "doi": "10.1016/j.ptsp.2026.101972",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42561756/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -1692,22 +1682,23 @@
    "bucket": "research"
   },
   {
-   "pmid": "42562366",
-   "title": "Prediction of Running Anteroposterior Ground Reaction Force From the Vertical Component Through a Deep Learning Approach.",
-   "journal": "J Appl Biomech",
+   "pmid": "42699755",
+   "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
+   "journal": "Afr J Emerg Med",
    "year": "2026",
    "authors": [
-    "Roinson R",
-    "Karamanoukian A",
-    "Boucher JP",
-    "Vignais N"
+    "Gorleku PN",
+    "Quarshie F",
+    "Nuer M",
+    "Attipoe PW",
+    "et al."
    ],
-   "abstract": "Studying ground reaction force (GRF) is essential for in situ running analysis, as they provide critical insights into both performance optimization and the etiology of running-related injuries. However, the use of current measurement systems in ecological or field conditions remains limited: their restricted measurement areas constrain data collection to only a few steps, and their high cost hinders widespread adoption. Recently, a size-adjustable instrumented track has been developed to measure the vertical component of GRF outside the laboratory environment. Building on this advancement, the present study aims to develop a neural network approach for predicting the anteroposterior component from the measured vertical component and to evaluate the impact of prediction errors on joint kinetics. A public data set comprising 9500 running steps was used to train, validate, and test the prediction model. The results demonstrated that a convolutional neural network can accurately predict the anteroposterior component of the GRF (relative root mean square error = 7.44%). While these anteroposterior-GRF prediction errors had only a minor impact on ankle moment calculations, estimates at the knee and hip were more substantially affected. These findings suggest that the proposed model may be effectively applied in conjunction with the size-adjustable instrumented track.",
-   "doi": "10.1123/jab.2025-0313",
+   "abstract": "Motorcycle accidents are a leading cause of traumatic injuries, including bone fractures, dislocations, and soft tissue damage. Despite the growing concern about motorcycle-related injuries, there is a paucity of research. This study assessed traumatic bone injuries secondary to motorcycle accidents in Ghana. This multi-center quantitative study employed a cross-sectional design to examine plain X-ray reports of 1736 patients with traumatic bone injuries due to motorcycle accidents from January 2020 to December 2023. Data collected were analyzed using SPSS version 25. Statistical significance was set at p-value \u2264 0.05. The prevalence rate of traumatic bone injuries due to motorcycle accidents was 82.9%, and the mortality rate was 10.3%. The tibia/fibula (43.3%), femur (20.6%), and the skull (9.3%) were the most fractured bones, whilst dislocations frequently occurred at the ankle, shoulder, and elbow joints. Fractures of the skull (67.3%, p=0.041) and spine (69.0%, p=0.002) were more common among the passengers. Passengers disproportionately sustained more fractures (50.9%) and dislocations (57.8%) than motorcycle riders. The mortality rates among patients with spine/neck and skull injuries were 85.3% and 65.0%, respectively (p<0.001). The observed increasing annual trend in traumatic bone injury cases underscores a growing burden on emergency departments and highlights the urgent need for strengthened emergency medicine systems, including rapid triage, timely imaging, and coordinated trauma care. This trend also reinforces the importance of targeted motorcycle injury prevention strategies and policy interventions, alongside improved pre-hospital and emergency response services, to reduce both the incidence and severity of motorcycle-related injuries in Ghana.",
+   "doi": "10.1016/j.afjem.2026.101002",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42562366/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
    "matched": [
     {
      "id": "burden-cost",
@@ -1741,34 +1732,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42562204",
-   "title": "Sensor-Based Gait Recovery Analysis After Total Hip and Knee Arthroplasty: A One-Year Follow-Up Study Integrating Muscle Strength and Patient-Reported Outcomes.",
-   "journal": "J Arthroplasty",
-   "year": "2026",
-   "authors": [
-    "Chen WC",
-    "Wang CL",
-    "Lee SH",
-    "Peng SH",
-    "et al."
-   ],
-   "abstract": "Functional recovery after total joint arthroplasty is multifactorial. This study aimed to characterize the 1-year recovery trajectory in elderly patients undergoing total hip arthroplasty (THA) or total knee arthroplasty (TKA) by integrating objective gait analysis, muscle strength assessment, and patient-reported outcome measures. In this prospective cohort study, 84 patients (THA: 36, TKA: 48; age \u226570 years) with Kellgren-Lawrence grade III or IV osteoarthritis were evaluated preoperatively and at 2 weeks and 1, 3, 6, and 12 months postsurgery. Spatiotemporal gait parameters were collected using foot-mounted inertial sensors. Isokinetic dynamometry measured hip abductor (THA) or quadriceps (TKA) strength. The Hip Disability and Osteoarthritis Outcome Score for Joint Replacement and Knee Injury and Osteoarthritis Outcome Score for Joint Replacement were collected at all timepoints. Correlation and regression analyses identified predictors of recovery. The TKA patients demonstrated significant and persistent gait asymmetry up to three months, which normalized by six months. The THA recovery was more symmetrical, with only transient asymmetry at one month. Preoperative muscle strength was the strongest predictor of 12-month gait speed (\u03b2 = 0.42, P < 0.001), while radiographic severity (Kellgren-Lawrence grade III versus IV) did not significantly predict functional gait recovery (P = 0.38). By 12 months, both groups approached normative values for gait and strength, with 94.0% of the THA and 92.0% of the TKA patients achieving the patient acceptable symptom state. Muscle strength, rather than radiographic severity, is the critical determinant of functional gait recovery after total joint arthroplasty in the elderly. Preoperative muscle strength assessment should be incorporated into surgical planning to guide personalized rehabilitation. Randomized trials with intervention arms are warranted to establish causality. Level II, prospective cohort study.",
-   "doi": "10.1016/j.arth.2026.05.038",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42562204/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1832,34 +1795,6 @@
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42565735",
-   "title": "Sex Dominates Task Anticipation in Shaping 90\u00b0 Sidestep Cutting Biomechanics: Evidence for a Proximal-to-Distal Cascade.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "AminiAghdam S",
-    "Nijmeijer E",
-    "Scharbert J",
-    "Woergoetter S",
-    "et al."
-   ],
-   "abstract": "Sidestep cutting (SSC) is used widely to examine surrogate markers of anterior cruciate ligament (ACL) loading, but the combined influence of sex and task anticipation (anticipated vs unanticipated) on whole-body biomechanics during 90\u00b0 cutting remains unclear. It was hypothesized that sex and task anticipation would exert distinct and interactive effects on trunk, pelvic, and lower-limb biomechanics during 90\u00b0 cutting, with sex exerting the dominant influence. Controlled laboratory study. Level 3. A total of 44 competitive amateur athletes (20 women, 24 men) performed anticipated and unanticipated 90\u00b0 sidestep cuts. Whole-body 3-dimensional kinematics and lower-limb kinetics were captured. Statistical parametric mapping tested main and interactive effects of sex and task anticipation across stance (P\u2009<\u20090.05). No sex\u2009\u00d7\u2009task anticipation interactions emerged. Sex main effects spanned all variables and longer stance periods, whereas task anticipation main effects involved fewer variables and shorter intervals. Men demonstrated greater trunk and knee flexion and larger early-stance net knee flexion, varus, and external-rotation knee moments, whereas women showed a more upright trunk and pelvis with less hip and knee flexion and greater knee abduction (valgus) angles. Unanticipated cuts elicited short, phase-specific changes, including early trunk lean and reduced pelvic mobility, mid-stance hip and knee moment modulation, and late-stance ankle inversion and internal rotation changes, and attenuated braking forces. Sex was the dominant determinant of 90\u00b0 SSC kinematics, joint moments, and ground-reaction forces, with effects spanning longer stance intervals than the phase-ordered proximal-to-distal differences between anticipated and unanticipated cuts, reinforcing the value of whole-body, multiplanar whole-stance interpretation. Given larger and more sustained sex effects, sex-specific benchmarking may aid interpretation and individualization. Progressive exposure to unanticipated 90\u00b0 cutting - building from planned, lower-demand conditions - may emphasize coordinated, multiplanar control across stance.",
-   "doi": "10.1177/19417381261463632",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42565735/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
     }
    ],
    "is_new": false,

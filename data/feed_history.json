@@ -1,5 +1,75 @@
 [
  {
+  "pmid": "42702977",
+  "title": "Coupled Neuromusculoskeletal Finite Element Simulation Reveals Biomechanical Adaptation and Joint Tissue Risk of Ankle Exoskeleton Intervention after Stroke.",
+  "journal": "Soft Robot",
+  "year": "2026",
+  "authors": [
+   "Gao Y",
+   "Wang S",
+   "Lin Y",
+   "Wang Z",
+   "et al."
+  ],
+  "abstract": "Stroke-induced lower limb motor dysfunction leads to abnormal gait and severely compromises quality of life. While exoskeletons are effective rehabilitation devices, their long-term biomechanical responses and tissue-level risks remain unclear. This study employed a synergy-informed neuromusculoskeletal simulation coupled with personalized finite element (FE) analysis to quantify the biomechanical adaptations and tissue-level effects of ankle exoskeleton intervention for stroke patients. Eight male patients with chronic stroke were recruited for a 2-week exoskeleton intervention. Biomechanical data were collected before and after intervention under different exoskeleton-assisted walking conditions. The most accurate synergy-informed neuromusculoskeletal model (correlation coefficient 0.759, and root mean square error 0.164 Nm/kg for the ankle) revealed that exoskeleton-assisted walking induces compensatory biomechanical adaptations, characterized by distal assistance and proximal compensation, manifested as increased knee extension moments on the affected side and higher joint and muscle forces on the unaffected side. FE analysis showed increased ankle contact pressures, medial force transmission, lateral collateral ligament forces, and forefoot stresses after intervention. These findings suggest potential long-term risk for tissue degeneration. Current ankle exoskeletons should still be cautiously regarded as rehabilitation interventions rather than long-term assistive devices. Exoskeleton rehabilitation protocols should integrate individualized ankle and foot assessments, and exoskeleton design optimization should prioritize lightweight structures and pressure-sensitive control to enhance rehabilitation efficacy while minimizing potential long-term risk.",
+  "doi": "10.1177/21695172261486297",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42702977/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-07T18:22:39Z"
+ },
+ {
+  "pmid": "42703580",
+  "title": "Effects of metatarsal bar and heel lift on foot biomechanics during gait: implications for performance-related biomechanics.",
+  "journal": "J Phys Ther Sci",
+  "year": "2026",
+  "authors": [
+   "Shiroshita T"
+  ],
+  "abstract": "[Purpose] This study investigated the biomechanical effects of metatarsal bars (MTB) and heel lifts (HL) on lower-limb kinematics and kinetics during gait. [Participants and Methods] Twenty healthy adults underwent three-dimensional gait analysis. Ankle dorsiflexion angle, internal plantarflexion moment, medial longitudinal arch (MLA) height, and gravity movement (GM) were evaluated at 0%, 12%, 31%, and 50% of the walking cycle (WC) and at peak stance. Data were analyzed using two-way repeated-measures ANOVA (condition \u00d7 WC), followed by Holm-adjusted post-hoc comparisons. [Results] Compared with HL, MTB significantly increased ankle dorsiflexion and decreased MLA height at 31% and 50% WC. Conversely, HL significantly reduced the plantarflexion moment at 12% WC but increased it at 50% WC and peak stance. No significant differences were found in GM, though MTB tended to shift GM posteriorly and HL anteriorly during the latter half of the stance phase. [Conclusion] MTB and HL exhibit distinct phase-specific biomechanical strategies. MTB increases dorsiflexion and reduces MLA height during mid-to-late stance (31-50% WC), suggesting a shock absorption-oriented strategy. In contrast, HL modulates plantarflexion moments to facilitate forward progression. These findings emphasize selecting orthotic components based on specific biomechanical demands at different gait phases.",
+  "doi": "10.1589/jpts.38.387",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42703580/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-07T18:22:39Z"
+ },
+ {
+  "pmid": "42703007",
+  "title": "Prevalence of Achilles Tendinopathy in Bharatanatyam Dancers.",
+  "journal": "J Dance Med Sci",
+  "year": "2026",
+  "authors": [
+   "Bhat AA",
+   "Raja K",
+   "Hadya Ananda K",
+   "Anand PA"
+  ],
+  "abstract": "Overuse injuries such as Achilles tendinopathy (AT) are common in dancers due to repetitive loading and biomechanical stress. Although ballet has been studied extensively, very little research exists on Indian classical dance forms. This exploratory study aimed to assess the prevalence and severity of Achilles tendinopathy (AT) among Bharatanatyam dancers in Karnataka, India, using the VISA-A questionnaire, and to explore potential associated risk factors. A cross-sectional observational study was conducted among 106 Bharatanatyam dancers aged 18 to 45\u2009years, recruited through social media and peer networks. Participants were proficient in English and actively engaged in dance practice. Those with a history of lower limb injury, surgery, or insufficient physical activity were excluded. Data collection included the International Physical Activity Questionnaire - Short Form (IPAQ-SF), a survey of known risk factors, and the VISA-A questionnaire. Associations between VISA-A scores and potential risk factors were analyzed. Of the 106 dancers (102 females, 4 males), 68.9% demonstrated signs of AT. All male participants presented with mild symptoms, while females reported AT with greater symptom variability. No significant correlation was found between VISA-A scores and years of dance or sports participation (P\u2009>\u2009.05). No significant associations were identified between the examined demographic and training-related variables and either VISA-A scores or Achilles tendon symptom status in the multivariable regression analyses. These findings provide preliminary evidence of a substantial burden of Achilles tendinopathy among Bharatanatyam dancers, although confirmation in adequately powered studies is required. This study suggests that commonly assumed risk factors, such as years of dance practice and sports involvement, did not show a significant correlation with VISA-A scores. These findings emphasize the need for early identification and management of AT in dancers to prevent long-term impairments and improve their performance.",
+  "doi": "10.1177/1089313X261479318",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42703007/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-07T18:22:39Z"
+ },
+ {
   "pmid": "42699488",
   "title": "Association Between Playing Surface and Anterior Cruciate Ligament (ACL) Injury Risk in the National Football League: A Systematic Review and Exploratory Meta-Analysis.",
   "journal": "Cureus",
