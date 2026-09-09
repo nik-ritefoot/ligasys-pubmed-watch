@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-08T17:28:18+00:00",
+ "generated": "2026-09-09T17:15:34+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,34 +65,35 @@
   }
  ],
  "counts": {
-  "total": 74,
+  "total": 77,
   "new": 3,
-  "research": 22,
-  "fieldnotes": 52
+  "research": 24,
+  "fieldnotes": 53
  },
  "records": [
   {
-   "pmid": "42708016",
-   "title": "Epidemiology and Performance After Achilles Tendon Rupture in National Basketball Association (NBA) Players: A Retrospective Case Series Rationale.",
-   "journal": "Cureus",
+   "pmid": "42711700",
+   "title": "Effects of an actuated ankle exoskeleton on walking stability in healthy adults: a controlled laboratory study.",
+   "journal": "J Neuroeng Rehabil",
    "year": "2026",
    "authors": [
-    "Kennedy O",
-    "Hallauer O",
-    "Gordon SH",
-    "Hussain A",
+    "Kettner C",
+    "Beyerlein M",
+    "Marquardt C",
+    "De\u017eman M",
     "et al."
    ],
-   "abstract": "Background Achilles tendon (AT) ruptures are among the most severe injuries sustained by National Basketball Association (NBA) players, with prolonged recovery times and documented long-term impact on performance. The 2024-2025 season witnessed a record-high number of these injuries, including multiple high-profile cases, prompting renewed interest in understanding the burden and epidemiological trends of AT ruptures in professional basketball. Purpose The purpose of this study is to characterize the epidemiology of complete AT ruptures in NBA players over the past 15 seasons and explore trends in player demographics and performance after return to play. Methods A retrospective review was conducted using publicly available data on NBA players who experienced complete AT ruptures between 2010 and 2025. Inclusion was limited to players who returned to NBA competition within two seasons and had no prior same-side lower-extremity (LE) surgeries. Pre- and post-injury minutes per game (MPG) and player efficiency rating (PER) were compared using paired t-tests. Subgroup analyses were performed based on age, height, and weight. Results Among the 12 included players, the average age at the time of injury was 27.9 years, with an average of 9.25 months missed. There was a significant decline in MPG post-injury (p = 0.0009, d = 1.31), while the decline in PER trended toward significance (p = 0.0072, d = 0.95). On average, MPG and PER decreased by 20.2% and 21.9%, respectively. Younger players (\u226428 years) represented a growing share of recent injuries. Conclusion AT ruptures result in substantial decreases in performance and prolonged absences, with possible trends toward earlier injury onset. Further research is needed to elucidate the causes of this recent increase in such a profound injury.",
-   "doi": "10.7759/cureus.114162",
+   "abstract": "Ankle exoskeletons are widely used to reduce the metabolic cost of walking, yet their effects on walking stability during unperturbed gait remain insufficiently understood. Walking stability can be characterized using complementary measures that capture stride-to-stride variability, global temporal organization, and local dynamic stability. Understanding how walking with an actuated ankle exoskeleton system influences these different aspects of gait stability is essential for the safe design and control of wearable robotic devices. Eighteen healthy adults walked on a treadmill at a constant speed (1.1\u00a0m/s) with and without an actuated bilateral ankle exoskeleton in a randomized crossover design. Spatiotemporal variability was quantified using coefficients of variation (CoV) of stride length, step width, and stance ratio. Global gait stability was assessed using detrended fluctuation analysis of stride time. Local dynamic stability was evaluated using maximum Lyapunov exponent calculated for the trunk, hip, upper leg, lower leg, and foot. Paired-samples two-sided t-tests were used to compare conditions. Walking with the ankle exoskeleton resulted in increased stride-to-stride spatiotemporal variability, reflected by higher CoV values for stride length (p\u2009<\u20090.001) and stance ratio (p\u2009=\u20090.005), while mean stride length and step width remained unchanged. Mean stance ratio was reduced in the exoskeleton condition (p\u2009<\u20090.001). Global gait stability did not differ between conditions, indicating preserved long-range temporal gait organization. Local dynamic stability increased at the lower leg (p\u2009<\u20090.001) and foot (p\u2009=\u20090.019) when walking with the exoskeleton. Walking with the actuated ankle exoskeleton alters gait control across multiple levels during steady walking. While stride-to-stride variability in stride length and stance ratio increased, global gait stability remained unchanged. Local dynamic stability was increased at the lower leg and foot, suggesting segment-specific effects of ankle-level assistance close to the assisted joint. However, these findings should be interpreted as the combined effect of wearing the exoskeleton and receiving active assistance, rather than the isolated effect of plantarflexion assistance. These\u00a0results provide insight for the design and control of ankle exoskeletons with respect to stability-related effects during walking.",
+   "doi": "10.1186/s12984-026-02151-y",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Randomized Controlled Trial"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42708016/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42711700/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -100,59 +101,60 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42704823",
-   "title": "Pharmacy Utilization Patterns and Polypharmacy as Predictors of High-Cost Workers' Compensation Claims: An Updated Cohort Study of Occupational Ankle Sprains.",
-   "journal": "J Occup Environ Med",
+   "pmid": "42713199",
+   "title": "Effects of Soccer Boot Insoles on Muscle Activity and Ankle Inversion Proprioception in Drop Landing Tasks in Patients with and without Chronic Ankle Instability.",
+   "journal": "J Hum Kinet",
    "year": "2026",
    "authors": [
-    "Tao XG",
-    "Iglesias MA",
-    "Kalia N",
-    "Leung N",
+    "Aimkosa R",
+    "Tirosh O",
+    "Genderton C",
+    "El-Ansary D",
     "et al."
    ],
-   "abstract": "Evaluate pharmacy utilization patterns as independent predictors of high-cost workers' compensation claims (\u2265$50,000) for occupational ankle sprains. Pharmacy Benefit Management data were integrated into a 9-year cohort of 18,991 claims. Logistic regression modeled individual drug-class utilization and multi-class combinations, adjusting for demographics, industry, litigations, physical complications, treatments, and comorbidities. High-cost risk increased significantly with individual utilization of opioids (OR: 2.19; 95% CI: 1.78-2.69) and antiseizure medications (OR: 4.21; 95% CI: 3.28-5.39). While exclusive nonsteroidals use demonstrated no elevated risk (OR: 0.96; 95% CI: 0.76-1.20), polypharmacy involving three or more flagged drug classes was associated with a 7.71-fold increase in cost escalation (CI: 6.08-9.77). Early multi-class prescription drug tracking provides a dynamic and real-time indicator of case complexity, allowing interventions from relevant parties to prevent severe financial escalation.",
-   "doi": "10.1097/JOM.0000000000003875",
+   "abstract": "Chronic ankle instability (CAI) poses challenges in sports. Textured insoles are a promising intervention for optimizing ankle muscle activity and enhancing ankle proprioceptive ability in individuals with CAI. This study investigated the effects of different types of insoles on ankle muscle activity and ankle inversion proprioception during drop-landing tasks. Thirty-two soccer players (16 CAI, 16 non-CAI) participated in the study. Electromyographic (EMG) activity of the tibialis anterior (TA), medial gastrocnemius (MG), and peroneus longus (PL) muscles was recorded during drop-landing tasks using the ankle inversion discrimination apparatus for landing (AIDAL) with textured insoles (TI) and standard flat insoles (SI). Ankle inversion proprioception was assessed using the AIDAL. Muscle activity was analyzed for pre- and initial contact phases. CAI players showed significantly reduced TA activity compared to non-CAI players during both pre-initial (2.62 \u00b1 1.86 vs. 5.53 \u00b1 5.15; p = 0.04) and initial contact phases (18.7 \u00b1 13.6 vs. 29.9 \u00b1 20.6; p = 0.01). CAI players also exhibited greater MG activity during pre-initial (16 \u00b1 6.15 vs. 12.5 \u00b1 6.38; p = 0.03) and initial contact phases (60.8 \u00b1 32.5 vs. 41.5 \u00b1 14.8; p = 0.004), and higher PL activity during the pre-initial contact phase (7.39 \u00b1 4.75 vs. 4.28 \u00b1 2.83; p = 0.003). No significant CAI/insole main effects or interactions (p > 0.05) were observed in AIDAL proprioceptive scores. Overall, CAI players showed significant alterations in ankle muscle activity during drop-landing tasks. Increased PL activity during the pre-initial contact phase may serve as a compensatory strategy to enhance ankle stability, while reduced TA and increased MG activation during pre-initial and initial contact phases may contribute to the high incidence of recurrent ankle sprains in CAI individuals. Additionally, the lack of immediate effects from insoles on muscle activity suggests that their influence on sensory input and foot positioning may require prolonged use to induce measurable neuromuscular adaptations.",
+   "doi": "10.5114/jhk/205685",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42704823/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42713199/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
-   "pmid": "42705008",
-   "title": "The 'netballer's ankle': An international survey of the negative sequelae associated with lateral ankle ligament sprains in netball.",
-   "journal": "Phys Ther Sport",
+   "pmid": "42713086",
+   "title": "Retrospective Comparative Analysis of Ponseti Method of Treatment for Idiopathic and Nonidiopathic Clubfoot: A 4 year follow-up study.",
+   "journal": "J Orthop Case Rep",
    "year": "2026",
    "authors": [
-    "Rowe PL",
-    "Hinman RS",
-    "Bryant AL",
-    "Paterson KL"
+    "Das SL",
+    "Sheth B",
+    "R KK",
+    "Mugutrao AA",
+    "et al."
    ],
-   "abstract": "To determine when netballers first sustain a lateral ankle ligament sprain and describe the prevalence of persistent symptoms, recurrent sprains, and perceived instability. Cross-sectional survey. An online survey was distributed across Australia, United Kingdom, and New Zealand. were recruited and asked about their ankle sprain history. Netballers aged \u226514 years. History of lateral ankle ligament sprains, persistent symptoms, perceived instability using the Cumberland Ankle Instability Tool (CAIT) and ankle-related disability using the Foot and Ankle Ability Measure (FAAM). The survey received 2144 responses from Australia (52%, n\u202f=\u202f1123), United Kingdom (29%, n\u202f=\u202f627), and New Zealand (18%, n\u202f=\u202f394). Most respondents (87%, n\u202f=\u202f1872) reported a history of lateral ankle ligament sprain. Over half (54%, n\u202f=\u202f1005) reported their first sprain before age fifteen, and most (89%, n\u202f=\u202f1660) experienced persistent symptoms, including fear of re-injury (63%, n\u202f=\u202f1172), pain (58%, n\u202f=\u202f1080), and stiffness (52%, n\u202f=\u202f965). Two-thirds (66%, n\u202f=\u202f1423) suffered recurrent sprains, including almost half (42%, n\u202f=\u202f897) with bilateral recurrences. Three-quarters (75%, n\u202f=\u202f1397) had perceived ankle instability, but ankle disability was less frequent (35%, n\u202f=\u202f647). Most netballers experience lateral ankle ligament sprains before age fifteen, and an extremely high proportion continue to suffer long-term symptoms and instability.",
-   "doi": "10.1016/j.ptsp.2026.101976",
+   "abstract": "This study sought to critically evaluate the effectiveness of the Ponseti method in treating idiopathic and non-idiopathic clubfoot, and compared clinical outcomes over a 4-year follow-up. A total of 75 children (105 clubfeet) were treated with the Ponseti casting protocol at an institution-based clubfoot clinic. Group I comprised 45 patients (63 clubfeet) with idiopathic clubfoot, while Group II included 30 patients (42 clubfeet) with non-idiopathic clubfoot, including arthrogryposis multiplex congenita, flail myelomeningocele, spina bifida, and various syndromic clubfoot. Demographic characteristics, number of casts, tenotomy rate, recurrence, need for minimally invasive adjunct procedures in recurrent or residual cases, and treatment success were compared. Clinical outcomes were assessed using the Pirani score at each follow-up, while brace compliance was based on subjective parent-reported adherence at brace initiation and treatment completion. Group I required significantly fewer casts than Group II (median 5.0 vs. 8.0; P < 0.001), whereas tenotomy rates were comparable (75.5% vs. 73.3%). Multivariable linear regression identified higher initial Pirani score, older age at presentation, rigid non-idiopathic foot type, and recurrent presentation as independent predictors of increased casting requirements. The flail subtype did not differ significantly from idiopathic clubfoot in casting burden. Recurrence was significantly lower in Group I (5/63 [7.9%]) than in Group II (9/42 [21.4%]; P = 0.042). A significant Spearman correlation between initial Pirani score and casting requirement was observed only in the flail subgroup (P = 0.007) of Group II. At final follow-up, treatment success (Pirani score \u22640.5) was achieved in 98.82% of Group I and 95.41% of Group II, P < 0.001. The Ponseti method is an effective and reliable treatment for both idiopathic and non-idiopathic clubfoot. In recurrent cases, timely minimally invasive adjunctive procedures may restore correction and reduce the need for extensive surgical release at later stages.",
+   "doi": "10.13107/jocr.2026.v16.i09.8120",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42705008/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42713086/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42675844",
@@ -1000,6 +1002,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42708016",
+   "title": "Epidemiology and Performance After Achilles Tendon Rupture in National Basketball Association (NBA) Players: A Retrospective Case Series Rationale.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Kennedy O",
+    "Hallauer O",
+    "Gordon SH",
+    "Hussain A",
+    "et al."
+   ],
+   "abstract": "Background Achilles tendon (AT) ruptures are among the most severe injuries sustained by National Basketball Association (NBA) players, with prolonged recovery times and documented long-term impact on performance. The 2024-2025 season witnessed a record-high number of these injuries, including multiple high-profile cases, prompting renewed interest in understanding the burden and epidemiological trends of AT ruptures in professional basketball. Purpose The purpose of this study is to characterize the epidemiology of complete AT ruptures in NBA players over the past 15 seasons and explore trends in player demographics and performance after return to play. Methods A retrospective review was conducted using publicly available data on NBA players who experienced complete AT ruptures between 2010 and 2025. Inclusion was limited to players who returned to NBA competition within two seasons and had no prior same-side lower-extremity (LE) surgeries. Pre- and post-injury minutes per game (MPG) and player efficiency rating (PER) were compared using paired t-tests. Subgroup analyses were performed based on age, height, and weight. Results Among the 12 included players, the average age at the time of injury was 27.9 years, with an average of 9.25 months missed. There was a significant decline in MPG post-injury (p = 0.0009, d = 1.31), while the decline in PER trended toward significance (p = 0.0072, d = 0.95). On average, MPG and PER decreased by 20.2% and 21.9%, respectively. Younger players (\u226428 years) represented a growing share of recent injuries. Conclusion AT ruptures result in substantial decreases in performance and prolonged absences, with possible trends toward earlier injury onset. Further research is needed to elucidate the causes of this recent increase in such a profound injury.",
+   "doi": "10.7759/cureus.114162",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42708016/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42699653",
    "title": "Epidemiology of acute sports injuries in Hong Kong elite fencing athletes: A retrospective analysis of prospectively collected injury surveillance data.",
    "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
@@ -1683,6 +1713,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42704823",
+   "title": "Pharmacy Utilization Patterns and Polypharmacy as Predictors of High-Cost Workers' Compensation Claims: An Updated Cohort Study of Occupational Ankle Sprains.",
+   "journal": "J Occup Environ Med",
+   "year": "2026",
+   "authors": [
+    "Tao XG",
+    "Iglesias MA",
+    "Kalia N",
+    "Leung N",
+    "et al."
+   ],
+   "abstract": "Evaluate pharmacy utilization patterns as independent predictors of high-cost workers' compensation claims (\u2265$50,000) for occupational ankle sprains. Pharmacy Benefit Management data were integrated into a 9-year cohort of 18,991 claims. Logistic regression modeled individual drug-class utilization and multi-class combinations, adjusting for demographics, industry, litigations, physical complications, treatments, and comorbidities. High-cost risk increased significantly with individual utilization of opioids (OR: 2.19; 95% CI: 1.78-2.69) and antiseizure medications (OR: 4.21; 95% CI: 3.28-5.39). While exclusive nonsteroidals use demonstrated no elevated risk (OR: 0.96; 95% CI: 0.76-1.20), polypharmacy involving three or more flagged drug classes was associated with a 7.71-fold increase in cost escalation (CI: 6.08-9.77). Early multi-class prescription drug tracking provides a dynamic and real-time indicator of case complexity, allowing interventions from relevant parties to prevent severe financial escalation.",
+   "doi": "10.1097/JOM.0000000000003875",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42704823/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42703007",
    "title": "Prevalence of Achilles Tendinopathy in Bharatanatyam Dancers.",
    "journal": "J Dance Med Sci",
@@ -1906,6 +1964,33 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42705008",
+   "title": "The 'netballer's ankle': An international survey of the negative sequelae associated with lateral ankle ligament sprains in netball.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Rowe PL",
+    "Hinman RS",
+    "Bryant AL",
+    "Paterson KL"
+   ],
+   "abstract": "To determine when netballers first sustain a lateral ankle ligament sprain and describe the prevalence of persistent symptoms, recurrent sprains, and perceived instability. Cross-sectional survey. An online survey was distributed across Australia, United Kingdom, and New Zealand. were recruited and asked about their ankle sprain history. Netballers aged \u226514 years. History of lateral ankle ligament sprains, persistent symptoms, perceived instability using the Cumberland Ankle Instability Tool (CAIT) and ankle-related disability using the Foot and Ankle Ability Measure (FAAM). The survey received 2144 responses from Australia (52%, n\u202f=\u202f1123), United Kingdom (29%, n\u202f=\u202f627), and New Zealand (18%, n\u202f=\u202f394). Most respondents (87%, n\u202f=\u202f1872) reported a history of lateral ankle ligament sprain. Over half (54%, n\u202f=\u202f1005) reported their first sprain before age fifteen, and most (89%, n\u202f=\u202f1660) experienced persistent symptoms, including fear of re-injury (63%, n\u202f=\u202f1172), pain (58%, n\u202f=\u202f1080), and stiffness (52%, n\u202f=\u202f965). Two-thirds (66%, n\u202f=\u202f1423) suffered recurrent sprains, including almost half (42%, n\u202f=\u202f897) with bilateral recurrences. Three-quarters (75%, n\u202f=\u202f1397) had perceived ankle instability, but ankle disability was less frequent (35%, n\u202f=\u202f647). Most netballers experience lateral ankle ligament sprains before age fifteen, and an extremely high proportion continue to suffer long-term symptoms and instability.",
+   "doi": "10.1016/j.ptsp.2026.101976",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42705008/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42661273",
