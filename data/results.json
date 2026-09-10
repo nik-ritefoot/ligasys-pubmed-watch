@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-09T17:15:34+00:00",
+ "generated": "2026-09-10T17:09:38+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,59 +65,29 @@
   }
  ],
  "counts": {
-  "total": 77,
-  "new": 3,
-  "research": 24,
-  "fieldnotes": 53
+  "total": 81,
+  "new": 4,
+  "research": 27,
+  "fieldnotes": 54
  },
  "records": [
   {
-   "pmid": "42711700",
-   "title": "Effects of an actuated ankle exoskeleton on walking stability in healthy adults: a controlled laboratory study.",
-   "journal": "J Neuroeng Rehabil",
+   "pmid": "42717580",
+   "title": "Baseline peroneus longus reaction time predicts the response to proprioceptive training in chronic ankle instability: A single-centre retrospective cohort study.",
+   "journal": "J Orthop Surg (Hong Kong)",
    "year": "2026",
    "authors": [
-    "Kettner C",
-    "Beyerlein M",
-    "Marquardt C",
-    "De\u017eman M",
-    "et al."
+    "A F",
+    "Wu S",
+    "Yang J",
+    "Zhou K"
    ],
-   "abstract": "Ankle exoskeletons are widely used to reduce the metabolic cost of walking, yet their effects on walking stability during unperturbed gait remain insufficiently understood. Walking stability can be characterized using complementary measures that capture stride-to-stride variability, global temporal organization, and local dynamic stability. Understanding how walking with an actuated ankle exoskeleton system influences these different aspects of gait stability is essential for the safe design and control of wearable robotic devices. Eighteen healthy adults walked on a treadmill at a constant speed (1.1\u00a0m/s) with and without an actuated bilateral ankle exoskeleton in a randomized crossover design. Spatiotemporal variability was quantified using coefficients of variation (CoV) of stride length, step width, and stance ratio. Global gait stability was assessed using detrended fluctuation analysis of stride time. Local dynamic stability was evaluated using maximum Lyapunov exponent calculated for the trunk, hip, upper leg, lower leg, and foot. Paired-samples two-sided t-tests were used to compare conditions. Walking with the ankle exoskeleton resulted in increased stride-to-stride spatiotemporal variability, reflected by higher CoV values for stride length (p\u2009<\u20090.001) and stance ratio (p\u2009=\u20090.005), while mean stride length and step width remained unchanged. Mean stance ratio was reduced in the exoskeleton condition (p\u2009<\u20090.001). Global gait stability did not differ between conditions, indicating preserved long-range temporal gait organization. Local dynamic stability increased at the lower leg (p\u2009<\u20090.001) and foot (p\u2009=\u20090.019) when walking with the exoskeleton. Walking with the actuated ankle exoskeleton alters gait control across multiple levels during steady walking. While stride-to-stride variability in stride length and stance ratio increased, global gait stability remained unchanged. Local dynamic stability was increased at the lower leg and foot, suggesting segment-specific effects of ankle-level assistance close to the assisted joint. However, these findings should be interpreted as the combined effect of wearing the exoskeleton and receiving active assistance, rather than the isolated effect of plantarflexion assistance. These\u00a0results provide insight for the design and control of ankle exoskeletons with respect to stability-related effects during walking.",
-   "doi": "10.1186/s12984-026-02151-y",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42711700/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42713199",
-   "title": "Effects of Soccer Boot Insoles on Muscle Activity and Ankle Inversion Proprioception in Drop Landing Tasks in Patients with and without Chronic Ankle Instability.",
-   "journal": "J Hum Kinet",
-   "year": "2026",
-   "authors": [
-    "Aimkosa R",
-    "Tirosh O",
-    "Genderton C",
-    "El-Ansary D",
-    "et al."
-   ],
-   "abstract": "Chronic ankle instability (CAI) poses challenges in sports. Textured insoles are a promising intervention for optimizing ankle muscle activity and enhancing ankle proprioceptive ability in individuals with CAI. This study investigated the effects of different types of insoles on ankle muscle activity and ankle inversion proprioception during drop-landing tasks. Thirty-two soccer players (16 CAI, 16 non-CAI) participated in the study. Electromyographic (EMG) activity of the tibialis anterior (TA), medial gastrocnemius (MG), and peroneus longus (PL) muscles was recorded during drop-landing tasks using the ankle inversion discrimination apparatus for landing (AIDAL) with textured insoles (TI) and standard flat insoles (SI). Ankle inversion proprioception was assessed using the AIDAL. Muscle activity was analyzed for pre- and initial contact phases. CAI players showed significantly reduced TA activity compared to non-CAI players during both pre-initial (2.62 \u00b1 1.86 vs. 5.53 \u00b1 5.15; p = 0.04) and initial contact phases (18.7 \u00b1 13.6 vs. 29.9 \u00b1 20.6; p = 0.01). CAI players also exhibited greater MG activity during pre-initial (16 \u00b1 6.15 vs. 12.5 \u00b1 6.38; p = 0.03) and initial contact phases (60.8 \u00b1 32.5 vs. 41.5 \u00b1 14.8; p = 0.004), and higher PL activity during the pre-initial contact phase (7.39 \u00b1 4.75 vs. 4.28 \u00b1 2.83; p = 0.003). No significant CAI/insole main effects or interactions (p > 0.05) were observed in AIDAL proprioceptive scores. Overall, CAI players showed significant alterations in ankle muscle activity during drop-landing tasks. Increased PL activity during the pre-initial contact phase may serve as a compensatory strategy to enhance ankle stability, while reduced TA and increased MG activation during pre-initial and initial contact phases may contribute to the high incidence of recurrent ankle sprains in CAI individuals. Additionally, the lack of immediate effects from insoles on muscle activity suggests that their influence on sensory input and foot positioning may require prolonged use to induce measurable neuromuscular adaptations.",
-   "doi": "10.5114/jhk/205685",
+   "abstract": "BackgroundChronic ankle instability (CAI) is a common sequel of lateral ankle sprain, and proprioceptive training is its first-line treatment, yet the gain differs widely between patients. A prolonged peroneus longus reaction time (PRT) is a hallmark neuromuscular deficit of CAI, but whether it forecasts the training response is unknown.MethodsWe retrospectively analysed 183 adults with CAI who completed a supervised 12-week proprioceptive programme. Baseline PRT to sudden inversion was measured by surface electromyography. The primary outcome was the change in the Cumberland Ankle Instability Tool (CAIT); the Star Excursion Balance Test (SEBT) was secondary. Associations were tested with Pearson and partial correlation, analysis of covariance, multivariable linear regression and receiver-operating-characteristic analysis.ResultsCAIT improved from 18.4 to 22.2 points (mean change +3.8, p < 0.001). Baseline PRT was inversely related to the CAIT gain (Pearson r = -0.51, 95% CI -0.61 to -0.39; partial r adjusted for baseline CAIT = -0.57). In the adjusted model PRT remained the strongest predictor (partially standardized \u03b2 = -2.09 CAIT points per SD, p < 0.001). PRT discriminated non-responders with an area under the curve of 0.78 (95% CI 0.71-0.84).ConclusionsA shorter baseline peroneal reaction time was associated with a larger improvement after proprioceptive training. PRT is an inexpensive candidate marker that may help stratify CAI patients, although the retrospective single-centre design warrants prospective confirmation.",
+   "doi": "10.1177/10225536261480760",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42713199/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42717580/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -129,27 +99,86 @@
    "bucket": "research"
   },
   {
-   "pmid": "42713086",
-   "title": "Retrospective Comparative Analysis of Ponseti Method of Treatment for Idiopathic and Nonidiopathic Clubfoot: A 4 year follow-up study.",
-   "journal": "J Orthop Case Rep",
+   "pmid": "42719479",
+   "title": "Generalized Joint Laxity Is an Independent Predictor of Postoperative Resprain Following Anatomic Reconstruction Using Gracilis Tendon Autograft for Patients With Chronic Lateral Ankle Instability.",
+   "journal": "Orthop J Sports Med",
    "year": "2026",
    "authors": [
-    "Das SL",
-    "Sheth B",
-    "R KK",
-    "Mugutrao AA",
+    "Liu H",
+    "Li J",
+    "Su T",
+    "Jiang Y",
     "et al."
    ],
-   "abstract": "This study sought to critically evaluate the effectiveness of the Ponseti method in treating idiopathic and non-idiopathic clubfoot, and compared clinical outcomes over a 4-year follow-up. A total of 75 children (105 clubfeet) were treated with the Ponseti casting protocol at an institution-based clubfoot clinic. Group I comprised 45 patients (63 clubfeet) with idiopathic clubfoot, while Group II included 30 patients (42 clubfeet) with non-idiopathic clubfoot, including arthrogryposis multiplex congenita, flail myelomeningocele, spina bifida, and various syndromic clubfoot. Demographic characteristics, number of casts, tenotomy rate, recurrence, need for minimally invasive adjunct procedures in recurrent or residual cases, and treatment success were compared. Clinical outcomes were assessed using the Pirani score at each follow-up, while brace compliance was based on subjective parent-reported adherence at brace initiation and treatment completion. Group I required significantly fewer casts than Group II (median 5.0 vs. 8.0; P < 0.001), whereas tenotomy rates were comparable (75.5% vs. 73.3%). Multivariable linear regression identified higher initial Pirani score, older age at presentation, rigid non-idiopathic foot type, and recurrent presentation as independent predictors of increased casting requirements. The flail subtype did not differ significantly from idiopathic clubfoot in casting burden. Recurrence was significantly lower in Group I (5/63 [7.9%]) than in Group II (9/42 [21.4%]; P = 0.042). A significant Spearman correlation between initial Pirani score and casting requirement was observed only in the flail subgroup (P = 0.007) of Group II. At final follow-up, treatment success (Pirani score \u22640.5) was achieved in 98.82% of Group I and 95.41% of Group II, P < 0.001. The Ponseti method is an effective and reliable treatment for both idiopathic and non-idiopathic clubfoot. In recurrent cases, timely minimally invasive adjunctive procedures may restore correction and reduce the need for extensive surgical release at later stages.",
-   "doi": "10.13107/jocr.2026.v16.i09.8120",
+   "abstract": "Generalized joint laxity (GJL) has been reported as a risk factor for poor outcomes following multiligament surgery. However, no previous studies have investigated whether GJL is a risk factor of postoperative resprain following anatomic reconstruction using gracilis tendon autograft. To investigate whether GJL is a risk factor of postoperative resprain in chronic lateral ankle instability (CLAI) patients following anatomic reconstruction using gracilis tendon autograft. Cohort study; Level of evidence, 3. A total of 290 consecutive CLAI patients who underwent anatomic reconstruction using gracilis tendon autograft from January 2018 to September 2023 with a minimum follow-up of 24 months were retrospectively evaluated and were divided into 2 groups according to the presence of GJL (based on age and Beighton score). Clinical outcomes were measured through the presence of postoperative noncontact resprain and recurrent instability, return-to-sport status, and patient-reported outcomes including the visual analog scale (VAS) for pain, Tegner Activity Level scale, and Karlsson-Peterson ankle score (Karlsson score). Risk factors associated with postoperative noncontact resprain were determined using univariate and multivariate logistic regression analysis. Survival outcomes were compared using Kaplan-Meier analysis. A total of 72 patients were included in the GJL group (mean age at surgery, 27.5 \u00b1 9.0 years; male, n = 27; female, n = 45), and 218 patients were included in the non-GJL group (mean age at surgery, 32.8 \u00b1 10.2 years; male, n = 129; female, n = 89). The overall noncontact resprain rate was 6.6%, and the overall recurrent instability rate was 1.7%. There was no significant difference in the postoperative VAS, Tegner, return to recreational sports rate, return to preinjury sports rate, and other surgical complications between the 2 groups. The patients with GJL demonstrated a significantly higher postoperative noncontact resprain rate (15.3% vs 3.7%; P = .001), a significantly higher postoperative recurrent instability rate (6.9% vs 0.0%; P = .001), and a significantly lower postoperative Karlsson score (90.0 \u00b1 6.2 vs 95.6 \u00b1 4.4; P < .001) compared with those without GJL. Multivariate logistic regression analysis revealed that GJL was an independent predictor of postoperative noncontact resprain following anatomic reconstruction using gracilis tendon autograft (P = .004; odds ratio = 4.293; 95% CI, 1.612-11.431). The cumulative success rates of the patients with GJL were significantly lower than those of the patients without GJL (P = .001). GJL is an independent predictor of postoperative noncontact resprain of CLAI patients following anatomic reconstruction using gracilis tendon autograft.",
+   "doi": "10.1177/23259671261477818",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42713086/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42719479/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42717845",
+   "title": "The Effect of Different Prophylactic Ankle Taping on Knee Biomechanics During Landing Tasks in Healthy Individuals: A Cross-Sectional Observational Design.",
+   "journal": "Physiother Res Int",
+   "year": "2026",
+   "authors": [
+    "Ko\u00e7 M",
+    "Y\u0131ld\u0131r\u0131m M\u015e",
+    "Canan Pakelo\u011flu A",
+    "Salehpour Marandi S",
+    "et al."
+   ],
+   "abstract": "The ability to perform jumping and landing maneuvers effectively is important for athletic performance and injury prevention. The aim of this study was to compare the immediate effects of dynamic taping (DT) and Kinesio taping (KT) applied to the ankle on knee biomechanics during a single-leg countermovement jump (SL-CMJ) in healthy individuals. Eighteen healthy individuals (8 males, 10 females) performed the SL-CMJ under three randomized conditions: no taping, DT, and KT. Each condition was tested on separate days. Two-dimensional video-based motion analysis was used to assess peak knee valgus angle (o), jump height (cm), flight time (s), and ground contact time (s) during the SL-CMJ. Both DT and KT significantly increased peak knee valgus angle and significantly reduced jump height, flight time, and ground contact time compared with the no-taping condition (all p\u00a0<\u00a00.05). However, no significant differences were observed between DT and KT for any of the measured outcomes (all p\u00a0>\u00a00.05). Both DT and KT altered landing biomechanics during the SL-CMJ in healthy individuals by increasing the peak knee valgus angle and reducing jump performance variables. However, no differences were observed between DT and KT, indicating that their different mechanical properties did not result in different effects on the measured outcomes. Because only healthy individuals were evaluated and only the immediate effects of taping were investigated, further studies are needed to determine the clinical relevance of these biomechanical changes.",
+   "doi": "10.1002/pri.70335",
+   "pubtypes": [
+    "Journal Article",
+    "Observational Study",
+    "Comparative Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42717845/",
    "matched": [
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42718668",
+   "title": "The interventional effects of PNF training on functional ankle instability in habitually active adults.",
+   "journal": "Front Public Health",
+   "year": "2026",
+   "authors": [
+    "Liao W",
+    "Xu S",
+    "Wang R",
+    "Zhang J"
+   ],
+   "abstract": "Functional ankle instability (FAI) is common among habitually active adults and may lead to recurrent sprains, reduced athletic performance, and long-term joint dysfunction. This randomized controlled trial aimed to compare the clinical efficacy of proprioceptive neuromuscular facilitation (PNF) training with strength-plus-balance training in habitually active adults with FAI. A total of 68 habitually active adults with FAI were randomly assigned to either a PNF training group or a strength-plus-balance training group, both undergoing an 8-week rehabilitation program. Outcome measures were assessed before and after the intervention and included the Cumberland Ankle Instability Tool (CAIT), lower limb stability tests, Star Excursion Balance Test (SEBT), and ankle muscle strength assessments. After 8 weeks, a significant group \u00d7 time interaction was observed for CAIT scores (p < 0.001), with improvements from 13.00 \u00b1 2.48 to 24.07 \u00b1 3.53 in the PNF training group and from 13.47 \u00b1 2.45 to 20.13 \u00b1 2.72 in the strength-plus-balance training group. PNF training also produced greater gains in overall balance ability, while strength-plus-balance training was more effective for enhancing ankle inversion strength (p = 0.039). In conclusion, both rehabilitation programs improved ankle function in habitually active adults with FAI; however, PNF training demonstrated superior improvements in overall balance, whereas strength-plus-balance training was more effective in enhancing ankle inversion strength. These findings may assist clinicians in selecting rehabilitation strategies according to specific therapeutic goals. ClinicalTrials.gov, registration number: NCT06308809.",
+   "doi": "10.3389/fpubh.2026.1923487",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42718668/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -896,6 +925,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42711700",
+   "title": "Effects of an actuated ankle exoskeleton on walking stability in healthy adults: a controlled laboratory study.",
+   "journal": "J Neuroeng Rehabil",
+   "year": "2026",
+   "authors": [
+    "Kettner C",
+    "Beyerlein M",
+    "Marquardt C",
+    "De\u017eman M",
+    "et al."
+   ],
+   "abstract": "Ankle exoskeletons are widely used to reduce the metabolic cost of walking, yet their effects on walking stability during unperturbed gait remain insufficiently understood. Walking stability can be characterized using complementary measures that capture stride-to-stride variability, global temporal organization, and local dynamic stability. Understanding how walking with an actuated ankle exoskeleton system influences these different aspects of gait stability is essential for the safe design and control of wearable robotic devices. Eighteen healthy adults walked on a treadmill at a constant speed (1.1\u00a0m/s) with and without an actuated bilateral ankle exoskeleton in a randomized crossover design. Spatiotemporal variability was quantified using coefficients of variation (CoV) of stride length, step width, and stance ratio. Global gait stability was assessed using detrended fluctuation analysis of stride time. Local dynamic stability was evaluated using maximum Lyapunov exponent calculated for the trunk, hip, upper leg, lower leg, and foot. Paired-samples two-sided t-tests were used to compare conditions. Walking with the ankle exoskeleton resulted in increased stride-to-stride spatiotemporal variability, reflected by higher CoV values for stride length (p\u2009<\u20090.001) and stance ratio (p\u2009=\u20090.005), while mean stride length and step width remained unchanged. Mean stance ratio was reduced in the exoskeleton condition (p\u2009<\u20090.001). Global gait stability did not differ between conditions, indicating preserved long-range temporal gait organization. Local dynamic stability increased at the lower leg (p\u2009<\u20090.001) and foot (p\u2009=\u20090.019) when walking with the exoskeleton. Walking with the actuated ankle exoskeleton alters gait control across multiple levels during steady walking. While stride-to-stride variability in stride length and stance ratio increased, global gait stability remained unchanged. Local dynamic stability was increased at the lower leg and foot, suggesting segment-specific effects of ankle-level assistance close to the assisted joint. However, these findings should be interpreted as the combined effect of wearing the exoskeleton and receiving active assistance, rather than the isolated effect of plantarflexion assistance. These\u00a0results provide insight for the design and control of ankle exoskeletons with respect to stability-related effects during walking.",
+   "doi": "10.1186/s12984-026-02151-y",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42711700/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42703580",
    "title": "Effects of metatarsal bar and heel lift on foot biomechanics during gait: implications for performance-related biomechanics.",
    "journal": "J Phys Ther Sci",
@@ -913,6 +971,34 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42713199",
+   "title": "Effects of Soccer Boot Insoles on Muscle Activity and Ankle Inversion Proprioception in Drop Landing Tasks in Patients with and without Chronic Ankle Instability.",
+   "journal": "J Hum Kinet",
+   "year": "2026",
+   "authors": [
+    "Aimkosa R",
+    "Tirosh O",
+    "Genderton C",
+    "El-Ansary D",
+    "et al."
+   ],
+   "abstract": "Chronic ankle instability (CAI) poses challenges in sports. Textured insoles are a promising intervention for optimizing ankle muscle activity and enhancing ankle proprioceptive ability in individuals with CAI. This study investigated the effects of different types of insoles on ankle muscle activity and ankle inversion proprioception during drop-landing tasks. Thirty-two soccer players (16 CAI, 16 non-CAI) participated in the study. Electromyographic (EMG) activity of the tibialis anterior (TA), medial gastrocnemius (MG), and peroneus longus (PL) muscles was recorded during drop-landing tasks using the ankle inversion discrimination apparatus for landing (AIDAL) with textured insoles (TI) and standard flat insoles (SI). Ankle inversion proprioception was assessed using the AIDAL. Muscle activity was analyzed for pre- and initial contact phases. CAI players showed significantly reduced TA activity compared to non-CAI players during both pre-initial (2.62 \u00b1 1.86 vs. 5.53 \u00b1 5.15; p = 0.04) and initial contact phases (18.7 \u00b1 13.6 vs. 29.9 \u00b1 20.6; p = 0.01). CAI players also exhibited greater MG activity during pre-initial (16 \u00b1 6.15 vs. 12.5 \u00b1 6.38; p = 0.03) and initial contact phases (60.8 \u00b1 32.5 vs. 41.5 \u00b1 14.8; p = 0.004), and higher PL activity during the pre-initial contact phase (7.39 \u00b1 4.75 vs. 4.28 \u00b1 2.83; p = 0.003). No significant CAI/insole main effects or interactions (p > 0.05) were observed in AIDAL proprioceptive scores. Overall, CAI players showed significant alterations in ankle muscle activity during drop-landing tasks. Increased PL activity during the pre-initial contact phase may serve as a compensatory strategy to enhance ankle stability, while reduced TA and increased MG activation during pre-initial and initial contact phases may contribute to the high incidence of recurrent ankle sprains in CAI individuals. Additionally, the lack of immediate effects from insoles on muscle activity suggests that their influence on sensory input and foot positioning may require prolonged use to induce measurable neuromuscular adaptations.",
+   "doi": "10.5114/jhk/205685",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42713199/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -1823,6 +1909,34 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42713086",
+   "title": "Retrospective Comparative Analysis of Ponseti Method of Treatment for Idiopathic and Nonidiopathic Clubfoot: A 4 year follow-up study.",
+   "journal": "J Orthop Case Rep",
+   "year": "2026",
+   "authors": [
+    "Das SL",
+    "Sheth B",
+    "R KK",
+    "Mugutrao AA",
+    "et al."
+   ],
+   "abstract": "This study sought to critically evaluate the effectiveness of the Ponseti method in treating idiopathic and non-idiopathic clubfoot, and compared clinical outcomes over a 4-year follow-up. A total of 75 children (105 clubfeet) were treated with the Ponseti casting protocol at an institution-based clubfoot clinic. Group I comprised 45 patients (63 clubfeet) with idiopathic clubfoot, while Group II included 30 patients (42 clubfeet) with non-idiopathic clubfoot, including arthrogryposis multiplex congenita, flail myelomeningocele, spina bifida, and various syndromic clubfoot. Demographic characteristics, number of casts, tenotomy rate, recurrence, need for minimally invasive adjunct procedures in recurrent or residual cases, and treatment success were compared. Clinical outcomes were assessed using the Pirani score at each follow-up, while brace compliance was based on subjective parent-reported adherence at brace initiation and treatment completion. Group I required significantly fewer casts than Group II (median 5.0 vs. 8.0; P < 0.001), whereas tenotomy rates were comparable (75.5% vs. 73.3%). Multivariable linear regression identified higher initial Pirani score, older age at presentation, rigid non-idiopathic foot type, and recurrent presentation as independent predictors of increased casting requirements. The flail subtype did not differ significantly from idiopathic clubfoot in casting burden. Recurrence was significantly lower in Group I (5/63 [7.9%]) than in Group II (9/42 [21.4%]; P = 0.042). A significant Spearman correlation between initial Pirani score and casting requirement was observed only in the flail subgroup (P = 0.007) of Group II. At final follow-up, treatment success (Pirani score \u22640.5) was achieved in 98.82% of Group I and 95.41% of Group II, P < 0.001. The Ponseti method is an effective and reliable treatment for both idiopathic and non-idiopathic clubfoot. In recurrent cases, timely minimally invasive adjunctive procedures may restore correction and reduce the need for extensive surgical release at later stages.",
+   "doi": "10.13107/jocr.2026.v16.i09.8120",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42713086/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42651219",
