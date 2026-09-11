@@ -1,5 +1,101 @@
 [
  {
+  "pmid": "42724219",
+  "title": "Discovering the mechanics of ultra-low density elastomeric foams in elite-level racing shoes.",
+  "journal": "Eng Comput",
+  "year": "2026",
+  "authors": [
+   "McCulloch JA",
+   "Delp SL",
+   "Kuhl E"
+  ],
+  "abstract": "Ultra-low-density elastomeric foams enable lightweight systems that combine high compliance with efficient energy return. Their mechanical response is inherently complex, characterized by high compressibility, nonlinear elasticity, and microstructural heterogeneity. In high-performance racing shoes, these foams are critical for low weight, high cushioning, and efficient energy return; yet, their constitutive behavior remains difficult to model and poorly understood. Here we integrate mechanical testing and machine learning to discover the mechanics of two ultra-low density elastomeric polymeric foams used in elite-level racing shoes. Across uniaxial tension, confined and unconfined compression, and simple shear, both foams exhibit pronounced tension-compression asymmetry, negligible lateral deformation consistent with an effective Poisson's ratio close to zero, and low hysteresis indicative of an efficient energy return. Quantitatively, at a strain rate of 0.25/s, both foams provide a similar compressive stiffness (E = 268\u00b116\u00a0kPa vs. E = 299\u00b129\u00a0kPa), while one foam exhibits a 42% higher tensile stiffness (E = 884\u00b169\u00a0kPa vs. E = 623\u00b196\u00a0kPa), and nearly double the shear stiffness (G = 219\u00b120\u00a0kPa vs. G = 117\u00b124\u00a0kPa), implying a substantially greater lateral stiffness at a comparable vertical energy return (83.3\u00b11.5% vs. 88.9\u00b11.8%). By integrating these data into constitutive neural networks, paired with sparse regression, we discover compact, interpretable single-invariant models-supplemented by mixed-invariant or principal-stretch based terms-that capture the unique signature of the foams with [Formula: see text] values close to one across all loading modes. From a human performance perspective, these models have the potential to improve gait-level simulations with high-performance racing shoes to quantify running economy, performance enhancements, and injury risks on an individual athlete level. More broadly, this work establishes a scalable and interpretable approach for constitutive modeling of highly compressible, ultra-light elastomeric foams with applications to wearable technologies, soft robotics, and energy-efficient mobility systems. Source code, data, and examples are available at https://github.com/LivingMatterLab/CANN.",
+  "doi": "10.1007/s00366-026-02398-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42724219/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-11T17:10:37Z"
+ },
+ {
+  "pmid": "42722516",
+  "title": "Posterior-caudal talar displacement and muscle stiffness during ankle dorsiflexion in chronic ankle instability: A cross-sectional ultrasonographic study.",
+  "journal": "J Orthop Sci",
+  "year": "2026",
+  "authors": [
+   "Onoue S",
+   "Maeda N",
+   "Tashiro T",
+   "Arima S",
+   "et al."
+  ],
+  "abstract": "Restricted ankle dorsiflexion range of motion is a common impairment in individuals with chronic ankle instability and may be related to altered talar kinematics. However, the relationship between talar displacement during dorsiflexion and gastrocnemius muscle stiffness remains unclear. This study compared posterior and caudal talar displacement during ankle dorsiflexion, measured using ultrasonography, and medial and lateral gastrocnemius muscle stiffness between individuals with chronic ankle instability and controls. This cross-sectional study included 40 male participants (chronic ankle instability group: n = 20 feet; control group: n = 20 feet). Ankle dorsiflexion range of motion was assessed under non-weight-bearing and weight-bearing conditions. Posterior and caudal talar displacement were measured at 0\u00b0, 10\u00b0, and 20\u00b0 of ankle dorsiflexion using B-mode ultrasonography. Muscle stiffness of the medial and lateral gastrocnemius was evaluated using a MyotonPRO device. Group (chronic ankle instability vs. control) and dorsiflexion angle served as the between-subject and within-subject factors, respectively, in a two-way repeated-measures analysis of variance. The chronic ankle instability group showed significantly smaller posterior talar displacement during ankle dorsiflexion than the control group, with a significant interaction between group and dorsiflexion angle. Between-group differences in posterior talar displacement increased with greater dorsiflexion. For caudal talar displacement, no significant interaction was observed; however, significant main effects of group and dorsiflexion angle indicated that the chronic ankle instability group exhibited smaller caudal talar displacement than the control group, and caudal talar displacement increased with increasing dorsiflexion angle in both groups. For muscle stiffness of both the medial and lateral gastrocnemius, no significant interaction or main effect of group was observed, whereas a significant main effect of ankle dorsiflexion angle indicated that muscle stiffness increased with increasing dorsiflexion angle. Individuals with chronic ankle instability exhibited reduced posterior and caudal talar displacement during ankle dorsiflexion compared with controls, whereas no between-group differences were observed in medial and lateral gastrocnemius muscle stiffness. These findings may provide fundamental information for the assessment of dorsiflexion limitation in individuals with chronic ankle instability.",
+  "doi": "10.1016/j.jos.2026.08.015",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42722516/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-11T17:10:37Z"
+ },
+ {
+  "pmid": "42724100",
+  "title": "Return to Sport After Excision of Os Trigonum of Talus in Athletes.",
+  "journal": "Foot Ankle Orthop",
+  "year": "2026",
+  "authors": [
+   "Watson A",
+   "Kalyanasundaram G",
+   "Wahl AJ",
+   "Chao W"
+  ],
+  "abstract": "Os trigonum syndrome is a common cause of posterior ankle pain in athletes performing repetitive hyper\u2011plantarflexion of the ankle. An accessory bone posterior to the talus, the os trigonum, may remain unfused or form a Stieda process, leading to pain from overuse, trauma, or impingement. Failure of conservative management often requires surgical excision. The objectives of this study are to evaluate the sustainability of long\u2011term pain relief and return to sport outcomes following open excision for bony impingement in athletes with os trigonum syndrome. A retrospective chart review identified 33 athletes who underwent open posteromedial os trigonum excision after at least 3 months of failed conservative treatment for os trigonum syndrome between 2014 and 2024. Exclusions were concomitant procedures not related to os trigonum syndrome or lost to follow\u2011up. Demographics, return to sport status, complications, and patient\u2011reported pain scores were collected. Pain scores were recorded preoperatively and at <1 month, 6 weeks, 3 months, and >1 year and compared with preoperative values using paired t tests. All athletes were interviewed as their most recent follow\u2011up. The analysis included 26 athletes (35 ankles). Mean follow\u2011up was 7.3 \u00b1 3.0 years. The average age was 17.4 \u00b1 4.5 years, and 85% were female. Most were ballet dancers (n = 23), with 12% of athletes from other sports. Twenty\u2011five of 26 athletes returned to their sport. There was 1 reoperation for postoperative hematoma and no nerve complications. The mean preoperative pain score was 3.3 \u00b1 3.3, with significant improvement at each time interval (P \u2264 .033 for all comparisons). All athletes reported no pain at >1 year of follow-up. In this cohort of athletes with symptomatic os trigonum syndrome due to bony impingement after failed conservative management, open posteromedial excision was associated with substantial pain improvement, no neurovascular complications, and a high rate of return to sport. Level IV, retrospective case series.",
+  "doi": "10.1177/24730114261481811",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42724100/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-11T17:10:37Z"
+ },
+ {
+  "pmid": "42721171",
+  "title": "Versatile Exoskeleton Control Supports Elderly Joint Energetics During Hip-Intensive Tasks.",
+  "journal": "IEEE Trans Neural Syst Rehabil Eng",
+  "year": "2026",
+  "authors": [
+   "Zhang J",
+   "Divekar NV",
+   "Krishnan C",
+   "Gregg RD"
+  ],
+  "abstract": "Age-related mobility decline is frequently accompanied by a redistribution of joint kinetics, where older adults compensate for reduced ankle function by increasing demand on the hip. Paradoxically, this compensatory shift typically coincides with age-related reductions in maximal hip power. Although robotic exoskeletons can provide immediate energetic benefits, conventional control strategies have limited previous studies in this population to specific tasks such as steady-state walking, which do not fully reflect mobility demands in the home and community. Here, we implement a task-agnostic hip exoskeleton controller that is inherently sensitive to joint power and validate its efficacy in eight older adults. Across a battery of hip-intensive activities that included level walking, ramp ascent, stair climbing, and sit-to-stand transitions, the exoskeleton matched biological power profiles with high accuracy (mean cosine similarity 0.89). Assistance significantly reduced sagittal plane biological positive work by 24.7% at the hip and by 9.3% for the lower limb, while simultaneously augmenting peak total (biological + exoskeleton) hip power and reducing peak biological hip power and torque. These results suggest that hip exoskeletons can potentially enhance endurance through biological work reduction, and increase functional reserve through total power augmentation, serving as a promising biomechanical intervention to support elderly mobility.",
+  "doi": "10.1109/TNSRE.2026.3732581",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42721171/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-11T17:10:37Z"
+ },
+ {
   "pmid": "42717580",
   "title": "Baseline peroneus longus reaction time predicts the response to proprioceptive training in chronic ankle instability: A single-centre retrospective cohort study.",
   "journal": "J Orthop Surg (Hong Kong)",

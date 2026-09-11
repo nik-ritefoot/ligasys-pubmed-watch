@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T17:09:38+00:00",
+ "generated": "2026-09-11T17:10:37+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,29 +65,56 @@
   }
  ],
  "counts": {
-  "total": 81,
+  "total": 80,
   "new": 4,
   "research": 27,
-  "fieldnotes": 54
+  "fieldnotes": 53
  },
  "records": [
   {
-   "pmid": "42717580",
-   "title": "Baseline peroneus longus reaction time predicts the response to proprioceptive training in chronic ankle instability: A single-centre retrospective cohort study.",
-   "journal": "J Orthop Surg (Hong Kong)",
+   "pmid": "42724219",
+   "title": "Discovering the mechanics of ultra-low density elastomeric foams in elite-level racing shoes.",
+   "journal": "Eng Comput",
    "year": "2026",
    "authors": [
-    "A F",
-    "Wu S",
-    "Yang J",
-    "Zhou K"
+    "McCulloch JA",
+    "Delp SL",
+    "Kuhl E"
    ],
-   "abstract": "BackgroundChronic ankle instability (CAI) is a common sequel of lateral ankle sprain, and proprioceptive training is its first-line treatment, yet the gain differs widely between patients. A prolonged peroneus longus reaction time (PRT) is a hallmark neuromuscular deficit of CAI, but whether it forecasts the training response is unknown.MethodsWe retrospectively analysed 183 adults with CAI who completed a supervised 12-week proprioceptive programme. Baseline PRT to sudden inversion was measured by surface electromyography. The primary outcome was the change in the Cumberland Ankle Instability Tool (CAIT); the Star Excursion Balance Test (SEBT) was secondary. Associations were tested with Pearson and partial correlation, analysis of covariance, multivariable linear regression and receiver-operating-characteristic analysis.ResultsCAIT improved from 18.4 to 22.2 points (mean change +3.8, p < 0.001). Baseline PRT was inversely related to the CAIT gain (Pearson r = -0.51, 95% CI -0.61 to -0.39; partial r adjusted for baseline CAIT = -0.57). In the adjusted model PRT remained the strongest predictor (partially standardized \u03b2 = -2.09 CAIT points per SD, p < 0.001). PRT discriminated non-responders with an area under the curve of 0.78 (95% CI 0.71-0.84).ConclusionsA shorter baseline peroneal reaction time was associated with a larger improvement after proprioceptive training. PRT is an inexpensive candidate marker that may help stratify CAI patients, although the retrospective single-centre design warrants prospective confirmation.",
-   "doi": "10.1177/10225536261480760",
+   "abstract": "Ultra-low-density elastomeric foams enable lightweight systems that combine high compliance with efficient energy return. Their mechanical response is inherently complex, characterized by high compressibility, nonlinear elasticity, and microstructural heterogeneity. In high-performance racing shoes, these foams are critical for low weight, high cushioning, and efficient energy return; yet, their constitutive behavior remains difficult to model and poorly understood. Here we integrate mechanical testing and machine learning to discover the mechanics of two ultra-low density elastomeric polymeric foams used in elite-level racing shoes. Across uniaxial tension, confined and unconfined compression, and simple shear, both foams exhibit pronounced tension-compression asymmetry, negligible lateral deformation consistent with an effective Poisson's ratio close to zero, and low hysteresis indicative of an efficient energy return. Quantitatively, at a strain rate of 0.25/s, both foams provide a similar compressive stiffness (E = 268\u00b116\u00a0kPa vs. E = 299\u00b129\u00a0kPa), while one foam exhibits a 42% higher tensile stiffness (E = 884\u00b169\u00a0kPa vs. E = 623\u00b196\u00a0kPa), and nearly double the shear stiffness (G = 219\u00b120\u00a0kPa vs. G = 117\u00b124\u00a0kPa), implying a substantially greater lateral stiffness at a comparable vertical energy return (83.3\u00b11.5% vs. 88.9\u00b11.8%). By integrating these data into constitutive neural networks, paired with sparse regression, we discover compact, interpretable single-invariant models-supplemented by mixed-invariant or principal-stretch based terms-that capture the unique signature of the foams with [Formula: see text] values close to one across all loading modes. From a human performance perspective, these models have the potential to improve gait-level simulations with high-performance racing shoes to quantify running economy, performance enhancements, and injury risks on an individual athlete level. More broadly, this work establishes a scalable and interpretable approach for constitutive modeling of highly compressible, ultra-light elastomeric foams with applications to wearable technologies, soft robotics, and energy-efficient mobility systems. Source code, data, and examples are available at https://github.com/LivingMatterLab/CANN.",
+   "doi": "10.1007/s00366-026-02398-y",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42717580/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42724219/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42722516",
+   "title": "Posterior-caudal talar displacement and muscle stiffness during ankle dorsiflexion in chronic ankle instability: A cross-sectional ultrasonographic study.",
+   "journal": "J Orthop Sci",
+   "year": "2026",
+   "authors": [
+    "Onoue S",
+    "Maeda N",
+    "Tashiro T",
+    "Arima S",
+    "et al."
+   ],
+   "abstract": "Restricted ankle dorsiflexion range of motion is a common impairment in individuals with chronic ankle instability and may be related to altered talar kinematics. However, the relationship between talar displacement during dorsiflexion and gastrocnemius muscle stiffness remains unclear. This study compared posterior and caudal talar displacement during ankle dorsiflexion, measured using ultrasonography, and medial and lateral gastrocnemius muscle stiffness between individuals with chronic ankle instability and controls. This cross-sectional study included 40 male participants (chronic ankle instability group: n = 20 feet; control group: n = 20 feet). Ankle dorsiflexion range of motion was assessed under non-weight-bearing and weight-bearing conditions. Posterior and caudal talar displacement were measured at 0\u00b0, 10\u00b0, and 20\u00b0 of ankle dorsiflexion using B-mode ultrasonography. Muscle stiffness of the medial and lateral gastrocnemius was evaluated using a MyotonPRO device. Group (chronic ankle instability vs. control) and dorsiflexion angle served as the between-subject and within-subject factors, respectively, in a two-way repeated-measures analysis of variance. The chronic ankle instability group showed significantly smaller posterior talar displacement during ankle dorsiflexion than the control group, with a significant interaction between group and dorsiflexion angle. Between-group differences in posterior talar displacement increased with greater dorsiflexion. For caudal talar displacement, no significant interaction was observed; however, significant main effects of group and dorsiflexion angle indicated that the chronic ankle instability group exhibited smaller caudal talar displacement than the control group, and caudal talar displacement increased with increasing dorsiflexion angle in both groups. For muscle stiffness of both the medial and lateral gastrocnemius, no significant interaction or main effect of group was observed, whereas a significant main effect of ankle dorsiflexion angle indicated that muscle stiffness increased with increasing dorsiflexion angle. Individuals with chronic ankle instability exhibited reduced posterior and caudal talar displacement during ankle dorsiflexion compared with controls, whereas no between-group differences were observed in medial and lateral gastrocnemius muscle stiffness. These findings may provide fundamental information for the assessment of dorsiflexion limitation in individuals with chronic ankle instability.",
+   "doi": "10.1016/j.jos.2026.08.015",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42722516/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -99,23 +126,22 @@
    "bucket": "research"
   },
   {
-   "pmid": "42719479",
-   "title": "Generalized Joint Laxity Is an Independent Predictor of Postoperative Resprain Following Anatomic Reconstruction Using Gracilis Tendon Autograft for Patients With Chronic Lateral Ankle Instability.",
-   "journal": "Orthop J Sports Med",
+   "pmid": "42724100",
+   "title": "Return to Sport After Excision of Os Trigonum of Talus in Athletes.",
+   "journal": "Foot Ankle Orthop",
    "year": "2026",
    "authors": [
-    "Liu H",
-    "Li J",
-    "Su T",
-    "Jiang Y",
-    "et al."
+    "Watson A",
+    "Kalyanasundaram G",
+    "Wahl AJ",
+    "Chao W"
    ],
-   "abstract": "Generalized joint laxity (GJL) has been reported as a risk factor for poor outcomes following multiligament surgery. However, no previous studies have investigated whether GJL is a risk factor of postoperative resprain following anatomic reconstruction using gracilis tendon autograft. To investigate whether GJL is a risk factor of postoperative resprain in chronic lateral ankle instability (CLAI) patients following anatomic reconstruction using gracilis tendon autograft. Cohort study; Level of evidence, 3. A total of 290 consecutive CLAI patients who underwent anatomic reconstruction using gracilis tendon autograft from January 2018 to September 2023 with a minimum follow-up of 24 months were retrospectively evaluated and were divided into 2 groups according to the presence of GJL (based on age and Beighton score). Clinical outcomes were measured through the presence of postoperative noncontact resprain and recurrent instability, return-to-sport status, and patient-reported outcomes including the visual analog scale (VAS) for pain, Tegner Activity Level scale, and Karlsson-Peterson ankle score (Karlsson score). Risk factors associated with postoperative noncontact resprain were determined using univariate and multivariate logistic regression analysis. Survival outcomes were compared using Kaplan-Meier analysis. A total of 72 patients were included in the GJL group (mean age at surgery, 27.5 \u00b1 9.0 years; male, n = 27; female, n = 45), and 218 patients were included in the non-GJL group (mean age at surgery, 32.8 \u00b1 10.2 years; male, n = 129; female, n = 89). The overall noncontact resprain rate was 6.6%, and the overall recurrent instability rate was 1.7%. There was no significant difference in the postoperative VAS, Tegner, return to recreational sports rate, return to preinjury sports rate, and other surgical complications between the 2 groups. The patients with GJL demonstrated a significantly higher postoperative noncontact resprain rate (15.3% vs 3.7%; P = .001), a significantly higher postoperative recurrent instability rate (6.9% vs 0.0%; P = .001), and a significantly lower postoperative Karlsson score (90.0 \u00b1 6.2 vs 95.6 \u00b1 4.4; P < .001) compared with those without GJL. Multivariate logistic regression analysis revealed that GJL was an independent predictor of postoperative noncontact resprain following anatomic reconstruction using gracilis tendon autograft (P = .004; odds ratio = 4.293; 95% CI, 1.612-11.431). The cumulative success rates of the patients with GJL were significantly lower than those of the patients without GJL (P = .001). GJL is an independent predictor of postoperative noncontact resprain of CLAI patients following anatomic reconstruction using gracilis tendon autograft.",
-   "doi": "10.1177/23259671261477818",
+   "abstract": "Os trigonum syndrome is a common cause of posterior ankle pain in athletes performing repetitive hyper\u2011plantarflexion of the ankle. An accessory bone posterior to the talus, the os trigonum, may remain unfused or form a Stieda process, leading to pain from overuse, trauma, or impingement. Failure of conservative management often requires surgical excision. The objectives of this study are to evaluate the sustainability of long\u2011term pain relief and return to sport outcomes following open excision for bony impingement in athletes with os trigonum syndrome. A retrospective chart review identified 33 athletes who underwent open posteromedial os trigonum excision after at least 3 months of failed conservative treatment for os trigonum syndrome between 2014 and 2024. Exclusions were concomitant procedures not related to os trigonum syndrome or lost to follow\u2011up. Demographics, return to sport status, complications, and patient\u2011reported pain scores were collected. Pain scores were recorded preoperatively and at <1 month, 6 weeks, 3 months, and >1 year and compared with preoperative values using paired t tests. All athletes were interviewed as their most recent follow\u2011up. The analysis included 26 athletes (35 ankles). Mean follow\u2011up was 7.3 \u00b1 3.0 years. The average age was 17.4 \u00b1 4.5 years, and 85% were female. Most were ballet dancers (n = 23), with 12% of athletes from other sports. Twenty\u2011five of 26 athletes returned to their sport. There was 1 reoperation for postoperative hematoma and no nerve complications. The mean preoperative pain score was 3.3 \u00b1 3.3, with significant improvement at each time interval (P \u2264 .033 for all comparisons). All athletes reported no pain at >1 year of follow-up. In this cohort of athletes with symptomatic os trigonum syndrome due to bony impingement after failed conservative management, open posteromedial excision was associated with substantial pain improvement, no neurovascular complications, and a high rate of return to sport. Level IV, retrospective case series.",
+   "doi": "10.1177/24730114261481811",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42719479/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42724100/",
    "matched": [
     {
      "id": "return-to-play",
@@ -127,63 +153,31 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42717845",
-   "title": "The Effect of Different Prophylactic Ankle Taping on Knee Biomechanics During Landing Tasks in Healthy Individuals: A Cross-Sectional Observational Design.",
-   "journal": "Physiother Res Int",
+   "pmid": "42721171",
+   "title": "Versatile Exoskeleton Control Supports Elderly Joint Energetics During Hip-Intensive Tasks.",
+   "journal": "IEEE Trans Neural Syst Rehabil Eng",
    "year": "2026",
    "authors": [
-    "Ko\u00e7 M",
-    "Y\u0131ld\u0131r\u0131m M\u015e",
-    "Canan Pakelo\u011flu A",
-    "Salehpour Marandi S",
-    "et al."
+    "Zhang J",
+    "Divekar NV",
+    "Krishnan C",
+    "Gregg RD"
    ],
-   "abstract": "The ability to perform jumping and landing maneuvers effectively is important for athletic performance and injury prevention. The aim of this study was to compare the immediate effects of dynamic taping (DT) and Kinesio taping (KT) applied to the ankle on knee biomechanics during a single-leg countermovement jump (SL-CMJ) in healthy individuals. Eighteen healthy individuals (8 males, 10 females) performed the SL-CMJ under three randomized conditions: no taping, DT, and KT. Each condition was tested on separate days. Two-dimensional video-based motion analysis was used to assess peak knee valgus angle (o), jump height (cm), flight time (s), and ground contact time (s) during the SL-CMJ. Both DT and KT significantly increased peak knee valgus angle and significantly reduced jump height, flight time, and ground contact time compared with the no-taping condition (all p\u00a0<\u00a00.05). However, no significant differences were observed between DT and KT for any of the measured outcomes (all p\u00a0>\u00a00.05). Both DT and KT altered landing biomechanics during the SL-CMJ in healthy individuals by increasing the peak knee valgus angle and reducing jump performance variables. However, no differences were observed between DT and KT, indicating that their different mechanical properties did not result in different effects on the measured outcomes. Because only healthy individuals were evaluated and only the immediate effects of taping were investigated, further studies are needed to determine the clinical relevance of these biomechanical changes.",
-   "doi": "10.1002/pri.70335",
+   "abstract": "Age-related mobility decline is frequently accompanied by a redistribution of joint kinetics, where older adults compensate for reduced ankle function by increasing demand on the hip. Paradoxically, this compensatory shift typically coincides with age-related reductions in maximal hip power. Although robotic exoskeletons can provide immediate energetic benefits, conventional control strategies have limited previous studies in this population to specific tasks such as steady-state walking, which do not fully reflect mobility demands in the home and community. Here, we implement a task-agnostic hip exoskeleton controller that is inherently sensitive to joint power and validate its efficacy in eight older adults. Across a battery of hip-intensive activities that included level walking, ramp ascent, stair climbing, and sit-to-stand transitions, the exoskeleton matched biological power profiles with high accuracy (mean cosine similarity 0.89). Assistance significantly reduced sagittal plane biological positive work by 24.7% at the hip and by 9.3% for the lower limb, while simultaneously augmenting peak total (biological + exoskeleton) hip power and reducing peak biological hip power and torque. These results suggest that hip exoskeletons can potentially enhance endurance through biological work reduction, and increase functional reserve through total power augmentation, serving as a promising biomechanical intervention to support elderly mobility.",
+   "doi": "10.1109/TNSRE.2026.3732581",
    "pubtypes": [
-    "Journal Article",
-    "Observational Study",
-    "Comparative Study"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42717845/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42721171/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42718668",
-   "title": "The interventional effects of PNF training on functional ankle instability in habitually active adults.",
-   "journal": "Front Public Health",
-   "year": "2026",
-   "authors": [
-    "Liao W",
-    "Xu S",
-    "Wang R",
-    "Zhang J"
-   ],
-   "abstract": "Functional ankle instability (FAI) is common among habitually active adults and may lead to recurrent sprains, reduced athletic performance, and long-term joint dysfunction. This randomized controlled trial aimed to compare the clinical efficacy of proprioceptive neuromuscular facilitation (PNF) training with strength-plus-balance training in habitually active adults with FAI. A total of 68 habitually active adults with FAI were randomly assigned to either a PNF training group or a strength-plus-balance training group, both undergoing an 8-week rehabilitation program. Outcome measures were assessed before and after the intervention and included the Cumberland Ankle Instability Tool (CAIT), lower limb stability tests, Star Excursion Balance Test (SEBT), and ankle muscle strength assessments. After 8 weeks, a significant group \u00d7 time interaction was observed for CAIT scores (p < 0.001), with improvements from 13.00 \u00b1 2.48 to 24.07 \u00b1 3.53 in the PNF training group and from 13.47 \u00b1 2.45 to 20.13 \u00b1 2.72 in the strength-plus-balance training group. PNF training also produced greater gains in overall balance ability, while strength-plus-balance training was more effective for enhancing ankle inversion strength (p = 0.039). In conclusion, both rehabilitation programs improved ankle function in habitually active adults with FAI; however, PNF training demonstrated superior improvements in overall balance, whereas strength-plus-balance training was more effective in enhancing ankle inversion strength. These findings may assist clinicians in selecting rehabilitation strategies according to specific therapeutic goals. ClinicalTrials.gov, registration number: NCT06308809.",
-   "doi": "10.3389/fpubh.2026.1923487",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial",
-    "Clinical Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42718668/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42675844",
@@ -208,31 +202,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42577447",
-   "title": "A sixteen-year epidemiological study of match injuries sustained during the women's Rugby World Cup (2010 to 2025).",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Fuller CW",
-    "Taylor A"
-   ],
-   "abstract": "Professionalisation of women's rugby has increased over the past ten years. The impact of this development on the incidence and nature of injuries sustained during international competitions has not been reported. This study aimed to provide anthropometric and epidemiological information relating to women's international Rugby-15s. Team medical staff, working with eighteen national teams taking part in five women's Rugby World Cups over the period 2010-2025, recorded players' anthropometric and injury data. The observational methodology used in the study followed the international consensus statement for surveillance studies in elite rugby. Data relating to the incidence, severity, burden, nature and cause of injuries were collected. The overall incidence of injury over the 16-year period was 45.2 injuries/1,000 player-match-hours with a mean severity of 48.4 days. Concussion (21.7%), knee-ligament (12.5%) and ankle-ligament (10.8%) injuries were the most common injuries sustained by backs and knee-ligament (17.2%), concussion (14.2%) and ankle-ligament (8.2%) injuries the most common for forwards. Knee-ligament injuries were responsible for 33.0% of all time-loss by backs and 43.2% of all time-loss by forwards. The incidence of injury during the women's Rugby World Cup was significantly lower but the mean severity of the injuries significantly higher than values reported previously for the men's Rugby World Cup. Consequently, injury burden values during the women's and men's Rugby World Cups are similar. Knee-ligament and concussion injuries should be the focus of injury prevention initiatives in women's rugby, as they are the most common injuries and are responsible for the greatest time-loss.",
-   "doi": "10.3389/fspor.2026.1812403",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42577447/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -521,6 +490,33 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42717580",
+   "title": "Baseline peroneus longus reaction time predicts the response to proprioceptive training in chronic ankle instability: A single-centre retrospective cohort study.",
+   "journal": "J Orthop Surg (Hong Kong)",
+   "year": "2026",
+   "authors": [
+    "A F",
+    "Wu S",
+    "Yang J",
+    "Zhou K"
+   ],
+   "abstract": "BackgroundChronic ankle instability (CAI) is a common sequel of lateral ankle sprain, and proprioceptive training is its first-line treatment, yet the gain differs widely between patients. A prolonged peroneus longus reaction time (PRT) is a hallmark neuromuscular deficit of CAI, but whether it forecasts the training response is unknown.MethodsWe retrospectively analysed 183 adults with CAI who completed a supervised 12-week proprioceptive programme. Baseline PRT to sudden inversion was measured by surface electromyography. The primary outcome was the change in the Cumberland Ankle Instability Tool (CAIT); the Star Excursion Balance Test (SEBT) was secondary. Associations were tested with Pearson and partial correlation, analysis of covariance, multivariable linear regression and receiver-operating-characteristic analysis.ResultsCAIT improved from 18.4 to 22.2 points (mean change +3.8, p < 0.001). Baseline PRT was inversely related to the CAIT gain (Pearson r = -0.51, 95% CI -0.61 to -0.39; partial r adjusted for baseline CAIT = -0.57). In the adjusted model PRT remained the strongest predictor (partially standardized \u03b2 = -2.09 CAIT points per SD, p < 0.001). PRT discriminated non-responders with an area under the curve of 0.78 (95% CI 0.71-0.84).ConclusionsA shorter baseline peroneal reaction time was associated with a larger improvement after proprioceptive training. PRT is an inexpensive candidate marker that may help stratify CAI patients, although the retrospective single-centre design warrants prospective confirmation.",
+   "doi": "10.1177/10225536261480760",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42717580/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42662945",
@@ -1226,34 +1222,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42577126",
-   "title": "Functional outcomes and rehabilitation behaviors following ankle sprain in amateur padel players: a cross-sectional study.",
-   "journal": "Front Med (Lausanne)",
-   "year": "2026",
-   "authors": [
-    "Alanazi F",
-    "Al Dera HS",
-    "Al Shammary T",
-    "AlSharif A",
-    "et al."
-   ],
-   "abstract": "Ankle sprain is one of the most common injuries in racket sports; however, data on its prevalence, risk factors, and functional impact among amateur padel players remain limited. To determine the prevalence and clinical profile of ankle sprain injuries, identify associated risk factors, and evaluate the relationship between preventive behaviors and functional outcomes among amateur padel players in Saudi Arabia. A cross-sectional study was conducted among 187 amateur padel players. Data on demographics, playing exposure, injury characteristics, and preventive behaviors were collected. Functional outcomes were assessed using the Foot and Ankle Disability Index (FADI). Parametric statistical analyses, including independent-samples t-tests, one-way ANOVA, Pearson correlation, and multivariable logistic regression, were performed. The prevalence of ankle sprain was 14.97% (95% CI: 10.30-20.80). Injuries were predominantly right-sided (60.71%) and commonly caused by landing (57.14%), with most classified as moderate (46.43%). Functional limitation was reported by 75.00%, and recurrent sprains occurred in 42.86%. Mean FADI score was 86.12 \u00b1 8.74. Playing experience \u22651 year (aOR = 3.18, p = 0.021) and frequency \u22652 sessions/week (aOR = 2.88, p = 0.026) were independent predictors of injury. Preventive behaviors were not associated with injury risk but were significantly associated with higher FADI scores, particularly balance and strengthening exercises (\u0394 = 8.20, p = 0.008). Ankle sprains are common among amateur padel players and are associated with persistent functional impairment. Playing exposure was the primary factor associated with injury risk, while preventive behaviors play a significant role in improving functional recovery.",
-   "doi": "10.3389/fmed.2026.1887372",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42577126/",
-   "matched": [
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42617228",
    "title": "Gait patterns observed during obstacle walking in adults with mild intellectual disability.",
    "journal": "Gait Posture",
@@ -1279,6 +1247,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42719479",
+   "title": "Generalized Joint Laxity Is an Independent Predictor of Postoperative Resprain Following Anatomic Reconstruction Using Gracilis Tendon Autograft for Patients With Chronic Lateral Ankle Instability.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Liu H",
+    "Li J",
+    "Su T",
+    "Jiang Y",
+    "et al."
+   ],
+   "abstract": "Generalized joint laxity (GJL) has been reported as a risk factor for poor outcomes following multiligament surgery. However, no previous studies have investigated whether GJL is a risk factor of postoperative resprain following anatomic reconstruction using gracilis tendon autograft. To investigate whether GJL is a risk factor of postoperative resprain in chronic lateral ankle instability (CLAI) patients following anatomic reconstruction using gracilis tendon autograft. Cohort study; Level of evidence, 3. A total of 290 consecutive CLAI patients who underwent anatomic reconstruction using gracilis tendon autograft from January 2018 to September 2023 with a minimum follow-up of 24 months were retrospectively evaluated and were divided into 2 groups according to the presence of GJL (based on age and Beighton score). Clinical outcomes were measured through the presence of postoperative noncontact resprain and recurrent instability, return-to-sport status, and patient-reported outcomes including the visual analog scale (VAS) for pain, Tegner Activity Level scale, and Karlsson-Peterson ankle score (Karlsson score). Risk factors associated with postoperative noncontact resprain were determined using univariate and multivariate logistic regression analysis. Survival outcomes were compared using Kaplan-Meier analysis. A total of 72 patients were included in the GJL group (mean age at surgery, 27.5 \u00b1 9.0 years; male, n = 27; female, n = 45), and 218 patients were included in the non-GJL group (mean age at surgery, 32.8 \u00b1 10.2 years; male, n = 129; female, n = 89). The overall noncontact resprain rate was 6.6%, and the overall recurrent instability rate was 1.7%. There was no significant difference in the postoperative VAS, Tegner, return to recreational sports rate, return to preinjury sports rate, and other surgical complications between the 2 groups. The patients with GJL demonstrated a significantly higher postoperative noncontact resprain rate (15.3% vs 3.7%; P = .001), a significantly higher postoperative recurrent instability rate (6.9% vs 0.0%; P = .001), and a significantly lower postoperative Karlsson score (90.0 \u00b1 6.2 vs 95.6 \u00b1 4.4; P < .001) compared with those without GJL. Multivariate logistic regression analysis revealed that GJL was an independent predictor of postoperative noncontact resprain following anatomic reconstruction using gracilis tendon autograft (P = .004; odds ratio = 4.293; 95% CI, 1.612-11.431). The cumulative success rates of the patients with GJL were significantly lower than those of the patients without GJL (P = .001). GJL is an independent predictor of postoperative noncontact resprain of CLAI patients following anatomic reconstruction using gracilis tendon autograft.",
+   "doi": "10.1177/23259671261477818",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42719479/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42606584",
    "title": "High ankle sprains in athletes: A comprehensive imaging focused review.",
    "journal": "Skeletal Radiol",
@@ -1296,36 +1292,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42606584/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42580194",
-   "title": "Impacts of ankle sprain on functional performance in under-20 soccer players: a cross-sectional study.",
-   "journal": "Phys Ther Sport",
-   "year": "2026",
-   "authors": [
-    "Oliveira VF",
-    "Mesquita LB",
-    "Sousa JE",
-    "Carmo VJG",
-    "et al."
-   ],
-   "abstract": "To compare functional and biomechanical parameters related to ankle mobility, neuromuscular control, and dynamic balance in under-20 soccer players with and without a history of lateral ankle sprain. Multicenter cross-sectional observational study. Training centers of two professional soccer clubs in Brazil. Seventy-five male soccer players aged 16-20 years. A comprehensive assessment was performed using the Cumberland Ankle Instability Tool (CAIT) to assess perceived ankle instability, the Foot and Ankle Ability Measure (FAAM) to evaluate self-reported function, the Weight-Bearing Lunge Test (WBLT) to measure ankle dorsiflexion, the Y-Balance Test (YBT) to assess dynamic balance, and the Hop Tests to evaluate lower-limb neuromuscular performance. Athletes with a history of lateral ankle sprain showed lower joint stability (p\u202f\u2264\u202f0.005), reduced functionality (p\u202f\u2264\u202f0.040), decreased dorsiflexion (p\u202f=\u202f0.031), impaired dynamic balance (p\u202f=\u202f0.046), and worse performance in hop tests (p\u202f\u2264\u202f0.018) CONCLUSIONS: A history of lateral ankle sprain was associated with poorer ankle function, reduced dorsiflexion, impaired dynamic balance, and lower neuromuscular performance in under-20 soccer players. These findings support the use of comprehensive functional assessment to guide rehabilitation and return-to-sport strategies.",
-   "doi": "10.1016/j.ptsp.2026.101964",
-   "pubtypes": [
-    "Journal Article",
-    "Observational Study",
-    "Multicenter Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42580194/",
    "matched": [
     {
      "id": "return-to-play",
@@ -1708,43 +1674,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42578423",
-   "title": "Oral Contraceptive Use Has Protective Effect Against Ankle Sprains in Women.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Shi RX",
-    "Maloy GC",
-    "Pappajohn AF",
-    "Grauer JN"
-   ],
-   "abstract": "Ankle sprain (AS) is among the most common musculoskeletal injury, particularly in women. Hormonal fluctuations during the menstrual cycle may contribute to this sex disparity by affecting ligamentous laxity and muscle stiffness. While oral contraceptive pills (OCPs) modulate hormone levels and have been linked to reduced anterior cruciate ligament (ACL) injuries, there is limited evidence on the correlation of OCPs with AS. OCP use is associated with decreased odds of AS in a large national cohort. Case-control study. Level 4. The 2010-2023 PearlDiver database was queried for female patients aged 15\u2009years to 50 years old with and without AS, identified from orthopaedic and control populations, respectively. Controls were subsequently matched 1:1 to AS patients. Each cohort was stratified by OCP use, defined as OCP prescription within 1\u2009year before AS, and subcategorized by OCP formulation. Multivariate analysis was used to investigate independent predictors of AS, including OCP use, with secondary analysis for OCP type. In total, 1,836,163 patients with ASs and 108,761 controls met inclusion criteria. On average, the AS cohort was older (30.3 vs 27.5\u2009years; P\u2009<\u20090.001), had a higher comorbidity index (1.9 vs 1.0; P\u2009<\u20090.001), and had a higher proportion of patients with severe obesity (5.4% vs 2.2%; P\u2009<\u20090.001). Postmatch multivariate analysis showed OCP use to be associated with decreased odds of ASs (odds ratio [OR], 0.47; 95% CI, 0.46-0.49; P\u2009<\u20090.001). Nonestrogen formulations had a greater protective effect (OR, 0.20; 95% CI, 0.18-0.22; P\u2009<\u20090.001) compared with estrogen-progesterone OCPs (OR, 0.47; 95% CI, 0.46-0.48; P\u2009<\u20090.001). Patients using OCP were found to have significantly decreased odds of AS compared with non-OCP patients. These findings may guide future treatment and injury prevention plans, particularly for at-risk female athletes.",
-   "doi": "10.1177/19417381261472581",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42578423/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42592166",
    "title": "Over-the-counter hearing aids and integrated health-monitoring sensors: a review of clinical evidence and implementation.",
    "journal": "Front Digit Health",
@@ -2107,6 +2036,36 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42717845",
+   "title": "The Effect of Different Prophylactic Ankle Taping on Knee Biomechanics During Landing Tasks in Healthy Individuals: A Cross-Sectional Observational Design.",
+   "journal": "Physiother Res Int",
+   "year": "2026",
+   "authors": [
+    "Ko\u00e7 M",
+    "Y\u0131ld\u0131r\u0131m M\u015e",
+    "Canan Pakelo\u011flu A",
+    "Salehpour Marandi S",
+    "et al."
+   ],
+   "abstract": "The ability to perform jumping and landing maneuvers effectively is important for athletic performance and injury prevention. The aim of this study was to compare the immediate effects of dynamic taping (DT) and Kinesio taping (KT) applied to the ankle on knee biomechanics during a single-leg countermovement jump (SL-CMJ) in healthy individuals. Eighteen healthy individuals (8 males, 10 females) performed the SL-CMJ under three randomized conditions: no taping, DT, and KT. Each condition was tested on separate days. Two-dimensional video-based motion analysis was used to assess peak knee valgus angle (o), jump height (cm), flight time (s), and ground contact time (s) during the SL-CMJ. Both DT and KT significantly increased peak knee valgus angle and significantly reduced jump height, flight time, and ground contact time compared with the no-taping condition (all p\u00a0<\u00a00.05). However, no significant differences were observed between DT and KT for any of the measured outcomes (all p\u00a0>\u00a00.05). Both DT and KT altered landing biomechanics during the SL-CMJ in healthy individuals by increasing the peak knee valgus angle and reducing jump performance variables. However, no differences were observed between DT and KT, indicating that their different mechanical properties did not result in different effects on the measured outcomes. Because only healthy individuals were evaluated and only the immediate effects of taping were investigated, further studies are needed to determine the clinical relevance of these biomechanical changes.",
+   "doi": "10.1002/pri.70335",
+   "pubtypes": [
+    "Journal Article",
+    "Observational Study",
+    "Comparative Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42717845/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42661273",
    "title": "The Effect of Stud Flexibility on Lower Limb Biomechanical Demands in Football-Specific Movements.",
    "journal": "Sports Health",
@@ -2127,6 +2086,35 @@
     {
      "id": "footwear-interface",
      "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42718668",
+   "title": "The interventional effects of PNF training on functional ankle instability in habitually active adults.",
+   "journal": "Front Public Health",
+   "year": "2026",
+   "authors": [
+    "Liao W",
+    "Xu S",
+    "Wang R",
+    "Zhang J"
+   ],
+   "abstract": "Functional ankle instability (FAI) is common among habitually active adults and may lead to recurrent sprains, reduced athletic performance, and long-term joint dysfunction. This randomized controlled trial aimed to compare the clinical efficacy of proprioceptive neuromuscular facilitation (PNF) training with strength-plus-balance training in habitually active adults with FAI. A total of 68 habitually active adults with FAI were randomly assigned to either a PNF training group or a strength-plus-balance training group, both undergoing an 8-week rehabilitation program. Outcome measures were assessed before and after the intervention and included the Cumberland Ankle Instability Tool (CAIT), lower limb stability tests, Star Excursion Balance Test (SEBT), and ankle muscle strength assessments. After 8 weeks, a significant group \u00d7 time interaction was observed for CAIT scores (p < 0.001), with improvements from 13.00 \u00b1 2.48 to 24.07 \u00b1 3.53 in the PNF training group and from 13.47 \u00b1 2.45 to 20.13 \u00b1 2.72 in the strength-plus-balance training group. PNF training also produced greater gains in overall balance ability, while strength-plus-balance training was more effective for enhancing ankle inversion strength (p = 0.039). In conclusion, both rehabilitation programs improved ankle function in habitually active adults with FAI; however, PNF training demonstrated superior improvements in overall balance, whereas strength-plus-balance training was more effective in enhancing ankle inversion strength. These findings may assist clinicians in selecting rehabilitation strategies according to specific therapeutic goals. ClinicalTrials.gov, registration number: NCT06308809.",
+   "doi": "10.3389/fpubh.2026.1923487",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42718668/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -2245,33 +2233,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42575027",
-   "title": "Trauma Visits Relating to E-Bikes and Non-E-Bikes at a London University Hospital Emergency Department Between 2022 and 2025: A Retrospective Cohort Study.",
-   "journal": "J Emerg Med",
-   "year": "2026",
-   "authors": [
-    "Siswick J",
-    "Albert A",
-    "Kotecha S",
-    "Stoneham A"
-   ],
-   "abstract": "Electric bicycle (\"e-bike\") use has increased rapidly in London and internationally. E-bike-related trauma ranges from minor injuries to major polytrauma, with a substantial long-term health care burden. Contemporary U.K. emergency department (ED) data comparing e-bike and conventional bicycle injuries remain limited. To quantify trends in e-bike-related ED visits in a 3-year period and compare demographics, injury patterns, alcohol involvement, helmet use, and markers of clinical severity with non-e-bike cycling injuries. We conducted a retrospective cohort study of ED visits between September 2022 and August 2025. Cycling-related visits were identified from the electronic patient record using predefined search terms and categorized as \"e-bike\" or \"non-e-bike.\" Data collected included demographics, time of presentation, injury type, admission, operative management, and documented alcohol and helmet use. Comparative statistical analysis was carried out using \"R\" software. Among 5529 cycling-related visits, 564 (10%) involved e-bikes. The proportion attributable to e-bikes increased from 3.8% in year 1 to 16.0% in year 3 (p < 0.001). Compared with non-e-bike injuries, e-bike injuries were associated with an increased relative risk of head or neck injury (+41%) and lower limb injury (+33%) and a reduced risk of upper limb injury (-36%). Alcohol involvement was more frequent in e-bike cases (8.0% vs. 3.0%). Where documented, 81% of e-bike riders were not wearing helmets. A total of 17 e-bike patients (3%) required surgery. E-bike-related ED visits increased substantially in the study period and were associated with distinct injury patterns and modifiable risk factors. These findings support targeted injury prevention and public health interventions as e-bike use continues to rise.",
-   "doi": "10.1016/j.jemermed.2026.07.006",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42575027/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
