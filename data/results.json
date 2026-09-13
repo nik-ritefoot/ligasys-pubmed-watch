@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-12T16:28:14+00:00",
+ "generated": "2026-09-13T17:02:54+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,131 @@
   }
  ],
  "counts": {
-  "total": 79,
-  "new": 0,
-  "research": 27,
+  "total": 78,
+  "new": 4,
+  "research": 26,
   "fieldnotes": 52
  },
  "records": [
+  {
+   "pmid": "42731809",
+   "title": "Arthroscopic Management of Ankle Ligament Injuries: A New Gold Standard?",
+   "journal": "Orthop Traumatol Surg Res",
+   "year": "2026",
+   "authors": [
+    "Lopes R",
+    "Guillo S",
+    "Bauer T"
+   ],
+   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. 1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. 2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. 3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
+   "doi": "10.1016/j.otsr.2026.104873",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42731809/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42728689",
+   "title": "Association of Slope-Reducing Osteotomy With Return to Preinjury Level of Sport After Failed Anterior Cruciate Ligament Reconstruction in Elite Athletes.",
+   "journal": "Am J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Martorell-de Fortuny L",
+    "Perelli S",
+    "Cance N",
+    "Mazy D",
+    "et al."
+   ],
+   "abstract": "Increased posterior tibial slope (PTS) has been identified as a major risk factor for failure after anterior cruciate ligament reconstruction (ACLR). In athletes with high PTS undergoing revision ACLR, slope-reducing osteotomy (SRO) has been proposed to reduce anterior cruciate ligament graft forces and improve outcomes, but data regarding return to sport in elite athletes remain limited. To evaluate whether combining SRO with revision ACLR would allow elite athletes with increased PTS to return to their preinjury level of sport and, further, to assess clinical, functional, and radiographic outcomes. Case series; Level of evidence, 4. This retrospective study included elite athletes with failed ACLR and PTS \u226510\u00b0 who underwent revision ACLR combined with supratuberosity SRO between 2011 and 2023 at 2 centers. Return-to-sport (RTS) rate and time, clinical and functional outcomes (International Knee Documentation Committee [IKDC], Lysholm, Tegner, Anterior Cruciate Ligament-Return to Sport After Injury scale [ACL-RSI]), and radiographic parameters (PTS, hip-knee-ankle angle, and Caton Deschamps index) were evaluated. Of the 22 ACLRs with SRO performed, 19 patients met the inclusion criteria. All athletes returned to competition at their preinjury level after a mean of 12.1 \u00b1 2.3 months (range, 10-20 months), with a mean ACL-RSI score of 87.2 \u00b1 6.7. Final scores, obtained at a mean follow-up of 58.8 \u00b1 38.7 months (range, 24-169 months), showed excellent outcomes: IKDC score improved from 44.2 \u00b1 10.7 preoperatively to 92.3 \u00b1 6.7 postoperatively (P < .001; 95% CI, 42-54), and Lysholm score improved from 46.8 \u00b1 14.2 to 96.9 \u00b1 3.1 (P < .001; 95% CI, 35.2-65). Postoperative Tegner score corresponded to elite participation (mean, 9.7). Mean PTS decreased from 14.9\u00b0\u00b1 3\u00b0 to 4.5\u00b0\u00b1 2.8\u00b0, with no significant changes in coronal alignment or patellar height. No graft failure or major complications occurred; reoperations were limited to staple removal for local discomfort. In elite athletes with high PTS and failed ACLR, combining SRO with revision ACLR was safe and effective, enabling RTS with excellent clinical and functional outcomes.",
+   "doi": "10.1177/03635465261479920",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42728689/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42730692",
+   "title": "Comprehensive Clinical Evaluation of the Combined Effects of Physical Therapy and Exercise Therapy in the Rehabilitation of Sports Injuries.",
+   "journal": "J Vis Exp",
+   "year": "2026",
+   "authors": [
+    "Wang Y",
+    "Ning J",
+    "Zhao M",
+    "Zhang Y",
+    "et al."
+   ],
+   "abstract": "Sports injuries are common among athletes and recreationally active individuals, and rehabilitation outcomes influence functional recovery and the risk of re-injury. Physical therapy and exercise therapy are established rehabilitation strategies; however, evidence regarding their combined effectiveness remains limited. This retrospective cohort study evaluated the clinical effectiveness of combining physical therapy with staged exercise therapy for sports injury rehabilitation. A total of 185 patients with knee, ankle, or muscle strain injuries received either physical therapy alone (Physiotherapy group, n = 90) or physical therapy combined with staged exercise therapy (Comprehensive Therapy group, n = 95). Baseline characteristics were comparable between groups. Outcomes included motor function (Lysholm score, assessed at 8 weeks in the knee injury subgroup), pain (Numerical Rating Scale [NRS]), functional recovery (American Orthopaedic Foot and Ankle Society [AOFAS] score in the ankle injury subgroup), dynamic balance (Star Excursion Balance Test [SEBT]), quality of life (Short Form-36 [SF-36]), and adverse reactions. At 8 weeks, the Comprehensive Therapy group demonstrated lower resting NRS scores (1.26 \u00b1 0.95 vs. 2.48 \u00b1 1.02; P < 0.001) and activity NRS scores (3.56 \u00b1 0.95 vs. 4.48 \u00b1 1.05; P < 0.001) than the Physiotherapy group. Improvements in Lysholm score (85.07 \u00b1 4.14 vs. 76.30 \u00b1 5.86; P < 0.001), AOFAS score (79.02 \u00b1 3.03 vs. 75.22 \u00b1 5.03; P = 0.001), SEBT performance (102.32 \u00b1 1.42 vs. 95.18 \u00b1 1.33; P < 0.001), and seven of eight SF-36 domains (P < 0.05) were greater in the Comprehensive Therapy group. Adverse reaction rates were comparable between groups (P > 0.05). Combined therapy was associated with greater improvements in pain, functional recovery, balance, and quality of life than physical therapy alone, with a comparable safety profile. However, the 8-week follow-up precludes assessment of long-term outcomes.",
+   "doi": "10.3791/70484",
+   "pubtypes": [
+    "Journal Article",
+    "Video-Audio Media"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42730692/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42730156",
+   "title": "Lower limb exoskeletons for older adults: key assistance parameters and evaluation of ankle assistive strategies via musculoskeletal modelling.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Mallah J",
+    "Occhipinti LG"
+   ],
+   "abstract": "Aging comes with physiological changes resulting in alterations to gait, decline of muscle function, and balance that contribute to reduced mobility, increased metabolic cost of walking, and elevated fall and injury risks in older adults. Wearable lower-limb exoskeletons have emerged as a promising strategy to support healthy aging; however, identifying optimal assistance strategies remains challenging due to the complexity and cost of experimental testing. In this study, we combined musculoskeletal modelling and simulations to identify key assistance parameters for older-adult gait and evaluate different ankle exoskeleton configurations computationally, based on muscle activation, metabolic consumption, device weight and power requirement, efficiency, and performance. Motion capture, force plate, and electromyography data from younger and older adults were processed using OpenSim-based musculoskeletal simulations with age-adjusted muscle parameters. Age-related gait differences were quantified across spatiotemporal, kinematic, kinetic, and muscle activation metrics. Subsequently, unilateral and bilateral ankle assistance strategies providing plantarflexion (PF), dorsiflexion (DF), or combined plantarflexion-dorsiflexion (PFDF) support were simulated using unidirectional path actuators representative of cable-driven exoskeletons. Older adults exhibited reduced ankle and hip range of motion, decreased plantarflexion, delayed joint moments, shorter step length, and increased double support time compared with younger adults. These changes suggest that elderly gait can be improved with kinematic assistance at the ankles and hips, timed kinetic assistance at the knees and hips, as well as balance support, hence an opportunity for exoskeleton intervention. Simulated ankle assistance reduced muscle activations and metabolic expenditure, with bilateral PFDF assistance providing the greatest overall benefits. While dorsiflexion-only assistance reduced power requirements, it occasionally increased metabolic consumption. Overall, bilateral assistance outperformed unilateral configurations across most performance metrics. These findings provide biomechanical design guidelines for future lower-limb exoskeletons targeting mobility enhancement and fall-risk reduction in aging populations and demonstrate the value of computational biomechanics for screening assistive-device configurations prior to experimental implementation.",
+   "doi": "10.3389/fspor.2026.1888675",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42730156/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "42675844",
    "title": "[Research on Exoskeleton Human-Machine Interaction for Walking Assistance in Myasthenia].",
@@ -562,34 +681,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42594821",
-   "title": "Comparative subtalar joint kinematics in humans and non-human primates: Axis orientation and translation in cadaveric specimens.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Ogihara N",
-    "Matsumoto Y",
-    "Seki H",
-    "Nagura T",
-    "et al."
-   ],
-   "abstract": "Despite its importance to hindfoot function, subtalar joint kinematics remain largely unexplored in primates. Subtalar joint motion reflects the functional consequences of articular morphology for locomotion, but how this motion varies across primate taxa is poorly understood. To provide a quantitative basis, we compared subtalar kinematics across humans, great apes, and a macaque under controlled inversion/eversion using cadaveric specimens. Calcaneal motion relative to the talus was quantified from CT scans within a common foot-based coordinate system using both a conventional helical-axis decomposition and a posterior facet-based representation grounded in articular geometry. Humans exhibited a more vertically oriented subtalar rotational axis than great apes and the macaque, whereas deviation angles varied little among taxa. The magnitude of translation accompanying inversion-eversion was relatively small in the macaque and human sample of the current study. This translation tended to be larger in African apes, while orangutans partly overlapped with humans. Across all taxa, translation associated with inversion/eversion aligned more closely with the cylindrical axis derived from posterior facet geometry than with the helical axis. Consequently, translation quantified along the helical axis may underestimate displacement relative to the facet-based representation. These findings demonstrate systematic taxonomic differences in subtalar axis orientation and mobility, and suggest that a posterior facet-based representation provides a more anatomically grounded description of subtalar translation than conventional helical-axis decomposition. Reduced translation and a more vertical axis in humans are consistent with functional demands for hindfoot stability during bipedal locomotion, providing a framework for interpreting evolutionary variation in primate hindfoot morphology.",
-   "doi": "10.1016/j.jbiomech.2026.113519",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42594821/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42633070",
    "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
    "journal": "Orthop J Sports Med",
@@ -639,35 +730,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42591514",
-   "title": "Current concepts in arthroscopic treatment for chronic lateral ankle instability: a clinical practice review.",
-   "journal": "Ann Jt",
-   "year": "2026",
-   "authors": [
-    "Sano S",
-    "Hoshino Y",
-    "Yamamoto T",
-    "Kanzaki N",
-    "et al."
-   ],
-   "abstract": "Chronic lateral ankle instability (CLAI) is a frequent sequela of acute lateral ligament injury, causing recurrent sprains, persistent pain, and functional limitations, particularly among athletes and active individuals. While most acute ankle sprains respond well to conservative treatment, approximately 20-30% of patients experience persistent mechanical or functional instability requiring surgical intervention. In recent years, arthroscopic techniques have grown in popularity due to their minimally invasive nature, ability to address concomitant intra-articular pathology, and favorable recovery profiles compared to open surgery. This clinical practice review integrates recent evidence from randomized controlled trials, comparative cohort studies, and technical reports with expert clinical experience to provide practical guidance on the arthroscopic management of CLAI. For patients with adequate ligament tissue quality, arthroscopic Brostr\u00f6m repair remains the preferred first-line option, offering high return to sport (RTS) rates and low complication rates. For cases involving revision, poor-quality tissue, or generalized ligamentous laxity, arthroscopic ligament reconstruction using autografts or allografts is recommended. Concomitant procedures such as synovectomy, loose body removal, and cartilage debridement or microfracture can be performed during the same operation. A structured postoperative rehabilitation program is essential for achieving optimal outcomes. Early protected mobilization is followed by progressive range of motion (ROM) and strengthening phases, with sport-specific training typically initiated at about 3 months postoperatively. Current evidence suggests that arthroscopic management yields comparable clinical results to open procedures, while enabling the simultaneous treatment of associated joint pathologies and potentially facilitating faster recovery. Arthroscopic management of CLAI should be regarded not merely as a surgical alternative, but as a comprehensive clinical approach that integrates diagnosis, surgical decision-making, and rehabilitation for optimized patient outcomes. This review aims to provide an evidence-informed framework to guide orthopedic surgeons and sports medicine clinicians in the individualized, evidence-based management of CLAI.",
-   "doi": "10.21037/aoj-2026-1-0008",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42591514/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -802,32 +864,6 @@
     "Editorial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42620481/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42594004",
-   "title": "Effect of Discrepant Gait Assistance on the Motion and Stability of Unplanned Gait Termination.",
-   "journal": "IEEE Trans Neural Syst Rehabil Eng",
-   "year": "2026",
-   "authors": [
-    "Sakashita Y",
-    "Akiyama Y",
-    "Okamoto S"
-   ],
-   "abstract": "For the development and widespread adoption of wearable robots, ensuring the safety of the wearers is critical. The gait instability risks specific to wearable gait-assist robots arise from the motion interference of the robot. Such motion interference occurs due to sudden changes in the wearer's gait. This study focuses on unplanned gait termination, an abrupt stopping motion during walking. The primary objective of this study was to clarify the effects of discrepant assistance provided continuously during gait termination, in contrast to the wearers' intention. In the experiments, unplanned gait termination was induced while walking with a gait-assist robot, and the wearers' motions were compared between conditions with and without discrepant assistance in terms of gait termination distance, time, and physical stability. The results showed that discrepant assistance facilitated leg swings and significantly increased the step length required to stop. This extension impedes the wearers' ability to stop within short distances and may increase situational hazards such as collision or misstep risk in spatially constrained environments. Regression analysis indicated that joint kinematics during the late swing phase were most strongly associated with this extension. Conversely, the anterior mechanical stability margin increased. These findings indicate that discrepant assistance may increase risks specific to unplanned gait termination, highlighting the need to consider such risks beyond the conventional focus on fall prevention. The effect of discrepant assistance revealed in this study provides insight into the design of gait assistance that ensures the safety of gait-assist robots.",
-   "doi": "10.1109/TNSRE.2026.3723589",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42594004/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -1564,32 +1600,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42592166",
-   "title": "Over-the-counter hearing aids and integrated health-monitoring sensors: a review of clinical evidence and implementation.",
-   "journal": "Front Digit Health",
-   "year": "2026",
-   "authors": [
-    "Itatani N",
-    "Zavaglia M"
-   ],
-   "abstract": "The FDA's 2022 over-the-counter (OTC) hearing aid rule created a new access pathway for adults with mild to moderate hearing loss. Hearing aids have also begun incorporating health-monitoring sensors. This PRISMA-guided narrative review evaluates the clinical evidence for OTC hearing aids and the validation status of health sensors in hearing aids, based on 59 studies identified from PubMed, Scopus, Web of Science, and the Cochrane Library and published between 2020 and 2026. In most randomized trials, self-fitted OTC hearing aids produced outcomes noninferior to professionally fitted devices, though one trial found audiologist-fitted hearing aids achieved better results. Consumer adoption has been incremental, with most OTC users still seeking professional support. Usability assessments found that many older adults had difficulty completing self-fitting tasks without error, and current self-fitting interfaces may not guide users toward optimal amplification. Accelerometry-based hearing aid sensors for gait analysis and energy expenditure demonstrated accuracy comparable to established reference and consumer devices. A prototype multi-sensor platform successfully measured temperature, oxygen saturation, heart rate, and respiration rate. Health sensors in hearing aids are technically validated but clinically unproven, as no study has linked sensor data to improved patient outcomes. If outcome studies confirm these uses, sensor-equipped hearing aids could become useful in geriatric medicine, cardiovascular monitoring, and fall prevention, linking audiology to wider medical care. Getting there will require prospective clinical trials, standard validation methods, and regulatory frameworks for dual-purpose devices.",
-   "doi": "10.3389/fdgth.2026.1771022",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42592166/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42673612",
    "title": "Participant-Reported Reductions in Falls and Fall-Related Injuries Associated with Variable-Friction Footwear: A Retrospective Pre-Post Survey Study.",
    "journal": "JMIR Rehabil Assist Technol",
@@ -2146,34 +2156,6 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42656973/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42590683",
-   "title": "Tracking Recovery in Motion: Longitudinal, Multi-Contextual Monitoring of Return-to-Play in Collegiate Basketball.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Kritzer TD",
-    "White K",
-    "Maynard M",
-    "Palanisamy A",
-    "et al."
-   ],
-   "abstract": "Anterior cruciate ligament (ACL) injuries represent one of the most common and disruptive conditions in sport. Effective return-to-play (RTP) monitoring requires multidimensional approaches capturing physical, psychological, and sport-specific components rather than reliance on isolated benchmarks. This study aimed to longitudinally examine the RTP process of a female varsity basketball athlete following ACL reconstruction, using a framework integrating physical performance (capacity), biomechanical sport-specific (capability), and psychological (confidence) components relative to pre-injury benchmarks. Data collection included countermovement jump testing with force plates, on-court inertial measurement unit (IMU) monitoring of limb-loading, and psychological questionnaires, analyzed relative to the athlete's pre-injury baseline, with post-surgical change interpreted against that individualized reference using minimal detectable change thresholds. Pre-injury monitoring indicated stable movement profiles with minor fluctuations. Following ACL reconstruction, jump height recovered within seven weeks of RTP initiation, but notable inter-limb asymmetries persisted in force plate and IMU measures despite high confidence scores. Symmetry improved over time, yet variability in on-court loading remained after clinical clearance. These findings highlight the value of integrated, multidimensional monitoring to detect residual deficits that may be overlooked by traditional outcome-based assessments. This study demonstrates that integrating athlete-specific biomechanical, psychological, and sport-specific assessments relative to pre-injury baselines can support RTP decision-making to enhance individualized recovery trajectories in female athletes.",
-   "doi": "10.3390/s26154909",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42590683/",
    "matched": [
     {
      "id": "wearable-prevention",
