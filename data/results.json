@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-13T17:02:54+00:00",
+ "generated": "2026-09-14T18:51:27+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,131 +65,12 @@
   }
  ],
  "counts": {
-  "total": 78,
-  "new": 4,
+  "total": 77,
+  "new": 0,
   "research": 26,
-  "fieldnotes": 52
+  "fieldnotes": 51
  },
  "records": [
-  {
-   "pmid": "42731809",
-   "title": "Arthroscopic Management of Ankle Ligament Injuries: A New Gold Standard?",
-   "journal": "Orthop Traumatol Surg Res",
-   "year": "2026",
-   "authors": [
-    "Lopes R",
-    "Guillo S",
-    "Bauer T"
-   ],
-   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. 1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. 2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. 3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
-   "doi": "10.1016/j.otsr.2026.104873",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42731809/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42728689",
-   "title": "Association of Slope-Reducing Osteotomy With Return to Preinjury Level of Sport After Failed Anterior Cruciate Ligament Reconstruction in Elite Athletes.",
-   "journal": "Am J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Martorell-de Fortuny L",
-    "Perelli S",
-    "Cance N",
-    "Mazy D",
-    "et al."
-   ],
-   "abstract": "Increased posterior tibial slope (PTS) has been identified as a major risk factor for failure after anterior cruciate ligament reconstruction (ACLR). In athletes with high PTS undergoing revision ACLR, slope-reducing osteotomy (SRO) has been proposed to reduce anterior cruciate ligament graft forces and improve outcomes, but data regarding return to sport in elite athletes remain limited. To evaluate whether combining SRO with revision ACLR would allow elite athletes with increased PTS to return to their preinjury level of sport and, further, to assess clinical, functional, and radiographic outcomes. Case series; Level of evidence, 4. This retrospective study included elite athletes with failed ACLR and PTS \u226510\u00b0 who underwent revision ACLR combined with supratuberosity SRO between 2011 and 2023 at 2 centers. Return-to-sport (RTS) rate and time, clinical and functional outcomes (International Knee Documentation Committee [IKDC], Lysholm, Tegner, Anterior Cruciate Ligament-Return to Sport After Injury scale [ACL-RSI]), and radiographic parameters (PTS, hip-knee-ankle angle, and Caton Deschamps index) were evaluated. Of the 22 ACLRs with SRO performed, 19 patients met the inclusion criteria. All athletes returned to competition at their preinjury level after a mean of 12.1 \u00b1 2.3 months (range, 10-20 months), with a mean ACL-RSI score of 87.2 \u00b1 6.7. Final scores, obtained at a mean follow-up of 58.8 \u00b1 38.7 months (range, 24-169 months), showed excellent outcomes: IKDC score improved from 44.2 \u00b1 10.7 preoperatively to 92.3 \u00b1 6.7 postoperatively (P < .001; 95% CI, 42-54), and Lysholm score improved from 46.8 \u00b1 14.2 to 96.9 \u00b1 3.1 (P < .001; 95% CI, 35.2-65). Postoperative Tegner score corresponded to elite participation (mean, 9.7). Mean PTS decreased from 14.9\u00b0\u00b1 3\u00b0 to 4.5\u00b0\u00b1 2.8\u00b0, with no significant changes in coronal alignment or patellar height. No graft failure or major complications occurred; reoperations were limited to staple removal for local discomfort. In elite athletes with high PTS and failed ACLR, combining SRO with revision ACLR was safe and effective, enabling RTS with excellent clinical and functional outcomes.",
-   "doi": "10.1177/03635465261479920",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42728689/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42730692",
-   "title": "Comprehensive Clinical Evaluation of the Combined Effects of Physical Therapy and Exercise Therapy in the Rehabilitation of Sports Injuries.",
-   "journal": "J Vis Exp",
-   "year": "2026",
-   "authors": [
-    "Wang Y",
-    "Ning J",
-    "Zhao M",
-    "Zhang Y",
-    "et al."
-   ],
-   "abstract": "Sports injuries are common among athletes and recreationally active individuals, and rehabilitation outcomes influence functional recovery and the risk of re-injury. Physical therapy and exercise therapy are established rehabilitation strategies; however, evidence regarding their combined effectiveness remains limited. This retrospective cohort study evaluated the clinical effectiveness of combining physical therapy with staged exercise therapy for sports injury rehabilitation. A total of 185 patients with knee, ankle, or muscle strain injuries received either physical therapy alone (Physiotherapy group, n = 90) or physical therapy combined with staged exercise therapy (Comprehensive Therapy group, n = 95). Baseline characteristics were comparable between groups. Outcomes included motor function (Lysholm score, assessed at 8 weeks in the knee injury subgroup), pain (Numerical Rating Scale [NRS]), functional recovery (American Orthopaedic Foot and Ankle Society [AOFAS] score in the ankle injury subgroup), dynamic balance (Star Excursion Balance Test [SEBT]), quality of life (Short Form-36 [SF-36]), and adverse reactions. At 8 weeks, the Comprehensive Therapy group demonstrated lower resting NRS scores (1.26 \u00b1 0.95 vs. 2.48 \u00b1 1.02; P < 0.001) and activity NRS scores (3.56 \u00b1 0.95 vs. 4.48 \u00b1 1.05; P < 0.001) than the Physiotherapy group. Improvements in Lysholm score (85.07 \u00b1 4.14 vs. 76.30 \u00b1 5.86; P < 0.001), AOFAS score (79.02 \u00b1 3.03 vs. 75.22 \u00b1 5.03; P = 0.001), SEBT performance (102.32 \u00b1 1.42 vs. 95.18 \u00b1 1.33; P < 0.001), and seven of eight SF-36 domains (P < 0.05) were greater in the Comprehensive Therapy group. Adverse reaction rates were comparable between groups (P > 0.05). Combined therapy was associated with greater improvements in pain, functional recovery, balance, and quality of life than physical therapy alone, with a comparable safety profile. However, the 8-week follow-up precludes assessment of long-term outcomes.",
-   "doi": "10.3791/70484",
-   "pubtypes": [
-    "Journal Article",
-    "Video-Audio Media"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42730692/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42730156",
-   "title": "Lower limb exoskeletons for older adults: key assistance parameters and evaluation of ankle assistive strategies via musculoskeletal modelling.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Mallah J",
-    "Occhipinti LG"
-   ],
-   "abstract": "Aging comes with physiological changes resulting in alterations to gait, decline of muscle function, and balance that contribute to reduced mobility, increased metabolic cost of walking, and elevated fall and injury risks in older adults. Wearable lower-limb exoskeletons have emerged as a promising strategy to support healthy aging; however, identifying optimal assistance strategies remains challenging due to the complexity and cost of experimental testing. In this study, we combined musculoskeletal modelling and simulations to identify key assistance parameters for older-adult gait and evaluate different ankle exoskeleton configurations computationally, based on muscle activation, metabolic consumption, device weight and power requirement, efficiency, and performance. Motion capture, force plate, and electromyography data from younger and older adults were processed using OpenSim-based musculoskeletal simulations with age-adjusted muscle parameters. Age-related gait differences were quantified across spatiotemporal, kinematic, kinetic, and muscle activation metrics. Subsequently, unilateral and bilateral ankle assistance strategies providing plantarflexion (PF), dorsiflexion (DF), or combined plantarflexion-dorsiflexion (PFDF) support were simulated using unidirectional path actuators representative of cable-driven exoskeletons. Older adults exhibited reduced ankle and hip range of motion, decreased plantarflexion, delayed joint moments, shorter step length, and increased double support time compared with younger adults. These changes suggest that elderly gait can be improved with kinematic assistance at the ankles and hips, timed kinetic assistance at the knees and hips, as well as balance support, hence an opportunity for exoskeleton intervention. Simulated ankle assistance reduced muscle activations and metabolic expenditure, with bilateral PFDF assistance providing the greatest overall benefits. While dorsiflexion-only assistance reduced power requirements, it occasionally increased metabolic consumption. Overall, bilateral assistance outperformed unilateral configurations across most performance metrics. These findings provide biomechanical design guidelines for future lower-limb exoskeletons targeting mobility enhancement and fall-risk reduction in aging populations and demonstrate the value of computational biomechanics for screening assistive-device configurations prior to experimental implementation.",
-   "doi": "10.3389/fspor.2026.1888675",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42730156/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
   {
    "pmid": "42675844",
    "title": "[Research on Exoskeleton Human-Machine Interaction for Walking Assistance in Myasthenia].",
@@ -331,6 +212,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42731809",
+   "title": "Arthroscopic Management of Ankle Ligament Injuries: A New Gold Standard?",
+   "journal": "Orthop Traumatol Surg Res",
+   "year": "2026",
+   "authors": [
+    "Lopes R",
+    "Guillo S",
+    "Bauer T"
+   ],
+   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. 1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. 2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. 3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
+   "doi": "10.1016/j.otsr.2026.104873",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42731809/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42646898",
    "title": "Artificial Intelligence and Psychophysiological Monitoring for Integrated Performance Modeling in Elite Soccer: A Scoping Review of Applications, Evidence Gaps, and Translational Challenges.",
    "journal": "Sports (Basel)",
@@ -387,6 +295,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42728689",
+   "title": "Association of Slope-Reducing Osteotomy With Return to Preinjury Level of Sport After Failed Anterior Cruciate Ligament Reconstruction in Elite Athletes.",
+   "journal": "Am J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Martorell-de Fortuny L",
+    "Perelli S",
+    "Cance N",
+    "Mazy D",
+    "et al."
+   ],
+   "abstract": "Increased posterior tibial slope (PTS) has been identified as a major risk factor for failure after anterior cruciate ligament reconstruction (ACLR). In athletes with high PTS undergoing revision ACLR, slope-reducing osteotomy (SRO) has been proposed to reduce anterior cruciate ligament graft forces and improve outcomes, but data regarding return to sport in elite athletes remain limited. To evaluate whether combining SRO with revision ACLR would allow elite athletes with increased PTS to return to their preinjury level of sport and, further, to assess clinical, functional, and radiographic outcomes. Case series; Level of evidence, 4. This retrospective study included elite athletes with failed ACLR and PTS \u226510\u00b0 who underwent revision ACLR combined with supratuberosity SRO between 2011 and 2023 at 2 centers. Return-to-sport (RTS) rate and time, clinical and functional outcomes (International Knee Documentation Committee [IKDC], Lysholm, Tegner, Anterior Cruciate Ligament-Return to Sport After Injury scale [ACL-RSI]), and radiographic parameters (PTS, hip-knee-ankle angle, and Caton Deschamps index) were evaluated. Of the 22 ACLRs with SRO performed, 19 patients met the inclusion criteria. All athletes returned to competition at their preinjury level after a mean of 12.1 \u00b1 2.3 months (range, 10-20 months), with a mean ACL-RSI score of 87.2 \u00b1 6.7. Final scores, obtained at a mean follow-up of 58.8 \u00b1 38.7 months (range, 24-169 months), showed excellent outcomes: IKDC score improved from 44.2 \u00b1 10.7 preoperatively to 92.3 \u00b1 6.7 postoperatively (P < .001; 95% CI, 42-54), and Lysholm score improved from 46.8 \u00b1 14.2 to 96.9 \u00b1 3.1 (P < .001; 95% CI, 35.2-65). Postoperative Tegner score corresponded to elite participation (mean, 9.7). Mean PTS decreased from 14.9\u00b0\u00b1 3\u00b0 to 4.5\u00b0\u00b1 2.8\u00b0, with no significant changes in coronal alignment or patellar height. No graft failure or major complications occurred; reoperations were limited to staple removal for local discomfort. In elite athletes with high PTS and failed ACLR, combining SRO with revision ACLR was safe and effective, enabling RTS with excellent clinical and functional outcomes.",
+   "doi": "10.1177/03635465261479920",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42728689/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42652869",
@@ -591,39 +527,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42599019",
-   "title": "Changes in ACL T2* Metrics Over the Course of the Female Menstrual Cycle: A New Biomarker for the ACL Injury Risk?",
-   "journal": "Am J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Argentieri E",
-    "Hamilton TW",
-    "Koff MF",
-    "Koch KM",
-    "et al."
-   ],
-   "abstract": "Sex-based disparities in the anterior cruciate ligament (ACL) injury risk may be partly explained by cyclic variations in sex hormones that drive systemic shifts in tissue osmoregulation. Ultrashort echo time (UTE) T2* magnetic resonance imaging provides a noninvasive, quantitative means of evaluating the water content and collagen orientation in tissue. Eumenorrheic female participants will exhibit significant ACL T2* changes across the cycle, while anovulatory control participants will demonstrate no significant changes over time. Cohort study; Level of evidence, 2. A total of 25 women with no prior knee injuries were enrolled: 10 premenopausal, eumenorrheic participants and 15 anovulatory control participants (6 postmenopausal and 9 premenopausal using oral contraceptives). Bilateral knee magnetic resonance imaging was performed at 4 time points evenly spaced over 1 month, with the first visit within 24 hours of menses onset. Ovulation status was confirmed using commercially available ovulation predictor kits. Three-dimensional UTE sequences (11 echoes; 0.03-25 ms) were acquired to evaluate bicomponent ACL T2* metrics. Linear mixed-effects models assessed temporal differences in long and short T2* values, and the Cohen d quantified effect size. Eumenorrheic participants demonstrated significantly shorter preovulatory long T2* values compared with postovulatory values (mean difference, 1.0 ms [95% CI, 0.2-1.9 ms]; P = .015; Cohen d = 0.51). No significant temporal differences were observed for any T2* metric in anovulatory controls. Eumenorrheic female participants exhibited significant preovulatory to postovulatory changes in ACL T2* metrics, while anovulatory controls demonstrated no significant changes over time. These findings suggest that ACL T2* metrics are sensitive to cyclic fluctuations in female sex hormones across the menstrual cycle.",
-   "doi": "10.1177/03635465261470921",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42599019/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42607798",
    "title": "Clinical outcomes following platelet-rich plasma injection for plantar plate injuries at midterm follow-up.",
    "journal": "J Foot Ankle Surg",
@@ -702,6 +605,35 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42730692",
+   "title": "Comprehensive Clinical Evaluation of the Combined Effects of Physical Therapy and Exercise Therapy in the Rehabilitation of Sports Injuries.",
+   "journal": "J Vis Exp",
+   "year": "2026",
+   "authors": [
+    "Wang Y",
+    "Ning J",
+    "Zhao M",
+    "Zhang Y",
+    "et al."
+   ],
+   "abstract": "Sports injuries are common among athletes and recreationally active individuals, and rehabilitation outcomes influence functional recovery and the risk of re-injury. Physical therapy and exercise therapy are established rehabilitation strategies; however, evidence regarding their combined effectiveness remains limited. This retrospective cohort study evaluated the clinical effectiveness of combining physical therapy with staged exercise therapy for sports injury rehabilitation. A total of 185 patients with knee, ankle, or muscle strain injuries received either physical therapy alone (Physiotherapy group, n = 90) or physical therapy combined with staged exercise therapy (Comprehensive Therapy group, n = 95). Baseline characteristics were comparable between groups. Outcomes included motor function (Lysholm score, assessed at 8 weeks in the knee injury subgroup), pain (Numerical Rating Scale [NRS]), functional recovery (American Orthopaedic Foot and Ankle Society [AOFAS] score in the ankle injury subgroup), dynamic balance (Star Excursion Balance Test [SEBT]), quality of life (Short Form-36 [SF-36]), and adverse reactions. At 8 weeks, the Comprehensive Therapy group demonstrated lower resting NRS scores (1.26 \u00b1 0.95 vs. 2.48 \u00b1 1.02; P < 0.001) and activity NRS scores (3.56 \u00b1 0.95 vs. 4.48 \u00b1 1.05; P < 0.001) than the Physiotherapy group. Improvements in Lysholm score (85.07 \u00b1 4.14 vs. 76.30 \u00b1 5.86; P < 0.001), AOFAS score (79.02 \u00b1 3.03 vs. 75.22 \u00b1 5.03; P = 0.001), SEBT performance (102.32 \u00b1 1.42 vs. 95.18 \u00b1 1.33; P < 0.001), and seven of eight SF-36 domains (P < 0.05) were greater in the Comprehensive Therapy group. Adverse reaction rates were comparable between groups (P > 0.05). Combined therapy was associated with greater improvements in pain, functional recovery, balance, and quality of life than physical therapy alone, with a comparable safety profile. However, the 8-week follow-up precludes assessment of long-term outcomes.",
+   "doi": "10.3791/70484",
+   "pubtypes": [
+    "Journal Article",
+    "Video-Audio Media"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42730692/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1394,6 +1326,41 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42730156",
+   "title": "Lower limb exoskeletons for older adults: key assistance parameters and evaluation of ankle assistive strategies via musculoskeletal modelling.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Mallah J",
+    "Occhipinti LG"
+   ],
+   "abstract": "Aging comes with physiological changes resulting in alterations to gait, decline of muscle function, and balance that contribute to reduced mobility, increased metabolic cost of walking, and elevated fall and injury risks in older adults. Wearable lower-limb exoskeletons have emerged as a promising strategy to support healthy aging; however, identifying optimal assistance strategies remains challenging due to the complexity and cost of experimental testing. In this study, we combined musculoskeletal modelling and simulations to identify key assistance parameters for older-adult gait and evaluate different ankle exoskeleton configurations computationally, based on muscle activation, metabolic consumption, device weight and power requirement, efficiency, and performance. Motion capture, force plate, and electromyography data from younger and older adults were processed using OpenSim-based musculoskeletal simulations with age-adjusted muscle parameters. Age-related gait differences were quantified across spatiotemporal, kinematic, kinetic, and muscle activation metrics. Subsequently, unilateral and bilateral ankle assistance strategies providing plantarflexion (PF), dorsiflexion (DF), or combined plantarflexion-dorsiflexion (PFDF) support were simulated using unidirectional path actuators representative of cable-driven exoskeletons. Older adults exhibited reduced ankle and hip range of motion, decreased plantarflexion, delayed joint moments, shorter step length, and increased double support time compared with younger adults. These changes suggest that elderly gait can be improved with kinematic assistance at the ankles and hips, timed kinetic assistance at the knees and hips, as well as balance support, hence an opportunity for exoskeleton intervention. Simulated ankle assistance reduced muscle activations and metabolic expenditure, with bilateral PFDF assistance providing the greatest overall benefits. While dorsiflexion-only assistance reduced power requirements, it occasionally increased metabolic consumption. Overall, bilateral assistance outperformed unilateral configurations across most performance metrics. These findings provide biomechanical design guidelines for future lower-limb exoskeletons targeting mobility enhancement and fall-risk reduction in aging populations and demonstrate the value of computational biomechanics for screening assistive-device configurations prior to experimental implementation.",
+   "doi": "10.3389/fspor.2026.1888675",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42730156/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42620678",
