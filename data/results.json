@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T17:45:32+00:00",
+ "generated": "2026-09-16T17:44:10+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,109 +65,30 @@
   }
  ],
  "counts": {
-  "total": 82,
-  "new": 5,
+  "total": 85,
+  "new": 3,
   "research": 26,
-  "fieldnotes": 56
+  "fieldnotes": 59
  },
  "records": [
   {
-   "pmid": "42735362",
-   "title": "Altered Central Motor Control After ACL Reconstruction: A Muscle Synergy Analysis During High-Risk Landing.",
-   "journal": "Med Sci Sports Exerc",
+   "pmid": "42742678",
+   "title": "Age-dependent injury mechanisms and injury patterns in pediatric window falls.",
+   "journal": "Eur J Trauma Emerg Surg",
    "year": "2026",
    "authors": [
-    "Gong Z",
-    "Han Y",
-    "Li T",
-    "Li Y",
+    "Badina A",
+    "Deygas A",
+    "Saliba I",
+    "Corbu A",
     "et al."
    ],
-   "abstract": "Anterior cruciate ligament reconstruction (ACLR) patients face elevated secondary injury risk due to residual neuromuscular deficits, yet the neuromuscular coordination strategies underlying altered muscle coordination remain unclear. Muscle synergy (MS) analysis offers a valuable framework for elucidating these mechanisms. This study characterized MS patterns in ACLR patients during high-risk landing and their correlation with lower-extremity biomechanics. Twenty-two patients who had undergone unilateral ACLR performed a single-leg drop-land-lateral jump task using both affected and nonaffected limbs, whereas sixteen healthy controls performed the task using their dominant limb. with the limb-level data were subsequently categorized into three groups: affected, nonaffected, and control. Surface electromyography (14 muscles), kinematics, and ground reaction forces were recorded. Non-negative matrix factorization was used to extract MS spatial (muscle weighting vectors) and temporal (activation profiles) components across pre-landing, impact, and loading phases. Joint angles/moments were computed via OpenSim musculoskeletal models. Mixed-effects models and Pearson correlations assessed group differences and synergy-biomechanics associations. Compared to controls, ACLR limbs showed lower hip abduction and ankle plantarflexion angle but greater knee flexion angle at landing, accompanied by excessive pre-landing quadriceps weighting, reduced gluteal/semimembranosus contributions, and earlier but lower-amplitude synergy recruitment. Post-landing, quadriceps weighting decreased and knee-dominant synergy recruitment delayed, with compensatory redistribution toward gluteal, gastrocnemius, and tibialis anterior muscles, corresponding to reduced knee extension and increased hip extension moments. Critically, during impact, ACLR limbs lacked a dedicated frontal-plane stabilization synergy, MS4 (gluteus medius/peroneus longus), relative to the control group. A greater number of synergies in the affected limb was associated with more normative joint biomechanics. ACLR limbs exhibit persistent, limb-specific MS abnormalities across all landing phases, including altered sagittal-plane quadriceps weighting, impaired frontal-plane modular control, and dysregulated synergy timing. These central neuromuscular coordination alterations correlate with maladaptive knee biomechanics, potentially increasing secondary ACL injury risk. From a sports training perspective, targeting these specific synergy alterations, particularly the missing frontal-plane stabilization module, may inform more effective neuromuscular training protocols for safe return to sport.",
-   "doi": "10.1249/MSS.0000000000004147",
+   "abstract": "Pediatric defenestration is a high-energy trauma mechanism in which age influences injury patterns and clinical severity. While previous studies have focused primarily on epidemiology and mortality, detailed analyses of age-related injury distribution and surgical burden remain limited. This study aimed to characterize age-dependent injury patterns, neurological severity, and hospital resource utilization following pediatric window falls. We conducted a retrospective single-center cohort study including all children aged 0-18 years admitted for defenestration between 2008 and 2023. Demographic data, fall height, intentionality, injury distribution, Glasgow Coma Scale (GCS), fracture patterns, and number of surgical procedures were collected. Multivariable logistic regression identified predictors of severe neurological impairment (GCS\u2009\u2264\u20098), and Poisson regression assessed determinants of surgical burden. A total of 333 children were included. Age distribution was bimodal, with predominantly accidental falls in young children (median 4.6 years) and intentional falls in adolescents (median 13.7 years). Younger children more frequently sustained craniofacial injuries and presented with lower admission GCS values, whereas adolescents more often sustained combined lower limb and spinal injuries. Fall height correlated negatively with GCS (\u03c1 = -0.32) and positively with hospital length of stay. Independent predictors of GCS\u2009\u2264\u20098 were fall height (OR 1.41 per floor), traumatic brain injury (OR 46.6), and abdominal trauma (OR 2.59). Surgical burden was independently associated with lower limb fractures (IRR 1.86) and fall height (IRR 1.11 per floor). Pediatric window falls demonstrate distinct age-related injury profiles associated with neurological severity and orthopedic surgical burden. Recognition of these patterns may support age-adapted trauma assessment and multidisciplinary management strategies.",
+   "doi": "10.1007/s00068-026-03322-1",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42735362/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42741095",
-   "title": "Electromyographic analysis of muscle activation and co-activation across smash phases in para-badminton: an exploratory investigation of neuromuscular coordination.",
-   "journal": "Front Bioeng Biotechnol",
-   "year": "2026",
-   "authors": [
-    "Abuwarda K",
-    "Alotaibi A",
-    "Akl AR"
-   ],
-   "abstract": "This study aimed to examine and compare muscle activation and co-activation across the backswing and forward swing phases of the para-badminton smash to improve understanding of phase-specific neuromuscular coordination that may inform future biomechanical and injury-related research. Nine elite para-badminton players were recruited for the study (body mass: 79.0 \u00b1 7.9\u00a0kg; height: 172.1 \u00b1 5.2\u00a0cm). Surface electromyography (sEMG) signals were recorded using a wireless EMG system, and data were collected from eight muscles (flexor carpi ulnaris, extensor carpi ulnaris, biceps brachii, triceps brachii, infraspinatus, latissimus dorsi, rectus abdominis, and erector spinae longissimus). The results indicated that the wrist (flexor carpi ulnaris and extensor carpi ulnaris) and elbow (biceps and triceps) muscles showed significantly greater activation during the forward swing (p < 0.01-0.001), with peak activity in the early-to-mid acceleration phase; however, only the wrist demonstrated a significant change in the co-activation index (CoI) (p < 0.001), while elbow agonist-antagonist balance remained stable. At the shoulder, the infraspinatus maintained consistent activation, whereas the latissimus dorsi was selectively recruited during the forward swing (p < 0.01), resulting in an increased CoI (p < 0.001). Similarly, trunk muscles exhibited phase-specific behavior, with stable erector spinae activity and significant rectus abdominis recruitment during the forward swing (p < 0.001), leading to elevated trunk CoI. Overall, these findings indicate coordinated, segment-specific modulation of activation and co-activation to support force generation and stabilization during the acceleration phase. Overall, the findings indicate that muscle co-activation is segment-specific and adapted to the mechanical demands of each joint within the kinetic chain. Imbalances such as excessive wrist co-activation or insufficient proximal stabilization may increase injury risk. Therefore, injury prevention in para-badminton should focus on optimizing wrist stability, maintaining elbow muscle balance, enhancing shoulder control, and improving trunk stability to support efficient force transfer and performance.",
-   "doi": "10.3389/fbioe.2026.1853282",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42741095/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42739517",
-   "title": "Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis.",
-   "journal": "J Clin Med",
-   "year": "2026",
-   "authors": [
-    "Guerot M",
-    "Khiami F",
-    "Valentin E",
-    "Grimaud O",
-    "et al."
-   ],
-   "abstract": "Background: Achilles tendon ruptures are among the most common sports injuries. The literature reports highly variable \"return to sport\" (RTS) rates depending on the study, as the definition of return to play is not consistent. Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. Method: In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported. The primary outcomes were the RTS and RTPIL rates at last follow-up. Secondary outcomes were Patient-Reported Outcome Measures (PROMS): Achilles Tendon Total Rupture Score (ATRS), Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), Foot and Ankle Ability Measure (FAAM), Tegner Activity Scale (TAS) and the University of California and Los Angeles (UCLA) activity level rating scale. Data was collected preoperatively; at three, six, twelve, and twenty-four months postoperatively; and then every two months thereafter. Kaplan-Meier analysis was performed to measure time to RTS and RTPIL. Results: In the final analysis, 65 patients were included for analysis of RTS and RTPIL, and 69 for the PROMS. In total, 81.7% (58) were male, and the mean age was 40.6 years (SD 12.5). The RTS rate was 76.9%, and the RTPIL rate was 44.6%. The mean delay to RTS was 11.6 months (SD 7.6). The median time to RTS was approximately 14 months (95% CI, 10.0-18.0). The RTPIL rate continued to increase between the first and second years after surgery. At the last follow-up, the median ATRS was 89 with an interquartile range (IQR) of [77.0-95.0], ALR-RSI was 80 [62.5-95.0], FAAM activity was 91.7 [85.7-97.6], FAAM sport was 85.9 [68.8-96.9], TAS was 7 [5-7], and UCLA was 10 [9-10]. Median follow-up was 24.8 months. Conclusions: In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling. Level of evidence: IV.",
-   "doi": "10.3390/jcm15176512",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42739517/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42736933",
-   "title": "Running-Related Musculoskeletal Injuries in Saudi Arabia: Epidemiology, Biomechanical Determinants, and Global Comparative Insights.",
-   "journal": "Healthcare (Basel)",
-   "year": "2026",
-   "authors": [
-    "Aljohani MMA"
-   ],
-   "abstract": "Background/Objectives: Running is widely promoted for its health benefits, but it is also associated with a substantial burden of musculoskeletal injuries, particularly affecting the lower extremities. In Saudi Arabia, participation in recreational running has increased substantially in recent years. This review synthesizes global evidence on running-related musculoskeletal injuries and critically examines its applicability to the Saudi context, with emphasis on regional evidence gaps and research priorities. Methods: A narrative literature search of PubMed/MEDLINE and Scopus was conducted from database inception to August 2026 using predefined search concepts and eligibility criteria related to running, musculoskeletal injury, biomechanics, training load, and Saudi Arabia, with reporting guided by the SANRA criteria for narrative reviews. Results: Global evidence indicates that running-related injuries reflect complex interactions among training load, biomechanics, tissue capacity, and environmental factors. Injury prevalence and incidence vary considerably across studies because of methodological heterogeneity, although novice runners generally experience greater injury risk and the knee, lower leg, ankle, and foot are frequently affected. Saudi runner-specific evidence remains limited, with much of the available regional literature derived from cross-sectional, self-reported, or broader physically active populations. Conclusions: In Saudi Arabia, runner-specific injury data remain limited. Existing studies mainly concentrate on general physically active populations and lack standardized injury definitions, exposure-adjusted incidence measures, and prospective designs. Future research should prioritize prospective biomechanical surveillance using wearable sensor technology to capture real-world running mechanics and training loads.",
-   "doi": "10.3390/healthcare14172776",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42736933/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42742678/",
    "matched": [
     {
      "id": "burden-cost",
@@ -179,27 +100,54 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42741435",
-   "title": "The Ankle-GO\u2122 score predicts return to sport after surgically treated unstable syndesmotic injuries.",
-   "journal": "J Exp Orthop",
+   "pmid": "42745801",
+   "title": "Leveraging wearables to safeguard workers in a hotter climate.",
+   "journal": "Front Public Health",
    "year": "2026",
    "authors": [
-    "Corbu A",
-    "Lopes R",
-    "Valentin E",
-    "Andersen MR",
-    "et al."
+    "Morrissey MC",
+    "Lee JKW",
+    "Rollo I",
+    "Pitsiladis Y"
    ],
-   "abstract": "Objective return to sport (RTS) criteria following syndesmotic stabilization are limited. The purpose of this study was to explore the discriminative and predictive ability of the Ankle-GO\u2122 score for RTS status following syndesmotic stabilization. At 3 and 6 months postoperatively, 50 patients were assessed using the Ankle-GOTM score, which consists of four functional tests and two self-reported questionnaires. At 6 months, patients reported their RTS status using three possible responses: no RTS, RTS at a lower level or RTS at the same or a higher level than before injury. Responsiveness of Ankle-GOTM was calculated by comparing 3- and 6-month scores using the Wilcoxon signed-rank test for paired samples. Discriminant validity was calculated by comparing 6-month scores between patients according to their RTS status. Area under the receiver operating curve (AUC) and logistic regression with odds ratios (ORs) and 95% confidence intervals (CIs) were used to determine the ability of the 3-month Ankle-GOTM score to predict RTS status at 6 months. At 6 months, 80% of patients (40) RTS, with 58% of these (29 patients) at their pre-injury level. The median Ankle-GO\u2122 score increased significantly from 13 points (interquartile range [IQR], 10.0-16.0) at 3 months to 19 points (IQR, 16.0-22.0) at 6 months (p\u2009<\u20090.0001). The 3-month score showed excellent predictive ability of RTS status at 6 months (AUC\u2009=\u20090.93; 95% CI: 0.86-1.00). Patients scoring above 12 points are more likely to RTS (OR\u2009=\u200942.78, 95% CI: 2.33-785.93, p\u2009<\u20090.01). A score above 14 points predicted RTS to the preinjury level (AUC\u2009=\u20090.83, 95% CI: 0.73-0.94; OR\u2009=\u20099.44, 95% CI: 2.66-40.7, p\u2009<\u20090.01). The Ankle-GO\u2122 demonstrated promising discriminative and predictive ability for assessing RTS status after syndesmotic stabilization. Further studies are needed to confirm these results and the ability of this tool to identify patients who will suffer recurrence. Level II, prospective cohort study.",
-   "doi": "10.1002/jeo2.70907",
+   "abstract": "Rises in global temperatures have threatened the health, safety, and productivity of workers who perform physically demanding work. Traditionally, occupational heat illness prevention plan have relied on environmental monitoring and administrative controls, however, these approaches do not account for the considerable intra- and inter-variability in physiological responses to extreme heat. In contrast, elite sport has served as a valuable test bed for investigating thermoregulation, exertional heat illness, and the feasibility of real-time physiological monitoring. Experiences from recent Olympic Games have demonstrated that integrated environmental and physiological monitoring systems can operate at scale under extreme heat conditions, while also highlighting important technological, operational, and governance limitations. Translating these advances to occupational settings presents both opportunities and challenges because workers differ substantially from athletes in age, health status, heat acclimatisation, work demands, exposure duration, and access to medical oversight. Furthermore, implementation is complicated by concerns regarding data governance, privacy, informed consent, device validity, interpretation of physiological information, and the use of physiological thresholds to guide workplace decisions. This commentary examines lessons learned from elite sport and discusses their application to occupational heatsafety programs. We propose a tiered adoption framework that aligns physiological monitoring complexity with organizational capacity, technical expertise, and governance requirements, ranging from foundational heat-safety practices to advanced multimodal physiological monitoring under professional oversight. Physiological monitoring should complement, but not replace, established heat-stress prevention strategies and be implemented within clearly defined operational and ethical boundaries. Future research should focus on validating wearable technologies in occupational environments, developing individualized decision frameworks, and establishing governance structures that support responsible implementation.",
+   "doi": "10.3389/fpubh.2026.1867796",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42741435/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42745801/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42743857",
+   "title": "More isn't always better: Higher exoskeleton torque does not consistently improve balance performance.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Kim JH",
+    "Rastogi R",
+    "Martino G",
+    "Beck ON",
+    "et al."
+   ],
+   "abstract": "Wearable exoskeletons are a promising tool for augmenting balance and reducing fall risk. Recent work suggests that active ankle exoskeletons need to act faster than the human to improve reactive balance control. However, the magnitude of exoskeleton torque that is best for improving reactive balance remains unknown. Drawing from the optimal torque for minimizing metabolic expenditure, we hypothesized that reactive balance would improve with increased exoskeleton torque. Participants wearing bilateral ankle exoskeletons were instructed to maintain standing balance during 15\u00a0cm backward support-surface perturbations. Three exoskeleton plantarflexion torque conditions were tested: NO (Off), LOW (15Nm), or HIGH (30Nm). LOW torque improved balance performance compared to NO torque (p\u00a0<\u00a00.001), with a 7\u00a0\u00b1\u00a03\u00a0% decrease in peak center of mass (CoM) displacement. Although HIGH torque caused a 9\u00a0\u00b1\u00a011\u00a0% decrease in peak CoM displacement compared to NO torque (p\u00a0=\u00a00.12), it was not significant due to high intersubject variability. Whereas LOW torque decreased peak CoM displacement in all (range: -0.2 to -1.6\u00a0cm), HIGH torque only decreased it in some (range:1.2 to -2.6\u00a0cm). Balance ability, quantified by the narrowing beam test, accounted for 37\u00a0% of the variance (R2\u00a0=\u00a00.37, Adjusted R2\u00a0=\u00a00.29) in the change in CoM displacement from LOW to HIGH torque (p\u00a0=\u00a00.06), while this relationship didn't meet conventional statistical significance, likely due to the small sample size, it suggests that higher levels of exoskeleton torque may hinder balance performance in individuals with better balance ability. Taken together, more exoskeleton torque is not always better for balance, highlighting a potential need to personalize exoskeleton torque for balance augmentation.",
+   "doi": "10.1016/j.jbiomech.2026.113574",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42743857/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -229,6 +177,34 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42735362",
+   "title": "Altered Central Motor Control After ACL Reconstruction: A Muscle Synergy Analysis During High-Risk Landing.",
+   "journal": "Med Sci Sports Exerc",
+   "year": "2026",
+   "authors": [
+    "Gong Z",
+    "Han Y",
+    "Li T",
+    "Li Y",
+    "et al."
+   ],
+   "abstract": "Anterior cruciate ligament reconstruction (ACLR) patients face elevated secondary injury risk due to residual neuromuscular deficits, yet the neuromuscular coordination strategies underlying altered muscle coordination remain unclear. Muscle synergy (MS) analysis offers a valuable framework for elucidating these mechanisms. This study characterized MS patterns in ACLR patients during high-risk landing and their correlation with lower-extremity biomechanics. Twenty-two patients who had undergone unilateral ACLR performed a single-leg drop-land-lateral jump task using both affected and nonaffected limbs, whereas sixteen healthy controls performed the task using their dominant limb. with the limb-level data were subsequently categorized into three groups: affected, nonaffected, and control. Surface electromyography (14 muscles), kinematics, and ground reaction forces were recorded. Non-negative matrix factorization was used to extract MS spatial (muscle weighting vectors) and temporal (activation profiles) components across pre-landing, impact, and loading phases. Joint angles/moments were computed via OpenSim musculoskeletal models. Mixed-effects models and Pearson correlations assessed group differences and synergy-biomechanics associations. Compared to controls, ACLR limbs showed lower hip abduction and ankle plantarflexion angle but greater knee flexion angle at landing, accompanied by excessive pre-landing quadriceps weighting, reduced gluteal/semimembranosus contributions, and earlier but lower-amplitude synergy recruitment. Post-landing, quadriceps weighting decreased and knee-dominant synergy recruitment delayed, with compensatory redistribution toward gluteal, gastrocnemius, and tibialis anterior muscles, corresponding to reduced knee extension and increased hip extension moments. Critically, during impact, ACLR limbs lacked a dedicated frontal-plane stabilization synergy, MS4 (gluteus medius/peroneus longus), relative to the control group. A greater number of synergies in the affected limb was associated with more normative joint biomechanics. ACLR limbs exhibit persistent, limb-specific MS abnormalities across all landing phases, including altered sagittal-plane quadriceps weighting, impaired frontal-plane modular control, and dysregulated synergy timing. These central neuromuscular coordination alterations correlate with maladaptive knee biomechanics, potentially increasing secondary ACL injury risk. From a sports training perspective, targeting these specific synergy alterations, particularly the missing frontal-plane stabilization module, may inform more effective neuromuscular training protocols for safe return to sport.",
+   "doi": "10.1249/MSS.0000000000004147",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42735362/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1080,6 +1056,32 @@
    "bucket": "research"
   },
   {
+   "pmid": "42741095",
+   "title": "Electromyographic analysis of muscle activation and co-activation across smash phases in para-badminton: an exploratory investigation of neuromuscular coordination.",
+   "journal": "Front Bioeng Biotechnol",
+   "year": "2026",
+   "authors": [
+    "Abuwarda K",
+    "Alotaibi A",
+    "Akl AR"
+   ],
+   "abstract": "This study aimed to examine and compare muscle activation and co-activation across the backswing and forward swing phases of the para-badminton smash to improve understanding of phase-specific neuromuscular coordination that may inform future biomechanical and injury-related research. Nine elite para-badminton players were recruited for the study (body mass: 79.0 \u00b1 7.9\u00a0kg; height: 172.1 \u00b1 5.2\u00a0cm). Surface electromyography (sEMG) signals were recorded using a wireless EMG system, and data were collected from eight muscles (flexor carpi ulnaris, extensor carpi ulnaris, biceps brachii, triceps brachii, infraspinatus, latissimus dorsi, rectus abdominis, and erector spinae longissimus). The results indicated that the wrist (flexor carpi ulnaris and extensor carpi ulnaris) and elbow (biceps and triceps) muscles showed significantly greater activation during the forward swing (p < 0.01-0.001), with peak activity in the early-to-mid acceleration phase; however, only the wrist demonstrated a significant change in the co-activation index (CoI) (p < 0.001), while elbow agonist-antagonist balance remained stable. At the shoulder, the infraspinatus maintained consistent activation, whereas the latissimus dorsi was selectively recruited during the forward swing (p < 0.01), resulting in an increased CoI (p < 0.001). Similarly, trunk muscles exhibited phase-specific behavior, with stable erector spinae activity and significant rectus abdominis recruitment during the forward swing (p < 0.001), leading to elevated trunk CoI. Overall, these findings indicate coordinated, segment-specific modulation of activation and co-activation to support force generation and stabilization during the acceleration phase. Overall, the findings indicate that muscle co-activation is segment-specific and adapted to the mechanical demands of each joint within the kinetic chain. Imbalances such as excessive wrist co-activation or insufficient proximal stabilization may increase injury risk. Therefore, injury prevention in para-badminton should focus on optimizing wrist stability, maintaining elbow muscle balance, enhancing shoulder control, and improving trunk stability to support efficient force transfer and performance.",
+   "doi": "10.3389/fbioe.2026.1853282",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42741095/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42697097",
    "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
    "journal": "Am J Emerg Med",
@@ -1925,6 +1927,59 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42739517",
+   "title": "Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis.",
+   "journal": "J Clin Med",
+   "year": "2026",
+   "authors": [
+    "Guerot M",
+    "Khiami F",
+    "Valentin E",
+    "Grimaud O",
+    "et al."
+   ],
+   "abstract": "Background: Achilles tendon ruptures are among the most common sports injuries. The literature reports highly variable \"return to sport\" (RTS) rates depending on the study, as the definition of return to play is not consistent. Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. Method: In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported. The primary outcomes were the RTS and RTPIL rates at last follow-up. Secondary outcomes were Patient-Reported Outcome Measures (PROMS): Achilles Tendon Total Rupture Score (ATRS), Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), Foot and Ankle Ability Measure (FAAM), Tegner Activity Scale (TAS) and the University of California and Los Angeles (UCLA) activity level rating scale. Data was collected preoperatively; at three, six, twelve, and twenty-four months postoperatively; and then every two months thereafter. Kaplan-Meier analysis was performed to measure time to RTS and RTPIL. Results: In the final analysis, 65 patients were included for analysis of RTS and RTPIL, and 69 for the PROMS. In total, 81.7% (58) were male, and the mean age was 40.6 years (SD 12.5). The RTS rate was 76.9%, and the RTPIL rate was 44.6%. The mean delay to RTS was 11.6 months (SD 7.6). The median time to RTS was approximately 14 months (95% CI, 10.0-18.0). The RTPIL rate continued to increase between the first and second years after surgery. At the last follow-up, the median ATRS was 89 with an interquartile range (IQR) of [77.0-95.0], ALR-RSI was 80 [62.5-95.0], FAAM activity was 91.7 [85.7-97.6], FAAM sport was 85.9 [68.8-96.9], TAS was 7 [5-7], and UCLA was 10 [9-10]. Median follow-up was 24.8 months. Conclusions: In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling. Level of evidence: IV.",
+   "doi": "10.3390/jcm15176512",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42739517/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42736933",
+   "title": "Running-Related Musculoskeletal Injuries in Saudi Arabia: Epidemiology, Biomechanical Determinants, and Global Comparative Insights.",
+   "journal": "Healthcare (Basel)",
+   "year": "2026",
+   "authors": [
+    "Aljohani MMA"
+   ],
+   "abstract": "Background/Objectives: Running is widely promoted for its health benefits, but it is also associated with a substantial burden of musculoskeletal injuries, particularly affecting the lower extremities. In Saudi Arabia, participation in recreational running has increased substantially in recent years. This review synthesizes global evidence on running-related musculoskeletal injuries and critically examines its applicability to the Saudi context, with emphasis on regional evidence gaps and research priorities. Methods: A narrative literature search of PubMed/MEDLINE and Scopus was conducted from database inception to August 2026 using predefined search concepts and eligibility criteria related to running, musculoskeletal injury, biomechanics, training load, and Saudi Arabia, with reporting guided by the SANRA criteria for narrative reviews. Results: Global evidence indicates that running-related injuries reflect complex interactions among training load, biomechanics, tissue capacity, and environmental factors. Injury prevalence and incidence vary considerably across studies because of methodological heterogeneity, although novice runners generally experience greater injury risk and the knee, lower leg, ankle, and foot are frequently affected. Saudi runner-specific evidence remains limited, with much of the available regional literature derived from cross-sectional, self-reported, or broader physically active populations. Conclusions: In Saudi Arabia, runner-specific injury data remain limited. Existing studies mainly concentrate on general physically active populations and lack standardized injury definitions, exposure-adjusted incidence measures, and prospective designs. Future research should prioritize prospective biomechanical surveillance using wearable sensor technology to capture real-world running mechanics and training loads.",
+   "doi": "10.3390/healthcare14172776",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42736933/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42651219",
    "title": "Sensor-Based Movement Quality Assessment and Biofeedback for Rehabilitation Exercise: A Scoping Review with Implications for Home-Based and Remote Rehabilitation.",
    "journal": "Healthcare (Basel)",
@@ -2082,6 +2137,34 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42705008/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42741435",
+   "title": "The Ankle-GO\u2122 score predicts return to sport after surgically treated unstable syndesmotic injuries.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Corbu A",
+    "Lopes R",
+    "Valentin E",
+    "Andersen MR",
+    "et al."
+   ],
+   "abstract": "Objective return to sport (RTS) criteria following syndesmotic stabilization are limited. The purpose of this study was to explore the discriminative and predictive ability of the Ankle-GO\u2122 score for RTS status following syndesmotic stabilization. At 3 and 6 months postoperatively, 50 patients were assessed using the Ankle-GOTM score, which consists of four functional tests and two self-reported questionnaires. At 6 months, patients reported their RTS status using three possible responses: no RTS, RTS at a lower level or RTS at the same or a higher level than before injury. Responsiveness of Ankle-GOTM was calculated by comparing 3- and 6-month scores using the Wilcoxon signed-rank test for paired samples. Discriminant validity was calculated by comparing 6-month scores between patients according to their RTS status. Area under the receiver operating curve (AUC) and logistic regression with odds ratios (ORs) and 95% confidence intervals (CIs) were used to determine the ability of the 3-month Ankle-GOTM score to predict RTS status at 6 months. At 6 months, 80% of patients (40) RTS, with 58% of these (29 patients) at their pre-injury level. The median Ankle-GO\u2122 score increased significantly from 13 points (interquartile range [IQR], 10.0-16.0) at 3 months to 19 points (IQR, 16.0-22.0) at 6 months (p\u2009<\u20090.0001). The 3-month score showed excellent predictive ability of RTS status at 6 months (AUC\u2009=\u20090.93; 95% CI: 0.86-1.00). Patients scoring above 12 points are more likely to RTS (OR\u2009=\u200942.78, 95% CI: 2.33-785.93, p\u2009<\u20090.01). A score above 14 points predicted RTS to the preinjury level (AUC\u2009=\u20090.83, 95% CI: 0.73-0.94; OR\u2009=\u20099.44, 95% CI: 2.66-40.7, p\u2009<\u20090.01). The Ankle-GO\u2122 demonstrated promising discriminative and predictive ability for assessing RTS status after syndesmotic stabilization. Further studies are needed to confirm these results and the ability of this tool to identify patients who will suffer recurrence. Level II, prospective cohort study.",
+   "doi": "10.1002/jeo2.70907",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42741435/",
    "matched": [
     {
      "id": "return-to-play",
