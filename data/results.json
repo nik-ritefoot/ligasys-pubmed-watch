@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-16T17:44:10+00:00",
+ "generated": "2026-09-17T17:44:00+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,89 +65,33 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 3,
+  "total": 83,
+  "new": 1,
   "research": 26,
-  "fieldnotes": 59
+  "fieldnotes": 57
  },
  "records": [
   {
-   "pmid": "42742678",
-   "title": "Age-dependent injury mechanisms and injury patterns in pediatric window falls.",
-   "journal": "Eur J Trauma Emerg Surg",
+   "pmid": "42748368",
+   "title": "The mechanism of injury's role in jump landing mechanics after anterior cruciate ligament reconstruction.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
    "year": "2026",
    "authors": [
-    "Badina A",
-    "Deygas A",
-    "Saliba I",
-    "Corbu A",
-    "et al."
+    "Hopper HM",
+    "Bruce-Leicht AS",
+    "Hart JM",
+    "Thompson XD"
    ],
-   "abstract": "Pediatric defenestration is a high-energy trauma mechanism in which age influences injury patterns and clinical severity. While previous studies have focused primarily on epidemiology and mortality, detailed analyses of age-related injury distribution and surgical burden remain limited. This study aimed to characterize age-dependent injury patterns, neurological severity, and hospital resource utilization following pediatric window falls. We conducted a retrospective single-center cohort study including all children aged 0-18 years admitted for defenestration between 2008 and 2023. Demographic data, fall height, intentionality, injury distribution, Glasgow Coma Scale (GCS), fracture patterns, and number of surgical procedures were collected. Multivariable logistic regression identified predictors of severe neurological impairment (GCS\u2009\u2264\u20098), and Poisson regression assessed determinants of surgical burden. A total of 333 children were included. Age distribution was bimodal, with predominantly accidental falls in young children (median 4.6 years) and intentional falls in adolescents (median 13.7 years). Younger children more frequently sustained craniofacial injuries and presented with lower admission GCS values, whereas adolescents more often sustained combined lower limb and spinal injuries. Fall height correlated negatively with GCS (\u03c1 = -0.32) and positively with hospital length of stay. Independent predictors of GCS\u2009\u2264\u20098 were fall height (OR 1.41 per floor), traumatic brain injury (OR 46.6), and abdominal trauma (OR 2.59). Surgical burden was independently associated with lower limb fractures (IRR 1.86) and fall height (IRR 1.11 per floor). Pediatric window falls demonstrate distinct age-related injury profiles associated with neurological severity and orthopedic surgical burden. Recognition of these patterns may support age-adapted trauma assessment and multidisciplinary management strategies.",
-   "doi": "10.1007/s00068-026-03322-1",
+   "abstract": "The primary aim of this study is to determine if there is a difference in post-rehabilitation Landing Error Scoring System (LESS) score between patients who injured their anterior cruciate ligament (ACL) through a contact or noncontact mechanism of injury (MOI). The secondary aim is to determine if there is a difference in demographics, strength, and patient-reported outcomes (PROs) between patients who injured their ACL through a contact or noncontact MOI. Patients were included from a larger observational laboratory study if they had undergone a primary, isolated, uncomplicated ACLR. Patients were excluded if they had a history of other lower extremity surgery, concomitant ligament injury, surgical complications, or any neurologic disorder. One hundred and twenty-nine patients were included in this study (age: 21.4\u2009\u00b1\u20097.9, sex: 64\u2009F/65\u2009M, follow up: 8.1\u2009\u00b1\u20091.7 months). Ninety-one patients (70.5%) sustained a noncontact MOI, and 38 patients (29.5%) sustained a contact MOI. There was no difference in total LESS score (p\u2009=\u20090.930), frontal LESS score (p\u2009=\u20090.831) or sagittal LESS score (p\u2009=\u20090.980) between the contact and noncontact groups. There was no statistically significant difference in total LESS score, frontal LESS score, or sagittal LESS score between contact and noncontact MOI. A considerable proportion of participants demonstrated multiple landing errors, indicating that assessment and rehabilitation of landing mechanics may remain relevant during late-stage rehabilitation. There was no statistically significant difference between mechanism of initial ACL injury and strength or PROs. The decision to allow a patient to return to play is multifactorial and should occur after modifiable risk factors, including jump landing mechanics, have been properly mitigated during rehabilitation. Level III.",
+   "doi": "10.1002/ksa.70605",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42742678/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42748368/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42745801",
-   "title": "Leveraging wearables to safeguard workers in a hotter climate.",
-   "journal": "Front Public Health",
-   "year": "2026",
-   "authors": [
-    "Morrissey MC",
-    "Lee JKW",
-    "Rollo I",
-    "Pitsiladis Y"
-   ],
-   "abstract": "Rises in global temperatures have threatened the health, safety, and productivity of workers who perform physically demanding work. Traditionally, occupational heat illness prevention plan have relied on environmental monitoring and administrative controls, however, these approaches do not account for the considerable intra- and inter-variability in physiological responses to extreme heat. In contrast, elite sport has served as a valuable test bed for investigating thermoregulation, exertional heat illness, and the feasibility of real-time physiological monitoring. Experiences from recent Olympic Games have demonstrated that integrated environmental and physiological monitoring systems can operate at scale under extreme heat conditions, while also highlighting important technological, operational, and governance limitations. Translating these advances to occupational settings presents both opportunities and challenges because workers differ substantially from athletes in age, health status, heat acclimatisation, work demands, exposure duration, and access to medical oversight. Furthermore, implementation is complicated by concerns regarding data governance, privacy, informed consent, device validity, interpretation of physiological information, and the use of physiological thresholds to guide workplace decisions. This commentary examines lessons learned from elite sport and discusses their application to occupational heatsafety programs. We propose a tiered adoption framework that aligns physiological monitoring complexity with organizational capacity, technical expertise, and governance requirements, ranging from foundational heat-safety practices to advanced multimodal physiological monitoring under professional oversight. Physiological monitoring should complement, but not replace, established heat-stress prevention strategies and be implemented within clearly defined operational and ethical boundaries. Future research should focus on validating wearable technologies in occupational environments, developing individualized decision frameworks, and establishing governance structures that support responsible implementation.",
-   "doi": "10.3389/fpubh.2026.1867796",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42745801/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42743857",
-   "title": "More isn't always better: Higher exoskeleton torque does not consistently improve balance performance.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Kim JH",
-    "Rastogi R",
-    "Martino G",
-    "Beck ON",
-    "et al."
-   ],
-   "abstract": "Wearable exoskeletons are a promising tool for augmenting balance and reducing fall risk. Recent work suggests that active ankle exoskeletons need to act faster than the human to improve reactive balance control. However, the magnitude of exoskeleton torque that is best for improving reactive balance remains unknown. Drawing from the optimal torque for minimizing metabolic expenditure, we hypothesized that reactive balance would improve with increased exoskeleton torque. Participants wearing bilateral ankle exoskeletons were instructed to maintain standing balance during 15\u00a0cm backward support-surface perturbations. Three exoskeleton plantarflexion torque conditions were tested: NO (Off), LOW (15Nm), or HIGH (30Nm). LOW torque improved balance performance compared to NO torque (p\u00a0<\u00a00.001), with a 7\u00a0\u00b1\u00a03\u00a0% decrease in peak center of mass (CoM) displacement. Although HIGH torque caused a 9\u00a0\u00b1\u00a011\u00a0% decrease in peak CoM displacement compared to NO torque (p\u00a0=\u00a00.12), it was not significant due to high intersubject variability. Whereas LOW torque decreased peak CoM displacement in all (range: -0.2 to -1.6\u00a0cm), HIGH torque only decreased it in some (range:1.2 to -2.6\u00a0cm). Balance ability, quantified by the narrowing beam test, accounted for 37\u00a0% of the variance (R2\u00a0=\u00a00.37, Adjusted R2\u00a0=\u00a00.29) in the change in CoM displacement from LOW to HIGH torque (p\u00a0=\u00a00.06), while this relationship didn't meet conventional statistical significance, likely due to the small sample size, it suggests that higher levels of exoskeleton torque may hinder balance performance in individuals with better balance ability. Taken together, more exoskeleton torque is not always better for balance, highlighting a potential need to personalize exoskeleton torque for balance augmentation.",
-   "doi": "10.1016/j.jbiomech.2026.113574",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42743857/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -177,6 +121,34 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42742678",
+   "title": "Age-dependent injury mechanisms and injury patterns in pediatric window falls.",
+   "journal": "Eur J Trauma Emerg Surg",
+   "year": "2026",
+   "authors": [
+    "Badina A",
+    "Deygas A",
+    "Saliba I",
+    "Corbu A",
+    "et al."
+   ],
+   "abstract": "Pediatric defenestration is a high-energy trauma mechanism in which age influences injury patterns and clinical severity. While previous studies have focused primarily on epidemiology and mortality, detailed analyses of age-related injury distribution and surgical burden remain limited. This study aimed to characterize age-dependent injury patterns, neurological severity, and hospital resource utilization following pediatric window falls. We conducted a retrospective single-center cohort study including all children aged 0-18 years admitted for defenestration between 2008 and 2023. Demographic data, fall height, intentionality, injury distribution, Glasgow Coma Scale (GCS), fracture patterns, and number of surgical procedures were collected. Multivariable logistic regression identified predictors of severe neurological impairment (GCS\u2009\u2264\u20098), and Poisson regression assessed determinants of surgical burden. A total of 333 children were included. Age distribution was bimodal, with predominantly accidental falls in young children (median 4.6 years) and intentional falls in adolescents (median 13.7 years). Younger children more frequently sustained craniofacial injuries and presented with lower admission GCS values, whereas adolescents more often sustained combined lower limb and spinal injuries. Fall height correlated negatively with GCS (\u03c1 = -0.32) and positively with hospital length of stay. Independent predictors of GCS\u2009\u2264\u20098 were fall height (OR 1.41 per floor), traumatic brain injury (OR 46.6), and abdominal trauma (OR 2.59). Surgical burden was independently associated with lower limb fractures (IRR 1.86) and fall height (IRR 1.11 per floor). Pediatric window falls demonstrate distinct age-related injury profiles associated with neurological severity and orthopedic surgical burden. Recognition of these patterns may support age-adapted trauma assessment and multidisciplinary management strategies.",
+   "doi": "10.1007/s00068-026-03322-1",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42742678/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -324,7 +296,7 @@
   },
   {
    "pmid": "42731809",
-   "title": "Arthroscopic Management of Ankle Ligament Injuries: A New Gold Standard?",
+   "title": "Arthroscopic management of ankle ligament injuries: a new gold standard?",
    "journal": "Orthop Traumatol Surg Res",
    "year": "2026",
    "authors": [
@@ -332,7 +304,7 @@
     "Guillo S",
     "Bauer T"
    ],
-   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. 1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. 2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. 3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
+   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. (1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. (2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. (3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
    "doi": "10.1016/j.otsr.2026.104873",
    "pubtypes": [
     "Journal Article",
@@ -631,34 +603,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42607798",
-   "title": "Clinical outcomes following platelet-rich plasma injection for plantar plate injuries at midterm follow-up.",
-   "journal": "J Foot Ankle Surg",
-   "year": "2026",
-   "authors": [
-    "Rubin J",
-    "Rutherford R",
-    "Gauthier P",
-    "Walls C",
-    "et al."
-   ],
-   "abstract": "Evidence supporting platelet-rich plasma (PRP) injection for plantar plate injuries remains limited. To evaluate patient-reported outcomes, return to activity, complications, and failures at midterm follow-up in patients with plantar plate injuries treated with PRP injection. Retrospective case series evaluating outcomes following PRP injection for plantar plate injuries. Patients with plantar plate injuries were treated with ultrasound-guided PRP injection following failure of nonoperative management. Clinical outcomes evaluated were Foot and Ankle Outcome Score (FAOS) and Visual Analog Scale (VAS). Complications and failures were also reported. Twenty patients (23 feet) with a mean age of 51.0 \u00b1 14.5 years and mean follow-up time of 58.0 \u00b1 28.4 months were included. Mean FAOS scores improved 32.2 points (p < 0.001), with 20 of 23 (87%) feet achieving the minimal clinically important difference (MCID). Mean VAS scores improved 4.5 points (p < 0.001), with 19 of 23 (83%) feet achieving the MCID. Among 10 athletes, 7 (70%) returned to sport at a mean time of 3.1 \u00b1 1.1 months. Complications occurred in 1 of 23 (4%) feet, and 3 of 23 (13%) feet required subsequent surgical intervention. At midterm follow-up, PRP injection for plantar plate injuries was associated with significant clinical improvement and a favorable safety profile, suggesting a potential role as an intermediary treatment option between conservative management and surgery. Female sex, smoking history, and higher-grade injuries were associated with inferior outcomes, underscoring the importance of individualized patient counseling and injury severity assessment.",
-   "doi": "10.1053/j.jfas.2026.08.012",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42607798/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1298,34 +1242,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42606584",
-   "title": "High ankle sprains in athletes: A comprehensive imaging focused review.",
-   "journal": "Skeletal Radiol",
-   "year": "2026",
-   "authors": [
-    "Anandh N",
-    "Dorrian F",
-    "Ramaswami G",
-    "Linklater J"
-   ],
-   "abstract": "High ankle sprains represent a distinct subset of ankle injuries involving disruption of the distal tibiofibular syndesmosis. Although less common than lateral ankle sprains, these injuries are frequently underdiagnosed on initial clinical and radiographic assessment and carry significant implications for ankle stability and long-term function. In the athletic setting, high ankle sprains are associated with an increased return-to-play time compared to lateral ligament injuries. Accurate diagnosis relies heavily on imaging, with weight-bearing radiographs and computed tomography aiding in assessment of syndesmotic alignment and fractures, whilst MRI allows for direct visualisation of the ligaments and associated injuries. This review provides a comprehensive, imaging-centred overview of the spectrum of high ankle sprain injuries with a focus on lower energy mechanisms, which occur more commonly in sport. We will discuss and review the relevant anatomy, biomechanics, injury patterns, common associated injuries, the phases of healing, postoperative appearances and common complications. KEY POINTS: \u2022 MRI is pivotal in diagnosis of high ankle sprains, injury grading, evaluation of associated injuries, assessment of ligament healing and demonstration of postoperative complications. \u2022 The sagittal and coronal planes are key in initial MRI assessment of the AITFL. Axial plane assessment is limited due to obliquity of the AITFL and resultant partial sampling. \u2022 The AITFL is the first ligament to fail, usually towards the fibular attachment. \u2022 The IIOL usually fails toward the tibial attachment. \u2022 The PITFL typically fails at the inferior, lateral border of the tibial attachment, with variable propagation superiorly and medially often associated with periosteal stripping and tibial plafond chondral injury.",
-   "doi": "10.1007/s00256-026-05291-3",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42606584/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42628337",
    "title": "In-field temporal phase analysis of running: performance assessment of 36 IMU-based algorithms across different device positions and running speeds.",
    "journal": "J Biomech",
@@ -1463,6 +1379,33 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42745801",
+   "title": "Leveraging wearables to safeguard workers in a hotter climate.",
+   "journal": "Front Public Health",
+   "year": "2026",
+   "authors": [
+    "Morrissey MC",
+    "Lee JKW",
+    "Rollo I",
+    "Pitsiladis Y"
+   ],
+   "abstract": "Rises in global temperatures have threatened the health, safety, and productivity of workers who perform physically demanding work. Traditionally, occupational heat illness prevention plan have relied on environmental monitoring and administrative controls, however, these approaches do not account for the considerable intra- and inter-variability in physiological responses to extreme heat. In contrast, elite sport has served as a valuable test bed for investigating thermoregulation, exertional heat illness, and the feasibility of real-time physiological monitoring. Experiences from recent Olympic Games have demonstrated that integrated environmental and physiological monitoring systems can operate at scale under extreme heat conditions, while also highlighting important technological, operational, and governance limitations. Translating these advances to occupational settings presents both opportunities and challenges because workers differ substantially from athletes in age, health status, heat acclimatisation, work demands, exposure duration, and access to medical oversight. Furthermore, implementation is complicated by concerns regarding data governance, privacy, informed consent, device validity, interpretation of physiological information, and the use of physiological thresholds to guide workplace decisions. This commentary examines lessons learned from elite sport and discusses their application to occupational heatsafety programs. We propose a tiered adoption framework that aligns physiological monitoring complexity with organizational capacity, technical expertise, and governance requirements, ranging from foundational heat-safety practices to advanced multimodal physiological monitoring under professional oversight. Physiological monitoring should complement, but not replace, established heat-stress prevention strategies and be implemented within clearly defined operational and ethical boundaries. Future research should focus on validating wearable technologies in occupational environments, developing individualized decision frameworks, and establishing governance structures that support responsible implementation.",
+   "doi": "10.3389/fpubh.2026.1867796",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42745801/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42730156",
@@ -1610,6 +1553,34 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42743857",
+   "title": "More isn't always better: Higher exoskeleton torque does not consistently improve balance performance.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Kim JH",
+    "Rastogi R",
+    "Martino G",
+    "Beck ON",
+    "et al."
+   ],
+   "abstract": "Wearable exoskeletons are a promising tool for augmenting balance and reducing fall risk. Recent work suggests that active ankle exoskeletons need to act faster than the human to improve reactive balance control. However, the magnitude of exoskeleton torque that is best for improving reactive balance remains unknown. Drawing from the optimal torque for minimizing metabolic expenditure, we hypothesized that reactive balance would improve with increased exoskeleton torque. Participants wearing bilateral ankle exoskeletons were instructed to maintain standing balance during 15\u00a0cm backward support-surface perturbations. Three exoskeleton plantarflexion torque conditions were tested: NO (Off), LOW (15Nm), or HIGH (30Nm). LOW torque improved balance performance compared to NO torque (p\u00a0<\u00a00.001), with a 7\u00a0\u00b1\u00a03\u00a0% decrease in peak center of mass (CoM) displacement. Although HIGH torque caused a 9\u00a0\u00b1\u00a011\u00a0% decrease in peak CoM displacement compared to NO torque (p\u00a0=\u00a00.12), it was not significant due to high intersubject variability. Whereas LOW torque decreased peak CoM displacement in all (range: -0.2 to -1.6\u00a0cm), HIGH torque only decreased it in some (range:1.2 to -2.6\u00a0cm). Balance ability, quantified by the narrowing beam test, accounted for 37\u00a0% of the variance (R2\u00a0=\u00a00.37, Adjusted R2\u00a0=\u00a00.29) in the change in CoM displacement from LOW to HIGH torque (p\u00a0=\u00a00.06), while this relationship didn't meet conventional statistical significance, likely due to the small sample size, it suggests that higher levels of exoskeleton torque may hinder balance performance in individuals with better balance ability. Taken together, more exoskeleton torque is not always better for balance, highlighting a potential need to personalize exoskeleton torque for balance augmentation.",
+   "doi": "10.1016/j.jbiomech.2026.113574",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42743857/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -1832,35 +1803,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42606090",
-   "title": "Reliability, Validity, and Predictive Value of the Landing Error Scoring System in Soccer Players: A Systematic Review.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Li Z",
-    "Yang Y",
-    "Fu Y",
-    "Guo X",
-    "et al."
-   ],
-   "abstract": "Lower-limb injuries are common in soccer. The landing error scoring system (LESS) is used widely for field-based movement screening, yet its psychometric properties and prognostic value in soccer populations remain uncertain. To synthesize evidence on the reliability, validity, and prognostic utility of the LESS among soccer participants. PubMed, Web of Science, Cochrane Library, CNKI, and Wanfang were searched from inception to August 2025. Studies were included if they involved soccer participants and reported LESS-related reliability, validity, or prognostic outcomes. Modified versions of the LESS were included only when their scoring framework was clearly described and broadly comparable with the original tool. Systematic review with exploratory meta-analysis. Level 2 to 4. Two reviewers independently screened studies, extracted data, and assessed methodological quality using a modified Newcastle-Ottawa Scale. Reliability and validity outcomes, including intraclass correlation coefficients (ICCs) and agreement with 3-dimensional (3-D) motion analysis, were summarized descriptively. Prognostic metrics, including odds ratios (ORs) and area under the curve values, were extracted when available. When \u22652 comparable prospective cohorts were available, an exploratory random-effects meta-analysis was performed. A total of 10 studies met the inclusion criteria. In soccer settings, the LESS demonstrated excellent intra-rater reliability (ICC \u2248 0.90-0.95) and good inter-rater reliability (ICC \u2248 0.84-0.95), with item-dependent convergent validity versus 3-D kinematics. Evidence for prognostic utility was inconsistent across cohorts. Exploratory pooling of 2 comparable prospective studies showed that higher preseason LESS scores were associated with greater odds of subsequent lower-limb injury (pooled OR, 9.31; 95% CI, 3.11-27.91; I\u00b2 = 0%). However, this pooled estimate should be interpreted cautiously because it was based on only 2 studies with variable injury definitions. The LESS is reliable and shows acceptable construct validity in soccer participants, but evidence for its prognostic utility remains inconsistent. It should not be interpreted as a stand-alone predictor of injury risk. Clinically, the LESS may serve as a low-cost, field-based assessment of landing movement quality within a broader multifactorial screening framework.",
-   "doi": "10.1177/19417381261463676",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42606090/",
    "matched": [
     {
      "id": "burden-cost",
@@ -2247,8 +2189,7 @@
    "doi": "10.3389/fpubh.2026.1923487",
    "pubtypes": [
     "Journal Article",
-    "Randomized Controlled Trial",
-    "Clinical Trial"
+    "Randomized Controlled Trial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42718668/",
    "matched": [

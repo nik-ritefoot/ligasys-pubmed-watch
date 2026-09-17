@@ -1,5 +1,29 @@
 [
  {
+  "pmid": "42748368",
+  "title": "The mechanism of injury's role in jump landing mechanics after anterior cruciate ligament reconstruction.",
+  "journal": "Knee Surg Sports Traumatol Arthrosc",
+  "year": "2026",
+  "authors": [
+   "Hopper HM",
+   "Bruce-Leicht AS",
+   "Hart JM",
+   "Thompson XD"
+  ],
+  "abstract": "The primary aim of this study is to determine if there is a difference in post-rehabilitation Landing Error Scoring System (LESS) score between patients who injured their anterior cruciate ligament (ACL) through a contact or noncontact mechanism of injury (MOI). The secondary aim is to determine if there is a difference in demographics, strength, and patient-reported outcomes (PROs) between patients who injured their ACL through a contact or noncontact MOI. Patients were included from a larger observational laboratory study if they had undergone a primary, isolated, uncomplicated ACLR. Patients were excluded if they had a history of other lower extremity surgery, concomitant ligament injury, surgical complications, or any neurologic disorder. One hundred and twenty-nine patients were included in this study (age: 21.4\u2009\u00b1\u20097.9, sex: 64\u2009F/65\u2009M, follow up: 8.1\u2009\u00b1\u20091.7 months). Ninety-one patients (70.5%) sustained a noncontact MOI, and 38 patients (29.5%) sustained a contact MOI. There was no difference in total LESS score (p\u2009=\u20090.930), frontal LESS score (p\u2009=\u20090.831) or sagittal LESS score (p\u2009=\u20090.980) between the contact and noncontact groups. There was no statistically significant difference in total LESS score, frontal LESS score, or sagittal LESS score between contact and noncontact MOI. A considerable proportion of participants demonstrated multiple landing errors, indicating that assessment and rehabilitation of landing mechanics may remain relevant during late-stage rehabilitation. There was no statistically significant difference between mechanism of initial ACL injury and strength or PROs. The decision to allow a patient to return to play is multifactorial and should occur after modifiable risk factors, including jump landing mechanics, have been properly mitigated during rehabilitation. Level III.",
+  "doi": "10.1002/ksa.70605",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42748368/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-17T17:44:00Z"
+ },
+ {
   "pmid": "42742678",
   "title": "Age-dependent injury mechanisms and injury patterns in pediatric window falls.",
   "journal": "Eur J Trauma Emerg Surg",
