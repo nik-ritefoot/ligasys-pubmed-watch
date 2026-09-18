@@ -1,5 +1,59 @@
 [
  {
+  "pmid": "42756022",
+  "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
+  "journal": "Front Pediatr",
+  "year": "2026",
+  "authors": [
+   "Cordero-Cuevas D",
+   "Figueroa-Valero J",
+   "P\u00e9rez-Rodr\u00edguez E",
+   "Gonz\u00e1lez-Carbonell RA"
+  ],
+  "abstract": "Guillain-Barr\u00e9 syndrome (GBS) is an acute inflammatory demyelinating polyradiculoneuropathy that can lead to severe gait impairment and functional limitations in pediatric patients. Although conventional physiotherapy (CT) is the standard of care, recovery is often prolonged and characterized by persistent deficits in strength and motor control. Wearable ankle-exoskeletons have emerged as a potential adjunctive tool for task-specific gait training; however, their application in pediatric GBS remains largely unexplored. The aim of this single case report was to describe the clinical application of a structured gait training program using the Biomotum SPARK\u00ae wearable ankle-exoskeleton (SPARK\u00ae) combined with CT in a pediatric patient with GBS. Discrete variations in muscle strength, spatiotemporal parameters, pelvic kinematics, and muscle activation patterns were recorded between baseline (T0) and post-intervention (T2) assessments. Clinically, manual muscle testing scores suggested localized gains, particularly in bilateral hip abductors (moving from 3/5 to 4/5). Instrumented gait analysis indicated a baseline cadence variation from 101.7 to 108.5 steps/min, alongside a displacement of the gait symmetry index from 1.17% to 0.67%. Pelvic kinematic profiles suggested a trend toward alignment with normative reference bands, notably in pelvic obliquity and right pelvic rotation. Furthermore, surface electromyography recordings suggested localized modifications at T2, characterized by a lower envelope amplitude in the right gastrocnemius medialis activation pattern during the swing-phase (60%-100%) and an increase in amplitude within the normative activation periods of the left tibialis anterior. This single case report describes the clinical application of an integrated gait training protocol using the SPARK\u00ae, which was well-tolerated by the pediatric patient during the recovery-phase of GBS. However, these preliminary observations cannot be generalized or attributed solely to the wearable ankle-exoskeleton, as they likely reflect the combined, synergistic influence of spontaneous neurological recovery, conventional rehabilitation, motor learning, and increased walking exposure. Further controlled studies are necessary to evaluate the potential role and efficacy of wearable ankle-exoskeletons in pediatric GBS rehabilitation.",
+  "doi": "10.3389/fped.2026.1900528",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42756022/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-18T17:11:14Z"
+ },
+ {
+  "pmid": "42751226",
+  "title": "Menstrual cycle hormonal fluctuations and their associations with athletic performance and injury susceptibility in female athletes.",
+  "journal": "Front Sports Act Living",
+  "year": "2026",
+  "authors": [
+   "Zou Y",
+   "Gao Y",
+   "Yuan R",
+   "Yang Q",
+   "et al."
+  ],
+  "abstract": "The menstrual cycle (MC) is characterized by periodic fluctuations in estradiol and progesterone that may influence exercise metabolism, neuromuscular function, connective-tissue properties, menstrual symptom burden, recovery, and musculoskeletal injury susceptibility in female athletes. However, inconsistent findings and substantial inter- and intraindividual variability have prevented the development of universally applicable practical guidance. This narrative review aimed to synthesize current evidence on the associations of MC-related hormonal fluctuations with athletic performance and injury susceptibility; examine the underlying physiological, biomechanical, and psychological mechanisms; and evaluate the practical implications for training, nutrition, recovery, and injury prevention. The available evidence indicates that associations between the MC phase and objective performance outcomes are generally weak, variable, task-specific, and highly individual. Some studies have reported phase-related differences in selected measures of muscle strength, explosive performance, endurance strain, or training adaptation, whereas other studies have found no meaningful differences. Therefore, no MC phase can currently be considered universally advantageous or disadvantageous for athletic performance. Estradiol, progesterone, and relaxin provide biologically plausible pathways through which connective tissue metabolism, joint laxity, neural excitability, sensorimotor processing, and muscle-activation strategies might be modified. However, much of the supporting evidence is derived from experimental laboratory surrogate outcomes rather than prospectively recorded clinical injury data. Observational evidence linking distinct menstrual phases to anterior cruciate ligament tears, muscle strains, and other musculoskeletal injuries remains limited, heterogeneous, and unable to confirm direct causal links. Interpretation of the evidence is constrained by small sample sizes; inaccurate or inconsistent phase classification; limited hormonal verification; inadequate control of training load; energy availability, sleep, and hormonal contraceptive use; and substantial between- and within-individual variability. Current evidence does not support rigid or universally applied phase-based training rules, nor arbitrary risk/performance labeling of MC phases. MC status should be considered contextual information rather than an independent basis for training prescription. Training and injury-prevention decisions should be guided primarily by repeated individual monitoring of menstrual symptoms, perceived readiness, recovery, nutritional intake, objective performance, training load, environmental stressors, and previous injury. Established neuromuscular injury-prevention and workload-management strategies should be implemented throughout the cycle rather than restricted to presumed vulnerable phases.",
+  "doi": "10.3389/fspor.2026.1848550",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42751226/",
+  "matched": [
+   {
+    "id": "menstrual-cycle-injury",
+    "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-18T17:11:14Z"
+ },
+ {
   "pmid": "42748368",
   "title": "The mechanism of injury's role in jump landing mechanics after anterior cruciate ligament reconstruction.",
   "journal": "Knee Surg Sports Traumatol Arthrosc",

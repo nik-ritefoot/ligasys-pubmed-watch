@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-17T17:44:00+00:00",
+ "generated": "2026-09-18T17:11:14+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,32 +66,67 @@
  ],
  "counts": {
   "total": 83,
-  "new": 1,
-  "research": 26,
-  "fieldnotes": 57
+  "new": 2,
+  "research": 25,
+  "fieldnotes": 58
  },
  "records": [
   {
-   "pmid": "42748368",
-   "title": "The mechanism of injury's role in jump landing mechanics after anterior cruciate ligament reconstruction.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "pmid": "42756022",
+   "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
+   "journal": "Front Pediatr",
    "year": "2026",
    "authors": [
-    "Hopper HM",
-    "Bruce-Leicht AS",
-    "Hart JM",
-    "Thompson XD"
+    "Cordero-Cuevas D",
+    "Figueroa-Valero J",
+    "P\u00e9rez-Rodr\u00edguez E",
+    "Gonz\u00e1lez-Carbonell RA"
    ],
-   "abstract": "The primary aim of this study is to determine if there is a difference in post-rehabilitation Landing Error Scoring System (LESS) score between patients who injured their anterior cruciate ligament (ACL) through a contact or noncontact mechanism of injury (MOI). The secondary aim is to determine if there is a difference in demographics, strength, and patient-reported outcomes (PROs) between patients who injured their ACL through a contact or noncontact MOI. Patients were included from a larger observational laboratory study if they had undergone a primary, isolated, uncomplicated ACLR. Patients were excluded if they had a history of other lower extremity surgery, concomitant ligament injury, surgical complications, or any neurologic disorder. One hundred and twenty-nine patients were included in this study (age: 21.4\u2009\u00b1\u20097.9, sex: 64\u2009F/65\u2009M, follow up: 8.1\u2009\u00b1\u20091.7 months). Ninety-one patients (70.5%) sustained a noncontact MOI, and 38 patients (29.5%) sustained a contact MOI. There was no difference in total LESS score (p\u2009=\u20090.930), frontal LESS score (p\u2009=\u20090.831) or sagittal LESS score (p\u2009=\u20090.980) between the contact and noncontact groups. There was no statistically significant difference in total LESS score, frontal LESS score, or sagittal LESS score between contact and noncontact MOI. A considerable proportion of participants demonstrated multiple landing errors, indicating that assessment and rehabilitation of landing mechanics may remain relevant during late-stage rehabilitation. There was no statistically significant difference between mechanism of initial ACL injury and strength or PROs. The decision to allow a patient to return to play is multifactorial and should occur after modifiable risk factors, including jump landing mechanics, have been properly mitigated during rehabilitation. Level III.",
-   "doi": "10.1002/ksa.70605",
+   "abstract": "Guillain-Barr\u00e9 syndrome (GBS) is an acute inflammatory demyelinating polyradiculoneuropathy that can lead to severe gait impairment and functional limitations in pediatric patients. Although conventional physiotherapy (CT) is the standard of care, recovery is often prolonged and characterized by persistent deficits in strength and motor control. Wearable ankle-exoskeletons have emerged as a potential adjunctive tool for task-specific gait training; however, their application in pediatric GBS remains largely unexplored. The aim of this single case report was to describe the clinical application of a structured gait training program using the Biomotum SPARK\u00ae wearable ankle-exoskeleton (SPARK\u00ae) combined with CT in a pediatric patient with GBS. Discrete variations in muscle strength, spatiotemporal parameters, pelvic kinematics, and muscle activation patterns were recorded between baseline (T0) and post-intervention (T2) assessments. Clinically, manual muscle testing scores suggested localized gains, particularly in bilateral hip abductors (moving from 3/5 to 4/5). Instrumented gait analysis indicated a baseline cadence variation from 101.7 to 108.5 steps/min, alongside a displacement of the gait symmetry index from 1.17% to 0.67%. Pelvic kinematic profiles suggested a trend toward alignment with normative reference bands, notably in pelvic obliquity and right pelvic rotation. Furthermore, surface electromyography recordings suggested localized modifications at T2, characterized by a lower envelope amplitude in the right gastrocnemius medialis activation pattern during the swing-phase (60%-100%) and an increase in amplitude within the normative activation periods of the left tibialis anterior. This single case report describes the clinical application of an integrated gait training protocol using the SPARK\u00ae, which was well-tolerated by the pediatric patient during the recovery-phase of GBS. However, these preliminary observations cannot be generalized or attributed solely to the wearable ankle-exoskeleton, as they likely reflect the combined, synergistic influence of spontaneous neurological recovery, conventional rehabilitation, motor learning, and increased walking exposure. Further controlled studies are necessary to evaluate the potential role and efficacy of wearable ankle-exoskeletons in pediatric GBS rehabilitation.",
+   "doi": "10.3389/fped.2026.1900528",
    "pubtypes": [
+    "Case Reports",
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42748368/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42756022/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42751226",
+   "title": "Menstrual cycle hormonal fluctuations and their associations with athletic performance and injury susceptibility in female athletes.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Zou Y",
+    "Gao Y",
+    "Yuan R",
+    "Yang Q",
+    "et al."
+   ],
+   "abstract": "The menstrual cycle (MC) is characterized by periodic fluctuations in estradiol and progesterone that may influence exercise metabolism, neuromuscular function, connective-tissue properties, menstrual symptom burden, recovery, and musculoskeletal injury susceptibility in female athletes. However, inconsistent findings and substantial inter- and intraindividual variability have prevented the development of universally applicable practical guidance. This narrative review aimed to synthesize current evidence on the associations of MC-related hormonal fluctuations with athletic performance and injury susceptibility; examine the underlying physiological, biomechanical, and psychological mechanisms; and evaluate the practical implications for training, nutrition, recovery, and injury prevention. The available evidence indicates that associations between the MC phase and objective performance outcomes are generally weak, variable, task-specific, and highly individual. Some studies have reported phase-related differences in selected measures of muscle strength, explosive performance, endurance strain, or training adaptation, whereas other studies have found no meaningful differences. Therefore, no MC phase can currently be considered universally advantageous or disadvantageous for athletic performance. Estradiol, progesterone, and relaxin provide biologically plausible pathways through which connective tissue metabolism, joint laxity, neural excitability, sensorimotor processing, and muscle-activation strategies might be modified. However, much of the supporting evidence is derived from experimental laboratory surrogate outcomes rather than prospectively recorded clinical injury data. Observational evidence linking distinct menstrual phases to anterior cruciate ligament tears, muscle strains, and other musculoskeletal injuries remains limited, heterogeneous, and unable to confirm direct causal links. Interpretation of the evidence is constrained by small sample sizes; inaccurate or inconsistent phase classification; limited hormonal verification; inadequate control of training load; energy availability, sleep, and hormonal contraceptive use; and substantial between- and within-individual variability. Current evidence does not support rigid or universally applied phase-based training rules, nor arbitrary risk/performance labeling of MC phases. MC status should be considered contextual information rather than an independent basis for training prescription. Training and injury-prevention decisions should be guided primarily by repeated individual monitoring of menstrual symptoms, perceived readiness, recovery, nutritional intake, objective performance, training load, environmental stressors, and previous injury. Established neuromuscular injury-prevention and workload-management strategies should be implemented throughout the cycle rather than restricted to presumed vulnerable phases.",
+   "doi": "10.3389/fspor.2026.1848550",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42751226/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -1270,35 +1305,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42611401",
-   "title": "Inciting Events of Lower-Limb Muscle Injury: A Systematic Review and Meta-analysis of Video-Based Studies.",
-   "journal": "Sports Med Open",
-   "year": "2026",
-   "authors": [
-    "Miralles-Iborra A",
-    "Rond\u00f3n-Espinosa H",
-    "Vera-Garcia FJ",
-    "Courel-Ib\u00e1\u00f1ez J",
-    "et al."
-   ],
-   "abstract": "Understanding the situational contexts of lower-limb muscle injuries in football is critical for informing the design of effective prevention strategies. While their frequency and burden are well documented, the frequently observed inciting events and situational patterns underlying these injuries remain insufficiently synthesised. To systematically review and meta-analyse video-based analysis studies examining the inciting events, timing, field location, and situational patterns associated with lower-limb muscle injuries in professional football players. A PRISMA-guided systematic review was conducted across five databases (PubMed, Web of Science, Embase, Scopus, SPORTDiscus) from inception to October 1, 2025. Eligible studies used video analysis to examine inciting events (type, kinetic chain, vertical and horizontal velocities), timing (match half, minute), field location (short and long axis), and situational/tactical patterns (specific action, defensive/offensive context, ball possession status) of lower-limb muscle injuries in professional football. Dichotomous outcomes were pooled using random-effects odds ratios (OR), and multi-category outcomes were synthesised via a Bayesian hierarchical multinomial-logit model with study-level pooled random-effects marginal proportions (RE) and 95% credible intervals (CrI). Risk of bias and methodological quality of included studies were appraised using the AXIS, QA-SIVAS and STROBE-SIIS tools. Twelve studies (513 players [434 male and 79 female]; 538 injuries [452 in males, 86 in females]) were included. Hamstring injuries predominated (74.7%), followed by adductor (14.3%), quadriceps (7.1%), and calf (3.9%) injuries. Sufficient data for meta-analysis were available only for male players. Non-contact injuries (n\u2009=\u2009322) were significantly more frequent than indirect contact (n\u2009=\u2009108) injuries (OR\u2009=\u20098.01, 95% CI 3.85-16.64; p\u2009<\u20090.001). These injuries occurred predominantly during moderate-to-high horizontal velocity actions, compared with zero-to-low velocity actions (OR\u2009=\u200919.56, 95% CI 2.55-150.12; p\u2009=\u20090.004). Pooled proportions were highest during running (RE\u2009=\u20090.29, 95% CrI: 0.17-0.44), stretching/reaching (RE\u2009=\u20090.24, 95% CrI: 0.12-0.40), or kicking actions (RE\u2009=\u20090.22, 95% CrI: 0.09-0.38), although no credible differences were observed between categories. No consistent effects were found for the kinetic chain, match time, field location, or tactical phase. In professional football, lower-limb muscle injuries were predominantly observed during non-contact inciting events occurring at moderate-to-high horizontal speed, frequently involving the hamstrings during running, stretching/reaching, or kicking actions. No consistent effects were found for match time, field location, or tactical phase. Methodological heterogeneity and the absence of exposure-adjusted data limit the certainty of these findings. The protocol for this systematic review was registered a priori in the INPLASY database (registration number INPLASY2024100091).",
-   "doi": "10.1186/s40798-026-01090-1",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42611401/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42620503",
    "title": "Intention-driven ankle exoskeleton training acutely alters swing foot clearance distribution: a preliminary study.",
    "journal": "Front Neurorobot",
@@ -1324,35 +1330,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42608902",
-   "title": "Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial.",
-   "journal": "Acta Orthop Traumatol Turc",
-   "year": "2026",
-   "authors": [
-    "G\u00fcltekin O",
-    "K\u0131l\u0131n\u00e7 BE",
-    "\u015een AE",
-    "\u00c7etin C",
-    "et al."
-   ],
-   "abstract": "Surgical treatment of Weber type B ankle fractures often requires careful postoperative rehabilitation, especially when syndesmotic injuries are present. In recent years, Kinesio taping (KT) has been used in various orthopedic conditions, though its role in fracture recovery remains debatable. This study aimed to explore whether KT might support early recovery in such cases. Thirty adult patients with isolated Weber B ankle fractures and confirmed syndesmotic injury were enrolled. They were randomly assigned to 2 groups. One received KT in addition to a conventional rehabilitation protocol; the other followed rehabilitation without taping. Pain was assessed using the Visual Analog Scale. Ankle range of motion (ROM), swelling (via tape measurement), and functional mobility through the Timed Up and Go (TUG) test were also evaluated on postoperative days 1, 7, 14, and 28. Measurement reliability was verified using intraclass correlation coefficients. Statistical comparisons involved t-tests and analysis of variance (P < .05). On day 1, outcome measures were similar between groups. However, by day 7 and more evidently on day 28, the KT group showed reduced pain, improved ROM, and faster TUG performance (P < .001). Edema reduction was particularly noticeable and persisted throughout follow-up. Kinesio taping may serve as a beneficial adjunct during early postoperative rehabilitation following Weber B fractures. Importantly, integrating KT into standard care protocols may enrich patient-centered rehabilitation approaches due to its simplicity, safety, and noninvasive nature. \u00a0 Cite this article as: G\u00fcltekin O, K\u0131l\u0131n. BE, \u015een AE, .etin C, Ol\u011fun Y, Varol A. Is Kinesio taping beneficial in the short term after Weber Type B lateral malleolar fractures? A randomized controlled trial. Acta Orthop Traumatol Turc., 2026; 60(4), 0397, doi: 10.5152/j.aott.2026.25397.",
-   "doi": "10.5152/j.aott.2026.25397",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42608902/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42636497",
@@ -2201,6 +2178,33 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42748368",
+   "title": "The mechanism of injury's role in jump landing mechanics after anterior cruciate ligament reconstruction.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "year": "2026",
+   "authors": [
+    "Hopper HM",
+    "Bruce-Leicht AS",
+    "Hart JM",
+    "Thompson XD"
+   ],
+   "abstract": "The primary aim of this study is to determine if there is a difference in post-rehabilitation Landing Error Scoring System (LESS) score between patients who injured their anterior cruciate ligament (ACL) through a contact or noncontact mechanism of injury (MOI). The secondary aim is to determine if there is a difference in demographics, strength, and patient-reported outcomes (PROs) between patients who injured their ACL through a contact or noncontact MOI. Patients were included from a larger observational laboratory study if they had undergone a primary, isolated, uncomplicated ACLR. Patients were excluded if they had a history of other lower extremity surgery, concomitant ligament injury, surgical complications, or any neurologic disorder. One hundred and twenty-nine patients were included in this study (age: 21.4\u2009\u00b1\u20097.9, sex: 64\u2009F/65\u2009M, follow up: 8.1\u2009\u00b1\u20091.7 months). Ninety-one patients (70.5%) sustained a noncontact MOI, and 38 patients (29.5%) sustained a contact MOI. There was no difference in total LESS score (p\u2009=\u20090.930), frontal LESS score (p\u2009=\u20090.831) or sagittal LESS score (p\u2009=\u20090.980) between the contact and noncontact groups. There was no statistically significant difference in total LESS score, frontal LESS score, or sagittal LESS score between contact and noncontact MOI. A considerable proportion of participants demonstrated multiple landing errors, indicating that assessment and rehabilitation of landing mechanics may remain relevant during late-stage rehabilitation. There was no statistically significant difference between mechanism of initial ACL injury and strength or PROs. The decision to allow a patient to return to play is multifactorial and should occur after modifiable risk factors, including jump landing mechanics, have been properly mitigated during rehabilitation. Level III.",
+   "doi": "10.1002/ksa.70605",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42748368/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42644620",
