@@ -1,5 +1,27 @@
 [
  {
+  "pmid": "42759112",
+  "title": "Immediate and fatigue-related effects of subtalar sling taping in individuals with chronic ankle instability.",
+  "journal": "Phys Ther Sport",
+  "year": "2026",
+  "authors": [
+   "Sekiba\u011f OA",
+   "Bad\u0131ll\u0131 Hantal F\u015e"
+  ],
+  "abstract": "To compare the immediate and fatigue-related effects of rigid subtalar sling taping, kinesio subtalar sling taping, and sham taping in physically active individuals with chronic ankle instability (CAI). Randomized controlled trial. University Physiotherapy and Rehabilitation Laboratory. Ninety physically active adults with CAI were randomized to RST, KST, or ST (n\u202f=\u202f30 each). The primary outcome was the Y-Balance Test (YBT) composite score. Secondary outcomes were joint position sense error, Weight-Bearing Lunge Test, Single-Leg Hop, Side Hop, and Figure-of-8 Hop performance, assessed at baseline, post-taping, post-fatigue, and after a 20-min recovery period. Group\u202f\u00d7\u202ftime interactions were significant for all outcomes after adjustment for sex (all p\u202f<\u202f.001). For YBT, KST demonstrated higher scores than ST post-fatigue (MD\u202f=\u202f4.28, 95% CI 0.16 to 8.40) and after recovery (MD\u202f=\u202f4.27, 95% CI 0.15 to 8.39), whereas RST-ST differences were not significant. Baseline-adjusted sensitivity analyses supported active-taping effects for selected outcomes, but differences varied by outcome and time point. No consistent superiority was observed between RST and KST. RST and KST showed outcome-dependent effects after taping and fatigue; statistically significant between-group differences were not uniform across outcomes.",
+  "doi": "10.1016/j.ptsp.2026.101996",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42759112/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-19T16:46:19Z"
+ },
+ {
   "pmid": "42756022",
   "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
   "journal": "Front Pediatr",

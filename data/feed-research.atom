@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-09-18T17:11:14Z</updated>
+  <updated>2026-09-19T16:46:19Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Immediate and fatigue-related effects of subtalar sling taping in individuals with chronic ankle instability.</title>
+    <id>urn:pmid:42759112</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42759112/" rel="alternate"/>
+    <updated>2026-09-19T16:46:19Z</updated>
+    <published>2026-09-19T16:46:19Z</published>
+    <author><name>Sekibağ OA</name></author><author><name>Badıllı Hantal FŞ</name></author>
+    <category term="bracing-orthosis-efficacy" label="Bracing / orthosis efficacy &amp; performance cost"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Sekibağ OA, Badıllı Hantal FŞ · Phys Ther Sport · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;To compare the immediate and fatigue-related effects of rigid subtalar sling taping, kinesio subtalar sling taping, and sham taping in physically active individuals with chronic ankle instability (CAI). Randomized controlled trial. University Physiotherapy and Rehabilitation Laboratory. Ninety physically active adults with CAI were randomized to RST, KST, or ST (n = 30 each). The primary outcome was the Y-Balance Test (YBT) composite score. Secondary outcomes were joint position sense error, Weight-Bearing Lunge Test, Single-Leg Hop, Side Hop, and Figure-of-8 Hop performance, assessed at baseline, post-taping, post-fatigue, and after a 20-min recovery period. Group × time interactions were significant for all outcomes after adjustment for sex (all p &amp;lt; .001). For YBT, KST demonstrated higher scores than ST post-fatigue (MD = 4.28, 95% CI 0.16 to 8.40) and after recovery (MD = 4.27, 95% CI 0.15 to 8.39), whereas RST-ST differences were not significant. Baseline-adjusted sensitivity analyses supported active-taping effects for selected outcomes, but differences varied by outcome and time point. No consistent superiority was observed between RST and KST. RST and KST showed outcome-dependent effects after taping and fatigue; statistically significant between-group differences were not uniform across outcomes.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.ptsp.2026.101996&quot;&gt;10.1016/j.ptsp.2026.101996&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42759112/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Posterior-caudal talar displacement and muscle stiffness during ankle dorsiflexion in chronic ankle instability: A cross-sectional ultrasonographic study.</title>
     <id>urn:pmid:42722516</id>

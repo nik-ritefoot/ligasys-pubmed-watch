@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T17:11:14+00:00",
+ "generated": "2026-09-19T16:46:19+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,73 +65,36 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 2,
-  "research": 25,
+  "total": 81,
+  "new": 1,
+  "research": 23,
   "fieldnotes": 58
  },
  "records": [
   {
-   "pmid": "42756022",
-   "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
-   "journal": "Front Pediatr",
+   "pmid": "42759112",
+   "title": "Immediate and fatigue-related effects of subtalar sling taping in individuals with chronic ankle instability.",
+   "journal": "Phys Ther Sport",
    "year": "2026",
    "authors": [
-    "Cordero-Cuevas D",
-    "Figueroa-Valero J",
-    "P\u00e9rez-Rodr\u00edguez E",
-    "Gonz\u00e1lez-Carbonell RA"
+    "Sekiba\u011f OA",
+    "Bad\u0131ll\u0131 Hantal F\u015e"
    ],
-   "abstract": "Guillain-Barr\u00e9 syndrome (GBS) is an acute inflammatory demyelinating polyradiculoneuropathy that can lead to severe gait impairment and functional limitations in pediatric patients. Although conventional physiotherapy (CT) is the standard of care, recovery is often prolonged and characterized by persistent deficits in strength and motor control. Wearable ankle-exoskeletons have emerged as a potential adjunctive tool for task-specific gait training; however, their application in pediatric GBS remains largely unexplored. The aim of this single case report was to describe the clinical application of a structured gait training program using the Biomotum SPARK\u00ae wearable ankle-exoskeleton (SPARK\u00ae) combined with CT in a pediatric patient with GBS. Discrete variations in muscle strength, spatiotemporal parameters, pelvic kinematics, and muscle activation patterns were recorded between baseline (T0) and post-intervention (T2) assessments. Clinically, manual muscle testing scores suggested localized gains, particularly in bilateral hip abductors (moving from 3/5 to 4/5). Instrumented gait analysis indicated a baseline cadence variation from 101.7 to 108.5 steps/min, alongside a displacement of the gait symmetry index from 1.17% to 0.67%. Pelvic kinematic profiles suggested a trend toward alignment with normative reference bands, notably in pelvic obliquity and right pelvic rotation. Furthermore, surface electromyography recordings suggested localized modifications at T2, characterized by a lower envelope amplitude in the right gastrocnemius medialis activation pattern during the swing-phase (60%-100%) and an increase in amplitude within the normative activation periods of the left tibialis anterior. This single case report describes the clinical application of an integrated gait training protocol using the SPARK\u00ae, which was well-tolerated by the pediatric patient during the recovery-phase of GBS. However, these preliminary observations cannot be generalized or attributed solely to the wearable ankle-exoskeleton, as they likely reflect the combined, synergistic influence of spontaneous neurological recovery, conventional rehabilitation, motor learning, and increased walking exposure. Further controlled studies are necessary to evaluate the potential role and efficacy of wearable ankle-exoskeletons in pediatric GBS rehabilitation.",
-   "doi": "10.3389/fped.2026.1900528",
+   "abstract": "To compare the immediate and fatigue-related effects of rigid subtalar sling taping, kinesio subtalar sling taping, and sham taping in physically active individuals with chronic ankle instability (CAI). Randomized controlled trial. University Physiotherapy and Rehabilitation Laboratory. Ninety physically active adults with CAI were randomized to RST, KST, or ST (n\u202f=\u202f30 each). The primary outcome was the Y-Balance Test (YBT) composite score. Secondary outcomes were joint position sense error, Weight-Bearing Lunge Test, Single-Leg Hop, Side Hop, and Figure-of-8 Hop performance, assessed at baseline, post-taping, post-fatigue, and after a 20-min recovery period. Group\u202f\u00d7\u202ftime interactions were significant for all outcomes after adjustment for sex (all p\u202f<\u202f.001). For YBT, KST demonstrated higher scores than ST post-fatigue (MD\u202f=\u202f4.28, 95% CI 0.16 to 8.40) and after recovery (MD\u202f=\u202f4.27, 95% CI 0.15 to 8.39), whereas RST-ST differences were not significant. Baseline-adjusted sensitivity analyses supported active-taping effects for selected outcomes, but differences varied by outcome and time point. No consistent superiority was observed between RST and KST. RST and KST showed outcome-dependent effects after taping and fatigue; statistically significant between-group differences were not uniform across outcomes.",
+   "doi": "10.1016/j.ptsp.2026.101996",
    "pubtypes": [
-    "Case Reports",
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42756022/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42759112/",
    "matched": [
     {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42751226",
-   "title": "Menstrual cycle hormonal fluctuations and their associations with athletic performance and injury susceptibility in female athletes.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Zou Y",
-    "Gao Y",
-    "Yuan R",
-    "Yang Q",
-    "et al."
-   ],
-   "abstract": "The menstrual cycle (MC) is characterized by periodic fluctuations in estradiol and progesterone that may influence exercise metabolism, neuromuscular function, connective-tissue properties, menstrual symptom burden, recovery, and musculoskeletal injury susceptibility in female athletes. However, inconsistent findings and substantial inter- and intraindividual variability have prevented the development of universally applicable practical guidance. This narrative review aimed to synthesize current evidence on the associations of MC-related hormonal fluctuations with athletic performance and injury susceptibility; examine the underlying physiological, biomechanical, and psychological mechanisms; and evaluate the practical implications for training, nutrition, recovery, and injury prevention. The available evidence indicates that associations between the MC phase and objective performance outcomes are generally weak, variable, task-specific, and highly individual. Some studies have reported phase-related differences in selected measures of muscle strength, explosive performance, endurance strain, or training adaptation, whereas other studies have found no meaningful differences. Therefore, no MC phase can currently be considered universally advantageous or disadvantageous for athletic performance. Estradiol, progesterone, and relaxin provide biologically plausible pathways through which connective tissue metabolism, joint laxity, neural excitability, sensorimotor processing, and muscle-activation strategies might be modified. However, much of the supporting evidence is derived from experimental laboratory surrogate outcomes rather than prospectively recorded clinical injury data. Observational evidence linking distinct menstrual phases to anterior cruciate ligament tears, muscle strains, and other musculoskeletal injuries remains limited, heterogeneous, and unable to confirm direct causal links. Interpretation of the evidence is constrained by small sample sizes; inaccurate or inconsistent phase classification; limited hormonal verification; inadequate control of training load; energy availability, sleep, and hormonal contraceptive use; and substantial between- and within-individual variability. Current evidence does not support rigid or universally applied phase-based training rules, nor arbitrary risk/performance labeling of MC phases. MC status should be considered contextual information rather than an independent basis for training prescription. Training and injury-prevention decisions should be guided primarily by repeated individual monitoring of menstrual symptoms, perceived readiness, recovery, nutritional intake, objective performance, training load, environmental stressors, and previous injury. Established neuromuscular injury-prevention and workload-management strategies should be implemented throughout the cycle rather than restricted to presumed vulnerable phases.",
-   "doi": "10.3389/fspor.2026.1848550",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42751226/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42675844",
@@ -496,39 +459,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42618352",
-   "title": "Athletes with chronic ankle instability adopt protective landing strategies and exhibit reduced anterior talofibular ligament strain during dynamic inversion perturbations.",
-   "journal": "J Sci Med Sport",
-   "year": "2026",
-   "authors": [
-    "Zhu X",
-    "Yan Z",
-    "Zhao Q",
-    "Wang Q",
-    "et al."
-   ],
-   "abstract": "This study aimed to compare lower-limb landing kinematics and modeled anterior talofibular ligament (ATFL) and calcaneofibular ligament (CFL) strains between athletes with and without chronic ankle instability (CAI) during a dynamic inversion-plantarflexion perturbation, and to determine whether altered landing strategies in athletes with CAI were associated with increased or reduced ligament strain. Cross-sectional study. 55 athletes with CAI and 55 without CAI were recruited. Each participant performed a 30-cm drop landing on a simulated sprain apparatus. The unaffected limb was placed on a support pedal, while the affected limb landed on a tilt pedal that was set to 24\u00b0 of inversion and 15\u00b0 of plantarflexion to simulate the condition of lateral ankle sprains. Kinematic data were obtained using a 12-camera motion analysis system, and ATFL and CFL strains were calculated with a 3D rigid-body foot model. Independent sample t-tests and Pearson's correlations were used to analyze data. Athletes with CAI exhibited higher hip flexion (p\u202f<\u202f0.001), hip abduction (p\u202f<\u202f0.001), knee abduction (p\u202f=\u202f0.043), ankle external rotation (p\u202f=\u202f0.032), foot toe-out (p\u202f<\u202f0.001) angles and lower ATFL strain (p\u202f=\u202f0.002). ATFL strain was negatively correlated with ankle external rotation (r\u202f=\u202f-0.263, p\u202f=\u202f0.006), and foot toe-out (r\u202f=\u202f-0.286, p\u202f=\u202f0.002) angles. Athletes with CAI adopt a protective landing strategy compared to those without CAI. This strategy was associated with reduction in ATFL strain, which may help mitigate the risk of lateral ankle sprain during challenging landings.",
-   "doi": "10.1016/j.jsams.2026.08.003",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42618352/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42662514",
    "title": "Autologous chondrocyte implantation in osteochondral defects of the capitulum: clinical and radiological outcome in a case series.",
    "journal": "JSES Int",
@@ -638,6 +568,34 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42756022",
+   "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
+   "journal": "Front Pediatr",
+   "year": "2026",
+   "authors": [
+    "Cordero-Cuevas D",
+    "Figueroa-Valero J",
+    "P\u00e9rez-Rodr\u00edguez E",
+    "Gonz\u00e1lez-Carbonell RA"
+   ],
+   "abstract": "Guillain-Barr\u00e9 syndrome (GBS) is an acute inflammatory demyelinating polyradiculoneuropathy that can lead to severe gait impairment and functional limitations in pediatric patients. Although conventional physiotherapy (CT) is the standard of care, recovery is often prolonged and characterized by persistent deficits in strength and motor control. Wearable ankle-exoskeletons have emerged as a potential adjunctive tool for task-specific gait training; however, their application in pediatric GBS remains largely unexplored. The aim of this single case report was to describe the clinical application of a structured gait training program using the Biomotum SPARK\u00ae wearable ankle-exoskeleton (SPARK\u00ae) combined with CT in a pediatric patient with GBS. Discrete variations in muscle strength, spatiotemporal parameters, pelvic kinematics, and muscle activation patterns were recorded between baseline (T0) and post-intervention (T2) assessments. Clinically, manual muscle testing scores suggested localized gains, particularly in bilateral hip abductors (moving from 3/5 to 4/5). Instrumented gait analysis indicated a baseline cadence variation from 101.7 to 108.5 steps/min, alongside a displacement of the gait symmetry index from 1.17% to 0.67%. Pelvic kinematic profiles suggested a trend toward alignment with normative reference bands, notably in pelvic obliquity and right pelvic rotation. Furthermore, surface electromyography recordings suggested localized modifications at T2, characterized by a lower envelope amplitude in the right gastrocnemius medialis activation pattern during the swing-phase (60%-100%) and an increase in amplitude within the normative activation periods of the left tibialis anterior. This single case report describes the clinical application of an integrated gait training protocol using the SPARK\u00ae, which was well-tolerated by the pediatric patient during the recovery-phase of GBS. However, these preliminary observations cannot be generalized or attributed solely to the wearable ankle-exoskeleton, as they likely reflect the combined, synergistic influence of spontaneous neurological recovery, conventional rehabilitation, motor learning, and increased walking exposure. Further controlled studies are necessary to evaluate the potential role and efficacy of wearable ankle-exoskeletons in pediatric GBS rehabilitation.",
+   "doi": "10.3389/fped.2026.1900528",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42756022/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -1006,35 +964,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42614049",
-   "title": "Effects of tissue flossing on sports performance, injury prevention, and post-injury rehabilitation outcomes: a systematic review.",
-   "journal": "Res Sports Med",
-   "year": "2026",
-   "authors": [
-    "Chang PH",
-    "Ko BJ",
-    "Hung MH",
-    "Wu T",
-    "et al."
-   ],
-   "abstract": "Tissue flossing (TF) is a compression-based soft-tissue intervention increasingly used in athletic and rehabilitation settings. However, current evidence is heterogeneous and inconsistent. This systematic review synthesized the effects of TF on sports performance, injury prevention, and post-injury rehabilitation, while distinguishing experimentally demonstrated outcomes from hypothesized mechanisms. Following PRISMA 2020 guidelines, PubMed/MEDLINE, Web of Science, Scopus, and SPORTDiscus were searched, and quantitative data, including means, p values, and effect sizes, were extracted where available. Twenty peer-reviewed trials met the inclusion criteria. TF applied at approximately 50% elongation acutely improved joint range of motion (ROM; Hedges' g\u2009=\u20090.19, p\u2009=\u2009.010) and selected force outputs, including plantar-flexion torque, which increased by 4.3-4.9\u2009N\u00b7m. Compared with active interventions, TF produced sustained reductions in muscle stiffness, including a mean difference of -43.40 kPa in the distal semitendinosus (p\u2009=\u2009.007). Preliminary evidence also suggested potential benefits for proprioception and feedforward neuromuscular activation in individuals with chronic ankle instability. Overall, TF may improve acute mobility, selected force outputs, and sensorimotor function. However, small sample sizes, protocol heterogeneity, and limited follow-up periods prevent definitive conclusions regarding its effectiveness for injury prevention or post-injury rehabilitation across diverse populations, intervention protocols, and longer-term clinical and functional outcomes.",
-   "doi": "10.1080/15438627.2026.2720160",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42614049/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42741095",
    "title": "Electromyographic analysis of muscle activation and co-activation across smash phases in para-badminton: an exploratory investigation of neuromuscular coordination.",
    "journal": "Front Bioeng Biotechnol",
@@ -1217,31 +1146,6 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42617228",
-   "title": "Gait patterns observed during obstacle walking in adults with mild intellectual disability.",
-   "journal": "Gait Posture",
-   "year": "2026",
-   "authors": [
-    "Jin DH",
-    "Hwang YI"
-   ],
-   "abstract": "To compare three-dimensional gait kinematics, pressure-platform-derived variables, and intellectual disability during level walking and obstacle negotiation. Twenty participants were enrolled (mild intellectual disability, n\u202f=\u202f10; control, n\u202f=\u202f10). Participants walked barefoot at a self-selected speed during level walking and obstacle crossing over three heights (2.5, 5.2, and 15.2\u202fcm). Three-dimensional kinematics were captured using inertial measurement units. During level walking, pressure-platform-derived variables, including body-weight-normalized force-related values and peak plantar pressure, were obtained using a pressure platform. Surface EMG activity of the rectus femoris, biceps femoris, tibialis anterior, and medial gastrocnemius was recorded during obstacle walking. During level walking, adults with mild intellectual disability showed greater hip and knee flexion during early stance phase than controls (p\u202f<\u202f0.05). During obstacle negotiation, leading-limb responses primarily reflected obstacle-height effects. In the trailing limb, significant obstacle-height effects were observed for hip flexion, knee flexion, ankle dorsiflexion, ankle inversion, rectus femoris, biceps femoris, and tibialis anterior activity. Significant group-related effects were observed for trailing-limb ankle dorsiflexion and tibialis anterior activity, indicating different ankle-control strategies across obstacle heights between groups. Adults with mild intellectual disability demonstrate altered gait kinematics and reduced adaptability during obstacle negotiation, particularly in trailing-limb ankle control. These findings support rehabilitation approaches that progressively challenge gait control under commonly encountered environmental constraints to enhance movement regulation during walking.",
-   "doi": "10.1016/j.gaitpost.2026.110606",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42617228/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -1475,6 +1379,40 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42751226",
+   "title": "Menstrual cycle hormonal fluctuations and their associations with athletic performance and injury susceptibility in female athletes.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Zou Y",
+    "Gao Y",
+    "Yuan R",
+    "Yang Q",
+    "et al."
+   ],
+   "abstract": "The menstrual cycle (MC) is characterized by periodic fluctuations in estradiol and progesterone that may influence exercise metabolism, neuromuscular function, connective-tissue properties, menstrual symptom burden, recovery, and musculoskeletal injury susceptibility in female athletes. However, inconsistent findings and substantial inter- and intraindividual variability have prevented the development of universally applicable practical guidance. This narrative review aimed to synthesize current evidence on the associations of MC-related hormonal fluctuations with athletic performance and injury susceptibility; examine the underlying physiological, biomechanical, and psychological mechanisms; and evaluate the practical implications for training, nutrition, recovery, and injury prevention. The available evidence indicates that associations between the MC phase and objective performance outcomes are generally weak, variable, task-specific, and highly individual. Some studies have reported phase-related differences in selected measures of muscle strength, explosive performance, endurance strain, or training adaptation, whereas other studies have found no meaningful differences. Therefore, no MC phase can currently be considered universally advantageous or disadvantageous for athletic performance. Estradiol, progesterone, and relaxin provide biologically plausible pathways through which connective tissue metabolism, joint laxity, neural excitability, sensorimotor processing, and muscle-activation strategies might be modified. However, much of the supporting evidence is derived from experimental laboratory surrogate outcomes rather than prospectively recorded clinical injury data. Observational evidence linking distinct menstrual phases to anterior cruciate ligament tears, muscle strains, and other musculoskeletal injuries remains limited, heterogeneous, and unable to confirm direct causal links. Interpretation of the evidence is constrained by small sample sizes; inaccurate or inconsistent phase classification; limited hormonal verification; inadequate control of training load; energy availability, sleep, and hormonal contraceptive use; and substantial between- and within-individual variability. Current evidence does not support rigid or universally applied phase-based training rules, nor arbitrary risk/performance labeling of MC phases. MC status should be considered contextual information rather than an independent basis for training prescription. Training and injury-prevention decisions should be guided primarily by repeated individual monitoring of menstrual symptoms, perceived readiness, recovery, nutritional intake, objective performance, training load, environmental stressors, and previous injury. Established neuromuscular injury-prevention and workload-management strategies should be implemented throughout the cycle rather than restricted to presumed vulnerable phases.",
+   "doi": "10.3389/fspor.2026.1848550",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42751226/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
