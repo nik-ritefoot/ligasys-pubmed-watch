@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-09-19T16:46:19Z</updated>
+  <updated>2026-09-20T16:57:38Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Artificial intelligence and sports genomics: advancing precision sports science and athletic performance.</title>
+    <id>urn:pmid:42761794</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42761794/" rel="alternate"/>
+    <updated>2026-09-20T16:57:38Z</updated>
+    <published>2026-09-20T16:57:38Z</published>
+    <author><name>Patani A</name></author><author><name>Patel B</name></author><author><name>Pandit R</name></author><author><name>Bagatharia S</name></author><author><name>et al.</name></author>
+    <category term="wearable-prevention" label="Wearables &amp; sensors for injury prevention"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Patani A, Patel B, Pandit R, Bagatharia S, et al. · Front Sports Act Living · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The integration of artificial intelligence (AI) and genomics in sports science has immense potential in the field by enabling personalised, predictive, and data-driven approaches to enhance athletes&amp;#x27; performance and mitigate injury risk. Traditional training models based on generalised protocols may overlook individual variations in training adaptation, recovery, and injury susceptibility. Recent breakthroughs in genomics, wearable technologies, multi-omics profiling, and machine learning have produced new possibilities for precision sports medicine. This review explores the molecular and physiological foundations of athletic performance, highlighting the influence of key genetic polymorphisms, such as ACTN3, ACE, PPARGC1A, and collagen-related genes, on endurance, strength, metabolism, and injury vulnerability. The review additionally analyses the use of AI technologies, including machine learning, deep learning, predictive analytics, and systems biology approaches, in analysing complex physiological, biomechanical, and genomic datasets. The applications of AI-driven individualised training, nutrigenomics, biomarker-guided recovery, wearable sensor technologies, and injury prediction models are thoroughly reviewed. The integration of genomics with AI-driven predictive algorithms may support athlete classification, training optimisation, and assessment of fatigue and musculoskeletal injuries through polygenic risk score and multi-omics analysis. Concerns regarding ethics and legality related to genetic privacy, data security, discrimination, and the misuse of genome technology in sports are also highlighted. Although significant obstacles such as limited reproducibility, small sample numbers, population bias, and difficulties in data integration remain serious limitations, future developments in single-cell omics, digital twins, and real-time biosensing technologies may further contribute to precision sports science and personalised athlete management.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fspor.2026.1906206&quot;&gt;10.3389/fspor.2026.1906206&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42761794/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barré syndrome.</title>
     <id>urn:pmid:42756022</id>

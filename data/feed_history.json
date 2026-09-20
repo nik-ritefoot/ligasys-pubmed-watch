@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42761794",
+  "title": "Artificial intelligence and sports genomics: advancing precision sports science and athletic performance.",
+  "journal": "Front Sports Act Living",
+  "year": "2026",
+  "authors": [
+   "Patani A",
+   "Patel B",
+   "Pandit R",
+   "Bagatharia S",
+   "et al."
+  ],
+  "abstract": "The integration of artificial intelligence (AI) and genomics in sports science has immense potential in the field by enabling personalised, predictive, and data-driven approaches to enhance athletes' performance and mitigate injury risk. Traditional training models based on generalised protocols may overlook individual variations in training adaptation, recovery, and injury susceptibility. Recent breakthroughs in genomics, wearable technologies, multi-omics profiling, and machine learning have produced new possibilities for precision sports medicine. This review explores the molecular and physiological foundations of athletic performance, highlighting the influence of key genetic polymorphisms, such as ACTN3, ACE, PPARGC1A, and collagen-related genes, on endurance, strength, metabolism, and injury vulnerability. The review additionally analyses the use of AI technologies, including machine learning, deep learning, predictive analytics, and systems biology approaches, in analysing complex physiological, biomechanical, and genomic datasets. The applications of AI-driven individualised training, nutrigenomics, biomarker-guided recovery, wearable sensor technologies, and injury prediction models are thoroughly reviewed. The integration of genomics with AI-driven predictive algorithms may support athlete classification, training optimisation, and assessment of fatigue and musculoskeletal injuries through polygenic risk score and multi-omics analysis. Concerns regarding ethics and legality related to genetic privacy, data security, discrimination, and the misuse of genome technology in sports are also highlighted. Although significant obstacles such as limited reproducibility, small sample numbers, population bias, and difficulties in data integration remain serious limitations, future developments in single-cell omics, digital twins, and real-time biosensing technologies may further contribute to precision sports science and personalised athlete management.",
+  "doi": "10.3389/fspor.2026.1906206",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42761794/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-20T16:57:38Z"
+ },
+ {
+  "pmid": "42763403",
+  "title": "Optimized anterior anatomical fusion plate for ankle arthrodesis: biomechanical and clinical outcomes.",
+  "journal": "BMC Musculoskelet Disord",
+  "year": "2026",
+  "authors": [
+   "Liu Y",
+   "Ruan Y",
+   "Jiang Z",
+   "Hu S",
+   "et al."
+  ],
+  "abstract": "Ankle osteoarthritis (OA) is a common degenerative joint disorder that often necessitates ankle arthrodesis. Conventional fusion methods may offer limited fixation stability and require extensive soft-tissue exposure. The goal of this study was to evaluate the biomechanical properties of a geometrically optimized anterior anatomical fusion plate (AAFP) for ankle arthrodesis, which has been designed to enhance mechanical performance and minimize surgical trauma. This study developed a finite element model of the ankle based on CT scans of a healthy male volunteer. Various fusion models were created, incorporating the optimized AAFP with or without transarticular screw, anterolateral fusion plate (ALFP) with or without transarticular screw, and configurations using three or two screws. The biomechanical performance of these systems was assessed by analyzing peak displacement of the fusion surface and peak von Mises stress of implants and bone-implant models under seven common ankle postures. Additionally, the preliminary feasibility of the optimized AAFP was assessed by analyzing the American Orthopaedic Foot & Ankle Society (AOFAS) scores and X-ray images. The optimized AAFP with transarticular screw fixation exhibited great stability, with peak displacement of 0.14\u00a0mm in neutral position, 0.19\u00a0mm in dorsiflexion, 0.07\u00a0mm in plantar flexion, 0.09\u00a0mm in internal rotation, 0.07\u00a0mm in external rotation, 0.10\u00a0mm in inversion, and 0.12\u00a0mm in eversion. The peak stress of the fusion method was relatively low, with 132.91\u00a0MPa in neutral position, 145.83\u00a0MPa in dorsiflexion, 97.15\u00a0MPa in plantar flexion, 84.27\u00a0MPa in internal rotation, 74.70\u00a0MPa in external rotation, 98.07\u00a0MPa in inversion, and 88.00\u00a0MPa in eversion. The transarticular screw enhanced biomechanical stability of the optimized AAFP in ankle fusion by reducing stress and displacement. Clinically, the optimized AAFP showed satisfactory short-term outcomes, with improvements in the AOFAS scores (from 53 to 83, 57 to 82, 51 to 84 and 57 to 83) and imaging results. These findings suggest that the geometrically optimized AAFP combines a smaller incision with favorable biomechanical performance and warrants further clinical evaluation as a potential option for ankle fusion.",
+  "doi": "10.1186/s12891-026-10287-0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42763403/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-20T16:57:38Z"
+ },
+ {
   "pmid": "42759112",
   "title": "Immediate and fatigue-related effects of subtalar sling taping in individuals with chronic ankle instability.",
   "journal": "Phys Ther Sport",
