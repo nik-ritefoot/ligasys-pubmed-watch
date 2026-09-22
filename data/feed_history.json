@@ -1,5 +1,103 @@
 [
  {
+  "pmid": "42770721",
+  "title": "Differential effects of jump-induced fatigue on lower-extremity landing biomechanics in children and adults.",
+  "journal": "Acta Bioeng Biomech",
+  "year": "2026",
+  "authors": [
+   "Lin X",
+   "Xia Z",
+   "Qian Y",
+   "Wang S",
+   "et al."
+  ],
+  "abstract": "The purpose of this study was to investigate whether jump-induced fatigue differentially affects lower-extremity landing biomechanics in children and adults. Twelve children and twelve adults completed alternating sets of twenty countermovement jumps and twenty drop jumps from a 30-cm box for at least three cycles, with 5 sec of rest between cycles. Before and after fatigue, all participants performed three countermovement jumps, and lower-extremity joint angles, joint moments, and vertical ground reaction force during the landing phase were collected. Time series data and discrete variables were analyzed using mixed design analyses of variance to examine the main effects of group and fatigue, as well as their interaction. CMJ performance decreased after fatigue, as reflected by lower CMJ height, shorter flight time, and reduced take-off velocity. Interaction effects between fatigue and group were observed for the ankle sagittal plane angle, hip frontal plane angle, ankle sagittal plane moment, and subtalar frontal plane angle. After fatigue, children showed a more plantarflexed ankle posture, greater hip adduction, and lower ankle plantarflexion and subtalar inversion moments. Fatigue also reduced hip and knee flexion angles overall, whereas adults showed greater peak hip flexion, peak knee flexion, and ankle moment output after fatigue. Age-related differences were observed in landing responses to fatigue. Children displayed a more constrained landing adjustment under fatigued conditions, whereas adults retained greater hip and knee flexion and higher ankle plantarflexion moment output, suggesting a more flexion-preserving strategy.",
+  "doi": "10.37190/abb/224821",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42770721/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-22T17:44:57Z"
+ },
+ {
+  "pmid": "42770512",
+  "title": "Football Cleats and Injury Patterns in 14- to 19-Year-Old Female Football Players: The Effect of Surface, Gender-Specific Shoe Gear and Cleat Pattern.",
+  "journal": "Sports Health",
+  "year": "2026",
+  "authors": [
+   "Richards K",
+   "Saxena A",
+   "Gerdesmeyer L",
+   "Royds M",
+   "et al."
+  ],
+  "abstract": "Female football (soccer) players are at increased risk for lower extremity injuries, yet prevention strategies remain based mostly on male athlete data. Modifiable extrinsic factors including footwear design and playing surface have not been well defined in youth female athletes. The Protect our Players (POP) pilot survey examined links between lower extremity injuries, footwear, and playing surfaces among youth female football players to guide future large-scale research. Modifiable factors, including footwear design and playing surface, are associated with lower extremity injury exposure in youth female football players and may inform targeted injury prevention strategies. Retrospective cross-sectional survey. Level 4. The POP pilot study surveyed 99 United States female football players (age, 14 to 19 years; mean \u00b1 SD, 16.54 \u00b1 1.16 years) via an anonymous online platform. The study included both injured and noninjured participants and achieved a 100% completion rate. Of the 99 participants who completed the survey, 60% reported injuries, ankle sprains (36.7%) and anterior cruciate ligament (ACL) tears (20%). Players wearing men's cleats faced 2 times higher odds of injury than those wearing women's cleats. Participants wearing women's cleats reported improved comfort and fit. Similarly, firm ground surfaces were linked to nearly double the injury odds, regardless of cleat pattern. Overall, the use of women's footwear appeared to confer a protective benefit. Footwear was associated with injury occurrence in female athletes, suggesting that gender-specific gear may be a protective factor. These results warrant a larger-scale investigation to confirm these associations and inform evidence-based, female-player-specific equipment design. Modifiable factors, including footwear design and playing surface, may inform injury prevention strategies and female-player-specific equipment development in youth female football players.",
+  "doi": "10.1177/19417381261480053",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42770512/",
+  "matched": [
+   {
+    "id": "footwear-interface",
+    "label": "Footwear / shoe-surface interface & traction",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-22T17:44:57Z"
+ },
+ {
+  "pmid": "42768240",
+  "title": "Precision Prevention for Health: The Global Alliance Framework for the Promotion of Physical Activity.",
+  "journal": "Sports Med",
+  "year": "2026",
+  "authors": [
+   "Steinacker JM",
+   "van Mechelen W",
+   "Engebretsen L",
+   "Verhagen E",
+   "et al."
+  ],
+  "abstract": "This conceptual, implementation-oriented paper proposes a framework for precision prevention centred on physical activity promotion and early risk mitigation, aiming to support a shift from reactive disease management toward proactive prevention. The proposed framework focuses on the early identification of risk trajectories by integrating biological, environmental, and social determinants of health through systems thinking, multi-omics technologies, digital health, and behavioural science. It aims to inform tailored, context-sensitive interventions that will help to mitigate chronic non-communicable diseases (NCDs), while supporting lifelong resilience. Within this framework, physical activity is positioned as the central, modifiable anchor behaviour through which personalised prevention strategies may be operationalised. Building on the 2025 Hamburg Declaration and the Global Alliance for the Promotion of Physical Activity's (GA@PA) mission, this conceptual paper proposes a multidimensional model, combining personalised strategies for physical activity, nutrition, sleep, and mental health with contextual environmental adaptations. By bringing together stakeholders across multiple sectors, including healthcare, education, urban planning, sport organisations, industry, and community groups, GA@PA aims to strengthen global collaboration and to accelerate the implementation of evidence-based strategies for physical activity promotion. Emerging technologies, including digital twins, wearable biosensors and artificial intelligence (AI)-driven analytics, are discussed as potential enabling tools for real-time monitoring and for providing input for adaptive interventions, while mobile health platforms may extend access to underserved populations. Rather than providing prescriptive solutions, the paper outlines key implementation fundamentals. These include technological infrastructure with interoperable biosensors and AI aligned with prevailing ethical frameworks such as the AI Act and UNESCO recommendations; interdisciplinary research on resilience and outlier populations; policy and education reform, including routine assessment of physical activity as a vital sign within healthcare encounters; and cross-sector collaboration spanning urban design to sport-for-development initiatives such as the International Olympic Committee (IOC)'s Olympism365. Sports organisations may support broader participation through sport-for-all programmes. The framework emphasises equity, cultural adaptation, and community co-design as critical features for scalability across diverse global contexts, highlighting the role of sport, fitness, and public health partnerships in creating a context where healthy choices become accessible and sustainable. Overall, this conceptual paper outlines a practice-informed framework proposing precision prevention as an evolving and testable implementation framework for supporting sustainable and equitable prevention systems. By integrating science, technology and policy through a multisectoral lens, precision prevention is proposed as a testable pathway to reduce the NCD burden, to enhance the health span and to foster resilient societies.",
+  "doi": "10.1007/s40279-026-02495-4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42768240/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-22T17:44:57Z"
+ },
+ {
+  "pmid": "42770538",
+  "title": "Stroboscopic Versus Traditional Balance Training in Female Volleyball Players With Chronic Ankle Instability: A Randomized Controlled Trial.",
+  "journal": "Sports Health",
+  "year": "2026",
+  "authors": [
+   "Yazgan EA",
+   "\u00d6zdin\u00e7ler AR",
+   "K\u0131l\u0131\u00e7 BB"
+  ],
+  "abstract": "Chronic ankle instability (CAI) causes recurrent sprains, reduced proprioception, and impaired postural control, negatively affecting volleyball performance. Stroboscopic glasses-based balance training can enhance sensorimotor control by manipulating visual input. Stroboscopic balance training would produce greater improvements in balance, proprioception, jump performance, and functional outcomes than traditional balance training in female volleyball players with CAI. Randomized controlled trial. Level 2. A total of 24 female volleyball players with CAI were assigned randomly to a stroboscopic (Group A, n = 10) or a traditional (Group B, n = 14) balance training group. Both performed supervised balance exercises twice weekly for 8 weeks; Group A used Senaptec stroboscopic glasses. Static balance (Performanz Balance System), dynamic balance (Y-balance test [YBT]), jump performance (vertical and single-leg hop), proprioception (joint position sense), and functionality (Cumberland Ankle Instability Tool [CAIT], Foot and Ankle Ability Measure-Sports Subscale [FAAM-S]) were assessed pre- and post-trainingResults:Group A improved in dynamic balance for posterolateral reach (d = 0.67; P < 0.05) and composite score (d = 0.51; P < 0.05). Group B improved in anterior, posterolateral, and composite scores (d = 0.86-1.20; P < 0.05), with no between-group differences (P > 0.05). Revealed no significant between-group differences in any YBT parameters. Static balance increased only in Group A (d = 1.11; P < 0.05), with greater gains than Group B (d = 0.60; P < 0.05). Vertical jump improved in both groups (r = 0.71-0.88; P < 0.05), while single-leg hop increased only in Group A (d = 0.65; P < 0.05). Proprioception improved in both groups (d = 0.68-1.01; P < 0.05). CAIT rose only in Group A (d = 0.84; P < 0.05), showing greater gains than Group B (d = 0.58; P < 0.05). FAAM-S improved in both (r = 0.80-0.88; P < 0.05). While both programs improved neuromuscular performance, stroboscopic balance training provided additional benefits in static balance and perceived ankle stability. Incorporating stroboscopic visual perturbation into rehabilitation may optimize static balance and perceived ankle stability in female volleyball players with CAI.",
+  "doi": "10.1177/19417381261483200",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42770538/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-22T17:44:57Z"
+ },
+ {
   "pmid": "42761794",
   "title": "Artificial intelligence and sports genomics: advancing precision sports science and athletic performance.",
   "journal": "Front Sports Act Living",
