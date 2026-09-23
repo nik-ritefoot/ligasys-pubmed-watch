@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T17:44:56+00:00",
+ "generated": "2026-09-23T17:57:18+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,30 +65,30 @@
   }
  ],
  "counts": {
-  "total": 82,
-  "new": 4,
-  "research": 25,
-  "fieldnotes": 57
+  "total": 86,
+  "new": 6,
+  "research": 28,
+  "fieldnotes": 58
  },
  "records": [
   {
-   "pmid": "42770721",
-   "title": "Differential effects of jump-induced fatigue on lower-extremity landing biomechanics in children and adults.",
-   "journal": "Acta Bioeng Biomech",
+   "pmid": "42771890",
+   "title": "A Hierarchical Machine Learning-Based Framework for Clinical Decision Support in Foot Orthosis Prescription: Algorithm Development and Validation Study.",
+   "journal": "JMIR Med Inform",
    "year": "2026",
    "authors": [
-    "Lin X",
-    "Xia Z",
-    "Qian Y",
-    "Wang S",
-    "et al."
+    "Jung JY",
+    "Yang W",
+    "Kim JJ"
    ],
-   "abstract": "The purpose of this study was to investigate whether jump-induced fatigue differentially affects lower-extremity landing biomechanics in children and adults. Twelve children and twelve adults completed alternating sets of twenty countermovement jumps and twenty drop jumps from a 30-cm box for at least three cycles, with 5 sec of rest between cycles. Before and after fatigue, all participants performed three countermovement jumps, and lower-extremity joint angles, joint moments, and vertical ground reaction force during the landing phase were collected. Time series data and discrete variables were analyzed using mixed design analyses of variance to examine the main effects of group and fatigue, as well as their interaction. CMJ performance decreased after fatigue, as reflected by lower CMJ height, shorter flight time, and reduced take-off velocity. Interaction effects between fatigue and group were observed for the ankle sagittal plane angle, hip frontal plane angle, ankle sagittal plane moment, and subtalar frontal plane angle. After fatigue, children showed a more plantarflexed ankle posture, greater hip adduction, and lower ankle plantarflexion and subtalar inversion moments. Fatigue also reduced hip and knee flexion angles overall, whereas adults showed greater peak hip flexion, peak knee flexion, and ankle moment output after fatigue. Age-related differences were observed in landing responses to fatigue. Children displayed a more constrained landing adjustment under fatigued conditions, whereas adults retained greater hip and knee flexion and higher ankle plantarflexion moment output, suggesting a more flexion-preserving strategy.",
-   "doi": "10.37190/abb/224821",
+   "abstract": "Foot orthosis prescription is a complex clinical decision-making process that involves selecting and combining multiple structural, functional, and material components based on heterogeneous biomechanical information. In routine outpatient practice, detailed biomechanical assessments are often incomplete, creating substantial variability in prescription decisions, and limiting the applicability of conventional machine learning (ML) models that assume fixed feature availability. This study aimed to develop and evaluate a hierarchical ML-based clinical decision support framework for foot orthosis prescription that accommodates variable clinical information availability, supports multilabel prescription decisions, and incorporates safety-oriented recommendation strategies for routine outpatient practice. A retrospective observational study was conducted using 6462 visit-level clinical encounters collected from a single institution between 2015 and 2020. Orthotic prescription was formulated as a multilabel prediction task involving 15 prescription components. A hierarchical modeling framework was implemented, consisting of a basic decision level using routinely available demographic and alignment variables, and an advanced level incorporating subtalar joint inversion and eversion range of motion measurements when available. Tree-based gradient boosting models were evaluated using 5-fold stratified grouped cross-validation. Model performance was assessed using component-wise area under the receiver operating characteristic curve (AUROC), area under the precision-recall curve (AUPRC), positive predictive value (PPV), macro-averaged Hamming loss, Top-K hit, and coverage rates based on probabilities calibrated using internal grouped Platt scaling, and component-specific safety-oriented threshold calibration. The hierarchical models demonstrated consistent predictive performance across both decision levels, although precision-recall-based analyses indicated greater variability for low-prevalence prescription components. The Level 4 and Level 8 models achieved mean component-wise AUROC values of 0.792 and 0.816, respectively, with macro-averaged Hamming loss of 0.113 and 0.111. Using component-specific Platt scaling within the 5-fold stratified grouped cross-validation framework, Top-K analysis demonstrated a Top-1 hit rate of 86.7% and a Top-3 hit rate of 97.4%. When all prescribed components were considered, Top-K coverage reached 71.7% at Top-3 and increased to 97.0% at Top-8. Safety-oriented threshold calibration was performed separately for each prescription component, selecting the threshold that achieved the highest sensitivity while maintaining a specificity of at least 95%. Under this component-specific calibration strategy, the aggregated operating profile achieved a microaveraged specificity of 96.00% with a microaveraged sensitivity of 28.71%. Age-stratified analyses revealed distinct feature-importance patterns between pediatric and adult populations. The proposed hierarchical clinical decision support framework supported multicomponent foot orthosis prescription under variable information availability commonly encountered in outpatient practice. By generating ranked component-wise recommendations and high-confidence threshold-calibrated outputs, the framework may support clinician decision-making in routine orthotic practice. Further prospective validation will be required to determine its clinical utility.",
+   "doi": "10.2196/92831",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Observational Study",
+    "Validation Study"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42770721/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42771890/",
    "matched": [
     {
      "id": "inversion-kinematics",
@@ -100,23 +100,104 @@
    "bucket": "research"
   },
   {
-   "pmid": "42770512",
-   "title": "Football Cleats and Injury Patterns in 14- to 19-Year-Old Female Football Players: The Effect of Surface, Gender-Specific Shoe Gear and Cleat Pattern.",
-   "journal": "Sports Health",
+   "pmid": "42772184",
+   "title": "Cutaneous reflex modulation of the peroneus longus during rhythmic side-stepping in subjects with and without chronic ankle instability.",
+   "journal": "J Electromyogr Kinesiol",
    "year": "2026",
    "authors": [
-    "Richards K",
-    "Saxena A",
-    "Gerdesmeyer L",
-    "Royds M",
-    "et al."
+    "King TJ",
+    "Friedman AMH",
+    "Madsen LP"
    ],
-   "abstract": "Female football (soccer) players are at increased risk for lower extremity injuries, yet prevention strategies remain based mostly on male athlete data. Modifiable extrinsic factors including footwear design and playing surface have not been well defined in youth female athletes. The Protect our Players (POP) pilot survey examined links between lower extremity injuries, footwear, and playing surfaces among youth female football players to guide future large-scale research. Modifiable factors, including footwear design and playing surface, are associated with lower extremity injury exposure in youth female football players and may inform targeted injury prevention strategies. Retrospective cross-sectional survey. Level 4. The POP pilot study surveyed 99 United States female football players (age, 14 to 19 years; mean \u00b1 SD, 16.54 \u00b1 1.16 years) via an anonymous online platform. The study included both injured and noninjured participants and achieved a 100% completion rate. Of the 99 participants who completed the survey, 60% reported injuries, ankle sprains (36.7%) and anterior cruciate ligament (ACL) tears (20%). Players wearing men's cleats faced 2 times higher odds of injury than those wearing women's cleats. Participants wearing women's cleats reported improved comfort and fit. Similarly, firm ground surfaces were linked to nearly double the injury odds, regardless of cleat pattern. Overall, the use of women's footwear appeared to confer a protective benefit. Footwear was associated with injury occurrence in female athletes, suggesting that gender-specific gear may be a protective factor. These results warrant a larger-scale investigation to confirm these associations and inform evidence-based, female-player-specific equipment design. Modifiable factors, including footwear design and playing surface, may inform injury prevention strategies and female-player-specific equipment development in youth female football players.",
-   "doi": "10.1177/19417381261480053",
+   "abstract": "Previous studies have found that people with chronic ankle instability (CAI) experience altered cutaneous reflex patterns in lower leg muscles during gait. The purpose of this study was to investigate whether cutaneous reflex alterations persist as people with and without CAI ambulate using rhythmic side-stepping. Twenty-seven subjects (15 Control; 12 CAI) were separated into groups based on IDFAI scores (CAI\u00a0\u2265\u00a011; Control\u00a0=\u00a00). Peroneus Longus (PL) reflex amplitudes were measured via surface electromyography following non-noxious sural nerve stimulation at time-normalized swing intervals as subjects side-stepped on a treadmill at 4\u00a0km/h. The net middle-latency reflex amplitudes were extracted from the ipsilateral limb across three separate phases of swing. Two-way mixed factor ANOVAs found a statistically significant interaction between the group and phase on PL reflex amplitude (F(1.3,31.4)\u00a0=\u00a07.35, p\u00a0=\u00a0.007, \u03b72\u00a0=\u00a00.227). Although both groups had similar average PL reflex amplitudes across the three phases (Control M\u00a0=\u00a015.7\u00a0\u00b1\u00a04.1, CAI M\u00a0=\u00a021.5\u00a0\u00b1\u00a04.6, p\u00a0>\u00a0.05), the reflex modulation patterns of the PL varied between groups. These findings demonstrate evidence of abnormal neural control mechanisms in the swing phase of side-stepping as CAI subjects are preparing to transition back into stance.",
+   "doi": "10.1016/j.jelekin.2026.103206",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42770512/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42772184/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42771990",
+   "title": "Dynamic postural stability and ankle strength in female dancers with chronic ankle instability, healthy dancers, and healthy non-dancers.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Hong EJ",
+    "Song K",
+    "Kang J",
+    "Jeon HG",
+    "et al."
+   ],
+   "abstract": "This study aimed to determine ankle strength, dynamic postural stability, and their relationship in female dancers with chronic ankle instability (CAI) to provide insights into more effective rehabilitation strategies for this population. Cross-sectional design. Laboratory. Each group comprised 14 female participants: dancers with CAI, healthy dancers, and healthy non-dancers. Dynamic postural stability was assessed by calculating the Postural Stability Index from ground reaction forces recorded during a single-leg hop. Ankle inversion and eversion strength were measured as isometric peak torque and as concentric and eccentric peak torques at angular velocities of 30\u00b0/s and 120\u00b0/s (Nm/kg). Female dancers with CAI showed no significant differences in dynamic postural stability or ankle strength, and no correlation between them, compared with healthy dancers and healthy non-dancers. Healthy dancers exhibited a lower anteroposterior stability index (APSI) than healthy non-dancers (p\u202f=\u202f0.013). Additionally, among healthy dancers, concentric and eccentric ankle eversion strength measures were negatively correlated with APSI (p\u202f<\u202f0.05). These findings suggest that dynamic postural stability and ankle strength reflect distinct functional dimensions in female dancers with CAI, and that both should therefore be assessed and addressed with individualized interventions during rehabilitation.",
+   "doi": "10.1016/j.ptsp.2026.101993",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42771990/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42773482",
+   "title": "How are biomechanical and psychosocial factors associated with injuries across one season in Swedish elite and sub-elite female soccer players?",
+   "journal": "BMC Sports Sci Med Rehabil",
+   "year": "2026",
+   "authors": [
+    "Ressman J",
+    "von Rosen P",
+    "Rasmussen-Barr E",
+    "Grooten WJA"
+   ],
+   "abstract": "Soccer is a high-intensity contact sport, and the patterns and burden of injuries can vary based on age, sex, and player level. To better understand injury occurrence, it is important to identify biopsychosocial factors that are associated with injuries. Our study aimed to investigate whether various biomechanical and psychosocial factors associate with time-loss injuries and reported injury problems in the dominant and non-dominant leg across one season in elite and sub-elite female soccer players. This prospective study followed 244 elite and sub-elite female soccer players (22 years, SD\u2009\u00b1\u20094) from divisions 1-3 over one season. Data on investigated factors were collected at baseline, while injury data were collected every four weeks. Negative binomial regression analyses were used to examine associations between the investigated factors and injury outcomes. For time-loss injuries involving the dominant leg, higher levels of hip strength were associated with a lower injury incidence in players aged 16-19 years (IRR\u2009=\u20090.95, 95% CI 0.92-0.98), while this association was not observed in the older age groups. Higher levels of fear avoidance were associated with a higher injury incidence (IRR\u2009=\u20091.08, 95% CI 1.03-1.14). For the non-dominant leg, playing in division 2 was associated with a higher injury incidence (IRR\u2009=\u20092.75, 95% CI 1.23-6.16) compared with division 1. Greater ankle dorsiflexion was associated with a lower injury incidence (IRR\u2009=\u20090.91, 95% CI 0.84-0.99), and higher levels of hip strength were associated with a lower injury incidence (IRR\u2009=\u20090.98, 95% CI 0.96-0.99). Regarding injury problems, higher levels of fear avoidance were associated with a higher rate of reported injury problem observations for both the dominant (IRR\u2009=\u20091.04, 95% CI 1.02-1.07) and non-dominant leg (IRR\u2009=\u20091.04, 95% CI 1.02-1.06). Biomechanical factors, including hip strength, and psychosocial factors such as fear-avoidance behaviour were associated with time-loss injuries and reported injury problems in female elite and sub-elite soccer players. The separate leg-specific analyses showed different patterns of associations in the dominant and non-dominant leg. Given the relatively small effect sizes, the findings should be considered hypothesis-generating and their clinical relevance requires further investigation. Retrospectively registered in Clinical Trials Gov, date of registration 13/03/2022. Clinical trials identifier NCT05289284.",
+   "doi": "10.1186/s13102-026-02084-y",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42773482/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42771787",
+   "title": "Participant-Reported Reductions in Falls and Fall-Related Injuries Associated With Variable-Friction Footwear: Retrospective Pre-Post Survey Study.",
+   "journal": "JMIR Rehabil Assist Technol",
+   "year": "2026",
+   "authors": [
+    "Nataletti S",
+    "Bartloff J",
+    "Prokup S",
+    "Harris J",
+    "et al."
+   ],
+   "abstract": "Falls represent a critical public health burden in older adults and individuals with neurological disabilities, but evidence for passive footwear-based fall prevention strategies remains limited. This study aimed to evaluate changes in fall frequency and fall-related outcomes following adoption of variable-friction (VF) footwear. This retrospective pre-post observational study used self-reported survey data collected from community-dwelling adults aged 18 years or older who had worn VF footwear for 3 months or longer. Participants were recruited from a convenience sample of 14,570 invited customers who purchased the device through an electronic survey platform. Outcomes included self-reported fall frequency, injurious falls, fall mechanisms, fall-related health care use (including medical visits, urgent care, and hospitalization), and assistive device use, assessed before and during VF footwear use. A total of 706 participants completed the survey, yielding 705 participants with usable data for analysis (4.8% response rate). Mean monthly participant-reported falls decreased from 2.4 (SD 4.3) before VF use to 0.3 (SD 1.9) during VF use (87.1% reduction; Wilcoxon signed-rank test, P<.001). The proportion reporting zero falls increased from 22.7% to 84.4%. Among participants with at least 1 fall before VF use (n=545), 95.4% (n=520) reported a reduction, including 80.7% (n=440) reporting zero falls during VF use. Injurious falls decreased by 93.2% (P<.001). Participants requiring medical attention decreased from 192 (27.2%) to 12 (1.7%; 93.8% reduction; P<.001), and hospital or urgent care visits decreased from 131 (18.6%) to 10 (1.4%; 92.4% reduction; P<.001). Trip-related falls decreased from 52.3% to 31.5% of reported mechanisms among participants who reported a fall mechanism in both periods (P<.001). Assistive device use decreased from 70.8% to 16.6% (P<.001). Mean annualized insurance-related fall costs decreased from US $5946.2 to US $45.7 per person-year (99.2% reduction) across the full cohort. VF footwear use was associated with substantial reductions in self-reported falls, injurious falls, and fall-related health care use. Reductions in trip-related falls are consistent with the proposed biomechanical mechanism of the device. Given the low survey response rate and potential for self-selection bias, these findings should be considered preliminary. Prospective controlled studies are needed to confirm these findings.",
+   "doi": "10.2196/104177",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42771787/",
    "matched": [
     {
      "id": "footwear-interface",
@@ -128,23 +209,23 @@
    "bucket": "research"
   },
   {
-   "pmid": "42768240",
-   "title": "Precision Prevention for Health: The Global Alliance Framework for the Promotion of Physical Activity.",
-   "journal": "Sports Med",
+   "pmid": "42775945",
+   "title": "Smartphone-Based Measurement of Cognition and Physical Function in Older Emergency Department Patients: A Feasibility Study.",
+   "journal": "Acad Emerg Med",
    "year": "2026",
    "authors": [
-    "Steinacker JM",
-    "van Mechelen W",
-    "Engebretsen L",
-    "Verhagen E",
+    "Hartman CA",
+    "Leroux A",
+    "Merchant RC",
+    "Roberts S",
     "et al."
    ],
-   "abstract": "This conceptual, implementation-oriented paper proposes a framework for precision prevention centred on physical activity promotion and early risk mitigation, aiming to support a shift from reactive disease management toward proactive prevention. The proposed framework focuses on the early identification of risk trajectories by integrating biological, environmental, and social determinants of health through systems thinking, multi-omics technologies, digital health, and behavioural science. It aims to inform tailored, context-sensitive interventions that will help to mitigate chronic non-communicable diseases (NCDs), while supporting lifelong resilience. Within this framework, physical activity is positioned as the central, modifiable anchor behaviour through which personalised prevention strategies may be operationalised. Building on the 2025 Hamburg Declaration and the Global Alliance for the Promotion of Physical Activity's (GA@PA) mission, this conceptual paper proposes a multidimensional model, combining personalised strategies for physical activity, nutrition, sleep, and mental health with contextual environmental adaptations. By bringing together stakeholders across multiple sectors, including healthcare, education, urban planning, sport organisations, industry, and community groups, GA@PA aims to strengthen global collaboration and to accelerate the implementation of evidence-based strategies for physical activity promotion. Emerging technologies, including digital twins, wearable biosensors and artificial intelligence (AI)-driven analytics, are discussed as potential enabling tools for real-time monitoring and for providing input for adaptive interventions, while mobile health platforms may extend access to underserved populations. Rather than providing prescriptive solutions, the paper outlines key implementation fundamentals. These include technological infrastructure with interoperable biosensors and AI aligned with prevailing ethical frameworks such as the AI Act and UNESCO recommendations; interdisciplinary research on resilience and outlier populations; policy and education reform, including routine assessment of physical activity as a vital sign within healthcare encounters; and cross-sector collaboration spanning urban design to sport-for-development initiatives such as the International Olympic Committee (IOC)'s Olympism365. Sports organisations may support broader participation through sport-for-all programmes. The framework emphasises equity, cultural adaptation, and community co-design as critical features for scalability across diverse global contexts, highlighting the role of sport, fitness, and public health partnerships in creating a context where healthy choices become accessible and sustainable. Overall, this conceptual paper outlines a practice-informed framework proposing precision prevention as an evolving and testable implementation framework for supporting sustainable and equitable prevention systems. By integrating science, technology and policy through a multisectoral lens, precision prevention is proposed as a testable pathway to reduce the NCD burden, to enhance the health span and to foster resilient societies.",
-   "doi": "10.1007/s40279-026-02495-4",
+   "abstract": "Falls are a leading cause of emergency department (ED) visits among older adults and represent a critical opportunity to identify cognitive and functional impairments that influence treatment and recovery. While smartphone- and wearable-based assessments are increasingly used to assess cognitive and physical function in older adults, their feasibility in the ED setting, particularly after a fall, remains unclear. From August 2021 to January 2024, community-dwelling older ED patients (\u2265\u200965\u2009years) were screened for cognitive impairment (six-item screener) and functional limitations (modified Barthel Index, mobility equipment). Apple ResearchKit digital assessments measured cognition (Stroop, Trail Making, reaction time) and physical function (gait/balance, timed walk). Wearable devices monitored movement. Feasibility was examined via attempt and completion rates. Reasons for non-attempt/non-completion and associations with patient characteristics were explored. Among 196 patients (mean age 78.2\u2009\u00b1\u20097.6\u2009years, 68% women), 77% attempted at least one digital assessment. Cognitive tests had moderate-to-high completion rates (68%-87%) among those who attempted, and completion was associated with lack of cognitive impairment (p =\u20090.002, 0.002, 0.01, for Stroop, Trail Making, and reaction time tests, respectively). Non-completion was due most often to lack of glasses, not feeling well, or technology issues. Physical function tests had much lower completion rates (18%-20%), and completion was associated with functional status (Barthel Index; p =\u20090.02, 0.01 for gait and balance and timed walk tests) and mobility equipment use (p =\u20090.02, 0.03). Low completion rates were mainly due to safety concerns, pain, and injury. Digital assessment of cognitive function is feasible in most older adults presenting to the ED for falls, but physical function tests had low feasibility in this population. Future research will explore whether such data predict clinically relevant outcomes (e.g., time to injury recovery, ED revisits) and can inform personalized intervention (e.g., physical therapy referrals, skilled nursing facility placement). Clinical Trial Number: NCT04304495.",
+   "doi": "10.1111/acem.70408",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42768240/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42775945/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -154,32 +235,6 @@
    ],
    "is_new": true,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42770538",
-   "title": "Stroboscopic Versus Traditional Balance Training in Female Volleyball Players With Chronic Ankle Instability: A Randomized Controlled Trial.",
-   "journal": "Sports Health",
-   "year": "2026",
-   "authors": [
-    "Yazgan EA",
-    "\u00d6zdin\u00e7ler AR",
-    "K\u0131l\u0131\u00e7 BB"
-   ],
-   "abstract": "Chronic ankle instability (CAI) causes recurrent sprains, reduced proprioception, and impaired postural control, negatively affecting volleyball performance. Stroboscopic glasses-based balance training can enhance sensorimotor control by manipulating visual input. Stroboscopic balance training would produce greater improvements in balance, proprioception, jump performance, and functional outcomes than traditional balance training in female volleyball players with CAI. Randomized controlled trial. Level 2. A total of 24 female volleyball players with CAI were assigned randomly to a stroboscopic (Group A, n = 10) or a traditional (Group B, n = 14) balance training group. Both performed supervised balance exercises twice weekly for 8 weeks; Group A used Senaptec stroboscopic glasses. Static balance (Performanz Balance System), dynamic balance (Y-balance test [YBT]), jump performance (vertical and single-leg hop), proprioception (joint position sense), and functionality (Cumberland Ankle Instability Tool [CAIT], Foot and Ankle Ability Measure-Sports Subscale [FAAM-S]) were assessed pre- and post-trainingResults:Group A improved in dynamic balance for posterolateral reach (d = 0.67; P < 0.05) and composite score (d = 0.51; P < 0.05). Group B improved in anterior, posterolateral, and composite scores (d = 0.86-1.20; P < 0.05), with no between-group differences (P > 0.05). Revealed no significant between-group differences in any YBT parameters. Static balance increased only in Group A (d = 1.11; P < 0.05), with greater gains than Group B (d = 0.60; P < 0.05). Vertical jump improved in both groups (r = 0.71-0.88; P < 0.05), while single-leg hop increased only in Group A (d = 0.65; P < 0.05). Proprioception improved in both groups (d = 0.68-1.01; P < 0.05). CAIT rose only in Group A (d = 0.84; P < 0.05), showing greater gains than Group B (d = 0.58; P < 0.05). FAAM-S improved in both (r = 0.80-0.88; P < 0.05). While both programs improved neuromuscular performance, stroboscopic balance training provided additional benefits in static balance and perceived ankle stability. Incorporating stroboscopic visual perturbation into rehabilitation may optimize static balance and perceived ankle stability in female volleyball players with CAI.",
-   "doi": "10.1177/19417381261483200",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42770538/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
   },
   {
    "pmid": "42675844",
@@ -746,34 +801,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42633070",
-   "title": "Comparison of Basketball-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Tyler JR",
-    "Gamadia M",
-    "Parnes N",
-    "Czajkowski H",
-    "et al."
-   ],
-   "abstract": "Basketball is widely played in the United States, yet contemporary comparisons of basketball-related injuries between high school- and college-aged athletes using nationally representative emergency department (ED) data remain limited. To compare basketball-related injury epidemiology between high school- and college-aged athletes and characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System (NEISS) was queried for basketball-related injuries in athletes aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using NEISS sampling weights. US Census Bureau annual population estimates were summed across ages 14 to 18 years and 19 to 23 years to determine the population at risk for each group and calculate incidence rates (IRs) per 100,000 person-years. IR ratios (IRRs) with 95% CIs were used to compare age groups by overall incidence, injury pattern, and ED disposition. A total of 61,279 basketball-related injuries among athletes aged 14 to 23 years were documented in the NEISS database, corresponding to an estimated 2,023,859 injuries treated in US EDs between 2015 and 2024. High school-aged athletes had a higher overall injury incidence than college-aged athletes (686.67 vs 252.63 per 100,000 person-years; IRR, 2.72; 95% CI, 2.67-2.77). Both groups showed a sharp decline in injury incidence in 2020, corresponding with the onset of the COVID-19 pandemic. The ankle (26.8%), knee (11.8%), finger (10.3%), and head (8.6%) were the most frequently injured body regions. High school-aged athletes had significantly higher rates of injuries to the head (IRR, 4.88; 95% CI, 4.52-5.27), lower arm (IRR, 5.02; 95% CI, 4.18-6.04), wrist (IRR, 4.12; 95% CI, 3.71-4.58), elbow (IRR, 4.12; 95% CI, 3.54-4.80), and finger (IRR, 3.64; 95% CI, 3.42-3.87), as well as higher rates of concussion (IRR, 6.64; 95% CI, 5.81-7.58), fractures (IRR, 3.43; 95% CI, 3.25-3.61), and strains and sprains (IRR, 2.73; 95% CI, 2.65-2.81). Treated-and-discharged injuries accounted for 97.6% of ED visits among high school-aged athletes and 96.8% among college-aged athletes; however, high school-aged athletes had higher rates of transfer or admission (IRR, 7.61; 95% CI, 5.26-10.99) and observation (IRR, 5.49; 95% CI, 3.06-9.84). Our study showed that from 2015 to 2024, high school-aged athletes had substantially higher IRs than college-aged athletes for basketball-related ED injuries across most body regions, diagnoses, and ED dispositions. These findings support targeted injury prevention strategies at the high school level and highlight the burden basketball injuries place on US EDs.",
-   "doi": "10.1177/23259671261476937",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42633070/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42730692",
    "title": "Comprehensive Clinical Evaluation of the Combined Effects of Physical Therapy and Exercise Therapy in the Rehabilitation of Sports Injuries.",
    "journal": "J Vis Exp",
@@ -856,26 +883,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42633742",
-   "title": "Decreasing postural stability after trunk perturbation is related to altered muscle activity in patients with chronic ankle instability.",
-   "journal": "J Biomech",
+   "pmid": "42770721",
+   "title": "Differential effects of jump-induced fatigue on lower-extremity landing biomechanics in children and adults.",
+   "journal": "Acta Bioeng Biomech",
    "year": "2026",
    "authors": [
-    "Mineta S",
-    "Mitsui M",
-    "Sudo T",
-    "Ebato T"
+    "Lin X",
+    "Xia Z",
+    "Qian Y",
+    "Wang S",
+    "et al."
    ],
-   "abstract": "Approximately 47% of lateral ankle sprains (LASs) occur via indirect contact; therefore, clarifying postural control after external contact to the trunk may provide valuable insights into LAS prevention. In the present study, kinematics, kinetics, and muscle activity were measured during a stepping task following trunk perturbation. Kinematics and muscle activity were analyzed before and after both perturbation and initial contact (IC), whereas kinetics were analyzed only before and after IC. The anterior-posterior stability index, medial-lateral stability index (MLSI), and maximum lateral center of pressure (COP) displacement were calculated as stability outcomes. Co-contraction indices (CCIs) were calculated to assess muscle coactivation. Group differences were analyzed using independent t-tests, Mann-Whitney U tests, or statistical parametric mapping for time-series data. Relationships between stability outcomes and muscle activity were examined using multiple regression analysis. The CAI group exhibited significantly higher MLSI and COP lateral displacement, and significantly lower tibialis anterior (TA)/TA\u00a0+\u00a0gastrocnemius medialis (GasM) and TA/TA\u00a0+\u00a0gastrocnemius lateralis (GasL) co-contraction indices. The analyses revealed several significant group differences and associations. GasM root mean square (RMS) before IC was also significantly higher. Increased MLSI was associated with delayed peroneus longus (PL) onset; COP displacement was related to PL/PL\u00a0+\u00a0TA CCI, PL RMS before IC, and delayed GasL onset. These findings indicate that individuals with CAI exhibit impaired postural stability during post-perturbation stepping responses following external contact to the trunk, accompanied by altered ankle muscle activation. Perturbation-based training targeting foot stability and coordinated ankle muscle activation may be important for LAS prevention and rehabilitation.",
-   "doi": "10.1016/j.jbiomech.2026.113524",
+   "abstract": "The purpose of this study was to investigate whether jump-induced fatigue differentially affects lower-extremity landing biomechanics in children and adults. Twelve children and twelve adults completed alternating sets of twenty countermovement jumps and twenty drop jumps from a 30-cm box for at least three cycles, with 5 sec of rest between cycles. Before and after fatigue, all participants performed three countermovement jumps, and lower-extremity joint angles, joint moments, and vertical ground reaction force during the landing phase were collected. Time series data and discrete variables were analyzed using mixed design analyses of variance to examine the main effects of group and fatigue, as well as their interaction. CMJ performance decreased after fatigue, as reflected by lower CMJ height, shorter flight time, and reduced take-off velocity. Interaction effects between fatigue and group were observed for the ankle sagittal plane angle, hip frontal plane angle, ankle sagittal plane moment, and subtalar frontal plane angle. After fatigue, children showed a more plantarflexed ankle posture, greater hip adduction, and lower ankle plantarflexion and subtalar inversion moments. Fatigue also reduced hip and knee flexion angles overall, whereas adults showed greater peak hip flexion, peak knee flexion, and ankle moment output after fatigue. Age-related differences were observed in landing responses to fatigue. Children displayed a more constrained landing adjustment under fatigued conditions, whereas adults retained greater hip and knee flexion and higher ankle plantarflexion moment output, suggesting a more flexion-preserving strategy.",
+   "doi": "10.37190/abb/224821",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42633742/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42770721/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -1233,6 +1261,34 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42770512",
+   "title": "Football Cleats and Injury Patterns in 14- to 19-Year-Old Female Football Players: The Effect of Surface, Gender-Specific Shoe Gear and Cleat Pattern.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "Richards K",
+    "Saxena A",
+    "Gerdesmeyer L",
+    "Royds M",
+    "et al."
+   ],
+   "abstract": "Female football (soccer) players are at increased risk for lower extremity injuries, yet prevention strategies remain based mostly on male athlete data. Modifiable extrinsic factors including footwear design and playing surface have not been well defined in youth female athletes. The Protect our Players (POP) pilot survey examined links between lower extremity injuries, footwear, and playing surfaces among youth female football players to guide future large-scale research. Modifiable factors, including footwear design and playing surface, are associated with lower extremity injury exposure in youth female football players and may inform targeted injury prevention strategies. Retrospective cross-sectional survey. Level 4. The POP pilot study surveyed 99 United States female football players (age, 14 to 19 years; mean \u00b1 SD, 16.54 \u00b1 1.16 years) via an anonymous online platform. The study included both injured and noninjured participants and achieved a 100% completion rate. Of the 99 participants who completed the survey, 60% reported injuries, ankle sprains (36.7%) and anterior cruciate ligament (ACL) tears (20%). Players wearing men's cleats faced 2 times higher odds of injury than those wearing women's cleats. Participants wearing women's cleats reported improved comfort and fit. Similarly, firm ground surfaces were linked to nearly double the injury odds, regardless of cleat pattern. Overall, the use of women's footwear appeared to confer a protective benefit. Footwear was associated with injury occurrence in female athletes, suggesting that gender-specific gear may be a protective factor. These results warrant a larger-scale investigation to confirm these associations and inform evidence-based, female-player-specific equipment design. Modifiable factors, including footwear design and playing surface, may inform injury prevention strategies and female-player-specific equipment development in youth female football players.",
+   "doi": "10.1177/19417381261480053",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42770512/",
+   "matched": [
+    {
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
      "bucket": "research"
     }
    ],
@@ -1725,6 +1781,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42768240",
+   "title": "Precision Prevention for Health: The Global Alliance Framework for the Promotion of Physical Activity.",
+   "journal": "Sports Med",
+   "year": "2026",
+   "authors": [
+    "Steinacker JM",
+    "van Mechelen W",
+    "Engebretsen L",
+    "Verhagen E",
+    "et al."
+   ],
+   "abstract": "This conceptual, implementation-oriented paper proposes a framework for precision prevention centred on physical activity promotion and early risk mitigation, aiming to support a shift from reactive disease management toward proactive prevention. The proposed framework focuses on the early identification of risk trajectories by integrating biological, environmental, and social determinants of health through systems thinking, multi-omics technologies, digital health, and behavioural science. It aims to inform tailored, context-sensitive interventions that will help to mitigate chronic non-communicable diseases (NCDs), while supporting lifelong resilience. Within this framework, physical activity is positioned as the central, modifiable anchor behaviour through which personalised prevention strategies may be operationalised. Building on the 2025 Hamburg Declaration and the Global Alliance for the Promotion of Physical Activity's (GA@PA) mission, this conceptual paper proposes a multidimensional model, combining personalised strategies for physical activity, nutrition, sleep, and mental health with contextual environmental adaptations. By bringing together stakeholders across multiple sectors, including healthcare, education, urban planning, sport organisations, industry, and community groups, GA@PA aims to strengthen global collaboration and to accelerate the implementation of evidence-based strategies for physical activity promotion. Emerging technologies, including digital twins, wearable biosensors and artificial intelligence (AI)-driven analytics, are discussed as potential enabling tools for real-time monitoring and for providing input for adaptive interventions, while mobile health platforms may extend access to underserved populations. Rather than providing prescriptive solutions, the paper outlines key implementation fundamentals. These include technological infrastructure with interoperable biosensors and AI aligned with prevailing ethical frameworks such as the AI Act and UNESCO recommendations; interdisciplinary research on resilience and outlier populations; policy and education reform, including routine assessment of physical activity as a vital sign within healthcare encounters; and cross-sector collaboration spanning urban design to sport-for-development initiatives such as the International Olympic Committee (IOC)'s Olympism365. Sports organisations may support broader participation through sport-for-all programmes. The framework emphasises equity, cultural adaptation, and community co-design as critical features for scalability across diverse global contexts, highlighting the role of sport, fitness, and public health partnerships in creating a context where healthy choices become accessible and sustainable. Overall, this conceptual paper outlines a practice-informed framework proposing precision prevention as an evolving and testable implementation framework for supporting sustainable and equitable prevention systems. By integrating science, technology and policy through a multisectoral lens, precision prevention is proposed as a testable pathway to reduce the NCD burden, to enhance the health span and to foster resilient societies.",
+   "doi": "10.1007/s40279-026-02495-4",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42768240/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42703007",
    "title": "Prevalence of Achilles Tendinopathy in Bharatanatyam Dancers.",
    "journal": "J Dance Med Sci",
@@ -2002,6 +2086,32 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42770538",
+   "title": "Stroboscopic Versus Traditional Balance Training in Female Volleyball Players With Chronic Ankle Instability: A Randomized Controlled Trial.",
+   "journal": "Sports Health",
+   "year": "2026",
+   "authors": [
+    "Yazgan EA",
+    "\u00d6zdin\u00e7ler AR",
+    "K\u0131l\u0131\u00e7 BB"
+   ],
+   "abstract": "Chronic ankle instability (CAI) causes recurrent sprains, reduced proprioception, and impaired postural control, negatively affecting volleyball performance. Stroboscopic glasses-based balance training can enhance sensorimotor control by manipulating visual input. Stroboscopic balance training would produce greater improvements in balance, proprioception, jump performance, and functional outcomes than traditional balance training in female volleyball players with CAI. Randomized controlled trial. Level 2. A total of 24 female volleyball players with CAI were assigned randomly to a stroboscopic (Group A, n = 10) or a traditional (Group B, n = 14) balance training group. Both performed supervised balance exercises twice weekly for 8 weeks; Group A used Senaptec stroboscopic glasses. Static balance (Performanz Balance System), dynamic balance (Y-balance test [YBT]), jump performance (vertical and single-leg hop), proprioception (joint position sense), and functionality (Cumberland Ankle Instability Tool [CAIT], Foot and Ankle Ability Measure-Sports Subscale [FAAM-S]) were assessed pre- and post-trainingResults:Group A improved in dynamic balance for posterolateral reach (d = 0.67; P < 0.05) and composite score (d = 0.51; P < 0.05). Group B improved in anterior, posterolateral, and composite scores (d = 0.86-1.20; P < 0.05), with no between-group differences (P > 0.05). Revealed no significant between-group differences in any YBT parameters. Static balance increased only in Group A (d = 1.11; P < 0.05), with greater gains than Group B (d = 0.60; P < 0.05). Vertical jump improved in both groups (r = 0.71-0.88; P < 0.05), while single-leg hop increased only in Group A (d = 0.65; P < 0.05). Proprioception improved in both groups (d = 0.68-1.01; P < 0.05). CAIT rose only in Group A (d = 0.84; P < 0.05), showing greater gains than Group B (d = 0.58; P < 0.05). FAAM-S improved in both (r = 0.80-0.88; P < 0.05). While both programs improved neuromuscular performance, stroboscopic balance training provided additional benefits in static balance and perceived ankle stability. Incorporating stroboscopic visual perturbation into rehabilitation may optimize static balance and perceived ankle stability in female volleyball players with CAI.",
+   "doi": "10.1177/19417381261483200",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42770538/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42705008",
