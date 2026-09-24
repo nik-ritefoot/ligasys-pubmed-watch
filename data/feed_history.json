@@ -1,5 +1,28 @@
 [
  {
+  "pmid": "42776815",
+  "title": "Autologous Bone Grafting for the Treatment of Osteochondral Lesion of the Talus: A Systematic Review and Meta-Analysis.",
+  "journal": "J Am Podiatr Med Assoc",
+  "year": "2026",
+  "authors": [
+   "Law KHK",
+   "Koh JH",
+   "Seow D"
+  ],
+  "abstract": "Treatment of osteochondral lesions of the talus (OLTs) with bone grafting is an alternative option to osteochondral transplantation for larger OLTs. The purpose of this study is to evaluate treatment of OLTs with bone grafting with continuous functional outcome scores, return-to-play data, and meta-analyses of overall complication rates after bone graft treatment for OLT lesions as reported and best- and worst-case scenarios. A systematic review was conducted based on PRISMA guidelines using specific search terms on the PubMed, Embase and Cochrane Library databases. Level and quality of evidence were evaluated by The Journal of Bone & Joint Surgery and the Modified Coleman Methodology Score, respectively. Meta-analysis by fixed-effects models was performed if heterogeneity was low (I2 < 25%) and by random-effects models if heterogeneity was moderate to high (I2 > 25%). Eleven studies were included in this systematic review. The Mean American Orthopaedic Foot and Ankle Society score was 56.0 \u00b1 10.1 (range 40.3-67.3) preoperatively to 88.7 \u00b1 5.7 (range 80.8-95.0) points postoperatively. The mean 10 mm-VAS pain score was 6.5 \u00b1 0.89 (range 5.6-7.7) preoperatively to 1.7 \u00b1 1.1 (range 0.4-3.7) postoperatively. The overall pooled complication rate was 3.82% (95% CI: 0.05-10.92). Limited debilitating complications were noted in these studies, with one case of deep vein thrombosis noted. Autologous bone grafting offered satisfactory outcomes for pain relief, with notable improvement of functional outcomes scores. This review proposed that autologous bone grafting should be considered as the first line of treatment for lesion sizes >150 mm2. Studies with longer follow-ups are desirable to determine the longevity of bone grafting and evaluate the durability of bone grafting for larger OLT lesions.",
+  "doi": "10.3390/japma116050058",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42776815/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-24T17:57:13Z"
+ },
+ {
   "pmid": "42771890",
   "title": "A Hierarchical Machine Learning-Based Framework for Clinical Decision Support in Foot Orthosis Prescription: Algorithm Development and Validation Study.",
   "journal": "JMIR Med Inform",
