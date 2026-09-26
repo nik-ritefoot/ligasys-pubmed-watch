@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T18:03:21+00:00",
+ "generated": "2026-09-26T17:22:34+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,30 +65,30 @@
   }
  ],
  "counts": {
-  "total": 93,
-  "new": 10,
-  "research": 28,
-  "fieldnotes": 65
+  "total": 94,
+  "new": 6,
+  "research": 27,
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42787447",
-   "title": "Baseline PTSD and depressive symptoms predict multidimensional recovery after combat-related transtibial amputation: a prospective cohort study.",
-   "journal": "Front Rehabil Sci",
+   "pmid": "42789776",
+   "title": "Balance Wood, a Bilateral Ankle-Controlled Serious Game for Healthy Adults: 2-Stage Cross-Sectional Development and Usability Study.",
+   "journal": "JMIR Serious Games",
    "year": "2026",
    "authors": [
-    "Halabitska I",
-    "Kamyshna I",
-    "Buchynskyi M",
-    "Petakh P",
+    "Zhang Y",
+    "Yamamoto J",
+    "Han T",
+    "Song Q",
     "et al."
    ],
-   "abstract": "Posttraumatic stress disorder (PTSD) is common among combat-injured service members. To date, there is insufficient evidence to determine whether the initial severity of psychiatric disorders is associated with the dynamics of motor recovery after lower limb amputation. The aim of the study was to assess whether the severity of PTSD and depressive symptoms at the time of hospitalization affect the outcomes of intensive robotic neurorehabilitation after combat-related unilateral transtibial amputation. A prospective cohort study included 45 male service members with unilateral transtibial amputations who underwent a standardized robotic neurorehabilitation program for the lower limbs. The examinations were performed at four time points: on days 0, 14, 30, and 120. 46 indicators were evaluated, including stabilometric posturography (Stabiloplatforma Alfa), instrumental gait analysis (OMEGO, STRIDE ONE, BALO), clinical functional tests (BBS, TUG, FRT, AMPPRO, FSST, 10MWT, 2MWT, 6MWT, ABC), pain intensity (VAS), as well as psychiatric scales PCL-5 and PHQ-9. Statistical analyses included longitudinal mixed-effects modeling, multivariable regression, and exploratory machine-learning approaches. The study found that the level of PTSD and depression at the beginning of rehabilitation was associated with functional recovery after combat transtibial amputation. 37.8% of participants recorded a clinically significant improvement according to the combined criterion. Psychiatric scales (PCL-5 and PHQ-9) showed moderate predictive ability for rehabilitation response (AUC\u2009=\u20090.80). The PCL-5, PHQ-9, VAS, and baseline functional indicators (BBS and TUG) had the greatest contribution to prediction. The probability of a positive response to treatment decreased with higher PCL-5 values. Cluster analysis identified two types of patients: with high psychiatric burden and worse recovery and with lower burden and better outcomes. The results suggest that psychiatric status at the beginning of rehabilitation may be an important factor associated with functional recovery after amputation. Screening for PTSD and depression may help predict rehabilitation outcomes. However, these findings need to be confirmed in larger studies. It is also worthwhile to examine whether early psychiatric intervention can improve rehabilitation outcomes.",
-   "doi": "10.3389/fresc.2026.1891994",
+   "abstract": "Ankle mobility and control contribute to balance and everyday movement throughout adulthood, yet are usually assessed through repetitive, abstract tasks that reveal little about movement production. Serious games can make repeated tasks engaging, but most report only end point scores rather than continuous gameplay signals, and few establish system usability. Developing and evaluating such a system in healthy adults is a necessary first step. This study aimed to develop Balance Wood, a bilateral ankle-controlled serious game in which seated players tilt a device through ankle flexion-extension to control on-screen play, to describe the system and the signals it records, and to evaluate its usability, safety, and user experience in healthy adults. In this two-stage cross-sectional development and usability study, healthy adults without lower-limb injury or balance-affecting neurological or vestibular disorders completed single-session repeated-measures procedures. In stage 1, a total of 40 adults-20 older (mean age 73.0, SD 5.9 y; 10 women) and 20 younger (mean age 28.1, SD 3.2 y; 4 women) adults-completed 3 fixed-order difficulty levels in 1 session (exploratory signal analysis). In stage 2, a total of 18 younger adults (mean age 24.6, SD 3.9 y; 5 women) completed the levels in counterbalanced order. Usability was assessed with the System Usability Scale (0-100); use impressions and consciously used body parts with Likert and open-ended items; and device tilt-angle accuracy against a digital goniometer. The mean System Usability Scale score was 81.5 (SD 11.2; 95% CI 76.0-87.1; Cronbach \u03b1=.74), above the benchmark of 68, indicating good perceived usability. Mean ratings were 2.11 (SD 1.32) for safety concern (95% CI 1.45-2.77) and 1.67 (SD 1.03) for pain (95% CI 1.15-2.18). Ankle use was highest at 4.94 (SD 0.24), exceeding knee 2.50 (SD 1.29), hip 2.00 (SD 1.24), and trunk 2.17 (SD 1.15) by Wilcoxon signed-rank tests (P<.001). Device readings agreed closely with the goniometer, with a mean absolute error of 0.66\u00b0, an intraclass correlation coefficient of 0.999, and 95% limits of agreement of -0.68 to 1.70\u00b0. In stage 1, all measures were computable for the 40 participants, with typical amplitudes of 20.5\u00b0 to 27.2\u00b0 and stable speed in both groups. In stage 2, repeated-measures analyses (\u03b1=.05) did not detect statistically significant differences across difficulty conditions or presentation positions (all P>.13). In healthy adults, Balance Wood was usable, well-accepted, low-risk, and provided accurate device-level tilt measurement with predominantly ankle-based control while continuously recording gameplay signals. It is a low-cost, bilateral, ankle-specific control interface with continuous signal capture into 1 easy-to-use device. Its contribution is a reproducible, usability-tested platform with characterized device accuracy, and formally defined candidate measures awaiting validation. Once validated, it could support home- or community-based recording; in the near term, it is a research tool.",
+   "doi": "10.2196/96617",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42787447/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42789776/",
    "matched": [
     {
      "id": "burden-cost",
@@ -100,81 +100,23 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42783399",
-   "title": "Comprehensive Management of Foot and Ankle Conditions and Their Biopsychosocial Impact on Patients Diagnosed with Rheumatoid Arthritis.",
-   "journal": "Med Sci (Basel)",
+   "pmid": "42795382",
+   "title": "Long-Term Injury Patterns and Trends in Elite Professional Football: A Nine-Season Retrospective Analysis of Prospectively Recorded Data.",
+   "journal": "Life (Basel)",
    "year": "2026",
    "authors": [
-    "Ortiz-Romero M",
-    "Gordillo-Fern\u00e1ndez LM",
-    "Le\u00f3n-Linares JP",
-    "Garc\u00eda-Garc\u00eda CO"
+    "Bandalovi\u0107 A",
+    "Ver\u0161i\u0107 \u0160",
+    "\u0160komrlj J",
+    "Pranji\u0107 T",
+    "et al."
    ],
-   "abstract": "Rheumatoid arthritis (RA) affects a high percentage of people. This condition can lead to foot and ankle deformities frequently accompanied by severe pain and limitations in daily activities; together, these aspects reduce the quality of life. We carried out a systematic search of databases such as PubMed, Cochrane, and Scopus. We compared the outcomes of treatments with conventional disease-modifying antirheumatic drugs (DMARDs), anti-TNF biologic drugs, custom foot orthoses, and combined therapies over a six-month period. This systematic review and meta-analysis synthesized evidence from 21 included studies evaluating pharmacological, orthotic, and physical therapy interventions in adult RA patients with foot and ankle involvement. Across pooled estimates, multidisciplinary interventions combining pharmacotherapy, custom foot orthoses, and structured physical therapy demonstrated substantial reductions in pain (VAS score mean reduction of: -5.0 points in VAS score) and kinesiophobia, alongside gains in health-related quality of life (EQ-5D increase of: +0.30 points). High statistical heterogeneity was observed across study designs (I^2 > 50\\%). Early assessment of foot pathologies and multidisciplinary collaboration are recommended, while future long-term randomized controlled trials are needed to confirm component-specific efficacy. Recommendations include early assessment of foot pathologies, collaboration among multidisciplinary teams, and future studies including 12-month follow-ups using specific assessment tools such as the MFPDI.",
-   "doi": "10.3390/medsci14050526",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Meta-Analysis",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42783399/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42787454",
-   "title": "Effect of Rhythmic Stabilization Technique Versus Conventional Strengthening on Joint Stability, Pain, and Walking Performance in Chronic Ankle Instability.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Shinde VV",
-    "Jagtap V",
-    "Shinde AP",
-    "Potdar MV"
-   ],
-   "abstract": "Chronic ankle instability (CAI) is one of the consequences of repeated sprains of the lateral aspect of an ankle joint, characterized by frequent episodes of the ankle giving way, pain, impaired proprioception, and reduced functional performance. In rehabilitation, traditional strengthening exercises are often performed; however, interventions targeting neuromuscular control and dynamic joint stabilization may provide superior outcomes. Rhythmic stabilization technique (RST), a proprioceptive neuromuscular facilitation technique, promotes co-contraction of agonist and antagonist muscles, thereby enhancing joint stability and proprioceptive function. A total of 58 participants aged 18-40 years with a diagnosis of CAI were recruited for this comparative experimental study. Two groups were formed, and participants were randomly assigned to either group: Group A (RST, n = 29) and Group B (conventional strengthening, n = 29). Both groups underwent a structured four-week intervention program. Outcome measures included the Cumberland Ankle Instability Tool (CAIT) for joint stability, Numerical Pain Rating Scale (NPRS) for pain intensity, and Foot and Ankle Ability Measure (FAAM) for walking performance. Assessments were performed pre- and postintervention. Statistical analysis was performed. Significant improvement was shown by both groups in all outcome measures following the intervention. Group A showed greater improvement in CAIT scores (16.79 \u00b1 2.47 to 28.10 \u00b1 1.21), NPRS scores (7.66 \u00b1 0.81 to 1.66 \u00b1 0.55), and FAAM scores (45.41 \u00b1 3.52 to 74.28 \u00b1 3.76) compared with Group B. Statistically significant differences were observed after the intervention favoring Group A across all outcomes (p < 0.0001). RST demonstrated superior effectiveness and is considered a valuable evidence-based intervention for the rehabilitation of CAI.",
-   "doi": "10.7759/cureus.115133",
+   "abstract": "Long-term injury surveillance in professional football is essential for understanding temporal changes in injury patterns. However, prospective studies spanning multiple consecutive seasons within the same professional club remain scarce. This study aimed to investigate injury epidemiology, temporal trends, and injury characteristics over nine consecutive seasons in an elite Croatian professional football club. This retrospective longitudinal study over nine competitive seasons (2015/16-2023/24) included 167 male players participating in the professional first-team environment from a single professional football club, contributing a total of 382 player-seasons across nine consecutive seasons. A total of 749 time-loss injuries were recorded according to the FIFA Medical Assessment and Research Centre (F-MARC) consensus recommendations. Temporal trends were evaluated using Joinpoint regression, while injury characteristics, anatomical distribution, tissue involvement, and injury burden were analysed descriptively. Overall injury incidence averaged 12.66 injuries per 1000 h of exposure (95% CI: 11.77-13.60), with substantially higher incidence during matches (50.13 injuries/1000 h) than training (7.97 injuries/1000 h). Joinpoint regression identified a non-significant annual decline in injury incidence before the COVID-19 season (2019/2020) (APC = -9.66%), followed by a non-significant increase thereafter (APC = 4.88%). At least one injury was recorded in 295 player-seasons, corresponding to 77.2% of all eligible player-seasons. More than 80% of all injuries involved the lower extremities, while muscle injuries accounted for almost half of all recorded injuries. Functional muscle disorders were the most frequent injury type, whereas meniscal and articular cartilage injuries were associated with the highest mean time loss per injury. The predominance of lower-limb muscle injuries, together with the substantial burden associated with less frequent intra-articular knee injuries, highlights key priorities for injury prevention in professional football. Long-term surveillance within the same club provides valuable insights into evolving injury patterns and supports the development of targeted strategies to maximise player availability.",
+   "doi": "10.3390/life16091517",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42787454/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42784541",
-   "title": "Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial.",
-   "journal": "Age Ageing",
-   "year": "2026",
-   "authors": [
-    "French C",
-    "Parchment A",
-    "Odebiyi B",
-    "Shi C",
-    "et al."
-   ],
-   "abstract": "Falls are a leading cause of injury-related hospital admissions among older adults with substantial burden on health and social care systems. Digital exercise programmes may improve physical function at scale and complement traditional services. Keep-On-Keep-Up (KOKU) is an National Health Service (NHS)-approved digital programme offering progressive, evidence-based exercises and education on fall prevention.We aimed to evaluate the effectiveness and cost-effectiveness of KOKU for improving balance, physical function and reducing fall risk among community-dwelling older adults. A two-arm, parallel group randomised controlled trial was conducted with community-dwelling older adults (\u226560\u00a0years). Participants were randomised (1:1) to receive KOKU alongside standard care (strength and balance exercise advice and a falls prevention leaflet) or standard care alone. The primary outcome was balance function at 12\u00a0weeks (Berg Balance Score). Secondary outcomes included lower limb strength, concerns about falling, falls, mood, pain, fatigue, healthcare utilisation, health-related quality of life and usability. A modified intention-to-treat approach was used to analyse effectiveness and cost effectiveness. A total of 202 older adults (mean age 76.8\u00a0years, 72.8% female) were enrolled (102 intervention; 100 control). Retention at 12-weeks was 89.1% (91 intervention; 89 control). Compared with standard care, KOKU significantly improved balance function at 12\u00a0weeks after adjusting for baseline scores (mean difference: 6.35, 95% confidence interval [CI]: 4.48, 8.22). KOKU was associated with lower mean falls related costs (incremental cost: -\u00a362.98, 95% CI -\u00a3218.54 to \u00a340.22) and a quality-adjusted life year gain of 0.020 (95% CI 0.003 to 0.035). The KOKU programme improves balance with preliminary evidence of cost-effectiveness among community-dwelling older adults. These findings support the integration of digital innovation into routine care to improve balance and strength, thereby reducing functional decline while delivering value for money.",
-   "doi": "10.1093/ageing/afag291",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42784541/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42795382/",
    "matched": [
     {
      "id": "burden-cost",
@@ -186,22 +128,79 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42786832",
-   "title": "Enhanced Feature Extraction and Integration with Advanced Machine Learning Algorithms for Sports-Injury CT-Image Classification.",
-   "journal": "Curr Med Imaging",
+   "pmid": "42791900",
+   "title": "Patient-Reported Knee Function Versus Star Excursion Balance Performance as Correlates of Psychological Return-to-Sport Readiness After Anterior Cruciate Ligament Reconstruction.",
+   "journal": "Bioengineering (Basel)",
    "year": "2026",
    "authors": [
-    "Jun W",
-    "Huiqin C",
-    "Abbasi R",
-    "Bin Heyat MB"
+    "Halvorson RT",
+    "Foley A",
+    "Sampson H",
+    "Nosrat C",
+    "et al."
    ],
-   "abstract": "X-rays, Computed Tomography (CT) scans, Magnetic Resonance Imaging (MRI), and ultrasound scans are examples of common medical imaging methods. These techniques are highly effective at extracting features, classifying, and diagnosing bone and muscle injuries. Enhancing athletic performance, minimizing injuries, and promoting players' overall health are the main goals of the vital discipline of sports medicine. Sports feature extraction of medical images, and sports medicine specialists help athletes reach their full potential while preserving their long-term health by preventing injuries and providing precise diagnoses. We proposed a feature extraction approach for sport CT inquiry images, which were first preprocessed and then subjected to wavelet multi-scale analysis. The CT scan image of a sports injury is broken down into different directions based on smooth and rough regions. The Non-Down- Sampled Contour Transformation (NSCT) and Pyramid Bank (NSPFB) model is applied to the CT image of a sports injury. Furthermore, we employed Feedforward Neural Networks (FNNs), Convolutional Neural Networks (CNNs), and recurrent neural networks (RNNs) for medical image diagnosis. The model was tuned by using hyperparameters. We proposed a feature-extraction model for medical CT scans of sports injuries and provided supporting statistics for medical diagnosis. The CT scan image of the sports injury is subdivided into different sub-directions based on smooth and rough regions. Furthermore, enhanced sub-regain is achieved using an adaptive gamma correction and multi-directional image enhancement via wavelet layering. Our proposed method has demonstrated a remarkable accuracy of 88%, while the deep learning model TabNet-Transform has achieved an imposing 90%. The proposed algorithm improves the quality of the output images and is computationally efficient. Current research indicates that the most vital area of medicine is image analysis, which helps radiologists to make more accurate diagnoses. The feature extraction process involves extracting valuable information from higher-level representations, such as the Region of Interest (ROI) for image analysis, and transforming the image from these representations into lower-level pixel data. The performance analysis of the proposed scheme yielded an efficient extraction time. When extracting feature characteristics for 10 to 30 medical CT images of sports injuries, the average computation time is 2ms to 6 ms. This research explored the application of machine learning and advanced artificial intelligence models to predict disease diagnosis and to enhance feature extraction from medical CT images of sports injuries. However, several variables impact the original image, including removing image noise and detecting specific regions or objects of interest. Our findings pave the way for further investigations of sports injury and early disease prognosis. We may incorporate data from wearable devices to improve their predictive power and extract the desired features for disease prognosis analysis.",
-   "doi": "10.2174/0115734056413312251111043047",
+   "abstract": "Background: Psychological readiness, quantified by the Anterior Cruciate Ligament Return to Sport after Injury (ACL-RSI) scale, is one of the most consistent correlates of return-to-sport success following ACL reconstruction. Whether psychological readiness reflects an independent construct or is related to measured functional performance is not known. Purpose: To evaluate the associations between patient-perceived knee function and objective performance on a functional task, as quantified by traditional scoring, kinematics, and motion quality, and psychological readiness 9 to 12 months after ACL reconstruction. Methods: In this cross-sectional study, forty patients performed the Star Excursion Balance Test using a validated markerless motion capture system. Three biomechanical domains derived from that task (reach distance, lower-extremity kinematics, and a time-series motion quality index) were evaluated against psychological readiness, with patient-reported function (as measured by the Knee Injury and Osteoarthritis Outcomes Score [KOOS-12]) as a comparator. Associations were estimated using multivariable regression adjusted for age, sex, body mass index, and limb length. Relative contributions were evaluated with variance decomposition, and Bayes factors quantified the strength of evidence for or against each association. Results: Patient-perceived knee function was strongly associated with psychological readiness (standardized \u03b2 = 0.58; 95% confidence interval, 0.29 to 0.87; BF10 = 249), whereas no biomechanical domain derived from the functional task reached statistical significance (all |\u03b2| \u2264 0.34; all |r| \u2264 0.3). In the combined model (total R2 = 0.463), variance decomposition attributed 89.3% of explained variance in psychological readiness to patient-perceived knee function, versus 6.9% for reach distances, 2.4% for motion quality, and 1.4% for lower extremity kinematics. Bayes factors favored the null for each biomechanical domain, but reached only anecdotal strength (BF01, 1.3-2.8). Conclusion: In this cross-section, psychological readiness after ACL reconstruction more closely aligned with patient-perceived knee function than biomechanical performance on the SEBT, indicating that perceived function and biomechanical performance on certain tasks may be divergent at the time of return-to-sport clearance. These findings support the routine inclusion of patient-reported outcome measures alongside functional testing in multi-domain return-to-sport assessment.",
+   "doi": "10.3390/bioengineering13091028",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42786832/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42791900/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42791862",
+   "title": "Position-Dependent Stability of an Unconstrained Total Talar Replacement and Its Suture Reinforcement: A Human Cadaveric Weight-Bearing Computed Tomography Study.",
+   "journal": "Bioengineering (Basel)",
+   "year": "2026",
+   "authors": [
+    "Raykov G",
+    "Penev P",
+    "Gehweiler D",
+    "Barcik J",
+    "et al."
+   ],
+   "abstract": "Total talar replacement (TTR) is a joint-preserving alternative to arthrodesis in end-stage talar collapse. However, excising the talus detaches its anchoring ligaments and capsule, and unconstrained prosthesis constructs are prone to malalignment and dislocation. Moreover, it remains unclear whether the instability and its suture stabilisation vary across foot positions. Therefore, the aim of this study was to quantify the positional, load-dependent stability of an unconstrained TTR and the effect of its suture stabilisation. Five human cadaveric lower legs were imaged by weight-bearing computed tomography (CT) imaging in nine positions under 10 N and 700 N load in the intact condition and then with an unconstrained custom 3D-printed specimen-specific TTR, followed by supplementary transosseous suture stabilisation of the anterior talofibular ligament (ATFL) and deep tibiotalar deltoid in the third condition. In the intact ankle condition, load-induced displacements were minimal and unaffected by foot position, averaging no more than 0.52 mm and 0.62\u00b0. The unconstrained TTR exhibited position-dependent load-induced displacements, with talar shift increasing significantly by 2.29 mm in inversion and calcaneofibular distance decreasing significantly by 1.54 mm in eversion compared with the intact ankle condition (p \u2264 0.033). Suture stabilisation significantly decreased talar shift by 1.45 mm in inversion and significantly increased calcaneofibular distance by 1.37 mm in eversion, restoring these load-induced displacements toward the intact ankle condition (p = 0.002). In this human cadaveric weight-bearing CT imaging study, an unconstrained TTR benefited from suture reconstruction of the ATFL and deep tibiotalar deltoid attachments, highlighting the value of evaluating construct stability under load across the range of foot positions rather than in neutral stance alone.",
+   "doi": "10.3390/bioengineering13090990",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42791862/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42789327",
+   "title": "Rationale, Design, and Baseline Characteristics of the TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) Cohort of Older Adults for Assessing Fall and Fracture Risk: Prospective Cohort Study.",
+   "journal": "JMIR Aging",
+   "year": "2026",
+   "authors": [
+    "Chan A",
+    "Visaria A",
+    "Malhotra R",
+    "Singh NB",
+    "et al."
+   ],
+   "abstract": "Falls and fractures are a major clinical concern for older adults. International clinical guidelines recommend annual fall risk screening for all adults aged 60 years and older. However, existing falls risk-screening algorithms have shown limited sensitivity and specificity in detecting future falls. Emerging health technologies, including wearable sensors, in-silico finite element models (FEMs), and virtual reality (VR) technology, show promise in enhancing fall and fracture risk assessments by providing more personalized objective data to support targeted primary prevention. However, large-scale longitudinal studies are required to evaluate their predictive accuracy and cost-effectiveness for systematic community-based screening. The TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) study is an ongoing national prospective cohort study in Singapore designed to develop cost-effective and scalable frameworks for the early detection and prevention of falls and fractures using novel health technologies. This paper describes the rationale, design, and baseline characteristics of TARGET, and provides preliminary insights into how these novel technologies perform in discriminating between older adults with and with no history of falls at study baseline. A total of 2291 community-dwelling Singapore residents aged \u226560 years were enrolled between 2022 and 2024. Participants underwent a comprehensive baseline fall risk assessment comprising (1) home-based interview to assess sociodemographic, anthropometric, cognitive, physical, functional, and psychosocial status; (2) gait assessment using wearable inertial measurement units (IMUs) motion sensors; (3) dual-energy X-ray absorptiometry and whole-body 3D scans to construct subject-specific FEMs; and (4) VR-based cognitive assessment to probe spatial navigation deficits. Prospective follow-up for 2 years is ongoing, with linkage to national electronic medical records (EMRs) to obtain detailed clinical, medication, and pathological data. Of the total cohort, 58% (1327/2291) were female, with a mean age of 74.6 years at baseline. TARGET represents a relatively healthy older adult population, with 83% (1898/2291) remaining fully independent, 44% (1016/2290) with mild cognitive impairment, 50% (440/879) with osteopenia, and 15% (358/2291) reporting falls in the past year. Significant baseline functional, psychosocial, cognitive, and biomechanical differences were identified between fallers and nonfallers. Fallers had poorer physical and psychosocial health, greater gait variability, and a higher risk of osteoporotic fractures. Novel risk prediction models integrating epidemiological, IMUs, FEM, VR, and EMR data are in development and being validated against gold standard clinical assessments, with cost-effectiveness evaluations of the economic feasibility of adopting these screening measures at scale. Leveraging comprehensive epidemiological, EMR, and health technology data, TARGET is well positioned to identify novel biomarkers and systemic interactions that may predict falls and fracture risk, with potential application to other age-related diseases with shared pathophysiology. In particular, TARGET's focus on community-based screening using technologies that can be administered by nonclinical personnel has the potential to reduce substantial burden and costs within the health care sector.",
+   "doi": "10.2196/89285",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42789327/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -213,137 +212,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42780983",
-   "title": "Evaluating the rehabilitative and assistive impact of the Agilik exoskeleton: a pre-post single-group study in children with cerebral palsy.",
-   "journal": "Front Med (Lausanne)",
+   "pmid": "42794249",
+   "title": "The Unique Features of Pediatric Sports Injuries: The Hip.",
+   "journal": "Children (Basel)",
    "year": "2026",
    "authors": [
-    "Nossa R",
-    "Malerba G",
-    "Falivene A",
-    "Diella E",
-    "et al."
+    "Henry L",
+    "Funk K",
+    "Yen YM",
+    "Abzug J"
    ],
-   "abstract": "Cerebral palsy (CP) is a common childhood-onset neurological condition often associated with crouch gait, a pathological walking pattern impairing mobility. Wearable robotic devices are emerging as promising tools for paediatric gait rehabilitation, but evidence on their rehabilitative and assistive effects remains limited. This exploratory study evaluated the rehabilitative and assistive effects of a 10-session training programme using Agilik, a paediatric knee exoskeleton, in children with CP and crouch gait, during level-ground, uphill, and downhill walking. Eight children with CP completed the intervention. Assessments were performed at baseline (T0) and post-intervention (T1), including walking endurance, speed, balance, spasticity, and clinical joint and muscle length assessments. Three-dimensional gait analysis (GRAIL system) quantified sagittal-plane hip, knee, and ankle range of motion during level-ground, uphill, and downhill walking. At T1, joint range of motion was analysed with and without Agilik to assess its assistive effect. User satisfaction was evaluated using the child-adapted QUEST 2.1 questionnaire. Given the exploratory nature of this study, results were interpreted primarily at the individual level using predefined minimal clinically important difference (MCID) thresholds. When clinically relevant changes occurred, improvements were more frequently observed than deteriorations in walking endurance (MCID\u2009>\u200915\u2005m), speed (MCID\u2009>\u20090.1\u2005m/s), muscle lengths (>5\u00b0), and joint range of motion (>5\u00b0). No significant group-level rehabilitative changes were observed (all p\u2009>\u20090.05). In contrast, the assistive evaluation showed statistically significant increases in knee and hip range of motion across all walking conditions (p\u2009<\u20090.05), with all participants improving at the knee in every condition. Satisfaction scores (7-point scale) were high for size, appearance, usability, and set-up time (median\u2009\u2265\u20094/7), while weight, reliability, and timely performance received lower ratings (median 3.5/7). This exploratory study demonstrates a clear assistive biomechanical benefit of Agilik, particularly at the knee and hip. Individual-level analyses suggest that some participants may experience clinically meaningful improvements following training; however, these observations are hypothesis-generating and cannot be interpreted as evidence of a rehabilitative effect. Larger randomised controlled studies are needed to determine whether repeated exposure to assisted gait translates into sustained functional gains.",
-   "doi": "10.3389/fmed.2026.1814298",
+   "abstract": "Sports-related injuries of the hip and groin have demonstrated increasing prevalence in pediatric and adolescent athletes. Pediatric injuries require specific consideration of unique factors such as skeletal maturity, apophyseal vulnerability, physeal closure status, and growth-related changes in injury pattern. These injuries include a variety of conditions, including apophyseal injuries, hip dislocations, coxa saltans (snapping hip), femoroacetabular impingement syndrome (FAIS), and stress fractures. Injuries such as hip dislocation and high-risk femoral neck stress fracture require urgent diagnosis and management; however, timely diagnosis and appropriate management is necessary for all pediatric hip injuries to prevent delays in return to sport and long-term complications. The literature synthesized in this narrative review includes randomized controlled trials, systematic reviews, prospective and retrospective studies, and consensus statements to provide a summary of each injury. An overview of pediatric sports injuries of the hip, with emphasis on the epidemiology, presentation, diagnosis, management, and complications, is presented.",
+   "doi": "10.3390/children13091229",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42780983/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42788174",
-   "title": "Global Research Trends in Metatarsal Stress Fractures in Athletes.",
-   "journal": "Orthop Rev (Pavia)",
-   "year": "2026",
-   "authors": [
-    "Kalidindi D",
-    "Gadikota P",
-    "Viswanath O",
-    "Ganti L"
-   ],
-   "abstract": "Metatarsal Stress Fractures (MSFs) are commonly occurring overuse injuries for athletes and soldiers. This paper investigated publication patterns, top authors, networks, and themes associated with MSFs. Bibliometric analysis of publications on MSFs published during the period from 1970-2026 was carried out using the Web of Science Core Collection. Network and visualization of bibliometric analyses were carried out using VOSviewer. A total of 479 publications were identified. There has been a significant rise in research output following 2011, peaking during 2017-2025 years. Subject categories with highest publication outputs were Orthopedics and Sport Sciences; the most active countries are the United States, England, and Japan; JA Nunley is the most prolific author, whereas Foot & Ankle International is the most popular journal; keywords include Jones' fractures, 5th metatarsal fracture, surgical intervention, and return to play. Increase in publication outputs likely reflects rising sports participation levels and advances in sports medicine. Nevertheless, the majority of research is centered around Jones' fractures, surgery, with minimal interest in preventive strategies, metabolism-related risk factors, and minor metatarsal stress fractures. Future research should focus on prevention methods, metabolism, and scientific approaches to returning to sport activities.",
-   "doi": "10.52965/001c.169724",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42788174/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42794249/",
    "matched": [
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42785721",
-   "title": "Identifying Determinants of Asymmetrical Biomechanics During Single- and Double-Limb Countermovement Jumps 2\u00a0Years Following Anterior Cruciate Ligament Reconstruction.",
-   "journal": "J Appl Biomech",
-   "year": "2026",
-   "authors": [
-    "Gohil AM",
-    "Owen M",
-    "Samaan MA",
-    "Noehren B"
-   ],
-   "abstract": "After anterior cruciate ligament reconstruction (ACLR), individuals often demonstrate asymmetrical lower-extremity biomechanics and suboptimal vertical jump performance. These deficits have negative implications for reinjury risk and ability to return to sport. This study aims to quantify asymmetrical lower-extremity (hip, knee, and ankle) biomechanics and identify modifiable impairments contributing to altered knee joint mechanics and vertical jump performance after ACLR. Twenty-four individuals (19.6 [3.4]\u00a0mo post-ACLR) performed isometric and isokinetic knee extensor strength testing followed by single- and double-limb vertical jumps using 3D motion capture. We found no differences in lower-extremity kinematics but did observe reduced peak knee extensor moment and joint power in the ACL-involved limb during both jumps. Furthermore, quadriceps peak torque and rate of torque development were significantly associated with propulsive knee joint power and vertical jump height. The findings from this study highlight that individuals demonstrate persistent knee joint underloading 2\u00a0years following ACLR that is related to inadequate quadriceps peak torque and rate of torque development. Clinicians should prioritize restoration of quadriceps peak torque and rate of torque development to improve knee joint kinetics, vertical jump performance, and overall readiness to return to competitive sport.",
-   "doi": "10.1123/jab.2026-0134",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42785721/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42784388",
-   "title": "Infrared Thermography Reveals Recurrent Thermal Asymmetry Patterns Rather than Stable Thermal Phenotypes in Elite Under-18 Soccer Players: A Prospective Longitudinal Observational Study.",
-   "journal": "Sports (Basel)",
-   "year": "2026",
-   "authors": [
-    "Di Martino A",
-    "Aliberti SM",
-    "Nurzynska D",
-    "Canonico R",
-    "et al."
-   ],
-   "abstract": "Evidence regarding the longitudinal use of infrared thermography in elite under-18 soccer players remains limited. Most previous studies have relied on cross-sectional designs or short observation periods. This prospective longitudinal observational study monitored 18 elite under-18 male outfield soccer players across 16 official matches (96 valid assessments). Thermographic evaluations were performed 48 h post-match under standardized conditions across six bilateral lower-limb regions. A thermal asymmetry was defined as relevant if \u0394Tsk \u2265 0.5 \u00b0C. Linear mixed-effects models, paired t-tests and chi-square tests were used for statistical analysis. Relevant asymmetries were detected in 79.2% of assessments (mean maximum \u0394Tsk 0.77 \u00b1 0.43 \u00b0C). Posterior Thigh BF (40.6%) and Posterior Thigh ST (35.4%) showed the highest prevalence (\u03c72 = 16.31, p = 0.006). Significant side-to-side differences were found for Anterior Thigh (p = 0.004), Adductor (p = 0.039) and Posterior Thigh BF (p = 0.032). The intraclass correlation coefficient for Thermal Asymmetry Burden was very low (ICC = 0.024). Fifteen athletes (83.3%) showed recurrent asymmetry and 13 (72.2%) showed a recurrent same-region pattern. Match-to-match variation in TAB was significant (Kruskal-Wallis p = 0.025; ANOVA p = 0.011). No time-loss muscle injuries occurred. Post-match thermal asymmetries are highly prevalent in elite youth soccer and appear to reflect dynamic, load-dependent recovery responses rather than stable thermal phenotypes. Longitudinal thermographic monitoring may help characterise individual recovery patterns when interpreted alongside other monitoring tools.",
-   "doi": "10.3390/sports14090392",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42784388/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42780891",
-   "title": "Prevalence, burden and risk markers of health problems in HYROX athletes: a 12-week prospective cohort study.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Chittenden E",
-    "Bell A",
-    "Forbes G",
-    "Tooth P",
-    "et al."
-   ],
-   "abstract": "HYROX is a rapidly growing fitness competition combining eight 1-km running intervals with eight functional fitness stations. This study investigated the epidemiology and markers of health problems in HYROX athletes. Eighty-nine HYROX athletes (56 female) completed the 'Oslo Sports Trauma Research Center Questionnaire on Health Problems' (OSTRC-H2) weekly for 12 weeks, alongside exposure reporting and a baseline questionnaire. In an exploratory analysis, potential risk markers (age, sex, previous injury and HYROX experience) for cumulative injury severity were examined using negative binomial regression with an exposure offset. The mean weekly response rate was 62%. The pooled weekly prevalence of any health problem was 30% (95% CI 24% to 37%), with a substantial-problem prevalence of 18% (95% CI 13%-24%). Injury incidence was 14.4 (95% CI 11.1-18.4) per 1,000\u2005h, with a time-loss incidence of 6.4 (95% CI 4.3-9.2); injuries attributed to HYROX training accounted for two thirds of episodes (9.6 per 1,000\u2005h). Overuse injuries accounted for 73% of injuries. The knee was the most frequently injured region (22% of episodes) and, with the lower leg, carried the greatest burden; the elbow ranked third for burden on the basis of four episodes, two of them persistent, while shoulder injuries were near-absent. Previous injury carried the largest rate ratio for cumulative severity, at 2.60 (95% CI 1.00-6.75), an interval also compatible with no association. Health problems were common in HYROX athletes and dominated by overuse injuries. The burden was led by the lower limb, consistent with the sport's running load, with a possible elbow contribution from two persistent injuries and a near-absence of shoulder problems, a combination that may distinguish the profile from other extreme conditioning programme training but which rests on few cases. Only half of problems involved time-loss, so missed-training-day surveillance understates the burden. Previous injury is a candidate risk marker requiring confirmation in larger cohorts.",
-   "doi": "10.3389/fspor.2026.1937574",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42780891/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -575,35 +464,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42646898",
-   "title": "Artificial Intelligence and Psychophysiological Monitoring for Integrated Performance Modeling in Elite Soccer: A Scoping Review of Applications, Evidence Gaps, and Translational Challenges.",
-   "journal": "Sports (Basel)",
-   "year": "2026",
-   "authors": [
-    "Dergaa I",
-    "Dhahbi W",
-    "Dergaa MA",
-    "Razzak M",
-    "et al."
-   ],
-   "abstract": "Elite soccer performance emerges from the interplay of cognitive, emotional, psychophysiological, and tactical processes that operate in real time during matches. Advances in wearable sensors and artificial intelligence (AI) now allow continuous monitoring of physiological and psychological states. They also allow modeling of how these states relate to tactical and physical performance. Existing reviews have examined machine learning in soccer, heart rate variability (HRV) monitoring, and psychological determinants of performance separately. No scoping review has mapped the intersection of AI analytics, wearable psychophysiological monitoring, and psychological performance constructs as one integrated decision-support framework in elite soccer. The aim of this study was to map the available evidence on the integration of AI and machine learning with psychophysiological monitoring for performance modeling in elite soccer, to identify the psychological constructs already used as model inputs, to describe the wearable technologies and AI methods applied, and to set out the translational challenges and evidence gaps that need priority attention. The review followed the PRISMA extension for Scoping Reviews (PRISMA-ScR) and the updated Joanna Briggs Institute (JBI) methodology. The protocol was registered on the Open Science Framework (OSF). Six databases (PubMed/MEDLINE, Scopus, Web of Science, SPORTDiscus, IEEE Xplore, and PsycINFO) were searched from January 2000 to March 2026 using the Population-Concept-Context (PCC) framework. Two reviewers independently screened titles, abstracts, and full texts (Cohen's kappa = 0.82). Thirty-six sources met the eligibility criteria after screening of 3104 records. AI and machine learning have been applied widely to predict physical and tactical performance in soccer, yet they rarely include psychological constructs. Reported models (decision trees, gradient boosting, and artificial neural networks) reach high accuracy for physical outcomes in internal validation, for example, above 66% for injury risk. Multi-modal models that add physiological and psychological inputs report stronger prediction. These figures come mostly from internal validation, and external validation and overfitting controls are seldom reported, so they should be read as optimistic upper bounds. Psychological and psychophysiological inputs remain under-represented. Explainable AI (XAI) methods, in particular Shapley Addictive exPlanations (SHAP) values, are appearing, but validation with domain experts is scarce. HRV has been reviewed as a psychophysiological marker in soccer, yet its use within AI decision-support tools for real-time psychological readiness has not been mapped. Three translational challenges stand out: the ecological validity gap between laboratory cognitive tests and match-embedded psychophysiology; the interpretability problem of opaque AI in high-stakes decisions; and the data fragmentation problem created by disconnected physical, tactical, and psychological data streams. Integrating AI with wearable psychophysiological monitoring offers a credible route toward integrated performance modeling in elite soccer. Closing this gap calls for multi-modal frameworks that combine psychological constructs, physiological markers, and tactical data within explainable AI. Research priorities include ecologically valid psychophysiological assessment protocols, position-specific psychological profiling, and practitioner-validated tools that turn AI outputs into usable coaching recommendations.",
-   "doi": "10.3390/sports14080360",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42646898/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42761794",
    "title": "Artificial intelligence and sports genomics: advancing precision sports science and athletic performance.",
    "journal": "Front Sports Act Living",
@@ -827,6 +687,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42787447",
+   "title": "Baseline PTSD and depressive symptoms predict multidimensional recovery after combat-related transtibial amputation: a prospective cohort study.",
+   "journal": "Front Rehabil Sci",
+   "year": "2026",
+   "authors": [
+    "Halabitska I",
+    "Kamyshna I",
+    "Buchynskyi M",
+    "Petakh P",
+    "et al."
+   ],
+   "abstract": "Posttraumatic stress disorder (PTSD) is common among combat-injured service members. To date, there is insufficient evidence to determine whether the initial severity of psychiatric disorders is associated with the dynamics of motor recovery after lower limb amputation. The aim of the study was to assess whether the severity of PTSD and depressive symptoms at the time of hospitalization affect the outcomes of intensive robotic neurorehabilitation after combat-related unilateral transtibial amputation. A prospective cohort study included 45 male service members with unilateral transtibial amputations who underwent a standardized robotic neurorehabilitation program for the lower limbs. The examinations were performed at four time points: on days 0, 14, 30, and 120. 46 indicators were evaluated, including stabilometric posturography (Stabiloplatforma Alfa), instrumental gait analysis (OMEGO, STRIDE ONE, BALO), clinical functional tests (BBS, TUG, FRT, AMPPRO, FSST, 10MWT, 2MWT, 6MWT, ABC), pain intensity (VAS), as well as psychiatric scales PCL-5 and PHQ-9. Statistical analyses included longitudinal mixed-effects modeling, multivariable regression, and exploratory machine-learning approaches. The study found that the level of PTSD and depression at the beginning of rehabilitation was associated with functional recovery after combat transtibial amputation. 37.8% of participants recorded a clinically significant improvement according to the combined criterion. Psychiatric scales (PCL-5 and PHQ-9) showed moderate predictive ability for rehabilitation response (AUC\u2009=\u20090.80). The PCL-5, PHQ-9, VAS, and baseline functional indicators (BBS and TUG) had the greatest contribution to prediction. The probability of a positive response to treatment decreased with higher PCL-5 values. Cluster analysis identified two types of patients: with high psychiatric burden and worse recovery and with lower burden and better outcomes. The results suggest that psychiatric status at the beginning of rehabilitation may be an important factor associated with functional recovery after amputation. Screening for PTSD and depression may help predict rehabilitation outcomes. However, these findings need to be confirmed in larger studies. It is also worthwhile to examine whether early psychiatric intervention can improve rehabilitation outcomes.",
+   "doi": "10.3389/fresc.2026.1891994",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42787447/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42662945",
    "title": "Biofeedback-Assisted Rehabilitation for Neuromotor Recovery After Lower-Extremity Musculoskeletal Injury: A Narrative Review.",
    "journal": "Cureus",
@@ -942,6 +830,36 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42783399",
+   "title": "Comprehensive Management of Foot and Ankle Conditions and Their Biopsychosocial Impact on Patients Diagnosed with Rheumatoid Arthritis.",
+   "journal": "Med Sci (Basel)",
+   "year": "2026",
+   "authors": [
+    "Ortiz-Romero M",
+    "Gordillo-Fern\u00e1ndez LM",
+    "Le\u00f3n-Linares JP",
+    "Garc\u00eda-Garc\u00eda CO"
+   ],
+   "abstract": "Rheumatoid arthritis (RA) affects a high percentage of people. This condition can lead to foot and ankle deformities frequently accompanied by severe pain and limitations in daily activities; together, these aspects reduce the quality of life. We carried out a systematic search of databases such as PubMed, Cochrane, and Scopus. We compared the outcomes of treatments with conventional disease-modifying antirheumatic drugs (DMARDs), anti-TNF biologic drugs, custom foot orthoses, and combined therapies over a six-month period. This systematic review and meta-analysis synthesized evidence from 21 included studies evaluating pharmacological, orthotic, and physical therapy interventions in adult RA patients with foot and ankle involvement. Across pooled estimates, multidisciplinary interventions combining pharmacotherapy, custom foot orthoses, and structured physical therapy demonstrated substantial reductions in pain (VAS score mean reduction of: -5.0 points in VAS score) and kinesiophobia, alongside gains in health-related quality of life (EQ-5D increase of: +0.30 points). High statistical heterogeneity was observed across study designs (I^2 > 50\\%). Early assessment of foot pathologies and multidisciplinary collaboration are recommended, while future long-term randomized controlled trials are needed to confirm component-specific efficacy. Recommendations include early assessment of foot pathologies, collaboration among multidisciplinary teams, and future studies including 12-month follow-ups using specific assessment tools such as the MFPDI.",
+   "doi": "10.3390/medsci14050526",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42783399/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42702977",
@@ -1138,6 +1056,62 @@
    "bucket": "research"
   },
   {
+   "pmid": "42787454",
+   "title": "Effect of Rhythmic Stabilization Technique Versus Conventional Strengthening on Joint Stability, Pain, and Walking Performance in Chronic Ankle Instability.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Shinde VV",
+    "Jagtap V",
+    "Shinde AP",
+    "Potdar MV"
+   ],
+   "abstract": "Chronic ankle instability (CAI) is one of the consequences of repeated sprains of the lateral aspect of an ankle joint, characterized by frequent episodes of the ankle giving way, pain, impaired proprioception, and reduced functional performance. In rehabilitation, traditional strengthening exercises are often performed; however, interventions targeting neuromuscular control and dynamic joint stabilization may provide superior outcomes. Rhythmic stabilization technique (RST), a proprioceptive neuromuscular facilitation technique, promotes co-contraction of agonist and antagonist muscles, thereby enhancing joint stability and proprioceptive function. A total of 58 participants aged 18-40 years with a diagnosis of CAI were recruited for this comparative experimental study. Two groups were formed, and participants were randomly assigned to either group: Group A (RST, n = 29) and Group B (conventional strengthening, n = 29). Both groups underwent a structured four-week intervention program. Outcome measures included the Cumberland Ankle Instability Tool (CAIT) for joint stability, Numerical Pain Rating Scale (NPRS) for pain intensity, and Foot and Ankle Ability Measure (FAAM) for walking performance. Assessments were performed pre- and postintervention. Statistical analysis was performed. Significant improvement was shown by both groups in all outcome measures following the intervention. Group A showed greater improvement in CAIT scores (16.79 \u00b1 2.47 to 28.10 \u00b1 1.21), NPRS scores (7.66 \u00b1 0.81 to 1.66 \u00b1 0.55), and FAAM scores (45.41 \u00b1 3.52 to 74.28 \u00b1 3.76) compared with Group B. Statistically significant differences were observed after the intervention favoring Group A across all outcomes (p < 0.0001). RST demonstrated superior effectiveness and is considered a valuable evidence-based intervention for the rehabilitation of CAI.",
+   "doi": "10.7759/cureus.115133",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42787454/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42784541",
+   "title": "Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial.",
+   "journal": "Age Ageing",
+   "year": "2026",
+   "authors": [
+    "French C",
+    "Parchment A",
+    "Odebiyi B",
+    "Shi C",
+    "et al."
+   ],
+   "abstract": "Falls are a leading cause of injury-related hospital admissions among older adults with substantial burden on health and social care systems. Digital exercise programmes may improve physical function at scale and complement traditional services. Keep-On-Keep-Up (KOKU) is an National Health Service (NHS)-approved digital programme offering progressive, evidence-based exercises and education on fall prevention.We aimed to evaluate the effectiveness and cost-effectiveness of KOKU for improving balance, physical function and reducing fall risk among community-dwelling older adults. A two-arm, parallel group randomised controlled trial was conducted with community-dwelling older adults (\u226560\u00a0years). Participants were randomised (1:1) to receive KOKU alongside standard care (strength and balance exercise advice and a falls prevention leaflet) or standard care alone. The primary outcome was balance function at 12\u00a0weeks (Berg Balance Score). Secondary outcomes included lower limb strength, concerns about falling, falls, mood, pain, fatigue, healthcare utilisation, health-related quality of life and usability. A modified intention-to-treat approach was used to analyse effectiveness and cost effectiveness. A total of 202 older adults (mean age 76.8\u00a0years, 72.8% female) were enrolled (102 intervention; 100 control). Retention at 12-weeks was 89.1% (91 intervention; 89 control). Compared with standard care, KOKU significantly improved balance function at 12\u00a0weeks after adjusting for baseline scores (mean difference: 6.35, 95% confidence interval [CI]: 4.48, 8.22). KOKU was associated with lower mean falls related costs (incremental cost: -\u00a362.98, 95% CI -\u00a3218.54 to \u00a340.22) and a quality-adjusted life year gain of 0.020 (95% CI 0.003 to 0.035). The KOKU programme improves balance with preliminary evidence of cost-effectiveness among community-dwelling older adults. These findings support the integration of digital innovation into routine care to improve balance and strength, thereby reducing functional decline while delivering value for money.",
+   "doi": "10.1093/ageing/afag291",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42784541/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42711700",
    "title": "Effects of an actuated ankle exoskeleton on walking stability in healthy adults: a controlled laboratory study.",
    "journal": "J Neuroeng Rehabil",
@@ -1298,6 +1272,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42786832",
+   "title": "Enhanced Feature Extraction and Integration with Advanced Machine Learning Algorithms for Sports-Injury CT-Image Classification.",
+   "journal": "Curr Med Imaging",
+   "year": "2026",
+   "authors": [
+    "Jun W",
+    "Huiqin C",
+    "Abbasi R",
+    "Bin Heyat MB"
+   ],
+   "abstract": "X-rays, Computed Tomography (CT) scans, Magnetic Resonance Imaging (MRI), and ultrasound scans are examples of common medical imaging methods. These techniques are highly effective at extracting features, classifying, and diagnosing bone and muscle injuries. Enhancing athletic performance, minimizing injuries, and promoting players' overall health are the main goals of the vital discipline of sports medicine. Sports feature extraction of medical images, and sports medicine specialists help athletes reach their full potential while preserving their long-term health by preventing injuries and providing precise diagnoses. We proposed a feature extraction approach for sport CT inquiry images, which were first preprocessed and then subjected to wavelet multi-scale analysis. The CT scan image of a sports injury is broken down into different directions based on smooth and rough regions. The Non-Down- Sampled Contour Transformation (NSCT) and Pyramid Bank (NSPFB) model is applied to the CT image of a sports injury. Furthermore, we employed Feedforward Neural Networks (FNNs), Convolutional Neural Networks (CNNs), and recurrent neural networks (RNNs) for medical image diagnosis. The model was tuned by using hyperparameters. We proposed a feature-extraction model for medical CT scans of sports injuries and provided supporting statistics for medical diagnosis. The CT scan image of the sports injury is subdivided into different sub-directions based on smooth and rough regions. Furthermore, enhanced sub-regain is achieved using an adaptive gamma correction and multi-directional image enhancement via wavelet layering. Our proposed method has demonstrated a remarkable accuracy of 88%, while the deep learning model TabNet-Transform has achieved an imposing 90%. The proposed algorithm improves the quality of the output images and is computationally efficient. Current research indicates that the most vital area of medicine is image analysis, which helps radiologists to make more accurate diagnoses. The feature extraction process involves extracting valuable information from higher-level representations, such as the Region of Interest (ROI) for image analysis, and transforming the image from these representations into lower-level pixel data. The performance analysis of the proposed scheme yielded an efficient extraction time. When extracting feature characteristics for 10 to 30 medical CT images of sports injuries, the average computation time is 2ms to 6 ms. This research explored the application of machine learning and advanced artificial intelligence models to predict disease diagnosis and to enhance feature extraction from medical CT images of sports injuries. However, several variables impact the original image, including removing image noise and detecting specific regions or objects of interest. Our findings pave the way for further investigations of sports injury and early disease prognosis. We may incorporate data from wearable devices to improve their predictive power and extract the desired features for disease prognosis analysis.",
+   "doi": "10.2174/0115734056413312251111043047",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42786832/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42708016",
    "title": "Epidemiology and Performance After Achilles Tendon Rupture in National Basketball Association (NBA) Players: A Retrospective Case Series Rationale.",
    "journal": "Cureus",
@@ -1408,6 +1409,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42780983",
+   "title": "Evaluating the rehabilitative and assistive impact of the Agilik exoskeleton: a pre-post single-group study in children with cerebral palsy.",
+   "journal": "Front Med (Lausanne)",
+   "year": "2026",
+   "authors": [
+    "Nossa R",
+    "Malerba G",
+    "Falivene A",
+    "Diella E",
+    "et al."
+   ],
+   "abstract": "Cerebral palsy (CP) is a common childhood-onset neurological condition often associated with crouch gait, a pathological walking pattern impairing mobility. Wearable robotic devices are emerging as promising tools for paediatric gait rehabilitation, but evidence on their rehabilitative and assistive effects remains limited. This exploratory study evaluated the rehabilitative and assistive effects of a 10-session training programme using Agilik, a paediatric knee exoskeleton, in children with CP and crouch gait, during level-ground, uphill, and downhill walking. Eight children with CP completed the intervention. Assessments were performed at baseline (T0) and post-intervention (T1), including walking endurance, speed, balance, spasticity, and clinical joint and muscle length assessments. Three-dimensional gait analysis (GRAIL system) quantified sagittal-plane hip, knee, and ankle range of motion during level-ground, uphill, and downhill walking. At T1, joint range of motion was analysed with and without Agilik to assess its assistive effect. User satisfaction was evaluated using the child-adapted QUEST 2.1 questionnaire. Given the exploratory nature of this study, results were interpreted primarily at the individual level using predefined minimal clinically important difference (MCID) thresholds. When clinically relevant changes occurred, improvements were more frequently observed than deteriorations in walking endurance (MCID\u2009>\u200915\u2005m), speed (MCID\u2009>\u20090.1\u2005m/s), muscle lengths (>5\u00b0), and joint range of motion (>5\u00b0). No significant group-level rehabilitative changes were observed (all p\u2009>\u20090.05). In contrast, the assistive evaluation showed statistically significant increases in knee and hip range of motion across all walking conditions (p\u2009<\u20090.05), with all participants improving at the knee in every condition. Satisfaction scores (7-point scale) were high for size, appearance, usability, and set-up time (median\u2009\u2265\u20094/7), while weight, reliability, and timely performance received lower ratings (median 3.5/7). This exploratory study demonstrates a clear assistive biomechanical benefit of Agilik, particularly at the knee and hip. Individual-level analyses suggest that some participants may experience clinically meaningful improvements following training; however, these observations are hypothesis-generating and cannot be interpreted as evidence of a rehabilitative effect. Larger randomised controlled studies are needed to determine whether repeated exposure to assisted gait translates into sustained functional gains.",
+   "doi": "10.3389/fmed.2026.1814298",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42780983/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42656853",
    "title": "Extended-Duration High-Voltage Pulsed Current Stimulation for Persistent Lateral Ankle Pain With Local Hypersensitivity After Talonavicular Coalition Resection: A Case Report.",
    "journal": "Cureus",
@@ -1492,6 +1521,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42788174",
+   "title": "Global Research Trends in Metatarsal Stress Fractures in Athletes.",
+   "journal": "Orthop Rev (Pavia)",
+   "year": "2026",
+   "authors": [
+    "Kalidindi D",
+    "Gadikota P",
+    "Viswanath O",
+    "Ganti L"
+   ],
+   "abstract": "Metatarsal Stress Fractures (MSFs) are commonly occurring overuse injuries for athletes and soldiers. This paper investigated publication patterns, top authors, networks, and themes associated with MSFs. Bibliometric analysis of publications on MSFs published during the period from 1970-2026 was carried out using the Web of Science Core Collection. Network and visualization of bibliometric analyses were carried out using VOSviewer. A total of 479 publications were identified. There has been a significant rise in research output following 2011, peaking during 2017-2025 years. Subject categories with highest publication outputs were Orthopedics and Sport Sciences; the most active countries are the United States, England, and Japan; JA Nunley is the most prolific author, whereas Foot & Ankle International is the most popular journal; keywords include Jones' fractures, 5th metatarsal fracture, surgical intervention, and return to play. Increase in publication outputs likely reflects rising sports participation levels and advances in sports medicine. Nevertheless, the majority of research is centered around Jones' fractures, surgery, with minimal interest in preventive strategies, metabolism-related risk factors, and minor metatarsal stress fractures. Future research should focus on prevention methods, metabolism, and scientific approaches to returning to sport activities.",
+   "doi": "10.52965/001c.169724",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42788174/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42773482",
    "title": "How are biomechanical and psychosocial factors associated with injuries across one season in Swedish elite and sub-elite female soccer players?",
    "journal": "BMC Sports Sci Med Rehabil",
@@ -1512,6 +1568,33 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42785721",
+   "title": "Identifying Determinants of Asymmetrical Biomechanics During Single- and Double-Limb Countermovement Jumps 2\u00a0Years Following Anterior Cruciate Ligament Reconstruction.",
+   "journal": "J Appl Biomech",
+   "year": "2026",
+   "authors": [
+    "Gohil AM",
+    "Owen M",
+    "Samaan MA",
+    "Noehren B"
+   ],
+   "abstract": "After anterior cruciate ligament reconstruction (ACLR), individuals often demonstrate asymmetrical lower-extremity biomechanics and suboptimal vertical jump performance. These deficits have negative implications for reinjury risk and ability to return to sport. This study aims to quantify asymmetrical lower-extremity (hip, knee, and ankle) biomechanics and identify modifiable impairments contributing to altered knee joint mechanics and vertical jump performance after ACLR. Twenty-four individuals (19.6 [3.4]\u00a0mo post-ACLR) performed isometric and isokinetic knee extensor strength testing followed by single- and double-limb vertical jumps using 3D motion capture. We found no differences in lower-extremity kinematics but did observe reduced peak knee extensor moment and joint power in the ACL-involved limb during both jumps. Furthermore, quadriceps peak torque and rate of torque development were significantly associated with propulsive knee joint power and vertical jump height. The findings from this study highlight that individuals demonstrate persistent knee joint underloading 2\u00a0years following ACLR that is related to inadequate quadriceps peak torque and rate of torque development. Clinicians should prioritize restoration of quadriceps peak torque and rate of torque development to improve knee joint kinetics, vertical jump performance, and overall readiness to return to competitive sport.",
+   "doi": "10.1123/jab.2026-0134",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42785721/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1542,6 +1625,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42784388",
+   "title": "Infrared Thermography Reveals Recurrent Thermal Asymmetry Patterns Rather than Stable Thermal Phenotypes in Elite Under-18 Soccer Players: A Prospective Longitudinal Observational Study.",
+   "journal": "Sports (Basel)",
+   "year": "2026",
+   "authors": [
+    "Di Martino A",
+    "Aliberti SM",
+    "Nurzynska D",
+    "Canonico R",
+    "et al."
+   ],
+   "abstract": "Evidence regarding the longitudinal use of infrared thermography in elite under-18 soccer players remains limited. Most previous studies have relied on cross-sectional designs or short observation periods. This prospective longitudinal observational study monitored 18 elite under-18 male outfield soccer players across 16 official matches (96 valid assessments). Thermographic evaluations were performed 48 h post-match under standardized conditions across six bilateral lower-limb regions. A thermal asymmetry was defined as relevant if \u0394Tsk \u2265 0.5 \u00b0C. Linear mixed-effects models, paired t-tests and chi-square tests were used for statistical analysis. Relevant asymmetries were detected in 79.2% of assessments (mean maximum \u0394Tsk 0.77 \u00b1 0.43 \u00b0C). Posterior Thigh BF (40.6%) and Posterior Thigh ST (35.4%) showed the highest prevalence (\u03c72 = 16.31, p = 0.006). Significant side-to-side differences were found for Anterior Thigh (p = 0.004), Adductor (p = 0.039) and Posterior Thigh BF (p = 0.032). The intraclass correlation coefficient for Thermal Asymmetry Burden was very low (ICC = 0.024). Fifteen athletes (83.3%) showed recurrent asymmetry and 13 (72.2%) showed a recurrent same-region pattern. Match-to-match variation in TAB was significant (Kruskal-Wallis p = 0.025; ANOVA p = 0.011). No time-loss muscle injuries occurred. Post-match thermal asymmetries are highly prevalent in elite youth soccer and appear to reflect dynamic, load-dependent recovery responses rather than stable thermal phenotypes. Longitudinal thermographic monitoring may help characterise individual recovery patterns when interpreted alongside other monitoring tools.",
+   "doi": "10.3390/sports14090392",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42784388/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42745801",
@@ -1596,34 +1707,6 @@
      "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42645767",
-   "title": "Machine Learning Model Development and Evaluation for Non-contact Lower Limb Injury Risk Prediction in Elite Male Rugby Union: A Multi-team, Multi-season Analysis.",
-   "journal": "Sports Med Open",
-   "year": "2026",
-   "authors": [
-    "Leckey C",
-    "van Dyk N",
-    "Berndsen J",
-    "Doherty C",
-    "et al."
-   ],
-   "abstract": "The prevalence, incidence rate and burden of injuries are high in rugby union. Despite the growing application of machine learning for injury risk analysis in sport, its use in rugby union has been primarily confined to single-team and single-season study cohorts. The aim of this study was to evaluate the performance of machine learning-based injury risk prediction models in elite male rugby union and to interpret their potential applicability in professional sporting environments. Multi-season data (2021/22-2023/24) relating to 129 professional male rugby union players from the four Irish provincial teams (Connacht Rugby, Leinster Rugby, Munster Rugby and Ulster Rugby), along with the Ireland men's national team, were included in the analyses. External workload data from Global Navigation Satellite System (GNSS) units, self-perceived wellness scores, and musculoskeletal screening measures were modelled using logistic regression, Support Vector Machine (SVM), Random Forest, Extreme Gradient Boosting (XGBoost), and Categorical Boosting (CatBoost). 'Injury' was defined as a non-contact, soft-tissue injury to the lower limb, with incidents logged by team medical staff in a centralised athlete management system. CatBoost achieved the highest values of area under the receiver operating characteristic curve (ROC AUC\u2009=\u20090.66), area under the precision-recall curve (AUPRC\u2009=\u20090.008, prevalence\u2009=\u20090.0039), and precision (0.013). Predictive performance across the models was poor, with low precision scores highlighting each model's inability to effectively identify impending injuries. The resulting high false-positive rate (1 correct prediction for every 77 false predictions) underscores the limited applicability of the tested machine learning approaches within the modelling framework analysed in this study.",
-   "doi": "10.1186/s40798-026-01060-7",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42645767/",
-   "matched": [
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
@@ -2006,6 +2089,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42780891",
+   "title": "Prevalence, burden and risk markers of health problems in HYROX athletes: a 12-week prospective cohort study.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Chittenden E",
+    "Bell A",
+    "Forbes G",
+    "Tooth P",
+    "et al."
+   ],
+   "abstract": "HYROX is a rapidly growing fitness competition combining eight 1-km running intervals with eight functional fitness stations. This study investigated the epidemiology and markers of health problems in HYROX athletes. Eighty-nine HYROX athletes (56 female) completed the 'Oslo Sports Trauma Research Center Questionnaire on Health Problems' (OSTRC-H2) weekly for 12 weeks, alongside exposure reporting and a baseline questionnaire. In an exploratory analysis, potential risk markers (age, sex, previous injury and HYROX experience) for cumulative injury severity were examined using negative binomial regression with an exposure offset. The mean weekly response rate was 62%. The pooled weekly prevalence of any health problem was 30% (95% CI 24% to 37%), with a substantial-problem prevalence of 18% (95% CI 13%-24%). Injury incidence was 14.4 (95% CI 11.1-18.4) per 1,000\u2005h, with a time-loss incidence of 6.4 (95% CI 4.3-9.2); injuries attributed to HYROX training accounted for two thirds of episodes (9.6 per 1,000\u2005h). Overuse injuries accounted for 73% of injuries. The knee was the most frequently injured region (22% of episodes) and, with the lower leg, carried the greatest burden; the elbow ranked third for burden on the basis of four episodes, two of them persistent, while shoulder injuries were near-absent. Previous injury carried the largest rate ratio for cumulative severity, at 2.60 (95% CI 1.00-6.75), an interval also compatible with no association. Health problems were common in HYROX athletes and dominated by overuse injuries. The burden was led by the lower limb, consistent with the sport's running load, with a possible elbow contribution from two persistent injuries and a near-absence of shoulder problems, a combination that may distinguish the profile from other extreme conditioning programme training but which rests on few cases. Only half of problems involved time-loss, so missed-training-day surveillance understates the burden. Previous injury is a candidate risk marker requiring confirmation in larger cohorts.",
+   "doi": "10.3389/fspor.2026.1937574",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42780891/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42699755",
    "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
    "journal": "Afr J Emerg Med",
@@ -2169,39 +2280,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42644766",
-   "title": "Seven-year prospective injury surveillance study of lateral ankle sprains in Japanese collegiate men's basketball: epidemiology and mechanisms.",
-   "journal": "Phys Sportsmed",
-   "year": "2026",
-   "authors": [
-    "Sekine Y",
-    "Kim SG",
-    "Komatsu T",
-    "Koyama T",
-    "et al."
-   ],
-   "abstract": "To investigate the incidence, characteristics, and injury mechanisms of lateral ankle sprain (LAS) among Japanese collegiate men's basketball players over seven competitive seasons and describe the epidemiological characteristics relevant to injury prevention. Injury surveillance data were obtained from the Kanto Collegiate Basketball Federation across the 2018/2019 and 2024/2025 seasons (27 team-seasons). LAS were extracted from all reported injuries classified according to the International Olympic Committee consensus statement on injury surveillance. Proportional differences in injury history, contact mechanism, movement type, and time loss (days absent from participation) were analyzed. Of the 269 reported ankle sprains, 247 (91.8%) involved LAS. The median time loss was 6\u2009days. Recurrent injuries accounted for 55.1% of LAS cases and resulted in a significantly longer time loss than new injuries (p\u2009=\u20090.022). Contact-related LAS accounted for 64% of the cases, with stepping on another player's foot being the most common mechanism (32%). Jumping was the most frequent movement-associated mechanism (35.2%), resulting in greater time loss than agility-related injuries (p\u2009=\u20090.023). LAS is highly prevalent among Japanese collegiate men's basketball players. The findings highlight the need for preventive strategies that address LAS and extrinsic injury mechanisms.",
-   "doi": "10.1080/00913847.2026.2725556",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42644766/",
-   "matched": [
-    {
-     "id": "lateral-sprain-epi",
-     "label": "Lateral ankle sprain \u2014 epidemiology & incidence",
-     "bucket": "research"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42775945",
@@ -2472,67 +2550,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42644620",
-   "title": "The Superior Fascicle of the Anterior Talofibular Ligament Functions as a Restraint Against Internal Rotation: A Cadaveric Biomechanical Study.",
-   "journal": "Foot Ankle Int",
-   "year": "2026",
-   "authors": [
-    "Koyama T",
-    "Teramoto A",
-    "Mori Y",
-    "Murahashi Y",
-    "et al."
-   ],
-   "abstract": "Lateral ankle sprains frequently result in anterior talofibular ligament (ATFL) dysfunction, leading to chronic lateral ankle instability. The ATFL consists of superior and inferior fascicles; however, the stabilizing role of the superior fascicle remains unclear. We biomechanically evaluated its function using cadaveric models. Nine frozen cadaveric ankles were tested using a robotic system (FRS2015). The superior fascicle was sequentially transected arthroscopically to simulate cumulative 3 injury types: type 1, partial detachment at the medial margin of the fibular attachment; type 2, proximal detachment; and type 3, complete detachment. Anterior talar translation, internal rotation, and inversion angles relative to the tibia were measured as displacements under the anterior drawer, internal rotation, and inversion loads, respectively, at 15\u00b0 dorsiflexion and 15\u00b0 and 30\u00b0 plantarflexion. In situ forces and ankle kinematics were also measured. Internal rotation displacement at 30\u00b0 plantarflexion was significantly greater in type 3 than in the intact (mean difference, 2.9\u00b0; 95% CI, 0.6\u00b0-5.0\u00b0; P\u2009=\u2009.01), type 1 (mean difference, 2.6\u00b0; 95% CI, 0.5\u00b0-4.8\u00b0; P\u2009=\u2009.02), and type 2 (cumulative with type 1; mean difference, 2.5\u00b0; 95% CI, 0.4\u00b0-4.5\u00b0; P\u2009=\u2009.02). With the numbers available, no significant differences were found among intact, type 1, and type 2, nor in anterior or inversion displacement across any conditions. The in situ force was greater in type 3 than in type 1 during anterior drawer and internal rotation loading, and ankle kinematics did not differ. Partial injury to the superior fascicle of the ATFL was not associated with a statistically significant difference in ankle instability under the tested conditions, whereas complete injury was associated with significantly greater internal rotational displacement. Injury to the superior fascicle of the ATFL is associated with increased internal rotational laxity, supporting the use of internal rotation testing, such as the anterolateral drawer test, when evaluating suspected ATFL injury.",
-   "doi": "10.1177/10711007261472466",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42644620/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42642769",
-   "title": "The variable stiffness orthosis: customizable mechanics for assistance and rehabilitation.",
-   "journal": "J Neuroeng Rehabil",
-   "year": "2026",
-   "authors": [
-    "Van Crey N",
-    "Lam D",
-    "Bywater E",
-    "Shepherd M",
-    "et al."
-   ],
-   "abstract": "Challenges with community mobility are among the most prevalent disabilities worldwide, yet the passive orthoses available for daily use have remained largely unchanged for centuries. In contrast, the powered orthoses developed by researchers have advanced rapidly, but without a matching rate of user impact. To date, there are no powered ankle-foot orthoses available for daily use, stemming from challenges with reliability, safety, weight, noise, and cost. This work aims to explore the untapped potential of passive mechanisms, as a pathway that could more rapidly translate improved functionality to the people who rely on orthoses. To this end, we developed an orthosis with passive and quasi-passive mechanisms that render capabilities typically attributed to powered devices, blurring the line between powered and passive functionality. In this work, we present the Variable Stiffness Orthosis, an ankle-foot orthosis that strikes a balance between powered and passive orthoses in terms of functionality and daily-use practicality. The Variable Stiffness Orthosis has torque-angle relationships that can be customized with a cam-based transmission, interchanged between gait phases with a cam-switching mechanism, and softened or stiffened between activities with a motorized spring support. These mechanisms enable precise control over the torque-angle relationship, including continuously variable stiffness, decoupled energy storage and return, step-to-step adjustment of stiffness magnitude, exchanging energy between gait phases, changing equilibrium angle between gait phases, negative stiffness, and extreme stiffness. These capabilities were validated on a rotary dynamometer and pilot tested on participants with and without sciatic nerve injury. Dynamometer testing verified the capabilities of the VSO. In pilot testing, the participants had activity-dependent stiffness preferences spanning a large range. Using the VSO, the participant with sciatic nerve injury had reduced foot drop, increased total ankle moments, reduced biological ankle moments, reduced toe striking, and reduced steppage on their AFO side compared to walking with and without their daily-use device. This work demonstrated that the passive and quasi-passive mechanisms within the VSO can replicate many powered functions, extending the capabilities of unpowered devices. The VSO also showed promise as a daily-use device, a clinical tool for orthotic prescription, and a research tool for investigating unexplored passive mechanics.",
-   "doi": "10.1186/s12984-025-01805-7",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42642769/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],

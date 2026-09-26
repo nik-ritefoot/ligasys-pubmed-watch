@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-09-25T18:03:21Z</updated>
+  <updated>2026-09-26T17:22:34Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Position-Dependent Stability of an Unconstrained Total Talar Replacement and Its Suture Reinforcement: A Human Cadaveric Weight-Bearing Computed Tomography Study.</title>
+    <id>urn:pmid:42791862</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42791862/" rel="alternate"/>
+    <updated>2026-09-26T17:22:34Z</updated>
+    <published>2026-09-26T17:22:34Z</published>
+    <author><name>Raykov G</name></author><author><name>Penev P</name></author><author><name>Gehweiler D</name></author><author><name>Barcik J</name></author><author><name>et al.</name></author>
+    <category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Raykov G, Penev P, Gehweiler D, Barcik J, et al. · Bioengineering (Basel) · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Total talar replacement (TTR) is a joint-preserving alternative to arthrodesis in end-stage talar collapse. However, excising the talus detaches its anchoring ligaments and capsule, and unconstrained prosthesis constructs are prone to malalignment and dislocation. Moreover, it remains unclear whether the instability and its suture stabilisation vary across foot positions. Therefore, the aim of this study was to quantify the positional, load-dependent stability of an unconstrained TTR and the effect of its suture stabilisation. Five human cadaveric lower legs were imaged by weight-bearing computed tomography (CT) imaging in nine positions under 10 N and 700 N load in the intact condition and then with an unconstrained custom 3D-printed specimen-specific TTR, followed by supplementary transosseous suture stabilisation of the anterior talofibular ligament (ATFL) and deep tibiotalar deltoid in the third condition. In the intact ankle condition, load-induced displacements were minimal and unaffected by foot position, averaging no more than 0.52 mm and 0.62°. The unconstrained TTR exhibited position-dependent load-induced displacements, with talar shift increasing significantly by 2.29 mm in inversion and calcaneofibular distance decreasing significantly by 1.54 mm in eversion compared with the intact ankle condition (p ≤ 0.033). Suture stabilisation significantly decreased talar shift by 1.45 mm in inversion and significantly increased calcaneofibular distance by 1.37 mm in eversion, restoring these load-induced displacements toward the intact ankle condition (p = 0.002). In this human cadaveric weight-bearing CT imaging study, an unconstrained TTR benefited from suture reconstruction of the ATFL and deep tibiotalar deltoid attachments, highlighting the value of evaluating construct stability under load across the range of foot positions rather than in neutral stance alone.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3390/bioengineering13090990&quot;&gt;10.3390/bioengineering13090990&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42791862/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Comprehensive Management of Foot and Ankle Conditions and Their Biopsychosocial Impact on Patients Diagnosed with Rheumatoid Arthritis.</title>
     <id>urn:pmid:42783399</id>

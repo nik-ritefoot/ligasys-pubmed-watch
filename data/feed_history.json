@@ -1,5 +1,154 @@
 [
  {
+  "pmid": "42789776",
+  "title": "Balance Wood, a Bilateral Ankle-Controlled Serious Game for Healthy Adults: 2-Stage Cross-Sectional Development and Usability Study.",
+  "journal": "JMIR Serious Games",
+  "year": "2026",
+  "authors": [
+   "Zhang Y",
+   "Yamamoto J",
+   "Han T",
+   "Song Q",
+   "et al."
+  ],
+  "abstract": "Ankle mobility and control contribute to balance and everyday movement throughout adulthood, yet are usually assessed through repetitive, abstract tasks that reveal little about movement production. Serious games can make repeated tasks engaging, but most report only end point scores rather than continuous gameplay signals, and few establish system usability. Developing and evaluating such a system in healthy adults is a necessary first step. This study aimed to develop Balance Wood, a bilateral ankle-controlled serious game in which seated players tilt a device through ankle flexion-extension to control on-screen play, to describe the system and the signals it records, and to evaluate its usability, safety, and user experience in healthy adults. In this two-stage cross-sectional development and usability study, healthy adults without lower-limb injury or balance-affecting neurological or vestibular disorders completed single-session repeated-measures procedures. In stage 1, a total of 40 adults-20 older (mean age 73.0, SD 5.9 y; 10 women) and 20 younger (mean age 28.1, SD 3.2 y; 4 women) adults-completed 3 fixed-order difficulty levels in 1 session (exploratory signal analysis). In stage 2, a total of 18 younger adults (mean age 24.6, SD 3.9 y; 5 women) completed the levels in counterbalanced order. Usability was assessed with the System Usability Scale (0-100); use impressions and consciously used body parts with Likert and open-ended items; and device tilt-angle accuracy against a digital goniometer. The mean System Usability Scale score was 81.5 (SD 11.2; 95% CI 76.0-87.1; Cronbach \u03b1=.74), above the benchmark of 68, indicating good perceived usability. Mean ratings were 2.11 (SD 1.32) for safety concern (95% CI 1.45-2.77) and 1.67 (SD 1.03) for pain (95% CI 1.15-2.18). Ankle use was highest at 4.94 (SD 0.24), exceeding knee 2.50 (SD 1.29), hip 2.00 (SD 1.24), and trunk 2.17 (SD 1.15) by Wilcoxon signed-rank tests (P<.001). Device readings agreed closely with the goniometer, with a mean absolute error of 0.66\u00b0, an intraclass correlation coefficient of 0.999, and 95% limits of agreement of -0.68 to 1.70\u00b0. In stage 1, all measures were computable for the 40 participants, with typical amplitudes of 20.5\u00b0 to 27.2\u00b0 and stable speed in both groups. In stage 2, repeated-measures analyses (\u03b1=.05) did not detect statistically significant differences across difficulty conditions or presentation positions (all P>.13). In healthy adults, Balance Wood was usable, well-accepted, low-risk, and provided accurate device-level tilt measurement with predominantly ankle-based control while continuously recording gameplay signals. It is a low-cost, bilateral, ankle-specific control interface with continuous signal capture into 1 easy-to-use device. Its contribution is a reproducible, usability-tested platform with characterized device accuracy, and formally defined candidate measures awaiting validation. Once validated, it could support home- or community-based recording; in the near term, it is a research tool.",
+  "doi": "10.2196/96617",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42789776/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
+  "pmid": "42795382",
+  "title": "Long-Term Injury Patterns and Trends in Elite Professional Football: A Nine-Season Retrospective Analysis of Prospectively Recorded Data.",
+  "journal": "Life (Basel)",
+  "year": "2026",
+  "authors": [
+   "Bandalovi\u0107 A",
+   "Ver\u0161i\u0107 \u0160",
+   "\u0160komrlj J",
+   "Pranji\u0107 T",
+   "et al."
+  ],
+  "abstract": "Long-term injury surveillance in professional football is essential for understanding temporal changes in injury patterns. However, prospective studies spanning multiple consecutive seasons within the same professional club remain scarce. This study aimed to investigate injury epidemiology, temporal trends, and injury characteristics over nine consecutive seasons in an elite Croatian professional football club. This retrospective longitudinal study over nine competitive seasons (2015/16-2023/24) included 167 male players participating in the professional first-team environment from a single professional football club, contributing a total of 382 player-seasons across nine consecutive seasons. A total of 749 time-loss injuries were recorded according to the FIFA Medical Assessment and Research Centre (F-MARC) consensus recommendations. Temporal trends were evaluated using Joinpoint regression, while injury characteristics, anatomical distribution, tissue involvement, and injury burden were analysed descriptively. Overall injury incidence averaged 12.66 injuries per 1000 h of exposure (95% CI: 11.77-13.60), with substantially higher incidence during matches (50.13 injuries/1000 h) than training (7.97 injuries/1000 h). Joinpoint regression identified a non-significant annual decline in injury incidence before the COVID-19 season (2019/2020) (APC = -9.66%), followed by a non-significant increase thereafter (APC = 4.88%). At least one injury was recorded in 295 player-seasons, corresponding to 77.2% of all eligible player-seasons. More than 80% of all injuries involved the lower extremities, while muscle injuries accounted for almost half of all recorded injuries. Functional muscle disorders were the most frequent injury type, whereas meniscal and articular cartilage injuries were associated with the highest mean time loss per injury. The predominance of lower-limb muscle injuries, together with the substantial burden associated with less frequent intra-articular knee injuries, highlights key priorities for injury prevention in professional football. Long-term surveillance within the same club provides valuable insights into evolving injury patterns and supports the development of targeted strategies to maximise player availability.",
+  "doi": "10.3390/life16091517",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42795382/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
+  "pmid": "42791900",
+  "title": "Patient-Reported Knee Function Versus Star Excursion Balance Performance as Correlates of Psychological Return-to-Sport Readiness After Anterior Cruciate Ligament Reconstruction.",
+  "journal": "Bioengineering (Basel)",
+  "year": "2026",
+  "authors": [
+   "Halvorson RT",
+   "Foley A",
+   "Sampson H",
+   "Nosrat C",
+   "et al."
+  ],
+  "abstract": "Background: Psychological readiness, quantified by the Anterior Cruciate Ligament Return to Sport after Injury (ACL-RSI) scale, is one of the most consistent correlates of return-to-sport success following ACL reconstruction. Whether psychological readiness reflects an independent construct or is related to measured functional performance is not known. Purpose: To evaluate the associations between patient-perceived knee function and objective performance on a functional task, as quantified by traditional scoring, kinematics, and motion quality, and psychological readiness 9 to 12 months after ACL reconstruction. Methods: In this cross-sectional study, forty patients performed the Star Excursion Balance Test using a validated markerless motion capture system. Three biomechanical domains derived from that task (reach distance, lower-extremity kinematics, and a time-series motion quality index) were evaluated against psychological readiness, with patient-reported function (as measured by the Knee Injury and Osteoarthritis Outcomes Score [KOOS-12]) as a comparator. Associations were estimated using multivariable regression adjusted for age, sex, body mass index, and limb length. Relative contributions were evaluated with variance decomposition, and Bayes factors quantified the strength of evidence for or against each association. Results: Patient-perceived knee function was strongly associated with psychological readiness (standardized \u03b2 = 0.58; 95% confidence interval, 0.29 to 0.87; BF10 = 249), whereas no biomechanical domain derived from the functional task reached statistical significance (all |\u03b2| \u2264 0.34; all |r| \u2264 0.3). In the combined model (total R2 = 0.463), variance decomposition attributed 89.3% of explained variance in psychological readiness to patient-perceived knee function, versus 6.9% for reach distances, 2.4% for motion quality, and 1.4% for lower extremity kinematics. Bayes factors favored the null for each biomechanical domain, but reached only anecdotal strength (BF01, 1.3-2.8). Conclusion: In this cross-section, psychological readiness after ACL reconstruction more closely aligned with patient-perceived knee function than biomechanical performance on the SEBT, indicating that perceived function and biomechanical performance on certain tasks may be divergent at the time of return-to-sport clearance. These findings support the routine inclusion of patient-reported outcome measures alongside functional testing in multi-domain return-to-sport assessment.",
+  "doi": "10.3390/bioengineering13091028",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42791900/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
+  "pmid": "42791862",
+  "title": "Position-Dependent Stability of an Unconstrained Total Talar Replacement and Its Suture Reinforcement: A Human Cadaveric Weight-Bearing Computed Tomography Study.",
+  "journal": "Bioengineering (Basel)",
+  "year": "2026",
+  "authors": [
+   "Raykov G",
+   "Penev P",
+   "Gehweiler D",
+   "Barcik J",
+   "et al."
+  ],
+  "abstract": "Total talar replacement (TTR) is a joint-preserving alternative to arthrodesis in end-stage talar collapse. However, excising the talus detaches its anchoring ligaments and capsule, and unconstrained prosthesis constructs are prone to malalignment and dislocation. Moreover, it remains unclear whether the instability and its suture stabilisation vary across foot positions. Therefore, the aim of this study was to quantify the positional, load-dependent stability of an unconstrained TTR and the effect of its suture stabilisation. Five human cadaveric lower legs were imaged by weight-bearing computed tomography (CT) imaging in nine positions under 10 N and 700 N load in the intact condition and then with an unconstrained custom 3D-printed specimen-specific TTR, followed by supplementary transosseous suture stabilisation of the anterior talofibular ligament (ATFL) and deep tibiotalar deltoid in the third condition. In the intact ankle condition, load-induced displacements were minimal and unaffected by foot position, averaging no more than 0.52 mm and 0.62\u00b0. The unconstrained TTR exhibited position-dependent load-induced displacements, with talar shift increasing significantly by 2.29 mm in inversion and calcaneofibular distance decreasing significantly by 1.54 mm in eversion compared with the intact ankle condition (p \u2264 0.033). Suture stabilisation significantly decreased talar shift by 1.45 mm in inversion and significantly increased calcaneofibular distance by 1.37 mm in eversion, restoring these load-induced displacements toward the intact ankle condition (p = 0.002). In this human cadaveric weight-bearing CT imaging study, an unconstrained TTR benefited from suture reconstruction of the ATFL and deep tibiotalar deltoid attachments, highlighting the value of evaluating construct stability under load across the range of foot positions rather than in neutral stance alone.",
+  "doi": "10.3390/bioengineering13090990",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42791862/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
+  "pmid": "42789327",
+  "title": "Rationale, Design, and Baseline Characteristics of the TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) Cohort of Older Adults for Assessing Fall and Fracture Risk: Prospective Cohort Study.",
+  "journal": "JMIR Aging",
+  "year": "2026",
+  "authors": [
+   "Chan A",
+   "Visaria A",
+   "Malhotra R",
+   "Singh NB",
+   "et al."
+  ],
+  "abstract": "Falls and fractures are a major clinical concern for older adults. International clinical guidelines recommend annual fall risk screening for all adults aged 60 years and older. However, existing falls risk-screening algorithms have shown limited sensitivity and specificity in detecting future falls. Emerging health technologies, including wearable sensors, in-silico finite element models (FEMs), and virtual reality (VR) technology, show promise in enhancing fall and fracture risk assessments by providing more personalized objective data to support targeted primary prevention. However, large-scale longitudinal studies are required to evaluate their predictive accuracy and cost-effectiveness for systematic community-based screening. The TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) study is an ongoing national prospective cohort study in Singapore designed to develop cost-effective and scalable frameworks for the early detection and prevention of falls and fractures using novel health technologies. This paper describes the rationale, design, and baseline characteristics of TARGET, and provides preliminary insights into how these novel technologies perform in discriminating between older adults with and with no history of falls at study baseline. A total of 2291 community-dwelling Singapore residents aged \u226560 years were enrolled between 2022 and 2024. Participants underwent a comprehensive baseline fall risk assessment comprising (1) home-based interview to assess sociodemographic, anthropometric, cognitive, physical, functional, and psychosocial status; (2) gait assessment using wearable inertial measurement units (IMUs) motion sensors; (3) dual-energy X-ray absorptiometry and whole-body 3D scans to construct subject-specific FEMs; and (4) VR-based cognitive assessment to probe spatial navigation deficits. Prospective follow-up for 2 years is ongoing, with linkage to national electronic medical records (EMRs) to obtain detailed clinical, medication, and pathological data. Of the total cohort, 58% (1327/2291) were female, with a mean age of 74.6 years at baseline. TARGET represents a relatively healthy older adult population, with 83% (1898/2291) remaining fully independent, 44% (1016/2290) with mild cognitive impairment, 50% (440/879) with osteopenia, and 15% (358/2291) reporting falls in the past year. Significant baseline functional, psychosocial, cognitive, and biomechanical differences were identified between fallers and nonfallers. Fallers had poorer physical and psychosocial health, greater gait variability, and a higher risk of osteoporotic fractures. Novel risk prediction models integrating epidemiological, IMUs, FEM, VR, and EMR data are in development and being validated against gold standard clinical assessments, with cost-effectiveness evaluations of the economic feasibility of adopting these screening measures at scale. Leveraging comprehensive epidemiological, EMR, and health technology data, TARGET is well positioned to identify novel biomarkers and systemic interactions that may predict falls and fracture risk, with potential application to other age-related diseases with shared pathophysiology. In particular, TARGET's focus on community-based screening using technologies that can be administered by nonclinical personnel has the potential to reduce substantial burden and costs within the health care sector.",
+  "doi": "10.2196/89285",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42789327/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
+  "pmid": "42794249",
+  "title": "The Unique Features of Pediatric Sports Injuries: The Hip.",
+  "journal": "Children (Basel)",
+  "year": "2026",
+  "authors": [
+   "Henry L",
+   "Funk K",
+   "Yen YM",
+   "Abzug J"
+  ],
+  "abstract": "Sports-related injuries of the hip and groin have demonstrated increasing prevalence in pediatric and adolescent athletes. Pediatric injuries require specific consideration of unique factors such as skeletal maturity, apophyseal vulnerability, physeal closure status, and growth-related changes in injury pattern. These injuries include a variety of conditions, including apophyseal injuries, hip dislocations, coxa saltans (snapping hip), femoroacetabular impingement syndrome (FAIS), and stress fractures. Injuries such as hip dislocation and high-risk femoral neck stress fracture require urgent diagnosis and management; however, timely diagnosis and appropriate management is necessary for all pediatric hip injuries to prevent delays in return to sport and long-term complications. The literature synthesized in this narrative review includes randomized controlled trials, systematic reviews, prospective and retrospective studies, and consensus statements to provide a summary of each injury. An overview of pediatric sports injuries of the hip, with emphasis on the epidemiology, presentation, diagnosis, management, and complications, is presented.",
+  "doi": "10.3390/children13091229",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42794249/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-26T17:22:34Z"
+ },
+ {
   "pmid": "42787447",
   "title": "Baseline PTSD and depressive symptoms predict multidimensional recovery after combat-related transtibial amputation: a prospective cohort study.",
   "journal": "Front Rehabil Sci",
