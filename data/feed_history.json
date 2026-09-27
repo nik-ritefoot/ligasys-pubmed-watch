@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42799712",
+  "title": "Exposure-adjusted injury incidence and the impact of surveillance definitions in handball: a systematic review and meta-analysis of prospective cohort studies.",
+  "journal": "Res Sports Med",
+  "year": "2026",
+  "authors": [
+   "Naderi A",
+   "Shaabani F",
+   "Alghosi M",
+   "Wedderkopp N",
+   "et al."
+  ],
+  "abstract": "Handball carries a substantial injury burden, though reported incidence varies. This systematic review and meta-analysis quantified exposure-adjusted injury incidence in handball by synthesizing prospective cohort studies. Sixteen studies (11,049 players) were included. The pooled overall injury incidence was 5.05 per 1,000\u2009hours; however, substantial heterogeneity was observed and prediction intervals were wide. Match incidence was significantly higher than training incidence, and contact injuries exceeded non-contact injuries. Notably, the difference between non-time-loss and time-loss injuries was not statistically significant (p\u2009=\u20090.058). Back players had significantly higher match injury rates than goalkeepers, and elite players exceeded amateurs. The knee and ankle were the most frequently injured anatomical locations, predominantly sustaining contusions and sprains. These findings emphasize the need for standardized surveillance and targeted prevention for match-related contact injuries, while highlighting that pooled rates require cautious interpretation due to extreme between-study variability.",
+  "doi": "10.1080/15438627.2026.2736776",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42799712/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-27T17:56:09Z"
+ },
+ {
+  "pmid": "42801274",
+  "title": "Metatarsal Strains During Loading and Motion of the Foot and Ankle in a Cadaveric Model.",
+  "journal": "J Orthop Res",
+  "year": "2026",
+  "authors": [
+   "Nicolescu JM",
+   "Le AH",
+   "Peterson AC",
+   "Rodriguez R",
+   "et al."
+  ],
+  "abstract": "Metatarsal bone stress injuries (BSI) are painful, overuse injuries commonly seen in athletes and military personnel. High strain magnitudes combined with repetitive loading cycles causes bone fatigue and microdamage accumulation. To protect against BSI, it is necessary to determine how to limit bone strain magnitude without sacrificing physical activity. This study examined maximum and minimum principal dorsal strains of metatarsals 2-4 during tibial dorsiflexion/plantarflexion, external/internal rotation, and varus/valgus alignment with four underfoot conditions. Five lower-limb cadaveric specimens were instrumented with strain gauges on metatarsals 2-4 and a robotic actuator applied 25% bodyweight and moved the ankle/foot through its envelope of passive motion. Dorsiflexion and varus tibial motion produced the greatest increase in strain magnitudes during all underfoot conditions. Adding half-inch blocks beneath the medial and lateral forefoot caused principal strain magnitudes to increase threefold within the metatarsals adjacent to the block across all motions. Passive engagement of the windlass mechanism during dorsiflexion caused approximately a threefold increase in maximum principal strain of metatarsals 2-3 coinciding with a significant decrease in metatarsal 4. The results emphasize the role that the arch and its supporting structures play in modulating metatarsal loading even within a passive model.",
+  "doi": "10.1002/jor.70281",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42801274/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-27T17:56:09Z"
+ },
+ {
   "pmid": "42789776",
   "title": "Balance Wood, a Bilateral Ankle-Controlled Serious Game for Healthy Adults: 2-Stage Cross-Sectional Development and Usability Study.",
   "journal": "JMIR Serious Games",
