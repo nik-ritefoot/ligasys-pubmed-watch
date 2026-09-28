@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42801787",
+  "title": "Unilateral Exoskeleton Training for Balance/Gait in Hemiplegic Stroke: Pilot Study.",
+  "journal": "Behav Neurol",
+  "year": "2026",
+  "authors": [
+   "Zhou S",
+   "Wang S",
+   "Qu X",
+   "Fan J",
+   "et al."
+  ],
+  "abstract": "The aim of this study is to evaluate the effects of a unilateral-lower limb exoskeleton rehabilitation training robot on balance and lower limb function after stroke. In this pilot study, stroke patients with hemiplegic at Tongji University Yangzhi Rehabilitation Hospital (between October 2022 and December 2023) were randomly assigned to either the robot group or the control group. The primary measure was the Berg balance scale (BBS), whereas secondary measures included the 10-m walking time test, 6-min walk test, three-dimensional gait analysis, and pain levels using the Hospital Anxiety and Depression Scale (HADS) and visual analogue scale (VAS). Among 36 post-stroke hemiplegia patients (25 males; 18 per group), the robot group significantly outperformed the traditional group. The robot group improved BBS scores (5.50\u2009\u00b1\u20092.09 vs. 3.11\u2009\u00b1\u20091.50, p\u2009<\u20090.001), 6-min walking distance (15.89\u2009\u00b1\u20098.64\u2009m vs. 9.73\u2009\u00b1\u20095.83\u2009m, p\u2009=\u20090.017), and 10-m walking time reduction (8.82\u2009\u00b1\u20093.22\u2009s vs. 6.83\u2009\u00b1\u20091.81\u2009s, p\u2009=\u20090.030). Gait parameters also showed greater gains: hip flexion (3.57\u00b0\u00b12.30\u00b0 vs. 1.72\u00b0\u00b12.15\u00b0, p\u2009=\u20090.018), knee flexion (5.28\u00b0\u00b14.89\u00b0 vs. 2.63\u00b0\u00b12.37\u00b0, p\u2009=\u20090.046), and ankle dorsiflexion (4.81\u00b0\u00b15.57\u00b0 vs. 1.09\u00b0\u00b14.19\u00b0, p = 0.030). Depression scores improved more in the robot group (2.89\u2009\u00b1\u20091.75 vs. 1.61\u2009\u00b1\u20091.20, p\u2009=\u20090.015). No significant differences occurred in anxiety or pain VAS scores (p\u2009>\u20090.05). Integrating a unilateral-lower limb exoskeleton rehabilitation robot with traditional therapy significantly enhances lower limb recovery in stroke patients with hemiplegia. Future large-scale randomized controlled trials and follow-up evaluations are needed to validate the current findings.",
+  "doi": "10.1155/bn/4208995",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42801787/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-28T20:13:25Z"
+ },
+ {
   "pmid": "42799712",
   "title": "Exposure-adjusted injury incidence and the impact of surveillance definitions in handball: a systematic review and meta-analysis of prospective cohort studies.",
   "journal": "Res Sports Med",
