@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T20:13:25+00:00",
+ "generated": "2026-09-29T18:51:05+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,35 +65,88 @@
   }
  ],
  "counts": {
-  "total": 81,
-  "new": 1,
-  "research": 23,
-  "fieldnotes": 58
+  "total": 84,
+  "new": 3,
+  "research": 25,
+  "fieldnotes": 59
  },
  "records": [
   {
-   "pmid": "42801787",
-   "title": "Unilateral Exoskeleton Training for Balance/Gait in Hemiplegic Stroke: Pilot Study.",
-   "journal": "Behav Neurol",
+   "pmid": "42803949",
+   "title": "Correlation analysis between ankle proprioception and biomechanical characteristics in patients with chronic ankle instability.",
+   "journal": "Acta Bioeng Biomech",
    "year": "2026",
    "authors": [
-    "Zhou S",
-    "Wang S",
-    "Qu X",
-    "Fan J",
-    "et al."
+    "Guo P",
+    "Wang J"
    ],
-   "abstract": "The aim of this study is to evaluate the effects of a unilateral-lower limb exoskeleton rehabilitation training robot on balance and lower limb function after stroke. In this pilot study, stroke patients with hemiplegic at Tongji University Yangzhi Rehabilitation Hospital (between October 2022 and December 2023) were randomly assigned to either the robot group or the control group. The primary measure was the Berg balance scale (BBS), whereas secondary measures included the 10-m walking time test, 6-min walk test, three-dimensional gait analysis, and pain levels using the Hospital Anxiety and Depression Scale (HADS) and visual analogue scale (VAS). Among 36 post-stroke hemiplegia patients (25 males; 18 per group), the robot group significantly outperformed the traditional group. The robot group improved BBS scores (5.50\u2009\u00b1\u20092.09 vs. 3.11\u2009\u00b1\u20091.50, p\u2009<\u20090.001), 6-min walking distance (15.89\u2009\u00b1\u20098.64\u2009m vs. 9.73\u2009\u00b1\u20095.83\u2009m, p\u2009=\u20090.017), and 10-m walking time reduction (8.82\u2009\u00b1\u20093.22\u2009s vs. 6.83\u2009\u00b1\u20091.81\u2009s, p\u2009=\u20090.030). Gait parameters also showed greater gains: hip flexion (3.57\u00b0\u00b12.30\u00b0 vs. 1.72\u00b0\u00b12.15\u00b0, p\u2009=\u20090.018), knee flexion (5.28\u00b0\u00b14.89\u00b0 vs. 2.63\u00b0\u00b12.37\u00b0, p\u2009=\u20090.046), and ankle dorsiflexion (4.81\u00b0\u00b15.57\u00b0 vs. 1.09\u00b0\u00b14.19\u00b0, p = 0.030). Depression scores improved more in the robot group (2.89\u2009\u00b1\u20091.75 vs. 1.61\u2009\u00b1\u20091.20, p\u2009=\u20090.015). No significant differences occurred in anxiety or pain VAS scores (p\u2009>\u20090.05). Integrating a unilateral-lower limb exoskeleton rehabilitation robot with traditional therapy significantly enhances lower limb recovery in stroke patients with hemiplegia. Future large-scale randomized controlled trials and follow-up evaluations are needed to validate the current findings.",
-   "doi": "10.1155/bn/4208995",
+   "abstract": "To compare ankle proprioception and biomechanical features between individuals with chronic ankle instability (CAI) and healthy controls, and to investigate the interplay between proprioceptive deficits and biomechanical alterations in CAI. Thirty-six male participants (18 CAI, 18 healthy controls) were recruited. Proprioception was evaluated using a joint position reproduction test, quantifying absolute errors. For biomechanical assessment, participants performed six single-leg hopping tests. An infrared motion-capture system (Vicon T40, 200\u2009Hz) and a force platform (Kistler, 1,000\u2009Hz) simultaneously captured ankle kinematics/kinetics. Ankle muscle activation was recorded via surface electromyography (Noraxon, 2,000 Hz). Participants with CAI demonstrated significantly greater joint position sense errors in plantarflexion (P = 0.002), dorsiflexion (P = 0.001), inversion (P = 0.011), and eversion (P = 0.022) compared with controls. Compared with healthy controls, individuals with CAI exhibited greater peak ankle inversion angles (P = 0.039), reduced peak ankle dorsiflexion angles (P = 0.029), and lower activation of the tibialis anterior (P = 0.019) and peroneus longus (P = 0.033) during single-leg landing. Correlation analyses indicated significant associations between inversion position sense errors and both peak ankle dorsiflexion angle (r = -0.584, P = 0.011) and peak ankle inversion angle (r = -0.622, P = 0.006) in the CAI group. Individuals with CAI exhibit impaired ankle proprioception and altered biomechanical characteristics compared with healthy controls. Decreased proprioception in the ankle was correlated with biomechanical defects. These findings suggest that proprioceptive impairments may contribute to persistent biomechanical abnormalities in CAI. Comprehensive interventions targeting proprioceptive enhancement may improve ankle biomechanics in this population.",
+   "doi": "10.37190/abb/224681",
    "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42801787/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42803949/",
    "matched": [
     {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42808434",
+   "title": "Design and biomechanical investigation of a patient-specific total talar prosthesis for total talar replacement: A finite element analysis.",
+   "journal": "Int J Artif Organs",
+   "year": "2026",
+   "authors": [
+    "Tabrej MQ",
+    "Kumar A",
+    "Biswas JK"
+   ],
+   "abstract": "Total talar replacement (TTR) is an emerging treatment for end-stage talar diseases, although concerns persist regarding ankle stability due to essential ligament transection. Further investigation is necessary regarding the biomechanical impact of patient-specific total talar prosthesis (TTP) on ankle stability and bone-implant mechanics. The purpose of this study is designing a patient-specific TTP and assess its biomechanical performance on ankle stability and stress distribution under various loading conditions using finite element analysis. A CT scan is used to create a 3D finite element model of the foot and ankle complex. The TTP made of A dual-material (UHMWPE talar body and titanium alloy cage) was created and fixed with five screws. Four loading conditions were simulated: inversion, eversion, dorsiflexion, and plantarflexion, with forces of 10\u2009N, 50\u2009N, 100\u2009N, and 150\u2009N. Talar tilt angles and von Mises stresses were examined for intact and implanted models. In comparison to the intact ankle, TTR significantly decreased the talar tilt angles in inversion (12.5%-16%), eversion (6.6%-14%), and dorsiflexion (33%-47%). On the other hand, plantarflexion produced a larger tilt (34%-44%). While bone stresses stayed below 5\u2009MPa, maximum implant stresses ranged from 20 to 80\u2009MPa. The validation of the model against cadaveric studies was reliable. The patient-specific TTP with screw fixation improves ankle stability in most loading directions, potentially compensating for ligament insufficiency. However, greater plantarflexion instability necessitates post-operative measures. These findings provide biomechanical evidence that fixation-enhanced TTP designs can improve therapeutic outcomes.",
+   "doi": "10.1177/03913988261486195",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42808434/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42808558",
+   "title": "Plate-Based Operative Management of Medial Malleolar Stress Fractures in High-Level Basketball Players: A Short Report.",
+   "journal": "Foot Ankle Int",
+   "year": "2026",
+   "authors": [
+    "O'Malley E",
+    "Kim J",
+    "O'Malley M"
+   ],
+   "abstract": "Medial malleolar stress fractures (MMSFs) are uncommon but potentially high-risk injuries in athletes. In basketball players, repetitive jumping, landing, and cutting may expose the characteristic vertical fracture pattern to substantial shear, yet sport-specific operative data remain limited. This study reports the outcomes of plate-based fixation for MMSFs in high-level basketball players. A retrospective case series was performed of 10 high-level basketball players treated surgically for MMSF between 2007 and 2025. All patients underwent radiography, magnetic resonance imaging, and computed tomography (CT). Operative treatment consisted of shear resisting plate-based fixation (one-third tubular anti-glide or hook plate) with fracture-perpendicular screws, selective bone grafting, biologic augmentation, and treatment of associated anterior impingement when indicated. Primary outcomes were radiographic union, return to play, and need for additional surgery. All patients were male, with a median age of 20.5\u2009years (range, 18-26). Median height was 205.5\u2009cm (IQR, 198-213), and the median weight was 103.5\u2009kg (IQR, 93-113). Eight players were professional and 2 were collegiate athletes later drafted professionally. CT demonstrated a vertically oriented fracture arising from the anteromedial tibial plafond in all cases. Union was achieved in all players. Nine returned to full team activities by 12\u2009weeks and to competitive play at a median of 4\u2009months (range, 3-4\u2009months). One player sustained a traumatic refracture 8\u2009months after index fixation, required 2 revision procedures, ultimately healed after supplemental anterior plating, and returned to play at 6\u2009months. Plate-based fixation was associated with reliable union and return to play, although revision surgery was required in 1 of 10 players. Given the consistent vertical fracture morphology and substantial sport-specific loading demands, shear resisting plating may be considered in this population. Level IV, case series.",
+   "doi": "10.1177/10711007261484949",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42808558/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -2240,6 +2293,35 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42801787",
+   "title": "Unilateral Exoskeleton Training for Balance/Gait in Hemiplegic Stroke: Pilot Study.",
+   "journal": "Behav Neurol",
+   "year": "2026",
+   "authors": [
+    "Zhou S",
+    "Wang S",
+    "Qu X",
+    "Fan J",
+    "et al."
+   ],
+   "abstract": "The aim of this study is to evaluate the effects of a unilateral-lower limb exoskeleton rehabilitation training robot on balance and lower limb function after stroke. In this pilot study, stroke patients with hemiplegic at Tongji University Yangzhi Rehabilitation Hospital (between October 2022 and December 2023) were randomly assigned to either the robot group or the control group. The primary measure was the Berg balance scale (BBS), whereas secondary measures included the 10-m walking time test, 6-min walk test, three-dimensional gait analysis, and pain levels using the Hospital Anxiety and Depression Scale (HADS) and visual analogue scale (VAS). Among 36 post-stroke hemiplegia patients (25 males; 18 per group), the robot group significantly outperformed the traditional group. The robot group improved BBS scores (5.50\u2009\u00b1\u20092.09 vs. 3.11\u2009\u00b1\u20091.50, p\u2009<\u20090.001), 6-min walking distance (15.89\u2009\u00b1\u20098.64\u2009m vs. 9.73\u2009\u00b1\u20095.83\u2009m, p\u2009=\u20090.017), and 10-m walking time reduction (8.82\u2009\u00b1\u20093.22\u2009s vs. 6.83\u2009\u00b1\u20091.81\u2009s, p\u2009=\u20090.030). Gait parameters also showed greater gains: hip flexion (3.57\u00b0\u00b12.30\u00b0 vs. 1.72\u00b0\u00b12.15\u00b0, p\u2009=\u20090.018), knee flexion (5.28\u00b0\u00b14.89\u00b0 vs. 2.63\u00b0\u00b12.37\u00b0, p\u2009=\u20090.046), and ankle dorsiflexion (4.81\u00b0\u00b15.57\u00b0 vs. 1.09\u00b0\u00b14.19\u00b0, p = 0.030). Depression scores improved more in the robot group (2.89\u2009\u00b1\u20091.75 vs. 1.61\u2009\u00b1\u20091.20, p\u2009=\u20090.015). No significant differences occurred in anxiety or pain VAS scores (p\u2009>\u20090.05). Integrating a unilateral-lower limb exoskeleton rehabilitation robot with traditional therapy significantly enhances lower limb recovery in stroke patients with hemiplegia. Future large-scale randomized controlled trials and follow-up evaluations are needed to validate the current findings.",
+   "doi": "10.1155/bn/4208995",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42801787/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
