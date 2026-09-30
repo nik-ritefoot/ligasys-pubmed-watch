@@ -1,5 +1,80 @@
 [
  {
+  "pmid": "42810283",
+  "title": "Autocorrelation-based gait regularity reveals progressive changes during prolonged walking.",
+  "journal": "Gait Posture",
+  "year": "2026",
+  "authors": [
+   "Siebold E",
+   "Schweizer T",
+   "Gilgen-Ammann R",
+   "Carrillo YL",
+   "et al."
+  ],
+  "abstract": "Gait regularity reflects the consistency of locomotor patterns. During prolonged load carriage, such as military marches, gait patterns may change due to accumulating fatigue, pain, and environmental demands. However, the progression of gait regularity and its determinants during extended real-world walking remain insufficiently understood. This observational field study examined gait regularity during a 90\u202fkm loaded military endurance march in Swiss cadets. Triaxial acceleration was continuously recorded from the upper arm using a Polar Verity Sense. Gait regularity was quantified using step-to-step autocorrelation of acceleration magnitude. Data were split into five consecutive 18\u202fkm segments and analyzed using repeated-measures ANOVA with Greenhouse-Geisser correction and Holm-adjusted post hoc tests. Linear mixed-effects models assessed associations of gait regularity with accumulated distance, walking speed, and terrain slope. Nineteen cadets (21.4\u202f\u00b1\u202f1.6 years) were included. Mean gait regularity decreased progressively across march segments. A significant effect of segment was observed (p\u202f<\u202f0.001, \u03b7p2 = 0.655), with nine of ten significant pairwise comparisons (p\u2009<\u20090.05), and eight large effect sizes (|d| > 0.8). Mixed-effects analyses showed gait regularity was associated with all fixed effects (all p\u2009<\u20090.001). Distance and speed accounted for 32.3% of the variance in gait regularity, while terrain slope contributed only minimally. Gait regularity decreased systematically during an ultra-long-distance endurance march under real-world conditions. Autocorrelation-based analysis of arm-worn acceleration data captured progressive changes in locomotor patterns. These findings support wearable-based monitoring of locomotor adaptations during prolonged load carriage and future fatigue and injury risk assessment.",
+  "doi": "10.1016/j.gaitpost.2026.110644",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42810283/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-30T18:32:53Z"
+ },
+ {
+  "pmid": "42809372",
+  "title": "Detection of previous knee injuries using lower limb-worn inertial measurement units: A cross-sectional machine-learning study.",
+  "journal": "Knee Surg Sports Traumatol Arthrosc",
+  "year": "2026",
+  "authors": [
+   "Valle C",
+   "Cotic M",
+   "Bartelt M",
+   "Seeberger L",
+   "et al."
+  ],
+  "abstract": "Previous knee injury increases the risk of subsequent injury, even after functional recovery, yet residual gait, running or load alterations often go undetected in routine assessment. Wearable inertial measurement units (IMUs) may enable scalable detection of such alterations outside laboratory settings. The primary aim of this study was to determine whether IMU-derived gait and running features can distinguish physically active individuals with a history of knee injury from uninjured controls using machine learning. In this cross-sectional study, 108 sports science students completed injury-history questionnaires and a walking-running-walking protocol on a 400\u2009m track while wearing four IMUs. Of 90 participants with complete data, 23 reported prior knee injury and 67 were uninjured controls. Left- and right-side sensor data were combined into one per-participant feature vector. The model classified any prior knee injury (yes/no), not limb-specific injury. From 220 candidate features covering baseline gait, post-run changes, walk-to-run transitions, inter-limb asymmetry, variability and composite indices-a fixed pipeline (e.g., median imputation, mutual-information selection) was applied within leave-one-out cross-validation (primary) and repeated stratified five-fold cross-validation (secondary). Leave-one-out cross-validation correctly classified 76/90 participants (65/67 true negatives, 11/23 true positives), yielding an area under the receiver operating characteristic curve of 0.74, balanced accuracy of 0.72, sensitivity of 0.48, specificity of 0.97, positive predictive value (PPV) of 0.85 and negative predictive value of 0.84. Five-fold cross-validation produced more variable estimates, indicating substantial model instability across resampling partitions. As a proof of concept, IMU-derived features distinguished individuals with previous knee injury at high specificity but limited sensitivity. High specificity and PPV depend on the classification threshold and injury prevalence in this selected sample, not intrinsic model properties. Because predictors were not aligned to the injured side, findings cannot be interpreted biomechanically. Potential applications (e.g., targeted monitoring) require prospective external validation. Level II.",
+  "doi": "10.1002/ksa.70631",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42809372/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-09-30T18:32:53Z"
+ },
+ {
+  "pmid": "42813340",
+  "title": "The gait stability characteristics of individuals with chronic ankle instability.",
+  "journal": "Acta Orthop Traumatol Turc",
+  "year": "2026",
+  "authors": [
+   "Chen H",
+   "Kang Q",
+   "Yao M",
+   "Li D",
+   "et al."
+  ],
+  "abstract": "The objective of this study was to investigate gait stability characteristics in patients with chronic ankle instability (CAI) by analyzing six degrees of freedom (6DOF) kinematic alterations in comparison with healthy controls. A cross-sectional study was conducted to evaluate 6DOF ankle kinematics in individuals with CAI and healthy controls using a dual fluoroscopic imaging system during treadmill walking. Three representative gait cycles were selected for each participant, normalized to 0-100% of the gait cycle, and averaged for analysis. Time-series kinematic differences were assessed using Statistical Parametric Mapping (SPM1D) with one-way ANOVA and post-hoc tests, while discrete variables were compared between groups with Bonferroniadjusted significance. Compared with the control group, the contralateral limbs demonstrated greater distal displacement during 44-55% of the gait cycle (2.7-3.8 mm, p<0.001), whereas the CAI limbs exhibited reduced plantarflexion during 68-75% of the gait cycle (5.1-7.3, p<0.001). Additionally, the range of motion (ROM) for abduction-adduction (2.5\u00c5\u00e3, p<0.05) and internal-external rotation (2.4, p<0.05) on the CAI sides was smaller compared with the contralateral sides. Both the CAI and contralateral limbs showed a decrease in medial-lateral displacement in the coronal plane relative to the control group (3.1mm, p<.05). This study demostrated that individuals with CAI exhibit distinct gait strategies compared to healthy controls, characterized by a reduction in plantarflexion in the CAI sides, an increase in distal displacement in the contralateral sides, and an overall decrease in the ROM on the CAI sides. \u00a0 Cite this article as: Chen H, Kang Q, Yao M, et al. The gait stability characteristics of individuals with chronic ankle instability. Acta Orthop Traumatol Turc., 2026; 60(4), 0567, doi: 10.5152/j.aott.2026.25567.",
+  "doi": "10.5152/j.aott.2026.25567",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42813340/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-09-30T18:32:53Z"
+ },
+ {
   "pmid": "42803949",
   "title": "Correlation analysis between ankle proprioception and biomechanical characteristics in patients with chronic ankle instability.",
   "journal": "Acta Bioeng Biomech",

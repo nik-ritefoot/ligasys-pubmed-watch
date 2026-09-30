@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-09-29T18:51:06Z</updated>
+  <updated>2026-09-30T18:32:53Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>The gait stability characteristics of individuals with chronic ankle instability.</title>
+    <id>urn:pmid:42813340</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42813340/" rel="alternate"/>
+    <updated>2026-09-30T18:32:53Z</updated>
+    <published>2026-09-30T18:32:53Z</published>
+    <author><name>Chen H</name></author><author><name>Kang Q</name></author><author><name>Yao M</name></author><author><name>Li D</name></author><author><name>et al.</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Chen H, Kang Q, Yao M, Li D, et al. · Acta Orthop Traumatol Turc · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The objective of this study was to investigate gait stability characteristics in patients with chronic ankle instability (CAI) by analyzing six degrees of freedom (6DOF) kinematic alterations in comparison with healthy controls. A cross-sectional study was conducted to evaluate 6DOF ankle kinematics in individuals with CAI and healthy controls using a dual fluoroscopic imaging system during treadmill walking. Three representative gait cycles were selected for each participant, normalized to 0-100% of the gait cycle, and averaged for analysis. Time-series kinematic differences were assessed using Statistical Parametric Mapping (SPM1D) with one-way ANOVA and post-hoc tests, while discrete variables were compared between groups with Bonferroniadjusted significance. Compared with the control group, the contralateral limbs demonstrated greater distal displacement during 44-55% of the gait cycle (2.7-3.8 mm, p&amp;lt;0.001), whereas the CAI limbs exhibited reduced plantarflexion during 68-75% of the gait cycle (5.1-7.3, p&amp;lt;0.001). Additionally, the range of motion (ROM) for abduction-adduction (2.5Åã, p&amp;lt;0.05) and internal-external rotation (2.4, p&amp;lt;0.05) on the CAI sides was smaller compared with the contralateral sides. Both the CAI and contralateral limbs showed a decrease in medial-lateral displacement in the coronal plane relative to the control group (3.1mm, p&amp;lt;.05). This study demostrated that individuals with CAI exhibit distinct gait strategies compared to healthy controls, characterized by a reduction in plantarflexion in the CAI sides, an increase in distal displacement in the contralateral sides, and an overall decrease in the ROM on the CAI sides.   Cite this article as: Chen H, Kang Q, Yao M, et al. The gait stability characteristics of individuals with chronic ankle instability. Acta Orthop Traumatol Turc., 2026; 60(4), 0567, doi: 10.5152/j.aott.2026.25567.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.5152/j.aott.2026.25567&quot;&gt;10.5152/j.aott.2026.25567&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42813340/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Correlation analysis between ankle proprioception and biomechanical characteristics in patients with chronic ankle instability.</title>
     <id>urn:pmid:42803949</id>
