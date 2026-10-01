@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T18:32:53+00:00",
+ "generated": "2026-10-01T19:00:54+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,30 +65,63 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 3,
-  "research": 26,
-  "fieldnotes": 61
+  "total": 90,
+  "new": 5,
+  "research": 25,
+  "fieldnotes": 65
  },
  "records": [
   {
-   "pmid": "42810283",
-   "title": "Autocorrelation-based gait regularity reveals progressive changes during prolonged walking.",
-   "journal": "Gait Posture",
+   "pmid": "42817240",
+   "title": "A Sustainable Natural-Rubber IoT Smart Insole for Remote Body-Load Monitoring: An Observational Gait Comparison in Flexible Flatfoot.",
+   "journal": "Sensors (Basel)",
    "year": "2026",
    "authors": [
-    "Siebold E",
-    "Schweizer T",
-    "Gilgen-Ammann R",
-    "Carrillo YL",
+    "Saramolee P",
+    "Sengsoon P",
+    "Chaimool S",
+    "Khongsomboon K",
     "et al."
    ],
-   "abstract": "Gait regularity reflects the consistency of locomotor patterns. During prolonged load carriage, such as military marches, gait patterns may change due to accumulating fatigue, pain, and environmental demands. However, the progression of gait regularity and its determinants during extended real-world walking remain insufficiently understood. This observational field study examined gait regularity during a 90\u202fkm loaded military endurance march in Swiss cadets. Triaxial acceleration was continuously recorded from the upper arm using a Polar Verity Sense. Gait regularity was quantified using step-to-step autocorrelation of acceleration magnitude. Data were split into five consecutive 18\u202fkm segments and analyzed using repeated-measures ANOVA with Greenhouse-Geisser correction and Holm-adjusted post hoc tests. Linear mixed-effects models assessed associations of gait regularity with accumulated distance, walking speed, and terrain slope. Nineteen cadets (21.4\u202f\u00b1\u202f1.6 years) were included. Mean gait regularity decreased progressively across march segments. A significant effect of segment was observed (p\u202f<\u202f0.001, \u03b7p2 = 0.655), with nine of ten significant pairwise comparisons (p\u2009<\u20090.05), and eight large effect sizes (|d| > 0.8). Mixed-effects analyses showed gait regularity was associated with all fixed effects (all p\u2009<\u20090.001). Distance and speed accounted for 32.3% of the variance in gait regularity, while terrain slope contributed only minimally. Gait regularity decreased systematically during an ultra-long-distance endurance march under real-world conditions. Autocorrelation-based analysis of arm-worn acceleration data captured progressive changes in locomotor patterns. These findings support wearable-based monitoring of locomotor adaptations during prolonged load carriage and future fatigue and injury risk assessment.",
-   "doi": "10.1016/j.gaitpost.2026.110644",
+   "abstract": "Flexible flatfoot (pes planus) alters lower-limb biomechanics and plantar-pressure distribution, raising the risk of pain and injury. Laboratory gait analysis with optical motion capture and force plates is the reference standard but is costly, space-constrained, and ecologically limited. We present the design, fabrication, and validation of a low-cost, sustainable smart insole for Internet-of-Things (IoT) remote body-load monitoring. The device pairs a dual-layer natural-rubber body-a silica-filled sponge-rubber upper for comfort and a carbon-black-reinforced solid outsole for durability-with four load cells per insole at high-pressure plantar landmarks, read through a 24-bit amplifier by an ESP32 that calibrates and streams left/right load over Wi-Fi to the ThingSpeak cloud, with a wrist-worn OLED for real-time feedback. Against reference weights in 25 participants, the system measured total body weight with a mean absolute error of 2.94%, a maximum error of 4.18%, and an RMSE of 1.94 kg (Pearson r = 0.99); the residual was an almost purely systematic proportional bias (slope 0.966, R2 = 0.98) removable by a single in-sample scalar recalibration. In 30 adults (15 normal-arch; 15 flexible flatfoot), spatiotemporal gait parameters were compared while both groups wore the smart insole. Forward-progression parameters, including step length, stride length, and walking velocity, did not differ significantly between groups during comfortable walking (all p > 0.18). The flatfoot group showed a wider mediolateral base-greater stance width during standing (+14%, p = 0.008) and step width during comfortable walking (+23%, p = 0.040, uncorrected). After correction for multiple comparisons, only the reduction in fast-walking cadence remained statistically significant. A sustainably sourced, affordable smart insole can thus deliver clinically meaningful remote body-load monitoring. The findings also point to a dissociation: forward propulsion was comparable between the groups while the insole was worn, whereas the mediolateral base remained wider in flatfoot. Controlled trials pairing orthotic support with active gait retraining are therefore warranted.",
+   "doi": "10.3390/s26185687",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42810283/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42817240/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42817379",
+   "title": "Development of a Wearable Sensor Platform for Fall Risk Assessment and Fall Detection.",
+   "journal": "Sensors (Basel)",
+   "year": "2026",
+   "authors": [
+    "Imperato A",
+    "Caporaso M",
+    "Pascalis V",
+    "Di Gironimo G",
+    "et al."
+   ],
+   "abstract": "Objective: Falls among the elderly constitute a major global public health issue. Research has therefore focused on two complementary areas: fall risk prevention and fall detection. Existing solutions mainly rely on body-attached sensors confined to laboratory settings, whereas recent research has shifted toward wearable e-textiles with non-invasive, long-term-wear sensors. In this context, the study presents a wearable sensor platform to both predict fall risk and detect falls, based on sensorized clothing integrating inertial measurement units and surface electromyography sensors. Methods: Fall risk was estimated from gait parameters extracted during a 10 m walking test as the probability of belonging to a faller (vs. non-faller) group, using a logistic regression model trained on the G-STRIDE dataset, complemented by neuromuscular parameters extracted from sEMG and associated with fall risk. Fall detection, focused on improving pre-impact identification, was framed as a binary classification between activities of daily living and falls, using a reduced Spatio-Temporal Attention Network trained on the FallTL dataset and refined with our own platform's data. Results: The obtained results were: fall-risk assessment, Area Under the Curve = 77.8%, Accuracy = 68.7%; fall detection, Accuracy = 96.7%, F1 Score = 77.3%, lead time = 390 ms. Conclusions: As a single-subject proof of concept, these results support the feasibility of a unified platform integrating objective fall-risk screening and fall event identification, with a predicted time before impact suitable for protective systems intervention; validation on a larger, representative cohort is required before any clinical claim can be made.",
+   "doi": "10.3390/s26185867",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42817379/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -100,23 +133,20 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42809372",
-   "title": "Detection of previous knee injuries using lower limb-worn inertial measurement units: A cross-sectional machine-learning study.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "pmid": "42816715",
+   "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
+   "journal": "Ann Biomed Eng",
    "year": "2026",
    "authors": [
-    "Valle C",
-    "Cotic M",
-    "Bartelt M",
-    "Seeberger L",
-    "et al."
+    "Sciacca D",
+    "Ionescu A"
    ],
-   "abstract": "Previous knee injury increases the risk of subsequent injury, even after functional recovery, yet residual gait, running or load alterations often go undetected in routine assessment. Wearable inertial measurement units (IMUs) may enable scalable detection of such alterations outside laboratory settings. The primary aim of this study was to determine whether IMU-derived gait and running features can distinguish physically active individuals with a history of knee injury from uninjured controls using machine learning. In this cross-sectional study, 108 sports science students completed injury-history questionnaires and a walking-running-walking protocol on a 400\u2009m track while wearing four IMUs. Of 90 participants with complete data, 23 reported prior knee injury and 67 were uninjured controls. Left- and right-side sensor data were combined into one per-participant feature vector. The model classified any prior knee injury (yes/no), not limb-specific injury. From 220 candidate features covering baseline gait, post-run changes, walk-to-run transitions, inter-limb asymmetry, variability and composite indices-a fixed pipeline (e.g., median imputation, mutual-information selection) was applied within leave-one-out cross-validation (primary) and repeated stratified five-fold cross-validation (secondary). Leave-one-out cross-validation correctly classified 76/90 participants (65/67 true negatives, 11/23 true positives), yielding an area under the receiver operating characteristic curve of 0.74, balanced accuracy of 0.72, sensitivity of 0.48, specificity of 0.97, positive predictive value (PPV) of 0.85 and negative predictive value of 0.84. Five-fold cross-validation produced more variable estimates, indicating substantial model instability across resampling partitions. As a proof of concept, IMU-derived features distinguished individuals with previous knee injury at high specificity but limited sensitivity. High specificity and PPV depend on the classification threshold and injury prevalence in this selected sample, not intrinsic model properties. Because predictors were not aligned to the injured side, findings cannot be interpreted biomechanically. Potential applications (e.g., targeted monitoring) require prospective external validation. Level II.",
-   "doi": "10.1002/ksa.70631",
+   "abstract": "Accurate estimation of head kinematics is critical for assessing brain injury risk in contact sports. This study introduces a Vector AutoRegressive (VAR) framework to jointly model linear acceleration and angular velocity during head impacts, capturing the inherent coupling between translational and rotational dynamics. Controlled impacts were performed on a helmeted Hybrid III 50th percentile male headform using a pendulum impactor across multiple locations (front, front-oblique, side, rear-oblique) and three impact intensities (30\u00b0, 50\u00b0, 70\u00b0 pendulum angles). Helmet-mounted Inertial Measurement Unit (IMU) signals were processed using VAR models trained on reference headform data at 30\u00b0 and 50\u00b0 impacts. The proposed framework was also evaluated for the estimation of head kinematics at untrained impact intensities (70\u00b0). At the trained intensities, the VAR approach generally improved angular velocity reconstruction across impact configurations, with PMPE and RMSE reductions of up to 20.9\u00a0pp (-81.1%) and 288.8 \u00b0/s (-85.7%), respectively, at 30\u00b0. Linear acceleration improvements were more limited, with PMPE and RMSE reductions of up to 171.8\u00a0pp (-85.7%) and 10.9\u00a0g (-74.8%), also at 30\u00b0. At the untrained 70\u00b0 intensity, angular velocity PMPE decreased at all locations but significantly only at the front-oblique, while RMSE decreased significantly at the front and front-oblique (up to\u2009-\u2009341.1 \u00b0/s,\u2009-\u200952.2%). In contrast, linear acceleration PMPE degraded at all locations, increasing by up to 68.6\u00a0pp (+726.4%), while RMSE showed either deterioration or non-significant improvement. In conclusion, the VAR modeling framework offers a promising multivariate approach for reconstructing head impact kinematics from a single IMU-instrumented helmet. However, limited generalization to higher, untrained intensities highlights the need for further development before real-time head injury assessment can be supported.",
+   "doi": "10.1007/s10439-026-04395-0",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42809372/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42816715/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -128,32 +158,61 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42813340",
-   "title": "The gait stability characteristics of individuals with chronic ankle instability.",
-   "journal": "Acta Orthop Traumatol Turc",
+   "pmid": "42815406",
+   "title": "Management, reconstructive strategies and outcomes following open tibia/fibula and ankle fractures: An age-based comparison.",
+   "journal": "J Plast Reconstr Aesthet Surg",
    "year": "2026",
    "authors": [
-    "Chen H",
-    "Kang Q",
-    "Yao M",
-    "Li D",
+    "Liu XX",
+    "Odusanya CC",
+    "Farid MM",
+    "Longden EE",
     "et al."
    ],
-   "abstract": "The objective of this study was to investigate gait stability characteristics in patients with chronic ankle instability (CAI) by analyzing six degrees of freedom (6DOF) kinematic alterations in comparison with healthy controls. A cross-sectional study was conducted to evaluate 6DOF ankle kinematics in individuals with CAI and healthy controls using a dual fluoroscopic imaging system during treadmill walking. Three representative gait cycles were selected for each participant, normalized to 0-100% of the gait cycle, and averaged for analysis. Time-series kinematic differences were assessed using Statistical Parametric Mapping (SPM1D) with one-way ANOVA and post-hoc tests, while discrete variables were compared between groups with Bonferroniadjusted significance. Compared with the control group, the contralateral limbs demonstrated greater distal displacement during 44-55% of the gait cycle (2.7-3.8 mm, p<0.001), whereas the CAI limbs exhibited reduced plantarflexion during 68-75% of the gait cycle (5.1-7.3, p<0.001). Additionally, the range of motion (ROM) for abduction-adduction (2.5\u00c5\u00e3, p<0.05) and internal-external rotation (2.4, p<0.05) on the CAI sides was smaller compared with the contralateral sides. Both the CAI and contralateral limbs showed a decrease in medial-lateral displacement in the coronal plane relative to the control group (3.1mm, p<.05). This study demostrated that individuals with CAI exhibit distinct gait strategies compared to healthy controls, characterized by a reduction in plantarflexion in the CAI sides, an increase in distal displacement in the contralateral sides, and an overall decrease in the ROM on the CAI sides. \u00a0 Cite this article as: Chen H, Kang Q, Yao M, et al. The gait stability characteristics of individuals with chronic ankle instability. Acta Orthop Traumatol Turc., 2026; 60(4), 0567, doi: 10.5152/j.aott.2026.25567.",
-   "doi": "10.5152/j.aott.2026.25567",
+   "abstract": "Open lower limb fractures require multidisciplinary orthoplastic management. With an ageing population, older patients present with distinct injury patterns, greater comorbidity and reduced physiological reserve. In this study, we compared presentation, management and outcomes between younger and older patients. A 4-year retrospective complete case cohort study (2018-2022) was conducted at a tertiary major trauma centre. Adult patients with open tibia, fibula or ankle fractures were included. Patients were stratified into younger adult (<65 years) and older adult (\u226565 years) cohorts based on age. Data collected included demographics, comorbidities, injury mechanism, Gustilo-Anderson (GA) classification, soft tissue reconstruction strategy, complications and mortality. A total of 292 patients were included (183 younger and 109 older adults). The older cohort were predominantly female (71%) with greater comorbidity burden. Despite the predominantly low-energy mechanisms (61% ground level falls), they sustained more severe injuries, with a higher proportion of GA grade III fractures, particularly GA-IIIb (52%). Single-stage skeletal fixation and soft tissue coverage was more frequently performed in older patients (55%). Median length of stay was longer (16 vs 10 days), and complications were comparable (20 vs 14%). In-hospital mortality was observed exclusively in the older cohort and occurred in 10% of the population-nearly half of which resulted from acute preoperative physiological decompensation. Older patients experience higher morbidity alongside greater comorbidity and severity of injury, despite lower energy mechanism. Management of injury frequently favours single-stage soft tissue coverage. This highlights the need for patient centred orthoplastic pathways and importance of early multidisciplinary involvement.",
+   "doi": "10.1016/j.bjps.2026.09.011",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42813340/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42815406/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
-   "bucket": "research"
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42815174",
+   "title": "Shear wave elastography for assessing lower extremity muscle stiffness after anterior cruciate ligament reconstruction: A systematic review.",
+   "journal": "Clin Biomech (Bristol)",
+   "year": "2026",
+   "authors": [
+    "Marczak J",
+    "Lightle C",
+    "Brooks A",
+    "Kyriazi M",
+    "et al."
+   ],
+   "abstract": "Anterior cruciate ligament reconstruction (ACLR) restores passive joint stability, yet athletes who meet strength benchmarks may still land stiffly, hesitate to push off, and re-injure. Muscle stiffness governs how rapidly force is transmitted to the joint, and shear wave elastography (SWE) quantifies it muscle by muscle, but SWE findings after ACLR have not been synthesized. Scopus, PubMed, SPORTDiscus, and CINAHL were searched through November 2025 following PRISMA 2020. Eligible studies compared SWE-derived lower-extremity muscle stiffness after ACLR with contralateral limbs or controls. Two reviewers independently screened, extracted data, and appraised quality (Downs and Black). Findings were synthesized narratively with Hedges' g (95% confidence intervals) where data permitted. Six studies (173 ACLR participants, 79 controls; quality poor to good) were included. Reduced passive vastus medialis shear modulus was consistently observed in operative limbs (g\u00a0-\u00a01.10 to -1.21 versus controls) and was associated with quadriceps strength, knee function, and landing biomechanics. Semitendinosus stiffness was reduced after hamstring tendon harvest (g\u00a0-\u00a01.29 to -1.64) but not at mid-belly after return to sport. Longitudinal deficits persisted at three months; active-contraction findings conflicted. No study sampled the distal vastus medialis obliquus or the distal hamstring musculotendinous region. SWE detects muscle-specific mechanical deficits that relate to function beyond strength: a compliant vastus medialis offers a mechanical explanation for the strong patient who lands stiffly, and reduced semitendinosus stiffness marks donor-site morbidity. Standardized protocols that sample clinically relevant regions and follow patients to return to sport are needed before SWE can guide rehabilitation.",
+   "doi": "10.1016/j.clinbiomech.2026.106982",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42815174/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42675844",
@@ -267,34 +326,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42671378",
-   "title": "An Interpretable, Data-Driven, Hierarchical Multi-Domain Fusion Framework for Classification and Motor Function Scoring in Chronic Ankle Instability.",
-   "journal": "Adv Sci (Weinh)",
-   "year": "2026",
-   "authors": [
-    "Jie T",
-    "Xu D",
-    "Zhou Z",
-    "Van Hooren B",
-    "et al."
-   ],
-   "abstract": "Chronic ankle instability (CAI) is a common sports-related musculoskeletal disorder characterized by recurrent sprains and neuromuscular control deficits. It affects a wide range of individuals, from recreational to elite athletes, and poses a substantial healthcare burden. This study proposes an AI-enabled digital twin framework for sports health applications, offering both interpretability and clinical deployability. The framework identifies CAI and enables subtype stratification using a wearable electromyography (EMG) sensor-driven hierarchical multi-domain fusion model, generates fine-grained motor function scores through a probabilistic modeling approach, and further translates the generated scores into clinically interpretable functional stratification to support rehabilitation assessment. SHapley Additive exPlanations (SHAP) - based interpretability reveals key predictive biomarkers underlying model decisions, establishing a transparent and closed-loop framework for personalized rehabilitation. Validation on 150 participants, including CAI patients and healthy controls, confirms robust classification performance (Accuracy = 98.50%, AUC = 0.99), reliable discrimination of CAI subtypes (Accuracy = 87.70%, macro F1-score = 87.20%), and strong concordance between the generated scores and the clinical gold-standard scale (r\u00a0=\u00a0-0.908, \u2005p\u2005 < \u20050.001). This non-invasive, personalized assessment framework supports long-term rehabilitation management of chronic conditions, offering an innovative and cost-effective digital health solution for sports medicine.",
-   "doi": "10.1002/advs.77212",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42671378/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42731809",
@@ -431,6 +462,34 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42810283",
+   "title": "Autocorrelation-based gait regularity reveals progressive changes during prolonged walking.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Siebold E",
+    "Schweizer T",
+    "Gilgen-Ammann R",
+    "Carrillo YL",
+    "et al."
+   ],
+   "abstract": "Gait regularity reflects the consistency of locomotor patterns. During prolonged load carriage, such as military marches, gait patterns may change due to accumulating fatigue, pain, and environmental demands. However, the progression of gait regularity and its determinants during extended real-world walking remain insufficiently understood. This observational field study examined gait regularity during a 90\u202fkm loaded military endurance march in Swiss cadets. Triaxial acceleration was continuously recorded from the upper arm using a Polar Verity Sense. Gait regularity was quantified using step-to-step autocorrelation of acceleration magnitude. Data were split into five consecutive 18\u202fkm segments and analyzed using repeated-measures ANOVA with Greenhouse-Geisser correction and Holm-adjusted post hoc tests. Linear mixed-effects models assessed associations of gait regularity with accumulated distance, walking speed, and terrain slope. Nineteen cadets (21.4\u202f\u00b1\u202f1.6 years) were included. Mean gait regularity decreased progressively across march segments. A significant effect of segment was observed (p\u202f<\u202f0.001, \u03b7p2 = 0.655), with nine of ten significant pairwise comparisons (p\u2009<\u20090.05), and eight large effect sizes (|d| > 0.8). Mixed-effects analyses showed gait regularity was associated with all fixed effects (all p\u2009<\u20090.001). Distance and speed accounted for 32.3% of the variance in gait regularity, while terrain slope contributed only minimally. Gait regularity decreased systematically during an ultra-long-distance endurance march under real-world conditions. Autocorrelation-based analysis of arm-worn acceleration data captured progressive changes in locomotor patterns. These findings support wearable-based monitoring of locomotor adaptations during prolonged load carriage and future fatigue and injury risk assessment.",
+   "doi": "10.1016/j.gaitpost.2026.110644",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42810283/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -801,6 +860,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42809372",
+   "title": "Detection of previous knee injuries using lower limb-worn inertial measurement units: A cross-sectional machine-learning study.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "year": "2026",
+   "authors": [
+    "Valle C",
+    "Cotic M",
+    "Bartelt M",
+    "Seeberger L",
+    "et al."
+   ],
+   "abstract": "Previous knee injury increases the risk of subsequent injury, even after functional recovery, yet residual gait, running or load alterations often go undetected in routine assessment. Wearable inertial measurement units (IMUs) may enable scalable detection of such alterations outside laboratory settings. The primary aim of this study was to determine whether IMU-derived gait and running features can distinguish physically active individuals with a history of knee injury from uninjured controls using machine learning. In this cross-sectional study, 108 sports science students completed injury-history questionnaires and a walking-running-walking protocol on a 400\u2009m track while wearing four IMUs. Of 90 participants with complete data, 23 reported prior knee injury and 67 were uninjured controls. Left- and right-side sensor data were combined into one per-participant feature vector. The model classified any prior knee injury (yes/no), not limb-specific injury. From 220 candidate features covering baseline gait, post-run changes, walk-to-run transitions, inter-limb asymmetry, variability and composite indices-a fixed pipeline (e.g., median imputation, mutual-information selection) was applied within leave-one-out cross-validation (primary) and repeated stratified five-fold cross-validation (secondary). Leave-one-out cross-validation correctly classified 76/90 participants (65/67 true negatives, 11/23 true positives), yielding an area under the receiver operating characteristic curve of 0.74, balanced accuracy of 0.72, sensitivity of 0.48, specificity of 0.97, positive predictive value (PPV) of 0.85 and negative predictive value of 0.84. Five-fold cross-validation produced more variable estimates, indicating substantial model instability across resampling partitions. As a proof of concept, IMU-derived features distinguished individuals with previous knee injury at high specificity but limited sensitivity. High specificity and PPV depend on the classification threshold and injury prevalence in this selected sample, not intrinsic model properties. Because predictors were not aligned to the injured side, findings cannot be interpreted biomechanically. Potential applications (e.g., targeted monitoring) require prospective external validation. Level II.",
+   "doi": "10.1002/ksa.70631",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42809372/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42770721",
    "title": "Differential effects of jump-induced fatigue on lower-extremity landing biomechanics in children and adults.",
    "journal": "Acta Bioeng Biomech",
@@ -925,7 +1012,8 @@
    "doi": "10.1093/ageing/afag291",
    "pubtypes": [
     "Journal Article",
-    "Randomized Controlled Trial"
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42784541/",
    "matched": [
@@ -1692,35 +1780,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42672034",
-   "title": "On Ankle-Foot Prostheses: An Introduction to Biomechanical Goals, Modern Design Principles, Device Evaluation, and Current Clinical Practice.",
-   "journal": "IEEE Trans Neural Syst Rehabil Eng",
-   "year": "2026",
-   "authors": [
-    "Moores BM",
-    "Carmichael NR",
-    "Lee KE",
-    "Hansen AH",
-    "et al."
-   ],
-   "abstract": "Prosthetic ankle-foot design is a rapidly evolving field encompassing three principal device categories: passive, active, and quasi-passive. Although each category has generated substantial published literature, this body of work remains fragmented, leaving clinicians unaware of emerging research developments and engineers disconnected from clinical practice. This disconnect ultimately impedes the translation of insights between disciplines. Here, we synthesize principles from modern prosthetic ankle-foot design, establishing connections among biomechanical objectives, clinical evaluation methodologies, and engineering design fundamentals across devices used in both clinical practice and research settings.",
-   "doi": "10.1109/TNSRE.2026.3729140",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42672034/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42763403",
    "title": "Optimized anterior anatomical fusion plate for ankle arthrodesis: biomechanical and clinical outcomes.",
    "journal": "BMC Musculoskelet Disord",
@@ -2294,6 +2353,34 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42813340",
+   "title": "The gait stability characteristics of individuals with chronic ankle instability.",
+   "journal": "Acta Orthop Traumatol Turc",
+   "year": "2026",
+   "authors": [
+    "Chen H",
+    "Kang Q",
+    "Yao M",
+    "Li D",
+    "et al."
+   ],
+   "abstract": "The objective of this study was to investigate gait stability characteristics in patients with chronic ankle instability (CAI) by analyzing six degrees of freedom (6DOF) kinematic alterations in comparison with healthy controls. A cross-sectional study was conducted to evaluate 6DOF ankle kinematics in individuals with CAI and healthy controls using a dual fluoroscopic imaging system during treadmill walking. Three representative gait cycles were selected for each participant, normalized to 0-100% of the gait cycle, and averaged for analysis. Time-series kinematic differences were assessed using Statistical Parametric Mapping (SPM1D) with one-way ANOVA and post-hoc tests, while discrete variables were compared between groups with Bonferroniadjusted significance. Compared with the control group, the contralateral limbs demonstrated greater distal displacement during 44-55% of the gait cycle (2.7-3.8 mm, p<0.001), whereas the CAI limbs exhibited reduced plantarflexion during 68-75% of the gait cycle (5.1-7.3, p<0.001). Additionally, the range of motion (ROM) for abduction-adduction (2.5\u00c5\u00e3, p<0.05) and internal-external rotation (2.4, p<0.05) on the CAI sides was smaller compared with the contralateral sides. Both the CAI and contralateral limbs showed a decrease in medial-lateral displacement in the coronal plane relative to the control group (3.1mm, p<.05). This study demostrated that individuals with CAI exhibit distinct gait strategies compared to healthy controls, characterized by a reduction in plantarflexion in the CAI sides, an increase in distal displacement in the contralateral sides, and an overall decrease in the ROM on the CAI sides. \u00a0 Cite this article as: Chen H, Kang Q, Yao M, et al. The gait stability characteristics of individuals with chronic ankle instability. Acta Orthop Traumatol Turc., 2026; 60(4), 0567, doi: 10.5152/j.aott.2026.25567.",
+   "doi": "10.5152/j.aott.2026.25567",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42813340/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
