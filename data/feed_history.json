@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42819880",
+  "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
+  "journal": "Arthrosc Tech",
+  "year": "2026",
+  "authors": [
+   "Zhou C",
+   "Hu Z",
+   "Sagar L",
+   "Yang S",
+   "et al."
+  ],
+  "abstract": "Manual limb suspension during surgical preparation is labor-intensive, requires additional personnel, and may increase the risk of musculoskeletal injuries among surgical staff. We describe a cotton-swab-anchored suspension technique that uses a sterile bandage (Kerlix) looped around the ankle, secured with 2 cotton swabs inserted into the knot, and suspended from a heavy-duty intravenous pole. This method enables hands-free limb elevation, allowing efficient preoperative preparation. After completion of preparation, the limb is released by simply removing the cotton swab. This technique eliminates the need for manual limb holding, reduces occupational strain, provides stable mechanical support, and enables quick, controlled limb release without instruments. It is cost-effective, reproducible, and suitable for various lower extremity procedures.",
+  "doi": "10.1002/atn2.70276",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42819880/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-02T18:40:18Z"
+ },
+ {
+  "pmid": "42821993",
+  "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
+  "journal": "JMIR Form Res",
+  "year": "2026",
+  "authors": [
+   "Kedoin H",
+   "Itoh Y",
+   "Nirengi T",
+   "Sato Y",
+   "et al."
+  ],
+  "abstract": "Adequate sleep supports mood regulation and injury prevention in high school female athletes; however, insufficient sleep is common in this population. Wearable devices enable continuous assessment of objective sleep metrics, but personalized feedback based on daily sleep data remains underexplored. This study evaluated the technical and operational feasibility of a multicomponent AI-supported mobile health (mHealth) intervention that delivered personalized sleep feedback to high school female soccer players. Sleep efficiency was the primary preliminary efficacy outcome; other sleep-related measures were secondary or exploratory outcomes, and mood state and sports injury severity were exploratory outcomes. We conducted a pilot randomized controlled trial among 25 high school female soccer players from a single team. The study briefing and system setup began on August 18, 2025, and the trial was retrospectively registered with the University Hospital Medical Information Network (UMIN) Clinical Trials Registry on April 7, 2026 (UMIN000061189). Weeks 1 to 4 constituted the baseline period. After the week 5 baseline questionnaires, participants were stratified by median baseline total sleep time (TST) and Pittsburgh Sleep Quality Index score and randomly allocated 1:1 to the intervention (n=12) or control (n=13) group. During weeks 6 to 9, the intervention group received GPT-4o-generated personalized feedback via LINE on days with valid prior-night Fitbit data, whereas the control group received daily nonpersonalized sleep information. Technical and operational feasibility outcomes included message delivery success, valid Fitbit wear nights, questionnaire completion, technical problems, adverse events, and privacy breaches. Secondary outcomes included TST, wake after sleep onset (WASO), subjective sleep quality, sleep difficulty, and daytime sleepiness. Deep, light, and rapid eye movement (REM) sleep durations, mood state, and sports injury severity were exploratory outcomes. All 25 participants completed the trial. Message delivery success and questionnaire completion were 100% in both groups. Median valid Fitbit wear nights were 26 (IQR 24-28) in the intervention group and 22 (IQR 15-26) in the control group. No major technical problems, adverse events, or privacy breaches occurred. Change in sleep efficiency, the primary preliminary efficacy outcome, favored the intervention group (Hodges-Lehmann between-group difference 2%, 95% CI 0.50%-4%; P=.046; r=0.35). Nominal between-group differences were also observed for the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) total score and sleep difficulty score and, among exploratory outcomes, REM sleep duration and total mood disturbance. No between-group differences were observed in TST, WASO, deep or light sleep duration, daytime sleepiness, or sports injury severity. The multicomponent AI-supported mHealth intervention demonstrated technical and operational feasibility in this single-team setting. Preliminary, hypothesis-generating between-group differences were observed in sleep efficiency and selected subjective sleep and mood outcomes. These findings should not be interpreted as evidence of established effectiveness and require confirmation in a sufficiently powered trial. UMIN Clinical Trials Registry UMIN000061189; https://tinyurl.com/tw3d7aku.",
+  "doi": "10.2196/101615",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42821993/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-02T18:40:18Z"
+ },
+ {
   "pmid": "42817240",
   "title": "A Sustainable Natural-Rubber IoT Smart Insole for Remote Body-Load Monitoring: An Observational Gait Comparison in Flexible Flatfoot.",
   "journal": "Sensors (Basel)",

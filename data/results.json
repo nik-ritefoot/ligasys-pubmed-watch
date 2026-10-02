@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T19:00:54+00:00",
+ "generated": "2026-10-02T18:40:18+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,97 @@
   }
  ],
  "counts": {
-  "total": 90,
-  "new": 5,
-  "research": 25,
-  "fieldnotes": 65
+  "total": 89,
+  "new": 2,
+  "research": 23,
+  "fieldnotes": 66
  },
  "records": [
+  {
+   "pmid": "42819880",
+   "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
+   "journal": "Arthrosc Tech",
+   "year": "2026",
+   "authors": [
+    "Zhou C",
+    "Hu Z",
+    "Sagar L",
+    "Yang S",
+    "et al."
+   ],
+   "abstract": "Manual limb suspension during surgical preparation is labor-intensive, requires additional personnel, and may increase the risk of musculoskeletal injuries among surgical staff. We describe a cotton-swab-anchored suspension technique that uses a sterile bandage (Kerlix) looped around the ankle, secured with 2 cotton swabs inserted into the knot, and suspended from a heavy-duty intravenous pole. This method enables hands-free limb elevation, allowing efficient preoperative preparation. After completion of preparation, the limb is released by simply removing the cotton swab. This technique eliminates the need for manual limb holding, reduces occupational strain, provides stable mechanical support, and enables quick, controlled limb release without instruments. It is cost-effective, reproducible, and suitable for various lower extremity procedures.",
+   "doi": "10.1002/atn2.70276",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42819880/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42821993",
+   "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
+   "journal": "JMIR Form Res",
+   "year": "2026",
+   "authors": [
+    "Kedoin H",
+    "Itoh Y",
+    "Nirengi T",
+    "Sato Y",
+    "et al."
+   ],
+   "abstract": "Adequate sleep supports mood regulation and injury prevention in high school female athletes; however, insufficient sleep is common in this population. Wearable devices enable continuous assessment of objective sleep metrics, but personalized feedback based on daily sleep data remains underexplored. This study evaluated the technical and operational feasibility of a multicomponent AI-supported mobile health (mHealth) intervention that delivered personalized sleep feedback to high school female soccer players. Sleep efficiency was the primary preliminary efficacy outcome; other sleep-related measures were secondary or exploratory outcomes, and mood state and sports injury severity were exploratory outcomes. We conducted a pilot randomized controlled trial among 25 high school female soccer players from a single team. The study briefing and system setup began on August 18, 2025, and the trial was retrospectively registered with the University Hospital Medical Information Network (UMIN) Clinical Trials Registry on April 7, 2026 (UMIN000061189). Weeks 1 to 4 constituted the baseline period. After the week 5 baseline questionnaires, participants were stratified by median baseline total sleep time (TST) and Pittsburgh Sleep Quality Index score and randomly allocated 1:1 to the intervention (n=12) or control (n=13) group. During weeks 6 to 9, the intervention group received GPT-4o-generated personalized feedback via LINE on days with valid prior-night Fitbit data, whereas the control group received daily nonpersonalized sleep information. Technical and operational feasibility outcomes included message delivery success, valid Fitbit wear nights, questionnaire completion, technical problems, adverse events, and privacy breaches. Secondary outcomes included TST, wake after sleep onset (WASO), subjective sleep quality, sleep difficulty, and daytime sleepiness. Deep, light, and rapid eye movement (REM) sleep durations, mood state, and sports injury severity were exploratory outcomes. All 25 participants completed the trial. Message delivery success and questionnaire completion were 100% in both groups. Median valid Fitbit wear nights were 26 (IQR 24-28) in the intervention group and 22 (IQR 15-26) in the control group. No major technical problems, adverse events, or privacy breaches occurred. Change in sleep efficiency, the primary preliminary efficacy outcome, favored the intervention group (Hodges-Lehmann between-group difference 2%, 95% CI 0.50%-4%; P=.046; r=0.35). Nominal between-group differences were also observed for the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) total score and sleep difficulty score and, among exploratory outcomes, REM sleep duration and total mood disturbance. No between-group differences were observed in TST, WASO, deep or light sleep duration, daytime sleepiness, or sports injury severity. The multicomponent AI-supported mHealth intervention demonstrated technical and operational feasibility in this single-team setting. Preliminary, hypothesis-generating between-group differences were observed in sleep efficiency and selected subjective sleep and mood outcomes. These findings should not be interpreted as evidence of established effectiveness and require confirmation in a sufficiently powered trial. UMIN Clinical Trials Registry UMIN000061189; https://tinyurl.com/tw3d7aku.",
+   "doi": "10.2196/101615",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42821993/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42771890",
+   "title": "A Hierarchical Machine Learning-Based Framework for Clinical Decision Support in Foot Orthosis Prescription: Algorithm Development and Validation Study.",
+   "journal": "JMIR Med Inform",
+   "year": "2026",
+   "authors": [
+    "Jung JY",
+    "Yang W",
+    "Kim JJ"
+   ],
+   "abstract": "Foot orthosis prescription is a complex clinical decision-making process that involves selecting and combining multiple structural, functional, and material components based on heterogeneous biomechanical information. In routine outpatient practice, detailed biomechanical assessments are often incomplete, creating substantial variability in prescription decisions, and limiting the applicability of conventional machine learning (ML) models that assume fixed feature availability. This study aimed to develop and evaluate a hierarchical ML-based clinical decision support framework for foot orthosis prescription that accommodates variable clinical information availability, supports multilabel prescription decisions, and incorporates safety-oriented recommendation strategies for routine outpatient practice. A retrospective observational study was conducted using 6462 visit-level clinical encounters collected from a single institution between 2015 and 2020. Orthotic prescription was formulated as a multilabel prediction task involving 15 prescription components. A hierarchical modeling framework was implemented, consisting of a basic decision level using routinely available demographic and alignment variables, and an advanced level incorporating subtalar joint inversion and eversion range of motion measurements when available. Tree-based gradient boosting models were evaluated using 5-fold stratified grouped cross-validation. Model performance was assessed using component-wise area under the receiver operating characteristic curve (AUROC), area under the precision-recall curve (AUPRC), positive predictive value (PPV), macro-averaged Hamming loss, Top-K hit, and coverage rates based on probabilities calibrated using internal grouped Platt scaling, and component-specific safety-oriented threshold calibration. The hierarchical models demonstrated consistent predictive performance across both decision levels, although precision-recall-based analyses indicated greater variability for low-prevalence prescription components. The Level 4 and Level 8 models achieved mean component-wise AUROC values of 0.792 and 0.816, respectively, with macro-averaged Hamming loss of 0.113 and 0.111. Using component-specific Platt scaling within the 5-fold stratified grouped cross-validation framework, Top-K analysis demonstrated a Top-1 hit rate of 86.7% and a Top-3 hit rate of 97.4%. When all prescribed components were considered, Top-K coverage reached 71.7% at Top-3 and increased to 97.0% at Top-8. Safety-oriented threshold calibration was performed separately for each prescription component, selecting the threshold that achieved the highest sensitivity while maintaining a specificity of at least 95%. Under this component-specific calibration strategy, the aggregated operating profile achieved a microaveraged specificity of 96.00% with a microaveraged sensitivity of 28.71%. Age-stratified analyses revealed distinct feature-importance patterns between pediatric and adult populations. The proposed hierarchical clinical decision support framework supported multicomponent foot orthosis prescription under variable information availability commonly encountered in outpatient practice. By generating ranked component-wise recommendations and high-confidence threshold-calibrated outputs, the framework may support clinician decision-making in routine orthotic practice. Further prospective validation will be required to determine its clinical utility.",
+   "doi": "10.2196/92831",
+   "pubtypes": [
+    "Journal Article",
+    "Observational Study",
+    "Validation Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42771890/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
   {
    "pmid": "42817240",
    "title": "A Sustainable Natural-Rubber IoT Smart Insole for Remote Body-Load Monitoring: An Observational Gait Comparison in Flexible Flatfoot.",
@@ -101,175 +186,8 @@
      "bucket": "fieldnotes"
     }
    ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42817379",
-   "title": "Development of a Wearable Sensor Platform for Fall Risk Assessment and Fall Detection.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Imperato A",
-    "Caporaso M",
-    "Pascalis V",
-    "Di Gironimo G",
-    "et al."
-   ],
-   "abstract": "Objective: Falls among the elderly constitute a major global public health issue. Research has therefore focused on two complementary areas: fall risk prevention and fall detection. Existing solutions mainly rely on body-attached sensors confined to laboratory settings, whereas recent research has shifted toward wearable e-textiles with non-invasive, long-term-wear sensors. In this context, the study presents a wearable sensor platform to both predict fall risk and detect falls, based on sensorized clothing integrating inertial measurement units and surface electromyography sensors. Methods: Fall risk was estimated from gait parameters extracted during a 10 m walking test as the probability of belonging to a faller (vs. non-faller) group, using a logistic regression model trained on the G-STRIDE dataset, complemented by neuromuscular parameters extracted from sEMG and associated with fall risk. Fall detection, focused on improving pre-impact identification, was framed as a binary classification between activities of daily living and falls, using a reduced Spatio-Temporal Attention Network trained on the FallTL dataset and refined with our own platform's data. Results: The obtained results were: fall-risk assessment, Area Under the Curve = 77.8%, Accuracy = 68.7%; fall detection, Accuracy = 96.7%, F1 Score = 77.3%, lead time = 390 ms. Conclusions: As a single-subject proof of concept, these results support the feasibility of a unified platform integrating objective fall-risk screening and fall event identification, with a predicted time before impact suitable for protective systems intervention; validation on a larger, representative cohort is required before any clinical claim can be made.",
-   "doi": "10.3390/s26185867",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42817379/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42816715",
-   "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
-   "journal": "Ann Biomed Eng",
-   "year": "2026",
-   "authors": [
-    "Sciacca D",
-    "Ionescu A"
-   ],
-   "abstract": "Accurate estimation of head kinematics is critical for assessing brain injury risk in contact sports. This study introduces a Vector AutoRegressive (VAR) framework to jointly model linear acceleration and angular velocity during head impacts, capturing the inherent coupling between translational and rotational dynamics. Controlled impacts were performed on a helmeted Hybrid III 50th percentile male headform using a pendulum impactor across multiple locations (front, front-oblique, side, rear-oblique) and three impact intensities (30\u00b0, 50\u00b0, 70\u00b0 pendulum angles). Helmet-mounted Inertial Measurement Unit (IMU) signals were processed using VAR models trained on reference headform data at 30\u00b0 and 50\u00b0 impacts. The proposed framework was also evaluated for the estimation of head kinematics at untrained impact intensities (70\u00b0). At the trained intensities, the VAR approach generally improved angular velocity reconstruction across impact configurations, with PMPE and RMSE reductions of up to 20.9\u00a0pp (-81.1%) and 288.8 \u00b0/s (-85.7%), respectively, at 30\u00b0. Linear acceleration improvements were more limited, with PMPE and RMSE reductions of up to 171.8\u00a0pp (-85.7%) and 10.9\u00a0g (-74.8%), also at 30\u00b0. At the untrained 70\u00b0 intensity, angular velocity PMPE decreased at all locations but significantly only at the front-oblique, while RMSE decreased significantly at the front and front-oblique (up to\u2009-\u2009341.1 \u00b0/s,\u2009-\u200952.2%). In contrast, linear acceleration PMPE degraded at all locations, increasing by up to 68.6\u00a0pp (+726.4%), while RMSE showed either deterioration or non-significant improvement. In conclusion, the VAR modeling framework offers a promising multivariate approach for reconstructing head impact kinematics from a single IMU-instrumented helmet. However, limited generalization to higher, untrained intensities highlights the need for further development before real-time head injury assessment can be supported.",
-   "doi": "10.1007/s10439-026-04395-0",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42816715/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42815406",
-   "title": "Management, reconstructive strategies and outcomes following open tibia/fibula and ankle fractures: An age-based comparison.",
-   "journal": "J Plast Reconstr Aesthet Surg",
-   "year": "2026",
-   "authors": [
-    "Liu XX",
-    "Odusanya CC",
-    "Farid MM",
-    "Longden EE",
-    "et al."
-   ],
-   "abstract": "Open lower limb fractures require multidisciplinary orthoplastic management. With an ageing population, older patients present with distinct injury patterns, greater comorbidity and reduced physiological reserve. In this study, we compared presentation, management and outcomes between younger and older patients. A 4-year retrospective complete case cohort study (2018-2022) was conducted at a tertiary major trauma centre. Adult patients with open tibia, fibula or ankle fractures were included. Patients were stratified into younger adult (<65 years) and older adult (\u226565 years) cohorts based on age. Data collected included demographics, comorbidities, injury mechanism, Gustilo-Anderson (GA) classification, soft tissue reconstruction strategy, complications and mortality. A total of 292 patients were included (183 younger and 109 older adults). The older cohort were predominantly female (71%) with greater comorbidity burden. Despite the predominantly low-energy mechanisms (61% ground level falls), they sustained more severe injuries, with a higher proportion of GA grade III fractures, particularly GA-IIIb (52%). Single-stage skeletal fixation and soft tissue coverage was more frequently performed in older patients (55%). Median length of stay was longer (16 vs 10 days), and complications were comparable (20 vs 14%). In-hospital mortality was observed exclusively in the older cohort and occurred in 10% of the population-nearly half of which resulted from acute preoperative physiological decompensation. Older patients experience higher morbidity alongside greater comorbidity and severity of injury, despite lower energy mechanism. Management of injury frequently favours single-stage soft tissue coverage. This highlights the need for patient centred orthoplastic pathways and importance of early multidisciplinary involvement.",
-   "doi": "10.1016/j.bjps.2026.09.011",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42815406/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42815174",
-   "title": "Shear wave elastography for assessing lower extremity muscle stiffness after anterior cruciate ligament reconstruction: A systematic review.",
-   "journal": "Clin Biomech (Bristol)",
-   "year": "2026",
-   "authors": [
-    "Marczak J",
-    "Lightle C",
-    "Brooks A",
-    "Kyriazi M",
-    "et al."
-   ],
-   "abstract": "Anterior cruciate ligament reconstruction (ACLR) restores passive joint stability, yet athletes who meet strength benchmarks may still land stiffly, hesitate to push off, and re-injure. Muscle stiffness governs how rapidly force is transmitted to the joint, and shear wave elastography (SWE) quantifies it muscle by muscle, but SWE findings after ACLR have not been synthesized. Scopus, PubMed, SPORTDiscus, and CINAHL were searched through November 2025 following PRISMA 2020. Eligible studies compared SWE-derived lower-extremity muscle stiffness after ACLR with contralateral limbs or controls. Two reviewers independently screened, extracted data, and appraised quality (Downs and Black). Findings were synthesized narratively with Hedges' g (95% confidence intervals) where data permitted. Six studies (173 ACLR participants, 79 controls; quality poor to good) were included. Reduced passive vastus medialis shear modulus was consistently observed in operative limbs (g\u00a0-\u00a01.10 to -1.21 versus controls) and was associated with quadriceps strength, knee function, and landing biomechanics. Semitendinosus stiffness was reduced after hamstring tendon harvest (g\u00a0-\u00a01.29 to -1.64) but not at mid-belly after return to sport. Longitudinal deficits persisted at three months; active-contraction findings conflicted. No study sampled the distal vastus medialis obliquus or the distal hamstring musculotendinous region. SWE detects muscle-specific mechanical deficits that relate to function beyond strength: a compliant vastus medialis offers a mechanical explanation for the strong patient who lands stiffly, and reduced semitendinosus stiffness marks donor-site morbidity. Standardized protocols that sample clinically relevant regions and follow patients to return to sport are needed before SWE can guide rehabilitation.",
-   "doi": "10.1016/j.clinbiomech.2026.106982",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42815174/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42675844",
-   "title": "[Research on Exoskeleton Human-Machine Interaction for Walking Assistance in Myasthenia].",
-   "journal": "Zhongguo Yi Liao Qi Xie Za Zhi",
-   "year": "2026",
-   "authors": [
-    "Yin X",
-    "Li H",
-    "He J",
-    "Yang L",
-    "et al."
-   ],
-   "abstract": "To address the insufficient human-machine interaction adaptability in current lower-limb rehabilitation exoskeletons, this study proposes a lower-limb assistive exoskeleton featuring active actuation at the hip and knee joints and passive following at the ankle joint. A rigid self-adaptive human-machine interface is adopted to provide both effective assistive torque and structural compliance, aiming to deliver gait assistance for individuals with muscle weakness while improving wearing comfort. First, a bionic geometric structure of the exoskeleton was constructed based on human lower-limb biomechanics, and passive degrees of freedom in the attachment components were designed using a serial-chain topology. The forward kinematics model of the exoskeleton was then established and verified using the D-H method. Finally, a human-exoskeleton coupled model was built on the OpenSim platform, in which the human model was configured to three muscle strength conditions (100%, 80% and 60% of the maximal isometric force). The assistive performance and interaction characteristics of the designed exoskeleton were evaluated through changes in two key indicators-overall metabolic consumption and human-robot interaction forces-as well as variations in hip and knee flexor-extensor muscle forces. The results show that the proposed exoskeleton effectively reduces human-machine interaction forces, with peak interaction forces at the thigh decreasing from 70 N to 20 N and those at the shank decreasing from 150 N to 30 N. The overall metabolic cost of the wearer was reduced by 13.8%-15.4%, and the muscle force outputs of major hip and knee muscle groups markedly decreased. These findings validate the rationality of the design and demonstrate its performance in adaptive human-machine interaction assistance, highlighting its application potential in rehabilitation training and gait assistance for individuals with muscle weakness.",
-   "doi": "10.12455/j.issn.1671-7104.250593",
-   "pubtypes": [
-    "English Abstract",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42675844/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42771890",
-   "title": "A Hierarchical Machine Learning-Based Framework for Clinical Decision Support in Foot Orthosis Prescription: Algorithm Development and Validation Study.",
-   "journal": "JMIR Med Inform",
-   "year": "2026",
-   "authors": [
-    "Jung JY",
-    "Yang W",
-    "Kim JJ"
-   ],
-   "abstract": "Foot orthosis prescription is a complex clinical decision-making process that involves selecting and combining multiple structural, functional, and material components based on heterogeneous biomechanical information. In routine outpatient practice, detailed biomechanical assessments are often incomplete, creating substantial variability in prescription decisions, and limiting the applicability of conventional machine learning (ML) models that assume fixed feature availability. This study aimed to develop and evaluate a hierarchical ML-based clinical decision support framework for foot orthosis prescription that accommodates variable clinical information availability, supports multilabel prescription decisions, and incorporates safety-oriented recommendation strategies for routine outpatient practice. A retrospective observational study was conducted using 6462 visit-level clinical encounters collected from a single institution between 2015 and 2020. Orthotic prescription was formulated as a multilabel prediction task involving 15 prescription components. A hierarchical modeling framework was implemented, consisting of a basic decision level using routinely available demographic and alignment variables, and an advanced level incorporating subtalar joint inversion and eversion range of motion measurements when available. Tree-based gradient boosting models were evaluated using 5-fold stratified grouped cross-validation. Model performance was assessed using component-wise area under the receiver operating characteristic curve (AUROC), area under the precision-recall curve (AUPRC), positive predictive value (PPV), macro-averaged Hamming loss, Top-K hit, and coverage rates based on probabilities calibrated using internal grouped Platt scaling, and component-specific safety-oriented threshold calibration. The hierarchical models demonstrated consistent predictive performance across both decision levels, although precision-recall-based analyses indicated greater variability for low-prevalence prescription components. The Level 4 and Level 8 models achieved mean component-wise AUROC values of 0.792 and 0.816, respectively, with macro-averaged Hamming loss of 0.113 and 0.111. Using component-specific Platt scaling within the 5-fold stratified grouped cross-validation framework, Top-K analysis demonstrated a Top-1 hit rate of 86.7% and a Top-3 hit rate of 97.4%. When all prescribed components were considered, Top-K coverage reached 71.7% at Top-3 and increased to 97.0% at Top-8. Safety-oriented threshold calibration was performed separately for each prescription component, selecting the threshold that achieved the highest sensitivity while maintaining a specificity of at least 95%. Under this component-specific calibration strategy, the aggregated operating profile achieved a microaveraged specificity of 96.00% with a microaveraged sensitivity of 28.71%. Age-stratified analyses revealed distinct feature-importance patterns between pediatric and adult populations. The proposed hierarchical clinical decision support framework supported multicomponent foot orthosis prescription under variable information availability commonly encountered in outpatient practice. By generating ranked component-wise recommendations and high-confidence threshold-calibrated outputs, the framework may support clinician decision-making in routine orthotic practice. Further prospective validation will be required to determine its clinical utility.",
-   "doi": "10.2196/92831",
-   "pubtypes": [
-    "Journal Article",
-    "Observational Study",
-    "Validation Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42771890/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42742678",
@@ -888,6 +806,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42817379",
+   "title": "Development of a Wearable Sensor Platform for Fall Risk Assessment and Fall Detection.",
+   "journal": "Sensors (Basel)",
+   "year": "2026",
+   "authors": [
+    "Imperato A",
+    "Caporaso M",
+    "Pascalis V",
+    "Di Gironimo G",
+    "et al."
+   ],
+   "abstract": "Objective: Falls among the elderly constitute a major global public health issue. Research has therefore focused on two complementary areas: fall risk prevention and fall detection. Existing solutions mainly rely on body-attached sensors confined to laboratory settings, whereas recent research has shifted toward wearable e-textiles with non-invasive, long-term-wear sensors. In this context, the study presents a wearable sensor platform to both predict fall risk and detect falls, based on sensorized clothing integrating inertial measurement units and surface electromyography sensors. Methods: Fall risk was estimated from gait parameters extracted during a 10 m walking test as the probability of belonging to a faller (vs. non-faller) group, using a logistic regression model trained on the G-STRIDE dataset, complemented by neuromuscular parameters extracted from sEMG and associated with fall risk. Fall detection, focused on improving pre-impact identification, was framed as a binary classification between activities of daily living and falls, using a reduced Spatio-Temporal Attention Network trained on the FallTL dataset and refined with our own platform's data. Results: The obtained results were: fall-risk assessment, Area Under the Curve = 77.8%, Accuracy = 68.7%; fall detection, Accuracy = 96.7%, F1 Score = 77.3%, lead time = 390 ms. Conclusions: As a single-subject proof of concept, these results support the feasibility of a unified platform integrating objective fall-risk screening and fall event identification, with a predicted time before impact suitable for protective systems intervention; validation on a larger, representative cohort is required before any clinical claim can be made.",
+   "doi": "10.3390/s26185867",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42817379/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42770721",
    "title": "Differential effects of jump-induced fatigue on lower-extremity landing biomechanics in children and adults.",
    "journal": "Acta Bioeng Biomech",
@@ -1108,34 +1054,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42679060",
-   "title": "Effects Of Soft/Quiet Running Cues Versus Changing to a Forefoot Strike Pattern on Gait Mechanics.",
-   "journal": "Med Sci Sports Exerc",
-   "year": "2026",
-   "authors": [
-    "Sarantos L",
-    "Zeppetelli DJ",
-    "Dempsey CA",
-    "Sara LK",
-    "et al."
-   ],
-   "abstract": "To compare changes in running biomechanics between two gait modifications: cues to run softly and quietly (SOF) and shifting to a forefoot strike pattern (FFS). Thirty-eight individuals completed testing, including running with habitual gait (HAB) and the two gait modifications, while biomechanical data were collected. Variables of interest included joint angles and moments, knee stiffness, and ground reaction forces. Repeated measures analysis of variance was used to compare gait conditions. The SOF condition showed higher peak knee flexion angles and excursion, foot strike angles (vs. HAB and FFS), and higher peak and initial contact ankle dorsiflexion angles, peak eversion angles, and lower initial contact ankle inversion angles (vs. FFS). The FFS condition resulted in a more plantarflexed and inverted ankle at initial contact, as well as a more plantarflexed foot. The SOF condition resulted in reduced peaks and loading rates for vertical and posterior forces, however FFS led to reduced vertical loading rates compared to HAB and SOF. For joint moments, the SOF condition showed increased hip flexion and extension moments and reduced knee stiffness (vs. HAB and FFS), and reduced ankle plantarflexion moments (vs. FFS). The FFS condition also showed increased knee flexion and ankle plantarflexion moments compared to HAB. The SOF modification was shown to be a viable alternative to FFS for reducing several key aspects of biomechanical loading during running, including sagittal knee and ankle moments and knee stiffness, as well as peaks and loading rates for vertical and posterior ground reaction forces. However, the increases in hip joint moments should lead to some caution and warrant further investigation.",
-   "doi": "10.1249/MSS.0000000000004131",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42679060/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42741095",
    "title": "Electromyographic analysis of muscle activation and co-activation across smash phases in para-badminton: an exploratory investigation of neuromuscular coordination.",
    "journal": "Front Bioeng Biotechnol",
@@ -1270,31 +1188,29 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42678619",
-   "title": "Evaluating the Efficacy of Biofeedback in Pain Management and Rehabilitation of Sports Injuries: A Systematic Review of Randomized Controlled Trials.",
-   "journal": "Appl Psychophysiol Biofeedback",
+   "pmid": "42816715",
+   "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
+   "journal": "Ann Biomed Eng",
    "year": "2026",
    "authors": [
-    "Delgado Viana AM",
-    "Pirwani N",
-    "Szabo A"
+    "Sciacca D",
+    "Ionescu A"
    ],
-   "abstract": "To evaluate the effectiveness of biofeedback interventions for pain management and rehabilitation outcomes in athletes and individuals with sports-related injuries. Systematic review of randomized controlled trials. A systematic literature search was conducted in eight electronic databases: PubMed, Google Scholar, Web of Science, Scopus, ProQuest, PEDro, SPORTDiscus, and the Cochrane Central Register of Controlled Trials. Searches were completed in September 2024 and updated in November 2025. Randomized controlled trials investigating the use of biofeedback interventions for pain management and rehabilitation in athletes or individuals with sports-related injuries were eligible for inclusion. Due to heterogeneity in participant characteristics, injury types, biofeedback modalities, and outcome measures, a narrative synthesis was performed. Methodological quality was assessed using the Cochrane Risk of Bias tool. Nine randomized controlled trials from Saudi Arabia, Taiwan, Canada, Romania, Brazil, and Iran were included. Biofeedback interventions addressed patellofemoral pain, shoulder impingement, chronic ankle instability, plantar fasciitis, post-traumatic osteoarthritis, chronic low back pain, meniscal injuries, and other musculoskeletal sports injuries. Modalities included electromyography, heart rate variability, neurofeedback, virtual reality feedback, and real-time visual gait retraining. Biofeedback was associated with reduced pain, improved muscle activation and strength, enhanced functional recovery, and better rehabilitation outcomes. Biofeedback may be a valuable adjunct to conventional rehabilitation for athletes or individuals with sports-related injuries. For clinicians, it can enhance neuromuscular control, patient engagement, and functional outcomes in multimodal programs. However, the certainty of the evidence is low, and further high-quality trials across diverse populations are needed.",
-   "doi": "10.1007/s10484-026-09809-2",
+   "abstract": "Accurate estimation of head kinematics is critical for assessing brain injury risk in contact sports. This study introduces a Vector AutoRegressive (VAR) framework to jointly model linear acceleration and angular velocity during head impacts, capturing the inherent coupling between translational and rotational dynamics. Controlled impacts were performed on a helmeted Hybrid III 50th percentile male headform using a pendulum impactor across multiple locations (front, front-oblique, side, rear-oblique) and three impact intensities (30\u00b0, 50\u00b0, 70\u00b0 pendulum angles). Helmet-mounted Inertial Measurement Unit (IMU) signals were processed using VAR models trained on reference headform data at 30\u00b0 and 50\u00b0 impacts. The proposed framework was also evaluated for the estimation of head kinematics at untrained impact intensities (70\u00b0). At the trained intensities, the VAR approach generally improved angular velocity reconstruction across impact configurations, with PMPE and RMSE reductions of up to 20.9\u00a0pp (-81.1%) and 288.8 \u00b0/s (-85.7%), respectively, at 30\u00b0. Linear acceleration improvements were more limited, with PMPE and RMSE reductions of up to 171.8\u00a0pp (-85.7%) and 10.9\u00a0g (-74.8%), also at 30\u00b0. At the untrained 70\u00b0 intensity, angular velocity PMPE decreased at all locations but significantly only at the front-oblique, while RMSE decreased significantly at the front and front-oblique (up to\u2009-\u2009341.1 \u00b0/s,\u2009-\u200952.2%). In contrast, linear acceleration PMPE degraded at all locations, increasing by up to 68.6\u00a0pp (+726.4%), while RMSE showed either deterioration or non-significant improvement. In conclusion, the VAR modeling framework offers a promising multivariate approach for reconstructing head impact kinematics from a single IMU-instrumented helmet. However, limited generalization to higher, untrained intensities highlights the need for further development before real-time head injury assessment can be supported.",
+   "doi": "10.1007/s10439-026-04395-0",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42678619/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42816715/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": false,
-   "bucket": "research"
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42780983",
@@ -1624,6 +1540,34 @@
      "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42815406",
+   "title": "Management, reconstructive strategies and outcomes following open tibia/fibula and ankle fractures: An age-based comparison.",
+   "journal": "J Plast Reconstr Aesthet Surg",
+   "year": "2026",
+   "authors": [
+    "Liu XX",
+    "Odusanya CC",
+    "Farid MM",
+    "Longden EE",
+    "et al."
+   ],
+   "abstract": "Open lower limb fractures require multidisciplinary orthoplastic management. With an ageing population, older patients present with distinct injury patterns, greater comorbidity and reduced physiological reserve. In this study, we compared presentation, management and outcomes between younger and older patients. A 4-year retrospective complete case cohort study (2018-2022) was conducted at a tertiary major trauma centre. Adult patients with open tibia, fibula or ankle fractures were included. Patients were stratified into younger adult (<65 years) and older adult (\u226565 years) cohorts based on age. Data collected included demographics, comorbidities, injury mechanism, Gustilo-Anderson (GA) classification, soft tissue reconstruction strategy, complications and mortality. A total of 292 patients were included (183 younger and 109 older adults). The older cohort were predominantly female (71%) with greater comorbidity burden. Despite the predominantly low-energy mechanisms (61% ground level falls), they sustained more severe injuries, with a higher proportion of GA grade III fractures, particularly GA-IIIb (52%). Single-stage skeletal fixation and soft tissue coverage was more frequently performed in older patients (55%). Median length of stay was longer (16 vs 10 days), and complications were comparable (20 vs 14%). In-hospital mortality was observed exclusively in the older cohort and occurred in 10% of the population-nearly half of which resulted from acute preoperative physiological decompensation. Older patients experience higher morbidity alongside greater comorbidity and severity of injury, despite lower energy mechanism. Management of injury frequently favours single-stage soft tissue coverage. This highlights the need for patient centred orthoplastic pathways and importance of early multidisciplinary involvement.",
+   "doi": "10.1016/j.bjps.2026.09.011",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42815406/",
+   "matched": [
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
@@ -2221,6 +2165,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42815174",
+   "title": "Shear wave elastography for assessing lower extremity muscle stiffness after anterior cruciate ligament reconstruction: A systematic review.",
+   "journal": "Clin Biomech (Bristol)",
+   "year": "2026",
+   "authors": [
+    "Marczak J",
+    "Lightle C",
+    "Brooks A",
+    "Kyriazi M",
+    "et al."
+   ],
+   "abstract": "Anterior cruciate ligament reconstruction (ACLR) restores passive joint stability, yet athletes who meet strength benchmarks may still land stiffly, hesitate to push off, and re-injure. Muscle stiffness governs how rapidly force is transmitted to the joint, and shear wave elastography (SWE) quantifies it muscle by muscle, but SWE findings after ACLR have not been synthesized. Scopus, PubMed, SPORTDiscus, and CINAHL were searched through November 2025 following PRISMA 2020. Eligible studies compared SWE-derived lower-extremity muscle stiffness after ACLR with contralateral limbs or controls. Two reviewers independently screened, extracted data, and appraised quality (Downs and Black). Findings were synthesized narratively with Hedges' g (95% confidence intervals) where data permitted. Six studies (173 ACLR participants, 79 controls; quality poor to good) were included. Reduced passive vastus medialis shear modulus was consistently observed in operative limbs (g\u00a0-\u00a01.10 to -1.21 versus controls) and was associated with quadriceps strength, knee function, and landing biomechanics. Semitendinosus stiffness was reduced after hamstring tendon harvest (g\u00a0-\u00a01.29 to -1.64) but not at mid-belly after return to sport. Longitudinal deficits persisted at three months; active-contraction findings conflicted. No study sampled the distal vastus medialis obliquus or the distal hamstring musculotendinous region. SWE detects muscle-specific mechanical deficits that relate to function beyond strength: a compliant vastus medialis offers a mechanical explanation for the strong patient who lands stiffly, and reduced semitendinosus stiffness marks donor-site morbidity. Standardized protocols that sample clinically relevant regions and follow patients to return to sport are needed before SWE can guide rehabilitation.",
+   "doi": "10.1016/j.clinbiomech.2026.106982",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42815174/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42775945",
    "title": "Smartphone-Based Measurement of Cognition and Physical Function in Older Emergency Department Patients: A Feasibility Study.",
    "journal": "Acad Emerg Med",
@@ -2235,7 +2208,8 @@
    "abstract": "Falls are a leading cause of emergency department (ED) visits among older adults and represent a critical opportunity to identify cognitive and functional impairments that influence treatment and recovery. While smartphone- and wearable-based assessments are increasingly used to assess cognitive and physical function in older adults, their feasibility in the ED setting, particularly after a fall, remains unclear. From August 2021 to January 2024, community-dwelling older ED patients (\u2265\u200965\u2009years) were screened for cognitive impairment (six-item screener) and functional limitations (modified Barthel Index, mobility equipment). Apple ResearchKit digital assessments measured cognition (Stroop, Trail Making, reaction time) and physical function (gait/balance, timed walk). Wearable devices monitored movement. Feasibility was examined via attempt and completion rates. Reasons for non-attempt/non-completion and associations with patient characteristics were explored. Among 196 patients (mean age 78.2\u2009\u00b1\u20097.6\u2009years, 68% women), 77% attempted at least one digital assessment. Cognitive tests had moderate-to-high completion rates (68%-87%) among those who attempted, and completion was associated with lack of cognitive impairment (p =\u20090.002, 0.002, 0.01, for Stroop, Trail Making, and reaction time tests, respectively). Non-completion was due most often to lack of glasses, not feeling well, or technology issues. Physical function tests had much lower completion rates (18%-20%), and completion was associated with functional status (Barthel Index; p =\u20090.02, 0.01 for gait and balance and timed walk tests) and mobility equipment use (p =\u20090.02, 0.03). Low completion rates were mainly due to safety concerns, pain, and injury. Digital assessment of cognitive function is feasible in most older adults presenting to the ED for falls, but physical function tests had low feasibility in this population. Future research will explore whether such data predict clinically relevant outcomes (e.g., time to injury recovery, ED revisits) and can inform personalized intervention (e.g., physical therapy referrals, skilled nursing facility placement). Clinical Trial Number: NCT04304495.",
    "doi": "10.1111/acem.70408",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Randomized Controlled Trial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42775945/",
    "matched": [
