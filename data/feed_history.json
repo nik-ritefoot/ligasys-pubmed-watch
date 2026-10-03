@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42826255",
+  "title": "Artificial intelligence in sports biomechanics: A comprehensive bibliometric analysis and science mapping of global research trends from 2015 to 2024.",
+  "journal": "Medicine (Baltimore)",
+  "year": "2026",
+  "authors": [
+   "Chaabeni A",
+   "Dhahbi W",
+   "Kalai A",
+   "Dergaa I",
+   "et al."
+  ],
+  "abstract": "This study aimed to systematically map the intellectual structure, evolution, and research landscape of artificial intelligence (AI) applications in sports biomechanics through comprehensive bibliometric analysis. A mixed-methods bibliometric analysis was conducted using Web of Science Core Collection as the primary data source. A three-component Boolean search query targeting the intersection of AI methods, biomechanical assessments, and sports applications was implemented to identify relevant publications from January 2015 to December 2024. Performance analysis and science mapping techniques were employed using VOSviewer and Bibliometrix R-package, including co-occurrence analysis, bibliographic coupling, author collaboration networks, and thematic mapping using Callon's centrality-density model. The analysis encompassed 8789 publications demonstrating exceptional growth with an annual growth rate of 12.05%, peaking at 1496 articles in 2024. The research involved 30,012 authors across 1798 journals, with high collaboration patterns (5.46 coauthors per document) and substantial international cooperation (27.57%). China led production with 2382 articles (27.1%), followed by the United States with 1303 articles (14.8%). Sensors emerged as the dominant journal (664 articles), while Chen X was identified as the most impactful author (H-index 22). Science mapping revealed machine learning as the central integrative hub connecting biomechanics, electromyography, and rehabilitation. Five distinct thematic clusters were identified, with electromyography, sensors, and kinematics emerging as motor themes representing well-developed research areas. AI applications in sports biomechanics represent a rapidly maturing field characterized by robust international collaboration and clear thematic organization around sensor technologies and movement analysis, indicating successful integration of computational methods with traditional biomechanical approaches for performance enhancement and injury prevention.",
+  "doi": "10.1097/MD.0000000000050932",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42826255/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-03T17:35:30Z"
+ },
+ {
   "pmid": "42819880",
   "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
   "journal": "Arthrosc Tech",

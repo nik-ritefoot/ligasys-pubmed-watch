@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T18:40:18+00:00",
+ "generated": "2026-10-03T17:35:30+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,59 +65,30 @@
   }
  ],
  "counts": {
-  "total": 89,
-  "new": 2,
+  "total": 87,
+  "new": 1,
   "research": 23,
-  "fieldnotes": 66
+  "fieldnotes": 64
  },
  "records": [
   {
-   "pmid": "42819880",
-   "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
-   "journal": "Arthrosc Tech",
+   "pmid": "42826255",
+   "title": "Artificial intelligence in sports biomechanics: A comprehensive bibliometric analysis and science mapping of global research trends from 2015 to 2024.",
+   "journal": "Medicine (Baltimore)",
    "year": "2026",
    "authors": [
-    "Zhou C",
-    "Hu Z",
-    "Sagar L",
-    "Yang S",
+    "Chaabeni A",
+    "Dhahbi W",
+    "Kalai A",
+    "Dergaa I",
     "et al."
    ],
-   "abstract": "Manual limb suspension during surgical preparation is labor-intensive, requires additional personnel, and may increase the risk of musculoskeletal injuries among surgical staff. We describe a cotton-swab-anchored suspension technique that uses a sterile bandage (Kerlix) looped around the ankle, secured with 2 cotton swabs inserted into the knot, and suspended from a heavy-duty intravenous pole. This method enables hands-free limb elevation, allowing efficient preoperative preparation. After completion of preparation, the limb is released by simply removing the cotton swab. This technique eliminates the need for manual limb holding, reduces occupational strain, provides stable mechanical support, and enables quick, controlled limb release without instruments. It is cost-effective, reproducible, and suitable for various lower extremity procedures.",
-   "doi": "10.1002/atn2.70276",
+   "abstract": "This study aimed to systematically map the intellectual structure, evolution, and research landscape of artificial intelligence (AI) applications in sports biomechanics through comprehensive bibliometric analysis. A mixed-methods bibliometric analysis was conducted using Web of Science Core Collection as the primary data source. A three-component Boolean search query targeting the intersection of AI methods, biomechanical assessments, and sports applications was implemented to identify relevant publications from January 2015 to December 2024. Performance analysis and science mapping techniques were employed using VOSviewer and Bibliometrix R-package, including co-occurrence analysis, bibliographic coupling, author collaboration networks, and thematic mapping using Callon's centrality-density model. The analysis encompassed 8789 publications demonstrating exceptional growth with an annual growth rate of 12.05%, peaking at 1496 articles in 2024. The research involved 30,012 authors across 1798 journals, with high collaboration patterns (5.46 coauthors per document) and substantial international cooperation (27.57%). China led production with 2382 articles (27.1%), followed by the United States with 1303 articles (14.8%). Sensors emerged as the dominant journal (664 articles), while Chen X was identified as the most impactful author (H-index 22). Science mapping revealed machine learning as the central integrative hub connecting biomechanics, electromyography, and rehabilitation. Five distinct thematic clusters were identified, with electromyography, sensors, and kinematics emerging as motor themes representing well-developed research areas. AI applications in sports biomechanics represent a rapidly maturing field characterized by robust international collaboration and clear thematic organization around sensor technologies and movement analysis, indicating successful integration of computational methods with traditional biomechanical approaches for performance enhancement and injury prevention.",
+   "doi": "10.1097/MD.0000000000050932",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42819880/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42821993",
-   "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
-   "journal": "JMIR Form Res",
-   "year": "2026",
-   "authors": [
-    "Kedoin H",
-    "Itoh Y",
-    "Nirengi T",
-    "Sato Y",
-    "et al."
-   ],
-   "abstract": "Adequate sleep supports mood regulation and injury prevention in high school female athletes; however, insufficient sleep is common in this population. Wearable devices enable continuous assessment of objective sleep metrics, but personalized feedback based on daily sleep data remains underexplored. This study evaluated the technical and operational feasibility of a multicomponent AI-supported mobile health (mHealth) intervention that delivered personalized sleep feedback to high school female soccer players. Sleep efficiency was the primary preliminary efficacy outcome; other sleep-related measures were secondary or exploratory outcomes, and mood state and sports injury severity were exploratory outcomes. We conducted a pilot randomized controlled trial among 25 high school female soccer players from a single team. The study briefing and system setup began on August 18, 2025, and the trial was retrospectively registered with the University Hospital Medical Information Network (UMIN) Clinical Trials Registry on April 7, 2026 (UMIN000061189). Weeks 1 to 4 constituted the baseline period. After the week 5 baseline questionnaires, participants were stratified by median baseline total sleep time (TST) and Pittsburgh Sleep Quality Index score and randomly allocated 1:1 to the intervention (n=12) or control (n=13) group. During weeks 6 to 9, the intervention group received GPT-4o-generated personalized feedback via LINE on days with valid prior-night Fitbit data, whereas the control group received daily nonpersonalized sleep information. Technical and operational feasibility outcomes included message delivery success, valid Fitbit wear nights, questionnaire completion, technical problems, adverse events, and privacy breaches. Secondary outcomes included TST, wake after sleep onset (WASO), subjective sleep quality, sleep difficulty, and daytime sleepiness. Deep, light, and rapid eye movement (REM) sleep durations, mood state, and sports injury severity were exploratory outcomes. All 25 participants completed the trial. Message delivery success and questionnaire completion were 100% in both groups. Median valid Fitbit wear nights were 26 (IQR 24-28) in the intervention group and 22 (IQR 15-26) in the control group. No major technical problems, adverse events, or privacy breaches occurred. Change in sleep efficiency, the primary preliminary efficacy outcome, favored the intervention group (Hodges-Lehmann between-group difference 2%, 95% CI 0.50%-4%; P=.046; r=0.35). Nominal between-group differences were also observed for the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) total score and sleep difficulty score and, among exploratory outcomes, REM sleep duration and total mood disturbance. No between-group differences were observed in TST, WASO, deep or light sleep duration, daytime sleepiness, or sports injury severity. The multicomponent AI-supported mHealth intervention demonstrated technical and operational feasibility in this single-team setting. Preliminary, hypothesis-generating between-group differences were observed in sleep efficiency and selected subjective sleep and mood outcomes. These findings should not be interpreted as evidence of established effectiveness and require confirmation in a sufficiently powered trial. UMIN Clinical Trials Registry UMIN000061189; https://tinyurl.com/tw3d7aku.",
-   "doi": "10.2196/101615",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42821993/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42826255/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -671,6 +642,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42819880",
+   "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
+   "journal": "Arthrosc Tech",
+   "year": "2026",
+   "authors": [
+    "Zhou C",
+    "Hu Z",
+    "Sagar L",
+    "Yang S",
+    "et al."
+   ],
+   "abstract": "Manual limb suspension during surgical preparation is labor-intensive, requires additional personnel, and may increase the risk of musculoskeletal injuries among surgical staff. We describe a cotton-swab-anchored suspension technique that uses a sterile bandage (Kerlix) looped around the ankle, secured with 2 cotton swabs inserted into the knot, and suspended from a heavy-duty intravenous pole. This method enables hands-free limb elevation, allowing efficient preoperative preparation. After completion of preparation, the limb is released by simply removing the cotton swab. This technique eliminates the need for manual limb holding, reduces occupational strain, provides stable mechanical support, and enables quick, controlled limb release without instruments. It is cost-effective, reproducible, and suitable for various lower extremity procedures.",
+   "doi": "10.1002/atn2.70276",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42819880/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42702977",
@@ -1270,6 +1269,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42821993",
+   "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
+   "journal": "JMIR Form Res",
+   "year": "2026",
+   "authors": [
+    "Kedoin H",
+    "Itoh Y",
+    "Nirengi T",
+    "Sato Y",
+    "et al."
+   ],
+   "abstract": "Adequate sleep supports mood regulation and injury prevention in high school female athletes; however, insufficient sleep is common in this population. Wearable devices enable continuous assessment of objective sleep metrics, but personalized feedback based on daily sleep data remains underexplored. This study evaluated the technical and operational feasibility of a multicomponent AI-supported mobile health (mHealth) intervention that delivered personalized sleep feedback to high school female soccer players. Sleep efficiency was the primary preliminary efficacy outcome; other sleep-related measures were secondary or exploratory outcomes, and mood state and sports injury severity were exploratory outcomes. We conducted a pilot randomized controlled trial among 25 high school female soccer players from a single team. The study briefing and system setup began on August 18, 2025, and the trial was retrospectively registered with the University Hospital Medical Information Network (UMIN) Clinical Trials Registry on April 7, 2026 (UMIN000061189). Weeks 1 to 4 constituted the baseline period. After the week 5 baseline questionnaires, participants were stratified by median baseline total sleep time (TST) and Pittsburgh Sleep Quality Index score and randomly allocated 1:1 to the intervention (n=12) or control (n=13) group. During weeks 6 to 9, the intervention group received GPT-4o-generated personalized feedback via LINE on days with valid prior-night Fitbit data, whereas the control group received daily nonpersonalized sleep information. Technical and operational feasibility outcomes included message delivery success, valid Fitbit wear nights, questionnaire completion, technical problems, adverse events, and privacy breaches. Secondary outcomes included TST, wake after sleep onset (WASO), subjective sleep quality, sleep difficulty, and daytime sleepiness. Deep, light, and rapid eye movement (REM) sleep durations, mood state, and sports injury severity were exploratory outcomes. All 25 participants completed the trial. Message delivery success and questionnaire completion were 100% in both groups. Median valid Fitbit wear nights were 26 (IQR 24-28) in the intervention group and 22 (IQR 15-26) in the control group. No major technical problems, adverse events, or privacy breaches occurred. Change in sleep efficiency, the primary preliminary efficacy outcome, favored the intervention group (Hodges-Lehmann between-group difference 2%, 95% CI 0.50%-4%; P=.046; r=0.35). Nominal between-group differences were also observed for the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) total score and sleep difficulty score and, among exploratory outcomes, REM sleep duration and total mood disturbance. No between-group differences were observed in TST, WASO, deep or light sleep duration, daytime sleepiness, or sports injury severity. The multicomponent AI-supported mHealth intervention demonstrated technical and operational feasibility in this single-team setting. Preliminary, hypothesis-generating between-group differences were observed in sleep efficiency and selected subjective sleep and mood outcomes. These findings should not be interpreted as evidence of established effectiveness and require confirmation in a sufficiently powered trial. UMIN Clinical Trials Registry UMIN000061189; https://tinyurl.com/tw3d7aku.",
+   "doi": "10.2196/101615",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42821993/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42770512",
    "title": "Football Cleats and Injury Patterns in 14- to 19-Year-Old Female Football Players: The Effect of Surface, Gender-Specific Shoe Gear and Cleat Pattern.",
    "journal": "Sports Health",
@@ -1640,34 +1668,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42683262",
-   "title": "Midterm Outcomes After Suture Button Fixation for Arthroscopically Confirmed Concomitant Syndesmotic Instability in Chronic Lateral Ankle Instability: A Retrospective Cohort Study.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Shi P",
-    "Wei Y",
-    "Li S",
-    "Liu M",
-    "et al."
-   ],
-   "abstract": "Distal tibiofibular syndesmosis instability (DTSI) often coexists with chronic lateral ankle instability and may delay recovery. Suture button fixation is widely used, but its benefit in this setting is uncertain. To evaluate midterm outcomes of suture button fixation for DTSI with concomitant lateral ankle instability. Cohort study; Level of evidence, 3. Patients who underwent surgery for lateral ankle instability with arthroscopic syndesmosis assessment between 2017 and 2023 were retrospectively identified. Patients with an intact syndesmosis formed the intact group, whereas those with arthroscopically confirmed dynamic syndesmotic instability (\u22652-mm diastasis) underwent additional suture button fixation and formed the instability group. All patients received standardized lateral ligament surgery and rehabilitation. Clinical assessments were performed preoperatively, at 12 months, and at final follow-up using Karlsson-Peterson, Foot and Ankle Ability Measure (FAAM), Tegner, Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), visual analog scale (VAS) pain scores, and ankle range of motion. Group differences were analyzed with \u03b1 = .05 and interpreted using minimal clinically important differences (MCIDs). Of 216 eligible patients, 154 completed follow-up at a mean of 67.3 \u00b1 24.8 months (range, 24-113 months). No bilateral cases were included; therefore, the number of ankles was identical to the number of patients: 80 patients (80 ankles) in the intact syndesmosis group and 74 patients (74 ankles) in the syndesmotic instability group. Preoperatively, the instability group had lower Karlsson-Peterson scores than the intact group, with a median between-group difference of -4.00 points (95% CI, -6.00 to -2.00; P < .001). At 12 months, Karlsson-Peterson scores were comparable between groups (median between-group difference, 0.00 points; 95% CI, -1.00 to 1.00; P = .63). At final follow-up, the instability group had a statistically higher Karlsson-Peterson score than the intact group, although the absolute difference was small (median between-group difference, 1.00 point; 95% CI, 0.00 to 2.00; P = .02). The between-group difference in Karlsson-Peterson improvement was 4.88 points (95% CI, 3.13 to 6.63; P < .001), which did not exceed the MCID threshold of 13.50 points. After adjustment for preoperative Karlsson-Peterson score, sex, body mass index, age, anterior talofibular ligament surgical modality, and follow-up duration, syndesmotic instability treated with suture button fixation remained modestly associated with the final Karlsson-Peterson score (\u03b2 = 1.525; 95% CI, 0.340 to 2.709; P = .01). Final FAAM Activities of Daily Living, FAAM Sports, Tegner, ALR-RSI, and VAS scores showed no clinically meaningful between-group differences. The instability group had greater residual dorsiflexion limitation at final follow-up, with a median between-group difference of 2.00\u00b0 (95% CI, 2.00\u00b0 to 3.00\u00b0; P < .001), but this limitation was not significantly correlated with final patient-reported outcomes. Our study demonstrated that, for patients with chronic lateral ankle instability and arthroscopically confirmed concomitant DTSI, suture button fixation combined with lateral ligament surgery was associated with substantial midterm functional improvement, with outcomes approaching those of patients with an intact syndesmosis. However, because the comparison involved biologically distinct cohorts, these findings should be interpreted as supportive rather than definitive. Future matched or randomized studies are needed to clarify the independent contribution of suture button fixation.",
-   "doi": "10.1177/23259671261468979",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42683262/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42743857",
    "title": "More isn't always better: Higher exoskeleton torque does not consistently improve balance performance.",
    "journal": "J Biomech",
@@ -1689,34 +1689,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42682455",
-   "title": "Not all players warm up the same: position-specific external load during standardized pre-match protocol in women's handball.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Garc\u00eda-S\u00e1nchez C",
-    "Caro Serrano \u00c1",
-    "Cordoves Peinado R",
-    "Nieto-Acevedo R",
-    "et al."
-   ],
-   "abstract": "Although monitoring external load during training and match play is essential to understand game demands, optimize performance, and reduce injury risk, the external load accumulated during the pre-match warm-up has received little attention in women's handball. Therefore, the aims of the present study were: (i) to analyze and compare positional differences in the external load registered during a standardized pre-match warm-up protocol in official matches in women's handball; and (ii) to examine the external load accumulated during the warm-up relative to match demands according to playing position. Twenty-two female players from the Spanish 2nd Division were monitored across 13 official home matches and their respective pre-match warm-ups. Total distance covered (TDC), high-speed running (HSR), metabolic power (MP), high metabolic load distance (HMLD), high-intensity accelerations (HIA), high-intensity decelerations (HID), and PlayerLoad (PL) were recorded in absolute and relative values (normalized by playing time) using a WIMU PRO\u2122 LPS integrating UWB and IMU technology. Positional differences were analyzed using one-way ANOVA or Kruskal-Wallis test. The statistical significance level was set at p\u2009<\u20090.05. Significant between-position differences were found in TDC, TDC/min, HSR, HSR/min, HMLD, HMLD/min, MP/min, PL, and PL/min (p\u2009<\u20090.05). Overall, wings exhibited the greatest external load values during the warm-up, particularly in TDC, HSR, HMLD, and PL, whereas pivots consistently showed the lowest values. Backs also displayed higher TDC/min, HMLD/min, and MP/min than pivots. When warm-up load was contextualized relative to match demands, the warm-up accounted for a considerable proportion of match load in several variables. Pivots generally showed the greatest relative contribution of warm-up to match load, whereas wings showed the lowest values across most variables. External load registered during a standardized pre-match warm-up in women's handball is position-specific and should not be considered a uniform preparatory stimulus across players. Warm-up load represents a meaningful component of total match-day external load and should be structured according to the technical and physical demands of each playing position. These findings support the individualization of pre-match warm-up strategies according to playing position.",
-   "doi": "10.3389/fspor.2026.1881325",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42682455/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -2495,33 +2467,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42682620",
-   "title": "Value driven co-design of smart sportswear for heat illness prevention in tropical regions.",
-   "journal": "Front Digit Health",
-   "year": "2026",
-   "authors": [
-    "Wickramarathne T",
-    "Kuys B",
-    "Liu W",
-    "Al Mahmud A"
-   ],
-   "abstract": "Heat illness poses a serious health risk for endurance athletes in tropical climates, yet smart sportswear solutions integrating wearable digital health functions remain underexplored in low-resource settings. The objective of this research was to co-design concepts for wearable technology-enabled cycling sportswear that integrate cooling, physiological monitoring, culturally responsive usability, and cost-sensitive implementation to inform heat illness prevention strategies and support future prototype development. We conducted five co-design workshops with 20 semi-professional cyclists in Sri Lanka, using the Functional-Expressive-Aesthetic (FEA) framework to elicit user needs. Participants generated 19 design concepts and prioritized features through group discussion, sticky-note voting and qualitative ranking based on perceived health impact, usability, and cost feasibility. Cooling comfort emerged as the top priority, with strong preference for hybrid designs combining natural wind cooling and smart user-controllable cooling. Key cooling zones included neck/upper back and underarm/chest. Participants valued physiological monitoring when it supported actionable interventions, such as future sensor-triggered cooling and hydration prompts, rather than passive monitoring dashboards. Additional priorities included localized UI in Sinhala, simplified data visualization, and safety features such as reflective elements. Two T-shirt concepts were finalized: smart cooling with user-controlled settings and lightweight cooling packs integrated with perforated panels. Findings suggest that smart sportswear for low-resource tropical cycling contexts should prioritise actionable, localised, and cost-sensitive cooling interventions rather than monitoring-only functions. The study contributes concept-level design requirements for culturally responsive wearable digital health sportswear. Because the findings are based on co-design outputs and participant perceptions, the proposed health benefits remain conceptual and require prototype development, physiological validation, usability testing, and field evaluation under cycling conditions.",
-   "doi": "10.3389/fdgth.2026.1872925",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42682620/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
