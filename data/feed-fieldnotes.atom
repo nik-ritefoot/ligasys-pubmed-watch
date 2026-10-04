@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-10-03T17:35:30Z</updated>
+  <updated>2026-10-04T17:49:03Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.</title>
+    <id>urn:pmid:42828435</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42828435/" rel="alternate"/>
+    <updated>2026-10-04T17:49:03Z</updated>
+    <published>2026-10-04T17:49:03Z</published>
+    <author><name>Zimmermann FJ</name></author><author><name>Amling M</name></author><author><name>Simon A</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Zimmermann FJ, Amling M, Simon A · Knee Surg Sports Traumatol Arthrosc · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The recent international foot and ankle sports consensus and systematic review on navicular fractures in elite athletes addresses a highly relevant and challenging topic in sports medicine and provides valuable guidance in an area where standardized treatment and return to sport (RTS) recommendations remain limited. However, several methodological and reporting issues within the systematic review warrant clarification, given their potential influence on RTS decision-making. The reported mean RTS time of 8.2 weeks after operative treatment of navicular stress fractures appears to result from an error in the extraction of time units. Recalculation based on the included studies, after converting all values to weeks, yields a mean RTS of approximately 19.7 weeks (4.5 months), consistent with the expert consensus recommendation of 4-6 months after surgery. Further discrepancies concern the application of the stated eligibility criteria: 5 of the 14 included studies were published outside the specified 15-year window, and at least four involved cohorts with a mean age below 18 years despite paediatric studies being listed as an exclusion criterion. Further inconsistencies in study classification and reporting add to these concerns. We believe that clarification of these concerns is essential to ensure the reliability of the evidence base informing the consensus recommendations and to support accurate guidance for RTS decision-making in elite athletes with navicular fractures. LEVEL OF EVIDENCE: N/A.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1002/ksa.70632&quot;&gt;10.1002/ksa.70632&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42828435/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Artificial intelligence in sports biomechanics: A comprehensive bibliometric analysis and science mapping of global research trends from 2015 to 2024.</title>
     <id>urn:pmid:42826255</id>

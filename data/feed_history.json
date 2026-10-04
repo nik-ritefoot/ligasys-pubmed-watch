@@ -1,5 +1,28 @@
 [
  {
+  "pmid": "42828435",
+  "title": "Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.",
+  "journal": "Knee Surg Sports Traumatol Arthrosc",
+  "year": "2026",
+  "authors": [
+   "Zimmermann FJ",
+   "Amling M",
+   "Simon A"
+  ],
+  "abstract": "The recent international foot and ankle sports consensus and systematic review on navicular fractures in elite athletes addresses a highly relevant and challenging topic in sports medicine and provides valuable guidance in an area where standardized treatment and return to sport (RTS) recommendations remain limited. However, several methodological and reporting issues within the systematic review warrant clarification, given their potential influence on RTS decision-making. The reported mean RTS time of 8.2 weeks after operative treatment of navicular stress fractures appears to result from an error in the extraction of time units. Recalculation based on the included studies, after converting all values to weeks, yields a mean RTS of approximately 19.7 weeks (4.5 months), consistent with the expert consensus recommendation of 4-6 months after surgery. Further discrepancies concern the application of the stated eligibility criteria: 5 of the 14 included studies were published outside the specified 15-year window, and at least four involved cohorts with a mean age below 18 years despite paediatric studies being listed as an exclusion criterion. Further inconsistencies in study classification and reporting add to these concerns. We believe that clarification of these concerns is essential to ensure the reliability of the evidence base informing the consensus recommendations and to support accurate guidance for RTS decision-making in elite athletes with navicular fractures. LEVEL OF EVIDENCE: N/A.",
+  "doi": "10.1002/ksa.70632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42828435/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-04T17:49:03Z"
+ },
+ {
   "pmid": "42826255",
   "title": "Artificial intelligence in sports biomechanics: A comprehensive bibliometric analysis and science mapping of global research trends from 2015 to 2024.",
   "journal": "Medicine (Baltimore)",
