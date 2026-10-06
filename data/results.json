@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T17:49:03+00:00",
+ "generated": "2026-10-06T19:01:54+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,32 +65,87 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 1,
+  "total": 86,
+  "new": 3,
   "research": 23,
-  "fieldnotes": 62
+  "fieldnotes": 63
  },
  "records": [
   {
-   "pmid": "42828435",
-   "title": "Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "pmid": "42833157",
+   "title": "How resistive ankle exoskeleton training affects walking outcomes in cerebral palsy.",
+   "journal": "Clin Biomech (Bristol)",
    "year": "2026",
    "authors": [
-    "Zimmermann FJ",
-    "Amling M",
-    "Simon A"
+    "Lerner ZF",
+    "Traines JA",
+    "Sutoris GR",
+    "Browning RC",
+    "et al."
    ],
-   "abstract": "The recent international foot and ankle sports consensus and systematic review on navicular fractures in elite athletes addresses a highly relevant and challenging topic in sports medicine and provides valuable guidance in an area where standardized treatment and return to sport (RTS) recommendations remain limited. However, several methodological and reporting issues within the systematic review warrant clarification, given their potential influence on RTS decision-making. The reported mean RTS time of 8.2 weeks after operative treatment of navicular stress fractures appears to result from an error in the extraction of time units. Recalculation based on the included studies, after converting all values to weeks, yields a mean RTS of approximately 19.7 weeks (4.5 months), consistent with the expert consensus recommendation of 4-6 months after surgery. Further discrepancies concern the application of the stated eligibility criteria: 5 of the 14 included studies were published outside the specified 15-year window, and at least four involved cohorts with a mean age below 18 years despite paediatric studies being listed as an exclusion criterion. Further inconsistencies in study classification and reporting add to these concerns. We believe that clarification of these concerns is essential to ensure the reliability of the evidence base informing the consensus recommendations and to support accurate guidance for RTS decision-making in elite athletes with navicular fractures. LEVEL OF EVIDENCE: N/A.",
-   "doi": "10.1002/ksa.70632",
+   "abstract": "Improving walking ability is a central goal in the clinical management of cerebral palsy (CP). The objective of this study was to assess how gait training with a resistive ankle exoskeleton affects walking performance in individuals with CP. Sixteen ambulatory individuals (GMFCS levels I-III) with CP between the ages of 8 and 21 completed the study. Participants completed a pre-training assessment and then 12 sessions of treadmill-based gait training with the Biomotum Spark ankle exoskeleton providing plantarflexor resistance with plantar-pressure biofeedback. Outcomes were assessed during walking without ankle resistance before, and at follow-up visits within one week and three weeks after training. Ankle-resisted gait training had a positive effect on most mobility-related outcome measures. 6MWT distance increased by 17% (p\u00a0=\u00a00.02) on the post vs baseline assessment. Self-selected walking speed increased by 16% (p\u00a0=\u00a00.003) and 23% (p\u00a0<\u00a00.001) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Fast walking speed increased by 10% (p\u00a0=\u00a00.008) and 17% (p\u00a0=\u00a00.016) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Gait training with a resistive ankle exoskeleton providing biofeedback elicited clinically significant improvements in walking endurance and speed. These results demonstrate the clinical safety and efficacy of gait training with ankle exoskeleton resistance in CP.",
+   "doi": "10.1016/j.clinbiomech.2026.106987",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42828435/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42833157/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42835948",
+   "title": "In-lab assessment of a ice hockey helmet-integrated sensor fusion framework for torque estimation: A proof-of-concept study.",
+   "journal": "JSAMS Plus",
+   "year": "2026",
+   "authors": [
+    "Sciacca D",
+    "Ionescu A"
+   ],
+   "abstract": "This study presents a proof-of-concept ice hockey helmet-integrated system for characterizing in-lab rotational loading, consisting of a single Inertial Measurement Unit (IMU) and custom soft foam force sensors. A total of 72 controlled pendulum impacts (33 J and 79 J) were delivered to a helmeted Anthropomorphic Test Device (ATD) at side and crown locations. A custom algorithm detected impacts and estimated torque by combining IMU-derived directions with force magnitudes. Results showed successful discrimination between conditions, with crown impacts producing lower torque. Recognizing torque as a relevant metric may improve monitoring and prevention of brain injury in contact sports.",
+   "doi": "10.1016/j.jsampl.2026.100160",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42835948/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42832072",
+   "title": "The evidence landscape, clinical role, and mechanisms of action of robot-assisted injury treatment: a systematic review.",
+   "journal": "J Robot Surg",
+   "year": "2026",
+   "authors": [
+    "Ling X",
+    "Yin H"
+   ],
+   "abstract": "Robotic systems now appear at several points in injury care, but surgical navigation, fracture reduction, and neurorehabilitation are still reviewed largely within separate disciplines. This separation obscures how technical performance alters treatment delivery and whether those changes reach patient outcomes. We therefore mapped robotic applications across the injury-care pathway and examined the links among technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. We systematically searched the Web of Science Core Collection and Scopus for Articles and Reviews published from 1 January 2015 to 22 August 2026. The search retrieved 17,374 records (Scopus 10,584; WoSCC 6,790). A four-stage Python 3.12.14 deduplication audit reduced these to 12,304 unique records, after which publication-type restriction and title/abstract screening yielded 214 records (149 primary studies and 65 focused reviews/meta-analyses). Descriptive bibliometrics, structured coding with second-reviewer verification, and framework synthesis were used to map publication patterns, injury categories, robot roles, study designs, and proposed mechanism pathways. Among the 214 records, 151 (70.6%) were published during 2022-2026. The 32 records assigned to 2026 cover only the period through 22 August and were treated as a partial-year count. Most records concerned spinal cord injury (97 records) or fracture and orthopaedic trauma (95 records). Lower-limb or gait rehabilitation (93 records) and surgery or navigation (90 records) were the most frequent robot roles. The two pathways acted through different proximal processes: rehabilitation robots could modify training dose, assistance, and sensorimotor engagement, whereas surgical systems could modify localization, trajectory control, and execution error. Together, the studies described a clinical continuum, but evidence remained limited for patient-important outcomes, long-term follow-up, economic value, implementation conditions, and comparisons across platforms. Robotics research now extends from acute injury repair to longer-term functional reconstruction, although the link between technical performance and clinically meaningful benefit remains incompletely tested. The proposed framework follows this link across five levels: technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. It also sets out a research sequence from consistent terminology to scalable clinical use. Because clinical roles and study designs were classified from bibliographic records and title or abstract information, these findings describe the evidence landscape rather than indication-specific effectiveness. No pooled effect estimate or graded clinical recommendation was produced.",
+   "doi": "10.1007/s11701-026-04032-x",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42832072/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1023,31 +1078,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42697097",
-   "title": "Emergency department ankle burden score (ED-ABS): A bedside injury-burden score for acute ankle trauma.",
-   "journal": "Am J Emerg Med",
-   "year": "2026",
-   "authors": [
-    "Yorgun M",
-    "Ta\u015f O"
-   ],
-   "abstract": "Acute ankle trauma is a frequent emergency department (ED) presentation, yet bedside assessment remains largely focused on fracture detection despite variation in injury burden and functional recovery. We developed the Emergency Department Ankle Burden Score (ED-ABS), a simple bedside score integrating routine clinical findings to quantify injury burden during initial ED assessment. This study evaluated its association with functional recovery, fracture, and healthcare resource utilisation. In this prospective observational study, consecutive adults with acute ankle trauma meeting Ottawa Ankle Rules criteria for radiography were enrolled. ED-ABS was calculated before radiographic interpretation. Functional recovery was assessed with the Foot and Ankle Ability Measure-Activities of Daily Living (FAAM-ADL) questionnaire 42\u00a0\u00b1\u00a03\u00a0days post-discharge. Multivariable regression and ROC analyses were performed. Among 200 patients, 23 (11.5%) had radiographically confirmed fractures. The median ED-ABS score was 4.5 (IQR 2.0-7.0). Higher ED-ABS scores were associated with poorer functional recovery (adjusted \u03b2\u00a0=\u00a0-1.30, 95% CI -1.70 to -0.90; p\u00a0<\u00a00.001) and fracture (adjusted OR\u00a0=\u00a01.83, 95% CI 1.43-2.33; p\u00a0<\u00a00.001). ED-ABS showed good fracture discrimination (AUC 0.855, 95% CI 0.783-0.928) and higher scores were associated with greater computed tomography utilisation and orthopaedic consultation. ED-ABS is a bedside injury-burden score integrating routinely available clinical findings during initial ED assessment. By quantifying overall injury burden rather than focusing solely on fracture detection, ED-ABS demonstrated consistent associations with functional recovery, fracture, and healthcare resource utilisation. Multicentre external validation is required before routine clinical implementation.",
-   "doi": "10.1016/j.ajem.2026.08.052",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42697097/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42786832",
    "title": "Enhanced Feature Extraction and Integration with Advanced Machine Learning Algorithms for Sports-Injury CT-Image Classification.",
    "journal": "Curr Med Imaging",
@@ -1056,7 +1086,7 @@
     "Jun W",
     "Huiqin C",
     "Abbasi R",
-    "Bin Heyat MB"
+    "Heyat MBB"
    ],
    "abstract": "X-rays, Computed Tomography (CT) scans, Magnetic Resonance Imaging (MRI), and ultrasound scans are examples of common medical imaging methods. These techniques are highly effective at extracting features, classifying, and diagnosing bone and muscle injuries. Enhancing athletic performance, minimizing injuries, and promoting players' overall health are the main goals of the vital discipline of sports medicine. Sports feature extraction of medical images, and sports medicine specialists help athletes reach their full potential while preserving their long-term health by preventing injuries and providing precise diagnoses. We proposed a feature extraction approach for sport CT inquiry images, which were first preprocessed and then subjected to wavelet multi-scale analysis. The CT scan image of a sports injury is broken down into different directions based on smooth and rough regions. The Non-Down- Sampled Contour Transformation (NSCT) and Pyramid Bank (NSPFB) model is applied to the CT image of a sports injury. Furthermore, we employed Feedforward Neural Networks (FNNs), Convolutional Neural Networks (CNNs), and recurrent neural networks (RNNs) for medical image diagnosis. The model was tuned by using hyperparameters. We proposed a feature-extraction model for medical CT scans of sports injuries and provided supporting statistics for medical diagnosis. The CT scan image of the sports injury is subdivided into different sub-directions based on smooth and rough regions. Furthermore, enhanced sub-regain is achieved using an adaptive gamma correction and multi-directional image enhancement via wavelet layering. Our proposed method has demonstrated a remarkable accuracy of 88%, while the deep learning model TabNet-Transform has achieved an imposing 90%. The proposed algorithm improves the quality of the output images and is computationally efficient. Current research indicates that the most vital area of medicine is image analysis, which helps radiologists to make more accurate diagnoses. The feature extraction process involves extracting valuable information from higher-level representations, such as the Region of Interest (ROI) for image analysis, and transforming the image from these representations into lower-level pixel data. The performance analysis of the proposed scheme yielded an efficient extraction time. When extracting feature characteristics for 10 to 30 medical CT images of sports injuries, the average computation time is 2ms to 6 ms. This research explored the application of machine learning and advanced artificial intelligence models to predict disease diagnosis and to enhance feature extraction from medical CT images of sports injuries. However, several variables impact the original image, including removing image noise and detecting specific regions or objects of interest. Our findings pave the way for further investigations of sports injury and early disease prognosis. We may incorporate data from wearable devices to improve their predictive power and extract the desired features for disease prognosis analysis.",
    "doi": "10.2174/0115734056413312251111043047",
@@ -1634,6 +1664,32 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42828435",
+   "title": "Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "year": "2026",
+   "authors": [
+    "Zimmermann FJ",
+    "Amling M",
+    "Simon A"
+   ],
+   "abstract": "The recent international foot and ankle sports consensus and systematic review on navicular fractures in elite athletes addresses a highly relevant and challenging topic in sports medicine and provides valuable guidance in an area where standardized treatment and return to sport (RTS) recommendations remain limited. However, several methodological and reporting issues within the systematic review warrant clarification, given their potential influence on RTS decision-making. The reported mean RTS time of 8.2 weeks after operative treatment of navicular stress fractures appears to result from an error in the extraction of time units. Recalculation based on the included studies, after converting all values to weeks, yields a mean RTS of approximately 19.7 weeks (4.5 months), consistent with the expert consensus recommendation of 4-6 months after surgery. Further discrepancies concern the application of the stated eligibility criteria: 5 of the 14 included studies were published outside the specified 15-year window, and at least four involved cohorts with a mean age below 18 years despite paediatric studies being listed as an exclusion criterion. Further inconsistencies in study classification and reporting add to these concerns. We believe that clarification of these concerns is essential to ensure the reliability of the evidence base informing the consensus recommendations and to support accurate guidance for RTS decision-making in elite athletes with navicular fractures. LEVEL OF EVIDENCE: N/A.",
+   "doi": "10.1002/ksa.70632",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42828435/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -2384,34 +2440,6 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42694058",
-   "title": "Utilization of the Functional Lower Extremity Evaluation (FLEE) in Return-to-Sport Rehabilitation Protocol Following Hip Arthroscopy in Collegiate Athletes: A Case Series.",
-   "journal": "Int J Sports Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Raji Y",
-    "Luft RE",
-    "Pierre KJ",
-    "VitoCruz F",
-    "et al."
-   ],
-   "abstract": "The Functional Lower Extremity Evaluation (FLEE) is a validated assessment tool designed to assess lower limb function and symmetry. There is a gap in knowledge in return to sport (RTS) regarding the application of the FLEE in RTS rehabilitation protocols following hip arthroscopy. The purpose of this case series was to assess the utility of the FLEE in guiding RTS rehabilitation protocols for collegiate athletes after hip arthroscopy and to evaluate lower limb symmetry using FLEE components. Among collegiate athletes recovering from hip arthroscopy, the Functional Lower Extremity Evaluation (FLEE) will detect measurable differences in limb symmetry and will provide clinically meaningful guidance for return-to-sport rehabilitation. Study design: Retrospective case series. A retrospective review of collegiate athletes who had undergone hip arthroscopy for femoroacetabular impingement (FAI) was performed at a single institution between January 2012 to January 2024. Inclusion criteria were completion of post-operative rehabilitation with full FLEE testing at return-to-sport clearance. The eight-task FLEE assessment was administered postoperatively beginning at 4 months. Percent limb symmetry was calculated for each component. RTS, re-injury and re-operations rates were monitored for a mean of 52.9 weeks postoperatively. Descriptive statistics were calculated for demographic variables, FLEE component scores, and percent limb symmetry. Continuous variables were summarized as means and standard deviations, while categorical variables were presented as frequencies and percentages. Four collegiate athletes (3 males, 1 female; mean age - 19 years) were included, representing football (n=2), basketball (n=1) and swimming and diving (n=1). Athletes demonstrated improvements in all FLEE components following rehabilitation, achieving RTS clearance at a mean of 5.75 months \u00b1 1.44 months. All athletes returned to competitive sports at the same or higher level. No re-injuries or re-operations occurred at a mean follow-up of 52.89 months. Limb symmetry ranged from 97.95% to 110.04% across FLEE components. The FLEE may be a valuable instrument for assessing lower extremity function and symmetry in college athletes undergoing RTS rehabilitation after hip arthroscopy. These findings suggest that the FLEE may aid in guiding individualized rehabilitation programs and monitoring progress towards RTS goals. Larger, prospective studies are warranted to validate these findings. Level IV Case Series.",
-   "doi": "10.26603/001c.167445",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42694058/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],

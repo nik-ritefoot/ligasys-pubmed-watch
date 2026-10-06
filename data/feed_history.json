@@ -1,5 +1,74 @@
 [
  {
+  "pmid": "42833157",
+  "title": "How resistive ankle exoskeleton training affects walking outcomes in cerebral palsy.",
+  "journal": "Clin Biomech (Bristol)",
+  "year": "2026",
+  "authors": [
+   "Lerner ZF",
+   "Traines JA",
+   "Sutoris GR",
+   "Browning RC",
+   "et al."
+  ],
+  "abstract": "Improving walking ability is a central goal in the clinical management of cerebral palsy (CP). The objective of this study was to assess how gait training with a resistive ankle exoskeleton affects walking performance in individuals with CP. Sixteen ambulatory individuals (GMFCS levels I-III) with CP between the ages of 8 and 21 completed the study. Participants completed a pre-training assessment and then 12 sessions of treadmill-based gait training with the Biomotum Spark ankle exoskeleton providing plantarflexor resistance with plantar-pressure biofeedback. Outcomes were assessed during walking without ankle resistance before, and at follow-up visits within one week and three weeks after training. Ankle-resisted gait training had a positive effect on most mobility-related outcome measures. 6MWT distance increased by 17% (p\u00a0=\u00a00.02) on the post vs baseline assessment. Self-selected walking speed increased by 16% (p\u00a0=\u00a00.003) and 23% (p\u00a0<\u00a00.001) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Fast walking speed increased by 10% (p\u00a0=\u00a00.008) and 17% (p\u00a0=\u00a00.016) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Gait training with a resistive ankle exoskeleton providing biofeedback elicited clinically significant improvements in walking endurance and speed. These results demonstrate the clinical safety and efficacy of gait training with ankle exoskeleton resistance in CP.",
+  "doi": "10.1016/j.clinbiomech.2026.106987",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42833157/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-06T19:01:55Z"
+ },
+ {
+  "pmid": "42835948",
+  "title": "In-lab assessment of a ice hockey helmet-integrated sensor fusion framework for torque estimation: A proof-of-concept study.",
+  "journal": "JSAMS Plus",
+  "year": "2026",
+  "authors": [
+   "Sciacca D",
+   "Ionescu A"
+  ],
+  "abstract": "This study presents a proof-of-concept ice hockey helmet-integrated system for characterizing in-lab rotational loading, consisting of a single Inertial Measurement Unit (IMU) and custom soft foam force sensors. A total of 72 controlled pendulum impacts (33 J and 79 J) were delivered to a helmeted Anthropomorphic Test Device (ATD) at side and crown locations. A custom algorithm detected impacts and estimated torque by combining IMU-derived directions with force magnitudes. Results showed successful discrimination between conditions, with crown impacts producing lower torque. Recognizing torque as a relevant metric may improve monitoring and prevention of brain injury in contact sports.",
+  "doi": "10.1016/j.jsampl.2026.100160",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42835948/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-06T19:01:55Z"
+ },
+ {
+  "pmid": "42832072",
+  "title": "The evidence landscape, clinical role, and mechanisms of action of robot-assisted injury treatment: a systematic review.",
+  "journal": "J Robot Surg",
+  "year": "2026",
+  "authors": [
+   "Ling X",
+   "Yin H"
+  ],
+  "abstract": "Robotic systems now appear at several points in injury care, but surgical navigation, fracture reduction, and neurorehabilitation are still reviewed largely within separate disciplines. This separation obscures how technical performance alters treatment delivery and whether those changes reach patient outcomes. We therefore mapped robotic applications across the injury-care pathway and examined the links among technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. We systematically searched the Web of Science Core Collection and Scopus for Articles and Reviews published from 1 January 2015 to 22 August 2026. The search retrieved 17,374 records (Scopus 10,584; WoSCC 6,790). A four-stage Python 3.12.14 deduplication audit reduced these to 12,304 unique records, after which publication-type restriction and title/abstract screening yielded 214 records (149 primary studies and 65 focused reviews/meta-analyses). Descriptive bibliometrics, structured coding with second-reviewer verification, and framework synthesis were used to map publication patterns, injury categories, robot roles, study designs, and proposed mechanism pathways. Among the 214 records, 151 (70.6%) were published during 2022-2026. The 32 records assigned to 2026 cover only the period through 22 August and were treated as a partial-year count. Most records concerned spinal cord injury (97 records) or fracture and orthopaedic trauma (95 records). Lower-limb or gait rehabilitation (93 records) and surgery or navigation (90 records) were the most frequent robot roles. The two pathways acted through different proximal processes: rehabilitation robots could modify training dose, assistance, and sensorimotor engagement, whereas surgical systems could modify localization, trajectory control, and execution error. Together, the studies described a clinical continuum, but evidence remained limited for patient-important outcomes, long-term follow-up, economic value, implementation conditions, and comparisons across platforms. Robotics research now extends from acute injury repair to longer-term functional reconstruction, although the link between technical performance and clinically meaningful benefit remains incompletely tested. The proposed framework follows this link across five levels: technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. It also sets out a research sequence from consistent terminology to scalable clinical use. Because clinical roles and study designs were classified from bibliographic records and title or abstract information, these findings describe the evidence landscape rather than indication-specific effectiveness. No pooled effect estimate or graded clinical recommendation was produced.",
+  "doi": "10.1007/s11701-026-04032-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42832072/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-06T19:01:55Z"
+ },
+ {
   "pmid": "42828435",
   "title": "Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.",
   "journal": "Knee Surg Sports Traumatol Arthrosc",
