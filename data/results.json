@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T19:01:54+00:00",
+ "generated": "2026-10-07T19:30:16+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,87 +65,205 @@
   }
  ],
  "counts": {
-  "total": 86,
-  "new": 3,
+  "total": 90,
+  "new": 7,
   "research": 23,
-  "fieldnotes": 63
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42833157",
-   "title": "How resistive ankle exoskeleton training affects walking outcomes in cerebral palsy.",
-   "journal": "Clin Biomech (Bristol)",
+   "pmid": "42839710",
+   "title": "Breaking out of the mould-recent developments in 3D-printed ankle-foot orthoses and strategies to improve clinical practicality: a systematic review.",
+   "journal": "Singapore Med J",
    "year": "2026",
    "authors": [
-    "Lerner ZF",
-    "Traines JA",
-    "Sutoris GR",
-    "Browning RC",
+    "Chen JYS",
+    "Yam MGJ"
+   ],
+   "abstract": "Conventional ankle-foot orthoses (C-AFOs) are commonly used to improve patient mobility. The traditional handmade process offers limited design flexibility and personalisation. In the last decade, 3D-printed AFOs (3D-AFOs) have emerged as a promising alternative. While numerous biomechanical benefits over C-AFOs have been suggested, their clinical application and real-world feasibility remain underexplored. This study aims to evaluate recent developments in 3D-AFOs and identify strategies to improve their clinical relevance and integration. A systematic review was conducted on 3 October 2024. Five electronic databases (PubMed, Cochrane, Scopus, CINAHL and EMBASE) were searched for studies published between 2022 and 2024. The inclusion criteria focused on physically tested 3D-AFOs modelled from leg scans or commercial templates. Data were categorised into design, mechanical properties, walking ability and participant satisfaction. Of the 69 studies identified, 11 met the eligibility criteria and 36 participants were included. 3D-AFOs were designed with reduced weight and demonstrated improved gait symmetry and ankle range of motion. The modifiable material composition of 3D-AFOs influenced stiffness and durability. 3D-AFOs also demonstrated improved walking speed and muscle efficiency, although performance varied across terrains. Although superior in comfort, support and effectiveness, 3D-AFOs were comparable or inferior in social participation, perceived weight and convenience of use. While 3D-AFOs demonstrate strong biomechanical promise, current research falls short of translating these benefits into clinically meaningful outcomes. Future studies can consider targeting patients with relevant comorbidities, extend follow-up duration, and incorporate compliance and usability metrics to promote further integration of 3D-AFOs into routine clinical practice.",
+   "doi": "10.4103/singaporemedj.SMJ-2025-031",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42839710/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42837429",
+   "title": "From Sprain to End-Stage Osteoarthritis: Why Earlier Intervention in Ankle Cartilage Damage Deserves More Attention.",
+   "journal": "J Bone Joint Surg Am",
+   "year": "2026",
+   "authors": [
+    "Hollander JJ",
+    "Dahmen J",
+    "Murawski CD",
+    "Gianakos AL",
     "et al."
    ],
-   "abstract": "Improving walking ability is a central goal in the clinical management of cerebral palsy (CP). The objective of this study was to assess how gait training with a resistive ankle exoskeleton affects walking performance in individuals with CP. Sixteen ambulatory individuals (GMFCS levels I-III) with CP between the ages of 8 and 21 completed the study. Participants completed a pre-training assessment and then 12 sessions of treadmill-based gait training with the Biomotum Spark ankle exoskeleton providing plantarflexor resistance with plantar-pressure biofeedback. Outcomes were assessed during walking without ankle resistance before, and at follow-up visits within one week and three weeks after training. Ankle-resisted gait training had a positive effect on most mobility-related outcome measures. 6MWT distance increased by 17% (p\u00a0=\u00a00.02) on the post vs baseline assessment. Self-selected walking speed increased by 16% (p\u00a0=\u00a00.003) and 23% (p\u00a0<\u00a00.001) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Fast walking speed increased by 10% (p\u00a0=\u00a00.008) and 17% (p\u00a0=\u00a00.016) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Gait training with a resistive ankle exoskeleton providing biofeedback elicited clinically significant improvements in walking endurance and speed. These results demonstrate the clinical safety and efficacy of gait training with ankle exoskeleton resistance in CP.",
-   "doi": "10.1016/j.clinbiomech.2026.106987",
+   "abstract": "\u27a2 Ankle cartilage damage ranges from osteochondral lesions of the talus to end-stage osteoarthritis. End-stage ankle osteoarthritis has been associated with a health burden comparable with that of major chronic diseases such as congestive heart failure and kidney disease, while predominantly affecting young and active patients.\u27a2 Ankle osteoarthritis often has a posttraumatic nature, making it possible to study the long-term results of traumatic articular injuries and identify potential targets for early therapeutic interventions.\u27a2 The scientific literature has been predominantly focused on outcomes after surgical treatment of osteochondral lesions of the talus or osteoarthritis. However, evidence on nonoperative treatment has been limited and methodologically weak, with evidence for early interventions (e.g., lifestyle or biologicals) even more scarce.\u27a2 The greatest opportunity to improve long-term outcomes in ankle cartilage damage may be early recognition and early initiation of treatment.",
+   "doi": "10.2106/JBJS.26.00827",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42833157/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42835948",
-   "title": "In-lab assessment of a ice hockey helmet-integrated sensor fusion framework for torque estimation: A proof-of-concept study.",
-   "journal": "JSAMS Plus",
-   "year": "2026",
-   "authors": [
-    "Sciacca D",
-    "Ionescu A"
-   ],
-   "abstract": "This study presents a proof-of-concept ice hockey helmet-integrated system for characterizing in-lab rotational loading, consisting of a single Inertial Measurement Unit (IMU) and custom soft foam force sensors. A total of 72 controlled pendulum impacts (33 J and 79 J) were delivered to a helmeted Anthropomorphic Test Device (ATD) at side and crown locations. A custom algorithm detected impacts and estimated torque by combining IMU-derived directions with force magnitudes. Results showed successful discrimination between conditions, with crown impacts producing lower torque. Recognizing torque as a relevant metric may improve monitoring and prevention of brain injury in contact sports.",
-   "doi": "10.1016/j.jsampl.2026.100160",
-   "pubtypes": [
-    "Case Reports",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42835948/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42832072",
-   "title": "The evidence landscape, clinical role, and mechanisms of action of robot-assisted injury treatment: a systematic review.",
-   "journal": "J Robot Surg",
-   "year": "2026",
-   "authors": [
-    "Ling X",
-    "Yin H"
-   ],
-   "abstract": "Robotic systems now appear at several points in injury care, but surgical navigation, fracture reduction, and neurorehabilitation are still reviewed largely within separate disciplines. This separation obscures how technical performance alters treatment delivery and whether those changes reach patient outcomes. We therefore mapped robotic applications across the injury-care pathway and examined the links among technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. We systematically searched the Web of Science Core Collection and Scopus for Articles and Reviews published from 1 January 2015 to 22 August 2026. The search retrieved 17,374 records (Scopus 10,584; WoSCC 6,790). A four-stage Python 3.12.14 deduplication audit reduced these to 12,304 unique records, after which publication-type restriction and title/abstract screening yielded 214 records (149 primary studies and 65 focused reviews/meta-analyses). Descriptive bibliometrics, structured coding with second-reviewer verification, and framework synthesis were used to map publication patterns, injury categories, robot roles, study designs, and proposed mechanism pathways. Among the 214 records, 151 (70.6%) were published during 2022-2026. The 32 records assigned to 2026 cover only the period through 22 August and were treated as a partial-year count. Most records concerned spinal cord injury (97 records) or fracture and orthopaedic trauma (95 records). Lower-limb or gait rehabilitation (93 records) and surgery or navigation (90 records) were the most frequent robot roles. The two pathways acted through different proximal processes: rehabilitation robots could modify training dose, assistance, and sensorimotor engagement, whereas surgical systems could modify localization, trajectory control, and execution error. Together, the studies described a clinical continuum, but evidence remained limited for patient-important outcomes, long-term follow-up, economic value, implementation conditions, and comparisons across platforms. Robotics research now extends from acute injury repair to longer-term functional reconstruction, although the link between technical performance and clinically meaningful benefit remains incompletely tested. The proposed framework follows this link across five levels: technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. It also sets out a research sequence from consistent terminology to scalable clinical use. Because clinical roles and study designs were classified from bibliographic records and title or abstract information, these findings describe the evidence landscape rather than indication-specific effectiveness. No pooled effect estimate or graded clinical recommendation was produced.",
-   "doi": "10.1007/s11701-026-04032-x",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42832072/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42837429/",
    "matched": [
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42841078",
+   "title": "Injuries to High School Football Players in Long Island, New York: A Five-Year Study.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Greenstein BD",
+    "Zinner MA",
+    "Neufeld EV",
+    "DeGouveia W",
+    "et al."
+   ],
+   "abstract": "Background American football has the highest injury rate of any U.S. high school sport, yet most studies examine a single injury type or position. We characterized injury patterns among high school football athletes in Long Island, New York, over five consecutive seasons, focusing on how injury patterns vary by level of play, setting, and position. Methods In this retrospective cohort study, certified athletic trainers and sports medicine physicians documented all in-season injuries among varsity and junior varsity (JV) athletes at 16 high schools from 2019 to 2023. Level of play, setting, mechanism, anatomic location, diagnosis, position, and time to return to play were recorded. Proportions were compared using two-sample Z-tests for independent proportions, with a two-sided p < 0.05 considered significant. Test statistics are reported as Z values alongside exact p-values. Results Among 3,861 athletes (2,093 varsity, 54.2%), 1,476 injuries were recorded. Varsity athletes accounted for a greater share of injuries than JV athletes (n = 1,104, 74.8% vs. n = 372, 25.2%; Z = 26.95, p < 0.001). Most injuries occurred in games despite far more practices (n = 732 of 1,308 injuries with setting recorded, 56.0%; Z = 6.10, p < 0.001). Direct contact was the leading mechanism (n = 796 of 1,344 injuries with the mechanism recorded, 59.2%). The lower extremity was most often injured (n = 672, 45.5%), followed by the upper extremity (n = 431, 29.2%) and head/neck (n = 187, 12.7%). Concussion was the most common specific diagnosis (n = 131, 8.9%). Profiles differed by position: offensive linemen had the highest proportion of concussions, and linebackers had the highest proportion of contact-related injuries. The proportion of athletes with a recorded concussion did not differ between varsity and JV athletes (Z = 0.53, p = 0.594). Conclusions A greater proportion of recorded injuries occurred among varsity athletes, in games, and through direct contact. Injury profiles differed by position, most notably a high proportion of concussions among offensive linemen. Because athlete exposure denominators were unavailable, these findings describe the distribution of recorded injuries rather than exposure-adjusted risk. These multiyear, position-specific data can inform targeted prevention and safety policy in high school football.",
+   "doi": "10.7759/cureus.115861",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42841078/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42839760",
+   "title": "Open Fractures in Polytrauma and Non-Polytrauma Patients: Outcomes and Predictive Factors in a Level III Trauma Center.",
+   "journal": "Acta Chir Orthop Traumatol Cech",
+   "year": "2026",
+   "authors": [
+    "Ipponi E",
+    "Sivieri M",
+    "Pecchia F",
+    "Fabbri L",
+    "et al."
+   ],
+   "abstract": "Open fractures represent complex injuries characterized by bone exposure, soft-tissue damage, and a high risk of infection, often requiring multidisciplinary management. In polytraumatized patients, these injuries further increase clinical complexity and hospital resource utilization. The purpose of this study was to evaluate adherence to international guidelines in the management of open fractures at a third-level trauma center and to identify clinical and organizational predictors of outcomes, complications, and hospitalization burden in polytraumatized and non-polytraumatized patients. A retrospective, single-center study was conducted including all patients treated for open fractures between January 2020 and December 2023. Demographic data, injury mechanisms, fracture location, Gustilo-Anderson grade, surgical timing, treatment strategy (Early Total Care or Damage Control Orthopedics), ICU admission, complications, and readmissions were collected. Polytrauma status was recorded. Primary outcomes included infection rate, length of hospital stay, number of admissions, and cumulative hospitalization time. Statistical analysis was performed using Student's t-test, Fisher's exact test, and Pearson correlation, with significance set at p < 0.05. A total of 115 patients were included, of whom 53 (46.1%) were polytraumatized. The mean age was 47.1 years, with a male predominance. Lower-limb fractures were most common, particularly involving the tibia. Grade III injuries accounted for 61.7% of cases. Surgical debridement was performed within 6 hours in 65.2% of patients. External fixation for damage control was used in 73% of cases, with a mean fixation duration of 103 days. Postoperative ICU admission was required in 27.8% of patients. Overall infection rate was 15.7%. Polytraumatized patients experienced significantly longer hospital stays and a higher number of readmissions, but polytrauma status was not associated with increased infection risk. Higher Gustilo-Anderson grade showed a strong correlation with prolonged hospitalization and infection. Damage control strategies were associated with longer cumulative hospitalization and more frequent readmissions but not with higher infection rates. These findings indicate that fracture severity and local tissue damage, rather than polytrauma status itself, are the main determinants of infection risk and hospitalization burden. While polytrauma increases overall resource utilization, standardized multidisciplinary management allows comparable orthopedic outcomes. Damage control orthopedics remains essential in severe cases but implies longer and more fragmented care pathways. In a high-volume trauma center adhering to international guidelines, open fracture outcomes are primarily driven by injury severity. Polytrauma influences hospitalization burden but not infection risk. Awareness of these factors is essential for optimizing trauma pathways, resource allocation, and patient counseling.",
+   "doi": "10.55095/achot2026/020",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42839760/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42840850",
+   "title": "Oral contraceptive use and anterior cruciate ligament injury or reconstruction in women: A systematic review and meta-analysis of very low-certainty evidence.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Kobayashi EN",
+    "Silva NZ",
+    "de Azevedo LAC",
+    "de Abreu MEC",
+    "et al."
+   ],
+   "abstract": "To determine whether oral contraceptive use is associated with anterior cruciate ligament injury or reconstruction in women and to examine whether associations vary according to age, contraceptive formulation, duration of use and outcome definition. PubMed, Scopus, Embase and Latin American and Caribbean Health Sciences Literature (LILACS) were searched through 31 July 2026 (LILACS rerun with multilingual terms on 16 September 2026). Comparative observational studies were meta-analysed. The primary analysis pooled adjusted or matched odds ratios (ORs) for reconstruction or operatively treated injury using random-effects restricted maximum-likelihood models with Hartung-Knapp-Sidik-Jonkman confidence intervals (CIs). Risk of bias was assessed with risk of bias in nonrandomised studies of exposures and certainty with grading of recommendations assessment, development and evaluation. Ten studies were included; seven were meta-analysed. The primary analysis (four studies) showed no clear association (OR, 0.89; 95% CI, 0.77-1.02; I 2\u2009=\u200984%; \u03c4 2\u2009=\u20090.01; 95% prediction interval, 0.66-1.19). Two crude athlete studies and the active-comparator cohort (hazard ratio, 0.95; 95% CI, 0.89-1.01) also had CIs including 1. Adding one crude database estimate yielded OR 0.85 (95% CI, 0.74-0.98; I 2\u2009=\u200990%; 95% prediction interval, 0.61-1.19). Leave-one-out results were unstable. The certainty of evidence was very low. The primary adjusted or matched analysis did not establish a clear association between oral contraceptive use and anterior cruciate ligament reconstruction or operatively treated injury; substantial heterogeneity, residual confounding and very low certainty of evidence preclude causal interpretation. Current evidence does not support initiating or selecting oral contraceptives for anterior cruciate ligament injury prevention. Well-designed prospective studies with standardised exposure and outcome definitions are needed. Level IV, systematic review of observational studies.",
+   "doi": "10.1002/jeo2.70940",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42840850/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "contraception-msk-injury",
+     "label": "Hormonal contraception & MSK injury (sports)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42837112",
+   "title": "Persistent alterations in muscle activation patterns during landing tasks after anterior cruciate ligament reconstruction in return-to-sport cohorts: A systematic review and meta-analysis of electromyography studies.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
+   "year": "2026",
+   "authors": [
+    "Han Y",
+    "Chen Y",
+    "Wang Z",
+    "Wang TYF",
+    "et al."
+   ],
+   "abstract": "To categorize landing tasks in electromyography (EMG) studies and compare muscle activity during landing between patients with anterior cruciate ligament reconstruction (ACLR) reported as having returned to sport and healthy controls. We systematically searched seven databases (PubMed, Embase, Web of Science, Cochrane Library, Scopus, CINAHL, SPORTDiscus) from inception to 10 December 2025. Studies using EMG to assess muscle activity during landing tasks were included when they compared the reconstructed limb of ACLR patients reported as having returned to sport with limbs from healthy controls. Random-effects meta-analyses evaluated between-group differences using standardized mean differences (SMDs) with 95% confidence intervals (CIs), with findings categorized using an internal evidence classification. Thirty-two studies were included, comprising 556 individuals with ACLR from return-to-sport cohorts and 501 healthy controls. Thirteen landing tasks were analysed, involving fifteen lower-limb muscles and four EMG outcome measures. Each pooled comparison included 2-5 studies. Three findings were classified as moderate evidence: greater activation of the medial hamstrings during the reactive phase of single-leg drop landing (based on five studies, SMD\u2009=\u20090.35, 95% CI [0.01, 0.69], I2\u2009=\u20090%), greater gluteus maximus activation during the reactive phase of single-leg drop vertical jump (based on three studies, SMD\u2009=\u20090.63, 95% CI [0.22, 1.03], I2\u2009=\u20090%) and earlier rectus femoris onset in single-leg hop for distance (based on three studies, SMD\u2009=\u2009-0.64, 95% CI [-1.13, -0.14], I2\u2009=\u200919%). Most other findings showed no between-group differences or were classified as limited or very limited evidence. ACLR patients reported as having returned to sport may exhibit task-specific alterations in muscle activation patterns compared with healthy controls, and these alterations may be more readily detected during certain single-leg landing tasks. Further prospective and interventional studies are needed to clarify their clinical relevance. Level IV.",
+   "doi": "10.1002/ksa.70637",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42837112/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42838110",
+   "title": "Relationship Between Individual Workload, Training Impulse, and Game Performance in Women Collegiate Basketball Athletes.",
+   "journal": "J Strength Cond Res",
+   "year": "2026",
+   "authors": [
+    "Brown FSA",
+    "Fields JB",
+    "Jagim AR",
+    "Miller A",
+    "et al."
+   ],
+   "abstract": "Brown, FSA, Fields, JB, Jagim, AR, Miller, A, Baker, RE, and Jones, MT. Relationship between individual workload, training impulse, and game performance in women collegiate basketball athletes. J Strength Cond Res XX(X): 000-000, 2026-The purpose was to quantify game external load (EL) demands and explore relationships between EL, internal load (IL), and measures of basketball performance across a competitive season in women basketball athletes (n = 7). Data were collected by an inertial measurement unit microsensor and heart rate monitor for games (n = 28) and practices (n = 61). Playerload\u2122 (PL), training impulse (TRIMP), and player efficiency (PE) were used to quantify EL, IL, and basketball performance, respectively. Descriptive statistics were used to quantify individual athlete PE, IL, and EL game measures, and game statistics for each game and stratified by position type. Repeated-measures correlations assessed relationships between PL, TRIMP, and PE. Two separate location scale models (PL, TRIMP) assessed the effect of session, position, PE, and previous day workload (PL lag, TRIMP lag). Results showed small to very large relationships (r = 0.21-0.85) between PL, TRIMP, and PE. Previous day workloads (PL, TRIMP) positively affected next-day load. Playerload increased as PE increased. Guards experienced higher within person variability of PL than forward or center positions. Athletes experienced high within person variability of PL (25.50 AU) and TRIMP (20.90 AU) across the season. The average TRIMP remained consistent across the season (230.2 AU) but varied between athletes (B = 0.90 [95% CI: 0.30-6.50]). Results suggest preceding day workload is associated with next-day workload and player performance, with higher EL being associated with higher PE. Furthermore, higher variability among athletes indicates other factors may affect workload across the season beyond sport training.",
+   "doi": "10.1519/JSC.0000000000005696",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42838110/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -352,35 +470,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42699488",
-   "title": "Association Between Playing Surface and Anterior Cruciate Ligament (ACL) Injury Risk in the National Football League: A Systematic Review and Exploratory Meta-Analysis.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Vemugunta V",
-    "Touheed A",
-    "Mahamkali A",
-    "Runnells H",
-    "et al."
-   ],
-   "abstract": "In professional sports, anterior cruciate ligament (ACL) ruptures are among the most consequential injuries, especially in American football. This review set out to determine whether National Football League (NFL) players are more likely to sustain ACL injuries on artificial turf than on natural grass. To answer this, studies were gathered from PubMed, and the review process followed PRISMA 2020 guidelines to ensure clear and reliable reporting. Ten studies met the inclusion criteria: eight on NFL epidemiology or clinical outcomes, one systematic review covering multiple sports, and one biomechanical study. For all studies with multiple populations, data extraction and analysis were limited to the NFL stratum, comparing ACL injury outcomes between artificial turf and natural grass within this group of professional athletes. When looking at the total number of ACL injuries across NFL studies, the counts were either close between artificial turf and natural grass or slightly higher on grass. But after adjusting for how often each surface was used, the rate of ACL injuries was the same or higher on artificial turf. This pattern held whether exposure was expressed per game or per team-game, and whether the comparison was reported as an injury rate, an incidence-density ratio, or an odds ratio; no individual comparison reached statistical significance. Through an exploratory random-effects meta-analysis of four recent NFL studies, calculated through the Hartung-Knapp method, we found a small increase in injury rates on turf, with a pooled estimate modestly above the null. This trend remained steady even when each study was left out one by one. However, the difference wasn't statistically significant, and because these studies often overlapped in the seasons they covered, the authors view these results as an early indication rather than a definitive conclusion. Other findings back up this tendency: knee injuries overall, and noncontact knee injuries in particular, occurred at higher rates on synthetic turf, and season-ending surgeries, usually ACL reconstructions, were also more common after injuries sustained on turf. Previous pooled studies show that the increased risk of ACL injury is specific to American football, while biomechanical evidence suggests that natural grass reduces the force transmitted through the cleat. None of the NFL studies show a statistically significant increase in ACL injuries on artificial turf when considered individually. However, after accounting for exposure, the direction of the data, results from pooled analyses, higher rates of season-ending surgery, and biomechanical findings all suggest that ACL injuries could be more common on synthetic surfaces. A clearer understanding of these trends will be essential for guiding future decisions on field surfaces and supporting the long-term health and safety of NFL athletes.",
-   "doi": "10.7759/cureus.113994",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699488/",
-   "matched": [
-    {
-     "id": "footwear-interface",
-     "label": "Footwear / shoe-surface interface & traction",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42728689",
@@ -1133,34 +1222,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42699653",
-   "title": "Epidemiology of acute sports injuries in Hong Kong elite fencing athletes: A retrospective analysis of prospectively collected injury surveillance data.",
-   "journal": "Asia Pac J Sports Med Arthrosc Rehabil Technol",
-   "year": "2026",
-   "authors": [
-    "Leung WC",
-    "Yung KK",
-    "Habiba U",
-    "Tung MJ",
-    "et al."
-   ],
-   "abstract": "This research investigates the epidemiology of acute sports injuries amongst elite fencers in Hong Kong, focusing on the unique injury risks associated with the sport's specialized techniques and equipment. A retrospective analysis of prospectively collected injury surveillance data was conducted involving 61 elite fencers from the Hong Kong Sports Institute over one competitive season, from October 2022 to October 2023. Injury data were collected and analyzed to determine incidence rates, types, locations, and mechanisms of injuries. There were 182 recorded injuries, resulting in an overall injury incidence rate of 2.84 per 1000 training hours (95% CI: 2.43-3.26). Sabre fencers had the highest injury rate at 3.17 per 1000\u202fh (95% CI: 2.47-3.86), followed by Epee at 3.05 (95% CI: 2.26-3.83) and Foil at 2.23 (95% CI: 1.57-2.88). Sprains (39.0%) and strains (28.6%) were the most common injury types, with the hand (16.5%), ankle (13.7%), and thigh (12.1%) being the most injured areas. Non-contact injuries predominated (61.5%), mostly affecting the lower extremities (67.0% of non-contact injuries), while contact mechanisms (26.4%) primarily impacted the upper limbs. Analysis of inciting events identified \"landing\" and \"collision\" as the most common identifiable causes. Time loss occurred in 5.5% of injuries, with 50% causing 8-12 days of absence, primarily due to strains (40%) and concussions (30%). No substantial difference was observed in injury rates between males and females (RR: 0.995, 95% CI: 0.74-1.33, p\u202f=\u202f0.974). Elite fencers in Hong Kong sustained injuries at 2.84 per 1000 training hours, predominantly non-contact sprains and strains affecting the lower extremities. Sabre showed the highest injury rate compared to other disciplines. Time-loss injuries were uncommon (5.5%), reflecting mild injury severity. Targeted prevention strategies for sabre fencers and lower extremity injuries are warranted to optimize athlete safety.",
-   "doi": "10.1016/j.asmart.2026.08.005",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699653/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42816715",
    "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
    "journal": "Ann Biomed Eng",
@@ -1383,6 +1444,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42833157",
+   "title": "How resistive ankle exoskeleton training affects walking outcomes in cerebral palsy.",
+   "journal": "Clin Biomech (Bristol)",
+   "year": "2026",
+   "authors": [
+    "Lerner ZF",
+    "Traines JA",
+    "Sutoris GR",
+    "Browning RC",
+    "et al."
+   ],
+   "abstract": "Improving walking ability is a central goal in the clinical management of cerebral palsy (CP). The objective of this study was to assess how gait training with a resistive ankle exoskeleton affects walking performance in individuals with CP. Sixteen ambulatory individuals (GMFCS levels I-III) with CP between the ages of 8 and 21 completed the study. Participants completed a pre-training assessment and then 12 sessions of treadmill-based gait training with the Biomotum Spark ankle exoskeleton providing plantarflexor resistance with plantar-pressure biofeedback. Outcomes were assessed during walking without ankle resistance before, and at follow-up visits within one week and three weeks after training. Ankle-resisted gait training had a positive effect on most mobility-related outcome measures. 6MWT distance increased by 17% (p\u00a0=\u00a00.02) on the post vs baseline assessment. Self-selected walking speed increased by 16% (p\u00a0=\u00a00.003) and 23% (p\u00a0<\u00a00.001) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Fast walking speed increased by 10% (p\u00a0=\u00a00.008) and 17% (p\u00a0=\u00a00.016) on the within-1-week post and 3-week post assessments, respectively, compared to baseline. Gait training with a resistive ankle exoskeleton providing biofeedback elicited clinically significant improvements in walking endurance and speed. These results demonstrate the clinical safety and efficacy of gait training with ankle exoskeleton resistance in CP.",
+   "doi": "10.1016/j.clinbiomech.2026.106987",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42833157/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42785721",
    "title": "Identifying Determinants of Asymmetrical Biomechanics During Single- and Double-Limb Countermovement Jumps 2\u00a0Years Following Anterior Cruciate Ligament Reconstruction.",
    "journal": "J Appl Biomech",
@@ -1433,6 +1522,32 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42835948",
+   "title": "In-lab assessment of a ice hockey helmet-integrated sensor fusion framework for torque estimation: A proof-of-concept study.",
+   "journal": "JSAMS Plus",
+   "year": "2026",
+   "authors": [
+    "Sciacca D",
+    "Ionescu A"
+   ],
+   "abstract": "This study presents a proof-of-concept ice hockey helmet-integrated system for characterizing in-lab rotational loading, consisting of a single Inertial Measurement Unit (IMU) and custom soft foam force sensors. A total of 72 controlled pendulum impacts (33 J and 79 J) were delivered to a helmeted Anthropomorphic Test Device (ATD) at side and crown locations. A custom algorithm detected impacts and estimated torque by combining IMU-derived directions with force magnitudes. Results showed successful discrimination between conditions, with crown impacts producing lower torque. Recognizing torque as a relevant metric may improve monitoring and prevention of brain injury in contact sports.",
+   "doi": "10.1016/j.jsampl.2026.100160",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42835948/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42784388",
@@ -1974,34 +2089,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42699755",
-   "title": "Radiological assessment of traumatic bone injuries secondary to motorcycle accidents in Ghana: a multi-center cross-sectional study.",
-   "journal": "Afr J Emerg Med",
-   "year": "2026",
-   "authors": [
-    "Gorleku PN",
-    "Quarshie F",
-    "Nuer M",
-    "Attipoe PW",
-    "et al."
-   ],
-   "abstract": "Motorcycle accidents are a leading cause of traumatic injuries, including bone fractures, dislocations, and soft tissue damage. Despite the growing concern about motorcycle-related injuries, there is a paucity of research. This study assessed traumatic bone injuries secondary to motorcycle accidents in Ghana. This multi-center quantitative study employed a cross-sectional design to examine plain X-ray reports of 1736 patients with traumatic bone injuries due to motorcycle accidents from January 2020 to December 2023. Data collected were analyzed using SPSS version 25. Statistical significance was set at p-value \u2264 0.05. The prevalence rate of traumatic bone injuries due to motorcycle accidents was 82.9%, and the mortality rate was 10.3%. The tibia/fibula (43.3%), femur (20.6%), and the skull (9.3%) were the most fractured bones, whilst dislocations frequently occurred at the ankle, shoulder, and elbow joints. Fractures of the skull (67.3%, p=0.041) and spine (69.0%, p=0.002) were more common among the passengers. Passengers disproportionately sustained more fractures (50.9%) and dislocations (57.8%) than motorcycle riders. The mortality rates among patients with spine/neck and skull injuries were 85.3% and 65.0%, respectively (p<0.001). The observed increasing annual trend in traumatic bone injury cases underscores a growing burden on emergency departments and highlights the urgent need for strengthened emergency medicine systems, including rapid triage, timely imaging, and coordinated trauma care. This trend also reinforces the importance of targeted motorcycle injury prevention strategies and policy interventions, alongside improved pre-hospital and emergency response services, to reduce both the incidence and severity of motorcycle-related injuries in Ghana.",
-   "doi": "10.1016/j.afjem.2026.101002",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42699755/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42789327",
    "title": "Rationale, Design, and Baseline Characteristics of the TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) Cohort of Older Adults for Assessing Fall and Fracture Risk: Prospective Cohort Study.",
    "journal": "JMIR Aging",
@@ -2305,6 +2392,33 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42832072",
+   "title": "The evidence landscape, clinical role, and mechanisms of action of robot-assisted injury treatment: a systematic review.",
+   "journal": "J Robot Surg",
+   "year": "2026",
+   "authors": [
+    "Ling X",
+    "Yin H"
+   ],
+   "abstract": "Robotic systems now appear at several points in injury care, but surgical navigation, fracture reduction, and neurorehabilitation are still reviewed largely within separate disciplines. This separation obscures how technical performance alters treatment delivery and whether those changes reach patient outcomes. We therefore mapped robotic applications across the injury-care pathway and examined the links among technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. We systematically searched the Web of Science Core Collection and Scopus for Articles and Reviews published from 1 January 2015 to 22 August 2026. The search retrieved 17,374 records (Scopus 10,584; WoSCC 6,790). A four-stage Python 3.12.14 deduplication audit reduced these to 12,304 unique records, after which publication-type restriction and title/abstract screening yielded 214 records (149 primary studies and 65 focused reviews/meta-analyses). Descriptive bibliometrics, structured coding with second-reviewer verification, and framework synthesis were used to map publication patterns, injury categories, robot roles, study designs, and proposed mechanism pathways. Among the 214 records, 151 (70.6%) were published during 2022-2026. The 32 records assigned to 2026 cover only the period through 22 August and were treated as a partial-year count. Most records concerned spinal cord injury (97 records) or fracture and orthopaedic trauma (95 records). Lower-limb or gait rehabilitation (93 records) and surgery or navigation (90 records) were the most frequent robot roles. The two pathways acted through different proximal processes: rehabilitation robots could modify training dose, assistance, and sensorimotor engagement, whereas surgical systems could modify localization, trajectory control, and execution error. Together, the studies described a clinical continuum, but evidence remained limited for patient-important outcomes, long-term follow-up, economic value, implementation conditions, and comparisons across platforms. Robotics research now extends from acute injury repair to longer-term functional reconstruction, although the link between technical performance and clinically meaningful benefit remains incompletely tested. The proposed framework follows this link across five levels: technological capability, treatment process, proximal mechanism, clinical outcome, and implementation context. It also sets out a research sequence from consistent terminology to scalable clinical use. Because clinical roles and study designs were classified from bibliographic records and title or abstract information, these findings describe the evidence landscape rather than indication-specific effectiveness. No pooled effect estimate or graded clinical recommendation was produced.",
+   "doi": "10.1007/s11701-026-04032-x",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42832072/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42813340",
