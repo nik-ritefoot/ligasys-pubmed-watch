@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-10-07T19:30:16Z</updated>
+  <updated>2026-10-08T19:24:43Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.</title>
+    <id>urn:pmid:42842750</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42842750/" rel="alternate"/>
+    <updated>2026-10-08T19:24:43Z</updated>
+    <published>2026-10-08T19:24:43Z</published>
+    <author><name>Head M</name></author><author><name>Nyland J</name></author>
+    <category term="sex-hormones-connective-tissue" label="Sex hormones &amp; connective tissue (orthopedic / athletic)"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Head M, Nyland J · Curr Sports Med Rep · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Across sports that involve cutting, pivoting, and single-leg jump landings, biological female athletes sustain anterior cruciate ligament injuries at 2- to 9-fold greater rates than males. The mechanical resilience of the anterior cruciate ligament depends on extracellular matrix stabilization. Crosslinking, primarily mediated by lysyl oxidase, is essential to extracellular matrix maturation, to resisting the tensile and shear forces encountered during athletic activity, and to long-term anterior cruciate ligament health. Estrogen-mediated lysyl oxidase modulation may weaken the extracellular matrix, reducing its capacity to withstand mechanical loads. This narrative review explores how estrogen influences lysyl oxidase function, particularly in the context of collagen crosslinking and connective tissue health. Special emphasis is placed on biological female anterior cruciate ligament injury risk, a highly relevant example of clinical estrogen-associated extracellular matrix vulnerability. By integrating epidemiologic evidence with emerging molecular and mechanistic data, clinicians are provided with a contemporary biologically informed perspective on sex-specific anterior cruciate ligament injury risk. Future research and prevention strategies are discussed.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1249/JSR.0000000000001375&quot;&gt;10.1249/JSR.0000000000001375&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42842750/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>From Sprain to End-Stage Osteoarthritis: Why Earlier Intervention in Ankle Cartilage Damage Deserves More Attention.</title>
     <id>urn:pmid:42837429</id>

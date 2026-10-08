@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T19:30:16+00:00",
+ "generated": "2026-10-08T19:24:43+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,210 +65,65 @@
   }
  ],
  "counts": {
-  "total": 90,
-  "new": 7,
+  "total": 87,
+  "new": 2,
   "research": 23,
-  "fieldnotes": 67
+  "fieldnotes": 64
  },
  "records": [
   {
-   "pmid": "42839710",
-   "title": "Breaking out of the mould-recent developments in 3D-printed ankle-foot orthoses and strategies to improve clinical practicality: a systematic review.",
-   "journal": "Singapore Med J",
+   "pmid": "42842750",
+   "title": "Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.",
+   "journal": "Curr Sports Med Rep",
    "year": "2026",
    "authors": [
-    "Chen JYS",
-    "Yam MGJ"
+    "Head M",
+    "Nyland J"
    ],
-   "abstract": "Conventional ankle-foot orthoses (C-AFOs) are commonly used to improve patient mobility. The traditional handmade process offers limited design flexibility and personalisation. In the last decade, 3D-printed AFOs (3D-AFOs) have emerged as a promising alternative. While numerous biomechanical benefits over C-AFOs have been suggested, their clinical application and real-world feasibility remain underexplored. This study aims to evaluate recent developments in 3D-AFOs and identify strategies to improve their clinical relevance and integration. A systematic review was conducted on 3 October 2024. Five electronic databases (PubMed, Cochrane, Scopus, CINAHL and EMBASE) were searched for studies published between 2022 and 2024. The inclusion criteria focused on physically tested 3D-AFOs modelled from leg scans or commercial templates. Data were categorised into design, mechanical properties, walking ability and participant satisfaction. Of the 69 studies identified, 11 met the eligibility criteria and 36 participants were included. 3D-AFOs were designed with reduced weight and demonstrated improved gait symmetry and ankle range of motion. The modifiable material composition of 3D-AFOs influenced stiffness and durability. 3D-AFOs also demonstrated improved walking speed and muscle efficiency, although performance varied across terrains. Although superior in comfort, support and effectiveness, 3D-AFOs were comparable or inferior in social participation, perceived weight and convenience of use. While 3D-AFOs demonstrate strong biomechanical promise, current research falls short of translating these benefits into clinically meaningful outcomes. Future studies can consider targeting patients with relevant comorbidities, extend follow-up duration, and incorporate compliance and usability metrics to promote further integration of 3D-AFOs into routine clinical practice.",
-   "doi": "10.4103/singaporemedj.SMJ-2025-031",
+   "abstract": "Across sports that involve cutting, pivoting, and single-leg jump landings, biological female athletes sustain anterior cruciate ligament injuries at 2- to 9-fold greater rates than males. The mechanical resilience of the anterior cruciate ligament depends on extracellular matrix stabilization. Crosslinking, primarily mediated by lysyl oxidase, is essential to extracellular matrix maturation, to resisting the tensile and shear forces encountered during athletic activity, and to long-term anterior cruciate ligament health. Estrogen-mediated lysyl oxidase modulation may weaken the extracellular matrix, reducing its capacity to withstand mechanical loads. This narrative review explores how estrogen influences lysyl oxidase function, particularly in the context of collagen crosslinking and connective tissue health. Special emphasis is placed on biological female anterior cruciate ligament injury risk, a highly relevant example of clinical estrogen-associated extracellular matrix vulnerability. By integrating epidemiologic evidence with emerging molecular and mechanistic data, clinicians are provided with a contemporary biologically informed perspective on sex-specific anterior cruciate ligament injury risk. Future research and prevention strategies are discussed.",
+   "doi": "10.1249/JSR.0000000000001375",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42842750/",
+   "matched": [
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42841515",
+   "title": "The effect of sex-specific footwear on cutting patterns in adolescent female soccer players.",
+   "journal": "Sports Biomech",
+   "year": "2026",
+   "authors": [
+    "Chen K",
+    "Wilkie E",
+    "Herrera N",
+    "Morelli M",
+    "et al."
+   ],
+   "abstract": "Sex differences have been identified in foot morphology and soccer-specific movement patterns. However, female-specific athletic footwear has only emerged recently, and research has yet to fully understand its impact on cutting patterns. This study examined the impact of female-specific soccer shoes and unisex soccer shoes on joint kinematics during cutting in adolescent soccer players. Thirty-two females completed unanticipated sidesteps at 45\u2009\u00b1\u200910 degrees, in both shoe conditions, captured using a markerless motion captures system. Principal component (PC) analysis and hierarchical linear model examined joint angle features against shoe conditions. PCs (PC1, PC2, PC3) represented either differences in joint angle amplitude or a change in angles between different cutting phases. Ankle findings related to greater dorsiflexion and inversion angles throughout cutting (PC1) and during midstance (PC2, PC3) in the female shoe than the unisex shoe. Knee findings related to lower flexion angles during the pre-contact/early cutting phase in the female shoe (PC2). Overall, the female shoe trended towards more optimal inversion, but riskier dorsiflexion and knee flexion patterns for knee injuries. However, direct indications to injury and performance require further exploration. Nonetheless, the presence of kinematic influences in sex-specific soccer footwear designs provides valuable insights for future research directions and footwear development.",
+   "doi": "10.1080/14763141.2026.2741555",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42839710/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42841515/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
    "is_new": true,
    "bucket": "research"
-  },
-  {
-   "pmid": "42837429",
-   "title": "From Sprain to End-Stage Osteoarthritis: Why Earlier Intervention in Ankle Cartilage Damage Deserves More Attention.",
-   "journal": "J Bone Joint Surg Am",
-   "year": "2026",
-   "authors": [
-    "Hollander JJ",
-    "Dahmen J",
-    "Murawski CD",
-    "Gianakos AL",
-    "et al."
-   ],
-   "abstract": "\u27a2 Ankle cartilage damage ranges from osteochondral lesions of the talus to end-stage osteoarthritis. End-stage ankle osteoarthritis has been associated with a health burden comparable with that of major chronic diseases such as congestive heart failure and kidney disease, while predominantly affecting young and active patients.\u27a2 Ankle osteoarthritis often has a posttraumatic nature, making it possible to study the long-term results of traumatic articular injuries and identify potential targets for early therapeutic interventions.\u27a2 The scientific literature has been predominantly focused on outcomes after surgical treatment of osteochondral lesions of the talus or osteoarthritis. However, evidence on nonoperative treatment has been limited and methodologically weak, with evidence for early interventions (e.g., lifestyle or biologicals) even more scarce.\u27a2 The greatest opportunity to improve long-term outcomes in ankle cartilage damage may be early recognition and early initiation of treatment.",
-   "doi": "10.2106/JBJS.26.00827",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42837429/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42841078",
-   "title": "Injuries to High School Football Players in Long Island, New York: A Five-Year Study.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Greenstein BD",
-    "Zinner MA",
-    "Neufeld EV",
-    "DeGouveia W",
-    "et al."
-   ],
-   "abstract": "Background American football has the highest injury rate of any U.S. high school sport, yet most studies examine a single injury type or position. We characterized injury patterns among high school football athletes in Long Island, New York, over five consecutive seasons, focusing on how injury patterns vary by level of play, setting, and position. Methods In this retrospective cohort study, certified athletic trainers and sports medicine physicians documented all in-season injuries among varsity and junior varsity (JV) athletes at 16 high schools from 2019 to 2023. Level of play, setting, mechanism, anatomic location, diagnosis, position, and time to return to play were recorded. Proportions were compared using two-sample Z-tests for independent proportions, with a two-sided p < 0.05 considered significant. Test statistics are reported as Z values alongside exact p-values. Results Among 3,861 athletes (2,093 varsity, 54.2%), 1,476 injuries were recorded. Varsity athletes accounted for a greater share of injuries than JV athletes (n = 1,104, 74.8% vs. n = 372, 25.2%; Z = 26.95, p < 0.001). Most injuries occurred in games despite far more practices (n = 732 of 1,308 injuries with setting recorded, 56.0%; Z = 6.10, p < 0.001). Direct contact was the leading mechanism (n = 796 of 1,344 injuries with the mechanism recorded, 59.2%). The lower extremity was most often injured (n = 672, 45.5%), followed by the upper extremity (n = 431, 29.2%) and head/neck (n = 187, 12.7%). Concussion was the most common specific diagnosis (n = 131, 8.9%). Profiles differed by position: offensive linemen had the highest proportion of concussions, and linebackers had the highest proportion of contact-related injuries. The proportion of athletes with a recorded concussion did not differ between varsity and JV athletes (Z = 0.53, p = 0.594). Conclusions A greater proportion of recorded injuries occurred among varsity athletes, in games, and through direct contact. Injury profiles differed by position, most notably a high proportion of concussions among offensive linemen. Because athlete exposure denominators were unavailable, these findings describe the distribution of recorded injuries rather than exposure-adjusted risk. These multiyear, position-specific data can inform targeted prevention and safety policy in high school football.",
-   "doi": "10.7759/cureus.115861",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42841078/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42839760",
-   "title": "Open Fractures in Polytrauma and Non-Polytrauma Patients: Outcomes and Predictive Factors in a Level III Trauma Center.",
-   "journal": "Acta Chir Orthop Traumatol Cech",
-   "year": "2026",
-   "authors": [
-    "Ipponi E",
-    "Sivieri M",
-    "Pecchia F",
-    "Fabbri L",
-    "et al."
-   ],
-   "abstract": "Open fractures represent complex injuries characterized by bone exposure, soft-tissue damage, and a high risk of infection, often requiring multidisciplinary management. In polytraumatized patients, these injuries further increase clinical complexity and hospital resource utilization. The purpose of this study was to evaluate adherence to international guidelines in the management of open fractures at a third-level trauma center and to identify clinical and organizational predictors of outcomes, complications, and hospitalization burden in polytraumatized and non-polytraumatized patients. A retrospective, single-center study was conducted including all patients treated for open fractures between January 2020 and December 2023. Demographic data, injury mechanisms, fracture location, Gustilo-Anderson grade, surgical timing, treatment strategy (Early Total Care or Damage Control Orthopedics), ICU admission, complications, and readmissions were collected. Polytrauma status was recorded. Primary outcomes included infection rate, length of hospital stay, number of admissions, and cumulative hospitalization time. Statistical analysis was performed using Student's t-test, Fisher's exact test, and Pearson correlation, with significance set at p < 0.05. A total of 115 patients were included, of whom 53 (46.1%) were polytraumatized. The mean age was 47.1 years, with a male predominance. Lower-limb fractures were most common, particularly involving the tibia. Grade III injuries accounted for 61.7% of cases. Surgical debridement was performed within 6 hours in 65.2% of patients. External fixation for damage control was used in 73% of cases, with a mean fixation duration of 103 days. Postoperative ICU admission was required in 27.8% of patients. Overall infection rate was 15.7%. Polytraumatized patients experienced significantly longer hospital stays and a higher number of readmissions, but polytrauma status was not associated with increased infection risk. Higher Gustilo-Anderson grade showed a strong correlation with prolonged hospitalization and infection. Damage control strategies were associated with longer cumulative hospitalization and more frequent readmissions but not with higher infection rates. These findings indicate that fracture severity and local tissue damage, rather than polytrauma status itself, are the main determinants of infection risk and hospitalization burden. While polytrauma increases overall resource utilization, standardized multidisciplinary management allows comparable orthopedic outcomes. Damage control orthopedics remains essential in severe cases but implies longer and more fragmented care pathways. In a high-volume trauma center adhering to international guidelines, open fracture outcomes are primarily driven by injury severity. Polytrauma influences hospitalization burden but not infection risk. Awareness of these factors is essential for optimizing trauma pathways, resource allocation, and patient counseling.",
-   "doi": "10.55095/achot2026/020",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42839760/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42840850",
-   "title": "Oral contraceptive use and anterior cruciate ligament injury or reconstruction in women: A systematic review and meta-analysis of very low-certainty evidence.",
-   "journal": "J Exp Orthop",
-   "year": "2026",
-   "authors": [
-    "Kobayashi EN",
-    "Silva NZ",
-    "de Azevedo LAC",
-    "de Abreu MEC",
-    "et al."
-   ],
-   "abstract": "To determine whether oral contraceptive use is associated with anterior cruciate ligament injury or reconstruction in women and to examine whether associations vary according to age, contraceptive formulation, duration of use and outcome definition. PubMed, Scopus, Embase and Latin American and Caribbean Health Sciences Literature (LILACS) were searched through 31 July 2026 (LILACS rerun with multilingual terms on 16 September 2026). Comparative observational studies were meta-analysed. The primary analysis pooled adjusted or matched odds ratios (ORs) for reconstruction or operatively treated injury using random-effects restricted maximum-likelihood models with Hartung-Knapp-Sidik-Jonkman confidence intervals (CIs). Risk of bias was assessed with risk of bias in nonrandomised studies of exposures and certainty with grading of recommendations assessment, development and evaluation. Ten studies were included; seven were meta-analysed. The primary analysis (four studies) showed no clear association (OR, 0.89; 95% CI, 0.77-1.02; I 2\u2009=\u200984%; \u03c4 2\u2009=\u20090.01; 95% prediction interval, 0.66-1.19). Two crude athlete studies and the active-comparator cohort (hazard ratio, 0.95; 95% CI, 0.89-1.01) also had CIs including 1. Adding one crude database estimate yielded OR 0.85 (95% CI, 0.74-0.98; I 2\u2009=\u200990%; 95% prediction interval, 0.61-1.19). Leave-one-out results were unstable. The certainty of evidence was very low. The primary adjusted or matched analysis did not establish a clear association between oral contraceptive use and anterior cruciate ligament reconstruction or operatively treated injury; substantial heterogeneity, residual confounding and very low certainty of evidence preclude causal interpretation. Current evidence does not support initiating or selecting oral contraceptives for anterior cruciate ligament injury prevention. Well-designed prospective studies with standardised exposure and outcome definitions are needed. Level IV, systematic review of observational studies.",
-   "doi": "10.1002/jeo2.70940",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42840850/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42837112",
-   "title": "Persistent alterations in muscle activation patterns during landing tasks after anterior cruciate ligament reconstruction in return-to-sport cohorts: A systematic review and meta-analysis of electromyography studies.",
-   "journal": "Knee Surg Sports Traumatol Arthrosc",
-   "year": "2026",
-   "authors": [
-    "Han Y",
-    "Chen Y",
-    "Wang Z",
-    "Wang TYF",
-    "et al."
-   ],
-   "abstract": "To categorize landing tasks in electromyography (EMG) studies and compare muscle activity during landing between patients with anterior cruciate ligament reconstruction (ACLR) reported as having returned to sport and healthy controls. We systematically searched seven databases (PubMed, Embase, Web of Science, Cochrane Library, Scopus, CINAHL, SPORTDiscus) from inception to 10 December 2025. Studies using EMG to assess muscle activity during landing tasks were included when they compared the reconstructed limb of ACLR patients reported as having returned to sport with limbs from healthy controls. Random-effects meta-analyses evaluated between-group differences using standardized mean differences (SMDs) with 95% confidence intervals (CIs), with findings categorized using an internal evidence classification. Thirty-two studies were included, comprising 556 individuals with ACLR from return-to-sport cohorts and 501 healthy controls. Thirteen landing tasks were analysed, involving fifteen lower-limb muscles and four EMG outcome measures. Each pooled comparison included 2-5 studies. Three findings were classified as moderate evidence: greater activation of the medial hamstrings during the reactive phase of single-leg drop landing (based on five studies, SMD\u2009=\u20090.35, 95% CI [0.01, 0.69], I2\u2009=\u20090%), greater gluteus maximus activation during the reactive phase of single-leg drop vertical jump (based on three studies, SMD\u2009=\u20090.63, 95% CI [0.22, 1.03], I2\u2009=\u20090%) and earlier rectus femoris onset in single-leg hop for distance (based on three studies, SMD\u2009=\u2009-0.64, 95% CI [-1.13, -0.14], I2\u2009=\u200919%). Most other findings showed no between-group differences or were classified as limited or very limited evidence. ACLR patients reported as having returned to sport may exhibit task-specific alterations in muscle activation patterns compared with healthy controls, and these alterations may be more readily detected during certain single-leg landing tasks. Further prospective and interventional studies are needed to clarify their clinical relevance. Level IV.",
-   "doi": "10.1002/ksa.70637",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42837112/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42838110",
-   "title": "Relationship Between Individual Workload, Training Impulse, and Game Performance in Women Collegiate Basketball Athletes.",
-   "journal": "J Strength Cond Res",
-   "year": "2026",
-   "authors": [
-    "Brown FSA",
-    "Fields JB",
-    "Jagim AR",
-    "Miller A",
-    "et al."
-   ],
-   "abstract": "Brown, FSA, Fields, JB, Jagim, AR, Miller, A, Baker, RE, and Jones, MT. Relationship between individual workload, training impulse, and game performance in women collegiate basketball athletes. J Strength Cond Res XX(X): 000-000, 2026-The purpose was to quantify game external load (EL) demands and explore relationships between EL, internal load (IL), and measures of basketball performance across a competitive season in women basketball athletes (n = 7). Data were collected by an inertial measurement unit microsensor and heart rate monitor for games (n = 28) and practices (n = 61). Playerload\u2122 (PL), training impulse (TRIMP), and player efficiency (PE) were used to quantify EL, IL, and basketball performance, respectively. Descriptive statistics were used to quantify individual athlete PE, IL, and EL game measures, and game statistics for each game and stratified by position type. Repeated-measures correlations assessed relationships between PL, TRIMP, and PE. Two separate location scale models (PL, TRIMP) assessed the effect of session, position, PE, and previous day workload (PL lag, TRIMP lag). Results showed small to very large relationships (r = 0.21-0.85) between PL, TRIMP, and PE. Previous day workloads (PL, TRIMP) positively affected next-day load. Playerload increased as PE increased. Guards experienced higher within person variability of PL than forward or center positions. Athletes experienced high within person variability of PL (25.50 AU) and TRIMP (20.90 AU) across the season. The average TRIMP remained consistent across the season (230.2 AU) but varied between athletes (B = 0.90 [95% CI: 0.30-6.50]). Results suggest preceding day workload is associated with next-day workload and player performance, with higher EL being associated with higher PE. Furthermore, higher variability among athletes indicates other factors may affect workload across the season beyond sport training.",
-   "doi": "10.1519/JSC.0000000000005696",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42838110/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771890",
@@ -640,6 +495,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42839710",
+   "title": "Breaking out of the mould-recent developments in 3D-printed ankle-foot orthoses and strategies to improve clinical practicality: a systematic review.",
+   "journal": "Singapore Med J",
+   "year": "2026",
+   "authors": [
+    "Chen JYS",
+    "Yam MGJ"
+   ],
+   "abstract": "Conventional ankle-foot orthoses (C-AFOs) are commonly used to improve patient mobility. The traditional handmade process offers limited design flexibility and personalisation. In the last decade, 3D-printed AFOs (3D-AFOs) have emerged as a promising alternative. While numerous biomechanical benefits over C-AFOs have been suggested, their clinical application and real-world feasibility remain underexplored. This study aims to evaluate recent developments in 3D-AFOs and identify strategies to improve their clinical relevance and integration. A systematic review was conducted on 3 October 2024. Five electronic databases (PubMed, Cochrane, Scopus, CINAHL and EMBASE) were searched for studies published between 2022 and 2024. The inclusion criteria focused on physically tested 3D-AFOs modelled from leg scans or commercial templates. Data were categorised into design, mechanical properties, walking ability and participant satisfaction. Of the 69 studies identified, 11 met the eligibility criteria and 36 participants were included. 3D-AFOs were designed with reduced weight and demonstrated improved gait symmetry and ankle range of motion. The modifiable material composition of 3D-AFOs influenced stiffness and durability. 3D-AFOs also demonstrated improved walking speed and muscle efficiency, although performance varied across terrains. Although superior in comfort, support and effectiveness, 3D-AFOs were comparable or inferior in social participation, perceived weight and convenience of use. While 3D-AFOs demonstrate strong biomechanical promise, current research falls short of translating these benefits into clinically meaningful outcomes. Future studies can consider targeting patients with relevant comorbidities, extend follow-up duration, and incorporate compliance and usability metrics to promote further integration of 3D-AFOs into routine clinical practice.",
+   "doi": "10.4103/singaporemedj.SMJ-2025-031",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42839710/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42756022",
    "title": "Case Report: Gait training using a wearable ankle-exoskeleton in a pediatric patient with Guillain-Barr\u00e9 syndrome.",
    "journal": "Front Pediatr",
@@ -778,34 +658,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42702977",
-   "title": "Coupled Neuromusculoskeletal Finite Element Simulation Reveals Biomechanical Adaptation and Joint Tissue Risk of Ankle Exoskeleton Intervention after Stroke.",
-   "journal": "Soft Robot",
-   "year": "2026",
-   "authors": [
-    "Gao Y",
-    "Wang S",
-    "Lin Y",
-    "Wang Z",
-    "et al."
-   ],
-   "abstract": "Stroke-induced lower limb motor dysfunction leads to abnormal gait and severely compromises quality of life. While exoskeletons are effective rehabilitation devices, their long-term biomechanical responses and tissue-level risks remain unclear. This study employed a synergy-informed neuromusculoskeletal simulation coupled with personalized finite element (FE) analysis to quantify the biomechanical adaptations and tissue-level effects of ankle exoskeleton intervention for stroke patients. Eight male patients with chronic stroke were recruited for a 2-week exoskeleton intervention. Biomechanical data were collected before and after intervention under different exoskeleton-assisted walking conditions. The most accurate synergy-informed neuromusculoskeletal model (correlation coefficient 0.759, and root mean square error 0.164 Nm/kg for the ankle) revealed that exoskeleton-assisted walking induces compensatory biomechanical adaptations, characterized by distal assistance and proximal compensation, manifested as increased knee extension moments on the affected side and higher joint and muscle forces on the unaffected side. FE analysis showed increased ankle contact pressures, medial force transmission, lateral collateral ligament forces, and forefoot stresses after intervention. These findings suggest potential long-term risk for tissue degeneration. Current ankle exoskeletons should still be cautiously regarded as rehabilitation interventions rather than long-term assistive devices. Exoskeleton rehabilitation protocols should integrate individualized ankle and foot assessments, and exoskeleton design optimization should prioritize lightweight structures and pressure-sensitive control to enhance rehabilitation efficacy while minimizing potential long-term risk.",
-   "doi": "10.1177/21695172261486297",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42702977/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -1089,30 +941,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42703580",
-   "title": "Effects of metatarsal bar and heel lift on foot biomechanics during gait: implications for performance-related biomechanics.",
-   "journal": "J Phys Ther Sci",
-   "year": "2026",
-   "authors": [
-    "Shiroshita T"
-   ],
-   "abstract": "[Purpose] This study investigated the biomechanical effects of metatarsal bars (MTB) and heel lifts (HL) on lower-limb kinematics and kinetics during gait. [Participants and Methods] Twenty healthy adults underwent three-dimensional gait analysis. Ankle dorsiflexion angle, internal plantarflexion moment, medial longitudinal arch (MLA) height, and gravity movement (GM) were evaluated at 0%, 12%, 31%, and 50% of the walking cycle (WC) and at peak stance. Data were analyzed using two-way repeated-measures ANOVA (condition \u00d7 WC), followed by Holm-adjusted post-hoc comparisons. [Results] Compared with HL, MTB significantly increased ankle dorsiflexion and decreased MLA height at 31% and 50% WC. Conversely, HL significantly reduced the plantarflexion moment at 12% WC but increased it at 50% WC and peak stance. No significant differences were found in GM, though MTB tended to shift GM posteriorly and HL anteriorly during the latter half of the stance phase. [Conclusion] MTB and HL exhibit distinct phase-specific biomechanical strategies. MTB increases dorsiflexion and reduces MLA height during mid-to-late stance (31-50% WC), suggesting a shock absorption-oriented strategy. In contrast, HL modulates plantarflexion moments to facilitate forward progression. These findings emphasize selecting orthotic components based on specific biomechanical demands at different gait phases.",
-   "doi": "10.1589/jpts.38.387",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42703580/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42713199",
    "title": "Effects of Soccer Boot Insoles on Muscle Activity and Ankle Inversion Proprioception in Drop Landing Tasks in Patients with and without Chronic Ankle Instability.",
    "journal": "J Hum Kinet",
@@ -1362,6 +1190,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42837429",
+   "title": "From Sprain to End-Stage Osteoarthritis: Why Earlier Intervention in Ankle Cartilage Damage Deserves More Attention.",
+   "journal": "J Bone Joint Surg Am",
+   "year": "2026",
+   "authors": [
+    "Hollander JJ",
+    "Dahmen J",
+    "Murawski CD",
+    "Gianakos AL",
+    "et al."
+   ],
+   "abstract": "\u27a2 Ankle cartilage damage ranges from osteochondral lesions of the talus to end-stage osteoarthritis. End-stage ankle osteoarthritis has been associated with a health burden comparable with that of major chronic diseases such as congestive heart failure and kidney disease, while predominantly affecting young and active patients.\u27a2 Ankle osteoarthritis often has a posttraumatic nature, making it possible to study the long-term results of traumatic articular injuries and identify potential targets for early therapeutic interventions.\u27a2 The scientific literature has been predominantly focused on outcomes after surgical treatment of osteochondral lesions of the talus or osteoarthritis. However, evidence on nonoperative treatment has been limited and methodologically weak, with evidence for early interventions (e.g., lifestyle or biologicals) even more scarce.\u27a2 The greatest opportunity to improve long-term outcomes in ankle cartilage damage may be early recognition and early initiation of treatment.",
+   "doi": "10.2106/JBJS.26.00827",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42837429/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42719479",
    "title": "Generalized Joint Laxity Is an Independent Predictor of Postoperative Resprain Following Anatomic Reconstruction Using Gracilis Tendon Autograft for Patients With Chronic Lateral Ankle Instability.",
    "journal": "Orthop J Sports Med",
@@ -1571,6 +1427,34 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42841078",
+   "title": "Injuries to High School Football Players in Long Island, New York: A Five-Year Study.",
+   "journal": "Cureus",
+   "year": "2026",
+   "authors": [
+    "Greenstein BD",
+    "Zinner MA",
+    "Neufeld EV",
+    "DeGouveia W",
+    "et al."
+   ],
+   "abstract": "Background American football has the highest injury rate of any U.S. high school sport, yet most studies examine a single injury type or position. We characterized injury patterns among high school football athletes in Long Island, New York, over five consecutive seasons, focusing on how injury patterns vary by level of play, setting, and position. Methods In this retrospective cohort study, certified athletic trainers and sports medicine physicians documented all in-season injuries among varsity and junior varsity (JV) athletes at 16 high schools from 2019 to 2023. Level of play, setting, mechanism, anatomic location, diagnosis, position, and time to return to play were recorded. Proportions were compared using two-sample Z-tests for independent proportions, with a two-sided p < 0.05 considered significant. Test statistics are reported as Z values alongside exact p-values. Results Among 3,861 athletes (2,093 varsity, 54.2%), 1,476 injuries were recorded. Varsity athletes accounted for a greater share of injuries than JV athletes (n = 1,104, 74.8% vs. n = 372, 25.2%; Z = 26.95, p < 0.001). Most injuries occurred in games despite far more practices (n = 732 of 1,308 injuries with setting recorded, 56.0%; Z = 6.10, p < 0.001). Direct contact was the leading mechanism (n = 796 of 1,344 injuries with the mechanism recorded, 59.2%). The lower extremity was most often injured (n = 672, 45.5%), followed by the upper extremity (n = 431, 29.2%) and head/neck (n = 187, 12.7%). Concussion was the most common specific diagnosis (n = 131, 8.9%). Profiles differed by position: offensive linemen had the highest proportion of concussions, and linebackers had the highest proportion of contact-related injuries. The proportion of athletes with a recorded concussion did not differ between varsity and JV athletes (Z = 0.53, p = 0.594). Conclusions A greater proportion of recorded injuries occurred among varsity athletes, in games, and through direct contact. Injury profiles differed by position, most notably a high proportion of concussions among offensive linemen. Because athlete exposure denominators were unavailable, these findings describe the distribution of recorded injuries rather than exposure-adjusted risk. These multiyear, position-specific data can inform targeted prevention and safety policy in high school football.",
+   "doi": "10.7759/cureus.115861",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42841078/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1812,6 +1696,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42839760",
+   "title": "Open Fractures in Polytrauma and Non-Polytrauma Patients: Outcomes and Predictive Factors in a Level III Trauma Center.",
+   "journal": "Acta Chir Orthop Traumatol Cech",
+   "year": "2026",
+   "authors": [
+    "Ipponi E",
+    "Sivieri M",
+    "Pecchia F",
+    "Fabbri L",
+    "et al."
+   ],
+   "abstract": "Open fractures represent complex injuries characterized by bone exposure, soft-tissue damage, and a high risk of infection, often requiring multidisciplinary management. In polytraumatized patients, these injuries further increase clinical complexity and hospital resource utilization. The purpose of this study was to evaluate adherence to international guidelines in the management of open fractures at a third-level trauma center and to identify clinical and organizational predictors of outcomes, complications, and hospitalization burden in polytraumatized and non-polytraumatized patients. A retrospective, single-center study was conducted including all patients treated for open fractures between January 2020 and December 2023. Demographic data, injury mechanisms, fracture location, Gustilo-Anderson grade, surgical timing, treatment strategy (Early Total Care or Damage Control Orthopedics), ICU admission, complications, and readmissions were collected. Polytrauma status was recorded. Primary outcomes included infection rate, length of hospital stay, number of admissions, and cumulative hospitalization time. Statistical analysis was performed using Student's t-test, Fisher's exact test, and Pearson correlation, with significance set at p < 0.05. A total of 115 patients were included, of whom 53 (46.1%) were polytraumatized. The mean age was 47.1 years, with a male predominance. Lower-limb fractures were most common, particularly involving the tibia. Grade III injuries accounted for 61.7% of cases. Surgical debridement was performed within 6 hours in 65.2% of patients. External fixation for damage control was used in 73% of cases, with a mean fixation duration of 103 days. Postoperative ICU admission was required in 27.8% of patients. Overall infection rate was 15.7%. Polytraumatized patients experienced significantly longer hospital stays and a higher number of readmissions, but polytrauma status was not associated with increased infection risk. Higher Gustilo-Anderson grade showed a strong correlation with prolonged hospitalization and infection. Damage control strategies were associated with longer cumulative hospitalization and more frequent readmissions but not with higher infection rates. These findings indicate that fracture severity and local tissue damage, rather than polytrauma status itself, are the main determinants of infection risk and hospitalization burden. While polytrauma increases overall resource utilization, standardized multidisciplinary management allows comparable orthopedic outcomes. Damage control orthopedics remains essential in severe cases but implies longer and more fragmented care pathways. In a high-volume trauma center adhering to international guidelines, open fracture outcomes are primarily driven by injury severity. Polytrauma influences hospitalization burden but not infection risk. Awareness of these factors is essential for optimizing trauma pathways, resource allocation, and patient counseling.",
+   "doi": "10.55095/achot2026/020",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42839760/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42763403",
    "title": "Optimized anterior anatomical fusion plate for ankle arthrodesis: biomechanical and clinical outcomes.",
    "journal": "BMC Musculoskelet Disord",
@@ -1838,6 +1750,40 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42840850",
+   "title": "Oral contraceptive use and anterior cruciate ligament injury or reconstruction in women: A systematic review and meta-analysis of very low-certainty evidence.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Kobayashi EN",
+    "Silva NZ",
+    "de Azevedo LAC",
+    "de Abreu MEC",
+    "et al."
+   ],
+   "abstract": "To determine whether oral contraceptive use is associated with anterior cruciate ligament injury or reconstruction in women and to examine whether associations vary according to age, contraceptive formulation, duration of use and outcome definition. PubMed, Scopus, Embase and Latin American and Caribbean Health Sciences Literature (LILACS) were searched through 31 July 2026 (LILACS rerun with multilingual terms on 16 September 2026). Comparative observational studies were meta-analysed. The primary analysis pooled adjusted or matched odds ratios (ORs) for reconstruction or operatively treated injury using random-effects restricted maximum-likelihood models with Hartung-Knapp-Sidik-Jonkman confidence intervals (CIs). Risk of bias was assessed with risk of bias in nonrandomised studies of exposures and certainty with grading of recommendations assessment, development and evaluation. Ten studies were included; seven were meta-analysed. The primary analysis (four studies) showed no clear association (OR, 0.89; 95% CI, 0.77-1.02; I 2\u2009=\u200984%; \u03c4 2\u2009=\u20090.01; 95% prediction interval, 0.66-1.19). Two crude athlete studies and the active-comparator cohort (hazard ratio, 0.95; 95% CI, 0.89-1.01) also had CIs including 1. Adding one crude database estimate yielded OR 0.85 (95% CI, 0.74-0.98; I 2\u2009=\u200990%; 95% prediction interval, 0.61-1.19). Leave-one-out results were unstable. The certainty of evidence was very low. The primary adjusted or matched analysis did not establish a clear association between oral contraceptive use and anterior cruciate ligament reconstruction or operatively treated injury; substantial heterogeneity, residual confounding and very low certainty of evidence preclude causal interpretation. Current evidence does not support initiating or selecting oral contraceptives for anterior cruciate ligament injury prevention. Well-designed prospective studies with standardised exposure and outcome definitions are needed. Level IV, systematic review of observational studies.",
+   "doi": "10.1002/jeo2.70940",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42840850/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "contraception-msk-injury",
+     "label": "Hormonal contraception & MSK injury (sports)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771787",
@@ -1896,27 +1842,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42704823",
-   "title": "Pharmacy Utilization Patterns and Polypharmacy as Predictors of High-Cost Workers' Compensation Claims: An Updated Cohort Study of Occupational Ankle Sprains.",
-   "journal": "J Occup Environ Med",
+   "pmid": "42837112",
+   "title": "Persistent alterations in muscle activation patterns during landing tasks after anterior cruciate ligament reconstruction in return-to-sport cohorts: A systematic review and meta-analysis of electromyography studies.",
+   "journal": "Knee Surg Sports Traumatol Arthrosc",
    "year": "2026",
    "authors": [
-    "Tao XG",
-    "Iglesias MA",
-    "Kalia N",
-    "Leung N",
+    "Han Y",
+    "Chen Y",
+    "Wang Z",
+    "Wang TYF",
     "et al."
    ],
-   "abstract": "Evaluate pharmacy utilization patterns as independent predictors of high-cost workers' compensation claims (\u2265$50,000) for occupational ankle sprains. Pharmacy Benefit Management data were integrated into a 9-year cohort of 18,991 claims. Logistic regression modeled individual drug-class utilization and multi-class combinations, adjusting for demographics, industry, litigations, physical complications, treatments, and comorbidities. High-cost risk increased significantly with individual utilization of opioids (OR: 2.19; 95% CI: 1.78-2.69) and antiseizure medications (OR: 4.21; 95% CI: 3.28-5.39). While exclusive nonsteroidals use demonstrated no elevated risk (OR: 0.96; 95% CI: 0.76-1.20), polypharmacy involving three or more flagged drug classes was associated with a 7.71-fold increase in cost escalation (CI: 6.08-9.77). Early multi-class prescription drug tracking provides a dynamic and real-time indicator of case complexity, allowing interventions from relevant parties to prevent severe financial escalation.",
-   "doi": "10.1097/JOM.0000000000003875",
+   "abstract": "To categorize landing tasks in electromyography (EMG) studies and compare muscle activity during landing between patients with anterior cruciate ligament reconstruction (ACLR) reported as having returned to sport and healthy controls. We systematically searched seven databases (PubMed, Embase, Web of Science, Cochrane Library, Scopus, CINAHL, SPORTDiscus) from inception to 10 December 2025. Studies using EMG to assess muscle activity during landing tasks were included when they compared the reconstructed limb of ACLR patients reported as having returned to sport with limbs from healthy controls. Random-effects meta-analyses evaluated between-group differences using standardized mean differences (SMDs) with 95% confidence intervals (CIs), with findings categorized using an internal evidence classification. Thirty-two studies were included, comprising 556 individuals with ACLR from return-to-sport cohorts and 501 healthy controls. Thirteen landing tasks were analysed, involving fifteen lower-limb muscles and four EMG outcome measures. Each pooled comparison included 2-5 studies. Three findings were classified as moderate evidence: greater activation of the medial hamstrings during the reactive phase of single-leg drop landing (based on five studies, SMD\u2009=\u20090.35, 95% CI [0.01, 0.69], I2\u2009=\u20090%), greater gluteus maximus activation during the reactive phase of single-leg drop vertical jump (based on three studies, SMD\u2009=\u20090.63, 95% CI [0.22, 1.03], I2\u2009=\u20090%) and earlier rectus femoris onset in single-leg hop for distance (based on three studies, SMD\u2009=\u2009-0.64, 95% CI [-1.13, -0.14], I2\u2009=\u200919%). Most other findings showed no between-group differences or were classified as limited or very limited evidence. ACLR patients reported as having returned to sport may exhibit task-specific alterations in muscle activation patterns compared with healthy controls, and these alterations may be more readily detected during certain single-leg landing tasks. Further prospective and interventional studies are needed to clarify their clinical relevance. Level IV.",
+   "doi": "10.1002/ksa.70637",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42704823/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42837112/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -2034,33 +1980,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42703007",
-   "title": "Prevalence of Achilles Tendinopathy in Bharatanatyam Dancers.",
-   "journal": "J Dance Med Sci",
-   "year": "2026",
-   "authors": [
-    "Bhat AA",
-    "Raja K",
-    "Hadya Ananda K",
-    "Anand PA"
-   ],
-   "abstract": "Overuse injuries such as Achilles tendinopathy (AT) are common in dancers due to repetitive loading and biomechanical stress. Although ballet has been studied extensively, very little research exists on Indian classical dance forms. This exploratory study aimed to assess the prevalence and severity of Achilles tendinopathy (AT) among Bharatanatyam dancers in Karnataka, India, using the VISA-A questionnaire, and to explore potential associated risk factors. A cross-sectional observational study was conducted among 106 Bharatanatyam dancers aged 18 to 45\u2009years, recruited through social media and peer networks. Participants were proficient in English and actively engaged in dance practice. Those with a history of lower limb injury, surgery, or insufficient physical activity were excluded. Data collection included the International Physical Activity Questionnaire - Short Form (IPAQ-SF), a survey of known risk factors, and the VISA-A questionnaire. Associations between VISA-A scores and potential risk factors were analyzed. Of the 106 dancers (102 females, 4 males), 68.9% demonstrated signs of AT. All male participants presented with mild symptoms, while females reported AT with greater symptom variability. No significant correlation was found between VISA-A scores and years of dance or sports participation (P\u2009>\u2009.05). No significant associations were identified between the examined demographic and training-related variables and either VISA-A scores or Achilles tendon symptom status in the multivariable regression analyses. These findings provide preliminary evidence of a substantial burden of Achilles tendinopathy among Bharatanatyam dancers, although confirmation in adequately powered studies is required. This study suggests that commonly assumed risk factors, such as years of dance practice and sports involvement, did not show a significant correlation with VISA-A scores. These findings emphasize the need for early identification and management of AT in dancers to prevent long-term impairments and improve their performance.",
-   "doi": "10.1177/1089313X261479318",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42703007/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42780891",
    "title": "Prevalence, burden and risk markers of health problems in HYROX athletes: a 12-week prospective cohort study.",
    "journal": "Front Sports Act Living",
@@ -2106,6 +2025,34 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42789327/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42838110",
+   "title": "Relationship Between Individual Workload, Training Impulse, and Game Performance in Women Collegiate Basketball Athletes.",
+   "journal": "J Strength Cond Res",
+   "year": "2026",
+   "authors": [
+    "Brown FSA",
+    "Fields JB",
+    "Jagim AR",
+    "Miller A",
+    "et al."
+   ],
+   "abstract": "Brown, FSA, Fields, JB, Jagim, AR, Miller, A, Baker, RE, and Jones, MT. Relationship between individual workload, training impulse, and game performance in women collegiate basketball athletes. J Strength Cond Res XX(X): 000-000, 2026-The purpose was to quantify game external load (EL) demands and explore relationships between EL, internal load (IL), and measures of basketball performance across a competitive season in women basketball athletes (n = 7). Data were collected by an inertial measurement unit microsensor and heart rate monitor for games (n = 28) and practices (n = 61). Playerload\u2122 (PL), training impulse (TRIMP), and player efficiency (PE) were used to quantify EL, IL, and basketball performance, respectively. Descriptive statistics were used to quantify individual athlete PE, IL, and EL game measures, and game statistics for each game and stratified by position type. Repeated-measures correlations assessed relationships between PL, TRIMP, and PE. Two separate location scale models (PL, TRIMP) assessed the effect of session, position, PE, and previous day workload (PL lag, TRIMP lag). Results showed small to very large relationships (r = 0.21-0.85) between PL, TRIMP, and PE. Previous day workloads (PL, TRIMP) positively affected next-day load. Playerload increased as PE increased. Guards experienced higher within person variability of PL than forward or center positions. Athletes experienced high within person variability of PL (25.50 AU) and TRIMP (20.90 AU) across the season. The average TRIMP remained consistent across the season (230.2 AU) but varied between athletes (B = 0.90 [95% CI: 0.30-6.50]). Results suggest preceding day workload is associated with next-day workload and player performance, with higher EL being associated with higher PE. Furthermore, higher variability among athletes indicates other factors may affect workload across the season beyond sport training.",
+   "doi": "10.1519/JSC.0000000000005696",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42838110/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -2307,33 +2254,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42705008",
-   "title": "The 'netballer's ankle': An international survey of the negative sequelae associated with lateral ankle ligament sprains in netball.",
-   "journal": "Phys Ther Sport",
-   "year": "2026",
-   "authors": [
-    "Rowe PL",
-    "Hinman RS",
-    "Bryant AL",
-    "Paterson KL"
-   ],
-   "abstract": "To determine when netballers first sustain a lateral ankle ligament sprain and describe the prevalence of persistent symptoms, recurrent sprains, and perceived instability. Cross-sectional survey. An online survey was distributed across Australia, United Kingdom, and New Zealand. were recruited and asked about their ankle sprain history. Netballers aged \u226514 years. History of lateral ankle ligament sprains, persistent symptoms, perceived instability using the Cumberland Ankle Instability Tool (CAIT) and ankle-related disability using the Foot and Ankle Ability Measure (FAAM). The survey received 2144 responses from Australia (52%, n\u202f=\u202f1123), United Kingdom (29%, n\u202f=\u202f627), and New Zealand (18%, n\u202f=\u202f394). Most respondents (87%, n\u202f=\u202f1872) reported a history of lateral ankle ligament sprain. Over half (54%, n\u202f=\u202f1005) reported their first sprain before age fifteen, and most (89%, n\u202f=\u202f1660) experienced persistent symptoms, including fear of re-injury (63%, n\u202f=\u202f1172), pain (58%, n\u202f=\u202f1080), and stiffness (52%, n\u202f=\u202f965). Two-thirds (66%, n\u202f=\u202f1423) suffered recurrent sprains, including almost half (42%, n\u202f=\u202f897) with bilateral recurrences. Three-quarters (75%, n\u202f=\u202f1397) had perceived ankle instability, but ankle disability was less frequent (35%, n\u202f=\u202f647). Most netballers experience lateral ankle ligament sprains before age fifteen, and an extremely high proportion continue to suffer long-term symptoms and instability.",
-   "doi": "10.1016/j.ptsp.2026.101976",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42705008/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42741435",

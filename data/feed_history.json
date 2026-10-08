@@ -1,5 +1,52 @@
 [
  {
+  "pmid": "42842750",
+  "title": "Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.",
+  "journal": "Curr Sports Med Rep",
+  "year": "2026",
+  "authors": [
+   "Head M",
+   "Nyland J"
+  ],
+  "abstract": "Across sports that involve cutting, pivoting, and single-leg jump landings, biological female athletes sustain anterior cruciate ligament injuries at 2- to 9-fold greater rates than males. The mechanical resilience of the anterior cruciate ligament depends on extracellular matrix stabilization. Crosslinking, primarily mediated by lysyl oxidase, is essential to extracellular matrix maturation, to resisting the tensile and shear forces encountered during athletic activity, and to long-term anterior cruciate ligament health. Estrogen-mediated lysyl oxidase modulation may weaken the extracellular matrix, reducing its capacity to withstand mechanical loads. This narrative review explores how estrogen influences lysyl oxidase function, particularly in the context of collagen crosslinking and connective tissue health. Special emphasis is placed on biological female anterior cruciate ligament injury risk, a highly relevant example of clinical estrogen-associated extracellular matrix vulnerability. By integrating epidemiologic evidence with emerging molecular and mechanistic data, clinicians are provided with a contemporary biologically informed perspective on sex-specific anterior cruciate ligament injury risk. Future research and prevention strategies are discussed.",
+  "doi": "10.1249/JSR.0000000000001375",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42842750/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-08T19:24:43Z"
+ },
+ {
+  "pmid": "42841515",
+  "title": "The effect of sex-specific footwear on cutting patterns in adolescent female soccer players.",
+  "journal": "Sports Biomech",
+  "year": "2026",
+  "authors": [
+   "Chen K",
+   "Wilkie E",
+   "Herrera N",
+   "Morelli M",
+   "et al."
+  ],
+  "abstract": "Sex differences have been identified in foot morphology and soccer-specific movement patterns. However, female-specific athletic footwear has only emerged recently, and research has yet to fully understand its impact on cutting patterns. This study examined the impact of female-specific soccer shoes and unisex soccer shoes on joint kinematics during cutting in adolescent soccer players. Thirty-two females completed unanticipated sidesteps at 45\u2009\u00b1\u200910 degrees, in both shoe conditions, captured using a markerless motion captures system. Principal component (PC) analysis and hierarchical linear model examined joint angle features against shoe conditions. PCs (PC1, PC2, PC3) represented either differences in joint angle amplitude or a change in angles between different cutting phases. Ankle findings related to greater dorsiflexion and inversion angles throughout cutting (PC1) and during midstance (PC2, PC3) in the female shoe than the unisex shoe. Knee findings related to lower flexion angles during the pre-contact/early cutting phase in the female shoe (PC2). Overall, the female shoe trended towards more optimal inversion, but riskier dorsiflexion and knee flexion patterns for knee injuries. However, direct indications to injury and performance require further exploration. Nonetheless, the presence of kinematic influences in sex-specific soccer footwear designs provides valuable insights for future research directions and footwear development.",
+  "doi": "10.1080/14763141.2026.2741555",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42841515/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-08T19:24:43Z"
+ },
+ {
   "pmid": "42839710",
   "title": "Breaking out of the mould-recent developments in 3D-printed ankle-foot orthoses and strategies to improve clinical practicality: a systematic review.",
   "journal": "Singapore Med J",
