@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T19:24:43+00:00",
+ "generated": "2026-10-09T18:58:21+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,32 +65,34 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 2,
-  "research": 23,
-  "fieldnotes": 64
+  "total": 91,
+  "new": 5,
+  "research": 24,
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42842750",
-   "title": "Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.",
-   "journal": "Curr Sports Med Rep",
+   "pmid": "42852663",
+   "title": "Association Between Early Postoperative Limb Symmetry Index Scores and 2-Year Patient-Reported Outcomes After Quadriceps Tendon Autograft ACL Reconstruction.",
+   "journal": "Am J Sports Med",
    "year": "2026",
    "authors": [
-    "Head M",
-    "Nyland J"
+    "Kang LS",
+    "Ina JG",
+    "Johnson A",
+    "Iyer S",
+    "et al."
    ],
-   "abstract": "Across sports that involve cutting, pivoting, and single-leg jump landings, biological female athletes sustain anterior cruciate ligament injuries at 2- to 9-fold greater rates than males. The mechanical resilience of the anterior cruciate ligament depends on extracellular matrix stabilization. Crosslinking, primarily mediated by lysyl oxidase, is essential to extracellular matrix maturation, to resisting the tensile and shear forces encountered during athletic activity, and to long-term anterior cruciate ligament health. Estrogen-mediated lysyl oxidase modulation may weaken the extracellular matrix, reducing its capacity to withstand mechanical loads. This narrative review explores how estrogen influences lysyl oxidase function, particularly in the context of collagen crosslinking and connective tissue health. Special emphasis is placed on biological female anterior cruciate ligament injury risk, a highly relevant example of clinical estrogen-associated extracellular matrix vulnerability. By integrating epidemiologic evidence with emerging molecular and mechanistic data, clinicians are provided with a contemporary biologically informed perspective on sex-specific anterior cruciate ligament injury risk. Future research and prevention strategies are discussed.",
-   "doi": "10.1249/JSR.0000000000001375",
+   "abstract": "The limb symmetry index (LSI) is a measure comparing strength and functional movement between the surgical and nonsurgical limbs, used after anterior cruciate ligament reconstruction (ACLR) to guide rehabilitation and assess return-to-sport readiness. With increasing use of the quadriceps tendon autograft (QT-ACLR), limited data exist on whether the LSI score correlates with patient-reported outcome measures (PROMs). To evaluate the predictive value of postoperative strength and functional LSI tests at 3, 6, and 9 months for short-term PROMs, determine Patient Acceptable Symptom State (PASS) thresholds, and assess differences based on PASS achievement. It was hypothesized that quadriceps strength LSI score would more strongly predict 2-year PROMs than hamstring strength LSI score, and that higher 9-month isokinetic quadriceps LSI scores would be associated with higher International Knee Documentation Committee (IKDC) and Lysholm scores. Case series; Level of evidence, 4. Patients undergoing primary QT-ACLR from 2021 to 2024 with LSI testing during rehabilitation (isometric and isokinetic lower extremity strength, Y-Balance, hop testing) and no revision or additional knee surgery were included. The LSI score was assessed at 3, 6, and 9 months, and PROMs, including Lysholm and IKDC scores, were collected at a mean follow-up of 2.0 \u00b1 0.7 years. Multivariable linear regression was used to evaluate associations between LSI measures and PROMs after adjusting for age, sex, and body mass index (BMI). Receiver operating characteristic analysis was used to determine PASS thresholds. A total of 100 knees in 100 patients (mean age, 25.3 \u00b1 11.2 years; BMI, 25.9 \u00b1 6.5 kg/m2; 52% male) were included. Quadriceps and hamstring strength and functional performance progressively improved from 3 to 9 months, with the LSI score reaching 77% to 81% for quadriceps strength and 98% to 100% for hamstring strength by 9 months postoperatively. At a mean follow-up of 2.0 \u00b1 0.7 years, the mean satisfaction score was 8.4 of 10, the Lysholm score was 90.7, and the IKDC score was 77.8. Linear regression, adjusted for age, sex, and BMI, demonstrated that 3-month isometric quadriceps LSI score had a strong effect on IKDC score, explaining substantial variance (\u03b2 = 3.9; adjusted R2 [AdjR2] = 0.36; P < .03); 6-month isokinetic quadriceps and hamstrings showed moderate but significant effects (\u03b2 = 2.9-3.7; AdjR2 = 0.13-0.17; P < .05) on IKDC score; and 9-month fast quadriceps had a strong effect explaining substantial variance in Lysholm and IKDC scores (\u03b2 = 3.9-4.7; AdjR2 = 0.34-0.35; P \u2264 .003). Lysholm and IKDC scores correlated with satisfaction and accurately discriminated PASS thresholds (area under the curve, 0.927-0.937; P < .001). Patients achieving the IKDC PASS demonstrated higher LSI scores across time points and all PROMs. After QT-ACLR, strength-associated LSIs were independently associated with PROMs at a mean 2-year follow-up, after adjusting for age, sex, and BMI. Early isometric quadriceps strength at 3 months predicted higher 2-year IKDC scores, with PASS achievers generally attaining a 60% to 70% LSI score by 3 months. Isokinetic quadriceps strength at 9 months predicted both IKDC and Lysholm scores. These findings highlight the importance of early quadriceps strength recovery and the value of LSI measures in predicting PROMs and informing early rehabilitation.",
+   "doi": "10.1177/03635465261490238",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42842750/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42852663/",
    "matched": [
     {
-     "id": "sex-hormones-connective-tissue",
-     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -98,32 +100,115 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42841515",
-   "title": "The effect of sex-specific footwear on cutting patterns in adolescent female soccer players.",
-   "journal": "Sports Biomech",
+   "pmid": "42851453",
+   "title": "Beyond symptoms: wearable digital biomarkers for subclinical detection of chemotherapy-induced peripheral neuropathy.",
+   "journal": "Front Oncol",
    "year": "2026",
    "authors": [
-    "Chen K",
-    "Wilkie E",
-    "Herrera N",
-    "Morelli M",
-    "et al."
+    "Xu D"
    ],
-   "abstract": "Sex differences have been identified in foot morphology and soccer-specific movement patterns. However, female-specific athletic footwear has only emerged recently, and research has yet to fully understand its impact on cutting patterns. This study examined the impact of female-specific soccer shoes and unisex soccer shoes on joint kinematics during cutting in adolescent soccer players. Thirty-two females completed unanticipated sidesteps at 45\u2009\u00b1\u200910 degrees, in both shoe conditions, captured using a markerless motion captures system. Principal component (PC) analysis and hierarchical linear model examined joint angle features against shoe conditions. PCs (PC1, PC2, PC3) represented either differences in joint angle amplitude or a change in angles between different cutting phases. Ankle findings related to greater dorsiflexion and inversion angles throughout cutting (PC1) and during midstance (PC2, PC3) in the female shoe than the unisex shoe. Knee findings related to lower flexion angles during the pre-contact/early cutting phase in the female shoe (PC2). Overall, the female shoe trended towards more optimal inversion, but riskier dorsiflexion and knee flexion patterns for knee injuries. However, direct indications to injury and performance require further exploration. Nonetheless, the presence of kinematic influences in sex-specific soccer footwear designs provides valuable insights for future research directions and footwear development.",
-   "doi": "10.1080/14763141.2026.2741555",
+   "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is the most prevalent dose-limiting toxicity of taxane-, platinum-, and proteasome inhibitor-based regimens, yet clinical management has a structural flaw: assessment depends on CTCAE clinician grading that registers symptoms only after axonal degeneration has reached an irreversible stage. Quantitative sensory testing studies demonstrate that vibration perception, thermal detection, and sudomotor function deteriorate before patients report numbness or pain, suggesting a subclinical window of one to two chemotherapy cycles. Whether detection within this window can prevent permanent nerve injury remains biologically plausible but prospectively unestablished. Wearable sensors-inertial measurement units for gait, plantar pressure insoles, electrochemical skin conductance devices, and vibration sensors-have demonstrated proof-of-concept capacity to capture subclinical CIPN signals, but evidence remains largely cross-sectional with limited longitudinal validation. This Perspective distinguishes the conceptual framework for subclinical CIPN surveillance from the currently available clinical validation evidence. I systematically categorize four sensing modalities by neuropathological substrate, provide a cross-modality readiness comparison, and identify translational barriers including absent alert thresholds and confounding factors such as age, diabetes, anemia, and fatigue. I propose a phased prospective validation framework; specific monitoring recommendations should be regarded as hypotheses for testing rather than current clinical guidance. Wearable sensors should not replace patient-reported outcomes but may add an objective neurotoxicity monitoring layer whose capacity to improve clinical outcomes requires prospective validation.",
+   "doi": "10.3389/fonc.2026.1959858",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42841515/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42851453/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42852461",
+   "title": "Effects of Cognitive Loading on Biomechanical and Cognitive-Motor Performance During Jump Landing-Cutting in Chronic Ankle Instability.",
+   "journal": "J Athl Train",
+   "year": "2026",
+   "authors": [
+    "Wang S",
+    "Song K",
+    "Song I",
+    "Kim N",
+    "et al."
+   ],
+   "abstract": "Individuals with chronic ankle instability (CAI) demonstrate a high recurrence rate of ankle sprains during sports activities, even after clinical rehabilitation, suggesting altered biomechanical and cognitive-motor performance under demanding conditions. These deficits may be further exacerbated during dynamic movements under cognitive load. However, previous dual-task studies in individuals with CAI have largely examined biomechanical or cognitive-motor performance outcomes separately, leaving their integrated effects insufficiently understood. To identify delayed reaction time and increased task failures under visuospatial cognitive load in individuals with CAI compared with healthy controls and to investigate associated changes in lower-extremity kinematics and ground reaction forces during a jump landing-cutting task. Cross-sectional study. University research laboratory. Thirty-two physically active participants were included: 16 individuals with CAI (age = 24.81 \u00b1 2.69 years) and 16 healthy controls (age = 24.00 \u00b1 1.75 years). Participants performed jump landing-cutting tasks under a single-task condition and a visuospatial cognitive-task condition using a FitLight (FitLight Corp) system. Lower-extremity kinematics, ground reaction forces, and failure counts were assessed in both conditions; reaction time was assessed only in the cognitive-task condition. The CAI group demonstrated delayed reaction time compared with healthy controls during the cognitive-task condition (P = .033); however, reaction time in the CAI group decreased across repeated trials (P = .013). Both groups committed more failures in the cognitive-task condition than in the single-task condition (P < .001, \u03b7p2 = 0.45). No significant interactions were observed in terms of biomechanical variables (P > .05). Individuals with CAI exhibited clear cognitive-motor deficits under cognitive load, whereas their characteristic biomechanical movement patterns remained unchanged. These findings suggest that cognitive-motor dysfunction may not be adequately captured by biomechanical assessments alone and that integrating both domains may improve evaluation and return-to-play decision-making.",
+   "doi": "10.4085/1062-6050-0004.26",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42852461/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
    "bucket": "research"
+  },
+  {
+   "pmid": "42852876",
+   "title": "Epidemiology of Match-Related Injury Events in French Handball: A One-Season Nationwide Cohort Study Across 323\u2009628 Players.",
+   "journal": "Scand J Med Sci Sports",
+   "year": "2026",
+   "authors": [
+    "Choupeaux R",
+    "Guegan C",
+    "Edouard P",
+    "Remy-Neris O",
+    "et al."
+   ],
+   "abstract": "Nationwide data on match-related injuries in handball remain limited. This study described injury-event epidemiology during one French handball season and examined injury patterns according to sex, age, competition level, and timing within the season. This nationwide cohort study included all licensed players participating in official championship matches. An injury event was operationally defined as any physical complaint occurring during a match, including warm-up, and recorded in the electronic match report, irrespective of medical attention or time loss. Seasonal prevalence of players with at least one recorded injury event and injury incidence rates per 1000 athlete-exposures (AEs) were calculated. Poisson regression estimated incidence rate ratios (IRRs) with 99% confidence intervals (CIs). Among 323\u2009628 players participating in 177\u2009279 matches, 78\u2009147 injury events were identified. Overall, 16.2% of players reported at least one match-related injury (female: 19.1%; male: 14.7%), with the highest proportion observed among players aged 22-26\u2009years in both sexes. Overall incidence was 23.5/1000 AEs (99% CI 23.3-23.7). Injury incidence was higher in female than male players at each competition level (IRRs 1.21-1.32) and increased from departmental to national competition. A significant sex-by-competition-level interaction was observed (p\u2009<\u20090.001), with the larger female-to-male difference supported primarily at national level. The foot/ankle (19.8%), knee (15.5%), hand/wrist (15.2%), and head/neck (14.6%) were the most frequently reported anatomical locations. Weekly incidences varied across the season, with peaks in October, February, and April. These findings provide nationwide estimates of match-related injury event patterns and may inform targeted surveillance and prevention strategies.",
+   "doi": "10.1111/sms.70380",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42852876/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42849318",
+   "title": "Sex- and age-specific normative values for lower-limb field tests in elite TeamGym gymnasts.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Turfors S",
+    "Arndt A",
+    "Tranaeus U"
+   ],
+   "abstract": "To establish sex- and age-specific normative values for lower-limb functional performance in elite TeamGym gymnasts and compare values between groups. Cross-sectional study. 216 elite junior (38 males, 50 females) and senior (64 males, 64 females) TeamGym gymnasts. Ankle dorsiflexion, hop for distance, height-adjusted hop for distance, side-hop performance, and heel-raise performance. No significant sex- or age-group differences were observed in ankle dorsiflexion. Significant sex \u00d7 age-group interactions were observed for hop for distance (p\u202f=\u202f.003), height-adjusted hop for distance (p\u202f=\u202f.013), and side-hop performance (p\u202f<\u202f.001). Senior males outperformed junior males across all hop outcomes (all p\u202f<\u202f.001), whereas females showed no age-group differences. Junior males outperformed junior females in absolute hop distance (p\u202f=\u202f.002), while senior males outperformed senior females across all hop outcomes (all p\u202f<\u202f.001). Males completed more heel raises than females (mean difference 4.60, 95% CI 1.91-7.30; p\u202f<\u202f.001), with no age-group difference. This study provides the first sex- and age-specific normative values for lower-limb functional performance in elite TeamGym gymnasts, providing sport-specific reference benchmarks for rehabilitation and return-to-sport assessment.",
+   "doi": "10.1016/j.ptsp.2026.101999",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42849318/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771890",
@@ -397,8 +482,7 @@
    "pubtypes": [
     "Journal Article",
     "Systematic Review",
-    "Meta-Analysis",
-    "Review"
+    "Meta-Analysis"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42776815/",
    "matched": [
@@ -592,8 +676,7 @@
    "pubtypes": [
     "Journal Article",
     "Systematic Review",
-    "Meta-Analysis",
-    "Review"
+    "Meta-Analysis"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42783399/",
    "matched": [
@@ -1022,34 +1105,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42708016",
-   "title": "Epidemiology and Performance After Achilles Tendon Rupture in National Basketball Association (NBA) Players: A Retrospective Case Series Rationale.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Kennedy O",
-    "Hallauer O",
-    "Gordon SH",
-    "Hussain A",
-    "et al."
-   ],
-   "abstract": "Background Achilles tendon (AT) ruptures are among the most severe injuries sustained by National Basketball Association (NBA) players, with prolonged recovery times and documented long-term impact on performance. The 2024-2025 season witnessed a record-high number of these injuries, including multiple high-profile cases, prompting renewed interest in understanding the burden and epidemiological trends of AT ruptures in professional basketball. Purpose The purpose of this study is to characterize the epidemiology of complete AT ruptures in NBA players over the past 15 seasons and explore trends in player demographics and performance after return to play. Methods A retrospective review was conducted using publicly available data on NBA players who experienced complete AT ruptures between 2010 and 2025. Inclusion was limited to players who returned to NBA competition within two seasons and had no prior same-side lower-extremity (LE) surgeries. Pre- and post-injury minutes per game (MPG) and player efficiency rating (PER) were compared using paired t-tests. Subgroup analyses were performed based on age, height, and weight. Results Among the 12 included players, the average age at the time of injury was 27.9 years, with an average of 9.25 months missed. There was a significant decline in MPG post-injury (p = 0.0009, d = 1.31), while the decline in PER trended toward significance (p = 0.0072, d = 0.95). On average, MPG and PER decreased by 20.2% and 21.9%, respectively. Younger players (\u226428 years) represented a growing share of recent injuries. Conclusion AT ruptures result in substantial decreases in performance and prolonged absences, with possible trends toward earlier injury onset. Further research is needed to elucidate the causes of this recent increase in such a profound injury.",
-   "doi": "10.7759/cureus.114162",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42708016/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42816715",
    "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
    "journal": "Ann Biomed Eng",
@@ -1068,6 +1123,32 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42842750",
+   "title": "Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.",
+   "journal": "Curr Sports Med Rep",
+   "year": "2026",
+   "authors": [
+    "Head M",
+    "Nyland J"
+   ],
+   "abstract": "Across sports that involve cutting, pivoting, and single-leg jump landings, biological female athletes sustain anterior cruciate ligament injuries at 2- to 9-fold greater rates than males. The mechanical resilience of the anterior cruciate ligament depends on extracellular matrix stabilization. Crosslinking, primarily mediated by lysyl oxidase, is essential to extracellular matrix maturation, to resisting the tensile and shear forces encountered during athletic activity, and to long-term anterior cruciate ligament health. Estrogen-mediated lysyl oxidase modulation may weaken the extracellular matrix, reducing its capacity to withstand mechanical loads. This narrative review explores how estrogen influences lysyl oxidase function, particularly in the context of collagen crosslinking and connective tissue health. Special emphasis is placed on biological female anterior cruciate ligament injury risk, a highly relevant example of clinical estrogen-associated extracellular matrix vulnerability. By integrating epidemiologic evidence with emerging molecular and mechanistic data, clinicians are provided with a contemporary biologically informed perspective on sex-specific anterior cruciate ligament injury risk. Future research and prevention strategies are discussed.",
+   "doi": "10.1249/JSR.0000000000001375",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42842750/",
+   "matched": [
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -2187,6 +2268,7 @@
    "doi": "10.1016/j.clinbiomech.2026.106982",
    "pubtypes": [
     "Journal Article",
+    "Systematic Review",
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42815174/",
@@ -2314,6 +2396,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42841515",
+   "title": "The effect of sex-specific footwear on cutting patterns in adolescent female soccer players.",
+   "journal": "Sports Biomech",
+   "year": "2026",
+   "authors": [
+    "Chen K",
+    "Wilkie E",
+    "Herrera N",
+    "Morelli M",
+    "et al."
+   ],
+   "abstract": "Sex differences have been identified in foot morphology and soccer-specific movement patterns. However, female-specific athletic footwear has only emerged recently, and research has yet to fully understand its impact on cutting patterns. This study examined the impact of female-specific soccer shoes and unisex soccer shoes on joint kinematics during cutting in adolescent soccer players. Thirty-two females completed unanticipated sidesteps at 45\u2009\u00b1\u200910 degrees, in both shoe conditions, captured using a markerless motion captures system. Principal component (PC) analysis and hierarchical linear model examined joint angle features against shoe conditions. PCs (PC1, PC2, PC3) represented either differences in joint angle amplitude or a change in angles between different cutting phases. Ankle findings related to greater dorsiflexion and inversion angles throughout cutting (PC1) and during midstance (PC2, PC3) in the female shoe than the unisex shoe. Knee findings related to lower flexion angles during the pre-contact/early cutting phase in the female shoe (PC2). Overall, the female shoe trended towards more optimal inversion, but riskier dorsiflexion and knee flexion patterns for knee injuries. However, direct indications to injury and performance require further exploration. Nonetheless, the presence of kinematic influences in sex-specific soccer footwear designs provides valuable insights for future research directions and footwear development.",
+   "doi": "10.1080/14763141.2026.2741555",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42841515/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42832072",
    "title": "The evidence landscape, clinical role, and mechanisms of action of robot-assisted injury treatment: a systematic review.",
    "journal": "J Robot Surg",
@@ -2326,8 +2436,7 @@
    "doi": "10.1007/s11701-026-04032-x",
    "pubtypes": [
     "Journal Article",
-    "Systematic Review",
-    "Review"
+    "Systematic Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42832072/",
    "matched": [
