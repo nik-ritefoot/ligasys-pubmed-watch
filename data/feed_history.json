@@ -1,5 +1,105 @@
 [
  {
+  "pmid": "42854515",
+  "title": "Comparison of unisegment and multisegment foot models in ankle biomechanics and distal foot power calculations in individuals with a partial foot amputation.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Dami A",
+   "Acien M",
+   "Isabelle PL",
+   "Moisan G"
+  ],
+  "abstract": "Multisegment foot models (MFMs) provide a more detailed assessment of foot biomechanics than conventional unisegment foot models (UFMs), yet their added value in individuals with a partial foot amputation remains unclear. The aim of this study was to compare the modified Oxford MFM to a conventional UFM during the stance phase of walking in individuals with a partial foot amputation. Fourteen adults with toe(s) or ray(s) amputation underwent an instrumented gait analysis using force plates and a three-dimensional motion capture system. Joint angles, moments and power were calculated using inverse dynamics and compared for each individual percentage of the stance phase using one-dimensional statistical parametric mapping. Greater ankle plantarflexion angles across the entire stance phase and greater ankle abduction angles during midstance were observed with the UFM compared with the MFM. Conversely, smaller ankle plantarflexion, inversion, and abduction moments, as well as smaller total support moments across most of the stance phase were observed with the UFM compared with the MFM. Smaller ankle and distal foot power absorption and generation during most of the stance phase, and greater distal foot power generation during pre-swing were observed with the UFM. These findings suggest that modeling the foot as a single rigid segment may alter the interpretation of foot and ankle biomechanics in individuals with a partial foot amputation by alternatively estimating intra-foot structures contribution to propulsion. The MFM may provide a distinct representation of energy restitution, supporting its use for clinical measurement and the assessment of interventions specifically targeting forefoot mechanics.",
+  "doi": "10.1016/j.jbiomech.2026.113616",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42854515/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-10T17:59:07Z"
+ },
+ {
+  "pmid": "42854423",
+  "title": "Impact of foot orthoses hindfoot and forefoot wedges on foot and ankle kinematics: A cadaveric study.",
+  "journal": "Foot (Edinb)",
+  "year": "2026",
+  "authors": [
+   "Chaverot R",
+   "Effatparvar MR",
+   "Acien M",
+   "Sobczak S",
+   "et al."
+  ],
+  "abstract": "Foot orthoses (FOs) are widely prescribed to manage musculoskeletal and inflammatory disorders affecting the lower limbs by modifying foot and ankle biomechanics. While the addition of medial wedges to FOs is believed to enhance control of pronation-related movements, few studies have quantified their isolated kinematic effects under controlled experimental conditions. The use of cadaveric models allows for precise measurement of bone motion without soft tissue artifacts. Therefore, this study aimed to quantify the effects of 3D-printed FOs with and without a medial hindfoot-forefoot wedge on foot and ankle kinematics in cadaveric specimens during quasi-dynamic loading. It was hypothesized that a medial hindfoot-forefoot wedge would better prevent both forefoot dorsiflexion and ankle eversion in cadaveric specimens. Nine fresh-frozen lower limbs were tested under three randomized conditions: shoe-only (control), standard FOs (SFO), and medial hindfoot-forefoot wedge FOs (MWFO). FOs were 3D printed in PA11 using the multi-jet fusion technology. Specimens were mounted on a mechanical press with simulated muscle tension applied through tendon loading. Kinematic data were collected via a six-camera motion capture system and reflective markers attached to bone-anchored rods. Ankle and forefoot/hindfoot angles and ranges of motion were calculated in the sagittal, frontal, and transverse planes. Non-parametric Friedman ANOVAs and Wilcoxon signed-rank tests were used to assess between-condition differences (\u03b1 < 0.05). Compared to the control condition, MWFOs significantly reduced peak ankle dorsiflexion (1.40\u00b0 \u00b1 3.76\u00b0 vs 3.54\u00b0 \u00b1 2.74\u00b0, p\u202f<\u202f0.001) and increased ankle inversion (9.12\u00b0 \u00b1 11.13\u00b0 vs 7.09\u00b0 \u00b1 11.73\u00b0, p\u202f=\u202f0.002). MWFOs also increased forefoot/hindfoot plantarflexion (p\u202f=\u202f0.018) and adduction (p\u202f=\u202f0.018) relative to the control condition. No significant differences in joint range of motion were observed across conditions. The addition of a hindfoot-forefoot medial wedge to 3D-printed FOs modifies ankle and midfoot kinematics under quasi-dynamic loading, primarily by reducing pronation-related movements such as dorsiflexion and eversion. These findings support the biomechanical rationale for incorporating hindfoot-forefoot medial wedges in FOs design to enhance control of foot and ankle motion.",
+  "doi": "10.1016/j.foot.2026.102308",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42854423/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   },
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-10T17:59:07Z"
+ },
+ {
+  "pmid": "42855906",
+  "title": "Novel understanding in diagnosis and management of exercise-induced bronchoconstriction.",
+  "journal": "Expert Rev Clin Immunol",
+  "year": "2026",
+  "authors": [
+   "Dickinson JW"
+  ],
+  "abstract": "Exercise-induced bronchoconstriction (EIB) is a common cause of exercise-related respiratory symptoms in athletes and is traditionally diagnosed by demonstrating airway narrowing following exercise or surrogate bronchoprovocation testing. Whilst this provides objective evidence of bronchoconstriction, it offers limited insight into the underlying pathophysiology of airway dysfunction. This review discusses emerging developments in EIB, focusing on biomarkers of airway inflammation and injury, respiratory oscillometry, breathing pattern assessment and wearable respiratory monitoring. The concept that EIB may represent the clinical manifestation of a broader process of airway injury and remodeling is also considered. Relevant literature was identified through searches of PubMed and Google Scholar with no lower date restriction to May 2026, supplemented by reference-list searching. The future challenge in EIB is no longer simply confirming bronchoconstriction but identifying athletes at risk of airway dysfunction before clinically significant disease develops. Emerging biomarkers, oscillometry and continuous respiratory monitoring may enable earlier phenotyping and more personalized management than conventional bronchoprovocation testing alone. Collectively, these approaches have the potential to shift EIB care from diagnosing established disease toward preserving airway health within a holistic model of athlete respiratory care.",
+  "doi": "10.1080/1744666X.2026.2747863",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42855906/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-10T17:59:07Z"
+ },
+ {
+  "pmid": "42854819",
+  "title": "Osteoarthritis year in review 2026: Biomechanics.",
+  "journal": "Osteoarthritis Cartilage",
+  "year": "2026",
+  "authors": [
+   "Mentiplay BF",
+   "Savage M",
+   "Ferreira AS",
+   "Demirjian TA",
+   "et al."
+  ],
+  "abstract": "Altered biomechanics are consistently identified as a modifiable risk factor for osteoarthritis onset and progression. This year-in-review aimed to (i) systematically identify and review biomechanics literature in osteoarthritis published over 12 months, and (ii) generate key themes highlighting current trends in the biomechanics literature. Systematic searches were conducted in two databases (PubMed and Web of Science) for studies published between April 2025 and April 2026. Studies were included if they involved humans or animals with or at risk of osteoarthritis at any joint and evaluated biomechanical measurements during dynamic movement tasks. 176 studies (seven in animals) were included; most were: (i) conducted in China, Japan, or the United States, (ii) human studies focused on the knee joint, (iii) investigating walking biomechanics, and (iv) cross-sectional in design. Four key themes emerged: (i) clear links between movement patterns and both symptomatic and structural osteoarthritis progression; (ii) increased use of advanced tools for real-world biomechanical assessment; (iii) advanced approaches to identifying movement phenotypes and detecting osteoarthritis; and (iv) growing interest in individualised load-modifying interventions. Over the past 12 months, evidence has strengthened links between biomechanics and symptomatic and structural osteoarthritis progression, alongside advances in real-world assessment, movement phenotyping, and personalised interventions. Large-scale and real-world biomechanical measurements are becoming increasingly feasible, and biomechanics-informed randomised controlled trials show promise for improving symptoms and slowing structural progression. Connecting scalable biomechanical assessment with clinically meaningful phenotypes and targeted interventions is a key next step toward personalised, mechanism-based osteoarthritis prevention and management.",
+  "doi": "10.1016/j.joca.2026.10.003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42854819/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-10T17:59:07Z"
+ },
+ {
   "pmid": "42852663",
   "title": "Association Between Early Postoperative Limb Symmetry Index Scores and 2-Year Patient-Reported Outcomes After Quadriceps Tendon Autograft ACL Reconstruction.",
   "journal": "Am J Sports Med",
