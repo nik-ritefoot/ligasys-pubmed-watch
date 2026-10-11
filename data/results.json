@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T17:59:07+00:00",
+ "generated": "2026-10-11T18:26:01+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,91 +65,32 @@
   }
  ],
  "counts": {
-  "total": 92,
-  "new": 4,
-  "research": 24,
+  "total": 88,
+  "new": 2,
+  "research": 20,
   "fieldnotes": 68
  },
  "records": [
   {
-   "pmid": "42854515",
-   "title": "Comparison of unisegment and multisegment foot models in ankle biomechanics and distal foot power calculations in individuals with a partial foot amputation.",
-   "journal": "J Biomech",
+   "pmid": "42857675",
+   "title": "Comparison of cardiometabolic benefits and tolerability in patients on sustained low doses of semaglutide or tirzepatide.",
+   "journal": "Biol Methods Protoc",
    "year": "2026",
    "authors": [
-    "Dami A",
-    "Acien M",
-    "Isabelle PL",
-    "Moisan G"
+    "Murugadoss K",
+    "Venkatakrishnan AJ",
+    "Soundararajan V"
    ],
-   "abstract": "Multisegment foot models (MFMs) provide a more detailed assessment of foot biomechanics than conventional unisegment foot models (UFMs), yet their added value in individuals with a partial foot amputation remains unclear. The aim of this study was to compare the modified Oxford MFM to a conventional UFM during the stance phase of walking in individuals with a partial foot amputation. Fourteen adults with toe(s) or ray(s) amputation underwent an instrumented gait analysis using force plates and a three-dimensional motion capture system. Joint angles, moments and power were calculated using inverse dynamics and compared for each individual percentage of the stance phase using one-dimensional statistical parametric mapping. Greater ankle plantarflexion angles across the entire stance phase and greater ankle abduction angles during midstance were observed with the UFM compared with the MFM. Conversely, smaller ankle plantarflexion, inversion, and abduction moments, as well as smaller total support moments across most of the stance phase were observed with the UFM compared with the MFM. Smaller ankle and distal foot power absorption and generation during most of the stance phase, and greater distal foot power generation during pre-swing were observed with the UFM. These findings suggest that modeling the foot as a single rigid segment may alter the interpretation of foot and ankle biomechanics in individuals with a partial foot amputation by alternatively estimating intra-foot structures contribution to propulsion. The MFM may provide a distinct representation of energy restitution, supporting its use for clinical measurement and the assessment of interventions specifically targeting forefoot mechanics.",
-   "doi": "10.1016/j.jbiomech.2026.113616",
+   "abstract": "Semaglutide and tirzepatide are typically evaluated through dose escalation, yet many patients in routine care do not reach a recommended maintenance dose due to tolerability, access, cost, supply, or individualized goals. Here, we used repeated 0.25 mg only semaglutide and 2.5 mg only tirzepatide prescription records as real-world proxies for sustained treatment at the lowest approved dose, a prescribing pattern that may overlap with, but does not establish, intentional microdosing. We analyzed de-identified electronic health records (EHRs) from a federated system of 29 million patients. Among 490\u00a0072 semaglutide-treated patients, 814 met the stringent sustained low-dose criterion of at least three distinct 0.25-mg prescriptions spanning at least 6\u2009months from the first to the last qualifying prescription and among 322\u00a0442 tirzepatide-treated patients, 1016 met the analogous criterion of at least three distinct 2.5-mg prescriptions spanning at least 6\u2009months. In a matched head-to-head comparison aided by AI-enabled curation of clinical notes, sustained low-dose tirzepatide showed higher 24-month adverse event rates (P\u2009<\u2009.05) than sustained low-dose semaglutide for constipation (32.6% vs. 22.4%), acute kidney injury (2.7% vs. 0.4%), muscle cramps (8.3% vs. 4%), lumbar disc disease (3.3% vs. 0.3%), dyspnea on exertion (9.6% vs. 6.8%), lentigo (4.7% vs. 0.8%), and actinic keratosis (3.3% vs. 0.6%), whereas sustained low-dose semaglutide (vs. tirzepatide) had higher rates of including otitis (5.6% vs. 2.1%), diaphoresis (5.5% vs. 3.2%), and ankle swelling (6.9% vs. 3.7%). Sustained low-dose tirzepatide was associated with greater weight loss than semaglutide (mean 12-month percent weight change -5.5% vs. -2.2%; P\u2009<\u2009.05 at all timepoints). Analyses of prescription patterns supported the findings from clinical notes. For example, renal-supportive and hyperkalemia therapies increased after low-dose tirzepatide (5.6% to 9.5% at 12\u2009months, P\u2009=\u2009.016) but not after low-dose semaglutide (8.2% to 6.6%, P\u2009=\u2009.382). Taken together, these observational associations motivate prospective studies to better characterize the outcomes and pharmacology of sustained initiation-dose semaglutide or tirzepatide, and related microdosing studies.",
+   "doi": "10.1093/biomethods/bpag048",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42854515/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42857675/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42854423",
-   "title": "Impact of foot orthoses hindfoot and forefoot wedges on foot and ankle kinematics: A cadaveric study.",
-   "journal": "Foot (Edinb)",
-   "year": "2026",
-   "authors": [
-    "Chaverot R",
-    "Effatparvar MR",
-    "Acien M",
-    "Sobczak S",
-    "et al."
-   ],
-   "abstract": "Foot orthoses (FOs) are widely prescribed to manage musculoskeletal and inflammatory disorders affecting the lower limbs by modifying foot and ankle biomechanics. While the addition of medial wedges to FOs is believed to enhance control of pronation-related movements, few studies have quantified their isolated kinematic effects under controlled experimental conditions. The use of cadaveric models allows for precise measurement of bone motion without soft tissue artifacts. Therefore, this study aimed to quantify the effects of 3D-printed FOs with and without a medial hindfoot-forefoot wedge on foot and ankle kinematics in cadaveric specimens during quasi-dynamic loading. It was hypothesized that a medial hindfoot-forefoot wedge would better prevent both forefoot dorsiflexion and ankle eversion in cadaveric specimens. Nine fresh-frozen lower limbs were tested under three randomized conditions: shoe-only (control), standard FOs (SFO), and medial hindfoot-forefoot wedge FOs (MWFO). FOs were 3D printed in PA11 using the multi-jet fusion technology. Specimens were mounted on a mechanical press with simulated muscle tension applied through tendon loading. Kinematic data were collected via a six-camera motion capture system and reflective markers attached to bone-anchored rods. Ankle and forefoot/hindfoot angles and ranges of motion were calculated in the sagittal, frontal, and transverse planes. Non-parametric Friedman ANOVAs and Wilcoxon signed-rank tests were used to assess between-condition differences (\u03b1 < 0.05). Compared to the control condition, MWFOs significantly reduced peak ankle dorsiflexion (1.40\u00b0 \u00b1 3.76\u00b0 vs 3.54\u00b0 \u00b1 2.74\u00b0, p\u202f<\u202f0.001) and increased ankle inversion (9.12\u00b0 \u00b1 11.13\u00b0 vs 7.09\u00b0 \u00b1 11.73\u00b0, p\u202f=\u202f0.002). MWFOs also increased forefoot/hindfoot plantarflexion (p\u202f=\u202f0.018) and adduction (p\u202f=\u202f0.018) relative to the control condition. No significant differences in joint range of motion were observed across conditions. The addition of a hindfoot-forefoot medial wedge to 3D-printed FOs modifies ankle and midfoot kinematics under quasi-dynamic loading, primarily by reducing pronation-related movements such as dorsiflexion and eversion. These findings support the biomechanical rationale for incorporating hindfoot-forefoot medial wedges in FOs design to enhance control of foot and ankle motion.",
-   "doi": "10.1016/j.foot.2026.102308",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42854423/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    },
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42855906",
-   "title": "Novel understanding in diagnosis and management of exercise-induced bronchoconstriction.",
-   "journal": "Expert Rev Clin Immunol",
-   "year": "2026",
-   "authors": [
-    "Dickinson JW"
-   ],
-   "abstract": "Exercise-induced bronchoconstriction (EIB) is a common cause of exercise-related respiratory symptoms in athletes and is traditionally diagnosed by demonstrating airway narrowing following exercise or surrogate bronchoprovocation testing. Whilst this provides objective evidence of bronchoconstriction, it offers limited insight into the underlying pathophysiology of airway dysfunction. This review discusses emerging developments in EIB, focusing on biomarkers of airway inflammation and injury, respiratory oscillometry, breathing pattern assessment and wearable respiratory monitoring. The concept that EIB may represent the clinical manifestation of a broader process of airway injury and remodeling is also considered. Relevant literature was identified through searches of PubMed and Google Scholar with no lower date restriction to May 2026, supplemented by reference-list searching. The future challenge in EIB is no longer simply confirming bronchoconstriction but identifying athletes at risk of airway dysfunction before clinically significant disease develops. Emerging biomarkers, oscillometry and continuous respiratory monitoring may enable earlier phenotyping and more personalized management than conventional bronchoprovocation testing alone. Collectively, these approaches have the potential to shift EIB care from diagnosing established disease toward preserving airway health within a holistic model of athlete respiratory care.",
-   "doi": "10.1080/1744666X.2026.2747863",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42855906/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -157,27 +98,32 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42854819",
-   "title": "Osteoarthritis year in review 2026: Biomechanics.",
-   "journal": "Osteoarthritis Cartilage",
+   "pmid": "42857363",
+   "title": "Wearable Technologies and Artificial Intelligence in Sports Medicine: A Systematic Narrative Review of Injury Prevention and Rehabilitation.",
+   "journal": "Health Sci Rep",
    "year": "2026",
    "authors": [
-    "Mentiplay BF",
-    "Savage M",
-    "Ferreira AS",
-    "Demirjian TA",
+    "Silva M",
+    "Al-Jumaili S",
+    "Lopes M",
+    "Albuquerque C",
     "et al."
    ],
-   "abstract": "Altered biomechanics are consistently identified as a modifiable risk factor for osteoarthritis onset and progression. This year-in-review aimed to (i) systematically identify and review biomechanics literature in osteoarthritis published over 12 months, and (ii) generate key themes highlighting current trends in the biomechanics literature. Systematic searches were conducted in two databases (PubMed and Web of Science) for studies published between April 2025 and April 2026. Studies were included if they involved humans or animals with or at risk of osteoarthritis at any joint and evaluated biomechanical measurements during dynamic movement tasks. 176 studies (seven in animals) were included; most were: (i) conducted in China, Japan, or the United States, (ii) human studies focused on the knee joint, (iii) investigating walking biomechanics, and (iv) cross-sectional in design. Four key themes emerged: (i) clear links between movement patterns and both symptomatic and structural osteoarthritis progression; (ii) increased use of advanced tools for real-world biomechanical assessment; (iii) advanced approaches to identifying movement phenotypes and detecting osteoarthritis; and (iv) growing interest in individualised load-modifying interventions. Over the past 12 months, evidence has strengthened links between biomechanics and symptomatic and structural osteoarthritis progression, alongside advances in real-world assessment, movement phenotyping, and personalised interventions. Large-scale and real-world biomechanical measurements are becoming increasingly feasible, and biomechanics-informed randomised controlled trials show promise for improving symptoms and slowing structural progression. Connecting scalable biomechanical assessment with clinically meaningful phenotypes and targeted interventions is a key next step toward personalised, mechanism-based osteoarthritis prevention and management.",
-   "doi": "10.1016/j.joca.2026.10.003",
+   "abstract": "Wearable technologies and artificial intelligence (AI) are shifting sports medicine from episodic, subjective assessment toward continuous, data-driven injury surveillance. This review aimed to map the main wearable sensor modalities used in injury prevention and rehabilitation, evaluate AI architectures applied to biomechanical and physiological data, summarize clinically relevant applications by anatomical region, and identify methodological, ethical, and implementation challenges. A systematic narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar for studies published from 2016 to 2026, supplemented by manual reference screening. Search terms combined wearable sensors, AI and machine learning, and sports medicine outcomes. After title and abstract screening of 614 records and full-text assessment of 87 articles, 28 studies met the inclusion criteria. Inertial measurement units, GPS/GNSS, surface electromyography, and photoplethysmography were the most frequently reported sensor modalities. Deep learning, ensemble methods, and multimodal fusion were commonly used to process biomechanical and physiological signals. One hybrid IMU-sEMG study involving 50 athletes reported 92.3% accuracy, 90.5% recall, and an area under the receiver operating characteristic curve of 0.93 for classifying biomechanical injury-risk states. An ankle-monitoring study using data from 87 athletes across 12 sports reported 87.4% overall detection accuracy, a 12.1% false-alarm rate, and 17.2\u2009ms latency. However, substantial heterogeneity in study design, populations, outcomes, and validation methods prevented direct comparison or pooled quantitative interpretation. Wearable-AI systems show promising potential for injury-risk monitoring, rehabilitation, and return-to-play support. Wider clinical adoption will require more diverse populations, longitudinal and field-based validation, improved model interpretability, standardized protocols, and robust ethical, legal, and governance frameworks.",
+   "doi": "10.1002/hsr2.73248",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42854819/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42857363/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -526,33 +472,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42717580",
-   "title": "Baseline peroneus longus reaction time predicts the response to proprioceptive training in chronic ankle instability: A single-centre retrospective cohort study.",
-   "journal": "J Orthop Surg (Hong Kong)",
-   "year": "2026",
-   "authors": [
-    "A F",
-    "Wu S",
-    "Yang J",
-    "Zhou K"
-   ],
-   "abstract": "BackgroundChronic ankle instability (CAI) is a common sequel of lateral ankle sprain, and proprioceptive training is its first-line treatment, yet the gain differs widely between patients. A prolonged peroneus longus reaction time (PRT) is a hallmark neuromuscular deficit of CAI, but whether it forecasts the training response is unknown.MethodsWe retrospectively analysed 183 adults with CAI who completed a supervised 12-week proprioceptive programme. Baseline PRT to sudden inversion was measured by surface electromyography. The primary outcome was the change in the Cumberland Ankle Instability Tool (CAIT); the Star Excursion Balance Test (SEBT) was secondary. Associations were tested with Pearson and partial correlation, analysis of covariance, multivariable linear regression and receiver-operating-characteristic analysis.ResultsCAIT improved from 18.4 to 22.2 points (mean change +3.8, p < 0.001). Baseline PRT was inversely related to the CAIT gain (Pearson r = -0.51, 95% CI -0.61 to -0.39; partial r adjusted for baseline CAIT = -0.57). In the adjusted model PRT remained the strongest predictor (partially standardized \u03b2 = -2.09 CAIT points per SD, p < 0.001). PRT discriminated non-responders with an area under the curve of 0.78 (95% CI 0.71-0.84).ConclusionsA shorter baseline peroneal reaction time was associated with a larger improvement after proprioceptive training. PRT is an inexpensive candidate marker that may help stratify CAI patients, although the retrospective single-centre design warrants prospective confirmation.",
-   "doi": "10.1177/10225536261480760",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42717580/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42787447",
    "title": "Baseline PTSD and depressive symptoms predict multidimensional recovery after combat-related transtibial amputation: a prospective cohort study.",
    "journal": "Front Rehabil Sci",
@@ -656,6 +575,33 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42854515",
+   "title": "Comparison of unisegment and multisegment foot models in ankle biomechanics and distal foot power calculations in individuals with a partial foot amputation.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Dami A",
+    "Acien M",
+    "Isabelle PL",
+    "Moisan G"
+   ],
+   "abstract": "Multisegment foot models (MFMs) provide a more detailed assessment of foot biomechanics than conventional unisegment foot models (UFMs), yet their added value in individuals with a partial foot amputation remains unclear. The aim of this study was to compare the modified Oxford MFM to a conventional UFM during the stance phase of walking in individuals with a partial foot amputation. Fourteen adults with toe(s) or ray(s) amputation underwent an instrumented gait analysis using force plates and a three-dimensional motion capture system. Joint angles, moments and power were calculated using inverse dynamics and compared for each individual percentage of the stance phase using one-dimensional statistical parametric mapping. Greater ankle plantarflexion angles across the entire stance phase and greater ankle abduction angles during midstance were observed with the UFM compared with the MFM. Conversely, smaller ankle plantarflexion, inversion, and abduction moments, as well as smaller total support moments across most of the stance phase were observed with the UFM compared with the MFM. Smaller ankle and distal foot power absorption and generation during most of the stance phase, and greater distal foot power generation during pre-swing were observed with the UFM. These findings suggest that modeling the foot as a single rigid segment may alter the interpretation of foot and ankle biomechanics in individuals with a partial foot amputation by alternatively estimating intra-foot structures contribution to propulsion. The MFM may provide a distinct representation of energy restitution, supporting its use for clinical measurement and the assessment of interventions specifically targeting forefoot mechanics.",
+   "doi": "10.1016/j.jbiomech.2026.113616",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42854515/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42730692",
@@ -1329,34 +1275,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42719479",
-   "title": "Generalized Joint Laxity Is an Independent Predictor of Postoperative Resprain Following Anatomic Reconstruction Using Gracilis Tendon Autograft for Patients With Chronic Lateral Ankle Instability.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Liu H",
-    "Li J",
-    "Su T",
-    "Jiang Y",
-    "et al."
-   ],
-   "abstract": "Generalized joint laxity (GJL) has been reported as a risk factor for poor outcomes following multiligament surgery. However, no previous studies have investigated whether GJL is a risk factor of postoperative resprain following anatomic reconstruction using gracilis tendon autograft. To investigate whether GJL is a risk factor of postoperative resprain in chronic lateral ankle instability (CLAI) patients following anatomic reconstruction using gracilis tendon autograft. Cohort study; Level of evidence, 3. A total of 290 consecutive CLAI patients who underwent anatomic reconstruction using gracilis tendon autograft from January 2018 to September 2023 with a minimum follow-up of 24 months were retrospectively evaluated and were divided into 2 groups according to the presence of GJL (based on age and Beighton score). Clinical outcomes were measured through the presence of postoperative noncontact resprain and recurrent instability, return-to-sport status, and patient-reported outcomes including the visual analog scale (VAS) for pain, Tegner Activity Level scale, and Karlsson-Peterson ankle score (Karlsson score). Risk factors associated with postoperative noncontact resprain were determined using univariate and multivariate logistic regression analysis. Survival outcomes were compared using Kaplan-Meier analysis. A total of 72 patients were included in the GJL group (mean age at surgery, 27.5 \u00b1 9.0 years; male, n = 27; female, n = 45), and 218 patients were included in the non-GJL group (mean age at surgery, 32.8 \u00b1 10.2 years; male, n = 129; female, n = 89). The overall noncontact resprain rate was 6.6%, and the overall recurrent instability rate was 1.7%. There was no significant difference in the postoperative VAS, Tegner, return to recreational sports rate, return to preinjury sports rate, and other surgical complications between the 2 groups. The patients with GJL demonstrated a significantly higher postoperative noncontact resprain rate (15.3% vs 3.7%; P = .001), a significantly higher postoperative recurrent instability rate (6.9% vs 0.0%; P = .001), and a significantly lower postoperative Karlsson score (90.0 \u00b1 6.2 vs 95.6 \u00b1 4.4; P < .001) compared with those without GJL. Multivariate logistic regression analysis revealed that GJL was an independent predictor of postoperative noncontact resprain following anatomic reconstruction using gracilis tendon autograft (P = .004; odds ratio = 4.293; 95% CI, 1.612-11.431). The cumulative success rates of the patients with GJL were significantly lower than those of the patients without GJL (P = .001). GJL is an independent predictor of postoperative noncontact resprain of CLAI patients following anatomic reconstruction using gracilis tendon autograft.",
-   "doi": "10.1177/23259671261477818",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42719479/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42788174",
    "title": "Global Research Trends in Metatarsal Stress Fractures in Athletes.",
    "journal": "Orthop Rev (Pavia)",
@@ -1481,6 +1399,39 @@
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42759112/",
    "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42854423",
+   "title": "Impact of foot orthoses hindfoot and forefoot wedges on foot and ankle kinematics: A cadaveric study.",
+   "journal": "Foot (Edinb)",
+   "year": "2026",
+   "authors": [
+    "Chaverot R",
+    "Effatparvar MR",
+    "Acien M",
+    "Sobczak S",
+    "et al."
+   ],
+   "abstract": "Foot orthoses (FOs) are widely prescribed to manage musculoskeletal and inflammatory disorders affecting the lower limbs by modifying foot and ankle biomechanics. While the addition of medial wedges to FOs is believed to enhance control of pronation-related movements, few studies have quantified their isolated kinematic effects under controlled experimental conditions. The use of cadaveric models allows for precise measurement of bone motion without soft tissue artifacts. Therefore, this study aimed to quantify the effects of 3D-printed FOs with and without a medial hindfoot-forefoot wedge on foot and ankle kinematics in cadaveric specimens during quasi-dynamic loading. It was hypothesized that a medial hindfoot-forefoot wedge would better prevent both forefoot dorsiflexion and ankle eversion in cadaveric specimens. Nine fresh-frozen lower limbs were tested under three randomized conditions: shoe-only (control), standard FOs (SFO), and medial hindfoot-forefoot wedge FOs (MWFO). FOs were 3D printed in PA11 using the multi-jet fusion technology. Specimens were mounted on a mechanical press with simulated muscle tension applied through tendon loading. Kinematic data were collected via a six-camera motion capture system and reflective markers attached to bone-anchored rods. Ankle and forefoot/hindfoot angles and ranges of motion were calculated in the sagittal, frontal, and transverse planes. Non-parametric Friedman ANOVAs and Wilcoxon signed-rank tests were used to assess between-condition differences (\u03b1 < 0.05). Compared to the control condition, MWFOs significantly reduced peak ankle dorsiflexion (1.40\u00b0 \u00b1 3.76\u00b0 vs 3.54\u00b0 \u00b1 2.74\u00b0, p\u202f<\u202f0.001) and increased ankle inversion (9.12\u00b0 \u00b1 11.13\u00b0 vs 7.09\u00b0 \u00b1 11.73\u00b0, p\u202f=\u202f0.002). MWFOs also increased forefoot/hindfoot plantarflexion (p\u202f=\u202f0.018) and adduction (p\u202f=\u202f0.018) relative to the control condition. No significant differences in joint range of motion were observed across conditions. The addition of a hindfoot-forefoot medial wedge to 3D-printed FOs modifies ankle and midfoot kinematics under quasi-dynamic loading, primarily by reducing pronation-related movements such as dorsiflexion and eversion. These findings support the biomechanical rationale for incorporating hindfoot-forefoot medial wedges in FOs design to enhance control of foot and ankle motion.",
+   "doi": "10.1016/j.foot.2026.102308",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42854423/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    },
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
@@ -1807,6 +1758,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42855906",
+   "title": "Novel understanding in diagnosis and management of exercise-induced bronchoconstriction.",
+   "journal": "Expert Rev Clin Immunol",
+   "year": "2026",
+   "authors": [
+    "Dickinson JW"
+   ],
+   "abstract": "Exercise-induced bronchoconstriction (EIB) is a common cause of exercise-related respiratory symptoms in athletes and is traditionally diagnosed by demonstrating airway narrowing following exercise or surrogate bronchoprovocation testing. Whilst this provides objective evidence of bronchoconstriction, it offers limited insight into the underlying pathophysiology of airway dysfunction. This review discusses emerging developments in EIB, focusing on biomarkers of airway inflammation and injury, respiratory oscillometry, breathing pattern assessment and wearable respiratory monitoring. The concept that EIB may represent the clinical manifestation of a broader process of airway injury and remodeling is also considered. Relevant literature was identified through searches of PubMed and Google Scholar with no lower date restriction to May 2026, supplemented by reference-list searching. The future challenge in EIB is no longer simply confirming bronchoconstriction but identifying athletes at risk of airway dysfunction before clinically significant disease develops. Emerging biomarkers, oscillometry and continuous respiratory monitoring may enable earlier phenotyping and more personalized management than conventional bronchoprovocation testing alone. Collectively, these approaches have the potential to shift EIB care from diagnosing established disease toward preserving airway health within a holistic model of athlete respiratory care.",
+   "doi": "10.1080/1744666X.2026.2747863",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42855906/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42839760",
    "title": "Open Fractures in Polytrauma and Non-Polytrauma Patients: Outcomes and Predictive Factors in a Level III Trauma Center.",
    "journal": "Acta Chir Orthop Traumatol Cech",
@@ -1890,6 +1866,34 @@
     {
      "id": "contraception-msk-injury",
      "label": "Hormonal contraception & MSK injury (sports)",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42854819",
+   "title": "Osteoarthritis year in review 2026: Biomechanics.",
+   "journal": "Osteoarthritis Cartilage",
+   "year": "2026",
+   "authors": [
+    "Mentiplay BF",
+    "Savage M",
+    "Ferreira AS",
+    "Demirjian TA",
+    "et al."
+   ],
+   "abstract": "Altered biomechanics are consistently identified as a modifiable risk factor for osteoarthritis onset and progression. This year-in-review aimed to (i) systematically identify and review biomechanics literature in osteoarthritis published over 12 months, and (ii) generate key themes highlighting current trends in the biomechanics literature. Systematic searches were conducted in two databases (PubMed and Web of Science) for studies published between April 2025 and April 2026. Studies were included if they involved humans or animals with or at risk of osteoarthritis at any joint and evaluated biomechanical measurements during dynamic movement tasks. 176 studies (seven in animals) were included; most were: (i) conducted in China, Japan, or the United States, (ii) human studies focused on the knee joint, (iii) investigating walking biomechanics, and (iv) cross-sectional in design. Four key themes emerged: (i) clear links between movement patterns and both symptomatic and structural osteoarthritis progression; (ii) increased use of advanced tools for real-world biomechanical assessment; (iii) advanced approaches to identifying movement phenotypes and detecting osteoarthritis; and (iv) growing interest in individualised load-modifying interventions. Over the past 12 months, evidence has strengthened links between biomechanics and symptomatic and structural osteoarthritis progression, alongside advances in real-world assessment, movement phenotyping, and personalised interventions. Large-scale and real-world biomechanical measurements are becoming increasingly feasible, and biomechanics-informed randomised controlled trials show promise for improving symptoms and slowing structural progression. Connecting scalable biomechanical assessment with clinically meaningful phenotypes and targeted interventions is a key next step toward personalised, mechanism-based osteoarthritis prevention and management.",
+   "doi": "10.1016/j.joca.2026.10.003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42854819/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -2028,34 +2032,6 @@
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42722516",
-   "title": "Posterior-caudal talar displacement and muscle stiffness during ankle dorsiflexion in chronic ankle instability: A cross-sectional ultrasonographic study.",
-   "journal": "J Orthop Sci",
-   "year": "2026",
-   "authors": [
-    "Onoue S",
-    "Maeda N",
-    "Tashiro T",
-    "Arima S",
-    "et al."
-   ],
-   "abstract": "Restricted ankle dorsiflexion range of motion is a common impairment in individuals with chronic ankle instability and may be related to altered talar kinematics. However, the relationship between talar displacement during dorsiflexion and gastrocnemius muscle stiffness remains unclear. This study compared posterior and caudal talar displacement during ankle dorsiflexion, measured using ultrasonography, and medial and lateral gastrocnemius muscle stiffness between individuals with chronic ankle instability and controls. This cross-sectional study included 40 male participants (chronic ankle instability group: n = 20 feet; control group: n = 20 feet). Ankle dorsiflexion range of motion was assessed under non-weight-bearing and weight-bearing conditions. Posterior and caudal talar displacement were measured at 0\u00b0, 10\u00b0, and 20\u00b0 of ankle dorsiflexion using B-mode ultrasonography. Muscle stiffness of the medial and lateral gastrocnemius was evaluated using a MyotonPRO device. Group (chronic ankle instability vs. control) and dorsiflexion angle served as the between-subject and within-subject factors, respectively, in a two-way repeated-measures analysis of variance. The chronic ankle instability group showed significantly smaller posterior talar displacement during ankle dorsiflexion than the control group, with a significant interaction between group and dorsiflexion angle. Between-group differences in posterior talar displacement increased with greater dorsiflexion. For caudal talar displacement, no significant interaction was observed; however, significant main effects of group and dorsiflexion angle indicated that the chronic ankle instability group exhibited smaller caudal talar displacement than the control group, and caudal talar displacement increased with increasing dorsiflexion angle in both groups. For muscle stiffness of both the medial and lateral gastrocnemius, no significant interaction or main effect of group was observed, whereas a significant main effect of ankle dorsiflexion angle indicated that muscle stiffness increased with increasing dorsiflexion angle. Individuals with chronic ankle instability exhibited reduced posterior and caudal talar displacement during ankle dorsiflexion compared with controls, whereas no between-group differences were observed in medial and lateral gastrocnemius muscle stiffness. These findings may provide fundamental information for the assessment of dorsiflexion limitation in individuals with chronic ankle instability.",
-   "doi": "10.1016/j.jos.2026.08.015",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42722516/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -2394,36 +2370,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42717845",
-   "title": "The Effect of Different Prophylactic Ankle Taping on Knee Biomechanics During Landing Tasks in Healthy Individuals: A Cross-Sectional Observational Design.",
-   "journal": "Physiother Res Int",
-   "year": "2026",
-   "authors": [
-    "Ko\u00e7 M",
-    "Y\u0131ld\u0131r\u0131m M\u015e",
-    "Canan Pakelo\u011flu A",
-    "Salehpour Marandi S",
-    "et al."
-   ],
-   "abstract": "The ability to perform jumping and landing maneuvers effectively is important for athletic performance and injury prevention. The aim of this study was to compare the immediate effects of dynamic taping (DT) and Kinesio taping (KT) applied to the ankle on knee biomechanics during a single-leg countermovement jump (SL-CMJ) in healthy individuals. Eighteen healthy individuals (8 males, 10 females) performed the SL-CMJ under three randomized conditions: no taping, DT, and KT. Each condition was tested on separate days. Two-dimensional video-based motion analysis was used to assess peak knee valgus angle (o), jump height (cm), flight time (s), and ground contact time (s) during the SL-CMJ. Both DT and KT significantly increased peak knee valgus angle and significantly reduced jump height, flight time, and ground contact time compared with the no-taping condition (all p\u00a0<\u00a00.05). However, no significant differences were observed between DT and KT for any of the measured outcomes (all p\u00a0>\u00a00.05). Both DT and KT altered landing biomechanics during the SL-CMJ in healthy individuals by increasing the peak knee valgus angle and reducing jump performance variables. However, no differences were observed between DT and KT, indicating that their different mechanical properties did not result in different effects on the measured outcomes. Because only healthy individuals were evaluated and only the immediate effects of taping were investigated, further studies are needed to determine the clinical relevance of these biomechanical changes.",
-   "doi": "10.1002/pri.70335",
-   "pubtypes": [
-    "Journal Article",
-    "Observational Study",
-    "Comparative Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42717845/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42841515",
    "title": "The effect of sex-specific footwear on cutting patterns in adolescent female soccer players.",
    "journal": "Sports Biomech",
@@ -2495,34 +2441,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42813340/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42718668",
-   "title": "The interventional effects of PNF training on functional ankle instability in habitually active adults.",
-   "journal": "Front Public Health",
-   "year": "2026",
-   "authors": [
-    "Liao W",
-    "Xu S",
-    "Wang R",
-    "Zhang J"
-   ],
-   "abstract": "Functional ankle instability (FAI) is common among habitually active adults and may lead to recurrent sprains, reduced athletic performance, and long-term joint dysfunction. This randomized controlled trial aimed to compare the clinical efficacy of proprioceptive neuromuscular facilitation (PNF) training with strength-plus-balance training in habitually active adults with FAI. A total of 68 habitually active adults with FAI were randomly assigned to either a PNF training group or a strength-plus-balance training group, both undergoing an 8-week rehabilitation program. Outcome measures were assessed before and after the intervention and included the Cumberland Ankle Instability Tool (CAIT), lower limb stability tests, Star Excursion Balance Test (SEBT), and ankle muscle strength assessments. After 8 weeks, a significant group \u00d7 time interaction was observed for CAIT scores (p < 0.001), with improvements from 13.00 \u00b1 2.48 to 24.07 \u00b1 3.53 in the PNF training group and from 13.47 \u00b1 2.45 to 20.13 \u00b1 2.72 in the strength-plus-balance training group. PNF training also produced greater gains in overall balance ability, while strength-plus-balance training was more effective for enhancing ankle inversion strength (p = 0.039). In conclusion, both rehabilitation programs improved ankle function in habitually active adults with FAI; however, PNF training demonstrated superior improvements in overall balance, whereas strength-plus-balance training was more effective in enhancing ankle inversion strength. These findings may assist clinicians in selecting rehabilitation strategies according to specific therapeutic goals. ClinicalTrials.gov, registration number: NCT06308809.",
-   "doi": "10.3389/fpubh.2026.1923487",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42718668/",
    "matched": [
     {
      "id": "ankle-instability-mechanism",
@@ -2607,33 +2525,6 @@
     "Randomized Controlled Trial"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42801787/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42721171",
-   "title": "Versatile Exoskeleton Control Supports Elderly Joint Energetics During Hip-Intensive Tasks.",
-   "journal": "IEEE Trans Neural Syst Rehabil Eng",
-   "year": "2026",
-   "authors": [
-    "Zhang J",
-    "Divekar NV",
-    "Krishnan C",
-    "Gregg RD"
-   ],
-   "abstract": "Age-related mobility decline is frequently accompanied by a redistribution of joint kinetics, where older adults compensate for reduced ankle function by increasing demand on the hip. Paradoxically, this compensatory shift typically coincides with age-related reductions in maximal hip power. Although robotic exoskeletons can provide immediate energetic benefits, conventional control strategies have limited previous studies in this population to specific tasks such as steady-state walking, which do not fully reflect mobility demands in the home and community. Here, we implement a task-agnostic hip exoskeleton controller that is inherently sensitive to joint power and validate its efficacy in eight older adults. Across a battery of hip-intensive activities that included level walking, ramp ascent, stair climbing, and sit-to-stand transitions, the exoskeleton matched biological power profiles with high accuracy (mean cosine similarity 0.89). Assistance significantly reduced sagittal plane biological positive work by 24.7% at the hip and by 9.3% for the lower limb, while simultaneously augmenting peak total (biological + exoskeleton) hip power and reducing peak biological hip power and torque. These results suggest that hip exoskeletons can potentially enhance endurance through biological work reduction, and increase functional reserve through total power augmentation, serving as a promising biomechanical intervention to support elderly mobility.",
-   "doi": "10.1109/TNSRE.2026.3732581",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42721171/",
    "matched": [
     {
      "id": "actuation-assistive",

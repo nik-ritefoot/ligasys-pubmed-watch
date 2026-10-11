@@ -1,5 +1,58 @@
 [
  {
+  "pmid": "42857675",
+  "title": "Comparison of cardiometabolic benefits and tolerability in patients on sustained low doses of semaglutide or tirzepatide.",
+  "journal": "Biol Methods Protoc",
+  "year": "2026",
+  "authors": [
+   "Murugadoss K",
+   "Venkatakrishnan AJ",
+   "Soundararajan V"
+  ],
+  "abstract": "Semaglutide and tirzepatide are typically evaluated through dose escalation, yet many patients in routine care do not reach a recommended maintenance dose due to tolerability, access, cost, supply, or individualized goals. Here, we used repeated 0.25 mg only semaglutide and 2.5 mg only tirzepatide prescription records as real-world proxies for sustained treatment at the lowest approved dose, a prescribing pattern that may overlap with, but does not establish, intentional microdosing. We analyzed de-identified electronic health records (EHRs) from a federated system of 29 million patients. Among 490\u00a0072 semaglutide-treated patients, 814 met the stringent sustained low-dose criterion of at least three distinct 0.25-mg prescriptions spanning at least 6\u2009months from the first to the last qualifying prescription and among 322\u00a0442 tirzepatide-treated patients, 1016 met the analogous criterion of at least three distinct 2.5-mg prescriptions spanning at least 6\u2009months. In a matched head-to-head comparison aided by AI-enabled curation of clinical notes, sustained low-dose tirzepatide showed higher 24-month adverse event rates (P\u2009<\u2009.05) than sustained low-dose semaglutide for constipation (32.6% vs. 22.4%), acute kidney injury (2.7% vs. 0.4%), muscle cramps (8.3% vs. 4%), lumbar disc disease (3.3% vs. 0.3%), dyspnea on exertion (9.6% vs. 6.8%), lentigo (4.7% vs. 0.8%), and actinic keratosis (3.3% vs. 0.6%), whereas sustained low-dose semaglutide (vs. tirzepatide) had higher rates of including otitis (5.6% vs. 2.1%), diaphoresis (5.5% vs. 3.2%), and ankle swelling (6.9% vs. 3.7%). Sustained low-dose tirzepatide was associated with greater weight loss than semaglutide (mean 12-month percent weight change -5.5% vs. -2.2%; P\u2009<\u2009.05 at all timepoints). Analyses of prescription patterns supported the findings from clinical notes. For example, renal-supportive and hyperkalemia therapies increased after low-dose tirzepatide (5.6% to 9.5% at 12\u2009months, P\u2009=\u2009.016) but not after low-dose semaglutide (8.2% to 6.6%, P\u2009=\u2009.382). Taken together, these observational associations motivate prospective studies to better characterize the outcomes and pharmacology of sustained initiation-dose semaglutide or tirzepatide, and related microdosing studies.",
+  "doi": "10.1093/biomethods/bpag048",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42857675/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-11T18:26:01Z"
+ },
+ {
+  "pmid": "42857363",
+  "title": "Wearable Technologies and Artificial Intelligence in Sports Medicine: A Systematic Narrative Review of Injury Prevention and Rehabilitation.",
+  "journal": "Health Sci Rep",
+  "year": "2026",
+  "authors": [
+   "Silva M",
+   "Al-Jumaili S",
+   "Lopes M",
+   "Albuquerque C",
+   "et al."
+  ],
+  "abstract": "Wearable technologies and artificial intelligence (AI) are shifting sports medicine from episodic, subjective assessment toward continuous, data-driven injury surveillance. This review aimed to map the main wearable sensor modalities used in injury prevention and rehabilitation, evaluate AI architectures applied to biomechanical and physiological data, summarize clinically relevant applications by anatomical region, and identify methodological, ethical, and implementation challenges. A systematic narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar for studies published from 2016 to 2026, supplemented by manual reference screening. Search terms combined wearable sensors, AI and machine learning, and sports medicine outcomes. After title and abstract screening of 614 records and full-text assessment of 87 articles, 28 studies met the inclusion criteria. Inertial measurement units, GPS/GNSS, surface electromyography, and photoplethysmography were the most frequently reported sensor modalities. Deep learning, ensemble methods, and multimodal fusion were commonly used to process biomechanical and physiological signals. One hybrid IMU-sEMG study involving 50 athletes reported 92.3% accuracy, 90.5% recall, and an area under the receiver operating characteristic curve of 0.93 for classifying biomechanical injury-risk states. An ankle-monitoring study using data from 87 athletes across 12 sports reported 87.4% overall detection accuracy, a 12.1% false-alarm rate, and 17.2\u2009ms latency. However, substantial heterogeneity in study design, populations, outcomes, and validation methods prevented direct comparison or pooled quantitative interpretation. Wearable-AI systems show promising potential for injury-risk monitoring, rehabilitation, and return-to-play support. Wider clinical adoption will require more diverse populations, longitudinal and field-based validation, improved model interpretability, standardized protocols, and robust ethical, legal, and governance frameworks.",
+  "doi": "10.1002/hsr2.73248",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42857363/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-11T18:26:01Z"
+ },
+ {
   "pmid": "42854515",
   "title": "Comparison of unisegment and multisegment foot models in ankle biomechanics and distal foot power calculations in individuals with a partial foot amputation.",
   "journal": "J Biomech",
