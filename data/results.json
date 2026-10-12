@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T18:26:01+00:00",
+ "generated": "2026-10-12T21:51:03+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,65 +65,34 @@
   }
  ],
  "counts": {
-  "total": 88,
-  "new": 2,
+  "total": 87,
+  "new": 1,
   "research": 20,
-  "fieldnotes": 68
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42857675",
-   "title": "Comparison of cardiometabolic benefits and tolerability in patients on sustained low doses of semaglutide or tirzepatide.",
-   "journal": "Biol Methods Protoc",
+   "pmid": "42863092",
+   "title": "Combined Effects of Sports Bra Support and Running Shoe Cushioning Influence Breast and Running Biomechanics in Female Runners.",
+   "journal": "Med Sci Sports Exerc",
    "year": "2026",
    "authors": [
-    "Murugadoss K",
-    "Venkatakrishnan AJ",
-    "Soundararajan V"
-   ],
-   "abstract": "Semaglutide and tirzepatide are typically evaluated through dose escalation, yet many patients in routine care do not reach a recommended maintenance dose due to tolerability, access, cost, supply, or individualized goals. Here, we used repeated 0.25 mg only semaglutide and 2.5 mg only tirzepatide prescription records as real-world proxies for sustained treatment at the lowest approved dose, a prescribing pattern that may overlap with, but does not establish, intentional microdosing. We analyzed de-identified electronic health records (EHRs) from a federated system of 29 million patients. Among 490\u00a0072 semaglutide-treated patients, 814 met the stringent sustained low-dose criterion of at least three distinct 0.25-mg prescriptions spanning at least 6\u2009months from the first to the last qualifying prescription and among 322\u00a0442 tirzepatide-treated patients, 1016 met the analogous criterion of at least three distinct 2.5-mg prescriptions spanning at least 6\u2009months. In a matched head-to-head comparison aided by AI-enabled curation of clinical notes, sustained low-dose tirzepatide showed higher 24-month adverse event rates (P\u2009<\u2009.05) than sustained low-dose semaglutide for constipation (32.6% vs. 22.4%), acute kidney injury (2.7% vs. 0.4%), muscle cramps (8.3% vs. 4%), lumbar disc disease (3.3% vs. 0.3%), dyspnea on exertion (9.6% vs. 6.8%), lentigo (4.7% vs. 0.8%), and actinic keratosis (3.3% vs. 0.6%), whereas sustained low-dose semaglutide (vs. tirzepatide) had higher rates of including otitis (5.6% vs. 2.1%), diaphoresis (5.5% vs. 3.2%), and ankle swelling (6.9% vs. 3.7%). Sustained low-dose tirzepatide was associated with greater weight loss than semaglutide (mean 12-month percent weight change -5.5% vs. -2.2%; P\u2009<\u2009.05 at all timepoints). Analyses of prescription patterns supported the findings from clinical notes. For example, renal-supportive and hyperkalemia therapies increased after low-dose tirzepatide (5.6% to 9.5% at 12\u2009months, P\u2009=\u2009.016) but not after low-dose semaglutide (8.2% to 6.6%, P\u2009=\u2009.382). Taken together, these observational associations motivate prospective studies to better characterize the outcomes and pharmacology of sustained initiation-dose semaglutide or tirzepatide, and related microdosing studies.",
-   "doi": "10.1093/biomethods/bpag048",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42857675/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42857363",
-   "title": "Wearable Technologies and Artificial Intelligence in Sports Medicine: A Systematic Narrative Review of Injury Prevention and Rehabilitation.",
-   "journal": "Health Sci Rep",
-   "year": "2026",
-   "authors": [
-    "Silva M",
-    "Al-Jumaili S",
-    "Lopes M",
-    "Albuquerque C",
+    "White K",
+    "Ruder M",
+    "Lai A",
+    "Allen S",
     "et al."
    ],
-   "abstract": "Wearable technologies and artificial intelligence (AI) are shifting sports medicine from episodic, subjective assessment toward continuous, data-driven injury surveillance. This review aimed to map the main wearable sensor modalities used in injury prevention and rehabilitation, evaluate AI architectures applied to biomechanical and physiological data, summarize clinically relevant applications by anatomical region, and identify methodological, ethical, and implementation challenges. A systematic narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar for studies published from 2016 to 2026, supplemented by manual reference screening. Search terms combined wearable sensors, AI and machine learning, and sports medicine outcomes. After title and abstract screening of 614 records and full-text assessment of 87 articles, 28 studies met the inclusion criteria. Inertial measurement units, GPS/GNSS, surface electromyography, and photoplethysmography were the most frequently reported sensor modalities. Deep learning, ensemble methods, and multimodal fusion were commonly used to process biomechanical and physiological signals. One hybrid IMU-sEMG study involving 50 athletes reported 92.3% accuracy, 90.5% recall, and an area under the receiver operating characteristic curve of 0.93 for classifying biomechanical injury-risk states. An ankle-monitoring study using data from 87 athletes across 12 sports reported 87.4% overall detection accuracy, a 12.1% false-alarm rate, and 17.2\u2009ms latency. However, substantial heterogeneity in study design, populations, outcomes, and validation methods prevented direct comparison or pooled quantitative interpretation. Wearable-AI systems show promising potential for injury-risk monitoring, rehabilitation, and return-to-play support. Wider clinical adoption will require more diverse populations, longitudinal and field-based validation, improved model interpretability, standardized protocols, and robust ethical, legal, and governance frameworks.",
-   "doi": "10.1002/hsr2.73248",
+   "abstract": "Sports bras play a critical role in running, with implications for breast discomfort, pain, performance, potential injury risk, and exercise participation for many women. While breast movement has been analyzed across support levels, most studies focus on discrete time-domain variables, such as peak impact acceleration. However, impact frequency content and tissue vibrations are also key factors that the body, and apparel components such as running shoes, may attenuate to maintain comfort and performance during running. This study explored how different sports bras and running shoes affect breast and foot-strike impact forces and comfort in female runners. Twenty-seven recreational female runners ran in four conditions that combined high and low support bras with high and low cushion shoes. Impact accelerations at the tibia and breast, breast-body time lag, and power spectral density in low, medium and high frequency ranges at the tibia and breast were measured. Participants also rated sports bra and shoe comfort. Sports bra support significantly influenced peak breast acceleration, breast-body time lag, breast power spectral density across all frequency ranges, and perceived bra comfort and support (p < 0.001 for all). Shoe cushioning significantly affected peak tibia acceleration (p = 0.002) and shoe comfort (p < 0.001). A significant interaction between bra and shoe conditions was observed for tibia power spectral density in the low- (p = 0.03) and medium- (p = 0.05) frequency ranges. These findings demonstrate the interactive effect of sports bra support and shoe cushioning, and how sufficient upper body support may enable female runners to tolerate greater impact variability at the foot-strike level. Both sports bras and running shoes play important roles in managing impact and comfort during running, highlighting the need for female-specific design considerations in athletic gear.",
+   "doi": "10.1249/MSS.0000000000004186",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42857363/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42863092/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -577,6 +546,32 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42857675",
+   "title": "Comparison of cardiometabolic benefits and tolerability in patients on sustained low doses of semaglutide or tirzepatide.",
+   "journal": "Biol Methods Protoc",
+   "year": "2026",
+   "authors": [
+    "Murugadoss K",
+    "Venkatakrishnan AJ",
+    "Soundararajan V"
+   ],
+   "abstract": "Semaglutide and tirzepatide are typically evaluated through dose escalation, yet many patients in routine care do not reach a recommended maintenance dose due to tolerability, access, cost, supply, or individualized goals. Here, we used repeated 0.25 mg only semaglutide and 2.5 mg only tirzepatide prescription records as real-world proxies for sustained treatment at the lowest approved dose, a prescribing pattern that may overlap with, but does not establish, intentional microdosing. We analyzed de-identified electronic health records (EHRs) from a federated system of 29 million patients. Among 490\u00a0072 semaglutide-treated patients, 814 met the stringent sustained low-dose criterion of at least three distinct 0.25-mg prescriptions spanning at least 6\u2009months from the first to the last qualifying prescription and among 322\u00a0442 tirzepatide-treated patients, 1016 met the analogous criterion of at least three distinct 2.5-mg prescriptions spanning at least 6\u2009months. In a matched head-to-head comparison aided by AI-enabled curation of clinical notes, sustained low-dose tirzepatide showed higher 24-month adverse event rates (P\u2009<\u2009.05) than sustained low-dose semaglutide for constipation (32.6% vs. 22.4%), acute kidney injury (2.7% vs. 0.4%), muscle cramps (8.3% vs. 4%), lumbar disc disease (3.3% vs. 0.3%), dyspnea on exertion (9.6% vs. 6.8%), lentigo (4.7% vs. 0.8%), and actinic keratosis (3.3% vs. 0.6%), whereas sustained low-dose semaglutide (vs. tirzepatide) had higher rates of including otitis (5.6% vs. 2.1%), diaphoresis (5.5% vs. 3.2%), and ankle swelling (6.9% vs. 3.7%). Sustained low-dose tirzepatide was associated with greater weight loss than semaglutide (mean 12-month percent weight change -5.5% vs. -2.2%; P\u2009<\u2009.05 at all timepoints). Analyses of prescription patterns supported the findings from clinical notes. For example, renal-supportive and hyperkalemia therapies increased after low-dose tirzepatide (5.6% to 9.5% at 12\u2009months, P\u2009=\u2009.016) but not after low-dose semaglutide (8.2% to 6.6%, P\u2009=\u2009.382). Taken together, these observational associations motivate prospective studies to better characterize the outcomes and pharmacology of sustained initiation-dose semaglutide or tirzepatide, and related microdosing studies.",
+   "doi": "10.1093/biomethods/bpag048",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42857675/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42854515",
    "title": "Comparison of unisegment and multisegment foot models in ankle biomechanics and distal foot power calculations in individuals with a partial foot amputation.",
    "journal": "J Biomech",
@@ -854,32 +849,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42724219",
-   "title": "Discovering the mechanics of ultra-low density elastomeric foams in elite-level racing shoes.",
-   "journal": "Eng Comput",
-   "year": "2026",
-   "authors": [
-    "McCulloch JA",
-    "Delp SL",
-    "Kuhl E"
-   ],
-   "abstract": "Ultra-low-density elastomeric foams enable lightweight systems that combine high compliance with efficient energy return. Their mechanical response is inherently complex, characterized by high compressibility, nonlinear elasticity, and microstructural heterogeneity. In high-performance racing shoes, these foams are critical for low weight, high cushioning, and efficient energy return; yet, their constitutive behavior remains difficult to model and poorly understood. Here we integrate mechanical testing and machine learning to discover the mechanics of two ultra-low density elastomeric polymeric foams used in elite-level racing shoes. Across uniaxial tension, confined and unconfined compression, and simple shear, both foams exhibit pronounced tension-compression asymmetry, negligible lateral deformation consistent with an effective Poisson's ratio close to zero, and low hysteresis indicative of an efficient energy return. Quantitatively, at a strain rate of 0.25/s, both foams provide a similar compressive stiffness (E = 268\u00b116\u00a0kPa vs. E = 299\u00b129\u00a0kPa), while one foam exhibits a 42% higher tensile stiffness (E = 884\u00b169\u00a0kPa vs. E = 623\u00b196\u00a0kPa), and nearly double the shear stiffness (G = 219\u00b120\u00a0kPa vs. G = 117\u00b124\u00a0kPa), implying a substantially greater lateral stiffness at a comparable vertical energy return (83.3\u00b11.5% vs. 88.9\u00b11.8%). By integrating these data into constitutive neural networks, paired with sparse regression, we discover compact, interpretable single-invariant models-supplemented by mixed-invariant or principal-stretch based terms-that capture the unique signature of the foams with [Formula: see text] values close to one across all loading modes. From a human performance perspective, these models have the potential to improve gait-level simulations with high-performance racing shoes to quantify running economy, performance enhancements, and injury risks on an individual athlete level. More broadly, this work establishes a scalable and interpretable approach for constitutive modeling of highly compressible, ultra-light elastomeric foams with applications to wearable technologies, soft robotics, and energy-efficient mobility systems. Source code, data, and examples are available at https://github.com/LivingMatterLab/CANN.",
-   "doi": "10.1007/s00366-026-02398-y",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42724219/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771990",
@@ -2151,33 +2120,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42724100",
-   "title": "Return to Sport After Excision of Os Trigonum of Talus in Athletes.",
-   "journal": "Foot Ankle Orthop",
-   "year": "2026",
-   "authors": [
-    "Watson A",
-    "Kalyanasundaram G",
-    "Wahl AJ",
-    "Chao W"
-   ],
-   "abstract": "Os trigonum syndrome is a common cause of posterior ankle pain in athletes performing repetitive hyper\u2011plantarflexion of the ankle. An accessory bone posterior to the talus, the os trigonum, may remain unfused or form a Stieda process, leading to pain from overuse, trauma, or impingement. Failure of conservative management often requires surgical excision. The objectives of this study are to evaluate the sustainability of long\u2011term pain relief and return to sport outcomes following open excision for bony impingement in athletes with os trigonum syndrome. A retrospective chart review identified 33 athletes who underwent open posteromedial os trigonum excision after at least 3 months of failed conservative treatment for os trigonum syndrome between 2014 and 2024. Exclusions were concomitant procedures not related to os trigonum syndrome or lost to follow\u2011up. Demographics, return to sport status, complications, and patient\u2011reported pain scores were collected. Pain scores were recorded preoperatively and at <1 month, 6 weeks, 3 months, and >1 year and compared with preoperative values using paired t tests. All athletes were interviewed as their most recent follow\u2011up. The analysis included 26 athletes (35 ankles). Mean follow\u2011up was 7.3 \u00b1 3.0 years. The average age was 17.4 \u00b1 4.5 years, and 85% were female. Most were ballet dancers (n = 23), with 12% of athletes from other sports. Twenty\u2011five of 26 athletes returned to their sport. There was 1 reoperation for postoperative hematoma and no nerve complications. The mean preoperative pain score was 3.3 \u00b1 3.3, with significant improvement at each time interval (P \u2264 .033 for all comparisons). All athletes reported no pain at >1 year of follow-up. In this cohort of athletes with symptomatic os trigonum syndrome due to bony impingement after failed conservative management, open posteromedial excision was associated with substantial pain improvement, no neurovascular complications, and a high rate of return to sport. Level IV, retrospective case series.",
-   "doi": "10.1177/24730114261481811",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42724100/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42739517",
    "title": "Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis.",
    "journal": "J Clin Med",
@@ -2529,6 +2471,39 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42857363",
+   "title": "Wearable Technologies and Artificial Intelligence in Sports Medicine: A Systematic Narrative Review of Injury Prevention and Rehabilitation.",
+   "journal": "Health Sci Rep",
+   "year": "2026",
+   "authors": [
+    "Silva M",
+    "Al-Jumaili S",
+    "Lopes M",
+    "Albuquerque C",
+    "et al."
+   ],
+   "abstract": "Wearable technologies and artificial intelligence (AI) are shifting sports medicine from episodic, subjective assessment toward continuous, data-driven injury surveillance. This review aimed to map the main wearable sensor modalities used in injury prevention and rehabilitation, evaluate AI architectures applied to biomechanical and physiological data, summarize clinically relevant applications by anatomical region, and identify methodological, ethical, and implementation challenges. A systematic narrative review was conducted across PubMed, Scopus, Web of Science, and Google Scholar for studies published from 2016 to 2026, supplemented by manual reference screening. Search terms combined wearable sensors, AI and machine learning, and sports medicine outcomes. After title and abstract screening of 614 records and full-text assessment of 87 articles, 28 studies met the inclusion criteria. Inertial measurement units, GPS/GNSS, surface electromyography, and photoplethysmography were the most frequently reported sensor modalities. Deep learning, ensemble methods, and multimodal fusion were commonly used to process biomechanical and physiological signals. One hybrid IMU-sEMG study involving 50 athletes reported 92.3% accuracy, 90.5% recall, and an area under the receiver operating characteristic curve of 0.93 for classifying biomechanical injury-risk states. An ankle-monitoring study using data from 87 athletes across 12 sports reported 87.4% overall detection accuracy, a 12.1% false-alarm rate, and 17.2\u2009ms latency. However, substantial heterogeneity in study design, populations, outcomes, and validation methods prevented direct comparison or pooled quantitative interpretation. Wearable-AI systems show promising potential for injury-risk monitoring, rehabilitation, and return-to-play support. Wider clinical adoption will require more diverse populations, longitudinal and field-based validation, improved model interpretability, standardized protocols, and robust ethical, legal, and governance frameworks.",
+   "doi": "10.1002/hsr2.73248",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42857363/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
