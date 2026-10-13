@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T21:51:03+00:00",
+ "generated": "2026-10-13T19:57:11+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,39 +65,42 @@
   }
  ],
  "counts": {
-  "total": 87,
+  "total": 88,
   "new": 1,
-  "research": 20,
+  "research": 21,
   "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42863092",
-   "title": "Combined Effects of Sports Bra Support and Running Shoe Cushioning Influence Breast and Running Biomechanics in Female Runners.",
-   "journal": "Med Sci Sports Exerc",
+   "pmid": "42864761",
+   "title": "Feedforward Pre-Activation of Lateral Ankle Muscles Is Insufficient Against Excessive Ankle Inversion During Perturbation in Individuals With Chronic Ankle Instability.",
+   "journal": "J Foot Ankle Res",
    "year": "2026",
    "authors": [
-    "White K",
-    "Ruder M",
-    "Lai A",
-    "Allen S",
-    "et al."
+    "Ran W",
+    "Song Q",
+    "Yin W"
    ],
-   "abstract": "Sports bras play a critical role in running, with implications for breast discomfort, pain, performance, potential injury risk, and exercise participation for many women. While breast movement has been analyzed across support levels, most studies focus on discrete time-domain variables, such as peak impact acceleration. However, impact frequency content and tissue vibrations are also key factors that the body, and apparel components such as running shoes, may attenuate to maintain comfort and performance during running. This study explored how different sports bras and running shoes affect breast and foot-strike impact forces and comfort in female runners. Twenty-seven recreational female runners ran in four conditions that combined high and low support bras with high and low cushion shoes. Impact accelerations at the tibia and breast, breast-body time lag, and power spectral density in low, medium and high frequency ranges at the tibia and breast were measured. Participants also rated sports bra and shoe comfort. Sports bra support significantly influenced peak breast acceleration, breast-body time lag, breast power spectral density across all frequency ranges, and perceived bra comfort and support (p < 0.001 for all). Shoe cushioning significantly affected peak tibia acceleration (p = 0.002) and shoe comfort (p < 0.001). A significant interaction between bra and shoe conditions was observed for tibia power spectral density in the low- (p = 0.03) and medium- (p = 0.05) frequency ranges. These findings demonstrate the interactive effect of sports bra support and shoe cushioning, and how sufficient upper body support may enable female runners to tolerate greater impact variability at the foot-strike level. Both sports bras and running shoes play important roles in managing impact and comfort during running, highlighting the need for female-specific design considerations in athletic gear.",
-   "doi": "10.1249/MSS.0000000000004186",
+   "abstract": "This study aimed to compare ankle kinematics and muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following landing on an inversion trapdoor during walking, with a particular focus on the feedforward pre-activation of lateral ankle muscles and the consequent ankle kinematics post-perturbation. Forty participants were enrolled, including 20 with CAI and 20 age- and sex-matched non-CAI controls. They walked at their own pace on a custom-designed walking platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation, simulating lateral ankle sprain conditions, across three unanticipated trials. Their lower limb muscle electromyography and ankle kinematics were synchronously collected 200\u00a0ms pre- and 200\u00a0ms post-perturbation. Continuous between-group data were compared by independent sample t-tests. CAI individuals showed higher pre-activation in the peroneus longus (-200.0 to -196.4\u00a0ms, mean diff: -11.38%, p\u00a0=\u00a00.049; -54.6 to -11.0\u00a0ms, mean diff: -10.60%, p\u00a0=\u00a00.011) and the lateral gastrocnemius (-200.0 to -175.4\u00a0ms, mean diff: -7.62%, p\u00a0=\u00a00.029) prior to perturbation, and lower activation in the peroneus longus at 72.1 to 98.0\u00a0ms (mean diff: 17.46%, p\u00a0=\u00a00.029) post-perturbation. They also showed greater ankle inversion in four clusters post-perturbation (0 to 111.0\u00a0ms, mean\u00a0diff: -4.85\u00b0, p\u00a0<\u00a00.001; 117.0 to 128.0\u00a0ms, mean diff: -1.83\u00b0, p\u00a0=\u00a00.020; 142.0 to 145.0\u00a0ms, mean diff: -1.30\u00b0, p\u00a0=\u00a00.047; 154.0 to 165.0\u00a0ms, mean diff: -1.05\u00b0, p\u00a0=\u00a00.019). CAI individuals exhibit higher feedforward pre-activation in lateral ankle muscles, which may be insufficient against excessive ankle inversion after landing on a trapdoor during walking.",
+   "doi": "10.1002/jfa2.70232",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42863092/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42864761/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42771890",
@@ -539,6 +542,34 @@
     {
      "id": "actuation-assistive",
      "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42863092",
+   "title": "Combined Effects of Sports Bra Support and Running Shoe Cushioning Influence Breast and Running Biomechanics in Female Runners.",
+   "journal": "Med Sci Sports Exerc",
+   "year": "2026",
+   "authors": [
+    "White K",
+    "Ruder M",
+    "Lai A",
+    "Allen S",
+    "et al."
+   ],
+   "abstract": "Sports bras play a critical role in running, with implications for breast discomfort, pain, performance, potential injury risk, and exercise participation for many women. While breast movement has been analyzed across support levels, most studies focus on discrete time-domain variables, such as peak impact acceleration. However, impact frequency content and tissue vibrations are also key factors that the body, and apparel components such as running shoes, may attenuate to maintain comfort and performance during running. This study explored how different sports bras and running shoes affect breast and foot-strike impact forces and comfort in female runners. Twenty-seven recreational female runners ran in four conditions that combined high and low support bras with high and low cushion shoes. Impact accelerations at the tibia and breast, breast-body time lag, and power spectral density in low, medium and high frequency ranges at the tibia and breast were measured. Participants also rated sports bra and shoe comfort. Sports bra support significantly influenced peak breast acceleration, breast-body time lag, breast power spectral density across all frequency ranges, and perceived bra comfort and support (p < 0.001 for all). Shoe cushioning significantly affected peak tibia acceleration (p = 0.002) and shoe comfort (p < 0.001). A significant interaction between bra and shoe conditions was observed for tibia power spectral density in the low- (p = 0.03) and medium- (p = 0.05) frequency ranges. These findings demonstrate the interactive effect of sports bra support and shoe cushioning, and how sufficient upper body support may enable female runners to tolerate greater impact variability at the foot-strike level. Both sports bras and running shoes play important roles in managing impact and comfort during running, highlighting the need for female-specific design considerations in athletic gear.",
+   "doi": "10.1249/MSS.0000000000004186",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42863092/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],

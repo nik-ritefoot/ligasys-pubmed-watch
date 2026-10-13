@@ -1,5 +1,33 @@
 [
  {
+  "pmid": "42864761",
+  "title": "Feedforward Pre-Activation of Lateral Ankle Muscles Is Insufficient Against Excessive Ankle Inversion During Perturbation in Individuals With Chronic Ankle Instability.",
+  "journal": "J Foot Ankle Res",
+  "year": "2026",
+  "authors": [
+   "Ran W",
+   "Song Q",
+   "Yin W"
+  ],
+  "abstract": "This study aimed to compare ankle kinematics and muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following landing on an inversion trapdoor during walking, with a particular focus on the feedforward pre-activation of lateral ankle muscles and the consequent ankle kinematics post-perturbation. Forty participants were enrolled, including 20 with CAI and 20 age- and sex-matched non-CAI controls. They walked at their own pace on a custom-designed walking platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation, simulating lateral ankle sprain conditions, across three unanticipated trials. Their lower limb muscle electromyography and ankle kinematics were synchronously collected 200\u00a0ms pre- and 200\u00a0ms post-perturbation. Continuous between-group data were compared by independent sample t-tests. CAI individuals showed higher pre-activation in the peroneus longus (-200.0 to -196.4\u00a0ms, mean diff: -11.38%, p\u00a0=\u00a00.049; -54.6 to -11.0\u00a0ms, mean diff: -10.60%, p\u00a0=\u00a00.011) and the lateral gastrocnemius (-200.0 to -175.4\u00a0ms, mean diff: -7.62%, p\u00a0=\u00a00.029) prior to perturbation, and lower activation in the peroneus longus at 72.1 to 98.0\u00a0ms (mean diff: 17.46%, p\u00a0=\u00a00.029) post-perturbation. They also showed greater ankle inversion in four clusters post-perturbation (0 to 111.0\u00a0ms, mean\u00a0diff: -4.85\u00b0, p\u00a0<\u00a00.001; 117.0 to 128.0\u00a0ms, mean diff: -1.83\u00b0, p\u00a0=\u00a00.020; 142.0 to 145.0\u00a0ms, mean diff: -1.30\u00b0, p\u00a0=\u00a00.047; 154.0 to 165.0\u00a0ms, mean diff: -1.05\u00b0, p\u00a0=\u00a00.019). CAI individuals exhibit higher feedforward pre-activation in lateral ankle muscles, which may be insufficient against excessive ankle inversion after landing on a trapdoor during walking.",
+  "doi": "10.1002/jfa2.70232",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42864761/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   },
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-13T19:57:11Z"
+ },
+ {
   "pmid": "42863092",
   "title": "Combined Effects of Sports Bra Support and Running Shoe Cushioning Influence Breast and Running Biomechanics in Female Runners.",
   "journal": "Med Sci Sports Exerc",
