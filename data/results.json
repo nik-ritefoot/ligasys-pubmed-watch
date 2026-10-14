@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T19:57:11+00:00",
+ "generated": "2026-10-14T18:09:29+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,42 +65,91 @@
   }
  ],
  "counts": {
-  "total": 88,
-  "new": 1,
+  "total": 87,
+  "new": 3,
   "research": 21,
-  "fieldnotes": 67
+  "fieldnotes": 66
  },
  "records": [
   {
-   "pmid": "42864761",
-   "title": "Feedforward Pre-Activation of Lateral Ankle Muscles Is Insufficient Against Excessive Ankle Inversion During Perturbation in Individuals With Chronic Ankle Instability.",
-   "journal": "J Foot Ankle Res",
+   "pmid": "42869718",
+   "title": "Cryotherapy added to PEACE & LOVE rehabilitation for acute lateral ankle sprain in physically active adults: A randomized controlled trial in sports rehabilitation.",
+   "journal": "J Sci Med Sport",
    "year": "2026",
    "authors": [
-    "Ran W",
-    "Song Q",
-    "Yin W"
+    "Halder P",
+    "Hossain MZ",
+    "Akash MAA",
+    "Saha J",
+    "et al."
    ],
-   "abstract": "This study aimed to compare ankle kinematics and muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following landing on an inversion trapdoor during walking, with a particular focus on the feedforward pre-activation of lateral ankle muscles and the consequent ankle kinematics post-perturbation. Forty participants were enrolled, including 20 with CAI and 20 age- and sex-matched non-CAI controls. They walked at their own pace on a custom-designed walking platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation, simulating lateral ankle sprain conditions, across three unanticipated trials. Their lower limb muscle electromyography and ankle kinematics were synchronously collected 200\u00a0ms pre- and 200\u00a0ms post-perturbation. Continuous between-group data were compared by independent sample t-tests. CAI individuals showed higher pre-activation in the peroneus longus (-200.0 to -196.4\u00a0ms, mean diff: -11.38%, p\u00a0=\u00a00.049; -54.6 to -11.0\u00a0ms, mean diff: -10.60%, p\u00a0=\u00a00.011) and the lateral gastrocnemius (-200.0 to -175.4\u00a0ms, mean diff: -7.62%, p\u00a0=\u00a00.029) prior to perturbation, and lower activation in the peroneus longus at 72.1 to 98.0\u00a0ms (mean diff: 17.46%, p\u00a0=\u00a00.029) post-perturbation. They also showed greater ankle inversion in four clusters post-perturbation (0 to 111.0\u00a0ms, mean\u00a0diff: -4.85\u00b0, p\u00a0<\u00a00.001; 117.0 to 128.0\u00a0ms, mean diff: -1.83\u00b0, p\u00a0=\u00a00.020; 142.0 to 145.0\u00a0ms, mean diff: -1.30\u00b0, p\u00a0=\u00a00.047; 154.0 to 165.0\u00a0ms, mean diff: -1.05\u00b0, p\u00a0=\u00a00.019). CAI individuals exhibit higher feedforward pre-activation in lateral ankle muscles, which may be insufficient against excessive ankle inversion after landing on a trapdoor during walking.",
-   "doi": "10.1002/jfa2.70232",
+   "abstract": "To evaluate whether adding cryotherapy during the first 72\u202fh to a standardized PEACE & LOVE rehabilitation program improves early recovery after acute lateral ankle sprain compared with a room-temperature gel-pack control. Randomized, parallel-group controlled trial. Sixty physically active adults with Grade I-II acute lateral ankle sprain within 48\u202fh of injury were randomized 1:1 to PEACE & LOVE rehabilitation plus either active cryotherapy or room-temperature gel-pack control. Cryotherapy was delivered using a 0-4\u202f\u00b0C gel pack for 20\u202fmin, three times daily for 72\u202fh. Both groups received identical progressive rehabilitation for four weeks. The primary outcome was average ankle pain during the previous 24\u202fh measured using the Numeric Pain Rating Scale at Day 7. Secondary outcomes were swelling, Lower Extremity Functional Scale score, Weight-Bearing Lunge Test, paracetamol use, and re-injury. Outcomes were analyzed using linear mixed-effects models. All randomized participants completed follow-up. Pain decreased in both groups, with a statistically greater Day 7 reduction in cryotherapy than control (adjusted difference -1.10, 95% confidence interval -1.85 to -0.35; p\u202f=\u202f0.004). However, this did not reach the pre-specified 2-point minimal clinically important difference. Swelling also decreased more with cryotherapy (-1.78\u202fcm, 95% confidence interval -3.26 to -0.30; p\u202f=\u202f0.019). Functional recovery, dorsiflexion, paracetamol use, and re-injury were comparable. Responder analysis produced a number needed to treat estimate with confidence intervals crossing infinity. Cryotherapy provided statistically greater short-term pain and swelling reductions, but its added clinical value beyond progressive rehabilitation remains uncertain within four weeks.",
+   "doi": "10.1016/j.jsams.2026.09.009",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42864761/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42869718/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
-   "bucket": "research"
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42871080",
+   "title": "Editorial: Assessment and monitoring of human movement, volume II.",
+   "journal": "Front Physiol",
+   "year": "2026",
+   "authors": [
+    "L\u00f3pez-Plaza D",
+    "Annino G",
+    "Romagnoli C"
+   ],
+   "abstract": "",
+   "doi": "10.3389/fphys.2026.1995658",
+   "pubtypes": [
+    "Editorial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42871080/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42869466",
+   "title": "Passive ankle exoskeleton assistance selectively modulates triceps surae neural control during balance.",
+   "journal": "J R Soc Interface",
+   "year": "2026",
+   "authors": [
+    "Hamard R",
+    "Hug F",
+    "Dick TJM"
+   ],
+   "abstract": "Wearable assistive devices have potential to improve human balance, but their effectiveness remains limited by an incomplete understanding of how mechanical assistance influences neuromuscular control. This study aimed to determine the neural adaptations in the control of lower leg muscles in response to passive ankle exoskeleton assistance during standing balance tasks with varying levels of difficulty. Lower limb kinematics and kinetics were recorded to assess changes in joint dynamics and balance performance. Neural drive to the muscles was assessed by decomposing high-density electromyography signals into motor unit spike trains. Ankle exoskeleton assistance, provided by a simple spring-loaded passive device, did not alter or improve balance performance and had minimal effects on lower limb kinematics. However, exoskeleton assistance affected triceps surae neural control, but only in the soleus, by reducing neural drive, while the gastrocnemii showed no detectable changes in neural control. Together, these results demonstrate that passive exoskeleton assistance alters neural control of the triceps surae in a muscle-specific manner during balance. Understanding muscle-specific adaptations can support more effective exoskeleton design and the development of their control strategies informed by myoelectrical signals.",
+   "doi": "10.1098/rsif.2025.1305",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42869466/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771890",
@@ -220,33 +269,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42731809",
-   "title": "Arthroscopic management of ankle ligament injuries: a new gold standard?",
-   "journal": "Orthop Traumatol Surg Res",
-   "year": "2026",
-   "authors": [
-    "Lopes R",
-    "Guillo S",
-    "Bauer T"
-   ],
-   "abstract": "Ankle ligament injuries are among the most common lesions encountered in emergency medicine and in chronic contexts. The present study aimed to assess the role of arthroscopy, addressing 5 questions. (1) What are the indications for surgery in ankle ligament injury? - In the acute phase, conservative treatment is the rule, but surgery may be considered for lateral lesions, in first injury in athletes with high functional demand, and in case of associated proximal lesions in the anterior talofibular ligament and calcaneofibular ligament. Surgery is also indicated for unstable lesions in the distal tibiofibular syndesmosis or medial collateral ligament. In chronic contexts, surgery is indicated for persistent instability despite rehabilitation. (2) What is the contribution of arthroscopy? - It enables precise diagnosis of ligament status and associated lesions, and anatomic repair of all lesions. It is now the gold-standard for syndesmosis assessment. (3) How to perform surgery? - In the acute phase, arthroscopic techniques consist in repair by ligament suture. In chronic contexts, they consist in repair or reconstruction by autograft or allograft. The techniques are well codified. 4) What are the expected results? - The literature reports functional results equivalent to or better than for open surgery, with fewer complications, quicker return to sport and better patient satisfaction. 5) Can this be considered a new gold-standard? - Reports of clinical series indicate that arthroscopic stabilization is becoming the new gold-standard for chronic ankle ligament instability. This needs to be confirmed in larger-scale studies with longer follow-up. LEVEL OF EVIDENCE: 5, expert opinion.",
-   "doi": "10.1016/j.otsr.2026.104873",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42731809/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42761794",
    "title": "Artificial intelligence and sports genomics: advancing precision sports science and athletic performance.",
    "journal": "Front Sports Act Living",
@@ -321,34 +343,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42852663/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42728689",
-   "title": "Association of Slope-Reducing Osteotomy With Return to Preinjury Level of Sport After Failed Anterior Cruciate Ligament Reconstruction in Elite Athletes.",
-   "journal": "Am J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Martorell-de Fortuny L",
-    "Perelli S",
-    "Cance N",
-    "Mazy D",
-    "et al."
-   ],
-   "abstract": "Increased posterior tibial slope (PTS) has been identified as a major risk factor for failure after anterior cruciate ligament reconstruction (ACLR). In athletes with high PTS undergoing revision ACLR, slope-reducing osteotomy (SRO) has been proposed to reduce anterior cruciate ligament graft forces and improve outcomes, but data regarding return to sport in elite athletes remain limited. To evaluate whether combining SRO with revision ACLR would allow elite athletes with increased PTS to return to their preinjury level of sport and, further, to assess clinical, functional, and radiographic outcomes. Case series; Level of evidence, 4. This retrospective study included elite athletes with failed ACLR and PTS \u226510\u00b0 who underwent revision ACLR combined with supratuberosity SRO between 2011 and 2023 at 2 centers. Return-to-sport (RTS) rate and time, clinical and functional outcomes (International Knee Documentation Committee [IKDC], Lysholm, Tegner, Anterior Cruciate Ligament-Return to Sport After Injury scale [ACL-RSI]), and radiographic parameters (PTS, hip-knee-ankle angle, and Caton Deschamps index) were evaluated. Of the 22 ACLRs with SRO performed, 19 patients met the inclusion criteria. All athletes returned to competition at their preinjury level after a mean of 12.1 \u00b1 2.3 months (range, 10-20 months), with a mean ACL-RSI score of 87.2 \u00b1 6.7. Final scores, obtained at a mean follow-up of 58.8 \u00b1 38.7 months (range, 24-169 months), showed excellent outcomes: IKDC score improved from 44.2 \u00b1 10.7 preoperatively to 92.3 \u00b1 6.7 postoperatively (P < .001; 95% CI, 42-54), and Lysholm score improved from 46.8 \u00b1 14.2 to 96.9 \u00b1 3.1 (P < .001; 95% CI, 35.2-65). Postoperative Tegner score corresponded to elite participation (mean, 9.7). Mean PTS decreased from 14.9\u00b0\u00b1 3\u00b0 to 4.5\u00b0\u00b1 2.8\u00b0, with no significant changes in coronal alignment or patellar height. No graft failure or major complications occurred; reoperations were limited to staple removal for local discomfort. In elite athletes with high PTS and failed ACLR, combining SRO with revision ACLR was safe and effective, enabling RTS with excellent clinical and functional outcomes.",
-   "doi": "10.1177/03635465261479920",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42728689/",
    "matched": [
     {
      "id": "return-to-play",
@@ -628,35 +622,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42730692",
-   "title": "Comprehensive Clinical Evaluation of the Combined Effects of Physical Therapy and Exercise Therapy in the Rehabilitation of Sports Injuries.",
-   "journal": "J Vis Exp",
-   "year": "2026",
-   "authors": [
-    "Wang Y",
-    "Ning J",
-    "Zhao M",
-    "Zhang Y",
-    "et al."
-   ],
-   "abstract": "Sports injuries are common among athletes and recreationally active individuals, and rehabilitation outcomes influence functional recovery and the risk of re-injury. Physical therapy and exercise therapy are established rehabilitation strategies; however, evidence regarding their combined effectiveness remains limited. This retrospective cohort study evaluated the clinical effectiveness of combining physical therapy with staged exercise therapy for sports injury rehabilitation. A total of 185 patients with knee, ankle, or muscle strain injuries received either physical therapy alone (Physiotherapy group, n = 90) or physical therapy combined with staged exercise therapy (Comprehensive Therapy group, n = 95). Baseline characteristics were comparable between groups. Outcomes included motor function (Lysholm score, assessed at 8 weeks in the knee injury subgroup), pain (Numerical Rating Scale [NRS]), functional recovery (American Orthopaedic Foot and Ankle Society [AOFAS] score in the ankle injury subgroup), dynamic balance (Star Excursion Balance Test [SEBT]), quality of life (Short Form-36 [SF-36]), and adverse reactions. At 8 weeks, the Comprehensive Therapy group demonstrated lower resting NRS scores (1.26 \u00b1 0.95 vs. 2.48 \u00b1 1.02; P < 0.001) and activity NRS scores (3.56 \u00b1 0.95 vs. 4.48 \u00b1 1.05; P < 0.001) than the Physiotherapy group. Improvements in Lysholm score (85.07 \u00b1 4.14 vs. 76.30 \u00b1 5.86; P < 0.001), AOFAS score (79.02 \u00b1 3.03 vs. 75.22 \u00b1 5.03; P = 0.001), SEBT performance (102.32 \u00b1 1.42 vs. 95.18 \u00b1 1.33; P < 0.001), and seven of eight SF-36 domains (P < 0.05) were greater in the Comprehensive Therapy group. Adverse reaction rates were comparable between groups (P > 0.05). Combined therapy was associated with greater improvements in pain, functional recovery, balance, and quality of life than physical therapy alone, with a comparable safety profile. However, the 8-week follow-up precludes assessment of long-term outcomes.",
-   "doi": "10.3791/70484",
-   "pubtypes": [
-    "Journal Article",
-    "Video-Audio Media"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42730692/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42783399",
@@ -1219,6 +1184,37 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42864761",
+   "title": "Feedforward Pre-Activation of Lateral Ankle Muscles Is Insufficient Against Excessive Ankle Inversion During Perturbation in Individuals With Chronic Ankle Instability.",
+   "journal": "J Foot Ankle Res",
+   "year": "2026",
+   "authors": [
+    "Ran W",
+    "Song Q",
+    "Yin W"
+   ],
+   "abstract": "This study aimed to compare ankle kinematics and muscle activation between individuals with and without chronic ankle instability (CAI), both prior to and following landing on an inversion trapdoor during walking, with a particular focus on the feedforward pre-activation of lateral ankle muscles and the consequent ankle kinematics post-perturbation. Forty participants were enrolled, including 20 with CAI and 20 age- and sex-matched non-CAI controls. They walked at their own pace on a custom-designed walking platform equipped with a trapdoor programmed to trigger a 24\u00b0 inversion perturbation, simulating lateral ankle sprain conditions, across three unanticipated trials. Their lower limb muscle electromyography and ankle kinematics were synchronously collected 200\u00a0ms pre- and 200\u00a0ms post-perturbation. Continuous between-group data were compared by independent sample t-tests. CAI individuals showed higher pre-activation in the peroneus longus (-200.0 to -196.4\u00a0ms, mean diff: -11.38%, p\u00a0=\u00a00.049; -54.6 to -11.0\u00a0ms, mean diff: -10.60%, p\u00a0=\u00a00.011) and the lateral gastrocnemius (-200.0 to -175.4\u00a0ms, mean diff: -7.62%, p\u00a0=\u00a00.029) prior to perturbation, and lower activation in the peroneus longus at 72.1 to 98.0\u00a0ms (mean diff: 17.46%, p\u00a0=\u00a00.029) post-perturbation. They also showed greater ankle inversion in four clusters post-perturbation (0 to 111.0\u00a0ms, mean\u00a0diff: -4.85\u00b0, p\u00a0<\u00a00.001; 117.0 to 128.0\u00a0ms, mean diff: -1.83\u00b0, p\u00a0=\u00a00.020; 142.0 to 145.0\u00a0ms, mean diff: -1.30\u00b0, p\u00a0=\u00a00.047; 154.0 to 165.0\u00a0ms, mean diff: -1.05\u00b0, p\u00a0=\u00a00.019). CAI individuals exhibit higher feedforward pre-activation in lateral ankle muscles, which may be insufficient against excessive ankle inversion after landing on a trapdoor during walking.",
+   "doi": "10.1002/jfa2.70232",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42864761/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    },
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42770512",
    "title": "Football Cleats and Injury Patterns in 14- to 19-Year-Old Female Football Players: The Effect of Surface, Gender-Specific Shoe Gear and Cleat Pattern.",
    "journal": "Sports Health",
@@ -1569,41 +1565,6 @@
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42795382/",
    "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42730156",
-   "title": "Lower limb exoskeletons for older adults: key assistance parameters and evaluation of ankle assistive strategies via musculoskeletal modelling.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Mallah J",
-    "Occhipinti LG"
-   ],
-   "abstract": "Aging comes with physiological changes resulting in alterations to gait, decline of muscle function, and balance that contribute to reduced mobility, increased metabolic cost of walking, and elevated fall and injury risks in older adults. Wearable lower-limb exoskeletons have emerged as a promising strategy to support healthy aging; however, identifying optimal assistance strategies remains challenging due to the complexity and cost of experimental testing. In this study, we combined musculoskeletal modelling and simulations to identify key assistance parameters for older-adult gait and evaluate different ankle exoskeleton configurations computationally, based on muscle activation, metabolic consumption, device weight and power requirement, efficiency, and performance. Motion capture, force plate, and electromyography data from younger and older adults were processed using OpenSim-based musculoskeletal simulations with age-adjusted muscle parameters. Age-related gait differences were quantified across spatiotemporal, kinematic, kinetic, and muscle activation metrics. Subsequently, unilateral and bilateral ankle assistance strategies providing plantarflexion (PF), dorsiflexion (DF), or combined plantarflexion-dorsiflexion (PFDF) support were simulated using unidirectional path actuators representative of cable-driven exoskeletons. Older adults exhibited reduced ankle and hip range of motion, decreased plantarflexion, delayed joint moments, shorter step length, and increased double support time compared with younger adults. These changes suggest that elderly gait can be improved with kinematic assistance at the ankles and hips, timed kinetic assistance at the knees and hips, as well as balance support, hence an opportunity for exoskeleton intervention. Simulated ankle assistance reduced muscle activations and metabolic expenditure, with bilateral PFDF assistance providing the greatest overall benefits. While dorsiflexion-only assistance reduced power requirements, it occasionally increased metabolic consumption. Overall, bilateral assistance outperformed unilateral configurations across most performance metrics. These findings provide biomechanical design guidelines for future lower-limb exoskeletons targeting mobility enhancement and fall-risk reduction in aging populations and demonstrate the value of computational biomechanics for screening assistive-device configurations prior to experimental implementation.",
-   "doi": "10.3389/fspor.2026.1888675",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42730156/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    },
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
