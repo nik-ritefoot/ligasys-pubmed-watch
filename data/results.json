@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T18:09:29+00:00",
+ "generated": "2026-10-15T17:52:23+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,91 +65,69 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 3,
-  "research": 21,
+  "total": 88,
+  "new": 2,
+  "research": 22,
   "fieldnotes": 66
  },
  "records": [
   {
-   "pmid": "42869718",
-   "title": "Cryotherapy added to PEACE & LOVE rehabilitation for acute lateral ankle sprain in physically active adults: A randomized controlled trial in sports rehabilitation.",
-   "journal": "J Sci Med Sport",
-   "year": "2026",
-   "authors": [
-    "Halder P",
-    "Hossain MZ",
-    "Akash MAA",
-    "Saha J",
-    "et al."
-   ],
-   "abstract": "To evaluate whether adding cryotherapy during the first 72\u202fh to a standardized PEACE & LOVE rehabilitation program improves early recovery after acute lateral ankle sprain compared with a room-temperature gel-pack control. Randomized, parallel-group controlled trial. Sixty physically active adults with Grade I-II acute lateral ankle sprain within 48\u202fh of injury were randomized 1:1 to PEACE & LOVE rehabilitation plus either active cryotherapy or room-temperature gel-pack control. Cryotherapy was delivered using a 0-4\u202f\u00b0C gel pack for 20\u202fmin, three times daily for 72\u202fh. Both groups received identical progressive rehabilitation for four weeks. The primary outcome was average ankle pain during the previous 24\u202fh measured using the Numeric Pain Rating Scale at Day 7. Secondary outcomes were swelling, Lower Extremity Functional Scale score, Weight-Bearing Lunge Test, paracetamol use, and re-injury. Outcomes were analyzed using linear mixed-effects models. All randomized participants completed follow-up. Pain decreased in both groups, with a statistically greater Day 7 reduction in cryotherapy than control (adjusted difference -1.10, 95% confidence interval -1.85 to -0.35; p\u202f=\u202f0.004). However, this did not reach the pre-specified 2-point minimal clinically important difference. Swelling also decreased more with cryotherapy (-1.78\u202fcm, 95% confidence interval -3.26 to -0.30; p\u202f=\u202f0.019). Functional recovery, dorsiflexion, paracetamol use, and re-injury were comparable. Responder analysis produced a number needed to treat estimate with confidence intervals crossing infinity. Cryotherapy provided statistically greater short-term pain and swelling reductions, but its added clinical value beyond progressive rehabilitation remains uncertain within four weeks.",
-   "doi": "10.1016/j.jsams.2026.09.009",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42869718/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42871080",
-   "title": "Editorial: Assessment and monitoring of human movement, volume II.",
+   "pmid": "42876540",
+   "title": "Biomechanical and movement-quality predictors of lower-limb load-related injury in collegiate athletes: a prospective cohort study using functional movement screening, wearable inertial sensing, and explainable machine learning.",
    "journal": "Front Physiol",
    "year": "2026",
    "authors": [
-    "L\u00f3pez-Plaza D",
-    "Annino G",
-    "Romagnoli C"
+    "Xu X",
+    "Zhang J",
+    "Liao J"
    ],
-   "abstract": "",
-   "doi": "10.3389/fphys.2026.1995658",
+   "abstract": "Lower-limb load-related injuries account for a disproportionate share of time loss in collegiate sport, yet the biomechanical and movement-quality factors distinguishing injured from uninjured athletes remain incompletely characterized. This prospective cohort study followed 161 collegiate athletes for one competitive season, integrating Functional Movement Screen task-level scores with wearable inertial measurement unit-derived features - including peak tibial acceleration asymmetry, surrogate vertical loading rate, and pelvis-trunk stability indices - within an explainable machine learning framework. Four classifiers were compared across FMS-only, wearable-only, and fused configurations under nested five-fold cross-validation with embedded LASSO feature selection. Thirty-seven load-related time-loss injuries were recorded (23.0% incidence). The fused XGBoost model achieved an out-of-fold AUC of 0.70 (95% CI: 0.61-0.79), outperforming FMS-only (AUC 0.62) and wearable-only (AUC 0.64) configurations by statistically significant margins. Peak tibial acceleration asymmetry and surrogate loading rate on the non-dominant limb were the strongest biomechanical predictors; in-line lunge and active straight-leg raise task scores contributed most among FMS inputs. Biomechanical features added an independent AUC increment of 0.07 beyond previous-injury history. SHAP analysis identified an interaction between tibial impact asymmetry and in-line lunge score that met the pre-specified directional stability criterion. These findings establish a physiologically interpretable template for biomechanical phenotyping of injury risk, supporting the combined use of wearable sensing and task-level movement screening in collegiate athletic populations.",
+   "doi": "10.3389/fphys.2026.1920109",
    "pubtypes": [
-    "Editorial"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42871080/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42876540/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42869466",
-   "title": "Passive ankle exoskeleton assistance selectively modulates triceps surae neural control during balance.",
-   "journal": "J R Soc Interface",
+   "pmid": "42873647",
+   "title": "Side-Step Cutting Foot Biomechanics and Intrinsic Foot Muscle Sizes in People With Chronic Ankle Instability.",
+   "journal": "J Foot Ankle Res",
    "year": "2026",
    "authors": [
-    "Hamard R",
-    "Hug F",
-    "Dick TJM"
+    "Peters-Dickie JL",
+    "Detrembleur C",
+    "Lobet S",
+    "Deschamps K"
    ],
-   "abstract": "Wearable assistive devices have potential to improve human balance, but their effectiveness remains limited by an incomplete understanding of how mechanical assistance influences neuromuscular control. This study aimed to determine the neural adaptations in the control of lower leg muscles in response to passive ankle exoskeleton assistance during standing balance tasks with varying levels of difficulty. Lower limb kinematics and kinetics were recorded to assess changes in joint dynamics and balance performance. Neural drive to the muscles was assessed by decomposing high-density electromyography signals into motor unit spike trains. Ankle exoskeleton assistance, provided by a simple spring-loaded passive device, did not alter or improve balance performance and had minimal effects on lower limb kinematics. However, exoskeleton assistance affected triceps surae neural control, but only in the soleus, by reducing neural drive, while the gastrocnemii showed no detectable changes in neural control. Together, these results demonstrate that passive exoskeleton assistance alters neural control of the triceps surae in a muscle-specific manner during balance. Understanding muscle-specific adaptations can support more effective exoskeleton design and the development of their control strategies informed by myoelectrical signals.",
-   "doi": "10.1098/rsif.2025.1305",
+   "abstract": "Lateral ankle sprains commonly occur during directional changes and often lead to chronic ankle instability (CAI) associated with altered movement patterns, muscle weakness and atrophy. This study aimed to compare foot joint biomechanics during cutting among individuals with CAI, copers, and uninjured controls and to explore the relationship between intrinsic foot muscle sizes and functional status. Cross-sectional study. Sixty-nine recreationally active males (25.4\u00a0\u00b1\u00a04\u00a0years) were categorised by perceived instability and self-reported function. Ankle and foot joint kinematics and kinetics were assessed using a multi-segment foot model during 45\u00b0 side-step cutting at a mean approach speed of 3.5\u00a0m\u00b7s-1. Groups were compared using ANOVA or Kruskal-Wallis tests, and continuous biomechanical data were analysed using statistical parametric or non-parametric mapping. Cross-sectional area and thickness of the abductor hallucis and flexor digitorum brevis were recorded using ultrasound imaging. Muscle sizes were explored using general linear models, and correlations with questionnaire scores and physical examination outcomes were calculated. Foot joint kinematics and kinetics did not significantly differ between the groups. Individuals with CAI exhibited lower peak posterior ground reaction force than controls (mean difference: -6.2% of body weight, 95% CI: -11.9 to -0.4, p\u00a0=\u00a00.03). Statistical parametric mapping revealed lower posterior ground reaction forces from 22% to 46% of stance in CAI versus controls (p\u00a0<\u00a00.05). Intrinsic foot muscle sizes showed weak, statistically significant negative correlations with perceived instability scores (\u03c1\u00a0=\u00a0-0.31 to -0.36) and self-reported function scores (\u03c1\u00a0=\u00a0-0.26 to -0.33). Despite pronounced sensory-perceptual impairments, individuals with CAI demonstrated few differences in foot joint biomechanics compared with copers and controls during a moderate-speed anticipated cutting task. Reduced braking forces may reflect altered deceleration strategies. These findings suggest the importance of assessing deceleration abilities in people with CAI and indicate a potential role of foot muscles in CAI-related functional outcomes. ClinicalTrials.gov (NCT05815576).",
+   "doi": "10.1002/jfa2.70222",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42869466/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42873647/",
    "matched": [
     {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42771890",
@@ -234,34 +212,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42735362",
-   "title": "Altered Central Motor Control After ACL Reconstruction: A Muscle Synergy Analysis During High-Risk Landing.",
-   "journal": "Med Sci Sports Exerc",
-   "year": "2026",
-   "authors": [
-    "Gong Z",
-    "Han Y",
-    "Li T",
-    "Li Y",
-    "et al."
-   ],
-   "abstract": "Anterior cruciate ligament reconstruction (ACLR) patients face elevated secondary injury risk due to residual neuromuscular deficits, yet the neuromuscular coordination strategies underlying altered muscle coordination remain unclear. Muscle synergy (MS) analysis offers a valuable framework for elucidating these mechanisms. This study characterized MS patterns in ACLR patients during high-risk landing and their correlation with lower-extremity biomechanics. Twenty-two patients who had undergone unilateral ACLR performed a single-leg drop-land-lateral jump task using both affected and nonaffected limbs, whereas sixteen healthy controls performed the task using their dominant limb. with the limb-level data were subsequently categorized into three groups: affected, nonaffected, and control. Surface electromyography (14 muscles), kinematics, and ground reaction forces were recorded. Non-negative matrix factorization was used to extract MS spatial (muscle weighting vectors) and temporal (activation profiles) components across pre-landing, impact, and loading phases. Joint angles/moments were computed via OpenSim musculoskeletal models. Mixed-effects models and Pearson correlations assessed group differences and synergy-biomechanics associations. Compared to controls, ACLR limbs showed lower hip abduction and ankle plantarflexion angle but greater knee flexion angle at landing, accompanied by excessive pre-landing quadriceps weighting, reduced gluteal/semimembranosus contributions, and earlier but lower-amplitude synergy recruitment. Post-landing, quadriceps weighting decreased and knee-dominant synergy recruitment delayed, with compensatory redistribution toward gluteal, gastrocnemius, and tibialis anterior muscles, corresponding to reduced knee extension and increased hip extension moments. Critically, during impact, ACLR limbs lacked a dedicated frontal-plane stabilization synergy, MS4 (gluteus medius/peroneus longus), relative to the control group. A greater number of synergies in the affected limb was associated with more normative joint biomechanics. ACLR limbs exhibit persistent, limb-specific MS abnormalities across all landing phases, including altered sagittal-plane quadriceps weighting, impaired frontal-plane modular control, and dysregulated synergy timing. These central neuromuscular coordination alterations correlate with maladaptive knee biomechanics, potentially increasing secondary ACL injury risk. From a sports training perspective, targeting these specific synergy alterations, particularly the missing frontal-plane stabilization module, may inform more effective neuromuscular training protocols for safe return to sport.",
-   "doi": "10.1249/MSS.0000000000004147",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42735362/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -711,6 +661,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42869718",
+   "title": "Cryotherapy added to PEACE & LOVE rehabilitation for acute lateral ankle sprain in physically active adults: A randomized controlled trial in sports rehabilitation.",
+   "journal": "J Sci Med Sport",
+   "year": "2026",
+   "authors": [
+    "Halder P",
+    "Hossain MZ",
+    "Akash MAA",
+    "Saha J",
+    "et al."
+   ],
+   "abstract": "To evaluate whether adding cryotherapy during the first 72\u202fh to a standardized PEACE & LOVE rehabilitation program improves early recovery after acute lateral ankle sprain compared with a room-temperature gel-pack control. Randomized, parallel-group controlled trial. Sixty physically active adults with Grade I-II acute lateral ankle sprain within 48\u202fh of injury were randomized 1:1 to PEACE & LOVE rehabilitation plus either active cryotherapy or room-temperature gel-pack control. Cryotherapy was delivered using a 0-4\u202f\u00b0C gel pack for 20\u202fmin, three times daily for 72\u202fh. Both groups received identical progressive rehabilitation for four weeks. The primary outcome was average ankle pain during the previous 24\u202fh measured using the Numeric Pain Rating Scale at Day 7. Secondary outcomes were swelling, Lower Extremity Functional Scale score, Weight-Bearing Lunge Test, paracetamol use, and re-injury. Outcomes were analyzed using linear mixed-effects models. All randomized participants completed follow-up. Pain decreased in both groups, with a statistically greater Day 7 reduction in cryotherapy than control (adjusted difference -1.10, 95% confidence interval -1.85 to -0.35; p\u202f=\u202f0.004). However, this did not reach the pre-specified 2-point minimal clinically important difference. Swelling also decreased more with cryotherapy (-1.78\u202fcm, 95% confidence interval -3.26 to -0.30; p\u202f=\u202f0.019). Functional recovery, dorsiflexion, paracetamol use, and re-injury were comparable. Responder analysis produced a number needed to treat estimate with confidence intervals crossing infinity. Cryotherapy provided statistically greater short-term pain and swelling reductions, but its added clinical value beyond progressive rehabilitation remains uncertain within four weeks.",
+   "doi": "10.1016/j.jsams.2026.09.009",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42869718/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42772184",
    "title": "Cutaneous reflex modulation of the peroneus longus during rhythmic side-stepping in subjects with and without chronic ankle instability.",
    "journal": "J Electromyogr Kinesiol",
@@ -873,6 +851,32 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42871080",
+   "title": "Editorial: Assessment and monitoring of human movement, volume II.",
+   "journal": "Front Physiol",
+   "year": "2026",
+   "authors": [
+    "L\u00f3pez-Plaza D",
+    "Annino G",
+    "Romagnoli C"
+   ],
+   "abstract": "",
+   "doi": "10.3389/fphys.2026.1995658",
+   "pubtypes": [
+    "Editorial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42871080/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42787454",
@@ -1888,6 +1892,32 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42869466",
+   "title": "Passive ankle exoskeleton assistance selectively modulates triceps surae neural control during balance.",
+   "journal": "J R Soc Interface",
+   "year": "2026",
+   "authors": [
+    "Hamard R",
+    "Hug F",
+    "Dick TJM"
+   ],
+   "abstract": "Wearable assistive devices have potential to improve human balance, but their effectiveness remains limited by an incomplete understanding of how mechanical assistance influences neuromuscular control. This study aimed to determine the neural adaptations in the control of lower leg muscles in response to passive ankle exoskeleton assistance during standing balance tasks with varying levels of difficulty. Lower limb kinematics and kinetics were recorded to assess changes in joint dynamics and balance performance. Neural drive to the muscles was assessed by decomposing high-density electromyography signals into motor unit spike trains. Ankle exoskeleton assistance, provided by a simple spring-loaded passive device, did not alter or improve balance performance and had minimal effects on lower limb kinematics. However, exoskeleton assistance affected triceps surae neural control, but only in the soleus, by reducing neural drive, while the gastrocnemii showed no detectable changes in neural control. Together, these results demonstrate that passive exoskeleton assistance alters neural control of the triceps surae in a muscle-specific manner during balance. Understanding muscle-specific adaptations can support more effective exoskeleton design and the development of their control strategies informed by myoelectrical signals.",
+   "doi": "10.1098/rsif.2025.1305",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42869466/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42791900",
