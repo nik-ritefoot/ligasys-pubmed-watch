@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T17:52:23+00:00",
+ "generated": "2026-10-16T17:40:58+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,34 +65,115 @@
   }
  ],
  "counts": {
-  "total": 88,
-  "new": 2,
+  "total": 87,
+  "new": 5,
   "research": 22,
-  "fieldnotes": 66
+  "fieldnotes": 65
  },
  "records": [
   {
-   "pmid": "42876540",
-   "title": "Biomechanical and movement-quality predictors of lower-limb load-related injury in collegiate athletes: a prospective cohort study using functional movement screening, wearable inertial sensing, and explainable machine learning.",
-   "journal": "Front Physiol",
+   "pmid": "42881724",
+   "title": "A Focused Narrative Review of Selected Evidence on Gymnastics Training Optimization, Technology, Athlete Health, and Injury Prevention.",
+   "journal": "Healthcare (Basel)",
    "year": "2026",
    "authors": [
-    "Xu X",
-    "Zhang J",
-    "Liao J"
+    "Zaharie N",
+    "Neagu SG",
+    "Badescu D",
+    "Grosu VT",
+    "et al."
    ],
-   "abstract": "Lower-limb load-related injuries account for a disproportionate share of time loss in collegiate sport, yet the biomechanical and movement-quality factors distinguishing injured from uninjured athletes remain incompletely characterized. This prospective cohort study followed 161 collegiate athletes for one competitive season, integrating Functional Movement Screen task-level scores with wearable inertial measurement unit-derived features - including peak tibial acceleration asymmetry, surrogate vertical loading rate, and pelvis-trunk stability indices - within an explainable machine learning framework. Four classifiers were compared across FMS-only, wearable-only, and fused configurations under nested five-fold cross-validation with embedded LASSO feature selection. Thirty-seven load-related time-loss injuries were recorded (23.0% incidence). The fused XGBoost model achieved an out-of-fold AUC of 0.70 (95% CI: 0.61-0.79), outperforming FMS-only (AUC 0.62) and wearable-only (AUC 0.64) configurations by statistically significant margins. Peak tibial acceleration asymmetry and surrogate loading rate on the non-dominant limb were the strongest biomechanical predictors; in-line lunge and active straight-leg raise task scores contributed most among FMS inputs. Biomechanical features added an independent AUC increment of 0.07 beyond previous-injury history. SHAP analysis identified an interaction between tibial impact asymmetry and in-line lunge score that met the pre-specified directional stability criterion. These findings establish a physiologically interpretable template for biomechanical phenotyping of injury risk, supporting the combined use of wearable sensing and task-level movement screening in collegiate athletic populations.",
-   "doi": "10.3389/fphys.2026.1920109",
+   "abstract": "Background: Sustainable gymnastics training requires a balance between performance development, injury prevention, workload management, athlete health, psychological well-being, and long-term participation. This focused narrative review aimed to synthesize selected evidence on training optimization, technological applications, athlete health and injury prevention in gymnastics. Methods: A structured narrative review was conducted using the Web of Science Core Collection. The literature search covered publications issued between 1 January 2005 and 30 September 2025, with the final search performed on 30 September 2025. English-language publications retrieved through three predefined Topic searches in the Web of Science Core Collection were considered. The searches covered the period from 1 January 2005 to 30 September 2025 and were restricted to the Sport Sciences category. No additional publications were identified through reference-list screening. Three complementary thematic searches addressing gymnastics training models, technological applications, and injury prevention identified 485 records. After applying the eligibility criteria, removing duplicates, assessing full texts, and excluding ineligible or retracted publications, 140 publications were included in the narrative synthesis. No formal risk-of-bias assessment was performed. Results: The reviewed evidence emphasized progressive and individualized training, workload monitoring, recovery, physical preparation, age-appropriate development, and early identification of pain, fatigue, and other health-related concerns. Injury occurrence was associated with biomechanical loading, rapid growth, training exposure, previous injuries, insufficient recovery, menstrual dysfunction, psychological factors, and discipline-specific technical demands. Wearable sensors, video analysis, biomechanical modelling, artificial intelligence, virtual reality, and digital learning platforms supported movement assessment, technical feedback, training monitoring, and education. Evidence for several emerging technological applications, particularly artificial intelligence and automated assessment, remains preliminary and requires further validation in gymnastics-specific and real-world settings. However, substantial differences in study designs, populations, technologies, outcome measures, and methodological characteristics limited direct comparison across studies. Coaching communication, athlete motivation, psychological well-being, and access to validated technologies also influenced the sustainability of gymnastics training. Conclusions: Sustainable gymnastics training may benefit from an interdisciplinary and athlete-centered approach integrating individualized load management, injury prevention, health monitoring, recovery, educational coaching practices, and appropriately validated technologies. The evidence identified in this review highlights converging themes suggesting the potential value of combining these components to support safe performance development and long-term participation. However, more longitudinal, discipline-specific, and methodologically consistent research is needed.",
+   "doi": "10.3390/healthcare14193285",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42876540/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42881724/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
-    },
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42885854",
+   "title": "Consumer Grade Wearable Sensor Metrics Are Associated with Internal Forces at Common Running Injury Locations.",
+   "journal": "Med Sci Sports Exerc",
+   "year": "2026",
+   "authors": [
+    "Davis Iv JJ",
+    "Meardon SA",
+    "Raglin JS",
+    "Brown AW",
+    "et al."
+   ],
+   "abstract": "Inexpensive consumer-grade wearable sensors have expanded possibilities to assess, monitor, or modify a runner's gait. However, it is unclear which sensor-measured gait metrics are strongly associated with internal loading at common injury locations. To measure the association between gait metrics measured by consumer-grade wearable sensors and internal forces at the Achilles tendon and the patellofemoral joint. 55 healthy runners wearing consumer-grade chest straps foot-pods completed a 38-minute run on an instrumented treadmill at 12 speeds from 70%-125% of self-reported typical running pace. A scaled musculoskeletal model derived from motion capture data and driven by static optimization was used to calculate Achilles tendon and patellofemoral joint forces during stance for each speed. Functional regression models were used to estimate the associations of each of nine sensor-measured gait metrics with internal forces across stance, after adjusting for body mass and running speed. At both the Achilles tendon and the patellofemoral joint, cadence, vertical oscillation, and vertical ratio (vertical oscillation divided by step length) showed the strongest associations with internal forces (maximum of 0.4-0.6 BW change in force per one standard deviation change in the gait metric). Other wearable sensor-measured gait metrics, including stance time, leg stiffness, and stance time percent showed weaker associations (<0.4 BW change in force per one standard deviation change in the gait metric). Runners with higher-than-average cadence, vertical oscillation, or vertical ratio values experience marked differences in internal forces at the Achilles tendon and patellofemoral joint. Of these gait metrics, cadence is the most practical for out-of-lab use because of its ease of accurate measurement with consumer-grade devices.",
+   "doi": "10.1249/MSS.0000000000004191",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42885854/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42884541",
+   "title": "Design and Bench Evaluation of a Sensor-Integrated Prosthetic-Leg Prototype.",
+   "journal": "Sensors (Basel)",
+   "year": "2026",
+   "authors": [
+    "Seitkassymov T",
+    "Nurgizat Y",
+    "Zhetenbayev N",
+    "Sultan A",
+    "et al."
+   ],
+   "abstract": "This study presents the design and preliminary bench evaluation of a sensor-integrated prosthetic-leg prototype. The platform combines a multi-material PAHT-CF/TPU 95A foot, articulated knee and ankle mechanisms, two surface electromyography channels, an MPU6050 inertial measurement unit, an Arduino Uno controller, and MG995 servomotors. EMG threshold crossings select discrete knee-servomotor commands, while an accelerometer-derived inclination estimate selects between two ankle-servomotor commands. The evaluation comprised exploratory finite-element analyses, separate static compression tests, and qualitative demonstrations of the sensor-to-actuator pathways. The foot model predicted a maximum displacement of 25.96 mm under 400 N, whereas a separate compression test recorded approximately 7 mm at 1000 N; these values do not constitute quantitative model validation because the loading, constraints, and displacement measures differed. The shank model produced a maximum equivalent stress of 23.89 MPa, and a separate shank-knee assembly test reached approximately 1.85 kN. The foot-ankle connection produced a stress estimate of 203.6 MPa against an assumed strength value of 60 MPa, identifying a critical design limitation. Functional observations demonstrated sensor-triggered command execution, but joint tracking accuracy, response time, actuator output under load, and control repeatability were not quantified. The prototype therefore provides an initial laboratory platform for investigating mechanical and sensing integration; structural redesign and quantitative bench testing are required before any load-bearing or clinical use can be considered.",
+   "doi": "10.3390/s26196341",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42884541/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42885454",
+   "title": "Ilizarov Circular Fixation for High-Velocity Firearm Injuries Causing High-Energy Tibial Fractures: A Prospective Cohort Study.",
+   "journal": "Acta Orthop Belg",
+   "year": "2026",
+   "authors": [
+    "Tawfeek A",
+    "Fayed MM",
+    "Elgebeily M",
+    "Ahmed AR"
+   ],
+   "abstract": "High-velocity gunshot tibial fractures present major reconstructive challenges owing to extensive contamination, soft-tissue devitalisation, and segmental bone loss that render early internal fixation hazardous. We aimed to document outcomes of a structured Ilizarov-based protocol for this injury type and describe a reproducible treatment framework for resource-constrained settings. Between January 2019 and December 2023, we prospectively enrolled 20 adult male patients with open tibial fractures from high-velocity firearm injuries at three Cairo trauma centres; all were treated definitively with an Ilizarov circular external fixator, with distraction osteogenesis and fibular autografting were employed selectively for segmental bone loss. The primary outcome was fracture union rate; secondary outcomes included fixation duration, surgical burden, and complications. Mean age was 29.7 \u00b1 8.4 years. Fourteen fractures (70%) were Gustilo-Anderson type IIIA and six (30%) type IIIB; bone defects were present in 50% after debridement. Union was achieved in 19 of 20 patients (95%), and the single non-union resolved after frame revision and supplementary grafting. Mean fixation duration was 12.3 \u00b1 7.28 months. Superficial pin-tract infection (Checketts-Otterburn Grade 1 or 2) occurred in 17 patients (85%) and deep surgical site infection in one (5%); ankle stiffness, axial malalignment, and limb length discrepancy each affected a minority of patients. structured Ilizarov protocol can reliably achieve union in Gustilo type III gunshot tibial fractures with an acceptable complication profile; these findings are descriptive and do not establish superiority over alternative fixation strategies but support the Ilizarov circular frame as a suitable option for high-grade contaminated injuries in resource-limited environments.",
+   "doi": "10.52628/92.3.15617",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42885454/",
+   "matched": [
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
@@ -103,31 +184,32 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42873647",
-   "title": "Side-Step Cutting Foot Biomechanics and Intrinsic Foot Muscle Sizes in People With Chronic Ankle Instability.",
-   "journal": "J Foot Ankle Res",
+   "pmid": "42882186",
+   "title": "Minimally Invasive Revision Surgery Combining Endoscopic Double-Row Reinsertion and Flexor Hallucis Longus Transfer for Insertional Achilles Tendon Re-Rupture in a Semi-Professional Rugby Player: A Case Report.",
+   "journal": "J Clin Med",
    "year": "2026",
    "authors": [
-    "Peters-Dickie JL",
-    "Detrembleur C",
-    "Lobet S",
-    "Deschamps K"
+    "Santos-Moreira A",
+    "Riou M",
+    "Wagner P",
+    "Lopes R"
    ],
-   "abstract": "Lateral ankle sprains commonly occur during directional changes and often lead to chronic ankle instability (CAI) associated with altered movement patterns, muscle weakness and atrophy. This study aimed to compare foot joint biomechanics during cutting among individuals with CAI, copers, and uninjured controls and to explore the relationship between intrinsic foot muscle sizes and functional status. Cross-sectional study. Sixty-nine recreationally active males (25.4\u00a0\u00b1\u00a04\u00a0years) were categorised by perceived instability and self-reported function. Ankle and foot joint kinematics and kinetics were assessed using a multi-segment foot model during 45\u00b0 side-step cutting at a mean approach speed of 3.5\u00a0m\u00b7s-1. Groups were compared using ANOVA or Kruskal-Wallis tests, and continuous biomechanical data were analysed using statistical parametric or non-parametric mapping. Cross-sectional area and thickness of the abductor hallucis and flexor digitorum brevis were recorded using ultrasound imaging. Muscle sizes were explored using general linear models, and correlations with questionnaire scores and physical examination outcomes were calculated. Foot joint kinematics and kinetics did not significantly differ between the groups. Individuals with CAI exhibited lower peak posterior ground reaction force than controls (mean difference: -6.2% of body weight, 95% CI: -11.9 to -0.4, p\u00a0=\u00a00.03). Statistical parametric mapping revealed lower posterior ground reaction forces from 22% to 46% of stance in CAI versus controls (p\u00a0<\u00a00.05). Intrinsic foot muscle sizes showed weak, statistically significant negative correlations with perceived instability scores (\u03c1\u00a0=\u00a0-0.31 to -0.36) and self-reported function scores (\u03c1\u00a0=\u00a0-0.26 to -0.33). Despite pronounced sensory-perceptual impairments, individuals with CAI demonstrated few differences in foot joint biomechanics compared with copers and controls during a moderate-speed anticipated cutting task. Reduced braking forces may reflect altered deceleration strategies. These findings suggest the importance of assessing deceleration abilities in people with CAI and indicate a potential role of foot muscles in CAI-related functional outcomes. ClinicalTrials.gov (NCT05815576).",
-   "doi": "10.1002/jfa2.70222",
+   "abstract": "Background/Objectives: Acute insertional Achilles tendon rupture (A-IATR) is a rare, often season-ending injury in athletes. Revision after a failed repair is particularly challenging, and return to sport (RTS) after such surgery is rarely documented. We report one such case. Methods: A 32-year-old semi-professional rugby prop forward sustained an insertional re-rupture eighteen months after open transosseous reinsertion without suture anchors. MRI showed complete detachment with 15 mm of retraction and no residual tendon on the footprint. A single-stage procedure combining endoscopic double-row (SpeedBridge\u2122) reinsertion and flexor hallucis longus (FHL) transfer was performed, followed by six weeks of non-weight-bearing cast immobilization and criteria-based rehabilitation, with Ankle-GO\u2122-guided return to play. Results: At three months, MRI showed tendon continuity without re-rupture. Return to play was authorized at 8.2 months (Ankle-GO\u2122 16/25); the patient returned to official competition at 9.4 months and was still competing approximately 17 months after surgery. At 15 months, the Achilles Tendon Total Rupture Score was 84 and the AOFAS score 90. No complication occurred. Conclusions: To our knowledge, this is the first report of RTS after this combined endoscopic revision technique. This single case suggests that this approach may be a feasible revision option in high-demand athletes; comparative studies are needed.",
+   "doi": "10.3390/jcm15197725",
    "pubtypes": [
+    "Case Reports",
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42873647/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42882186/",
    "matched": [
     {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
-   "bucket": "research"
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42771890",
@@ -181,34 +263,6 @@
      "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42742678",
-   "title": "Age-dependent injury mechanisms and injury patterns in pediatric window falls.",
-   "journal": "Eur J Trauma Emerg Surg",
-   "year": "2026",
-   "authors": [
-    "Badina A",
-    "Deygas A",
-    "Saliba I",
-    "Corbu A",
-    "et al."
-   ],
-   "abstract": "Pediatric defenestration is a high-energy trauma mechanism in which age influences injury patterns and clinical severity. While previous studies have focused primarily on epidemiology and mortality, detailed analyses of age-related injury distribution and surgical burden remain limited. This study aimed to characterize age-dependent injury patterns, neurological severity, and hospital resource utilization following pediatric window falls. We conducted a retrospective single-center cohort study including all children aged 0-18 years admitted for defenestration between 2008 and 2023. Demographic data, fall height, intentionality, injury distribution, Glasgow Coma Scale (GCS), fracture patterns, and number of surgical procedures were collected. Multivariable logistic regression identified predictors of severe neurological impairment (GCS\u2009\u2264\u20098), and Poisson regression assessed determinants of surgical burden. A total of 333 children were included. Age distribution was bimodal, with predominantly accidental falls in young children (median 4.6 years) and intentional falls in adolescents (median 13.7 years). Younger children more frequently sustained craniofacial injuries and presented with lower admission GCS values, whereas adolescents more often sustained combined lower limb and spinal injuries. Fall height correlated negatively with GCS (\u03c1 = -0.32) and positively with hospital length of stay. Independent predictors of GCS\u2009\u2264\u20098 were fall height (OR 1.41 per floor), traumatic brain injury (OR 46.6), and abdominal trauma (OR 2.59). Surgical burden was independently associated with lower limb fractures (IRR 1.86) and fall height (IRR 1.11 per floor). Pediatric window falls demonstrate distinct age-related injury profiles associated with neurological severity and orthopedic surgical burden. Recognition of these patterns may support age-adapted trauma assessment and multidisciplinary management strategies.",
-   "doi": "10.1007/s00068-026-03322-1",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42742678/",
-   "matched": [
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
@@ -433,6 +487,37 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42876540",
+   "title": "Biomechanical and movement-quality predictors of lower-limb load-related injury in collegiate athletes: a prospective cohort study using functional movement screening, wearable inertial sensing, and explainable machine learning.",
+   "journal": "Front Physiol",
+   "year": "2026",
+   "authors": [
+    "Xu X",
+    "Zhang J",
+    "Liao J"
+   ],
+   "abstract": "Lower-limb load-related injuries account for a disproportionate share of time loss in collegiate sport, yet the biomechanical and movement-quality factors distinguishing injured from uninjured athletes remain incompletely characterized. This prospective cohort study followed 161 collegiate athletes for one competitive season, integrating Functional Movement Screen task-level scores with wearable inertial measurement unit-derived features - including peak tibial acceleration asymmetry, surrogate vertical loading rate, and pelvis-trunk stability indices - within an explainable machine learning framework. Four classifiers were compared across FMS-only, wearable-only, and fused configurations under nested five-fold cross-validation with embedded LASSO feature selection. Thirty-seven load-related time-loss injuries were recorded (23.0% incidence). The fused XGBoost model achieved an out-of-fold AUC of 0.70 (95% CI: 0.61-0.79), outperforming FMS-only (AUC 0.62) and wearable-only (AUC 0.64) configurations by statistically significant margins. Peak tibial acceleration asymmetry and surrogate loading rate on the non-dominant limb were the strongest biomechanical predictors; in-line lunge and active straight-leg raise task scores contributed most among FMS inputs. Biomechanical features added an independent AUC increment of 0.07 beyond previous-injury history. SHAP analysis identified an interaction between tibial impact asymmetry and in-line lunge score that met the pre-specified directional stability criterion. These findings establish a physiologically interpretable template for biomechanical phenotyping of injury risk, supporting the combined use of wearable sensing and task-level movement screening in collegiate athletic populations.",
+   "doi": "10.3389/fphys.2026.1920109",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42876540/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -967,32 +1052,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42741095",
-   "title": "Electromyographic analysis of muscle activation and co-activation across smash phases in para-badminton: an exploratory investigation of neuromuscular coordination.",
-   "journal": "Front Bioeng Biotechnol",
-   "year": "2026",
-   "authors": [
-    "Abuwarda K",
-    "Alotaibi A",
-    "Akl AR"
-   ],
-   "abstract": "This study aimed to examine and compare muscle activation and co-activation across the backswing and forward swing phases of the para-badminton smash to improve understanding of phase-specific neuromuscular coordination that may inform future biomechanical and injury-related research. Nine elite para-badminton players were recruited for the study (body mass: 79.0 \u00b1 7.9\u00a0kg; height: 172.1 \u00b1 5.2\u00a0cm). Surface electromyography (sEMG) signals were recorded using a wireless EMG system, and data were collected from eight muscles (flexor carpi ulnaris, extensor carpi ulnaris, biceps brachii, triceps brachii, infraspinatus, latissimus dorsi, rectus abdominis, and erector spinae longissimus). The results indicated that the wrist (flexor carpi ulnaris and extensor carpi ulnaris) and elbow (biceps and triceps) muscles showed significantly greater activation during the forward swing (p < 0.01-0.001), with peak activity in the early-to-mid acceleration phase; however, only the wrist demonstrated a significant change in the co-activation index (CoI) (p < 0.001), while elbow agonist-antagonist balance remained stable. At the shoulder, the infraspinatus maintained consistent activation, whereas the latissimus dorsi was selectively recruited during the forward swing (p < 0.01), resulting in an increased CoI (p < 0.001). Similarly, trunk muscles exhibited phase-specific behavior, with stable erector spinae activity and significant rectus abdominis recruitment during the forward swing (p < 0.001), leading to elevated trunk CoI. Overall, these findings indicate coordinated, segment-specific modulation of activation and co-activation to support force generation and stabilization during the acceleration phase. Overall, the findings indicate that muscle co-activation is segment-specific and adapted to the mechanical demands of each joint within the kinetic chain. Imbalances such as excessive wrist co-activation or insufficient proximal stabilization may increase injury risk. Therefore, injury prevention in para-badminton should focus on optimizing wrist stability, maintaining elbow muscle balance, enhancing shoulder control, and improving trunk stability to support efficient force transfer and performance.",
-   "doi": "10.3389/fbioe.2026.1853282",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42741095/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42786832",
@@ -1669,34 +1728,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42743857",
-   "title": "More isn't always better: Higher exoskeleton torque does not consistently improve balance performance.",
-   "journal": "J Biomech",
-   "year": "2026",
-   "authors": [
-    "Kim JH",
-    "Rastogi R",
-    "Martino G",
-    "Beck ON",
-    "et al."
-   ],
-   "abstract": "Wearable exoskeletons are a promising tool for augmenting balance and reducing fall risk. Recent work suggests that active ankle exoskeletons need to act faster than the human to improve reactive balance control. However, the magnitude of exoskeleton torque that is best for improving reactive balance remains unknown. Drawing from the optimal torque for minimizing metabolic expenditure, we hypothesized that reactive balance would improve with increased exoskeleton torque. Participants wearing bilateral ankle exoskeletons were instructed to maintain standing balance during 15\u00a0cm backward support-surface perturbations. Three exoskeleton plantarflexion torque conditions were tested: NO (Off), LOW (15Nm), or HIGH (30Nm). LOW torque improved balance performance compared to NO torque (p\u00a0<\u00a00.001), with a 7\u00a0\u00b1\u00a03\u00a0% decrease in peak center of mass (CoM) displacement. Although HIGH torque caused a 9\u00a0\u00b1\u00a011\u00a0% decrease in peak CoM displacement compared to NO torque (p\u00a0=\u00a00.12), it was not significant due to high intersubject variability. Whereas LOW torque decreased peak CoM displacement in all (range: -0.2 to -1.6\u00a0cm), HIGH torque only decreased it in some (range:1.2 to -2.6\u00a0cm). Balance ability, quantified by the narrowing beam test, accounted for 37\u00a0% of the variance (R2\u00a0=\u00a00.37, Adjusted R2\u00a0=\u00a00.29) in the change in CoM displacement from LOW to HIGH torque (p\u00a0=\u00a00.06), while this relationship didn't meet conventional statistical significance, likely due to the small sample size, it suggests that higher levels of exoskeleton torque may hinder balance performance in individuals with better balance ability. Taken together, more exoskeleton torque is not always better for balance, highlighting a potential need to personalize exoskeleton torque for balance augmentation.",
-   "doi": "10.1016/j.jbiomech.2026.113574",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42743857/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42828435",
    "title": "Navicular fractures in elite athletes: Clarifying the evidence base of the 2025 International Foot and Ankle Sports Consensus.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -2142,59 +2173,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42739517",
-   "title": "Return to Sport and Return to Self-Reported Preinjury Level After Surgical Repair of Acute Achilles Tendon Rupture: A 2-Year Prospective Cohort Analysis.",
-   "journal": "J Clin Med",
-   "year": "2026",
-   "authors": [
-    "Guerot M",
-    "Khiami F",
-    "Valentin E",
-    "Grimaud O",
-    "et al."
-   ],
-   "abstract": "Background: Achilles tendon ruptures are among the most common sports injuries. The literature reports highly variable \"return to sport\" (RTS) rates depending on the study, as the definition of return to play is not consistent. Our purpose was to assess RTS and self-reported relative performance level after surgical management of acute Achilles tendon ruptures. Method: In this retrospective analysis of a prospective cohort, the RTS rate and the return to self-reported preinjury level (RTPIL) in patients treated surgically for acute Achilles tendon rupture between November 2020 and September 2023 with at least 2 years of follow-up were reported. The primary outcomes were the RTS and RTPIL rates at last follow-up. Secondary outcomes were Patient-Reported Outcome Measures (PROMS): Achilles Tendon Total Rupture Score (ATRS), Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI), Foot and Ankle Ability Measure (FAAM), Tegner Activity Scale (TAS) and the University of California and Los Angeles (UCLA) activity level rating scale. Data was collected preoperatively; at three, six, twelve, and twenty-four months postoperatively; and then every two months thereafter. Kaplan-Meier analysis was performed to measure time to RTS and RTPIL. Results: In the final analysis, 65 patients were included for analysis of RTS and RTPIL, and 69 for the PROMS. In total, 81.7% (58) were male, and the mean age was 40.6 years (SD 12.5). The RTS rate was 76.9%, and the RTPIL rate was 44.6%. The mean delay to RTS was 11.6 months (SD 7.6). The median time to RTS was approximately 14 months (95% CI, 10.0-18.0). The RTPIL rate continued to increase between the first and second years after surgery. At the last follow-up, the median ATRS was 89 with an interquartile range (IQR) of [77.0-95.0], ALR-RSI was 80 [62.5-95.0], FAAM activity was 91.7 [85.7-97.6], FAAM sport was 85.9 [68.8-96.9], TAS was 7 [5-7], and UCLA was 10 [9-10]. Median follow-up was 24.8 months. Conclusions: In conclusion, self-reporting of RTS and RTPIL yields low rates, and caution should be used in overly optimistic preoperative counselling. Level of evidence: IV.",
-   "doi": "10.3390/jcm15176512",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42739517/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42736933",
-   "title": "Running-Related Musculoskeletal Injuries in Saudi Arabia: Epidemiology, Biomechanical Determinants, and Global Comparative Insights.",
-   "journal": "Healthcare (Basel)",
-   "year": "2026",
-   "authors": [
-    "Aljohani MMA"
-   ],
-   "abstract": "Background/Objectives: Running is widely promoted for its health benefits, but it is also associated with a substantial burden of musculoskeletal injuries, particularly affecting the lower extremities. In Saudi Arabia, participation in recreational running has increased substantially in recent years. This review synthesizes global evidence on running-related musculoskeletal injuries and critically examines its applicability to the Saudi context, with emphasis on regional evidence gaps and research priorities. Methods: A narrative literature search of PubMed/MEDLINE and Scopus was conducted from database inception to August 2026 using predefined search concepts and eligibility criteria related to running, musculoskeletal injury, biomechanics, training load, and Saudi Arabia, with reporting guided by the SANRA criteria for narrative reviews. Results: Global evidence indicates that running-related injuries reflect complex interactions among training load, biomechanics, tissue capacity, and environmental factors. Injury prevalence and incidence vary considerably across studies because of methodological heterogeneity, although novice runners generally experience greater injury risk and the knee, lower leg, ankle, and foot are frequently affected. Saudi runner-specific evidence remains limited, with much of the available regional literature derived from cross-sectional, self-reported, or broader physically active populations. Conclusions: In Saudi Arabia, runner-specific injury data remain limited. Existing studies mainly concentrate on general physically active populations and lack standardized injury definitions, exposure-adjusted incidence measures, and prospective designs. Future research should prioritize prospective biomechanical surveillance using wearable sensor technology to capture real-world running mechanics and training loads.",
-   "doi": "10.3390/healthcare14172776",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42736933/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42849318",
    "title": "Sex- and age-specific normative values for lower-limb field tests in elite TeamGym gymnasts.",
    "journal": "Phys Ther Sport",
@@ -2251,6 +2229,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42873647",
+   "title": "Side-Step Cutting Foot Biomechanics and Intrinsic Foot Muscle Sizes in People With Chronic Ankle Instability.",
+   "journal": "J Foot Ankle Res",
+   "year": "2026",
+   "authors": [
+    "Peters-Dickie JL",
+    "Detrembleur C",
+    "Lobet S",
+    "Deschamps K"
+   ],
+   "abstract": "Lateral ankle sprains commonly occur during directional changes and often lead to chronic ankle instability (CAI) associated with altered movement patterns, muscle weakness and atrophy. This study aimed to compare foot joint biomechanics during cutting among individuals with CAI, copers, and uninjured controls and to explore the relationship between intrinsic foot muscle sizes and functional status. Cross-sectional study. Sixty-nine recreationally active males (25.4\u00a0\u00b1\u00a04\u00a0years) were categorised by perceived instability and self-reported function. Ankle and foot joint kinematics and kinetics were assessed using a multi-segment foot model during 45\u00b0 side-step cutting at a mean approach speed of 3.5\u00a0m\u00b7s-1. Groups were compared using ANOVA or Kruskal-Wallis tests, and continuous biomechanical data were analysed using statistical parametric or non-parametric mapping. Cross-sectional area and thickness of the abductor hallucis and flexor digitorum brevis were recorded using ultrasound imaging. Muscle sizes were explored using general linear models, and correlations with questionnaire scores and physical examination outcomes were calculated. Foot joint kinematics and kinetics did not significantly differ between the groups. Individuals with CAI exhibited lower peak posterior ground reaction force than controls (mean difference: -6.2% of body weight, 95% CI: -11.9 to -0.4, p\u00a0=\u00a00.03). Statistical parametric mapping revealed lower posterior ground reaction forces from 22% to 46% of stance in CAI versus controls (p\u00a0<\u00a00.05). Intrinsic foot muscle sizes showed weak, statistically significant negative correlations with perceived instability scores (\u03c1\u00a0=\u00a0-0.31 to -0.36) and self-reported function scores (\u03c1\u00a0=\u00a0-0.26 to -0.33). Despite pronounced sensory-perceptual impairments, individuals with CAI demonstrated few differences in foot joint biomechanics compared with copers and controls during a moderate-speed anticipated cutting task. Reduced braking forces may reflect altered deceleration strategies. These findings suggest the importance of assessing deceleration abilities in people with CAI and indicate a potential role of foot muscles in CAI-related functional outcomes. ClinicalTrials.gov (NCT05815576).",
+   "doi": "10.1002/jfa2.70222",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42873647/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42775945",
    "title": "Smartphone-Based Measurement of Cognition and Physical Function in Older Emergency Department Patients: A Feasibility Study.",
    "journal": "Acad Emerg Med",
@@ -2304,34 +2309,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42741435",
-   "title": "The Ankle-GO\u2122 score predicts return to sport after surgically treated unstable syndesmotic injuries.",
-   "journal": "J Exp Orthop",
-   "year": "2026",
-   "authors": [
-    "Corbu A",
-    "Lopes R",
-    "Valentin E",
-    "Andersen MR",
-    "et al."
-   ],
-   "abstract": "Objective return to sport (RTS) criteria following syndesmotic stabilization are limited. The purpose of this study was to explore the discriminative and predictive ability of the Ankle-GO\u2122 score for RTS status following syndesmotic stabilization. At 3 and 6 months postoperatively, 50 patients were assessed using the Ankle-GOTM score, which consists of four functional tests and two self-reported questionnaires. At 6 months, patients reported their RTS status using three possible responses: no RTS, RTS at a lower level or RTS at the same or a higher level than before injury. Responsiveness of Ankle-GOTM was calculated by comparing 3- and 6-month scores using the Wilcoxon signed-rank test for paired samples. Discriminant validity was calculated by comparing 6-month scores between patients according to their RTS status. Area under the receiver operating curve (AUC) and logistic regression with odds ratios (ORs) and 95% confidence intervals (CIs) were used to determine the ability of the 3-month Ankle-GOTM score to predict RTS status at 6 months. At 6 months, 80% of patients (40) RTS, with 58% of these (29 patients) at their pre-injury level. The median Ankle-GO\u2122 score increased significantly from 13 points (interquartile range [IQR], 10.0-16.0) at 3 months to 19 points (IQR, 16.0-22.0) at 6 months (p\u2009<\u20090.0001). The 3-month score showed excellent predictive ability of RTS status at 6 months (AUC\u2009=\u20090.93; 95% CI: 0.86-1.00). Patients scoring above 12 points are more likely to RTS (OR\u2009=\u200942.78, 95% CI: 2.33-785.93, p\u2009<\u20090.01). A score above 14 points predicted RTS to the preinjury level (AUC\u2009=\u20090.83, 95% CI: 0.73-0.94; OR\u2009=\u20099.44, 95% CI: 2.66-40.7, p\u2009<\u20090.01). The Ankle-GO\u2122 demonstrated promising discriminative and predictive ability for assessing RTS status after syndesmotic stabilization. Further studies are needed to confirm these results and the ability of this tool to identify patients who will suffer recurrence. Level II, prospective cohort study.",
-   "doi": "10.1002/jeo2.70907",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42741435/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42841515",

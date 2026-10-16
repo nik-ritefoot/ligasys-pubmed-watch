@@ -1,5 +1,128 @@
 [
  {
+  "pmid": "42881724",
+  "title": "A Focused Narrative Review of Selected Evidence on Gymnastics Training Optimization, Technology, Athlete Health, and Injury Prevention.",
+  "journal": "Healthcare (Basel)",
+  "year": "2026",
+  "authors": [
+   "Zaharie N",
+   "Neagu SG",
+   "Badescu D",
+   "Grosu VT",
+   "et al."
+  ],
+  "abstract": "Background: Sustainable gymnastics training requires a balance between performance development, injury prevention, workload management, athlete health, psychological well-being, and long-term participation. This focused narrative review aimed to synthesize selected evidence on training optimization, technological applications, athlete health and injury prevention in gymnastics. Methods: A structured narrative review was conducted using the Web of Science Core Collection. The literature search covered publications issued between 1 January 2005 and 30 September 2025, with the final search performed on 30 September 2025. English-language publications retrieved through three predefined Topic searches in the Web of Science Core Collection were considered. The searches covered the period from 1 January 2005 to 30 September 2025 and were restricted to the Sport Sciences category. No additional publications were identified through reference-list screening. Three complementary thematic searches addressing gymnastics training models, technological applications, and injury prevention identified 485 records. After applying the eligibility criteria, removing duplicates, assessing full texts, and excluding ineligible or retracted publications, 140 publications were included in the narrative synthesis. No formal risk-of-bias assessment was performed. Results: The reviewed evidence emphasized progressive and individualized training, workload monitoring, recovery, physical preparation, age-appropriate development, and early identification of pain, fatigue, and other health-related concerns. Injury occurrence was associated with biomechanical loading, rapid growth, training exposure, previous injuries, insufficient recovery, menstrual dysfunction, psychological factors, and discipline-specific technical demands. Wearable sensors, video analysis, biomechanical modelling, artificial intelligence, virtual reality, and digital learning platforms supported movement assessment, technical feedback, training monitoring, and education. Evidence for several emerging technological applications, particularly artificial intelligence and automated assessment, remains preliminary and requires further validation in gymnastics-specific and real-world settings. However, substantial differences in study designs, populations, technologies, outcome measures, and methodological characteristics limited direct comparison across studies. Coaching communication, athlete motivation, psychological well-being, and access to validated technologies also influenced the sustainability of gymnastics training. Conclusions: Sustainable gymnastics training may benefit from an interdisciplinary and athlete-centered approach integrating individualized load management, injury prevention, health monitoring, recovery, educational coaching practices, and appropriately validated technologies. The evidence identified in this review highlights converging themes suggesting the potential value of combining these components to support safe performance development and long-term participation. However, more longitudinal, discipline-specific, and methodologically consistent research is needed.",
+  "doi": "10.3390/healthcare14193285",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42881724/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-16T17:40:59Z"
+ },
+ {
+  "pmid": "42885854",
+  "title": "Consumer Grade Wearable Sensor Metrics Are Associated with Internal Forces at Common Running Injury Locations.",
+  "journal": "Med Sci Sports Exerc",
+  "year": "2026",
+  "authors": [
+   "Davis Iv JJ",
+   "Meardon SA",
+   "Raglin JS",
+   "Brown AW",
+   "et al."
+  ],
+  "abstract": "Inexpensive consumer-grade wearable sensors have expanded possibilities to assess, monitor, or modify a runner's gait. However, it is unclear which sensor-measured gait metrics are strongly associated with internal loading at common injury locations. To measure the association between gait metrics measured by consumer-grade wearable sensors and internal forces at the Achilles tendon and the patellofemoral joint. 55 healthy runners wearing consumer-grade chest straps foot-pods completed a 38-minute run on an instrumented treadmill at 12 speeds from 70%-125% of self-reported typical running pace. A scaled musculoskeletal model derived from motion capture data and driven by static optimization was used to calculate Achilles tendon and patellofemoral joint forces during stance for each speed. Functional regression models were used to estimate the associations of each of nine sensor-measured gait metrics with internal forces across stance, after adjusting for body mass and running speed. At both the Achilles tendon and the patellofemoral joint, cadence, vertical oscillation, and vertical ratio (vertical oscillation divided by step length) showed the strongest associations with internal forces (maximum of 0.4-0.6 BW change in force per one standard deviation change in the gait metric). Other wearable sensor-measured gait metrics, including stance time, leg stiffness, and stance time percent showed weaker associations (<0.4 BW change in force per one standard deviation change in the gait metric). Runners with higher-than-average cadence, vertical oscillation, or vertical ratio values experience marked differences in internal forces at the Achilles tendon and patellofemoral joint. Of these gait metrics, cadence is the most practical for out-of-lab use because of its ease of accurate measurement with consumer-grade devices.",
+  "doi": "10.1249/MSS.0000000000004191",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885854/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-16T17:40:59Z"
+ },
+ {
+  "pmid": "42884541",
+  "title": "Design and Bench Evaluation of a Sensor-Integrated Prosthetic-Leg Prototype.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Seitkassymov T",
+   "Nurgizat Y",
+   "Zhetenbayev N",
+   "Sultan A",
+   "et al."
+  ],
+  "abstract": "This study presents the design and preliminary bench evaluation of a sensor-integrated prosthetic-leg prototype. The platform combines a multi-material PAHT-CF/TPU 95A foot, articulated knee and ankle mechanisms, two surface electromyography channels, an MPU6050 inertial measurement unit, an Arduino Uno controller, and MG995 servomotors. EMG threshold crossings select discrete knee-servomotor commands, while an accelerometer-derived inclination estimate selects between two ankle-servomotor commands. The evaluation comprised exploratory finite-element analyses, separate static compression tests, and qualitative demonstrations of the sensor-to-actuator pathways. The foot model predicted a maximum displacement of 25.96 mm under 400 N, whereas a separate compression test recorded approximately 7 mm at 1000 N; these values do not constitute quantitative model validation because the loading, constraints, and displacement measures differed. The shank model produced a maximum equivalent stress of 23.89 MPa, and a separate shank-knee assembly test reached approximately 1.85 kN. The foot-ankle connection produced a stress estimate of 203.6 MPa against an assumed strength value of 60 MPa, identifying a critical design limitation. Functional observations demonstrated sensor-triggered command execution, but joint tracking accuracy, response time, actuator output under load, and control repeatability were not quantified. The prototype therefore provides an initial laboratory platform for investigating mechanical and sensing integration; structural redesign and quantitative bench testing are required before any load-bearing or clinical use can be considered.",
+  "doi": "10.3390/s26196341",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42884541/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-16T17:40:59Z"
+ },
+ {
+  "pmid": "42885454",
+  "title": "Ilizarov Circular Fixation for High-Velocity Firearm Injuries Causing High-Energy Tibial Fractures: A Prospective Cohort Study.",
+  "journal": "Acta Orthop Belg",
+  "year": "2026",
+  "authors": [
+   "Tawfeek A",
+   "Fayed MM",
+   "Elgebeily M",
+   "Ahmed AR"
+  ],
+  "abstract": "High-velocity gunshot tibial fractures present major reconstructive challenges owing to extensive contamination, soft-tissue devitalisation, and segmental bone loss that render early internal fixation hazardous. We aimed to document outcomes of a structured Ilizarov-based protocol for this injury type and describe a reproducible treatment framework for resource-constrained settings. Between January 2019 and December 2023, we prospectively enrolled 20 adult male patients with open tibial fractures from high-velocity firearm injuries at three Cairo trauma centres; all were treated definitively with an Ilizarov circular external fixator, with distraction osteogenesis and fibular autografting were employed selectively for segmental bone loss. The primary outcome was fracture union rate; secondary outcomes included fixation duration, surgical burden, and complications. Mean age was 29.7 \u00b1 8.4 years. Fourteen fractures (70%) were Gustilo-Anderson type IIIA and six (30%) type IIIB; bone defects were present in 50% after debridement. Union was achieved in 19 of 20 patients (95%), and the single non-union resolved after frame revision and supplementary grafting. Mean fixation duration was 12.3 \u00b1 7.28 months. Superficial pin-tract infection (Checketts-Otterburn Grade 1 or 2) occurred in 17 patients (85%) and deep surgical site infection in one (5%); ankle stiffness, axial malalignment, and limb length discrepancy each affected a minority of patients. structured Ilizarov protocol can reliably achieve union in Gustilo type III gunshot tibial fractures with an acceptable complication profile; these findings are descriptive and do not establish superiority over alternative fixation strategies but support the Ilizarov circular frame as a suitable option for high-grade contaminated injuries in resource-limited environments.",
+  "doi": "10.52628/92.3.15617",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42885454/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-16T17:40:59Z"
+ },
+ {
+  "pmid": "42882186",
+  "title": "Minimally Invasive Revision Surgery Combining Endoscopic Double-Row Reinsertion and Flexor Hallucis Longus Transfer for Insertional Achilles Tendon Re-Rupture in a Semi-Professional Rugby Player: A Case Report.",
+  "journal": "J Clin Med",
+  "year": "2026",
+  "authors": [
+   "Santos-Moreira A",
+   "Riou M",
+   "Wagner P",
+   "Lopes R"
+  ],
+  "abstract": "Background/Objectives: Acute insertional Achilles tendon rupture (A-IATR) is a rare, often season-ending injury in athletes. Revision after a failed repair is particularly challenging, and return to sport (RTS) after such surgery is rarely documented. We report one such case. Methods: A 32-year-old semi-professional rugby prop forward sustained an insertional re-rupture eighteen months after open transosseous reinsertion without suture anchors. MRI showed complete detachment with 15 mm of retraction and no residual tendon on the footprint. A single-stage procedure combining endoscopic double-row (SpeedBridge\u2122) reinsertion and flexor hallucis longus (FHL) transfer was performed, followed by six weeks of non-weight-bearing cast immobilization and criteria-based rehabilitation, with Ankle-GO\u2122-guided return to play. Results: At three months, MRI showed tendon continuity without re-rupture. Return to play was authorized at 8.2 months (Ankle-GO\u2122 16/25); the patient returned to official competition at 9.4 months and was still competing approximately 17 months after surgery. At 15 months, the Achilles Tendon Total Rupture Score was 84 and the AOFAS score 90. No complication occurred. Conclusions: To our knowledge, this is the first report of RTS after this combined endoscopic revision technique. This single case suggests that this approach may be a feasible revision option in high-demand athletes; comparative studies are needed.",
+  "doi": "10.3390/jcm15197725",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42882186/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-16T17:40:59Z"
+ },
+ {
   "pmid": "42876540",
   "title": "Biomechanical and movement-quality predictors of lower-limb load-related injury in collegiate athletes: a prospective cohort study using functional movement screening, wearable inertial sensing, and explainable machine learning.",
   "journal": "Front Physiol",
