@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-10-16T17:40:59Z</updated>
+  <updated>2026-10-17T16:38:11Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Calf Injuries: Anatomy, Pathology, and Treatment.</title>
+    <id>urn:pmid:42886539</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42886539/" rel="alternate"/>
+    <updated>2026-10-17T16:38:11Z</updated>
+    <published>2026-10-17T16:38:11Z</published>
+    <author><name>Hauer TM</name></author><author><name>Arner JW</name></author><author><name>Mauro CS</name></author><author><name>Bradley JP</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Hauer TM, Arner JW, Mauro CS, Bradley JP · J Am Acad Orthop Surg · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Calf injuries are common in athletes and typically result in missed time from sport and activities of daily living. The three individual triceps surae muscles can be injured, with differing described mechanisms. Gastrocnemius or plantaris strains tend to occur during sudden explosive movement of the ankle from a dorsiflexed to a plantarflexed position with the knee in extension. Soleus strains typically occur from repetitive dorsiflexion of the ankle with the knee flexed. Imaging modalities such as magnetic resonance imaging and ultrasonography can be helpful in determining the location and grade of injury, which can aid in treatment and return to play timelines. Classically, these injuries have been graded as grade I, II, or III, with grade I having &amp;lt;10% muscle fiber disruption, grade II having &amp;gt;10 to 50% muscle fiber disruption, and grade III having 50 to 100% muscle fiber disruption. The mainstay of treatment for most calf strains is nonsurgical, with surgical management being rare but reported in the literature for isolated grade III ruptures of the medial head of the gastrocnemius. Return to sport and activities requires a graduated physical therapy program focused on restoring tissue length without excessive strain. Recent limited evidence has shown promising results with quicker return to activities and decreased pain with platelet-rich plasma injections.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.5435/JAAOS-D-25-01090&quot;&gt;10.5435/JAAOS-D-25-01090&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42886539/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>A Focused Narrative Review of Selected Evidence on Gymnastics Training Optimization, Technology, Athlete Health, and Injury Prevention.</title>
     <id>urn:pmid:42881724</id>

@@ -1,5 +1,29 @@
 [
  {
+  "pmid": "42886539",
+  "title": "Calf Injuries: Anatomy, Pathology, and Treatment.",
+  "journal": "J Am Acad Orthop Surg",
+  "year": "2026",
+  "authors": [
+   "Hauer TM",
+   "Arner JW",
+   "Mauro CS",
+   "Bradley JP"
+  ],
+  "abstract": "Calf injuries are common in athletes and typically result in missed time from sport and activities of daily living. The three individual triceps surae muscles can be injured, with differing described mechanisms. Gastrocnemius or plantaris strains tend to occur during sudden explosive movement of the ankle from a dorsiflexed to a plantarflexed position with the knee in extension. Soleus strains typically occur from repetitive dorsiflexion of the ankle with the knee flexed. Imaging modalities such as magnetic resonance imaging and ultrasonography can be helpful in determining the location and grade of injury, which can aid in treatment and return to play timelines. Classically, these injuries have been graded as grade I, II, or III, with grade I having <10% muscle fiber disruption, grade II having >10 to 50% muscle fiber disruption, and grade III having 50 to 100% muscle fiber disruption. The mainstay of treatment for most calf strains is nonsurgical, with surgical management being rare but reported in the literature for isolated grade III ruptures of the medial head of the gastrocnemius. Return to sport and activities requires a graduated physical therapy program focused on restoring tissue length without excessive strain. Recent limited evidence has shown promising results with quicker return to activities and decreased pain with platelet-rich plasma injections.",
+  "doi": "10.5435/JAAOS-D-25-01090",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886539/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-17T16:38:11Z"
+ },
+ {
   "pmid": "42881724",
   "title": "A Focused Narrative Review of Selected Evidence on Gymnastics Training Optimization, Technology, Athlete Health, and Injury Prevention.",
   "journal": "Healthcare (Basel)",
