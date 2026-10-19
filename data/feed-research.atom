@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-10-18T16:51:30Z</updated>
+  <updated>2026-10-19T19:27:39Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Association of Ankle Joint Moment and Ankle Joint Velocity With 60° Ipsilateral Change-of-Direction Performance.</title>
+    <id>urn:pmid:42895340</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42895340/" rel="alternate"/>
+    <updated>2026-10-19T19:27:39Z</updated>
+    <published>2026-10-19T19:27:39Z</published>
+    <author><name>Chen CH</name></author><author><name>Yeh M</name></author><author><name>Liu C</name></author><author><name>Tseng YJ</name></author><author><name>et al.</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Chen CH, Yeh M, Liu C, Tseng YJ, et al. · J Strength Cond Res · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Chen, C-H, Yeh, M-C, Liu, C, Tseng, Y-J, and Lu, S-T. Association of ankle joint moment and ankle joint velocity with 60° ipsilateral change-of-direction performance. J Strength Cond Res XX(X): 000-000, 2026-The rapid acceleration and deceleration associated with a change of direction (COD) is associated with high ankle loading, including high ankle moment and velocity, which have been linked to ankle sprain or chronic ankle instability. Although the correlations between ankle joint loading and contralateral COD (contra-COD) have been investigated, one study reported that ipsilateral COD (ipsi-COD) and contra-COD involve distinct, asymmetrical mechanisms. Therefore, the aim of this study is to evaluate the associations of ankle joint moment and ankle joint velocity with 60° ipsi-COD performance. Thirty-five male athletes of recreational team sports performed an ipsi-COD task with their nondominant leg. A three-dimensional motion-capture system and a force platform were used to collect biomechanical data. Ground contact time was negatively associated with plantarflexion moment (r = -0.511) and inversion moment (r = -0.424). By contrast, horizontal impulse was positively correlated with plantarflexion moment (r = 0.407). No correlation was observed between ground contact time and ground reaction force. The moderate negative correlations of ground contact time with plantarflexion moment and inversion moment suggest that increasing ipsi-COD performance may result in high ankle moments and potentially excessive ankle loading. In addition, the absence of a correlation between ground contact time and GRF suggests that athletes consider focusing on converting their approaching velocity to the intended direction during ipsi-COD, as this study indicates that ground reaction force and impulse are not associated with ipsi-COD performance.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1519/JSC.0000000000005683&quot;&gt;10.1519/JSC.0000000000005683&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42895340/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Side-Step Cutting Foot Biomechanics and Intrinsic Foot Muscle Sizes in People With Chronic Ankle Instability.</title>
     <id>urn:pmid:42873647</id>
