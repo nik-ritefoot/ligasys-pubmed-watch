@@ -1,5 +1,26 @@
 [
  {
+  "pmid": "42895619",
+  "title": "Extracorporeal shockwave therapy in common tendinopathies.",
+  "journal": "Wien Med Wochenschr",
+  "year": "2026",
+  "authors": [
+   "Ringeisen MT"
+  ],
+  "abstract": "Extracorporeal shockwave therapy (ESWT) was initially used for urologic issues only. After Valchanou and Michailov started applying it in orthopedics in 1991, they focused on treatment of pseudarthrosis and delayed fracture healing. Some years later, shockwave therapy was also used for tendinopathies. Today, ESWT is the first-choice treatment for tendinopathies and is unsurpassed in terms of effectivity and side effects. This article discusses common regions of lower extremity tendinopathies (greater trochanter pain syndrome, quadriceps tendinopathy, patellar tendinopathy, Achilles tendinopathy) in a\u00a0narrative review of the evidence-based literature and guidelines of leading shockwave societies such as the International Society for Medical Shockwave Treatment (ISMST) and the Deutschsprachige internationale Gesellschaft f\u00fcr Extrakorporale Stosswellentherapie (DIGEST). Additional case studies are also presented. Extracorporeal shockwave therapy shows excellent results in the evidence-based literature and in clinical application. No other conservative treatment option in orthopedics is described as intensively in the evidence-based literature as shockwave therapy. ESWT seems to be more effective when it is accompanied by an eccentric loading/physiotherapy program. Extracorporeal shockwave therapy enables tendon regeneration, long-term improvement, and faster return to sport, with predictable side effects and excellent tolerance.",
+  "doi": "10.1007/s10354-026-01197-w",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42895619/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-20T18:06:02Z"
+ },
+ {
   "pmid": "42895340",
   "title": "Association of Ankle Joint Moment and Ankle Joint Velocity With 60\u00b0 Ipsilateral Change-of-Direction Performance.",
   "journal": "J Strength Cond Res",
