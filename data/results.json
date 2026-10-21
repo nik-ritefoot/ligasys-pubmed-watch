@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T18:06:01+00:00",
+ "generated": "2026-10-21T18:14:38+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,31 +65,57 @@
   }
  ],
  "counts": {
-  "total": 92,
-  "new": 1,
-  "research": 22,
-  "fieldnotes": 70
+  "total": 93,
+  "new": 2,
+  "research": 21,
+  "fieldnotes": 72
  },
  "records": [
   {
-   "pmid": "42895619",
-   "title": "Extracorporeal shockwave therapy in common tendinopathies.",
-   "journal": "Wien Med Wochenschr",
+   "pmid": "42899203",
+   "title": "Nonoperative Management of an Acute Complete Achilles Tendon Rupture With Mesenchymal Stem Cells and Extracellular Vesicles: A Case Report.",
+   "journal": "Cureus",
    "year": "2026",
    "authors": [
-    "Ringeisen MT"
+    "Ortiz A",
+    "Diaz C"
    ],
-   "abstract": "Extracorporeal shockwave therapy (ESWT) was initially used for urologic issues only. After Valchanou and Michailov started applying it in orthopedics in 1991, they focused on treatment of pseudarthrosis and delayed fracture healing. Some years later, shockwave therapy was also used for tendinopathies. Today, ESWT is the first-choice treatment for tendinopathies and is unsurpassed in terms of effectivity and side effects. This article discusses common regions of lower extremity tendinopathies (greater trochanter pain syndrome, quadriceps tendinopathy, patellar tendinopathy, Achilles tendinopathy) in a\u00a0narrative review of the evidence-based literature and guidelines of leading shockwave societies such as the International Society for Medical Shockwave Treatment (ISMST) and the Deutschsprachige internationale Gesellschaft f\u00fcr Extrakorporale Stosswellentherapie (DIGEST). Additional case studies are also presented. Extracorporeal shockwave therapy shows excellent results in the evidence-based literature and in clinical application. No other conservative treatment option in orthopedics is described as intensively in the evidence-based literature as shockwave therapy. ESWT seems to be more effective when it is accompanied by an eccentric loading/physiotherapy program. Extracorporeal shockwave therapy enables tendon regeneration, long-term improvement, and faster return to sport, with predictable side effects and excellent tolerance.",
-   "doi": "10.1007/s10354-026-01197-w",
+   "abstract": "An acute complete rupture of the Achilles tendon with a large intertendinous gap is conventionally regarded as a surgical indication, yet operative repair carries a significant burden on wound-healing and potential for neurovascular complications, whereas nonoperative care may be limited by re-rupture and incomplete functional recovery. Human umbilical cord-derived mesenchymal stem/stromal cells (hUC-MSCs) and their secreted extracellular vesicles (EVs) exert immunomodulatory, pro-angiogenic and pro-tenogenic paracrine effects that could support tendon healing. A healthy 45-year-old recreationally active male sustained an acute complete rupture of the right Achilles tendon while playing tennis. A 3.0-T magnetic resonance imaging (MRI) confirmed a full-thickness mid-substance rupture located 6.1 cm proximal to the calcaneal insertion, with a 3.7 cm gap. He delayed treatment and opted out of surgical management and was offered nonoperative care with a combined biologic regimen: two ultrasound-guided intralesional injections of hUC-MSC-derived EVs (a total of 30 \u00d7 10\u2079 vesicles) deposited into the tendon gap, both stumps, and the peritendon along with three consecutive daily intravenous (IV) infusions of hUC-MSCs (approximately 1.7 \u00d7 10\u2076 cells/kg of total body weight) as a paracrine priming adjuvant, alongside an injury-guided functional rehabilitation program.\u00a0 Pain measured using the numeric rating scale (NRS) decreased from 10/10 at baseline to 0/10 at six months post-intervention. At final follow-up (approx 14 months) the patient had returned to regular weight training and jogging without pain or functional limitations. On physical examination, the Thompson Test was negative, the Achilles Tendon Total Rupture Score (ATRS) and the American Orthopaedic Foot & Ankle Society (AOFAS) ankle-hindfoot scores were both calculated as 100/100, and instrumented biomechanical testing showed near-symmetric lower-limb range of motion and balance. Follow-up MRI demonstrated a remodeled tendon with restoration of continuity and no residual gap. No mild or severe adverse events were reported during or after procedures. In this\u00a0single case report, a combined regimen of systemic\u00a0hUC-MSCs and intralesional\u00a0hUC-MSC-derived EVs was associated with imaging-confirmed tendon healing and full functional recovery of an acute complete Achilles tendon rupture managed nonoperatively. This treatment protocol serves as a hypothesis-generating observation\u00a0with potential for validation in controlled prospective studies.",
+   "doi": "10.7759/cureus.118122",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Case Reports",
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42895619/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42899203/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42900973",
+   "title": "Towards understanding the ankle torque conundrum in isokinetic dynamometry: mechanical validation of dynamometer torque measurements under quasi-static actuator loading.",
+   "journal": "J Biomech",
+   "year": "2026",
+   "authors": [
+    "Ghezzi G",
+    "Kulmala JP"
+   ],
+   "abstract": "Isokinetic dynamometers (IKD) are widely used to measure passive and active torque generated at the joints, but active ankle plantarflexor torques measured with IKD are substantially lower than those derived from inverse dynamics (ID) for reasons that remain unclear. We conducted mechanical testing to investigate whether this discrepancy reflects intrinsic mechanical error in IKD measurement. A linear actuator-force plate setup was used to calculate torques via ID and compare them with IKD (Con-Trex) torques measured with ankle pedal attachment under four conditions that varied the vertical and lateral distances between the point of force application on the pedal and the IKD axis. Bland-Altman analysis showed small systematic bias across testing conditions (-2.97 to 2.30 Nm), but a significant proportional bias in all configurations (p\u202f<\u202f0.001): IKD underestimated torque by\u202f\u223c\u202f3 Nm at levels relevant to maximal plantarflexor effort and overestimated torque by 1-3 Nm at levels relevant to passive torque measurement. Reducing the lateral distance of force application by 4.5\u202fcm reduced the external force required to produce the same IKD torque by 9% and substantially reduced off-axis torque. These findings indicate that mechanical bias alone is unlikely to explain the large IKD-ID discrepancy previously reported for human maximal plantarflexor torque, although it may be relevant for passive torque measurement. The greater off-axis loading observed with a larger lateral force-application distance may affect torque transmission within the dynamometer. Whether off-axis loading, mechanical compliance, or other factors contribute to the IKD-ID discrepancy during human testing remains to be determined.",
+   "doi": "10.1016/j.jbiomech.2026.113632",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42900973/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -1252,6 +1278,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42895619",
+   "title": "Extracorporeal shockwave therapy in common tendinopathies.",
+   "journal": "Wien Med Wochenschr",
+   "year": "2026",
+   "authors": [
+    "Ringeisen MT"
+   ],
+   "abstract": "Extracorporeal shockwave therapy (ESWT) was initially used for urologic issues only. After Valchanou and Michailov started applying it in orthopedics in 1991, they focused on treatment of pseudarthrosis and delayed fracture healing. Some years later, shockwave therapy was also used for tendinopathies. Today, ESWT is the first-choice treatment for tendinopathies and is unsurpassed in terms of effectivity and side effects. This article discusses common regions of lower extremity tendinopathies (greater trochanter pain syndrome, quadriceps tendinopathy, patellar tendinopathy, Achilles tendinopathy) in a\u00a0narrative review of the evidence-based literature and guidelines of leading shockwave societies such as the International Society for Medical Shockwave Treatment (ISMST) and the Deutschsprachige internationale Gesellschaft f\u00fcr Extrakorporale Stosswellentherapie (DIGEST). Additional case studies are also presented. Extracorporeal shockwave therapy shows excellent results in the evidence-based literature and in clinical application. No other conservative treatment option in orthopedics is described as intensively in the evidence-based literature as shockwave therapy. ESWT seems to be more effective when it is accompanied by an eccentric loading/physiotherapy program. Extracorporeal shockwave therapy enables tendon regeneration, long-term improvement, and faster return to sport, with predictable side effects and excellent tolerance.",
+   "doi": "10.1007/s10354-026-01197-w",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42895619/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42821993",
    "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
    "journal": "JMIR Form Res",
@@ -1920,34 +1971,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42763403",
-   "title": "Optimized anterior anatomical fusion plate for ankle arthrodesis: biomechanical and clinical outcomes.",
-   "journal": "BMC Musculoskelet Disord",
-   "year": "2026",
-   "authors": [
-    "Liu Y",
-    "Ruan Y",
-    "Jiang Z",
-    "Hu S",
-    "et al."
-   ],
-   "abstract": "Ankle osteoarthritis (OA) is a common degenerative joint disorder that often necessitates ankle arthrodesis. Conventional fusion methods may offer limited fixation stability and require extensive soft-tissue exposure. The goal of this study was to evaluate the biomechanical properties of a geometrically optimized anterior anatomical fusion plate (AAFP) for ankle arthrodesis, which has been designed to enhance mechanical performance and minimize surgical trauma. This study developed a finite element model of the ankle based on CT scans of a healthy male volunteer. Various fusion models were created, incorporating the optimized AAFP with or without transarticular screw, anterolateral fusion plate (ALFP) with or without transarticular screw, and configurations using three or two screws. The biomechanical performance of these systems was assessed by analyzing peak displacement of the fusion surface and peak von Mises stress of implants and bone-implant models under seven common ankle postures. Additionally, the preliminary feasibility of the optimized AAFP was assessed by analyzing the American Orthopaedic Foot & Ankle Society (AOFAS) scores and X-ray images. The optimized AAFP with transarticular screw fixation exhibited great stability, with peak displacement of 0.14\u00a0mm in neutral position, 0.19\u00a0mm in dorsiflexion, 0.07\u00a0mm in plantar flexion, 0.09\u00a0mm in internal rotation, 0.07\u00a0mm in external rotation, 0.10\u00a0mm in inversion, and 0.12\u00a0mm in eversion. The peak stress of the fusion method was relatively low, with 132.91\u00a0MPa in neutral position, 145.83\u00a0MPa in dorsiflexion, 97.15\u00a0MPa in plantar flexion, 84.27\u00a0MPa in internal rotation, 74.70\u00a0MPa in external rotation, 98.07\u00a0MPa in inversion, and 88.00\u00a0MPa in eversion. The transarticular screw enhanced biomechanical stability of the optimized AAFP in ankle fusion by reducing stress and displacement. Clinically, the optimized AAFP showed satisfactory short-term outcomes, with improvements in the AOFAS scores (from 53 to 83, 57 to 82, 51 to 84 and 57 to 83) and imaging results. These findings suggest that the geometrically optimized AAFP combines a smaller incision with favorable biomechanical performance and warrants further clinical evaluation as a potential option for ankle fusion.",
-   "doi": "10.1186/s12891-026-10287-0",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42763403/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42840850",

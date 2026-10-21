@@ -1,5 +1,49 @@
 [
  {
+  "pmid": "42899203",
+  "title": "Nonoperative Management of an Acute Complete Achilles Tendon Rupture With Mesenchymal Stem Cells and Extracellular Vesicles: A Case Report.",
+  "journal": "Cureus",
+  "year": "2026",
+  "authors": [
+   "Ortiz A",
+   "Diaz C"
+  ],
+  "abstract": "An acute complete rupture of the Achilles tendon with a large intertendinous gap is conventionally regarded as a surgical indication, yet operative repair carries a significant burden on wound-healing and potential for neurovascular complications, whereas nonoperative care may be limited by re-rupture and incomplete functional recovery. Human umbilical cord-derived mesenchymal stem/stromal cells (hUC-MSCs) and their secreted extracellular vesicles (EVs) exert immunomodulatory, pro-angiogenic and pro-tenogenic paracrine effects that could support tendon healing. A healthy 45-year-old recreationally active male sustained an acute complete rupture of the right Achilles tendon while playing tennis. A 3.0-T magnetic resonance imaging (MRI) confirmed a full-thickness mid-substance rupture located 6.1 cm proximal to the calcaneal insertion, with a 3.7 cm gap. He delayed treatment and opted out of surgical management and was offered nonoperative care with a combined biologic regimen: two ultrasound-guided intralesional injections of hUC-MSC-derived EVs (a total of 30 \u00d7 10\u2079 vesicles) deposited into the tendon gap, both stumps, and the peritendon along with three consecutive daily intravenous (IV) infusions of hUC-MSCs (approximately 1.7 \u00d7 10\u2076 cells/kg of total body weight) as a paracrine priming adjuvant, alongside an injury-guided functional rehabilitation program.\u00a0 Pain measured using the numeric rating scale (NRS) decreased from 10/10 at baseline to 0/10 at six months post-intervention. At final follow-up (approx 14 months) the patient had returned to regular weight training and jogging without pain or functional limitations. On physical examination, the Thompson Test was negative, the Achilles Tendon Total Rupture Score (ATRS) and the American Orthopaedic Foot & Ankle Society (AOFAS) ankle-hindfoot scores were both calculated as 100/100, and instrumented biomechanical testing showed near-symmetric lower-limb range of motion and balance. Follow-up MRI demonstrated a remodeled tendon with restoration of continuity and no residual gap. No mild or severe adverse events were reported during or after procedures. In this\u00a0single case report, a combined regimen of systemic\u00a0hUC-MSCs and intralesional\u00a0hUC-MSC-derived EVs was associated with imaging-confirmed tendon healing and full functional recovery of an acute complete Achilles tendon rupture managed nonoperatively. This treatment protocol serves as a hypothesis-generating observation\u00a0with potential for validation in controlled prospective studies.",
+  "doi": "10.7759/cureus.118122",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42899203/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-21T18:14:38Z"
+ },
+ {
+  "pmid": "42900973",
+  "title": "Towards understanding the ankle torque conundrum in isokinetic dynamometry: mechanical validation of dynamometer torque measurements under quasi-static actuator loading.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Ghezzi G",
+   "Kulmala JP"
+  ],
+  "abstract": "Isokinetic dynamometers (IKD) are widely used to measure passive and active torque generated at the joints, but active ankle plantarflexor torques measured with IKD are substantially lower than those derived from inverse dynamics (ID) for reasons that remain unclear. We conducted mechanical testing to investigate whether this discrepancy reflects intrinsic mechanical error in IKD measurement. A linear actuator-force plate setup was used to calculate torques via ID and compare them with IKD (Con-Trex) torques measured with ankle pedal attachment under four conditions that varied the vertical and lateral distances between the point of force application on the pedal and the IKD axis. Bland-Altman analysis showed small systematic bias across testing conditions (-2.97 to 2.30 Nm), but a significant proportional bias in all configurations (p\u202f<\u202f0.001): IKD underestimated torque by\u202f\u223c\u202f3 Nm at levels relevant to maximal plantarflexor effort and overestimated torque by 1-3 Nm at levels relevant to passive torque measurement. Reducing the lateral distance of force application by 4.5\u202fcm reduced the external force required to produce the same IKD torque by 9% and substantially reduced off-axis torque. These findings indicate that mechanical bias alone is unlikely to explain the large IKD-ID discrepancy previously reported for human maximal plantarflexor torque, although it may be relevant for passive torque measurement. The greater off-axis loading observed with a larger lateral force-application distance may affect torque transmission within the dynamometer. Whether off-axis loading, mechanical compliance, or other factors contribute to the IKD-ID discrepancy during human testing remains to be determined.",
+  "doi": "10.1016/j.jbiomech.2026.113632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42900973/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-21T18:14:38Z"
+ },
+ {
   "pmid": "42895619",
   "title": "Extracorporeal shockwave therapy in common tendinopathies.",
   "journal": "Wien Med Wochenschr",
