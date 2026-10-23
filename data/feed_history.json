@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42909112",
+  "title": "Building smarter surveillance: a framework for artificial intelligence-enabled monitoring of overuse injuries in youth sports.",
+  "journal": "Front Public Health",
+  "year": "2026",
+  "authors": [
+   "Mayolo P",
+   "Blashinsky ZA",
+   "Wahl J",
+   "Bouterse A",
+   "et al."
+  ],
+  "abstract": "Early sport specialization (ESS), defined as intensive, year-round training in a single sport at the exclusion of others, has become increasingly prevalent among youth athletes. This trend has coincided with a rise in overuse injuries, and premature attrition. Concurrently, advances in wearable sensors and artificial intelligence (AI) enable real-time quantification of training load, biomechanical deviations, and recovery. However, a translational gap remains: existing AI surveillance models are predominantly validated in elite adult male cohorts, leaving youth athletes underserved. To address this gap, we propose a translational four-pillar framework for ESS-aware AI injury monitoring in youth sport. Bridging technological capabilities with developmental physiology through structured AI surveillance provides a structured risk-monitoring roadmap with the potential to inform preventative strategies, optimize physical readiness, and support long-term musculoskeletal health in youth athletes.",
+  "doi": "10.3389/fpubh.2026.1966293",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42909112/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-23T17:57:11Z"
+ },
+ {
   "pmid": "42899203",
   "title": "Nonoperative Management of an Acute Complete Achilles Tendon Rupture With Mesenchymal Stem Cells and Extracellular Vesicles: A Case Report.",
   "journal": "Cureus",
