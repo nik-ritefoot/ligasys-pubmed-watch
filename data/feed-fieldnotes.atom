@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Field Notes)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-fieldnotes.atom" rel="self"/>
-  <updated>2026-10-23T17:57:11Z</updated>
+  <updated>2026-10-24T16:55:28Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Suture Augmentation May Facilitate Earlier Return to Sport Without Improving Return Rates or Clinical Outcomes Following Modified Broström Repair: A Systematic Review and Meta-Analysis.</title>
+    <id>urn:pmid:42910640</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42910640/" rel="alternate"/>
+    <updated>2026-10-24T16:55:28Z</updated>
+    <published>2026-10-24T16:55:28Z</published>
+    <author><name>Rubin J</name></author><author><name>Alzobi O</name></author><author><name>Hedbany D</name></author><author><name>Tham A</name></author><author><name>et al.</name></author>
+    <category term="return-to-play" label="Return-to-play &amp; reinjury risk"/><category term="bucket:fieldnotes"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Rubin J, Alzobi O, Hedbany D, Tham A, et al. · Foot Ankle Spec · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;BackgroundSuture augmentation has been introduced to enhance stability and accelerate rehabilitation following modified Broström repair for chronic lateral ankle instability, however, its clinical value remains uncertain.MethodsPubMed, Embase, and Cochrane Library databases were systematically searched according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Outcomes included patient demographics, radiographic parameters, clinical outcomes, return to sport (RTS), complications, failures, and revisions. Meta-analyses comparing augmented and non-augmented repairs were performed.ResultsSixteen studies were included, with 672 patients undergoing anterior talofibular ligament (ATFL) repair with suture augmentation, and 315 patients without suture augmentation. Both cohorts demonstrated significant improvements in radiographic and clinical outcomes. Suture augmentation demonstrated a faster RTS (13.0 vs 19.6 weeks) but a lower overall RTS rate (74.0% vs 82.9%). There was no statistically significant difference in complications (risk ratio [RR] = 0.86, 95% confidence interval [CI], 0.30-2.47) or failures (RR = 0.65, 95% CI, 0.25-1.65). Open suture augmentation demonstrated a higher reported complication (6.9% vs 0%) and failure rate (3.1% vs 0.8%) compared with arthroscopic augmentation.ConclusionThis systematic review and meta-analysis did not demonstrate clinically meaningful differences in radiographic parameters, patient-reported outcomes, complications, or failure rates between isolated modified Broström repair and suture-augmented repair. Although suture augmentation was associated with a faster RTS, this did not translate into higher overall RTS rates, indicating that earlier return does not equate to improved functional recovery. Arthroscopic techniques may demonstrate lower complication rates than open approaches, however, this observation should be interpreted with caution given the limited and non-comparative evidence base.Level of Evidence:IV, systematic review and meta-analysis.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1177/19386400261495186&quot;&gt;10.1177/19386400261495186&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42910640/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Building smarter surveillance: a framework for artificial intelligence-enabled monitoring of overuse injuries in youth sports.</title>
     <id>urn:pmid:42909112</id>

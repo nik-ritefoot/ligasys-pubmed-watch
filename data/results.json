@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:57:11+00:00",
+ "generated": "2026-10-24T16:55:28+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,35 +65,121 @@
   }
  ],
  "counts": {
-  "total": 86,
-  "new": 1,
-  "research": 14,
-  "fieldnotes": 72
+  "total": 87,
+  "new": 4,
+  "research": 17,
+  "fieldnotes": 70
  },
  "records": [
   {
-   "pmid": "42909112",
-   "title": "Building smarter surveillance: a framework for artificial intelligence-enabled monitoring of overuse injuries in youth sports.",
-   "journal": "Front Public Health",
+   "pmid": "42918848",
+   "title": "[Posttraumatic ankle arthrofibrosis : Diagnosis, prevention and treatment].",
+   "journal": "Unfallchirurgie (Heidelb)",
    "year": "2026",
    "authors": [
-    "Mayolo P",
-    "Blashinsky ZA",
-    "Wahl J",
-    "Bouterse A",
+    "Al-Qaysi B",
+    "Winter P",
+    "Landgraeber S",
+    "Wagener J",
     "et al."
    ],
-   "abstract": "Early sport specialization (ESS), defined as intensive, year-round training in a single sport at the exclusion of others, has become increasingly prevalent among youth athletes. This trend has coincided with a rise in overuse injuries, and premature attrition. Concurrently, advances in wearable sensors and artificial intelligence (AI) enable real-time quantification of training load, biomechanical deviations, and recovery. However, a translational gap remains: existing AI surveillance models are predominantly validated in elite adult male cohorts, leaving youth athletes underserved. To address this gap, we propose a translational four-pillar framework for ESS-aware AI injury monitoring in youth sport. Bridging technological capabilities with developmental physiology through structured AI surveillance provides a structured risk-monitoring roadmap with the potential to inform preventative strategies, optimize physical readiness, and support long-term musculoskeletal health in youth athletes.",
-   "doi": "10.3389/fpubh.2026.1966293",
+   "abstract": "Posttraumatic arthrofibrosis is a\u00a0rare cause of painful motion loss after injury or surgery, with limited available evidence. Posttraumatic arthrofibrosis is characterized by painful, progressive stiffness with more than 30% loss of motion and no major radiographic abnormality. Reported rates range from 2% to 10% after ankle injuries to up to 73% after surgically treated fractures, while ankle-specific data on risk factors remain limited. The pathogenesis appears to involve transforming growth factor (TGF)-\u03b2, interleukin (IL)-1, and hypoxia-mediated capsular fibrosis. Arthrography remains the diagnostic gold standard according to the Goldman criteria. Magnetic resonance imaging may show capsular thickening \u2265\u202f3\u202fmm and stage-dependent signal changes. First-line treatment comprises physiotherapy, mobilization, and dynamic or static progressive orthoses. A mean 17\u00b0 gain in total range of motion was reported with static progressive orthoses. In refractory stiffness, arthroscopic capsular release may be beneficial, with improvement of the American Orthopaedic Foot and Ankle Society (AOFAS) score from 63.8 to 88.6, dorsiflexion from 1 to 19\u00b0, and acceptable motion in more than 80% of patients. Posttraumatic arthrofibrosis of the ankle is rare, underdiagnosed, and treatable. Early recognition and stepwise conservative treatment, followed by arthroscopic capsular release, may restore function. The evidence is based mainly on small level\u00a0IV studies. Prospective studies are required.",
+   "doi": "10.1007/s00113-026-01774-z",
+   "pubtypes": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42918848/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42914108",
+   "title": "Auditory Biofeedback Gait Training in Individuals With Chronic Ankle Instability: Protocol for a Randomized Controlled Trial.",
+   "journal": "JMIR Res Protoc",
+   "year": "2026",
+   "authors": [
+    "Torp DM",
+    "Choi JY",
+    "Edison A",
+    "Hoch M",
+    "et al."
+   ],
+   "abstract": "Chronic ankle instability (CAI) develops in a large majority of patients with lateral ankle sprain (LAS), who often experience recurring injuries, residual feelings of instability, and abnormal neuromuscular patterns. Specifically, gait alterations are common in those with CAI and considered a contributing factor to poor long-term ankle joint health. Yet, there are no evidence-based gait-training protocols targeted to improve biomechanics, which may improve long-term outcomes related to ankle joint health and patient satisfaction. This study protocol introduces a progressive auditory biofeedback (ABF) gait-training program aimed to improve short- and long-term lower extremity biomechanics and talar cartilage outcomes and reduce the frequency of ankle-giving-way episodes and recurring injuries. This study is a multisite randomized controlled trial (RCT) with a target enrollment of 100 patients with CAI into a control group (n=50, 50%) or an ABF gait-training program (n=50, 50%). Both groups will complete a progressive 6-week (12-session) protocol comprising walking, ruck marching, and running on a treadmill. Lower extremity kinematics and kinetics, talar cartilage characteristics (via ultrasonography), self-perceived dysfunction and instability, and number of recurring sprains will be assessed prior to intervention, immediately after intervention, and 6 and 12 months postintervention. Finally, the frequency of ankle-giving-way episodes in the 6 months prior to intervention will be compared to the frequency of episodes at the 6- and 12-month time points to determine a longitudinal difference in ankle-giving-way episodes. The study was funded in September 2024 and prospectively registered through ClinicalTrials.gov on March 10, 2025. The first participant was enrolled in May 2025. As of August 2026, 118 individuals had been recruited and 19 participants enrolled. Recruitment will remain open until September 2027, and study completion is expected in September 2028. Data processing is projected to continue through September 2028, with the final report published in June 2029. This study will be the first RCT of ABF gait training to assess the immediate and long-term effects on lower extremity biomechanics, ankle joint health, and patient-reported outcomes in patients with CAI. Results from this study will advance the knowledge of long-term joint health that may be associated with poor outcomes post-LAS. ClinicalTrials.gov NCT06868316; https://clinicaltrials.gov/study/NCT06868316. DERR1-10.2196/107775.",
+   "doi": "10.2196/107775",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42914108/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42914580",
+   "title": "Pain-stratified differences in lower-limb mechanics and neuromuscular activation during single-leg drop landing in male athletes with chronic ankle instability.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Wang Z",
+    "Zheng W",
+    "Zhou Z",
+    "Wang X"
+   ],
+   "abstract": "To compare mechanical and neuromuscular strategies between high- and low-pain subgroups of male athletes with chronic ankle instability (CAI) during single-leg drop landing. Cross-sectional study. Biomechanics laboratory. Eighty-four male Tier 2-3 athletes, stratified into high-pain CAI (n\u202f=\u202f28), low-pain CAI (n\u202f=\u202f28), and healthy control (n\u202f=\u202f28) groups. Lower-limb kinematics, impact loading, joint moments, eccentric work and energy contributions, surface electromyographic root mean square amplitude, and co-contraction index. Significant group effects were observed for kinematic outcomes (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.384), joint kinetics and energetics (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.561), and neuromuscular outcomes (p\u202f=\u202f0.005-0.017; \u03b7p2\u202f=\u202f0.096-0.124). The high-pain CAI group exhibited lower ankle plantarflexor moment than both comparison groups (both p\u202f<\u202f0.001; d\u202f=\u202f1.192-1.210), lower ankle eccentric work (p\u202f\u2264\u202f0.001; d\u202f=\u202f1.030-1.853), lower ankle energy contribution (p\u202f\u2264\u202f0.002; d\u202f=\u202f0.983-2.133), and greater knee energy contribution (both p\u202f<\u202f0.001; d\u202f=\u202f1.209-1.818). The low-pain CAI group exhibited less hip flexion and greater ankle plantarflexion at initial contact and greater ankle dorsiflexion range of motion (p\u202f\u2264\u202f0.024; d\u202f=\u202f0.736-1.398). The high-pain CAI group showed greater tibialis anterior activation than the low-pain group (p\u202f=\u202f0.004; d\u202f=\u202f0.903) and greater rectus femoris-biceps femoris co-contraction than controls (p\u202f=\u202f0.045; d\u202f=\u202f0.672). External impact-loading measures did not differ among groups (p\u202f=\u202f0.114-0.265; \u03b7p2\u202f=\u202f0.032-0.058). Pain-defined CAI subgroups differed in interjoint load sharing and selected neuromuscular measures despite comparable external impact loading.",
+   "doi": "10.1016/j.ptsp.2026.102003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42914580/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42910640",
+   "title": "Suture Augmentation May Facilitate Earlier Return to Sport Without Improving Return Rates or Clinical Outcomes Following Modified Brostr\u00f6m Repair: A Systematic Review and Meta-Analysis.",
+   "journal": "Foot Ankle Spec",
+   "year": "2026",
+   "authors": [
+    "Rubin J",
+    "Alzobi O",
+    "Hedbany D",
+    "Tham A",
+    "et al."
+   ],
+   "abstract": "BackgroundSuture augmentation has been introduced to enhance stability and accelerate rehabilitation following modified Brostr\u00f6m repair for chronic lateral ankle instability, however, its clinical value remains uncertain.MethodsPubMed, Embase, and Cochrane Library databases were systematically searched according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Outcomes included patient demographics, radiographic parameters, clinical outcomes, return to sport (RTS), complications, failures, and revisions. Meta-analyses comparing augmented and non-augmented repairs were performed.ResultsSixteen studies were included, with 672 patients undergoing anterior talofibular ligament (ATFL) repair with suture augmentation, and 315 patients without suture augmentation. Both cohorts demonstrated significant improvements in radiographic and clinical outcomes. Suture augmentation demonstrated a faster RTS (13.0 vs 19.6\u2009weeks) but a lower overall RTS rate (74.0% vs 82.9%). There was no statistically significant difference in complications (risk ratio [RR]\u2009=\u20090.86, 95% confidence interval [CI], 0.30-2.47) or failures (RR\u2009=\u20090.65, 95% CI, 0.25-1.65). Open suture augmentation demonstrated a higher reported complication (6.9% vs 0%) and failure rate (3.1% vs 0.8%) compared with arthroscopic augmentation.ConclusionThis systematic review and meta-analysis did not demonstrate clinically meaningful differences in radiographic parameters, patient-reported outcomes, complications, or failure rates between isolated modified Brostr\u00f6m repair and suture-augmented repair. Although suture augmentation was associated with a faster RTS, this did not translate into higher overall RTS rates, indicating that earlier return does not equate to improved functional recovery. Arthroscopic techniques may demonstrate lower complication rates than open approaches, however, this observation should be interpreted with caution given the limited and non-comparative evidence base.Level of Evidence:IV, systematic review and meta-analysis.",
+   "doi": "10.1177/19386400261495186",
    "pubtypes": [
     "Journal Article",
     "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42909112/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42910640/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -280,34 +366,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42776815",
-   "title": "Autologous Bone Grafting for the Treatment of Osteochondral Lesion of the Talus: A Systematic Review and Meta-Analysis.",
-   "journal": "J Am Podiatr Med Assoc",
-   "year": "2026",
-   "authors": [
-    "Law KHK",
-    "Koh JH",
-    "Seow D"
-   ],
-   "abstract": "Treatment of osteochondral lesions of the talus (OLTs) with bone grafting is an alternative option to osteochondral transplantation for larger OLTs. The purpose of this study is to evaluate treatment of OLTs with bone grafting with continuous functional outcome scores, return-to-play data, and meta-analyses of overall complication rates after bone graft treatment for OLT lesions as reported and best- and worst-case scenarios. A systematic review was conducted based on PRISMA guidelines using specific search terms on the PubMed, Embase and Cochrane Library databases. Level and quality of evidence were evaluated by The Journal of Bone & Joint Surgery and the Modified Coleman Methodology Score, respectively. Meta-analysis by fixed-effects models was performed if heterogeneity was low (I2 < 25%) and by random-effects models if heterogeneity was moderate to high (I2 > 25%). Eleven studies were included in this systematic review. The Mean American Orthopaedic Foot and Ankle Society score was 56.0 \u00b1 10.1 (range 40.3-67.3) preoperatively to 88.7 \u00b1 5.7 (range 80.8-95.0) points postoperatively. The mean 10 mm-VAS pain score was 6.5 \u00b1 0.89 (range 5.6-7.7) preoperatively to 1.7 \u00b1 1.1 (range 0.4-3.7) postoperatively. The overall pooled complication rate was 3.82% (95% CI: 0.05-10.92). Limited debilitating complications were noted in these studies, with one case of deep vein thrombosis noted. Autologous bone grafting offered satisfactory outcomes for pain relief, with notable improvement of functional outcomes scores. This review proposed that autologous bone grafting should be considered as the first line of treatment for lesion sizes >150 mm2. Studies with longer follow-ups are desirable to determine the longevity of bone grafting and evaluate the durability of bone grafting for larger OLT lesions.",
-   "doi": "10.3390/japma116050058",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Meta-Analysis"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42776815/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42789776",
    "title": "Balance Wood, a Bilateral Ankle-Controlled Serious Game for Healthy Adults: 2-Stage Cross-Sectional Development and Usability Study.",
    "journal": "JMIR Serious Games",
@@ -470,6 +528,35 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42909112",
+   "title": "Building smarter surveillance: a framework for artificial intelligence-enabled monitoring of overuse injuries in youth sports.",
+   "journal": "Front Public Health",
+   "year": "2026",
+   "authors": [
+    "Mayolo P",
+    "Blashinsky ZA",
+    "Wahl J",
+    "Bouterse A",
+    "et al."
+   ],
+   "abstract": "Early sport specialization (ESS), defined as intensive, year-round training in a single sport at the exclusion of others, has become increasingly prevalent among youth athletes. This trend has coincided with a rise in overuse injuries, and premature attrition. Concurrently, advances in wearable sensors and artificial intelligence (AI) enable real-time quantification of training load, biomechanical deviations, and recovery. However, a translational gap remains: existing AI surveillance models are predominantly validated in elite adult male cohorts, leaving youth athletes underserved. To address this gap, we propose a translational four-pillar framework for ESS-aware AI injury monitoring in youth sport. Bridging technological capabilities with developmental physiology through structured AI surveillance provides a structured risk-monitoring roadmap with the potential to inform preventative strategies, optimize physical readiness, and support long-term musculoskeletal health in youth athletes.",
+   "doi": "10.3389/fpubh.2026.1966293",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42909112/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42886539",
@@ -1309,33 +1396,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42773482",
-   "title": "How are biomechanical and psychosocial factors associated with injuries across one season in Swedish elite and sub-elite female soccer players?",
-   "journal": "BMC Sports Sci Med Rehabil",
-   "year": "2026",
-   "authors": [
-    "Ressman J",
-    "von Rosen P",
-    "Rasmussen-Barr E",
-    "Grooten WJA"
-   ],
-   "abstract": "Soccer is a high-intensity contact sport, and the patterns and burden of injuries can vary based on age, sex, and player level. To better understand injury occurrence, it is important to identify biopsychosocial factors that are associated with injuries. Our study aimed to investigate whether various biomechanical and psychosocial factors associate with time-loss injuries and reported injury problems in the dominant and non-dominant leg across one season in elite and sub-elite female soccer players. This prospective study followed 244 elite and sub-elite female soccer players (22 years, SD\u2009\u00b1\u20094) from divisions 1-3 over one season. Data on investigated factors were collected at baseline, while injury data were collected every four weeks. Negative binomial regression analyses were used to examine associations between the investigated factors and injury outcomes. For time-loss injuries involving the dominant leg, higher levels of hip strength were associated with a lower injury incidence in players aged 16-19 years (IRR\u2009=\u20090.95, 95% CI 0.92-0.98), while this association was not observed in the older age groups. Higher levels of fear avoidance were associated with a higher injury incidence (IRR\u2009=\u20091.08, 95% CI 1.03-1.14). For the non-dominant leg, playing in division 2 was associated with a higher injury incidence (IRR\u2009=\u20092.75, 95% CI 1.23-6.16) compared with division 1. Greater ankle dorsiflexion was associated with a lower injury incidence (IRR\u2009=\u20090.91, 95% CI 0.84-0.99), and higher levels of hip strength were associated with a lower injury incidence (IRR\u2009=\u20090.98, 95% CI 0.96-0.99). Regarding injury problems, higher levels of fear avoidance were associated with a higher rate of reported injury problem observations for both the dominant (IRR\u2009=\u20091.04, 95% CI 1.02-1.07) and non-dominant leg (IRR\u2009=\u20091.04, 95% CI 1.02-1.06). Biomechanical factors, including hip strength, and psychosocial factors such as fear-avoidance behaviour were associated with time-loss injuries and reported injury problems in female elite and sub-elite soccer players. The separate leg-specific analyses showed different patterns of associations in the dominant and non-dominant leg. Given the relatively small effect sizes, the findings should be considered hypothesis-generating and their clinical relevance requires further investigation. Retrospectively registered in Clinical Trials Gov, date of registration 13/03/2022. Clinical trials identifier NCT05289284.",
-   "doi": "10.1186/s13102-026-02084-y",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42773482/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -2258,35 +2318,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42775945",
-   "title": "Smartphone-Based Measurement of Cognition and Physical Function in Older Emergency Department Patients: A Feasibility Study.",
-   "journal": "Acad Emerg Med",
-   "year": "2026",
-   "authors": [
-    "Hartman CA",
-    "Leroux A",
-    "Merchant RC",
-    "Roberts S",
-    "et al."
-   ],
-   "abstract": "Falls are a leading cause of emergency department (ED) visits among older adults and represent a critical opportunity to identify cognitive and functional impairments that influence treatment and recovery. While smartphone- and wearable-based assessments are increasingly used to assess cognitive and physical function in older adults, their feasibility in the ED setting, particularly after a fall, remains unclear. From August 2021 to January 2024, community-dwelling older ED patients (\u2265\u200965\u2009years) were screened for cognitive impairment (six-item screener) and functional limitations (modified Barthel Index, mobility equipment). Apple ResearchKit digital assessments measured cognition (Stroop, Trail Making, reaction time) and physical function (gait/balance, timed walk). Wearable devices monitored movement. Feasibility was examined via attempt and completion rates. Reasons for non-attempt/non-completion and associations with patient characteristics were explored. Among 196 patients (mean age 78.2\u2009\u00b1\u20097.6\u2009years, 68% women), 77% attempted at least one digital assessment. Cognitive tests had moderate-to-high completion rates (68%-87%) among those who attempted, and completion was associated with lack of cognitive impairment (p =\u20090.002, 0.002, 0.01, for Stroop, Trail Making, and reaction time tests, respectively). Non-completion was due most often to lack of glasses, not feeling well, or technology issues. Physical function tests had much lower completion rates (18%-20%), and completion was associated with functional status (Barthel Index; p =\u20090.02, 0.01 for gait and balance and timed walk tests) and mobility equipment use (p =\u20090.02, 0.03). Low completion rates were mainly due to safety concerns, pain, and injury. Digital assessment of cognitive function is feasible in most older adults presenting to the ED for falls, but physical function tests had low feasibility in this population. Future research will explore whether such data predict clinically relevant outcomes (e.g., time to injury recovery, ED revisits) and can inform personalized intervention (e.g., physical therapy referrals, skilled nursing facility placement). Clinical Trial Number: NCT04304495.",
-   "doi": "10.1111/acem.70408",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42775945/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42841515",

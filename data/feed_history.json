@@ -1,5 +1,104 @@
 [
  {
+  "pmid": "42918848",
+  "title": "[Posttraumatic ankle arthrofibrosis : Diagnosis, prevention and treatment].",
+  "journal": "Unfallchirurgie (Heidelb)",
+  "year": "2026",
+  "authors": [
+   "Al-Qaysi B",
+   "Winter P",
+   "Landgraeber S",
+   "Wagener J",
+   "et al."
+  ],
+  "abstract": "Posttraumatic arthrofibrosis is a\u00a0rare cause of painful motion loss after injury or surgery, with limited available evidence. Posttraumatic arthrofibrosis is characterized by painful, progressive stiffness with more than 30% loss of motion and no major radiographic abnormality. Reported rates range from 2% to 10% after ankle injuries to up to 73% after surgically treated fractures, while ankle-specific data on risk factors remain limited. The pathogenesis appears to involve transforming growth factor (TGF)-\u03b2, interleukin (IL)-1, and hypoxia-mediated capsular fibrosis. Arthrography remains the diagnostic gold standard according to the Goldman criteria. Magnetic resonance imaging may show capsular thickening \u2265\u202f3\u202fmm and stage-dependent signal changes. First-line treatment comprises physiotherapy, mobilization, and dynamic or static progressive orthoses. A mean 17\u00b0 gain in total range of motion was reported with static progressive orthoses. In refractory stiffness, arthroscopic capsular release may be beneficial, with improvement of the American Orthopaedic Foot and Ankle Society (AOFAS) score from 63.8 to 88.6, dorsiflexion from 1 to 19\u00b0, and acceptable motion in more than 80% of patients. Posttraumatic arthrofibrosis of the ankle is rare, underdiagnosed, and treatable. Early recognition and stepwise conservative treatment, followed by arthroscopic capsular release, may restore function. The evidence is based mainly on small level\u00a0IV studies. Prospective studies are required.",
+  "doi": "10.1007/s00113-026-01774-z",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918848/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-24T16:55:28Z"
+ },
+ {
+  "pmid": "42914108",
+  "title": "Auditory Biofeedback Gait Training in Individuals With Chronic Ankle Instability: Protocol for a Randomized Controlled Trial.",
+  "journal": "JMIR Res Protoc",
+  "year": "2026",
+  "authors": [
+   "Torp DM",
+   "Choi JY",
+   "Edison A",
+   "Hoch M",
+   "et al."
+  ],
+  "abstract": "Chronic ankle instability (CAI) develops in a large majority of patients with lateral ankle sprain (LAS), who often experience recurring injuries, residual feelings of instability, and abnormal neuromuscular patterns. Specifically, gait alterations are common in those with CAI and considered a contributing factor to poor long-term ankle joint health. Yet, there are no evidence-based gait-training protocols targeted to improve biomechanics, which may improve long-term outcomes related to ankle joint health and patient satisfaction. This study protocol introduces a progressive auditory biofeedback (ABF) gait-training program aimed to improve short- and long-term lower extremity biomechanics and talar cartilage outcomes and reduce the frequency of ankle-giving-way episodes and recurring injuries. This study is a multisite randomized controlled trial (RCT) with a target enrollment of 100 patients with CAI into a control group (n=50, 50%) or an ABF gait-training program (n=50, 50%). Both groups will complete a progressive 6-week (12-session) protocol comprising walking, ruck marching, and running on a treadmill. Lower extremity kinematics and kinetics, talar cartilage characteristics (via ultrasonography), self-perceived dysfunction and instability, and number of recurring sprains will be assessed prior to intervention, immediately after intervention, and 6 and 12 months postintervention. Finally, the frequency of ankle-giving-way episodes in the 6 months prior to intervention will be compared to the frequency of episodes at the 6- and 12-month time points to determine a longitudinal difference in ankle-giving-way episodes. The study was funded in September 2024 and prospectively registered through ClinicalTrials.gov on March 10, 2025. The first participant was enrolled in May 2025. As of August 2026, 118 individuals had been recruited and 19 participants enrolled. Recruitment will remain open until September 2027, and study completion is expected in September 2028. Data processing is projected to continue through September 2028, with the final report published in June 2029. This study will be the first RCT of ABF gait training to assess the immediate and long-term effects on lower extremity biomechanics, ankle joint health, and patient-reported outcomes in patients with CAI. Results from this study will advance the knowledge of long-term joint health that may be associated with poor outcomes post-LAS. ClinicalTrials.gov NCT06868316; https://clinicaltrials.gov/study/NCT06868316. DERR1-10.2196/107775.",
+  "doi": "10.2196/107775",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42914108/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-24T16:55:28Z"
+ },
+ {
+  "pmid": "42914580",
+  "title": "Pain-stratified differences in lower-limb mechanics and neuromuscular activation during single-leg drop landing in male athletes with chronic ankle instability.",
+  "journal": "Phys Ther Sport",
+  "year": "2026",
+  "authors": [
+   "Wang Z",
+   "Zheng W",
+   "Zhou Z",
+   "Wang X"
+  ],
+  "abstract": "To compare mechanical and neuromuscular strategies between high- and low-pain subgroups of male athletes with chronic ankle instability (CAI) during single-leg drop landing. Cross-sectional study. Biomechanics laboratory. Eighty-four male Tier 2-3 athletes, stratified into high-pain CAI (n\u202f=\u202f28), low-pain CAI (n\u202f=\u202f28), and healthy control (n\u202f=\u202f28) groups. Lower-limb kinematics, impact loading, joint moments, eccentric work and energy contributions, surface electromyographic root mean square amplitude, and co-contraction index. Significant group effects were observed for kinematic outcomes (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.384), joint kinetics and energetics (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.561), and neuromuscular outcomes (p\u202f=\u202f0.005-0.017; \u03b7p2\u202f=\u202f0.096-0.124). The high-pain CAI group exhibited lower ankle plantarflexor moment than both comparison groups (both p\u202f<\u202f0.001; d\u202f=\u202f1.192-1.210), lower ankle eccentric work (p\u202f\u2264\u202f0.001; d\u202f=\u202f1.030-1.853), lower ankle energy contribution (p\u202f\u2264\u202f0.002; d\u202f=\u202f0.983-2.133), and greater knee energy contribution (both p\u202f<\u202f0.001; d\u202f=\u202f1.209-1.818). The low-pain CAI group exhibited less hip flexion and greater ankle plantarflexion at initial contact and greater ankle dorsiflexion range of motion (p\u202f\u2264\u202f0.024; d\u202f=\u202f0.736-1.398). The high-pain CAI group showed greater tibialis anterior activation than the low-pain group (p\u202f=\u202f0.004; d\u202f=\u202f0.903) and greater rectus femoris-biceps femoris co-contraction than controls (p\u202f=\u202f0.045; d\u202f=\u202f0.672). External impact-loading measures did not differ among groups (p\u202f=\u202f0.114-0.265; \u03b7p2\u202f=\u202f0.032-0.058). Pain-defined CAI subgroups differed in interjoint load sharing and selected neuromuscular measures despite comparable external impact loading.",
+  "doi": "10.1016/j.ptsp.2026.102003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42914580/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-24T16:55:28Z"
+ },
+ {
+  "pmid": "42910640",
+  "title": "Suture Augmentation May Facilitate Earlier Return to Sport Without Improving Return Rates or Clinical Outcomes Following Modified Brostr\u00f6m Repair: A Systematic Review and Meta-Analysis.",
+  "journal": "Foot Ankle Spec",
+  "year": "2026",
+  "authors": [
+   "Rubin J",
+   "Alzobi O",
+   "Hedbany D",
+   "Tham A",
+   "et al."
+  ],
+  "abstract": "BackgroundSuture augmentation has been introduced to enhance stability and accelerate rehabilitation following modified Brostr\u00f6m repair for chronic lateral ankle instability, however, its clinical value remains uncertain.MethodsPubMed, Embase, and Cochrane Library databases were systematically searched according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Outcomes included patient demographics, radiographic parameters, clinical outcomes, return to sport (RTS), complications, failures, and revisions. Meta-analyses comparing augmented and non-augmented repairs were performed.ResultsSixteen studies were included, with 672 patients undergoing anterior talofibular ligament (ATFL) repair with suture augmentation, and 315 patients without suture augmentation. Both cohorts demonstrated significant improvements in radiographic and clinical outcomes. Suture augmentation demonstrated a faster RTS (13.0 vs 19.6\u2009weeks) but a lower overall RTS rate (74.0% vs 82.9%). There was no statistically significant difference in complications (risk ratio [RR]\u2009=\u20090.86, 95% confidence interval [CI], 0.30-2.47) or failures (RR\u2009=\u20090.65, 95% CI, 0.25-1.65). Open suture augmentation demonstrated a higher reported complication (6.9% vs 0%) and failure rate (3.1% vs 0.8%) compared with arthroscopic augmentation.ConclusionThis systematic review and meta-analysis did not demonstrate clinically meaningful differences in radiographic parameters, patient-reported outcomes, complications, or failure rates between isolated modified Brostr\u00f6m repair and suture-augmented repair. Although suture augmentation was associated with a faster RTS, this did not translate into higher overall RTS rates, indicating that earlier return does not equate to improved functional recovery. Arthroscopic techniques may demonstrate lower complication rates than open approaches, however, this observation should be interpreted with caution given the limited and non-comparative evidence base.Level of Evidence:IV, systematic review and meta-analysis.",
+  "doi": "10.1177/19386400261495186",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42910640/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-24T16:55:28Z"
+ },
+ {
   "pmid": "42909112",
   "title": "Building smarter surveillance: a framework for artificial intelligence-enabled monitoring of overuse injuries in youth sports.",
   "journal": "Front Public Health",
