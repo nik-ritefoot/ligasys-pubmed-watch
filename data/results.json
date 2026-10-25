@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T16:55:28+00:00",
+ "generated": "2026-10-25T17:12:17+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,150 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 4,
-  "research": 17,
-  "fieldnotes": 70
+  "total": 86,
+  "new": 5,
+  "research": 19,
+  "fieldnotes": 67
  },
  "records": [
+  {
+   "pmid": "42926125",
+   "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
+   "journal": "J Sport Rehabil",
+   "year": "2026",
+   "authors": [
+    "Wang X",
+    "Shao X",
+    "Shi X",
+    "Adams RD",
+    "et al."
+   ],
+   "abstract": "Up to 75% of lateral ankle sprain cases experience long-term impairments and suffer chronic ankle instability (CAI), a condition characterized by impaired ankle proprioception. This study aims to investigate ankle proprioceptive performance during functional tasks with increasing movement control and ankle joint load in individuals with and without CAI. Cross-sectional study. Twenty individuals with CAI and 19 healthy controls completed 4 proprioceptive tasks: standing, walking, landing (double-leg drop), and stair descent. In each task, their ability to discriminate between 4 ankle inversion angles was assessed using a task-specific discrimination apparatus. CAI participants had significantly lower ankle proprioception scores than controls (mean difference = 0.047, 95% CI, 0.031-0.063). Proprioceptive acuity varied by task (P < .001, \u03b7p2=.345), with no significant group-by-task interaction (P = .220, \u03b7p2=.039). Trend analysis showed a linear improvement in proprioceptive performance with increasing ankle load and challenge in controls (P < .001, \u03b7p2=.685), whereas the CAI group showed both significant linear (P < .001, \u03b7p2=.445) and quadratic (P = .001, \u03b7p2=.430) trends, reflecting a rise followed by a significant downturn as load peaked. Both groups improved with greater load, but during stair descent, individuals with CAI exhibited a significant decline. This suggests that proprioceptive processing in CAI is impaired and may be overloaded during highly challenging tasks.",
+   "doi": "10.1123/jsr.2025-0436",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42926125/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42927087",
+   "title": "Gait speed and multi-segment foot joint kinematics throughout the entire stance phase using statistical parametric mapping.",
+   "journal": "PeerJ",
+   "year": "2026",
+   "authors": [
+    "Jeong H",
+    "Hamill J",
+    "Boyer KA",
+    "van Emmerik REA"
+   ],
+   "abstract": "The foot is a multi-segment structure whose segments function together. Due to its ongoing connection with the support surface, the foot must be capable of managing loads that vary with gait speed. Previous studies have provided considerable insight into the relationship between foot joint kinematics and gait speed. However, their primary reliance on discrete measures, such as peak joint angles, has limited understanding of how these relationships evolve throughout the stance phase. The aim of this study was to investigate the effects of gait speed on full time-series trajectories of multiplanar foot joint kinematics using statistical parametric mapping. According to our findings, faster walking primarily increased ankle eversion and midfoot dorsiflexion during weight acceptance (\u223c17-29% of the stance phase). In contrast, during propulsion, faster walking increased ankle plantar flexion (\u223c80-100% of the stance phase) and inversion (\u223c82-90%), as well as midfoot plantar flexion (\u223c82-100%) and adduction (\u223c90-98%), together with greater dorsiflexion of the first metatarsophalangeal joint after heel-off (\u223c43-98% of the stance phase). These multiplanar joint kinematic alterations across the ankle-foot joints throughout the stance phase reflect greater foot-arch collapse in early stance and foot-arch recoil in late stance, which may facilitate appropriate energy absorption and generation in response to increasing gait speed. Importantly, these adaptive foot motions were not captured by previous discrete analyses, which may obscure phase-dependent changes during gait. The present continuous time-series approach revealed detailed temporal adaptations in foot kinematics across the stance phase, providing a more comprehensive characterization of gait mechanics.",
+   "doi": "10.7717/peerj.21787",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927087/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42924681",
+   "title": "Musculoskeletal Complaint Patterns and Training Impact in Adult Triathletes During the 2023 Season.",
+   "journal": "J Funct Morphol Kinesiol",
+   "year": "2026",
+   "authors": [
+    "Parr JJ",
+    "Dobson SR",
+    "Navara J",
+    "Kusuma M",
+    "et al."
+   ],
+   "abstract": "Objectives: To characterize self-report musculoskeletal complaints, anatomical distribution, healthcare utilization, training impact, and associations with demographic and training characteristics among adult triathletes during the 2023 season. Methods: A retrospective cross-sectional survey was conducted among community-based triathletes recruited through social media and triathlon organizations. Adults aged \u226518 years who completed or intended to complete at least one triathlon in 2023 were included (N = 245). Demographic characteristics, years of participation, race focus, and weekly training volume were collected. Main outcomes included self-reported musculoskeletal complaints, anatomical location, complaint classification, healthcare utilization, and training disruption. Results: Of 245 participants (60.0% male; most frequent age group 30-34 years), 127 of 242 with available complaint data (52.5%) reported at least one complaint, totaling 175 reported complaints. The lower extremity accounted for 79.4% of complaints, most commonly the hip/pelvis (22.3%), lower leg (18.7%), knee (17.3%), ankle (15.1%), and foot/toes (15.1%). Running was the most frequently reported activity associated with complaint onset (61%). The number of reported complaints was not significantly associated with the broad demographic or training characteristics examined. Healthcare utilization was reported for 62.4% of complaints with available healthcare data. Among complaints with available training impact data, 50.6% resulted in both missed and modified training, 28.2% in modified training only, and 21.2% in missed training only. Conclusions: More than half of the triathletes surveyed reported musculoskeletal complaints during the 2023 season, with lower-extremity and overuse complaints predominating and running most frequently associated with complaint onset. Broad demographic and general training characteristics were not significantly associated with the number of reported complaints. These findings highlight the burden and training consequences of self-reported musculoskeletal complaints among adult triathletes and support the need for prospective surveillance incorporating discipline-specific exposure and more detailed training load measures.",
+   "doi": "10.3390/jfmk11040402",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42924681/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42924692",
+   "title": "Musculoskeletal Findings Following Pre-Participation Screening in Young Athletes: A Retrospective Observational Study.",
+   "journal": "J Funct Morphol Kinesiol",
+   "year": "2026",
+   "authors": [
+    "Vecchiato M",
+    "Palermi S",
+    "Ancona L",
+    "Barbaro G",
+    "et al."
+   ],
+   "abstract": "Background: Pre-participation screening (PPS) is widely used to evaluate athletes before sport participation, traditionally focusing on cardiovascular risk prevention. However, musculoskeletal assessment performed during PPS may also allow early identification of biomechanical and structural abnormalities that can affect sport participation during growth. Objectives: This study aimed to describe the prevalence, clinical characteristics, and management pathways of musculoskeletal alterations detected during PPS in young athletes, with particular focus on referral patterns to pediatric Physical Medicine and Rehabilitation (PM&R) specialists. Methods: This retrospective observational study included athletes aged \u226415 years who underwent PPS between January 2022 and December 2023 at the Sports Medicine Unit of Noale (ULSS 3 Serenissima, Venice, Italy). Musculoskeletal screening was systematically performed during PPS. Athletes presenting newly detected abnormalities were either managed conservatively by the sports physician or referred for PM&R evaluation. Clinical indications for referral, imaging investigations, diagnoses, and treatment strategies were analyzed. Results: A total of 707 athletes underwent PPS during the study period. After applying exclusion criteria, 635 athletes were eligible for analysis. Musculoskeletal alterations were identified in 141 athletes (22.2%). Among them, 54 athletes were referred for PM&R evaluation and 40 completed the consultation. No statistically significant differences were observed between referred and non-referred athletes. The most frequent reasons for referral were suspected scoliosis (n = 22), foot alignment disorders n = 18), thoracic hyperkyphosis (n = 5), and lower limb length discrepancy (n = 4). Specialist evaluation resulted in conservative management in most cases, including corrective exercise programs and orthotic interventions, while one athlete required surgical treatment for congenital scoliosis. Conclusions: Musculoskeletal screening during PPS identified a broad spectrum of findings in young athletes, including clinically relevant abnormalities requiring specialist evaluation and management. These findings suggest that musculoskeletal assessment may provide an opportunity for early clinical identification within PPS; however, prospective studies are needed to evaluate diagnostic accuracy, long-term clinical benefit, injury prevention, and cost-effectiveness before routine implementation can be recommended.",
+   "doi": "10.3390/jfmk11040413",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42924692/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42921340",
+   "title": "Using Wearable Sensors and Video Analysis to Improve Functional Electrical Stimulation Prescription in Individuals With Multiple Sclerosis: A Case Series.",
+   "journal": "Int J MS Care",
+   "year": "2026",
+   "authors": [
+    "Jackson K",
+    "Hosseini S",
+    "Bigelow K"
+   ],
+   "abstract": "A growing body of evidence supports the use of functional electrical stimulation (FES) in people with multiple sclerosis (MS). However, prescription remains an imprecise process with no well-established guidelines for assessing the immediate or long-term effects to ensure maximum benefit.\u00a0The purpose of this case series was to assess the potential benefits of using wearable sensors and video analysis to provide immediate feedback on gait performance to improve FES prescription in people with MS. Three adults (2 women, 1 man; age range, 39-62 years) with MS with varying levels of lower extremity motor function and gait impairment were enrolled. During a single visit, participants performed a series of 10-m walks under various FES and non-FES conditions while using wearable motion sensors. Additionally, 2D video analysis was used to assess alterations in knee angles during swing and stance phases. All participants demonstrated improvements in a variety of gait variables, including a clinically meaningful (> 0.1 m/s) increase in gait speed during 1 or more of the FES conditions when compared with the no-device and/or prescribed ankle foot orthosis conditions. There were additional improvements associated with multichannel stimulation of the lower leg and thigh for certain gait variables. Data from the wearable sensors and video analysis were advantageous in helping researchers determine the most appropriate FES prescription for each participant. This case series demonstrates the potential clinical usefulness of these technologies in prescribing FES for people with MS.",
+   "doi": "10.7224/1537-2073.2025-050",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42921340/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
   {
    "pmid": "42918848",
    "title": "[Posttraumatic ankle arthrofibrosis : Diagnosis, prevention and treatment].",
@@ -98,93 +236,8 @@
      "bucket": "research"
     }
    ],
-   "is_new": true,
+   "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42914108",
-   "title": "Auditory Biofeedback Gait Training in Individuals With Chronic Ankle Instability: Protocol for a Randomized Controlled Trial.",
-   "journal": "JMIR Res Protoc",
-   "year": "2026",
-   "authors": [
-    "Torp DM",
-    "Choi JY",
-    "Edison A",
-    "Hoch M",
-    "et al."
-   ],
-   "abstract": "Chronic ankle instability (CAI) develops in a large majority of patients with lateral ankle sprain (LAS), who often experience recurring injuries, residual feelings of instability, and abnormal neuromuscular patterns. Specifically, gait alterations are common in those with CAI and considered a contributing factor to poor long-term ankle joint health. Yet, there are no evidence-based gait-training protocols targeted to improve biomechanics, which may improve long-term outcomes related to ankle joint health and patient satisfaction. This study protocol introduces a progressive auditory biofeedback (ABF) gait-training program aimed to improve short- and long-term lower extremity biomechanics and talar cartilage outcomes and reduce the frequency of ankle-giving-way episodes and recurring injuries. This study is a multisite randomized controlled trial (RCT) with a target enrollment of 100 patients with CAI into a control group (n=50, 50%) or an ABF gait-training program (n=50, 50%). Both groups will complete a progressive 6-week (12-session) protocol comprising walking, ruck marching, and running on a treadmill. Lower extremity kinematics and kinetics, talar cartilage characteristics (via ultrasonography), self-perceived dysfunction and instability, and number of recurring sprains will be assessed prior to intervention, immediately after intervention, and 6 and 12 months postintervention. Finally, the frequency of ankle-giving-way episodes in the 6 months prior to intervention will be compared to the frequency of episodes at the 6- and 12-month time points to determine a longitudinal difference in ankle-giving-way episodes. The study was funded in September 2024 and prospectively registered through ClinicalTrials.gov on March 10, 2025. The first participant was enrolled in May 2025. As of August 2026, 118 individuals had been recruited and 19 participants enrolled. Recruitment will remain open until September 2027, and study completion is expected in September 2028. Data processing is projected to continue through September 2028, with the final report published in June 2029. This study will be the first RCT of ABF gait training to assess the immediate and long-term effects on lower extremity biomechanics, ankle joint health, and patient-reported outcomes in patients with CAI. Results from this study will advance the knowledge of long-term joint health that may be associated with poor outcomes post-LAS. ClinicalTrials.gov NCT06868316; https://clinicaltrials.gov/study/NCT06868316. DERR1-10.2196/107775.",
-   "doi": "10.2196/107775",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42914108/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42914580",
-   "title": "Pain-stratified differences in lower-limb mechanics and neuromuscular activation during single-leg drop landing in male athletes with chronic ankle instability.",
-   "journal": "Phys Ther Sport",
-   "year": "2026",
-   "authors": [
-    "Wang Z",
-    "Zheng W",
-    "Zhou Z",
-    "Wang X"
-   ],
-   "abstract": "To compare mechanical and neuromuscular strategies between high- and low-pain subgroups of male athletes with chronic ankle instability (CAI) during single-leg drop landing. Cross-sectional study. Biomechanics laboratory. Eighty-four male Tier 2-3 athletes, stratified into high-pain CAI (n\u202f=\u202f28), low-pain CAI (n\u202f=\u202f28), and healthy control (n\u202f=\u202f28) groups. Lower-limb kinematics, impact loading, joint moments, eccentric work and energy contributions, surface electromyographic root mean square amplitude, and co-contraction index. Significant group effects were observed for kinematic outcomes (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.384), joint kinetics and energetics (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.561), and neuromuscular outcomes (p\u202f=\u202f0.005-0.017; \u03b7p2\u202f=\u202f0.096-0.124). The high-pain CAI group exhibited lower ankle plantarflexor moment than both comparison groups (both p\u202f<\u202f0.001; d\u202f=\u202f1.192-1.210), lower ankle eccentric work (p\u202f\u2264\u202f0.001; d\u202f=\u202f1.030-1.853), lower ankle energy contribution (p\u202f\u2264\u202f0.002; d\u202f=\u202f0.983-2.133), and greater knee energy contribution (both p\u202f<\u202f0.001; d\u202f=\u202f1.209-1.818). The low-pain CAI group exhibited less hip flexion and greater ankle plantarflexion at initial contact and greater ankle dorsiflexion range of motion (p\u202f\u2264\u202f0.024; d\u202f=\u202f0.736-1.398). The high-pain CAI group showed greater tibialis anterior activation than the low-pain group (p\u202f=\u202f0.004; d\u202f=\u202f0.903) and greater rectus femoris-biceps femoris co-contraction than controls (p\u202f=\u202f0.045; d\u202f=\u202f0.672). External impact-loading measures did not differ among groups (p\u202f=\u202f0.114-0.265; \u03b7p2\u202f=\u202f0.032-0.058). Pain-defined CAI subgroups differed in interjoint load sharing and selected neuromuscular measures despite comparable external impact loading.",
-   "doi": "10.1016/j.ptsp.2026.102003",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42914580/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42910640",
-   "title": "Suture Augmentation May Facilitate Earlier Return to Sport Without Improving Return Rates or Clinical Outcomes Following Modified Brostr\u00f6m Repair: A Systematic Review and Meta-Analysis.",
-   "journal": "Foot Ankle Spec",
-   "year": "2026",
-   "authors": [
-    "Rubin J",
-    "Alzobi O",
-    "Hedbany D",
-    "Tham A",
-    "et al."
-   ],
-   "abstract": "BackgroundSuture augmentation has been introduced to enhance stability and accelerate rehabilitation following modified Brostr\u00f6m repair for chronic lateral ankle instability, however, its clinical value remains uncertain.MethodsPubMed, Embase, and Cochrane Library databases were systematically searched according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Outcomes included patient demographics, radiographic parameters, clinical outcomes, return to sport (RTS), complications, failures, and revisions. Meta-analyses comparing augmented and non-augmented repairs were performed.ResultsSixteen studies were included, with 672 patients undergoing anterior talofibular ligament (ATFL) repair with suture augmentation, and 315 patients without suture augmentation. Both cohorts demonstrated significant improvements in radiographic and clinical outcomes. Suture augmentation demonstrated a faster RTS (13.0 vs 19.6\u2009weeks) but a lower overall RTS rate (74.0% vs 82.9%). There was no statistically significant difference in complications (risk ratio [RR]\u2009=\u20090.86, 95% confidence interval [CI], 0.30-2.47) or failures (RR\u2009=\u20090.65, 95% CI, 0.25-1.65). Open suture augmentation demonstrated a higher reported complication (6.9% vs 0%) and failure rate (3.1% vs 0.8%) compared with arthroscopic augmentation.ConclusionThis systematic review and meta-analysis did not demonstrate clinically meaningful differences in radiographic parameters, patient-reported outcomes, complications, or failure rates between isolated modified Brostr\u00f6m repair and suture-augmented repair. Although suture augmentation was associated with a faster RTS, this did not translate into higher overall RTS rates, indicating that earlier return does not equate to improved functional recovery. Arthroscopic techniques may demonstrate lower complication rates than open approaches, however, this observation should be interpreted with caution given the limited and non-comparative evidence base.Level of Evidence:IV, systematic review and meta-analysis.",
-   "doi": "10.1177/19386400261495186",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42910640/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42881724",
@@ -331,6 +384,35 @@
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42914108",
+   "title": "Auditory Biofeedback Gait Training in Individuals With Chronic Ankle Instability: Protocol for a Randomized Controlled Trial.",
+   "journal": "JMIR Res Protoc",
+   "year": "2026",
+   "authors": [
+    "Torp DM",
+    "Choi JY",
+    "Edison A",
+    "Hoch M",
+    "et al."
+   ],
+   "abstract": "Chronic ankle instability (CAI) develops in a large majority of patients with lateral ankle sprain (LAS), who often experience recurring injuries, residual feelings of instability, and abnormal neuromuscular patterns. Specifically, gait alterations are common in those with CAI and considered a contributing factor to poor long-term ankle joint health. Yet, there are no evidence-based gait-training protocols targeted to improve biomechanics, which may improve long-term outcomes related to ankle joint health and patient satisfaction. This study protocol introduces a progressive auditory biofeedback (ABF) gait-training program aimed to improve short- and long-term lower extremity biomechanics and talar cartilage outcomes and reduce the frequency of ankle-giving-way episodes and recurring injuries. This study is a multisite randomized controlled trial (RCT) with a target enrollment of 100 patients with CAI into a control group (n=50, 50%) or an ABF gait-training program (n=50, 50%). Both groups will complete a progressive 6-week (12-session) protocol comprising walking, ruck marching, and running on a treadmill. Lower extremity kinematics and kinetics, talar cartilage characteristics (via ultrasonography), self-perceived dysfunction and instability, and number of recurring sprains will be assessed prior to intervention, immediately after intervention, and 6 and 12 months postintervention. Finally, the frequency of ankle-giving-way episodes in the 6 months prior to intervention will be compared to the frequency of episodes at the 6- and 12-month time points to determine a longitudinal difference in ankle-giving-way episodes. The study was funded in September 2024 and prospectively registered through ClinicalTrials.gov on March 10, 2025. The first participant was enrolled in May 2025. As of August 2026, 118 individuals had been recruited and 19 participants enrolled. Recruitment will remain open until September 2027, and study completion is expected in September 2028. Data processing is projected to continue through September 2028, with the final report published in June 2029. This study will be the first RCT of ABF gait training to assess the immediate and long-term effects on lower extremity biomechanics, ankle joint health, and patient-reported outcomes in patients with CAI. Results from this study will advance the knowledge of long-term joint health that may be associated with poor outcomes post-LAS. ClinicalTrials.gov NCT06868316; https://clinicaltrials.gov/study/NCT06868316. DERR1-10.2196/107775.",
+   "doi": "10.2196/107775",
+   "pubtypes": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42914108/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -668,35 +750,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42783399",
-   "title": "Comprehensive Management of Foot and Ankle Conditions and Their Biopsychosocial Impact on Patients Diagnosed with Rheumatoid Arthritis.",
-   "journal": "Med Sci (Basel)",
-   "year": "2026",
-   "authors": [
-    "Ortiz-Romero M",
-    "Gordillo-Fern\u00e1ndez LM",
-    "Le\u00f3n-Linares JP",
-    "Garc\u00eda-Garc\u00eda CO"
-   ],
-   "abstract": "Rheumatoid arthritis (RA) affects a high percentage of people. This condition can lead to foot and ankle deformities frequently accompanied by severe pain and limitations in daily activities; together, these aspects reduce the quality of life. We carried out a systematic search of databases such as PubMed, Cochrane, and Scopus. We compared the outcomes of treatments with conventional disease-modifying antirheumatic drugs (DMARDs), anti-TNF biologic drugs, custom foot orthoses, and combined therapies over a six-month period. This systematic review and meta-analysis synthesized evidence from 21 included studies evaluating pharmacological, orthotic, and physical therapy interventions in adult RA patients with foot and ankle involvement. Across pooled estimates, multidisciplinary interventions combining pharmacotherapy, custom foot orthoses, and structured physical therapy demonstrated substantial reductions in pain (VAS score mean reduction of: -5.0 points in VAS score) and kinesiophobia, alongside gains in health-related quality of life (EQ-5D increase of: +0.30 points). High statistical heterogeneity was observed across study designs (I^2 > 50\\%). Early assessment of foot pathologies and multidisciplinary collaboration are recommended, while future long-term randomized controlled trials are needed to confirm component-specific efficacy. Recommendations include early assessment of foot pathologies, collaboration among multidisciplinary teams, and future studies including 12-month follow-ups using specific assessment tools such as the MFPDI.",
-   "doi": "10.3390/medsci14050526",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Meta-Analysis"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42783399/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42885854",
    "title": "Consumer Grade Wearable Sensor Metrics Are Associated with Internal Forces at Common Running Injury Locations.",
    "journal": "Med Sci Sports Exerc",
@@ -974,36 +1027,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42784541",
-   "title": "Effectiveness and cost-effectiveness of the Keep-On-Keep-Up digital falls prevention programme in community-dwelling older adults: results of a randomised controlled trial.",
-   "journal": "Age Ageing",
-   "year": "2026",
-   "authors": [
-    "French C",
-    "Parchment A",
-    "Odebiyi B",
-    "Shi C",
-    "et al."
-   ],
-   "abstract": "Falls are a leading cause of injury-related hospital admissions among older adults with substantial burden on health and social care systems. Digital exercise programmes may improve physical function at scale and complement traditional services. Keep-On-Keep-Up (KOKU) is an National Health Service (NHS)-approved digital programme offering progressive, evidence-based exercises and education on fall prevention.We aimed to evaluate the effectiveness and cost-effectiveness of KOKU for improving balance, physical function and reducing fall risk among community-dwelling older adults. A two-arm, parallel group randomised controlled trial was conducted with community-dwelling older adults (\u226560\u00a0years). Participants were randomised (1:1) to receive KOKU alongside standard care (strength and balance exercise advice and a falls prevention leaflet) or standard care alone. The primary outcome was balance function at 12\u00a0weeks (Berg Balance Score). Secondary outcomes included lower limb strength, concerns about falling, falls, mood, pain, fatigue, healthcare utilisation, health-related quality of life and usability. A modified intention-to-treat approach was used to analyse effectiveness and cost effectiveness. A total of 202 older adults (mean age 76.8\u00a0years, 72.8% female) were enrolled (102 intervention; 100 control). Retention at 12-weeks was 89.1% (91 intervention; 89 control). Compared with standard care, KOKU significantly improved balance function at 12\u00a0weeks after adjusting for baseline scores (mean difference: 6.35, 95% confidence interval [CI]: 4.48, 8.22). KOKU was associated with lower mean falls related costs (incremental cost: -\u00a362.98, 95% CI -\u00a3218.54 to \u00a340.22) and a quality-adjusted life year gain of 0.020 (95% CI 0.003 to 0.035). The KOKU programme improves balance with preliminary evidence of cost-effectiveness among community-dwelling older adults. These findings support the integration of digital innovation into routine care to improve balance and strength, thereby reducing functional decline while delivering value for money.",
-   "doi": "10.1093/ageing/afag291",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial",
-    "Research Support, Non-U.S. Gov't"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42784541/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42852461",
    "title": "Effects of Cognitive Loading on Biomechanical and Cognitive-Motor Performance During Jump Landing-Cutting in Chronic Ankle Instability.",
    "journal": "J Athl Train",
@@ -1136,34 +1159,6 @@
     {
      "id": "sex-hormones-connective-tissue",
      "label": "Sex hormones & connective tissue (orthopedic / athletic)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42780983",
-   "title": "Evaluating the rehabilitative and assistive impact of the Agilik exoskeleton: a pre-post single-group study in children with cerebral palsy.",
-   "journal": "Front Med (Lausanne)",
-   "year": "2026",
-   "authors": [
-    "Nossa R",
-    "Malerba G",
-    "Falivene A",
-    "Diella E",
-    "et al."
-   ],
-   "abstract": "Cerebral palsy (CP) is a common childhood-onset neurological condition often associated with crouch gait, a pathological walking pattern impairing mobility. Wearable robotic devices are emerging as promising tools for paediatric gait rehabilitation, but evidence on their rehabilitative and assistive effects remains limited. This exploratory study evaluated the rehabilitative and assistive effects of a 10-session training programme using Agilik, a paediatric knee exoskeleton, in children with CP and crouch gait, during level-ground, uphill, and downhill walking. Eight children with CP completed the intervention. Assessments were performed at baseline (T0) and post-intervention (T1), including walking endurance, speed, balance, spasticity, and clinical joint and muscle length assessments. Three-dimensional gait analysis (GRAIL system) quantified sagittal-plane hip, knee, and ankle range of motion during level-ground, uphill, and downhill walking. At T1, joint range of motion was analysed with and without Agilik to assess its assistive effect. User satisfaction was evaluated using the child-adapted QUEST 2.1 questionnaire. Given the exploratory nature of this study, results were interpreted primarily at the individual level using predefined minimal clinically important difference (MCID) thresholds. When clinically relevant changes occurred, improvements were more frequently observed than deteriorations in walking endurance (MCID\u2009>\u200915\u2005m), speed (MCID\u2009>\u20090.1\u2005m/s), muscle lengths (>5\u00b0), and joint range of motion (>5\u00b0). No significant group-level rehabilitative changes were observed (all p\u2009>\u20090.05). In contrast, the assistive evaluation showed statistically significant increases in knee and hip range of motion across all walking conditions (p\u2009<\u20090.05), with all participants improving at the knee in every condition. Satisfaction scores (7-point scale) were high for size, appearance, usability, and set-up time (median\u2009\u2265\u20094/7), while weight, reliability, and timely performance received lower ratings (median 3.5/7). This exploratory study demonstrates a clear assistive biomechanical benefit of Agilik, particularly at the knee and hip. Individual-level analyses suggest that some participants may experience clinically meaningful improvements following training; however, these observations are hypothesis-generating and cannot be interpreted as evidence of a rehabilitative effect. Larger randomised controlled studies are needed to determine whether repeated exposure to assisted gait translates into sustained functional gains.",
-   "doi": "10.3389/fmed.2026.1814298",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42780983/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -1431,33 +1426,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42785721",
-   "title": "Identifying Determinants of Asymmetrical Biomechanics During Single- and Double-Limb Countermovement Jumps 2\u00a0Years Following Anterior Cruciate Ligament Reconstruction.",
-   "journal": "J Appl Biomech",
-   "year": "2026",
-   "authors": [
-    "Gohil AM",
-    "Owen M",
-    "Samaan MA",
-    "Noehren B"
-   ],
-   "abstract": "After anterior cruciate ligament reconstruction (ACLR), individuals often demonstrate asymmetrical lower-extremity biomechanics and suboptimal vertical jump performance. These deficits have negative implications for reinjury risk and ability to return to sport. This study aims to quantify asymmetrical lower-extremity (hip, knee, and ankle) biomechanics and identify modifiable impairments contributing to altered knee joint mechanics and vertical jump performance after ACLR. Twenty-four individuals (19.6 [3.4]\u00a0mo post-ACLR) performed isometric and isokinetic knee extensor strength testing followed by single- and double-limb vertical jumps using 3D motion capture. We found no differences in lower-extremity kinematics but did observe reduced peak knee extensor moment and joint power in the ACL-involved limb during both jumps. Furthermore, quadriceps peak torque and rate of torque development were significantly associated with propulsive knee joint power and vertical jump height. The findings from this study highlight that individuals demonstrate persistent knee joint underloading 2\u00a0years following ACLR that is related to inadequate quadriceps peak torque and rate of torque development. Clinicians should prioritize restoration of quadriceps peak torque and rate of torque development to improve knee joint kinetics, vertical jump performance, and overall readiness to return to competitive sport.",
-   "doi": "10.1123/jab.2026-0134",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42785721/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42885454",
    "title": "Ilizarov Circular Fixation for High-Velocity Firearm Injuries Causing High-Energy Tibial Fractures: A Prospective Cohort Study.",
    "journal": "Acta Orthop Belg",
@@ -1537,34 +1505,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42784388",
-   "title": "Infrared Thermography Reveals Recurrent Thermal Asymmetry Patterns Rather than Stable Thermal Phenotypes in Elite Under-18 Soccer Players: A Prospective Longitudinal Observational Study.",
-   "journal": "Sports (Basel)",
-   "year": "2026",
-   "authors": [
-    "Di Martino A",
-    "Aliberti SM",
-    "Nurzynska D",
-    "Canonico R",
-    "et al."
-   ],
-   "abstract": "Evidence regarding the longitudinal use of infrared thermography in elite under-18 soccer players remains limited. Most previous studies have relied on cross-sectional designs or short observation periods. This prospective longitudinal observational study monitored 18 elite under-18 male outfield soccer players across 16 official matches (96 valid assessments). Thermographic evaluations were performed 48 h post-match under standardized conditions across six bilateral lower-limb regions. A thermal asymmetry was defined as relevant if \u0394Tsk \u2265 0.5 \u00b0C. Linear mixed-effects models, paired t-tests and chi-square tests were used for statistical analysis. Relevant asymmetries were detected in 79.2% of assessments (mean maximum \u0394Tsk 0.77 \u00b1 0.43 \u00b0C). Posterior Thigh BF (40.6%) and Posterior Thigh ST (35.4%) showed the highest prevalence (\u03c72 = 16.31, p = 0.006). Significant side-to-side differences were found for Anterior Thigh (p = 0.004), Adductor (p = 0.039) and Posterior Thigh BF (p = 0.032). The intraclass correlation coefficient for Thermal Asymmetry Burden was very low (ICC = 0.024). Fifteen athletes (83.3%) showed recurrent asymmetry and 13 (72.2%) showed a recurrent same-region pattern. Match-to-match variation in TAB was significant (Kruskal-Wallis p = 0.025; ANOVA p = 0.011). No time-loss muscle injuries occurred. Post-match thermal asymmetries are highly prevalent in elite youth soccer and appear to reflect dynamic, load-dependent recovery responses rather than stable thermal phenotypes. Longitudinal thermographic monitoring may help characterise individual recovery patterns when interpreted alongside other monitoring tools.",
-   "doi": "10.3390/sports14090392",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42784388/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1961,6 +1901,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42914580",
+   "title": "Pain-stratified differences in lower-limb mechanics and neuromuscular activation during single-leg drop landing in male athletes with chronic ankle instability.",
+   "journal": "Phys Ther Sport",
+   "year": "2026",
+   "authors": [
+    "Wang Z",
+    "Zheng W",
+    "Zhou Z",
+    "Wang X"
+   ],
+   "abstract": "To compare mechanical and neuromuscular strategies between high- and low-pain subgroups of male athletes with chronic ankle instability (CAI) during single-leg drop landing. Cross-sectional study. Biomechanics laboratory. Eighty-four male Tier 2-3 athletes, stratified into high-pain CAI (n\u202f=\u202f28), low-pain CAI (n\u202f=\u202f28), and healthy control (n\u202f=\u202f28) groups. Lower-limb kinematics, impact loading, joint moments, eccentric work and energy contributions, surface electromyographic root mean square amplitude, and co-contraction index. Significant group effects were observed for kinematic outcomes (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.384), joint kinetics and energetics (p\u202f\u2264\u202f0.042; \u03b7p2\u202f=\u202f0.075-0.561), and neuromuscular outcomes (p\u202f=\u202f0.005-0.017; \u03b7p2\u202f=\u202f0.096-0.124). The high-pain CAI group exhibited lower ankle plantarflexor moment than both comparison groups (both p\u202f<\u202f0.001; d\u202f=\u202f1.192-1.210), lower ankle eccentric work (p\u202f\u2264\u202f0.001; d\u202f=\u202f1.030-1.853), lower ankle energy contribution (p\u202f\u2264\u202f0.002; d\u202f=\u202f0.983-2.133), and greater knee energy contribution (both p\u202f<\u202f0.001; d\u202f=\u202f1.209-1.818). The low-pain CAI group exhibited less hip flexion and greater ankle plantarflexion at initial contact and greater ankle dorsiflexion range of motion (p\u202f\u2264\u202f0.024; d\u202f=\u202f0.736-1.398). The high-pain CAI group showed greater tibialis anterior activation than the low-pain group (p\u202f=\u202f0.004; d\u202f=\u202f0.903) and greater rectus femoris-biceps femoris co-contraction than controls (p\u202f=\u202f0.045; d\u202f=\u202f0.672). External impact-loading measures did not differ among groups (p\u202f=\u202f0.114-0.265; \u03b7p2\u202f=\u202f0.032-0.058). Pain-defined CAI subgroups differed in interjoint load sharing and selected neuromuscular measures despite comparable external impact loading.",
+   "doi": "10.1016/j.ptsp.2026.102003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42914580/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42869466",
    "title": "Passive ankle exoskeleton assistance selectively modulates triceps surae neural control during balance.",
    "journal": "J R Soc Interface",
@@ -2123,34 +2090,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42780891",
-   "title": "Prevalence, burden and risk markers of health problems in HYROX athletes: a 12-week prospective cohort study.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Chittenden E",
-    "Bell A",
-    "Forbes G",
-    "Tooth P",
-    "et al."
-   ],
-   "abstract": "HYROX is a rapidly growing fitness competition combining eight 1-km running intervals with eight functional fitness stations. This study investigated the epidemiology and markers of health problems in HYROX athletes. Eighty-nine HYROX athletes (56 female) completed the 'Oslo Sports Trauma Research Center Questionnaire on Health Problems' (OSTRC-H2) weekly for 12 weeks, alongside exposure reporting and a baseline questionnaire. In an exploratory analysis, potential risk markers (age, sex, previous injury and HYROX experience) for cumulative injury severity were examined using negative binomial regression with an exposure offset. The mean weekly response rate was 62%. The pooled weekly prevalence of any health problem was 30% (95% CI 24% to 37%), with a substantial-problem prevalence of 18% (95% CI 13%-24%). Injury incidence was 14.4 (95% CI 11.1-18.4) per 1,000\u2005h, with a time-loss incidence of 6.4 (95% CI 4.3-9.2); injuries attributed to HYROX training accounted for two thirds of episodes (9.6 per 1,000\u2005h). Overuse injuries accounted for 73% of injuries. The knee was the most frequently injured region (22% of episodes) and, with the lower leg, carried the greatest burden; the elbow ranked third for burden on the basis of four episodes, two of them persistent, while shoulder injuries were near-absent. Previous injury carried the largest rate ratio for cumulative severity, at 2.60 (95% CI 1.00-6.75), an interval also compatible with no association. Health problems were common in HYROX athletes and dominated by overuse injuries. The burden was led by the lower limb, consistent with the sport's running load, with a possible elbow contribution from two persistent injuries and a near-absence of shoulder problems, a combination that may distinguish the profile from other extreme conditioning programme training but which rests on few cases. Only half of problems involved time-loss, so missed-training-day surveillance understates the burden. Previous injury is a candidate risk marker requiring confirmation in larger cohorts.",
-   "doi": "10.3389/fspor.2026.1937574",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42780891/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42893141",
@@ -2318,6 +2257,35 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42910640",
+   "title": "Suture Augmentation May Facilitate Earlier Return to Sport Without Improving Return Rates or Clinical Outcomes Following Modified Brostr\u00f6m Repair: A Systematic Review and Meta-Analysis.",
+   "journal": "Foot Ankle Spec",
+   "year": "2026",
+   "authors": [
+    "Rubin J",
+    "Alzobi O",
+    "Hedbany D",
+    "Tham A",
+    "et al."
+   ],
+   "abstract": "BackgroundSuture augmentation has been introduced to enhance stability and accelerate rehabilitation following modified Brostr\u00f6m repair for chronic lateral ankle instability, however, its clinical value remains uncertain.MethodsPubMed, Embase, and Cochrane Library databases were systematically searched according to Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Outcomes included patient demographics, radiographic parameters, clinical outcomes, return to sport (RTS), complications, failures, and revisions. Meta-analyses comparing augmented and non-augmented repairs were performed.ResultsSixteen studies were included, with 672 patients undergoing anterior talofibular ligament (ATFL) repair with suture augmentation, and 315 patients without suture augmentation. Both cohorts demonstrated significant improvements in radiographic and clinical outcomes. Suture augmentation demonstrated a faster RTS (13.0 vs 19.6\u2009weeks) but a lower overall RTS rate (74.0% vs 82.9%). There was no statistically significant difference in complications (risk ratio [RR]\u2009=\u20090.86, 95% confidence interval [CI], 0.30-2.47) or failures (RR\u2009=\u20090.65, 95% CI, 0.25-1.65). Open suture augmentation demonstrated a higher reported complication (6.9% vs 0%) and failure rate (3.1% vs 0.8%) compared with arthroscopic augmentation.ConclusionThis systematic review and meta-analysis did not demonstrate clinically meaningful differences in radiographic parameters, patient-reported outcomes, complications, or failure rates between isolated modified Brostr\u00f6m repair and suture-augmented repair. Although suture augmentation was associated with a faster RTS, this did not translate into higher overall RTS rates, indicating that earlier return does not equate to improved functional recovery. Arthroscopic techniques may demonstrate lower complication rates than open approaches, however, this observation should be interpreted with caution given the limited and non-comparative evidence base.Level of Evidence:IV, systematic review and meta-analysis.",
+   "doi": "10.1177/19386400261495186",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42910640/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42841515",
