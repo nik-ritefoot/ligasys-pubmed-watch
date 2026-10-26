@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T17:12:17+00:00",
+ "generated": "2026-10-26T19:31:36+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,85 +65,28 @@
   }
  ],
  "counts": {
-  "total": 86,
-  "new": 5,
-  "research": 19,
-  "fieldnotes": 67
+  "total": 82,
+  "new": 2,
+  "research": 18,
+  "fieldnotes": 64
  },
  "records": [
   {
-   "pmid": "42926125",
-   "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
-   "journal": "J Sport Rehabil",
+   "pmid": "42928345",
+   "title": "Effects of the FIFA 11\u2009+\u2009neuromuscular warm-up program on Move2Perform injury risk classification in youth amateur soccer players: a randomized controlled trial.",
+   "journal": "BMC Sports Sci Med Rehabil",
    "year": "2026",
    "authors": [
-    "Wang X",
-    "Shao X",
-    "Shi X",
-    "Adams RD",
-    "et al."
+    "Ataba\u015f EG",
+    "Yap\u0131c\u0131 A",
+    "Ba\u011f\u0131\u015f YE"
    ],
-   "abstract": "Up to 75% of lateral ankle sprain cases experience long-term impairments and suffer chronic ankle instability (CAI), a condition characterized by impaired ankle proprioception. This study aims to investigate ankle proprioceptive performance during functional tasks with increasing movement control and ankle joint load in individuals with and without CAI. Cross-sectional study. Twenty individuals with CAI and 19 healthy controls completed 4 proprioceptive tasks: standing, walking, landing (double-leg drop), and stair descent. In each task, their ability to discriminate between 4 ankle inversion angles was assessed using a task-specific discrimination apparatus. CAI participants had significantly lower ankle proprioception scores than controls (mean difference = 0.047, 95% CI, 0.031-0.063). Proprioceptive acuity varied by task (P < .001, \u03b7p2=.345), with no significant group-by-task interaction (P = .220, \u03b7p2=.039). Trend analysis showed a linear improvement in proprioceptive performance with increasing ankle load and challenge in controls (P < .001, \u03b7p2=.685), whereas the CAI group showed both significant linear (P < .001, \u03b7p2=.445) and quadratic (P = .001, \u03b7p2=.430) trends, reflecting a rise followed by a significant downturn as load peaked. Both groups improved with greater load, but during stair descent, individuals with CAI exhibited a significant decline. This suggests that proprioceptive processing in CAI is impaired and may be overloaded during highly challenging tasks.",
-   "doi": "10.1123/jsr.2025-0436",
+   "abstract": "Lower extremity injuries are a major concern in youth soccer, where multifactorial risk factors interact and isolated screening tools have demonstrated limited predictive accuracy. Neuromuscular warm-up programs such as the FIFA 11\u2009+\u2009have shown efficacy in reducing injury incidence, yet limited evidence exists on their effect when combined with multifactorial risk-classification frameworks in amateur youth populations. The present study aimed to evaluate the effects of an eight-week FIFA 11\u2009+\u2009neuromuscular warm-up program on injury risk profiles-classified by the Move2Perform algorithm-and on functional performance and injury incidence in youth amateur male soccer players. In this parallel-group, single-blinded randomized controlled trial, 44 male amateur soccer players aged 15-18\u00a0years competing in a regional amateur league were randomly allocated, using computer-generated block randomization, to an experimental group (n\u2009=\u200922) or a control group (n\u2009=\u200922). Injury risk was classified using the Move2Perform algorithm, which integrates demographic data, injury history, the Functional Movement Screen (FMS), and the Lower Quarter Y-Balance Test (YBT-LQ). Additional outcomes included jump performance and isometric quadriceps and hamstring strength. The experimental group performed the FIFA 11\u2009+\u2009program three times per week for eight weeks under the supervision of a certified physiotherapist, while the control group continued their routine warm-up. Time-loss injuries were recorded prospectively during the eight-week period. A mixed-design ANOVA was used to assess Group\u2009\u00d7\u2009Time interactions. The experimental group showed significant improvements in YBT-LQ composite scores, FMS total scores, jump test performance, and quadriceps strength (p\u2009<\u20090.05), with significant Group\u2009\u00d7\u2009Time interactions favoring the FIFA 11\u2009+\u2009group. Move2Perform risk classification shifted favorably in the experimental group: athletes initially categorized as Moderate Risk showed the most pronounced improvement, transitioning to Slight Risk, and three athletes initially classified as Substantial Risk moved to the Slight Risk category (descriptively notable, but not reaching statistical significance for this subgroup). The experimental group experienced significantly fewer time-loss injuries (n\u2009=\u20092) than the control group (n\u2009=\u20098) over the eight-week period (p\u2009=\u20090.009), with significantly lower incidences of ankle sprains (p\u2009=\u20090.038) and hamstring strains (p\u2009=\u20090.041). Athletes classified as high risk by the Move2Perform algorithm sustained approximately a threefold increase in injury occurrence compared with their lower-risk counterparts. An eight-week, supervised FIFA 11\u2009+\u2009neuromuscular warm-up program produced favorable shifts in Move2Perform injury risk classification and reduced time-loss injury incidence in youth amateur soccer players. Combining multifactorial injury risk classification with structured neuromuscular warm-up appears to be a practical and effective strategy for reducing lower extremity injury risk in this population, supporting the integration of preseason group-based prevention with individualized corrective approaches. ClinicalTrials.gov, NCT07713004. Registered on 17 July 2026. Retrospectively registered.",
+   "doi": "10.1186/s13102-026-01919-y",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42926125/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42927087",
-   "title": "Gait speed and multi-segment foot joint kinematics throughout the entire stance phase using statistical parametric mapping.",
-   "journal": "PeerJ",
-   "year": "2026",
-   "authors": [
-    "Jeong H",
-    "Hamill J",
-    "Boyer KA",
-    "van Emmerik REA"
-   ],
-   "abstract": "The foot is a multi-segment structure whose segments function together. Due to its ongoing connection with the support surface, the foot must be capable of managing loads that vary with gait speed. Previous studies have provided considerable insight into the relationship between foot joint kinematics and gait speed. However, their primary reliance on discrete measures, such as peak joint angles, has limited understanding of how these relationships evolve throughout the stance phase. The aim of this study was to investigate the effects of gait speed on full time-series trajectories of multiplanar foot joint kinematics using statistical parametric mapping. According to our findings, faster walking primarily increased ankle eversion and midfoot dorsiflexion during weight acceptance (\u223c17-29% of the stance phase). In contrast, during propulsion, faster walking increased ankle plantar flexion (\u223c80-100% of the stance phase) and inversion (\u223c82-90%), as well as midfoot plantar flexion (\u223c82-100%) and adduction (\u223c90-98%), together with greater dorsiflexion of the first metatarsophalangeal joint after heel-off (\u223c43-98% of the stance phase). These multiplanar joint kinematic alterations across the ankle-foot joints throughout the stance phase reflect greater foot-arch collapse in early stance and foot-arch recoil in late stance, which may facilitate appropriate energy absorption and generation in response to increasing gait speed. Importantly, these adaptive foot motions were not captured by previous discrete analyses, which may obscure phase-dependent changes during gait. The present continuous time-series approach revealed detailed temporal adaptations in foot kinematics across the stance phase, providing a more comprehensive characterization of gait mechanics.",
-   "doi": "10.7717/peerj.21787",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42927087/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42924681",
-   "title": "Musculoskeletal Complaint Patterns and Training Impact in Adult Triathletes During the 2023 Season.",
-   "journal": "J Funct Morphol Kinesiol",
-   "year": "2026",
-   "authors": [
-    "Parr JJ",
-    "Dobson SR",
-    "Navara J",
-    "Kusuma M",
-    "et al."
-   ],
-   "abstract": "Objectives: To characterize self-report musculoskeletal complaints, anatomical distribution, healthcare utilization, training impact, and associations with demographic and training characteristics among adult triathletes during the 2023 season. Methods: A retrospective cross-sectional survey was conducted among community-based triathletes recruited through social media and triathlon organizations. Adults aged \u226518 years who completed or intended to complete at least one triathlon in 2023 were included (N = 245). Demographic characteristics, years of participation, race focus, and weekly training volume were collected. Main outcomes included self-reported musculoskeletal complaints, anatomical location, complaint classification, healthcare utilization, and training disruption. Results: Of 245 participants (60.0% male; most frequent age group 30-34 years), 127 of 242 with available complaint data (52.5%) reported at least one complaint, totaling 175 reported complaints. The lower extremity accounted for 79.4% of complaints, most commonly the hip/pelvis (22.3%), lower leg (18.7%), knee (17.3%), ankle (15.1%), and foot/toes (15.1%). Running was the most frequently reported activity associated with complaint onset (61%). The number of reported complaints was not significantly associated with the broad demographic or training characteristics examined. Healthcare utilization was reported for 62.4% of complaints with available healthcare data. Among complaints with available training impact data, 50.6% resulted in both missed and modified training, 28.2% in modified training only, and 21.2% in missed training only. Conclusions: More than half of the triathletes surveyed reported musculoskeletal complaints during the 2023 season, with lower-extremity and overuse complaints predominating and running most frequently associated with complaint onset. Broad demographic and general training characteristics were not significantly associated with the number of reported complaints. These findings highlight the burden and training consequences of self-reported musculoskeletal complaints among adult triathletes and support the need for prospective surveillance incorporating discipline-specific exposure and more detailed training load measures.",
-   "doi": "10.3390/jfmk11040402",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42924681/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42928345/",
    "matched": [
     {
      "id": "burden-cost",
@@ -155,59 +98,32 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42924692",
-   "title": "Musculoskeletal Findings Following Pre-Participation Screening in Young Athletes: A Retrospective Observational Study.",
-   "journal": "J Funct Morphol Kinesiol",
+   "pmid": "42930283",
+   "title": "Multimodal Gait Acquisition and Musculoskeletal Simulation for Subject-Specific Evaluation of Ankle Exosuit Cable Anchor Positioning in Cerebral Palsy.",
+   "journal": "Biomimetics (Basel)",
    "year": "2026",
    "authors": [
-    "Vecchiato M",
-    "Palermi S",
-    "Ancona L",
-    "Barbaro G",
+    "Bermejo-Garc\u00eda J",
+    "Mart\u00edn-Fraile A",
+    "Ojeda J",
+    "Agujetas R",
     "et al."
    ],
-   "abstract": "Background: Pre-participation screening (PPS) is widely used to evaluate athletes before sport participation, traditionally focusing on cardiovascular risk prevention. However, musculoskeletal assessment performed during PPS may also allow early identification of biomechanical and structural abnormalities that can affect sport participation during growth. Objectives: This study aimed to describe the prevalence, clinical characteristics, and management pathways of musculoskeletal alterations detected during PPS in young athletes, with particular focus on referral patterns to pediatric Physical Medicine and Rehabilitation (PM&R) specialists. Methods: This retrospective observational study included athletes aged \u226415 years who underwent PPS between January 2022 and December 2023 at the Sports Medicine Unit of Noale (ULSS 3 Serenissima, Venice, Italy). Musculoskeletal screening was systematically performed during PPS. Athletes presenting newly detected abnormalities were either managed conservatively by the sports physician or referred for PM&R evaluation. Clinical indications for referral, imaging investigations, diagnoses, and treatment strategies were analyzed. Results: A total of 707 athletes underwent PPS during the study period. After applying exclusion criteria, 635 athletes were eligible for analysis. Musculoskeletal alterations were identified in 141 athletes (22.2%). Among them, 54 athletes were referred for PM&R evaluation and 40 completed the consultation. No statistically significant differences were observed between referred and non-referred athletes. The most frequent reasons for referral were suspected scoliosis (n = 22), foot alignment disorders n = 18), thoracic hyperkyphosis (n = 5), and lower limb length discrepancy (n = 4). Specialist evaluation resulted in conservative management in most cases, including corrective exercise programs and orthotic interventions, while one athlete required surgical treatment for congenital scoliosis. Conclusions: Musculoskeletal screening during PPS identified a broad spectrum of findings in young athletes, including clinically relevant abnormalities requiring specialist evaluation and management. These findings suggest that musculoskeletal assessment may provide an opportunity for early clinical identification within PPS; however, prospective studies are needed to evaluate diagnostic accuracy, long-term clinical benefit, injury prevention, and cost-effectiveness before routine implementation can be recommended.",
-   "doi": "10.3390/jfmk11040413",
+   "abstract": "Wearable ankle exosuits require precise evaluation frameworks to optimize assistive force transmission and subject-specific configuration. This study presents a multimodal sensor-based experimental and computational framework to assess the influence of ankle exosuit cable anchor positioning on neuromuscular and energetic responses during gait in a child with spastic hemiplegic cerebral palsy. Three-dimensional kinematics were acquired using an optical motion capture system (12 infrared cameras), while ground reaction forces were recorded through instrumented force plates. Metabolic cost was experimentally measured using portable respiratory gas analysis. These sensor-derived data were integrated into a participant-scaled musculoskeletal model in OpenSim to simulate nine cable anchor configurations and quantify changes in muscle activation, force production, mechanical impulse, and metabolic power. Cable geometry altered the predicted distribution of plantar-flexor loading across configurations. Experimental measurements were not available for muscle-level outputs or for the assisted configurations; therefore, these responses were interpreted as model-derived, exploratory comparisons rather than experimentally validated physiological effects. Configurations with larger offsets from the heel-reference position tended to yield greater reductions in gastrocnemius demand, whereas configurations nearer the heel reference more effectively reduced soleus loading but increased secondary stabilizing muscle recruitment. Predicted metabolic changes across assisted configurations ranged from a 0.86% reduction to a 6.28% increase relative to the experimental baseline, and from a 2.66% reduction to a 4.33% increase relative to the simulated non-actuated condition. These differences should be interpreted as indicators of model sensitivity rather than demonstrated energetic improvements. This study demonstrates how multimodal gait sensing combined with musculoskeletal simulation provides a quantitative tool for preliminary screening of cable-driven ankle exosuit design in pathological gait.",
+   "doi": "10.3390/biomimetics11100731",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42924692/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42930283/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
    "is_new": true,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42921340",
-   "title": "Using Wearable Sensors and Video Analysis to Improve Functional Electrical Stimulation Prescription in Individuals With Multiple Sclerosis: A Case Series.",
-   "journal": "Int J MS Care",
-   "year": "2026",
-   "authors": [
-    "Jackson K",
-    "Hosseini S",
-    "Bigelow K"
-   ],
-   "abstract": "A growing body of evidence supports the use of functional electrical stimulation (FES) in people with multiple sclerosis (MS). However, prescription remains an imprecise process with no well-established guidelines for assessing the immediate or long-term effects to ensure maximum benefit.\u00a0The purpose of this case series was to assess the potential benefits of using wearable sensors and video analysis to provide immediate feedback on gait performance to improve FES prescription in people with MS. Three adults (2 women, 1 man; age range, 39-62 years) with MS with varying levels of lower extremity motor function and gait impairment were enrolled. During a single visit, participants performed a series of 10-m walks under various FES and non-FES conditions while using wearable motion sensors. Additionally, 2D video analysis was used to assess alterations in knee angles during swing and stance phases. All participants demonstrated improvements in a variety of gait variables, including a clinically meaningful (> 0.1 m/s) increase in gait speed during 1 or more of the FES conditions when compared with the no-device and/or prescribed ankle foot orthosis conditions. There were additional improvements associated with multichannel stimulation of the lower leg and thigh for certain gait variables. Data from the wearable sensors and video analysis were advantageous in helping researchers determine the most appropriate FES prescription for each participant. This case series demonstrates the potential clinical usefulness of these technologies in prescribing FES for people with MS.",
-   "doi": "10.7224/1537-2073.2025-050",
-   "pubtypes": [
-    "Case Reports",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42921340/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
   },
   {
    "pmid": "42918848",
@@ -300,6 +216,34 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42926125",
+   "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
+   "journal": "J Sport Rehabil",
+   "year": "2026",
+   "authors": [
+    "Wang X",
+    "Shao X",
+    "Shi X",
+    "Adams RD",
+    "et al."
+   ],
+   "abstract": "Up to 75% of lateral ankle sprain cases experience long-term impairments and suffer chronic ankle instability (CAI), a condition characterized by impaired ankle proprioception. This study aims to investigate ankle proprioceptive performance during functional tasks with increasing movement control and ankle joint load in individuals with and without CAI. Cross-sectional study. Twenty individuals with CAI and 19 healthy controls completed 4 proprioceptive tasks: standing, walking, landing (double-leg drop), and stair descent. In each task, their ability to discriminate between 4 ankle inversion angles was assessed using a task-specific discrimination apparatus. CAI participants had significantly lower ankle proprioception scores than controls (mean difference = 0.047, 95% CI, 0.031-0.063). Proprioceptive acuity varied by task (P < .001, \u03b7p2=.345), with no significant group-by-task interaction (P = .220, \u03b7p2=.039). Trend analysis showed a linear improvement in proprioceptive performance with increasing ankle load and challenge in controls (P < .001, \u03b7p2=.685), whereas the CAI group showed both significant linear (P < .001, \u03b7p2=.445) and quadratic (P = .001, \u03b7p2=.430) trends, reflecting a rise followed by a significant downturn as load peaked. Both groups improved with greater load, but during stair descent, individuals with CAI exhibited a significant decline. This suggests that proprioceptive processing in CAI is impaired and may be overloaded during highly challenging tasks.",
+   "doi": "10.1123/jsr.2025-0436",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42926125/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42826255",
@@ -441,62 +385,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42789776",
-   "title": "Balance Wood, a Bilateral Ankle-Controlled Serious Game for Healthy Adults: 2-Stage Cross-Sectional Development and Usability Study.",
-   "journal": "JMIR Serious Games",
-   "year": "2026",
-   "authors": [
-    "Zhang Y",
-    "Yamamoto J",
-    "Han T",
-    "Song Q",
-    "et al."
-   ],
-   "abstract": "Ankle mobility and control contribute to balance and everyday movement throughout adulthood, yet are usually assessed through repetitive, abstract tasks that reveal little about movement production. Serious games can make repeated tasks engaging, but most report only end point scores rather than continuous gameplay signals, and few establish system usability. Developing and evaluating such a system in healthy adults is a necessary first step. This study aimed to develop Balance Wood, a bilateral ankle-controlled serious game in which seated players tilt a device through ankle flexion-extension to control on-screen play, to describe the system and the signals it records, and to evaluate its usability, safety, and user experience in healthy adults. In this two-stage cross-sectional development and usability study, healthy adults without lower-limb injury or balance-affecting neurological or vestibular disorders completed single-session repeated-measures procedures. In stage 1, a total of 40 adults-20 older (mean age 73.0, SD 5.9 y; 10 women) and 20 younger (mean age 28.1, SD 3.2 y; 4 women) adults-completed 3 fixed-order difficulty levels in 1 session (exploratory signal analysis). In stage 2, a total of 18 younger adults (mean age 24.6, SD 3.9 y; 5 women) completed the levels in counterbalanced order. Usability was assessed with the System Usability Scale (0-100); use impressions and consciously used body parts with Likert and open-ended items; and device tilt-angle accuracy against a digital goniometer. The mean System Usability Scale score was 81.5 (SD 11.2; 95% CI 76.0-87.1; Cronbach \u03b1=.74), above the benchmark of 68, indicating good perceived usability. Mean ratings were 2.11 (SD 1.32) for safety concern (95% CI 1.45-2.77) and 1.67 (SD 1.03) for pain (95% CI 1.15-2.18). Ankle use was highest at 4.94 (SD 0.24), exceeding knee 2.50 (SD 1.29), hip 2.00 (SD 1.24), and trunk 2.17 (SD 1.15) by Wilcoxon signed-rank tests (P<.001). Device readings agreed closely with the goniometer, with a mean absolute error of 0.66\u00b0, an intraclass correlation coefficient of 0.999, and 95% limits of agreement of -0.68 to 1.70\u00b0. In stage 1, all measures were computable for the 40 participants, with typical amplitudes of 20.5\u00b0 to 27.2\u00b0 and stable speed in both groups. In stage 2, repeated-measures analyses (\u03b1=.05) did not detect statistically significant differences across difficulty conditions or presentation positions (all P>.13). In healthy adults, Balance Wood was usable, well-accepted, low-risk, and provided accurate device-level tilt measurement with predominantly ankle-based control while continuously recording gameplay signals. It is a low-cost, bilateral, ankle-specific control interface with continuous signal capture into 1 easy-to-use device. Its contribution is a reproducible, usability-tested platform with characterized device accuracy, and formally defined candidate measures awaiting validation. Once validated, it could support home- or community-based recording; in the near term, it is a research tool.",
-   "doi": "10.2196/96617",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42789776/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42787447",
-   "title": "Baseline PTSD and depressive symptoms predict multidimensional recovery after combat-related transtibial amputation: a prospective cohort study.",
-   "journal": "Front Rehabil Sci",
-   "year": "2026",
-   "authors": [
-    "Halabitska I",
-    "Kamyshna I",
-    "Buchynskyi M",
-    "Petakh P",
-    "et al."
-   ],
-   "abstract": "Posttraumatic stress disorder (PTSD) is common among combat-injured service members. To date, there is insufficient evidence to determine whether the initial severity of psychiatric disorders is associated with the dynamics of motor recovery after lower limb amputation. The aim of the study was to assess whether the severity of PTSD and depressive symptoms at the time of hospitalization affect the outcomes of intensive robotic neurorehabilitation after combat-related unilateral transtibial amputation. A prospective cohort study included 45 male service members with unilateral transtibial amputations who underwent a standardized robotic neurorehabilitation program for the lower limbs. The examinations were performed at four time points: on days 0, 14, 30, and 120. 46 indicators were evaluated, including stabilometric posturography (Stabiloplatforma Alfa), instrumental gait analysis (OMEGO, STRIDE ONE, BALO), clinical functional tests (BBS, TUG, FRT, AMPPRO, FSST, 10MWT, 2MWT, 6MWT, ABC), pain intensity (VAS), as well as psychiatric scales PCL-5 and PHQ-9. Statistical analyses included longitudinal mixed-effects modeling, multivariable regression, and exploratory machine-learning approaches. The study found that the level of PTSD and depression at the beginning of rehabilitation was associated with functional recovery after combat transtibial amputation. 37.8% of participants recorded a clinically significant improvement according to the combined criterion. Psychiatric scales (PCL-5 and PHQ-9) showed moderate predictive ability for rehabilitation response (AUC\u2009=\u20090.80). The PCL-5, PHQ-9, VAS, and baseline functional indicators (BBS and TUG) had the greatest contribution to prediction. The probability of a positive response to treatment decreased with higher PCL-5 values. Cluster analysis identified two types of patients: with high psychiatric burden and worse recovery and with lower burden and better outcomes. The results suggest that psychiatric status at the beginning of rehabilitation may be an important factor associated with functional recovery after amputation. Screening for PTSD and depression may help predict rehabilitation outcomes. However, these findings need to be confirmed in larger studies. It is also worthwhile to examine whether early psychiatric intervention can improve rehabilitation outcomes.",
-   "doi": "10.3389/fresc.2026.1891994",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42787447/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1000,33 +888,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42787454",
-   "title": "Effect of Rhythmic Stabilization Technique Versus Conventional Strengthening on Joint Stability, Pain, and Walking Performance in Chronic Ankle Instability.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Shinde VV",
-    "Jagtap V",
-    "Shinde AP",
-    "Potdar MV"
-   ],
-   "abstract": "Chronic ankle instability (CAI) is one of the consequences of repeated sprains of the lateral aspect of an ankle joint, characterized by frequent episodes of the ankle giving way, pain, impaired proprioception, and reduced functional performance. In rehabilitation, traditional strengthening exercises are often performed; however, interventions targeting neuromuscular control and dynamic joint stabilization may provide superior outcomes. Rhythmic stabilization technique (RST), a proprioceptive neuromuscular facilitation technique, promotes co-contraction of agonist and antagonist muscles, thereby enhancing joint stability and proprioceptive function. A total of 58 participants aged 18-40 years with a diagnosis of CAI were recruited for this comparative experimental study. Two groups were formed, and participants were randomly assigned to either group: Group A (RST, n = 29) and Group B (conventional strengthening, n = 29). Both groups underwent a structured four-week intervention program. Outcome measures included the Cumberland Ankle Instability Tool (CAIT) for joint stability, Numerical Pain Rating Scale (NPRS) for pain intensity, and Foot and Ankle Ability Measure (FAAM) for walking performance. Assessments were performed pre- and postintervention. Statistical analysis was performed. Significant improvement was shown by both groups in all outcome measures following the intervention. Group A showed greater improvement in CAIT scores (16.79 \u00b1 2.47 to 28.10 \u00b1 1.21), NPRS scores (7.66 \u00b1 0.81 to 1.66 \u00b1 0.55), and FAAM scores (45.41 \u00b1 3.52 to 74.28 \u00b1 3.76) compared with Group B. Statistically significant differences were observed after the intervention favoring Group A across all outcomes (p < 0.0001). RST demonstrated superior effectiveness and is considered a valuable evidence-based intervention for the rehabilitation of CAI.",
-   "doi": "10.7759/cureus.115133",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42787454/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42852461",
    "title": "Effects of Cognitive Loading on Biomechanical and Cognitive-Motor Performance During Jump Landing-Cutting in Chronic Ankle Instability.",
    "journal": "J Athl Train",
@@ -1058,33 +919,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42786832",
-   "title": "Enhanced Feature Extraction and Integration with Advanced Machine Learning Algorithms for Sports-Injury CT-Image Classification.",
-   "journal": "Curr Med Imaging",
-   "year": "2026",
-   "authors": [
-    "Jun W",
-    "Huiqin C",
-    "Abbasi R",
-    "Heyat MBB"
-   ],
-   "abstract": "X-rays, Computed Tomography (CT) scans, Magnetic Resonance Imaging (MRI), and ultrasound scans are examples of common medical imaging methods. These techniques are highly effective at extracting features, classifying, and diagnosing bone and muscle injuries. Enhancing athletic performance, minimizing injuries, and promoting players' overall health are the main goals of the vital discipline of sports medicine. Sports feature extraction of medical images, and sports medicine specialists help athletes reach their full potential while preserving their long-term health by preventing injuries and providing precise diagnoses. We proposed a feature extraction approach for sport CT inquiry images, which were first preprocessed and then subjected to wavelet multi-scale analysis. The CT scan image of a sports injury is broken down into different directions based on smooth and rough regions. The Non-Down- Sampled Contour Transformation (NSCT) and Pyramid Bank (NSPFB) model is applied to the CT image of a sports injury. Furthermore, we employed Feedforward Neural Networks (FNNs), Convolutional Neural Networks (CNNs), and recurrent neural networks (RNNs) for medical image diagnosis. The model was tuned by using hyperparameters. We proposed a feature-extraction model for medical CT scans of sports injuries and provided supporting statistics for medical diagnosis. The CT scan image of the sports injury is subdivided into different sub-directions based on smooth and rough regions. Furthermore, enhanced sub-regain is achieved using an adaptive gamma correction and multi-directional image enhancement via wavelet layering. Our proposed method has demonstrated a remarkable accuracy of 88%, while the deep learning model TabNet-Transform has achieved an imposing 90%. The proposed algorithm improves the quality of the output images and is computationally efficient. Current research indicates that the most vital area of medicine is image analysis, which helps radiologists to make more accurate diagnoses. The feature extraction process involves extracting valuable information from higher-level representations, such as the Region of Interest (ROI) for image analysis, and transforming the image from these representations into lower-level pixel data. The performance analysis of the proposed scheme yielded an efficient extraction time. When extracting feature characteristics for 10 to 30 medical CT images of sports injuries, the average computation time is 2ms to 6 ms. This research explored the application of machine learning and advanced artificial intelligence models to predict disease diagnosis and to enhance feature extraction from medical CT images of sports injuries. However, several variables impact the original image, including removing image noise and detecting specific regions or objects of interest. Our findings pave the way for further investigations of sports injury and early disease prognosis. We may incorporate data from wearable devices to improve their predictive power and extract the desired features for disease prognosis analysis.",
-   "doi": "10.2174/0115734056413312251111043047",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42786832/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42852876",
@@ -1371,31 +1205,31 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42788174",
-   "title": "Global Research Trends in Metatarsal Stress Fractures in Athletes.",
-   "journal": "Orthop Rev (Pavia)",
+   "pmid": "42927087",
+   "title": "Gait speed and multi-segment foot joint kinematics throughout the entire stance phase using statistical parametric mapping.",
+   "journal": "PeerJ",
    "year": "2026",
    "authors": [
-    "Kalidindi D",
-    "Gadikota P",
-    "Viswanath O",
-    "Ganti L"
+    "Jeong H",
+    "Hamill J",
+    "Boyer KA",
+    "van Emmerik REA"
    ],
-   "abstract": "Metatarsal Stress Fractures (MSFs) are commonly occurring overuse injuries for athletes and soldiers. This paper investigated publication patterns, top authors, networks, and themes associated with MSFs. Bibliometric analysis of publications on MSFs published during the period from 1970-2026 was carried out using the Web of Science Core Collection. Network and visualization of bibliometric analyses were carried out using VOSviewer. A total of 479 publications were identified. There has been a significant rise in research output following 2011, peaking during 2017-2025 years. Subject categories with highest publication outputs were Orthopedics and Sport Sciences; the most active countries are the United States, England, and Japan; JA Nunley is the most prolific author, whereas Foot & Ankle International is the most popular journal; keywords include Jones' fractures, 5th metatarsal fracture, surgical intervention, and return to play. Increase in publication outputs likely reflects rising sports participation levels and advances in sports medicine. Nevertheless, the majority of research is centered around Jones' fractures, surgery, with minimal interest in preventive strategies, metabolism-related risk factors, and minor metatarsal stress fractures. Future research should focus on prevention methods, metabolism, and scientific approaches to returning to sport activities.",
-   "doi": "10.52965/001c.169724",
+   "abstract": "The foot is a multi-segment structure whose segments function together. Due to its ongoing connection with the support surface, the foot must be capable of managing loads that vary with gait speed. Previous studies have provided considerable insight into the relationship between foot joint kinematics and gait speed. However, their primary reliance on discrete measures, such as peak joint angles, has limited understanding of how these relationships evolve throughout the stance phase. The aim of this study was to investigate the effects of gait speed on full time-series trajectories of multiplanar foot joint kinematics using statistical parametric mapping. According to our findings, faster walking primarily increased ankle eversion and midfoot dorsiflexion during weight acceptance (\u223c17-29% of the stance phase). In contrast, during propulsion, faster walking increased ankle plantar flexion (\u223c80-100% of the stance phase) and inversion (\u223c82-90%), as well as midfoot plantar flexion (\u223c82-100%) and adduction (\u223c90-98%), together with greater dorsiflexion of the first metatarsophalangeal joint after heel-off (\u223c43-98% of the stance phase). These multiplanar joint kinematic alterations across the ankle-foot joints throughout the stance phase reflect greater foot-arch collapse in early stance and foot-arch recoil in late stance, which may facilitate appropriate energy absorption and generation in response to increasing gait speed. Importantly, these adaptive foot motions were not captured by previous discrete analyses, which may obscure phase-dependent changes during gait. The present continuous time-series approach revealed detailed temporal adaptations in foot kinematics across the stance phase, providing a more comprehensive characterization of gait mechanics.",
+   "doi": "10.7717/peerj.21787",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42788174/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42927087/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
     }
    ],
    "is_new": false,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42833157",
@@ -1727,6 +1561,62 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42924681",
+   "title": "Musculoskeletal Complaint Patterns and Training Impact in Adult Triathletes During the 2023 Season.",
+   "journal": "J Funct Morphol Kinesiol",
+   "year": "2026",
+   "authors": [
+    "Parr JJ",
+    "Dobson SR",
+    "Navara J",
+    "Kusuma M",
+    "et al."
+   ],
+   "abstract": "Objectives: To characterize self-report musculoskeletal complaints, anatomical distribution, healthcare utilization, training impact, and associations with demographic and training characteristics among adult triathletes during the 2023 season. Methods: A retrospective cross-sectional survey was conducted among community-based triathletes recruited through social media and triathlon organizations. Adults aged \u226518 years who completed or intended to complete at least one triathlon in 2023 were included (N = 245). Demographic characteristics, years of participation, race focus, and weekly training volume were collected. Main outcomes included self-reported musculoskeletal complaints, anatomical location, complaint classification, healthcare utilization, and training disruption. Results: Of 245 participants (60.0% male; most frequent age group 30-34 years), 127 of 242 with available complaint data (52.5%) reported at least one complaint, totaling 175 reported complaints. The lower extremity accounted for 79.4% of complaints, most commonly the hip/pelvis (22.3%), lower leg (18.7%), knee (17.3%), ankle (15.1%), and foot/toes (15.1%). Running was the most frequently reported activity associated with complaint onset (61%). The number of reported complaints was not significantly associated with the broad demographic or training characteristics examined. Healthcare utilization was reported for 62.4% of complaints with available healthcare data. Among complaints with available training impact data, 50.6% resulted in both missed and modified training, 28.2% in modified training only, and 21.2% in missed training only. Conclusions: More than half of the triathletes surveyed reported musculoskeletal complaints during the 2023 season, with lower-extremity and overuse complaints predominating and running most frequently associated with complaint onset. Broad demographic and general training characteristics were not significantly associated with the number of reported complaints. These findings highlight the burden and training consequences of self-reported musculoskeletal complaints among adult triathletes and support the need for prospective surveillance incorporating discipline-specific exposure and more detailed training load measures.",
+   "doi": "10.3390/jfmk11040402",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42924681/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42924692",
+   "title": "Musculoskeletal Findings Following Pre-Participation Screening in Young Athletes: A Retrospective Observational Study.",
+   "journal": "J Funct Morphol Kinesiol",
+   "year": "2026",
+   "authors": [
+    "Vecchiato M",
+    "Palermi S",
+    "Ancona L",
+    "Barbaro G",
+    "et al."
+   ],
+   "abstract": "Background: Pre-participation screening (PPS) is widely used to evaluate athletes before sport participation, traditionally focusing on cardiovascular risk prevention. However, musculoskeletal assessment performed during PPS may also allow early identification of biomechanical and structural abnormalities that can affect sport participation during growth. Objectives: This study aimed to describe the prevalence, clinical characteristics, and management pathways of musculoskeletal alterations detected during PPS in young athletes, with particular focus on referral patterns to pediatric Physical Medicine and Rehabilitation (PM&R) specialists. Methods: This retrospective observational study included athletes aged \u226415 years who underwent PPS between January 2022 and December 2023 at the Sports Medicine Unit of Noale (ULSS 3 Serenissima, Venice, Italy). Musculoskeletal screening was systematically performed during PPS. Athletes presenting newly detected abnormalities were either managed conservatively by the sports physician or referred for PM&R evaluation. Clinical indications for referral, imaging investigations, diagnoses, and treatment strategies were analyzed. Results: A total of 707 athletes underwent PPS during the study period. After applying exclusion criteria, 635 athletes were eligible for analysis. Musculoskeletal alterations were identified in 141 athletes (22.2%). Among them, 54 athletes were referred for PM&R evaluation and 40 completed the consultation. No statistically significant differences were observed between referred and non-referred athletes. The most frequent reasons for referral were suspected scoliosis (n = 22), foot alignment disorders n = 18), thoracic hyperkyphosis (n = 5), and lower limb length discrepancy (n = 4). Specialist evaluation resulted in conservative management in most cases, including corrective exercise programs and orthotic interventions, while one athlete required surgical treatment for congenital scoliosis. Conclusions: Musculoskeletal screening during PPS identified a broad spectrum of findings in young athletes, including clinically relevant abnormalities requiring specialist evaluation and management. These findings suggest that musculoskeletal assessment may provide an opportunity for early clinical identification within PPS; however, prospective studies are needed to evaluate diagnostic accuracy, long-term clinical benefit, injury prevention, and cost-effectiveness before routine implementation can be recommended.",
+   "doi": "10.3390/jfmk11040413",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42924692/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -2120,34 +2010,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42789327",
-   "title": "Rationale, Design, and Baseline Characteristics of the TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) Cohort of Older Adults for Assessing Fall and Fracture Risk: Prospective Cohort Study.",
-   "journal": "JMIR Aging",
-   "year": "2026",
-   "authors": [
-    "Chan A",
-    "Visaria A",
-    "Malhotra R",
-    "Singh NB",
-    "et al."
-   ],
-   "abstract": "Falls and fractures are a major clinical concern for older adults. International clinical guidelines recommend annual fall risk screening for all adults aged 60 years and older. However, existing falls risk-screening algorithms have shown limited sensitivity and specificity in detecting future falls. Emerging health technologies, including wearable sensors, in-silico finite element models (FEMs), and virtual reality (VR) technology, show promise in enhancing fall and fracture risk assessments by providing more personalized objective data to support targeted primary prevention. However, large-scale longitudinal studies are required to evaluate their predictive accuracy and cost-effectiveness for systematic community-based screening. The TARGET (Targeted Assessment and Recruitment of Geriatrics for Effective Fall Prevention Treatments) study is an ongoing national prospective cohort study in Singapore designed to develop cost-effective and scalable frameworks for the early detection and prevention of falls and fractures using novel health technologies. This paper describes the rationale, design, and baseline characteristics of TARGET, and provides preliminary insights into how these novel technologies perform in discriminating between older adults with and with no history of falls at study baseline. A total of 2291 community-dwelling Singapore residents aged \u226560 years were enrolled between 2022 and 2024. Participants underwent a comprehensive baseline fall risk assessment comprising (1) home-based interview to assess sociodemographic, anthropometric, cognitive, physical, functional, and psychosocial status; (2) gait assessment using wearable inertial measurement units (IMUs) motion sensors; (3) dual-energy X-ray absorptiometry and whole-body 3D scans to construct subject-specific FEMs; and (4) VR-based cognitive assessment to probe spatial navigation deficits. Prospective follow-up for 2 years is ongoing, with linkage to national electronic medical records (EMRs) to obtain detailed clinical, medication, and pathological data. Of the total cohort, 58% (1327/2291) were female, with a mean age of 74.6 years at baseline. TARGET represents a relatively healthy older adult population, with 83% (1898/2291) remaining fully independent, 44% (1016/2290) with mild cognitive impairment, 50% (440/879) with osteopenia, and 15% (358/2291) reporting falls in the past year. Significant baseline functional, psychosocial, cognitive, and biomechanical differences were identified between fallers and nonfallers. Fallers had poorer physical and psychosocial health, greater gait variability, and a higher risk of osteoporotic fractures. Novel risk prediction models integrating epidemiological, IMUs, FEM, VR, and EMR data are in development and being validated against gold standard clinical assessments, with cost-effectiveness evaluations of the economic feasibility of adopting these screening measures at scale. Leveraging comprehensive epidemiological, EMR, and health technology data, TARGET is well positioned to identify novel biomarkers and systemic interactions that may predict falls and fracture risk, with potential application to other age-related diseases with shared pathophysiology. In particular, TARGET's focus on community-based screening using technologies that can be administered by nonclinical personnel has the potential to reduce substantial burden and costs within the health care sector.",
-   "doi": "10.2196/89285",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42789327/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42838110",
    "title": "Relationship Between Individual Workload, Training Impulse, and Game Performance in Women Collegiate Basketball Athletes.",
    "journal": "J Strength Cond Res",
@@ -2450,6 +2312,33 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42921340",
+   "title": "Using Wearable Sensors and Video Analysis to Improve Functional Electrical Stimulation Prescription in Individuals With Multiple Sclerosis: A Case Series.",
+   "journal": "Int J MS Care",
+   "year": "2026",
+   "authors": [
+    "Jackson K",
+    "Hosseini S",
+    "Bigelow K"
+   ],
+   "abstract": "A growing body of evidence supports the use of functional electrical stimulation (FES) in people with multiple sclerosis (MS). However, prescription remains an imprecise process with no well-established guidelines for assessing the immediate or long-term effects to ensure maximum benefit.\u00a0The purpose of this case series was to assess the potential benefits of using wearable sensors and video analysis to provide immediate feedback on gait performance to improve FES prescription in people with MS. Three adults (2 women, 1 man; age range, 39-62 years) with MS with varying levels of lower extremity motor function and gait impairment were enrolled. During a single visit, participants performed a series of 10-m walks under various FES and non-FES conditions while using wearable motion sensors. Additionally, 2D video analysis was used to assess alterations in knee angles during swing and stance phases. All participants demonstrated improvements in a variety of gait variables, including a clinically meaningful (> 0.1 m/s) increase in gait speed during 1 or more of the FES conditions when compared with the no-device and/or prescribed ankle foot orthosis conditions. There were additional improvements associated with multichannel stimulation of the lower leg and thigh for certain gait variables. Data from the wearable sensors and video analysis were advantageous in helping researchers determine the most appropriate FES prescription for each participant. This case series demonstrates the potential clinical usefulness of these technologies in prescribing FES for people with MS.",
+   "doi": "10.7224/1537-2073.2025-050",
+   "pubtypes": [
+    "Case Reports",
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42921340/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "42857363",

@@ -1,5 +1,53 @@
 [
  {
+  "pmid": "42928345",
+  "title": "Effects of the FIFA 11\u2009+\u2009neuromuscular warm-up program on Move2Perform injury risk classification in youth amateur soccer players: a randomized controlled trial.",
+  "journal": "BMC Sports Sci Med Rehabil",
+  "year": "2026",
+  "authors": [
+   "Ataba\u015f EG",
+   "Yap\u0131c\u0131 A",
+   "Ba\u011f\u0131\u015f YE"
+  ],
+  "abstract": "Lower extremity injuries are a major concern in youth soccer, where multifactorial risk factors interact and isolated screening tools have demonstrated limited predictive accuracy. Neuromuscular warm-up programs such as the FIFA 11\u2009+\u2009have shown efficacy in reducing injury incidence, yet limited evidence exists on their effect when combined with multifactorial risk-classification frameworks in amateur youth populations. The present study aimed to evaluate the effects of an eight-week FIFA 11\u2009+\u2009neuromuscular warm-up program on injury risk profiles-classified by the Move2Perform algorithm-and on functional performance and injury incidence in youth amateur male soccer players. In this parallel-group, single-blinded randomized controlled trial, 44 male amateur soccer players aged 15-18\u00a0years competing in a regional amateur league were randomly allocated, using computer-generated block randomization, to an experimental group (n\u2009=\u200922) or a control group (n\u2009=\u200922). Injury risk was classified using the Move2Perform algorithm, which integrates demographic data, injury history, the Functional Movement Screen (FMS), and the Lower Quarter Y-Balance Test (YBT-LQ). Additional outcomes included jump performance and isometric quadriceps and hamstring strength. The experimental group performed the FIFA 11\u2009+\u2009program three times per week for eight weeks under the supervision of a certified physiotherapist, while the control group continued their routine warm-up. Time-loss injuries were recorded prospectively during the eight-week period. A mixed-design ANOVA was used to assess Group\u2009\u00d7\u2009Time interactions. The experimental group showed significant improvements in YBT-LQ composite scores, FMS total scores, jump test performance, and quadriceps strength (p\u2009<\u20090.05), with significant Group\u2009\u00d7\u2009Time interactions favoring the FIFA 11\u2009+\u2009group. Move2Perform risk classification shifted favorably in the experimental group: athletes initially categorized as Moderate Risk showed the most pronounced improvement, transitioning to Slight Risk, and three athletes initially classified as Substantial Risk moved to the Slight Risk category (descriptively notable, but not reaching statistical significance for this subgroup). The experimental group experienced significantly fewer time-loss injuries (n\u2009=\u20092) than the control group (n\u2009=\u20098) over the eight-week period (p\u2009=\u20090.009), with significantly lower incidences of ankle sprains (p\u2009=\u20090.038) and hamstring strains (p\u2009=\u20090.041). Athletes classified as high risk by the Move2Perform algorithm sustained approximately a threefold increase in injury occurrence compared with their lower-risk counterparts. An eight-week, supervised FIFA 11\u2009+\u2009neuromuscular warm-up program produced favorable shifts in Move2Perform injury risk classification and reduced time-loss injury incidence in youth amateur soccer players. Combining multifactorial injury risk classification with structured neuromuscular warm-up appears to be a practical and effective strategy for reducing lower extremity injury risk in this population, supporting the integration of preseason group-based prevention with individualized corrective approaches. ClinicalTrials.gov, NCT07713004. Registered on 17 July 2026. Retrospectively registered.",
+  "doi": "10.1186/s13102-026-01919-y",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42928345/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-26T19:31:36Z"
+ },
+ {
+  "pmid": "42930283",
+  "title": "Multimodal Gait Acquisition and Musculoskeletal Simulation for Subject-Specific Evaluation of Ankle Exosuit Cable Anchor Positioning in Cerebral Palsy.",
+  "journal": "Biomimetics (Basel)",
+  "year": "2026",
+  "authors": [
+   "Bermejo-Garc\u00eda J",
+   "Mart\u00edn-Fraile A",
+   "Ojeda J",
+   "Agujetas R",
+   "et al."
+  ],
+  "abstract": "Wearable ankle exosuits require precise evaluation frameworks to optimize assistive force transmission and subject-specific configuration. This study presents a multimodal sensor-based experimental and computational framework to assess the influence of ankle exosuit cable anchor positioning on neuromuscular and energetic responses during gait in a child with spastic hemiplegic cerebral palsy. Three-dimensional kinematics were acquired using an optical motion capture system (12 infrared cameras), while ground reaction forces were recorded through instrumented force plates. Metabolic cost was experimentally measured using portable respiratory gas analysis. These sensor-derived data were integrated into a participant-scaled musculoskeletal model in OpenSim to simulate nine cable anchor configurations and quantify changes in muscle activation, force production, mechanical impulse, and metabolic power. Cable geometry altered the predicted distribution of plantar-flexor loading across configurations. Experimental measurements were not available for muscle-level outputs or for the assisted configurations; therefore, these responses were interpreted as model-derived, exploratory comparisons rather than experimentally validated physiological effects. Configurations with larger offsets from the heel-reference position tended to yield greater reductions in gastrocnemius demand, whereas configurations nearer the heel reference more effectively reduced soleus loading but increased secondary stabilizing muscle recruitment. Predicted metabolic changes across assisted configurations ranged from a 0.86% reduction to a 6.28% increase relative to the experimental baseline, and from a 2.66% reduction to a 4.33% increase relative to the simulated non-actuated condition. These differences should be interpreted as indicators of model sensitivity rather than demonstrated energetic improvements. This study demonstrates how multimodal gait sensing combined with musculoskeletal simulation provides a quantitative tool for preliminary screening of cable-driven ankle exosuit design in pathological gait.",
+  "doi": "10.3390/biomimetics11100731",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42930283/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-26T19:31:36Z"
+ },
+ {
   "pmid": "42926125",
   "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
   "journal": "J Sport Rehabil",
