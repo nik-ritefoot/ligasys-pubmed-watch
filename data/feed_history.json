@@ -1,5 +1,252 @@
 [
  {
+  "pmid": "42934133",
+  "title": "[Design and analysis of a serial ankle rehabilitation robot].",
+  "journal": "Sheng Wu Yi Xue Gong Cheng Xue Za Zhi",
+  "year": "2026",
+  "authors": [
+   "Dai Y",
+   "Tao Q",
+   "Liu C",
+   "Li G",
+   "et al."
+  ],
+  "abstract": "To address the complex mechanism configurations, strong motion coupling, and control complexity associated with some existing ankle rehabilitation robots, a two-degree-of-freedom serial ankle rehabilitation robot with independent actuation is proposed. The robot is capable of providing single-degree-of-freedom training in plantarflexion/dorsiflexion and adduction/abduction, as well as compound motion training. A kinematic model of the spatial orthogonal 2R mechanism was established, and its kinematic performance was analyzed. Ankle posture coupling constraints were introduced to refine the workspace. A prototype of the rehabilitation robot was subsequently fabricated, and ankle angle-tracking experiments were conducted using a Vicon three-dimensional motion capture system. The results showed that the mechanism had no singular configurations within the physiological range of motion of the human ankle. The maximum condition number was 1.414. In the prototype experiments, the mean absolute error and root mean square error for plantarflexion/dorsiflexion were 1.443\u00b0 and 1.650\u00b0, respectively. For adduction/abduction, the corresponding values were 0.789\u00b0 and 1.005\u00b0. These results demonstrate the feasibility of the proposed robot configuration for ankle rehabilitation and its favorable performance in tracking human ankle joint angles during robot-assisted motion.",
+  "doi": "10.7507/1001-5515.202605024",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934133/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42931924",
+  "title": "[Sensorimotor insoles for musculoskeletal disorders : An evidence-based rapid review].",
+  "journal": "Orthopadie (Heidelb)",
+  "year": "2026",
+  "authors": [
+   "Walther M",
+   "Greitemann B",
+   "Kerkoff A",
+   "See\u00dfle M",
+   "et al."
+  ],
+  "abstract": "Sensorimotor foot orthoses (SMFOs) are designed to modulate afferent input through targeted plantar stimuli and thereby influence neuromuscular control mechanisms. This review aimed to provide an evidence-based assessment of their clinical effectiveness across different musculoskeletal conditions. We conducted a\u00a0rapid review of randomized controlled trials and systematic reviews. We evaluated the available evidence for different orthotic concepts on an indication-specific basis using the GRADE approach. The strongest evidence was for symptomatic flexible pes planovalgus and patellofemoral pain syndrome, although no consistent superiority of SMFOs over conventional supportive foot orthoses was demonstrated. In patients with patellofemoral pain syndrome, randomized data showed significant improvements in pain and function with both SMFOs and conventional foot orthoses. For chronic ankle instability, the evidence regarding sensorimotor interventions is largely limited to mechanistic and indirect outcomes. Interpretation is further complicated because the textured insoles used in many studies do not match what is traditionally understood as SMFOs in German-speaking orthopedic practice. Evidence for SMFOs in nonspecific low back pain is even more limited and is characterized by heterogeneous findings. Based on the current literature, no clear superiority of sensorimotor orthotic concepts can be demonstrated for any specific diagnosis. However, this should not be interpreted as evidence of general ineffectiveness. SMFOs represent a\u00a0therapeutic option within multimodal treatment strategies and should be prescribed according to the individual indication and patient-specific treatment goals.",
+  "doi": "10.1007/s00132-026-04894-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931924/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42931054",
+  "title": "Cost Analysis and Clinical Outcomes of Staged Versus Single-Stage Fixation in the Management of Trimalleolar Ankle Fractures.",
+  "journal": "J Am Podiatr Med Assoc",
+  "year": "2026",
+  "authors": [
+   "Mant\u0131 N",
+   "Daylak A",
+   "Akbulut AB",
+   "Memi\u015f K",
+   "et al."
+  ],
+  "abstract": "Trimalleolar ankle fractures (TMFs) compromise ankle biomechanics; optimal operative strategy is debated. We compared single-stage open reduction and internal fixation (ORIF) with staged external fixation (EF) plus ORIF for outcomes and hospital billed charges. Retrospective cohort of adults treated 2018-2022 at a tertiary center. EF + ORIF (n = 40) vs. ORIF (n = 49). length of stay (LOS), hospital billed charges (stage-1, stage-2, total), readmission, additional surgical procedures, complications, and visual analog scale (VAS), American Orthopaedic Foot and Ankle Society (AOFAS), Short Form-36 (SF-36) to 2 years. After multivariable adjustment, ORIF was associated with a lower first-stage hospital billed charge (charge ratio, 0.55; 95% CI, 0.37-0.81; p = 0.003), a lower total hospital billed charge (charge ratio, 0.33; 95% CI, 0.24-0.47; p < 0.001), and earlier partial and full weight-bearing. Adjusted AOFAS scores were higher in the ORIF group at 3 months, 6 months, and 1 year, but not at 2 years. Holm-adjusted postoperative VAS contrasts were not significant, and the SF-36 group-by-time interaction was not significant. In this clinically selected cohort, single-stage ORIF was associated with lower hospital billed charges, earlier partial and full weight-bearing, and higher adjusted AOFAS scores at selected early follow-up points. Because Tscherne grade 2 and 3 injuries occurred only in the staged-treatment group, these findings do not establish comparative effectiveness for those injury grades or long-term functional superiority. Temporary external fixation remains an appropriate bridging strategy when soft-tissue conditions preclude immediate ORIF. Level III, retrospective cohort.",
+  "doi": "10.3390/japma116050081",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931054/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42931794",
+  "title": "Double-level osteotomy versus high tibial osteotomy for varus malalignment of the knee: A systematic review and meta-analysis.",
+  "journal": "Knee Surg Sports Traumatol Arthrosc",
+  "year": "2026",
+  "authors": [
+   "Alkatheeri A",
+   "Ghandour M",
+   "Mobarak HA",
+   "Pierce T",
+   "et al."
+  ],
+  "abstract": "To compare double-level osteotomy (DLO) with high tibial osteotomy (HTO) for varus knee malalignment across patient-reported, radiographic, operative and complication outcomes. PubMed, Scopus and Web of Science were searched to 15 May 2026 for comparative DLO versus HTO studies. Outcomes were pooled with a random-effects model as mean differences (MD) or risk ratios (RR) with 95% confidence intervals (CI), with absolute values for each arm. The primary outcome was joint-line obliquity (JLO). Sensitivity analyses (leave-one-out, one cohort per centre, comparable indications) were post hoc. Nine observational studies (805 knees; 306 DLO, 499 HTO) were included. At a mean follow-up of 3 years, postoperative JLO was lower after DLO than after HTO (four studies; 1.6\u00b0 vs. 5.9\u00b0; MD: -4.14\u00b0, 95%CI: -5.22, -3.06; I2\u2009=\u200976%). DLO produced a lower MPTA (seven studies; 91.3\u00b0 vs. 95.4\u00b0; MD: -4.10\u00b0, 95%CI: -5.30, -2.90), LDFA (four studies; 86.0\u00b0 vs. 90.2\u00b0; MD: -4.04\u00b0, 95%CI: -4.49, -3.58) and mLDFA (two studies; 85.6\u00b0 vs. 89.0\u00b0; MD: -3.37\u00b0, 95%CI: -4.16, -2.58). The hip-knee-ankle angle difference was small (five studies; MD: -0.96\u00b0, 95%CI: -1.83, -0.09) and not robust in sensitivity analyses. No difference was demonstrated for joint-line convergence angle, posterior tibial slope, any KOOS subscale, KSS scores or time to return to sport. Operative time was longer with DLO (two studies; 137 vs. 91\u2009min; MD: 42.9, 95%CI: 25.7, 60.2). Intraoperative hinge fracture was less frequent with DLO (three studies; 14.0% vs. 34.6%; RR: 0.41, 95%CI: 0.23, 0.73). No nonunion was reported. At 3 years, no significant difference in patient-reported or functional outcomes was demonstrated between DLO and HTO. DLO achieved correction with less JLO and fewer hinge fractures, at the cost of a longer operation. Because DLO was often selected for bifocal or larger deformities, the radiographic differences partly reflect the indication. These hypothesis-generating findings require prospective confirmation. Level I.",
+  "doi": "10.1002/ksa.70656",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931794/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42937725",
+  "title": "Effects of sensorimotor training combined with short foot exercise on knee and ankle gait kinematics in individuals with flatfoot: A preliminary study.",
+  "journal": "Medicine (Baltimore)",
+  "year": "2026",
+  "authors": [
+   "Moon DC",
+   "Jung JH"
+  ],
+  "abstract": "Flatfoot, a common condition characterized by medial longitudinal arch collapse, alters foot and lower-limb mechanics. Sensorimotor training and short-foot exercises can improve postural stability and functional performance. However, their combined effects on gait kinematics remain unclear. This preliminary study evaluated the 6-week effects of combining these interventions on knee and ankle gait kinematics in individuals with flexible flatfeet. Thirty-two asymptomatic young adults with flexible flatfoot (14 males, 18 females; navicular drop\u2005\u2265\u200510\u2009mm) were randomly assigned to an experimental group (sensorimotor training combined with short-foot exercises; n\u2005=\u200516) or a control group (sensorimotor training only; n\u2005=\u200516) using sealed opaque envelopes. Training was conducted 3 times per week for 6 weeks in a motion laboratory. Gait kinematics were assessed pre- and post-intervention using the VICON motion system. Outcomes included peak ankle inversion, eversion, dorsiflexion, and plantarflexion angles, knee internal and external rotation angles, and range of motion (ROM) in the sagittal, frontal, and transverse planes. Two-way repeated-measures analysis of variance was used for the analysis. The partial eta squared (\u03b7p2) was reported as the effect size. Baseline demographics (age, sex, and body mass index) were similar between groups (P\u2005>\u2005.05). Significant group\u2005\u00d7\u2005time interactions were observed for gait variables. The experimental group showed a significant increase in peak ankle inversion (95% confidence interval (CI): 0.53-2.71; P = .004; \u03b7p2\u2005=\u20050.244) and a decrease in peak eversion (95% CI: 1.68-4.89; P = .002; \u03b7p2\u2005=\u20050.279). Peak knee internal rotation significantly decreased (95% CI: -9.92 to -2.82; P = .006; \u03b7p2\u2005=\u20050.228). Reductions were also observed in sagittal plane ankle ROM (95% CI: -4.88 to -0.68; P = .001; \u03b7p2\u2005=\u20050.317) and transverse plane knee ROM (95% CI: -7.75 to -4.01; P = .003; \u03b7p2\u2005=\u20050.254). No significant changes were found in ankle dorsiflexion, plantarflexion, knee external rotation, or frontal plane ankle ROM (P = .088, .126, .766, .136, respectively; \u03b7p2\u2005=\u20050.003-0.094). Combined sensorimotor and short-foot training more effectively improved gait kinematics than sensorimotor training alone, suggesting a promising non-surgical approach for managing flatfoot.",
+  "doi": "10.1097/MD.0000000000051194",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42937725/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42944460",
+  "title": "Proof-of-Concept Evaluation of a Sock-Based Plantar Strain Sensing System for Diabetic Foot Monitoring.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Turnbull RP",
+   "Mason R",
+   "Sairally F",
+   "Corser J",
+   "et al."
+  ],
+  "abstract": "Diabetic Foot Ulcers (DFUs) pose a serious health risk to people with diabetes, with a high risk of recurrence following the first DFU and a risk of foot amputation or death. It greatly impacts patient quality of life and costs the NHS up to 0.7% of its annual budget. Over the last 20 years, work has highlighted the link between DFU formation and normal forces. More recently, work has highlighted the importance of strain/shear forces, which are inherently coupled with normal forces. While limited lab-based in-shoe systems have been produced to detect shear, they alter the shoe-foot interface and are not commercially available. Additionally, consultation with people with diabetes highlighted that they may not wear shoes around the house, leaving long periods where in-shoe solutions cannot track forces. We, therefore, present the development of a novel plantar shear measuring system, the Shear Tracking for Enhanced Prevention Sock (STEPS), an instrumented garment to provide an accessible tool for people at risk of DFUs. Integrating sensors within the sock provides a solution that seamlessly integrates within the foot-shoe environment, is suitable for shoeless use, and helps mitigate adherence issues. A prototype STEPS was produced, successfully integrating printed resistive strain sensors (proxy for shear) within custom-designed socks with flexible connectivity to a welt-mounted data acquisition unit. Proof-of-concept testing characterised the system's ability to measure plantar strain. A single-participant pilot study demonstrated that STEPS captures repeatable, gait-synchronised strain signals during walking, with a stationary noise floor below 10% of the typical per-cycle resistance response and between-repeat correlations of R = 0.41 and 0.78 for Sensor 1 and 2 respectively, supporting its potential to detect strain (as proxy for shear) during daily activity.",
+  "doi": "10.3390/s26206596",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42944460/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42934775",
+  "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health.",
+  "journal": "Knee Surg Relat Res",
+  "year": "2026",
+  "authors": [
+   "Kandakurti PK",
+   "Koura GM",
+   "Reddy RS",
+   "Kardm S",
+   "et al."
+  ],
+  "abstract": "Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery. To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12\u00a0months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering. This cross-sectional study included 120 adults who were 3-12\u00a0months post-primary ACL reconstruction and had at least 14\u00a0days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics. Higher daily step counts were independently associated with better KOOS-ADL scores (\u03b2 = 0.48, p < 0.001), higher ACL-QoL scores (\u03b2 = 0.45, p < 0.001), and lower pain intensity (\u03b2 = -\u20090.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001). Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted.",
+  "doi": "10.1186/s43019-026-00353-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42931605",
+  "title": "The Impact of Hyperarch Fascia Training on Perceived Ankle Instability and Vertical Jump Performance in Physically Active Men and Women.",
+  "journal": "Sports (Basel)",
+  "year": "2026",
+  "authors": [
+   "Hawkins KB",
+   "Xie C",
+   "Matias CA",
+   "Sikorski EM",
+   "et al."
+  ],
+  "abstract": "Chronic ankle instability (CAI) is a prevalent musculoskeletal condition that impairs physical performance and increases reinjury risk; yet, training programs emphasizing fascia-targeted techniques remain an understudied rehabilitation strategy. The purpose of this study was to examine the effects of 12 weeks of a multicomponent training intervention emphasizing fascia-targeted techniques (Hyperarch Fascia Training (HFT)) on perceived ankle instability and function, and vertical jump performance in individuals with CAI. In this decentralized, randomized controlled trial, 66 participants were randomized (HFT n = 44, CON n = 22), with 43 participants completing the study and being analyzed (HFT n = 22; CON n = 21). Selected subjects confirmed perceived ankle instability (CAIT score \u2264 25) and were assigned to either a structured, multicomponent HFT program with various foot and ankle strengthening exercises, or a passive control condition instructed to maintain activities of daily living. The HFT group experienced disproportionately higher attrition (n = 22 excluded from analysis) than CON (n = 1 excluded from analysis due to becoming unresponsive). The reasons for attrition in the HFT group were due to becoming unresponsive (n = 13), self-reported difficulty with the protocol (n = 3), scheduling conflicts (n = 3), or adverse events (n = 3, reported as moderate). Outcomes were assessed at baseline, week 8, and week 12 using the Cumberland Ankle Instability Tool (CAIT) (primary outcome), Foot and Ankle Ability Measure (FAAM) (primary outcome), countermovement jump (CMJ) (secondary outcome), and Short Form Health Survey 12 (SF-12) (exploratory outcome). The HFT group demonstrated significantly greater improvements in CAIT scores compared to CON (group \u00d7 time interaction p = 0.008), with large within-group effect sizes in the HFT group relative to baseline (d = 1.49 and 1.54, at weeks 8 and 12, respectively). Significant group \u00d7 time interactions also favored HFT for CMJ jump height (p = 0.017) and flight time (p = 0.005) (co-secondary outcomes), as well as the CMJ algorithmic derivatives of mean velocity (p = 0.001) and take-off velocity (p = 0.008) (exploratory outcomes). No significant group \u00d7 time interactions were observed for FAAM ADL or Sport subscales. Significant group \u00d7 time interactions were found for SF-12 survey results for Physical Function (p = 0.045), Limits due to Physical Health (p = 0.030) and General Health (p = 0.043), with CON tending to decline over time and HFT tending to improve. The HFT group was higher than CON on Physical Function at Week 8 (d = 1.04, p = 0.009), and on Perceived Pain at Week 12 (d = 0.88, p = 0.047). Overall, these findings suggest that a multicomponent fascia-centered training program may represent a viable intervention for improving perceived ankle stability and increasing the explosive vertical jump performance in individuals with CAI.",
+  "doi": "10.3390/sports14100468",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931605/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42932189",
+  "title": "Toward Wearable Joint Load Monitoring: Concurrent Estimation of Hip, Knee, and Ankle Sagittal Contact Forces from Sparse IMU Measurements.",
+  "journal": "IEEE Trans Biomed Eng",
+  "year": "2026",
+  "authors": [
+   "Ma T",
+   "Fan X",
+   "Yu N",
+   "Han J",
+   "et al."
+  ],
+  "abstract": "Continuous monitoring of lower extremity joint contact forces is critical for rehabilitation medicine, sports injury prevention, and assistive device development. Yet, current wearable solutions often lack multi-joint integration or require cumbersome sensor arrays. This study aims to concurrently estimate hip, knee, and ankle sagittal compressive contact forces using a sparse inertial measurement unit (IMU) configuration across diverse daily activities. We collected data from 14 healthy adults equipped with four IMU sensors performing various daily movements, with reference contact forces captured using optical motion capture and force platforms. To estimate joint contact forces, we developed a domain-informed multi-task temporal convolutional network (Ada-Att-MTCN). This architecture integrates a shared temporal convolutional network encoder, task-specific attention mechanisms, homoscedastic uncertainty-based dynamic task weighting, and a soft physiological-bound penalty. Performance was evaluated using 14-fold leave-one-subject-out nested cross-validation against 4 baseline methods, with root mean square error (RMSE) and coefficient of determination (R\u00b2) as evaluation metrics. On the self-collected dataset, Ada-Att-MTCN achieved the highest accuracy across all activities, with mean RMSEs of 0.328 \u00b1 0.13 BW (hip), 0.380 \u00b1 0.09 BW (knee), and 0.365 \u00b1 0.15 BW (ankle), and an average R2 of 0.822 \u00b1 0.10. On the external dataset, Ada-Att-MTCN likewise performed best among all methods (average R\u00b2 = 0.754 \u00b1 0.05). The proposed framework captures complex inter-joint dynamics, enabling robust simultaneous load estimation with drastically reduced hardware complexity. This approach provides a practical, non-invasive solution for transitioning lab-grade multi-joint load monitoring to wearable deployment in rehabilitation and sports medicine.",
+  "doi": "10.1109/TBME.2026.3746974",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42932189/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
+  "pmid": "42944448",
+  "title": "Tracking Recovery After TKA with Instrumented Timed Up and Go: Spatiotemporal, Rotational, and Strength Adaptations over Six Months.",
+  "journal": "Sensors (Basel)",
+  "year": "2026",
+  "authors": [
+   "Gianzina E",
+   "Yiannakopoulos CK",
+   "Bourantanis A",
+   "Armenis E",
+   "et al."
+  ],
+  "abstract": "Knee osteoarthritis (KOA) is a leading cause of disability, and total knee arthroplasty (TKA) improves pain and functional mobility, although gait impairments may persist postoperatively. This study investigated longitudinal changes in patient-reported outcomes, muscle strength, and gait performance using an instrumented Timed Up and Go (iTUG) test with wearable inertial measurement units (IMUs). Twenty-two patients with end-stage KOA were assessed preoperatively and at 3, 12, and 24 weeks postoperatively. The Knee Injury and Osteoarthritis Outcome Score five-subscale composite (KOOS5) showed a significant overall change over time (p < 0.001), while isometric muscle strength showed significant overall changes across all tested muscle groups (p \u2264 0.008), with mean values demonstrating an initial postoperative decline followed by subsequent increases. Total TUG duration showed a significant overall time effect (p = 0.023), with significant reductions observed in the forward and return gait phases (p = 0.012 and p = 0.001, respectively). End-turning maximum rotational speed and sit-to-stand vertical acceleration showed significant overall time effects (p = 0.012 and p = 0.024, respectively), whereas the remaining parameters did not reach statistical significance. These findings indicate that recovery following TKA is multidimensional, with significant changes in patient-reported outcomes, muscle strength, and functional mobility. iTUG analysis identified phase-specific changes, while several turning and transitional parameters did not show significant longitudinal changes, supporting the use of targeted rehabilitation strategies focusing on dynamic stability and movement control.",
+  "doi": "10.3390/s26206585",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42944448/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-27T18:56:09Z"
+ },
+ {
   "pmid": "42928345",
   "title": "Effects of the FIFA 11\u2009+\u2009neuromuscular warm-up program on Move2Perform injury risk classification in youth amateur soccer players: a randomized controlled trial.",
   "journal": "BMC Sports Sci Med Rehabil",
