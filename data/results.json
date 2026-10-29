@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T19:04:48+00:00",
+ "generated": "2026-10-29T19:11:29+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,67 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 0,
-  "research": 19,
-  "fieldnotes": 66
+  "total": 86,
+  "new": 2,
+  "research": 18,
+  "fieldnotes": 68
  },
  "records": [
+  {
+   "pmid": "42951409",
+   "title": "Relative Energy Deficiency in Sport and its Implications for the Foot and Ankle Surgeon.",
+   "journal": "Foot Ankle Clin",
+   "year": "2026",
+   "authors": [
+    "Wong C",
+    "Zide J",
+    "Alejandro S"
+   ],
+   "abstract": "Relative energy deficiency in sport (RED-S) is a syndrome caused by low energy availability that affects multiple physiologic systems in both male and female athletes. Stress fractures of the foot and ankle are often the first signs of RED-S; therefore, it is crucial that orthopedic surgeons are aware of and able to identify this disorder. This article focuses on RED-S and provides a framework for understanding the disorder, it's relevancy to the orthopedic foot and ankle surgeon, and offers suggestions for diagnostic strategies and treatment approaches that are imperative for safe return to play.",
+   "doi": "10.1016/j.fcl.2026.06.010",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42951409/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42950813",
+   "title": "Test-Retest Reliability of Soft Tissue Vibration Variables Across an Outdoor 5-km Run.",
+   "journal": "J Appl Biomech",
+   "year": "2026",
+   "authors": [
+    "Durante G",
+    "Jordan MJ",
+    "Pasanen K",
+    "Herzog W",
+    "et al."
+   ],
+   "abstract": "The purpose of this study was to determine the test-retest reliability of soft tissue vibration (STV) measurements taken superficial to the medial gastrocnemius during a 5-km outdoor run. Twenty-eight trained athlete participants (female: n = 14 and male: n = 14) wore a triaxial inertial measurement unit mounted on the skin superficial to their medial gastrocnemius (500\u00a0Hz) and performed two 5-km outdoor runs on different days at a controlled, individualized pace. STV outcome measures-peak acceleration, damping coefficient, settling time, peak and median frequency, and power-were analyzed using a continuous wavelet transform from averaged running strides within the entire run and among three 1500-m segments from each testing session. Intraclass correlation coefficients reinforced good to excellent between-day reliability measures (.75-.92) for all STV outcome measures except peak frequency (.50) and moderate to excellent reliability when comparing days across the 3 segments of the run (.70-.94), except for peak frequency (.44-.57). No significant day \u00d7 time interactions were observed (P = .06-.63). Overall, STV outcome measures assessed with an inertial measurement unit during outdoor running demonstrated good reliability, supporting methodologies to quantify STV in real-world settings with potential applications in running performance and injury prevention research.",
+   "doi": "10.1123/jab.2025-0138",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42950813/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "42934133",
    "title": "[Design and analysis of a serial ankle rehabilitation robot].",
@@ -670,36 +725,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42803949",
-   "title": "Correlation analysis between ankle proprioception and biomechanical characteristics in patients with chronic ankle instability.",
-   "journal": "Acta Bioeng Biomech",
-   "year": "2026",
-   "authors": [
-    "Guo P",
-    "Wang J"
-   ],
-   "abstract": "To compare ankle proprioception and biomechanical features between individuals with chronic ankle instability (CAI) and healthy controls, and to investigate the interplay between proprioceptive deficits and biomechanical alterations in CAI. Thirty-six male participants (18 CAI, 18 healthy controls) were recruited. Proprioception was evaluated using a joint position reproduction test, quantifying absolute errors. For biomechanical assessment, participants performed six single-leg hopping tests. An infrared motion-capture system (Vicon T40, 200\u2009Hz) and a force platform (Kistler, 1,000\u2009Hz) simultaneously captured ankle kinematics/kinetics. Ankle muscle activation was recorded via surface electromyography (Noraxon, 2,000 Hz). Participants with CAI demonstrated significantly greater joint position sense errors in plantarflexion (P = 0.002), dorsiflexion (P = 0.001), inversion (P = 0.011), and eversion (P = 0.022) compared with controls. Compared with healthy controls, individuals with CAI exhibited greater peak ankle inversion angles (P = 0.039), reduced peak ankle dorsiflexion angles (P = 0.029), and lower activation of the tibialis anterior (P = 0.019) and peroneus longus (P = 0.033) during single-leg landing. Correlation analyses indicated significant associations between inversion position sense errors and both peak ankle dorsiflexion angle (r = -0.584, P = 0.011) and peak ankle inversion angle (r = -0.622, P = 0.006) in the CAI group. Individuals with CAI exhibit impaired ankle proprioception and altered biomechanical characteristics compared with healthy controls. Decreased proprioception in the ankle was correlated with biomechanical defects. These findings suggest that proprioceptive impairments may contribute to persistent biomechanical abnormalities in CAI. Comprehensive interventions targeting proprioceptive enhancement may improve ankle biomechanics in this population.",
-   "doi": "10.37190/abb/224681",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42803949/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42931054",

@@ -1,5 +1,53 @@
 [
  {
+  "pmid": "42951409",
+  "title": "Relative Energy Deficiency in Sport and its Implications for the Foot and Ankle Surgeon.",
+  "journal": "Foot Ankle Clin",
+  "year": "2026",
+  "authors": [
+   "Wong C",
+   "Zide J",
+   "Alejandro S"
+  ],
+  "abstract": "Relative energy deficiency in sport (RED-S) is a syndrome caused by low energy availability that affects multiple physiologic systems in both male and female athletes. Stress fractures of the foot and ankle are often the first signs of RED-S; therefore, it is crucial that orthopedic surgeons are aware of and able to identify this disorder. This article focuses on RED-S and provides a framework for understanding the disorder, it's relevancy to the orthopedic foot and ankle surgeon, and offers suggestions for diagnostic strategies and treatment approaches that are imperative for safe return to play.",
+  "doi": "10.1016/j.fcl.2026.06.010",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951409/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-29T19:11:29Z"
+ },
+ {
+  "pmid": "42950813",
+  "title": "Test-Retest Reliability of Soft Tissue Vibration Variables Across an Outdoor 5-km Run.",
+  "journal": "J Appl Biomech",
+  "year": "2026",
+  "authors": [
+   "Durante G",
+   "Jordan MJ",
+   "Pasanen K",
+   "Herzog W",
+   "et al."
+  ],
+  "abstract": "The purpose of this study was to determine the test-retest reliability of soft tissue vibration (STV) measurements taken superficial to the medial gastrocnemius during a 5-km outdoor run. Twenty-eight trained athlete participants (female: n = 14 and male: n = 14) wore a triaxial inertial measurement unit mounted on the skin superficial to their medial gastrocnemius (500\u00a0Hz) and performed two 5-km outdoor runs on different days at a controlled, individualized pace. STV outcome measures-peak acceleration, damping coefficient, settling time, peak and median frequency, and power-were analyzed using a continuous wavelet transform from averaged running strides within the entire run and among three 1500-m segments from each testing session. Intraclass correlation coefficients reinforced good to excellent between-day reliability measures (.75-.92) for all STV outcome measures except peak frequency (.50) and moderate to excellent reliability when comparing days across the 3 segments of the run (.70-.94), except for peak frequency (.44-.57). No significant day \u00d7 time interactions were observed (P = .06-.63). Overall, STV outcome measures assessed with an inertial measurement unit during outdoor running demonstrated good reliability, supporting methodologies to quantify STV in real-world settings with potential applications in running performance and injury prevention research.",
+  "doi": "10.1123/jab.2025-0138",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42950813/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-29T19:11:29Z"
+ },
+ {
   "pmid": "42934133",
   "title": "[Design and analysis of a serial ankle rehabilitation robot].",
   "journal": "Sheng Wu Yi Xue Gong Cheng Xue Za Zhi",
