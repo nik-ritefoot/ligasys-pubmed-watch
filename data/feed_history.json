@@ -1,5 +1,127 @@
 [
  {
+  "pmid": "42958902",
+  "title": "A balancing act: Passive ankle exoskeletons alter neuromuscular function and postural stability during balance.",
+  "journal": "J Appl Physiol (1985)",
+  "year": "2026",
+  "authors": [
+   "Po JCN",
+   "Williamson JL",
+   "Yee J",
+   "Farris DJ",
+   "et al."
+  ],
+  "abstract": "Spring-loaded passive ankle exoskeletons have the potential to modulate neuromuscular function during standing balance by altering the mechanical demands placed on the muscle-tendon units spanning the ankle joint. This study investigated the effect of exoskeleton assistance on postural stability and neuromuscular function across balance conditions of varying difficulty. We hypothesised that assistance would improve postural stability and reduce ankle plantar flexor muscle activity during balance tasks, although these benefits may vary with balance task complexity. Participants performed standing balance tasks of varying difficulty with and without rotational stiffness provided by spring-loaded ankle exoskeletons. Balance tasks included (i) quiet standing with eyes open (EO), (ii) eyes closed (EC), and (iii) reduced base of support (RBOS). We recorded centre of pressure (COP)-based postural sway measures, lower limb joint kinematics, muscle activation data from the medial (MG) and lateral gastrocnemii (LG), soleus (SOL), and tibialis anterior (TA), and MG fascicle behaviour. Exoskeleton assistance reduced LG and SOL activation but also altered joint kinematics and coordination. Ankle-based adjustments were most evident with assistance during simpler balance tasks (EO and EC), whereas assistance during the most challenging task (RBOS) was associated with increases in COP sway velocity, COP variability and TA activation. Our results suggest that despite the potential energetic benefits from offloading the plantar flexors, passive ankle exoskeletons may induce unintended effects that hinder the control of standing balance, particularly during more challenging conditions. Further work is needed to determine the mechanisms underlying these effects.",
+  "doi": "10.1152/japplphysiol.90316.2026",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958902/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-30T18:49:27Z"
+ },
+ {
+  "pmid": "42954170",
+  "title": "Comparative Effectiveness of Digital Exercise-Based Interventions for Improving Balance in Older Adults: Systematic Review and Network Meta-Analysis With GRADE Certainty of Evidence.",
+  "journal": "JMIR Aging",
+  "year": "2026",
+  "authors": [
+   "Li F",
+   "Li X",
+   "Li Q",
+   "Gong X",
+   "et al."
+  ],
+  "abstract": "Technology-based rehabilitation is increasingly used for balance training in older adults. A 2023 network meta-analysis (NMA) found only exergaming with motion capture superior to no treatment; however, the evidence has since expanded, and no GRADE (Grading of Recommendations Assessment, Development, and Evaluation) appraisal has been applied. This study aimed to update the comparative effectiveness of 5 technology categories-exergaming with balance platforms (EBP), exergaming with motion capture (EMC), other serious games, interventions with wearables, and telerehabilitation (Tele)-versus conventional exercise (CE), and no treatment (NT), applying GRADE adapted for NMA. A systematic search of 4 databases from inception through April 2025, with an identical supplementary update search to January 31, 2026, identified 60 randomized controlled trials (N=3469; mean age 73.1, SD 5.2; range 63.3-86.2 y). Fifty-seven trials (2758 analyzed participants) contributed to 4 prespecified networks (all balance, functional scales, Timed Up and Go [TUG] test, and gait speed). A random-effects NMA was fitted using multivariate meta-regression. Treatment hierarchies were summarized by the surface under the cumulative ranking curve (SUCRA) and the probability of being best; certainty of evidence was rated with GRADE adapted for NMA. In the all-balance network, Tele (standardized mean difference [SMD] 0.69, 95% CI 0.08-1.29; P=.03), EBP (SMD 0.63, 95% CI 0.31-0.95; P<.001), EMC (SMD 0.58, 95% CI 0.22-0.95; P=.002), and CE (SMD 0.35, 95% CI 0.03-0.68; P=.03) were superior to NT, with consistent findings in the TUG network (EBP 0.81, 95% CI 0.42-1.20; Tele 0.82, 95% CI 0.16-1.49; EMC 0.79, 95% CI 0.36-1.21; all P<.05). Tele ranked first by SUCRA (76.3%), but its probability of being best was only approximately 41%, and the estimate rested on 5 trials (n=198). No technology-based intervention was superior to CE in any network. Certainty of evidence was moderate for EBP versus NT and EMC versus NT in the TUG network only; the 37 other comparisons were low or very low. Dropout did not differ between technology-based and control arms (odds ratio 1.10, 95% CI 0.87-1.40; P=.41). Tele, EBP, and EMC were each associated with improved balance versus NT, although none exceeded CE. The first-place SUCRA ranking of Tele is preliminary. Certainty was moderate only for EBP and EMC versus NT on the TUG test; the remaining evidence is too uncertain for firm clinical recommendations. As no included trial reported falls, these findings are not direct evidence of fall prevention. Larger trials with standardized comparator intensity and posttraining follow-up are required.",
+  "doi": "10.2196/101231",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42954170/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-30T18:49:27Z"
+ },
+ {
+  "pmid": "42959569",
+  "title": "Return to Sport After Foot and Ankle Surgery Is Inconsistently Defined and Assessed: A Systematic Review.",
+  "journal": "Arthrosc Sports Med Rehabil",
+  "year": "2026",
+  "authors": [
+   "Oikonomou K",
+   "Savsani K",
+   "Wyatt P",
+   "Cyrus J",
+   "et al."
+  ],
+  "abstract": "To conduct a systematic review of return-to-sport (RTS) definitions in the orthopaedic literature, addressing common operative athletic foot and ankle pathologies including ankle instability, Achilles tendon ruptures or tendinopathy, and fifth metatarsal fractures. A systematic review was performed in adherence to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Cochrane, Embase, Medline, and CINAHL databases were searched for studies published through March 2024. Inclusion criteria were studies in which subjects were involved in some level of sports and received surgery for 1 of 3 common sports-related injuries: ankle instability, Achilles tendinopathy, and fifth metatarsal fracture. The primary outcome was each study's definition of RTS. There were 145 articles that met all inclusion criteria. Of these, 73 articles investigated ankle instability, 56 investigated Achilles tendinopathy, and 16 investigated fifth metatarsal fracture. Seventy-nine articles (54.5%) had an unclear definition of RTS with 66 articles (45.5%) reporting a precise definition. Sixty-four articles (44.1%) provided an isolated binary metric reporting whether a patient returned to sport or failed to provide a method for determining the timepoint for RTS. Thirty-eight (26.2%) of the articles used an objective start criterion (e.g., resumption of competition), followed by custom (n\u2009=\u200927, 18.6%) and standardized patient-reported questionnaire use (n\u2009=\u200921, 14.5%). Most articles included in this systematic review did not provide an explicit definition of RTS or a clearly defined assessment methodology. When specified, RTS was assessed using objective events, custom questionnaires, or standardized patient-reported outcome measures, highlighting substantial heterogeneity in both RTS definitions and assessment approaches across foot and ankle literature. Level IV, systematic review of Level I to IV studies.",
+  "doi": "10.1002/ars2.70100",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42959569/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-30T18:49:27Z"
+ },
+ {
+  "pmid": "42955437",
+  "title": "Syndesmotic screw fixation is associated with higher overall treatment costs when compared with suture button stabilisation in a single UK major trauma centre.",
+  "journal": "Eur J Orthop Surg Traumatol",
+  "year": "2026",
+  "authors": [
+   "Umer HM",
+   "Gilani A",
+   "Aman K",
+   "Gee E"
+  ],
+  "abstract": "Ankle fractures frequently involve syndesmotic disruption, requiring stable fixation to restore joint function. Syndesmotic screw fixation remains widely used but carries significant drawbacks, including implant breakage, stiffness, and frequent need for removal. Suture button stabilisation offers clinical and economic advantages by preserving physiological motion and reducing reoperation rates. This study evaluates these costs under normal, unselected clinical practice, where implant choice and removal decisions were made independently by treating surgeons without protocol influence. This retrospective cohort study compares treatment costs of syndesmosis screw fixation and suture button stabilisation for syndesmotic injuries in a single UK Major Trauma Centre. 75 patients aged 16-60 years, with length stable or length stabilised ankle fractures with syndesmotic injuries, between October 2020 to October 2023 were included. The two cohorts were demographically similar and operative times were comparable (p\u2009=\u20090.170). Complications and reoperations were significantly higher with screw fixation (p\u2009<\u20090.001), with 56.8% undergoing removal, adding \u00a331,460 in costs over three years. Overall, screw fixation cost \u00a3687 more per case than suture button stabilisation. Screw fixation became more costly when the hardware removal rate exceeded 8%. This dropped further to 2% when costs of additional follow up visits were also included. Despite a higher initial implant cost, suture button stabilisation demonstrated fewer complications and no hardware removals. In contrast, 56.8% of screw fixation cases underwent implant removal, leading to screw fixation costing \u00a3687 more per case on average, highlighting the superior clinical and economic value of suture button stabilisation in this pragmatic study.",
+  "doi": "10.1007/s00590-026-05003-6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42955437/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-30T18:49:27Z"
+ },
+ {
+  "pmid": "42955482",
+  "title": "Weightbearing CT in the Evaluation of Athletic Foot and Ankle Injuries.",
+  "journal": "Curr Rev Musculoskelet Med",
+  "year": "2026",
+  "authors": [
+   "Bru\u00e9 J",
+   "Micicoi L",
+   "de Cesar Netto C"
+  ],
+  "abstract": "Subtle foot and ankle injuries in athletes, including syndesmotic sprains, ligamentous Lisfranc injuries, osteochondral lesions of the talus, and proximal fifth metatarsal stress fractures, may be underestimated or misclassified on conventional imaging. This review summarizes the current role of weightbearing CT (WBCT) in their evaluation, focusing on quantitative parameters, recent technical advances, and their potential influence on clinical decision-making. Recent evidence has shifted WBCT from qualitative assessment toward reproducible three-dimensional quantification. Volumetric assessment and distance mapping improve characterization of syndesmotic instability, while external-rotation stress can reveal abnormalities not evident during neutral standing. In the midfoot, triplanar realignment and side-to-side comparison improve the reliability of Lisfranc measurements and support detection of subtle instability. Distance mapping permits reproducible quantification of osteochondral lesion surface area, depth, and volume and may improve consistency in surgical planning. WBCT has also characterized sport-specific alignment patterns and a morphologic and bone-density phenotype associated with proximal fifth metatarsal stress fractures. Semiautomated segmentation and deep-learning methods may further reduce observer dependence and analysis time. WBCT provides three-dimensional measurements under physiologic load that complement clinical examination and conventional imaging in selected athletic foot and ankle conditions. Its greatest current value lies in characterizing subtle instability, malalignment, and osseous morphology when these findings may alter treatment planning. However, most available evidence is retrospective and derived from symptomatic or injured cohorts. Prospective studies are needed to validate diagnostic thresholds, determine whether WBCT-derived parameters predict injury or outcomes, and define their role in routine athletic screening and return-to-sport decision-making.",
+  "doi": "10.1007/s12178-026-10068-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42955482/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-30T18:49:27Z"
+ },
+ {
   "pmid": "42951409",
   "title": "Relative Energy Deficiency in Sport and its Implications for the Foot and Ankle Surgeon.",
   "journal": "Foot Ankle Clin",
