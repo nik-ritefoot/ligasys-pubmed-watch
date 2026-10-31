@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T18:49:27+00:00",
+ "generated": "2026-10-31T17:54:53+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,61 +65,30 @@
   }
  ],
  "counts": {
-  "total": 87,
-  "new": 5,
-  "research": 17,
+  "total": 86,
+  "new": 2,
+  "research": 16,
   "fieldnotes": 70
  },
  "records": [
   {
-   "pmid": "42958902",
-   "title": "A balancing act: Passive ankle exoskeletons alter neuromuscular function and postural stability during balance.",
-   "journal": "J Appl Physiol (1985)",
+   "pmid": "42962209",
+   "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications.",
+   "journal": "ACS Appl Mater Interfaces",
    "year": "2026",
    "authors": [
-    "Po JCN",
-    "Williamson JL",
-    "Yee J",
-    "Farris DJ",
+    "Wang Y",
+    "Ji C",
+    "Shi H",
+    "Wang W",
     "et al."
    ],
-   "abstract": "Spring-loaded passive ankle exoskeletons have the potential to modulate neuromuscular function during standing balance by altering the mechanical demands placed on the muscle-tendon units spanning the ankle joint. This study investigated the effect of exoskeleton assistance on postural stability and neuromuscular function across balance conditions of varying difficulty. We hypothesised that assistance would improve postural stability and reduce ankle plantar flexor muscle activity during balance tasks, although these benefits may vary with balance task complexity. Participants performed standing balance tasks of varying difficulty with and without rotational stiffness provided by spring-loaded ankle exoskeletons. Balance tasks included (i) quiet standing with eyes open (EO), (ii) eyes closed (EC), and (iii) reduced base of support (RBOS). We recorded centre of pressure (COP)-based postural sway measures, lower limb joint kinematics, muscle activation data from the medial (MG) and lateral gastrocnemii (LG), soleus (SOL), and tibialis anterior (TA), and MG fascicle behaviour. Exoskeleton assistance reduced LG and SOL activation but also altered joint kinematics and coordination. Ankle-based adjustments were most evident with assistance during simpler balance tasks (EO and EC), whereas assistance during the most challenging task (RBOS) was associated with increases in COP sway velocity, COP variability and TA activation. Our results suggest that despite the potential energetic benefits from offloading the plantar flexors, passive ankle exoskeletons may induce unintended effects that hinder the control of standing balance, particularly during more challenging conditions. Further work is needed to determine the mechanisms underlying these effects.",
-   "doi": "10.1152/japplphysiol.90316.2026",
+   "abstract": "Wearable sensors enable continuous acquisition of physiological, biochemical, and biomechanical signals during exercise, providing data to support sports performance assessment, training regulation, fatigue monitoring, and rehabilitation interventions. However, signal reliability and multidimensional data analysis under complex motion conditions remain constrained by device functionality. Conductive composites can improve sensor flexibility, interfacial conformability, and signal acquisition performance, while artificial intelligence (AI) enables movement pattern recognition, state assessment, and outcome prediction from complex data. Their integration is advancing wearable systems toward multimodal sensing and intelligent analysis. Guided by application needs in sports, this review summarizes emerging applications of wearable sensing technologies enabled by conductive composites and AI. First, the relevance to sports science and the data characteristics of physiological, biochemical, and biomechanical signals are introduced. The functional characteristics, representative applications, and major limitations of conductive polymer, carbon-based, MXene, and hydrogel composites are then summarized. Regarding algorithms, the fundamental principles of supervised learning, unsupervised learning, deep learning (DL), and large language models (LLMs) are discussed, with comparisons of their capabilities in feature extraction, temporal modeling, and multisource data analysis, as well as their input data requirements. On this basis, advances in the application of these systems to sports performance and sport-specific movement monitoring, exercise-induced fatigue monitoring and assessment, sports injury identification and evaluation, and intelligent monitoring of sports rehabilitation are reviewed followed by a discussion of current challenges and future directions. Through the coordinated integration of material design, signal acquisition, and intelligent analysis, wearable systems are expected to enable continuous, reliable, and individualized assessment of exercise-related states, with further applications in real-time feedback, risk alerts, and training decision support, providing a technological foundation for scientifically informed training, sports rehabilitation, and individual health management.",
+   "doi": "10.1021/acsami.6c16362",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42958902/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42954170",
-   "title": "Comparative Effectiveness of Digital Exercise-Based Interventions for Improving Balance in Older Adults: Systematic Review and Network Meta-Analysis With GRADE Certainty of Evidence.",
-   "journal": "JMIR Aging",
-   "year": "2026",
-   "authors": [
-    "Li F",
-    "Li X",
-    "Li Q",
-    "Gong X",
-    "et al."
-   ],
-   "abstract": "Technology-based rehabilitation is increasingly used for balance training in older adults. A 2023 network meta-analysis (NMA) found only exergaming with motion capture superior to no treatment; however, the evidence has since expanded, and no GRADE (Grading of Recommendations Assessment, Development, and Evaluation) appraisal has been applied. This study aimed to update the comparative effectiveness of 5 technology categories-exergaming with balance platforms (EBP), exergaming with motion capture (EMC), other serious games, interventions with wearables, and telerehabilitation (Tele)-versus conventional exercise (CE), and no treatment (NT), applying GRADE adapted for NMA. A systematic search of 4 databases from inception through April 2025, with an identical supplementary update search to January 31, 2026, identified 60 randomized controlled trials (N=3469; mean age 73.1, SD 5.2; range 63.3-86.2 y). Fifty-seven trials (2758 analyzed participants) contributed to 4 prespecified networks (all balance, functional scales, Timed Up and Go [TUG] test, and gait speed). A random-effects NMA was fitted using multivariate meta-regression. Treatment hierarchies were summarized by the surface under the cumulative ranking curve (SUCRA) and the probability of being best; certainty of evidence was rated with GRADE adapted for NMA. In the all-balance network, Tele (standardized mean difference [SMD] 0.69, 95% CI 0.08-1.29; P=.03), EBP (SMD 0.63, 95% CI 0.31-0.95; P<.001), EMC (SMD 0.58, 95% CI 0.22-0.95; P=.002), and CE (SMD 0.35, 95% CI 0.03-0.68; P=.03) were superior to NT, with consistent findings in the TUG network (EBP 0.81, 95% CI 0.42-1.20; Tele 0.82, 95% CI 0.16-1.49; EMC 0.79, 95% CI 0.36-1.21; all P<.05). Tele ranked first by SUCRA (76.3%), but its probability of being best was only approximately 41%, and the estimate rested on 5 trials (n=198). No technology-based intervention was superior to CE in any network. Certainty of evidence was moderate for EBP versus NT and EMC versus NT in the TUG network only; the 37 other comparisons were low or very low. Dropout did not differ between technology-based and control arms (odds ratio 1.10, 95% CI 0.87-1.40; P=.41). Tele, EBP, and EMC were each associated with improved balance versus NT, although none exceeded CE. The first-place SUCRA ranking of Tele is preliminary. Certainty was moderate only for EBP and EMC versus NT on the TUG test; the remaining evidence is too uncertain for firm clinical recommendations. As no included trial reported falls, these findings are not direct evidence of fall prevention. Larger trials with standardized comparator intensity and posttraining follow-up are required.",
-   "doi": "10.2196/101231",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Network Meta-Analysis",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42954170/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962209/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -131,83 +100,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42959569",
-   "title": "Return to Sport After Foot and Ankle Surgery Is Inconsistently Defined and Assessed: A Systematic Review.",
-   "journal": "Arthrosc Sports Med Rehabil",
+   "pmid": "42962545",
+   "title": "Dynamical systems-based metrics reveal fatigue-related biomechanical changes during running in endurance-trained male and female runners.",
+   "journal": "Gait Posture",
    "year": "2026",
    "authors": [
-    "Oikonomou K",
-    "Savsani K",
-    "Wyatt P",
-    "Cyrus J",
+    "Chen Y",
+    "Emmerzaal J",
+    "Fernandes GA",
+    "Lajeunesse H",
     "et al."
    ],
-   "abstract": "To conduct a systematic review of return-to-sport (RTS) definitions in the orthopaedic literature, addressing common operative athletic foot and ankle pathologies including ankle instability, Achilles tendon ruptures or tendinopathy, and fifth metatarsal fractures. A systematic review was performed in adherence to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Cochrane, Embase, Medline, and CINAHL databases were searched for studies published through March 2024. Inclusion criteria were studies in which subjects were involved in some level of sports and received surgery for 1 of 3 common sports-related injuries: ankle instability, Achilles tendinopathy, and fifth metatarsal fracture. The primary outcome was each study's definition of RTS. There were 145 articles that met all inclusion criteria. Of these, 73 articles investigated ankle instability, 56 investigated Achilles tendinopathy, and 16 investigated fifth metatarsal fracture. Seventy-nine articles (54.5%) had an unclear definition of RTS with 66 articles (45.5%) reporting a precise definition. Sixty-four articles (44.1%) provided an isolated binary metric reporting whether a patient returned to sport or failed to provide a method for determining the timepoint for RTS. Thirty-eight (26.2%) of the articles used an objective start criterion (e.g., resumption of competition), followed by custom (n\u2009=\u200927, 18.6%) and standardized patient-reported questionnaire use (n\u2009=\u200921, 14.5%). Most articles included in this systematic review did not provide an explicit definition of RTS or a clearly defined assessment methodology. When specified, RTS was assessed using objective events, custom questionnaires, or standardized patient-reported outcome measures, highlighting substantial heterogeneity in both RTS definitions and assessment approaches across foot and ankle literature. Level IV, systematic review of Level I to IV studies.",
-   "doi": "10.1002/ars2.70100",
+   "abstract": "Linear and nonlinear metrics derived from a small number of accelerometers provide global insight into fatigue-related changes and injury risk. This study aimed to determine the effects of fatigue on movement dynamics estimated from lower-back accelerometry between endurance-trained male and female runners. Thirty-two endurance-trained runners (16 females) performed a fatiguing running task until volitional exhaustion (20 on the Borg CR20 scale), while wearing one inertial measurement unit (IMU) placed on their pelvis/lower back. Step and stride regularity (unbiased autocorrelation), root mean square (RMS)-based measures of variability (absolute RMS and RMS ratio), complexity (Sample Entropy), jerk-based measure of smoothness (Log Dimensionless Jerk; LDLJ), and stability (short- and long-term Lyapunov Exponent) were calculated from the raw accelerations. Significant main effects of fatigue were observed across both sexes for gait regularity, with an 8% reduction in anteroposterior step regularity and an 11% reduction in stride regularity. Fatigue also altered variability characteristics, resulting in a 12% increase in mediolateral absolute RMS, a 13% increase in anteroposterior absolute RMS, a 2% decrease in vertical RMS ratio, a 6% increase in mediolateral RMS ratio, and an 8% increase in anteroposterior RMS ratio. Fatigue increased movement complexity, as evidenced by a 14% increase in vertical Sample Entropy and an 11% increase in anteroposterior Sample Entropy. In addition to these overall fatigue effects, RMS-based measure of variability showed sex-specific responses. Interaction effects showed that males exhibited a 4% increase in the vertical absolute RMS of lower-back acceleration with fatigue, whereas females did not. Both male and female endurance-trained runners may adopt a less regular and less predictable whole-body movement pattern with fatigue, while RMS-based variability showed sex-specific responses, with increased fatigue-related changes in males. These findings highlight the importance of considering both general and sex-specific adaptations when monitoring fatigue.",
+   "doi": "10.1016/j.gaitpost.2026.110670",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42959569/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962545/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42955437",
-   "title": "Syndesmotic screw fixation is associated with higher overall treatment costs when compared with suture button stabilisation in a single UK major trauma centre.",
-   "journal": "Eur J Orthop Surg Traumatol",
-   "year": "2026",
-   "authors": [
-    "Umer HM",
-    "Gilani A",
-    "Aman K",
-    "Gee E"
-   ],
-   "abstract": "Ankle fractures frequently involve syndesmotic disruption, requiring stable fixation to restore joint function. Syndesmotic screw fixation remains widely used but carries significant drawbacks, including implant breakage, stiffness, and frequent need for removal. Suture button stabilisation offers clinical and economic advantages by preserving physiological motion and reducing reoperation rates. This study evaluates these costs under normal, unselected clinical practice, where implant choice and removal decisions were made independently by treating surgeons without protocol influence. This retrospective cohort study compares treatment costs of syndesmosis screw fixation and suture button stabilisation for syndesmotic injuries in a single UK Major Trauma Centre. 75 patients aged 16-60 years, with length stable or length stabilised ankle fractures with syndesmotic injuries, between October 2020 to October 2023 were included. The two cohorts were demographically similar and operative times were comparable (p\u2009=\u20090.170). Complications and reoperations were significantly higher with screw fixation (p\u2009<\u20090.001), with 56.8% undergoing removal, adding \u00a331,460 in costs over three years. Overall, screw fixation cost \u00a3687 more per case than suture button stabilisation. Screw fixation became more costly when the hardware removal rate exceeded 8%. This dropped further to 2% when costs of additional follow up visits were also included. Despite a higher initial implant cost, suture button stabilisation demonstrated fewer complications and no hardware removals. In contrast, 56.8% of screw fixation cases underwent implant removal, leading to screw fixation costing \u00a3687 more per case on average, highlighting the superior clinical and economic value of suture button stabilisation in this pragmatic study.",
-   "doi": "10.1007/s00590-026-05003-6",
-   "pubtypes": [
-    "Journal Article",
-    "Comparative Study"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42955437/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42955482",
-   "title": "Weightbearing CT in the Evaluation of Athletic Foot and Ankle Injuries.",
-   "journal": "Curr Rev Musculoskelet Med",
-   "year": "2026",
-   "authors": [
-    "Bru\u00e9 J",
-    "Micicoi L",
-    "de Cesar Netto C"
-   ],
-   "abstract": "Subtle foot and ankle injuries in athletes, including syndesmotic sprains, ligamentous Lisfranc injuries, osteochondral lesions of the talus, and proximal fifth metatarsal stress fractures, may be underestimated or misclassified on conventional imaging. This review summarizes the current role of weightbearing CT (WBCT) in their evaluation, focusing on quantitative parameters, recent technical advances, and their potential influence on clinical decision-making. Recent evidence has shifted WBCT from qualitative assessment toward reproducible three-dimensional quantification. Volumetric assessment and distance mapping improve characterization of syndesmotic instability, while external-rotation stress can reveal abnormalities not evident during neutral standing. In the midfoot, triplanar realignment and side-to-side comparison improve the reliability of Lisfranc measurements and support detection of subtle instability. Distance mapping permits reproducible quantification of osteochondral lesion surface area, depth, and volume and may improve consistency in surgical planning. WBCT has also characterized sport-specific alignment patterns and a morphologic and bone-density phenotype associated with proximal fifth metatarsal stress fractures. Semiautomated segmentation and deep-learning methods may further reduce observer dependence and analysis time. WBCT provides three-dimensional measurements under physiologic load that complement clinical examination and conventional imaging in selected athletic foot and ankle conditions. Its greatest current value lies in characterizing subtle instability, malalignment, and osseous morphology when these findings may alter treatment planning. However, most available evidence is retrospective and derived from symptomatic or injured cohorts. Prospective studies are needed to validate diagnostic thresholds, determine whether WBCT-derived parameters predict injury or outcomes, and define their role in routine athletic screening and return-to-sport decision-making.",
-   "doi": "10.1007/s12178-026-10068-1",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42955482/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -302,6 +215,34 @@
    ],
    "is_new": false,
    "bucket": "research"
+  },
+  {
+   "pmid": "42958902",
+   "title": "A balancing act: Passive ankle exoskeletons alter neuromuscular function and postural stability during balance.",
+   "journal": "J Appl Physiol (1985)",
+   "year": "2026",
+   "authors": [
+    "Po JCN",
+    "Williamson JL",
+    "Yee J",
+    "Farris DJ",
+    "et al."
+   ],
+   "abstract": "Spring-loaded passive ankle exoskeletons have the potential to modulate neuromuscular function during standing balance by altering the mechanical demands placed on the muscle-tendon units spanning the ankle joint. This study investigated the effect of exoskeleton assistance on postural stability and neuromuscular function across balance conditions of varying difficulty. We hypothesised that assistance would improve postural stability and reduce ankle plantar flexor muscle activity during balance tasks, although these benefits may vary with balance task complexity. Participants performed standing balance tasks of varying difficulty with and without rotational stiffness provided by spring-loaded ankle exoskeletons. Balance tasks included (i) quiet standing with eyes open (EO), (ii) eyes closed (EC), and (iii) reduced base of support (RBOS). We recorded centre of pressure (COP)-based postural sway measures, lower limb joint kinematics, muscle activation data from the medial (MG) and lateral gastrocnemii (LG), soleus (SOL), and tibialis anterior (TA), and MG fascicle behaviour. Exoskeleton assistance reduced LG and SOL activation but also altered joint kinematics and coordination. Ankle-based adjustments were most evident with assistance during simpler balance tasks (EO and EC), whereas assistance during the most challenging task (RBOS) was associated with increases in COP sway velocity, COP variability and TA activation. Our results suggest that despite the potential energetic benefits from offloading the plantar flexors, passive ankle exoskeletons may induce unintended effects that hinder the control of standing balance, particularly during more challenging conditions. Further work is needed to determine the mechanisms underlying these effects.",
+   "doi": "10.1152/japplphysiol.90316.2026",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42958902/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
   },
   {
    "pmid": "42881724",
@@ -695,6 +636,37 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42863092/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42954170",
+   "title": "Comparative Effectiveness of Digital Exercise-Based Interventions for Improving Balance in Older Adults: Systematic Review and Network Meta-Analysis With GRADE Certainty of Evidence.",
+   "journal": "JMIR Aging",
+   "year": "2026",
+   "authors": [
+    "Li F",
+    "Li X",
+    "Li Q",
+    "Gong X",
+    "et al."
+   ],
+   "abstract": "Technology-based rehabilitation is increasingly used for balance training in older adults. A 2023 network meta-analysis (NMA) found only exergaming with motion capture superior to no treatment; however, the evidence has since expanded, and no GRADE (Grading of Recommendations Assessment, Development, and Evaluation) appraisal has been applied. This study aimed to update the comparative effectiveness of 5 technology categories-exergaming with balance platforms (EBP), exergaming with motion capture (EMC), other serious games, interventions with wearables, and telerehabilitation (Tele)-versus conventional exercise (CE), and no treatment (NT), applying GRADE adapted for NMA. A systematic search of 4 databases from inception through April 2025, with an identical supplementary update search to January 31, 2026, identified 60 randomized controlled trials (N=3469; mean age 73.1, SD 5.2; range 63.3-86.2 y). Fifty-seven trials (2758 analyzed participants) contributed to 4 prespecified networks (all balance, functional scales, Timed Up and Go [TUG] test, and gait speed). A random-effects NMA was fitted using multivariate meta-regression. Treatment hierarchies were summarized by the surface under the cumulative ranking curve (SUCRA) and the probability of being best; certainty of evidence was rated with GRADE adapted for NMA. In the all-balance network, Tele (standardized mean difference [SMD] 0.69, 95% CI 0.08-1.29; P=.03), EBP (SMD 0.63, 95% CI 0.31-0.95; P<.001), EMC (SMD 0.58, 95% CI 0.22-0.95; P=.002), and CE (SMD 0.35, 95% CI 0.03-0.68; P=.03) were superior to NT, with consistent findings in the TUG network (EBP 0.81, 95% CI 0.42-1.20; Tele 0.82, 95% CI 0.16-1.49; EMC 0.79, 95% CI 0.36-1.21; all P<.05). Tele ranked first by SUCRA (76.3%), but its probability of being best was only approximately 41%, and the estimate rested on 5 trials (n=198). No technology-based intervention was superior to CE in any network. Certainty of evidence was moderate for EBP versus NT and EMC versus NT in the TUG network only; the 37 other comparisons were low or very low. Dropout did not differ between technology-based and control arms (odds ratio 1.10, 95% CI 0.87-1.40; P=.41). Tele, EBP, and EMC were each associated with improved balance versus NT, although none exceeded CE. The first-place SUCRA ranking of Tele is preliminary. Certainty was moderate only for EBP and EMC versus NT on the TUG test; the remaining evidence is too uncertain for firm clinical recommendations. As no included trial reported falls, these findings are not direct evidence of fall prevention. Larger trials with standardized comparator intensity and posttraining follow-up are required.",
+   "doi": "10.2196/101231",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42954170/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -1493,7 +1465,7 @@
   },
   {
    "pmid": "42893741",
-   "title": "Injury Patterns, In-Hospital Outcomes, and Resource Utilization of Acute Cuboid and Navicular Fractures.",
+   "title": "Injury patterns, in-hospital outcomes, and resource utilization of acute cuboid and navicular fractures.",
    "journal": "J Foot Ankle Surg",
    "year": "2026",
    "authors": [
@@ -1501,7 +1473,7 @@
     "Gupta P",
     "Ahmad J"
    ],
-   "abstract": "Acute cuboid and navicular fractures can be serious injuries. However, multicenter data on their associated injuries and in-hospital course are limited. To characterize the demographics, injury patterns, in-hospital outcomes, and resource utilization of trauma center patients with acute cuboid and/or navicular fractures. Retrospective cross-sectional database study. The American College of Surgeons National Trauma Data Bank (2017-2019) was queried for acute cuboid and/or navicular fractures. Multivariable regression identified factors associated with discharge to post-acute care, intensive care unit (ICU) admission, and hospital length of stay in adults. Overall, 3,424 patients with 4,084 fractures were identified (2,327 with cuboid and 1,637 with navicular fractures, including 540 with both). Road-traffic mechanisms accounted for 64.5%, and 25.1% had polytrauma. Metatarsal, calcaneal, and talar fractures were the most common concomitant injuries. Combined fractures were more often ipsilateral than contralateral (457 vs 18 patients). Despite infrequent complications, 50.2% were discharged home without post-acute services (home health, inpatient rehabilitation, or skilled nursing care). In-hospital mortality was 1.1%. After adjustment, polytrauma (OR 3.75, 95% CI 3.04-4.61), bilateral involvement, and ankle, tibia, fibula, or metatarsal fractures were associated with discharge to post-acute care, whereas fracture pattern was not. Cuboid and navicular fractures are predominantly high-energy injuries that rarely occur in isolation. Post-acute care needs, ICU admission, and length of stay were associated with overall injury burden rather than the specific bone fractured.",
+   "abstract": "Acute cuboid and navicular fractures can be serious injuries. However, multicenter data on their associated injuries and in-hospital course are limited. To characterize the demographics, injury patterns, in-hospital outcomes, and resource utilization of trauma center patients with acute cuboid and/or navicular fractures. Retrospective cross-sectional database study. The American College of Surgeons National Trauma Data Bank (2017-2019) was queried for acute cuboid and/or navicular fractures. Multivariable regression identified factors associated with discharge to post-acute care, intensive care unit (ICU) admission, and hospital length of stay in adults. Overall, 3,424 patients with 4,084 fractures were identified (2,327 with cuboid and 1,637 with navicular fractures, including 540 with both). Road-traffic mechanisms accounted for 64.5%, and 25.1% had polytrauma. Metatarsal, calcaneal, and talar fractures were the most common concomitant injuries. Combined fractures were more often ipsilateral than contralateral (457\u202fvs 18 patients). Despite infrequent complications, 50.2% were discharged home without post-acute services (home health, inpatient rehabilitation, or skilled nursing care). In-hospital mortality was 1.1%. After adjustment, polytrauma (OR 3.75, 95% CI 3.04-4.61), bilateral involvement, and ankle, tibia, fibula, or metatarsal fractures were associated with discharge to post-acute care, whereas fracture pattern was not. Cuboid and navicular fractures are predominantly high-energy injuries that rarely occur in isolation. Post-acute care needs, ICU admission, and length of stay were associated with overall injury burden rather than the specific bone fractured.",
    "doi": "10.1053/j.jfas.2026.10.012",
    "pubtypes": [
     "Journal Article"
@@ -1539,34 +1511,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42815406",
-   "title": "Management, reconstructive strategies and outcomes following open tibia/fibula and ankle fractures: An age-based comparison.",
-   "journal": "J Plast Reconstr Aesthet Surg",
-   "year": "2026",
-   "authors": [
-    "Liu XX",
-    "Odusanya CC",
-    "Farid MM",
-    "Longden EE",
-    "et al."
-   ],
-   "abstract": "Open lower limb fractures require multidisciplinary orthoplastic management. With an ageing population, older patients present with distinct injury patterns, greater comorbidity and reduced physiological reserve. In this study, we compared presentation, management and outcomes between younger and older patients. A 4-year retrospective complete case cohort study (2018-2022) was conducted at a tertiary major trauma centre. Adult patients with open tibia, fibula or ankle fractures were included. Patients were stratified into younger adult (<65 years) and older adult (\u226565 years) cohorts based on age. Data collected included demographics, comorbidities, injury mechanism, Gustilo-Anderson (GA) classification, soft tissue reconstruction strategy, complications and mortality. A total of 292 patients were included (183 younger and 109 older adults). The older cohort were predominantly female (71%) with greater comorbidity burden. Despite the predominantly low-energy mechanisms (61% ground level falls), they sustained more severe injuries, with a higher proportion of GA grade III fractures, particularly GA-IIIb (52%). Single-stage skeletal fixation and soft tissue coverage was more frequently performed in older patients (55%). Median length of stay was longer (16 vs 10 days), and complications were comparable (20 vs 14%). In-hospital mortality was observed exclusively in the older cohort and occurred in 10% of the population-nearly half of which resulted from acute preoperative physiological decompensation. Older patients experience higher morbidity alongside greater comorbidity and severity of injury, despite lower energy mechanism. Management of injury frequently favours single-stage soft tissue coverage. This highlights the need for patient centred orthoplastic pathways and importance of early multidisciplinary involvement.",
-   "doi": "10.1016/j.bjps.2026.09.011",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42815406/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -2101,6 +2045,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42959569",
+   "title": "Return to Sport After Foot and Ankle Surgery Is Inconsistently Defined and Assessed: A Systematic Review.",
+   "journal": "Arthrosc Sports Med Rehabil",
+   "year": "2026",
+   "authors": [
+    "Oikonomou K",
+    "Savsani K",
+    "Wyatt P",
+    "Cyrus J",
+    "et al."
+   ],
+   "abstract": "To conduct a systematic review of return-to-sport (RTS) definitions in the orthopaedic literature, addressing common operative athletic foot and ankle pathologies including ankle instability, Achilles tendon ruptures or tendinopathy, and fifth metatarsal fractures. A systematic review was performed in adherence to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Cochrane, Embase, Medline, and CINAHL databases were searched for studies published through March 2024. Inclusion criteria were studies in which subjects were involved in some level of sports and received surgery for 1 of 3 common sports-related injuries: ankle instability, Achilles tendinopathy, and fifth metatarsal fracture. The primary outcome was each study's definition of RTS. There were 145 articles that met all inclusion criteria. Of these, 73 articles investigated ankle instability, 56 investigated Achilles tendinopathy, and 16 investigated fifth metatarsal fracture. Seventy-nine articles (54.5%) had an unclear definition of RTS with 66 articles (45.5%) reporting a precise definition. Sixty-four articles (44.1%) provided an isolated binary metric reporting whether a patient returned to sport or failed to provide a method for determining the timepoint for RTS. Thirty-eight (26.2%) of the articles used an objective start criterion (e.g., resumption of competition), followed by custom (n\u2009=\u200927, 18.6%) and standardized patient-reported questionnaire use (n\u2009=\u200921, 14.5%). Most articles included in this systematic review did not provide an explicit definition of RTS or a clearly defined assessment methodology. When specified, RTS was assessed using objective events, custom questionnaires, or standardized patient-reported outcome measures, highlighting substantial heterogeneity in both RTS definitions and assessment approaches across foot and ankle literature. Level IV, systematic review of Level I to IV studies.",
+   "doi": "10.1002/ars2.70100",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42959569/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42849318",
    "title": "Sex- and age-specific normative values for lower-limb field tests in elite TeamGym gymnasts.",
    "journal": "Phys Ther Sport",
@@ -2116,36 +2089,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42849318/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42815174",
-   "title": "Shear wave elastography for assessing lower extremity muscle stiffness after anterior cruciate ligament reconstruction: A systematic review.",
-   "journal": "Clin Biomech (Bristol)",
-   "year": "2026",
-   "authors": [
-    "Marczak J",
-    "Lightle C",
-    "Brooks A",
-    "Kyriazi M",
-    "et al."
-   ],
-   "abstract": "Anterior cruciate ligament reconstruction (ACLR) restores passive joint stability, yet athletes who meet strength benchmarks may still land stiffly, hesitate to push off, and re-injure. Muscle stiffness governs how rapidly force is transmitted to the joint, and shear wave elastography (SWE) quantifies it muscle by muscle, but SWE findings after ACLR have not been synthesized. Scopus, PubMed, SPORTDiscus, and CINAHL were searched through November 2025 following PRISMA 2020. Eligible studies compared SWE-derived lower-extremity muscle stiffness after ACLR with contralateral limbs or controls. Two reviewers independently screened, extracted data, and appraised quality (Downs and Black). Findings were synthesized narratively with Hedges' g (95% confidence intervals) where data permitted. Six studies (173 ACLR participants, 79 controls; quality poor to good) were included. Reduced passive vastus medialis shear modulus was consistently observed in operative limbs (g\u00a0-\u00a01.10 to -1.21 versus controls) and was associated with quadriceps strength, knee function, and landing biomechanics. Semitendinosus stiffness was reduced after hamstring tendon harvest (g\u00a0-\u00a01.29 to -1.64) but not at mid-belly after return to sport. Longitudinal deficits persisted at three months; active-contraction findings conflicted. No study sampled the distal vastus medialis obliquus or the distal hamstring musculotendinous region. SWE detects muscle-specific mechanical deficits that relate to function beyond strength: a compliant vastus medialis offers a mechanical explanation for the strong patient who lands stiffly, and reduced semitendinosus stiffness marks donor-site morbidity. Standardized protocols that sample clinically relevant regions and follow patients to return to sport are needed before SWE can guide rehabilitation.",
-   "doi": "10.1016/j.clinbiomech.2026.106982",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42815174/",
    "matched": [
     {
      "id": "return-to-play",
@@ -2241,6 +2184,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42955437",
+   "title": "Syndesmotic screw fixation is associated with higher overall treatment costs when compared with suture button stabilisation in a single UK major trauma centre.",
+   "journal": "Eur J Orthop Surg Traumatol",
+   "year": "2026",
+   "authors": [
+    "Umer HM",
+    "Gilani A",
+    "Aman K",
+    "Gee E"
+   ],
+   "abstract": "Ankle fractures frequently involve syndesmotic disruption, requiring stable fixation to restore joint function. Syndesmotic screw fixation remains widely used but carries significant drawbacks, including implant breakage, stiffness, and frequent need for removal. Suture button stabilisation offers clinical and economic advantages by preserving physiological motion and reducing reoperation rates. This study evaluates these costs under normal, unselected clinical practice, where implant choice and removal decisions were made independently by treating surgeons without protocol influence. This retrospective cohort study compares treatment costs of syndesmosis screw fixation and suture button stabilisation for syndesmotic injuries in a single UK Major Trauma Centre. 75 patients aged 16-60 years, with length stable or length stabilised ankle fractures with syndesmotic injuries, between October 2020 to October 2023 were included. The two cohorts were demographically similar and operative times were comparable (p\u2009=\u20090.170). Complications and reoperations were significantly higher with screw fixation (p\u2009<\u20090.001), with 56.8% undergoing removal, adding \u00a331,460 in costs over three years. Overall, screw fixation cost \u00a3687 more per case than suture button stabilisation. Screw fixation became more costly when the hardware removal rate exceeded 8%. This dropped further to 2% when costs of additional follow up visits were also included. Despite a higher initial implant cost, suture button stabilisation demonstrated fewer complications and no hardware removals. In contrast, 56.8% of screw fixation cases underwent implant removal, leading to screw fixation costing \u00a3687 more per case on average, highlighting the superior clinical and economic value of suture button stabilisation in this pragmatic study.",
+   "doi": "10.1007/s00590-026-05003-6",
+   "pubtypes": [
+    "Journal Article",
+    "Comparative Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42955437/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42950813",
    "title": "Test-Retest Reliability of Soft Tissue Vibration Variables Across an Outdoor 5-km Run.",
    "journal": "J Appl Biomech",
@@ -2321,34 +2292,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42813340",
-   "title": "The gait stability characteristics of individuals with chronic ankle instability.",
-   "journal": "Acta Orthop Traumatol Turc",
-   "year": "2026",
-   "authors": [
-    "Chen H",
-    "Kang Q",
-    "Yao M",
-    "Li D",
-    "et al."
-   ],
-   "abstract": "The objective of this study was to investigate gait stability characteristics in patients with chronic ankle instability (CAI) by analyzing six degrees of freedom (6DOF) kinematic alterations in comparison with healthy controls. A cross-sectional study was conducted to evaluate 6DOF ankle kinematics in individuals with CAI and healthy controls using a dual fluoroscopic imaging system during treadmill walking. Three representative gait cycles were selected for each participant, normalized to 0-100% of the gait cycle, and averaged for analysis. Time-series kinematic differences were assessed using Statistical Parametric Mapping (SPM1D) with one-way ANOVA and post-hoc tests, while discrete variables were compared between groups with Bonferroniadjusted significance. Compared with the control group, the contralateral limbs demonstrated greater distal displacement during 44-55% of the gait cycle (2.7-3.8 mm, p<0.001), whereas the CAI limbs exhibited reduced plantarflexion during 68-75% of the gait cycle (5.1-7.3, p<0.001). Additionally, the range of motion (ROM) for abduction-adduction (2.5\u00c5\u00e3, p<0.05) and internal-external rotation (2.4, p<0.05) on the CAI sides was smaller compared with the contralateral sides. Both the CAI and contralateral limbs showed a decrease in medial-lateral displacement in the coronal plane relative to the control group (3.1mm, p<.05). This study demostrated that individuals with CAI exhibit distinct gait strategies compared to healthy controls, characterized by a reduction in plantarflexion in the CAI sides, an increase in distal displacement in the contralateral sides, and an overall decrease in the ROM on the CAI sides. \u00a0 Cite this article as: Chen H, Kang Q, Yao M, et al. The gait stability characteristics of individuals with chronic ankle instability. Acta Orthop Traumatol Turc., 2026; 60(4), 0567, doi: 10.5152/j.aott.2026.25567.",
-   "doi": "10.5152/j.aott.2026.25567",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42813340/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "42931605",
@@ -2510,6 +2453,33 @@
      "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     },
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42955482",
+   "title": "Weightbearing CT in the Evaluation of Athletic Foot and Ankle Injuries.",
+   "journal": "Curr Rev Musculoskelet Med",
+   "year": "2026",
+   "authors": [
+    "Bru\u00e9 J",
+    "Micicoi L",
+    "de Cesar Netto C"
+   ],
+   "abstract": "Subtle foot and ankle injuries in athletes, including syndesmotic sprains, ligamentous Lisfranc injuries, osteochondral lesions of the talus, and proximal fifth metatarsal stress fractures, may be underestimated or misclassified on conventional imaging. This review summarizes the current role of weightbearing CT (WBCT) in their evaluation, focusing on quantitative parameters, recent technical advances, and their potential influence on clinical decision-making. Recent evidence has shifted WBCT from qualitative assessment toward reproducible three-dimensional quantification. Volumetric assessment and distance mapping improve characterization of syndesmotic instability, while external-rotation stress can reveal abnormalities not evident during neutral standing. In the midfoot, triplanar realignment and side-to-side comparison improve the reliability of Lisfranc measurements and support detection of subtle instability. Distance mapping permits reproducible quantification of osteochondral lesion surface area, depth, and volume and may improve consistency in surgical planning. WBCT has also characterized sport-specific alignment patterns and a morphologic and bone-density phenotype associated with proximal fifth metatarsal stress fractures. Semiautomated segmentation and deep-learning methods may further reduce observer dependence and analysis time. WBCT provides three-dimensional measurements under physiologic load that complement clinical examination and conventional imaging in selected athletic foot and ankle conditions. Its greatest current value lies in characterizing subtle instability, malalignment, and osseous morphology when these findings may alter treatment planning. However, most available evidence is retrospective and derived from symptomatic or injured cohorts. Prospective studies are needed to validate diagnostic thresholds, determine whether WBCT-derived parameters predict injury or outcomes, and define their role in routine athletic screening and return-to-sport decision-making.",
+   "doi": "10.1007/s12178-026-10068-1",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42955482/",
+   "matched": [
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",

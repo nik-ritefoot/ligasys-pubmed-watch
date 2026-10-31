@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "42962209",
+  "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications.",
+  "journal": "ACS Appl Mater Interfaces",
+  "year": "2026",
+  "authors": [
+   "Wang Y",
+   "Ji C",
+   "Shi H",
+   "Wang W",
+   "et al."
+  ],
+  "abstract": "Wearable sensors enable continuous acquisition of physiological, biochemical, and biomechanical signals during exercise, providing data to support sports performance assessment, training regulation, fatigue monitoring, and rehabilitation interventions. However, signal reliability and multidimensional data analysis under complex motion conditions remain constrained by device functionality. Conductive composites can improve sensor flexibility, interfacial conformability, and signal acquisition performance, while artificial intelligence (AI) enables movement pattern recognition, state assessment, and outcome prediction from complex data. Their integration is advancing wearable systems toward multimodal sensing and intelligent analysis. Guided by application needs in sports, this review summarizes emerging applications of wearable sensing technologies enabled by conductive composites and AI. First, the relevance to sports science and the data characteristics of physiological, biochemical, and biomechanical signals are introduced. The functional characteristics, representative applications, and major limitations of conductive polymer, carbon-based, MXene, and hydrogel composites are then summarized. Regarding algorithms, the fundamental principles of supervised learning, unsupervised learning, deep learning (DL), and large language models (LLMs) are discussed, with comparisons of their capabilities in feature extraction, temporal modeling, and multisource data analysis, as well as their input data requirements. On this basis, advances in the application of these systems to sports performance and sport-specific movement monitoring, exercise-induced fatigue monitoring and assessment, sports injury identification and evaluation, and intelligent monitoring of sports rehabilitation are reviewed followed by a discussion of current challenges and future directions. Through the coordinated integration of material design, signal acquisition, and intelligent analysis, wearable systems are expected to enable continuous, reliable, and individualized assessment of exercise-related states, with further applications in real-time feedback, risk alerts, and training decision support, providing a technological foundation for scientifically informed training, sports rehabilitation, and individual health management.",
+  "doi": "10.1021/acsami.6c16362",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962209/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-31T17:54:53Z"
+ },
+ {
+  "pmid": "42962545",
+  "title": "Dynamical systems-based metrics reveal fatigue-related biomechanical changes during running in endurance-trained male and female runners.",
+  "journal": "Gait Posture",
+  "year": "2026",
+  "authors": [
+   "Chen Y",
+   "Emmerzaal J",
+   "Fernandes GA",
+   "Lajeunesse H",
+   "et al."
+  ],
+  "abstract": "Linear and nonlinear metrics derived from a small number of accelerometers provide global insight into fatigue-related changes and injury risk. This study aimed to determine the effects of fatigue on movement dynamics estimated from lower-back accelerometry between endurance-trained male and female runners. Thirty-two endurance-trained runners (16 females) performed a fatiguing running task until volitional exhaustion (20 on the Borg CR20 scale), while wearing one inertial measurement unit (IMU) placed on their pelvis/lower back. Step and stride regularity (unbiased autocorrelation), root mean square (RMS)-based measures of variability (absolute RMS and RMS ratio), complexity (Sample Entropy), jerk-based measure of smoothness (Log Dimensionless Jerk; LDLJ), and stability (short- and long-term Lyapunov Exponent) were calculated from the raw accelerations. Significant main effects of fatigue were observed across both sexes for gait regularity, with an 8% reduction in anteroposterior step regularity and an 11% reduction in stride regularity. Fatigue also altered variability characteristics, resulting in a 12% increase in mediolateral absolute RMS, a 13% increase in anteroposterior absolute RMS, a 2% decrease in vertical RMS ratio, a 6% increase in mediolateral RMS ratio, and an 8% increase in anteroposterior RMS ratio. Fatigue increased movement complexity, as evidenced by a 14% increase in vertical Sample Entropy and an 11% increase in anteroposterior Sample Entropy. In addition to these overall fatigue effects, RMS-based measure of variability showed sex-specific responses. Interaction effects showed that males exhibited a 4% increase in the vertical absolute RMS of lower-back acceleration with fatigue, whereas females did not. Both male and female endurance-trained runners may adopt a less regular and less predictable whole-body movement pattern with fatigue, while RMS-based variability showed sex-specific responses, with increased fatigue-related changes in males. These findings highlight the importance of considering both general and sex-specific adaptations when monitoring fatigue.",
+  "doi": "10.1016/j.gaitpost.2026.110670",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962545/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-10-31T17:54:53Z"
+ },
+ {
   "pmid": "42958902",
   "title": "A balancing act: Passive ankle exoskeletons alter neuromuscular function and postural stability during balance.",
   "journal": "J Appl Physiol (1985)",
