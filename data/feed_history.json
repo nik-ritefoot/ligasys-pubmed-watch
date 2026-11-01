@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "42966240",
+  "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
+  "journal": "Injury",
+  "year": "2026",
+  "authors": [
+   "Othman Y",
+   "Kasabwala D",
+   "Jayagopi K",
+   "Lemoine J",
+   "et al."
+  ],
+  "abstract": "Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains. This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis. Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history. ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
+  "doi": "10.1016/j.injury.2026.113816",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966240/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-01T18:31:50Z"
+ },
+ {
   "pmid": "42962209",
   "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications.",
   "journal": "ACS Appl Mater Interfaces",

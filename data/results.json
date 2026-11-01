@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T17:54:53+00:00",
+ "generated": "2026-11-01T18:31:50+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,58 +65,31 @@
   }
  ],
  "counts": {
-  "total": 86,
-  "new": 2,
+  "total": 83,
+  "new": 1,
   "research": 16,
-  "fieldnotes": 70
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42962209",
-   "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications.",
-   "journal": "ACS Appl Mater Interfaces",
+   "pmid": "42966240",
+   "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
+   "journal": "Injury",
    "year": "2026",
    "authors": [
-    "Wang Y",
-    "Ji C",
-    "Shi H",
-    "Wang W",
+    "Othman Y",
+    "Kasabwala D",
+    "Jayagopi K",
+    "Lemoine J",
     "et al."
    ],
-   "abstract": "Wearable sensors enable continuous acquisition of physiological, biochemical, and biomechanical signals during exercise, providing data to support sports performance assessment, training regulation, fatigue monitoring, and rehabilitation interventions. However, signal reliability and multidimensional data analysis under complex motion conditions remain constrained by device functionality. Conductive composites can improve sensor flexibility, interfacial conformability, and signal acquisition performance, while artificial intelligence (AI) enables movement pattern recognition, state assessment, and outcome prediction from complex data. Their integration is advancing wearable systems toward multimodal sensing and intelligent analysis. Guided by application needs in sports, this review summarizes emerging applications of wearable sensing technologies enabled by conductive composites and AI. First, the relevance to sports science and the data characteristics of physiological, biochemical, and biomechanical signals are introduced. The functional characteristics, representative applications, and major limitations of conductive polymer, carbon-based, MXene, and hydrogel composites are then summarized. Regarding algorithms, the fundamental principles of supervised learning, unsupervised learning, deep learning (DL), and large language models (LLMs) are discussed, with comparisons of their capabilities in feature extraction, temporal modeling, and multisource data analysis, as well as their input data requirements. On this basis, advances in the application of these systems to sports performance and sport-specific movement monitoring, exercise-induced fatigue monitoring and assessment, sports injury identification and evaluation, and intelligent monitoring of sports rehabilitation are reviewed followed by a discussion of current challenges and future directions. Through the coordinated integration of material design, signal acquisition, and intelligent analysis, wearable systems are expected to enable continuous, reliable, and individualized assessment of exercise-related states, with further applications in real-time feedback, risk alerts, and training decision support, providing a technological foundation for scientifically informed training, sports rehabilitation, and individual health management.",
-   "doi": "10.1021/acsami.6c16362",
+   "abstract": "Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains. This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis. Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history. ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
+   "doi": "10.1016/j.injury.2026.113816",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42962209/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42962545",
-   "title": "Dynamical systems-based metrics reveal fatigue-related biomechanical changes during running in endurance-trained male and female runners.",
-   "journal": "Gait Posture",
-   "year": "2026",
-   "authors": [
-    "Chen Y",
-    "Emmerzaal J",
-    "Fernandes GA",
-    "Lajeunesse H",
-    "et al."
-   ],
-   "abstract": "Linear and nonlinear metrics derived from a small number of accelerometers provide global insight into fatigue-related changes and injury risk. This study aimed to determine the effects of fatigue on movement dynamics estimated from lower-back accelerometry between endurance-trained male and female runners. Thirty-two endurance-trained runners (16 females) performed a fatiguing running task until volitional exhaustion (20 on the Borg CR20 scale), while wearing one inertial measurement unit (IMU) placed on their pelvis/lower back. Step and stride regularity (unbiased autocorrelation), root mean square (RMS)-based measures of variability (absolute RMS and RMS ratio), complexity (Sample Entropy), jerk-based measure of smoothness (Log Dimensionless Jerk; LDLJ), and stability (short- and long-term Lyapunov Exponent) were calculated from the raw accelerations. Significant main effects of fatigue were observed across both sexes for gait regularity, with an 8% reduction in anteroposterior step regularity and an 11% reduction in stride regularity. Fatigue also altered variability characteristics, resulting in a 12% increase in mediolateral absolute RMS, a 13% increase in anteroposterior absolute RMS, a 2% decrease in vertical RMS ratio, a 6% increase in mediolateral RMS ratio, and an 8% increase in anteroposterior RMS ratio. Fatigue increased movement complexity, as evidenced by a 14% increase in vertical Sample Entropy and an 11% increase in anteroposterior Sample Entropy. In addition to these overall fatigue effects, RMS-based measure of variability showed sex-specific responses. Interaction effects showed that males exhibited a 4% increase in the vertical absolute RMS of lower-back acceleration with fatigue, whereas females did not. Both male and female endurance-trained runners may adopt a less regular and less predictable whole-body movement pattern with fatigue, while RMS-based variability showed sex-specific responses, with increased fatigue-related changes in males. These findings highlight the importance of considering both general and sex-specific adaptations when monitoring fatigue.",
-   "doi": "10.1016/j.gaitpost.2026.110670",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42962545/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42966240/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -267,39 +240,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42817240",
-   "title": "A Sustainable Natural-Rubber IoT Smart Insole for Remote Body-Load Monitoring: An Observational Gait Comparison in Flexible Flatfoot.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Saramolee P",
-    "Sengsoon P",
-    "Chaimool S",
-    "Khongsomboon K",
-    "et al."
-   ],
-   "abstract": "Flexible flatfoot (pes planus) alters lower-limb biomechanics and plantar-pressure distribution, raising the risk of pain and injury. Laboratory gait analysis with optical motion capture and force plates is the reference standard but is costly, space-constrained, and ecologically limited. We present the design, fabrication, and validation of a low-cost, sustainable smart insole for Internet-of-Things (IoT) remote body-load monitoring. The device pairs a dual-layer natural-rubber body-a silica-filled sponge-rubber upper for comfort and a carbon-black-reinforced solid outsole for durability-with four load cells per insole at high-pressure plantar landmarks, read through a 24-bit amplifier by an ESP32 that calibrates and streams left/right load over Wi-Fi to the ThingSpeak cloud, with a wrist-worn OLED for real-time feedback. Against reference weights in 25 participants, the system measured total body weight with a mean absolute error of 2.94%, a maximum error of 4.18%, and an RMSE of 1.94 kg (Pearson r = 0.99); the residual was an almost purely systematic proportional bias (slope 0.966, R2 = 0.98) removable by a single in-sample scalar recalibration. In 30 adults (15 normal-arch; 15 flexible flatfoot), spatiotemporal gait parameters were compared while both groups wore the smart insole. Forward-progression parameters, including step length, stride length, and walking velocity, did not differ significantly between groups during comfortable walking (all p > 0.18). The flatfoot group showed a wider mediolateral base-greater stance width during standing (+14%, p = 0.008) and step width during comfortable walking (+23%, p = 0.040, uncorrected). After correction for multiple comparisons, only the reduction in fast-walking cadence remained statistically significant. A sustainably sourced, affordable smart insole can thus deliver clinically meaningful remote body-load monitoring. The findings also point to a dissociation: forward propulsion was comparable between the groups while the insole was worn, whereas the mediolateral base remained wider in flatfoot. Controlled trials pairing orthotic support with active gait retraining are therefore warranted.",
-   "doi": "10.3390/s26185687",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42817240/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -731,6 +671,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "42962209",
+   "title": "Conductive Composite-Based Wearable Sensors for Sports Science: Intelligent Data Analysis and Emerging Applications.",
+   "journal": "ACS Appl Mater Interfaces",
+   "year": "2026",
+   "authors": [
+    "Wang Y",
+    "Ji C",
+    "Shi H",
+    "Wang W",
+    "et al."
+   ],
+   "abstract": "Wearable sensors enable continuous acquisition of physiological, biochemical, and biomechanical signals during exercise, providing data to support sports performance assessment, training regulation, fatigue monitoring, and rehabilitation interventions. However, signal reliability and multidimensional data analysis under complex motion conditions remain constrained by device functionality. Conductive composites can improve sensor flexibility, interfacial conformability, and signal acquisition performance, while artificial intelligence (AI) enables movement pattern recognition, state assessment, and outcome prediction from complex data. Their integration is advancing wearable systems toward multimodal sensing and intelligent analysis. Guided by application needs in sports, this review summarizes emerging applications of wearable sensing technologies enabled by conductive composites and AI. First, the relevance to sports science and the data characteristics of physiological, biochemical, and biomechanical signals are introduced. The functional characteristics, representative applications, and major limitations of conductive polymer, carbon-based, MXene, and hydrogel composites are then summarized. Regarding algorithms, the fundamental principles of supervised learning, unsupervised learning, deep learning (DL), and large language models (LLMs) are discussed, with comparisons of their capabilities in feature extraction, temporal modeling, and multisource data analysis, as well as their input data requirements. On this basis, advances in the application of these systems to sports performance and sport-specific movement monitoring, exercise-induced fatigue monitoring and assessment, sports injury identification and evaluation, and intelligent monitoring of sports rehabilitation are reviewed followed by a discussion of current challenges and future directions. Through the coordinated integration of material design, signal acquisition, and intelligent analysis, wearable systems are expected to enable continuous, reliable, and individualized assessment of exercise-related states, with further applications in real-time feedback, risk alerts, and training decision support, providing a technological foundation for scientifically informed training, sports rehabilitation, and individual health management.",
+   "doi": "10.1021/acsami.6c16362",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962209/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42885854",
    "title": "Consumer Grade Wearable Sensor Metrics Are Associated with Internal Forces at Common Running Injury Locations.",
    "journal": "Med Sci Sports Exerc",
@@ -872,34 +840,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42817379",
-   "title": "Development of a Wearable Sensor Platform for Fall Risk Assessment and Fall Detection.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Imperato A",
-    "Caporaso M",
-    "Pascalis V",
-    "Di Gironimo G",
-    "et al."
-   ],
-   "abstract": "Objective: Falls among the elderly constitute a major global public health issue. Research has therefore focused on two complementary areas: fall risk prevention and fall detection. Existing solutions mainly rely on body-attached sensors confined to laboratory settings, whereas recent research has shifted toward wearable e-textiles with non-invasive, long-term-wear sensors. In this context, the study presents a wearable sensor platform to both predict fall risk and detect falls, based on sensorized clothing integrating inertial measurement units and surface electromyography sensors. Methods: Fall risk was estimated from gait parameters extracted during a 10 m walking test as the probability of belonging to a faller (vs. non-faller) group, using a logistic regression model trained on the G-STRIDE dataset, complemented by neuromuscular parameters extracted from sEMG and associated with fall risk. Fall detection, focused on improving pre-impact identification, was framed as a binary classification between activities of daily living and falls, using a reduced Spatio-Temporal Attention Network trained on the FallTL dataset and refined with our own platform's data. Results: The obtained results were: fall-risk assessment, Area Under the Curve = 77.8%, Accuracy = 68.7%; fall detection, Accuracy = 96.7%, F1 Score = 77.3%, lead time = 390 ms. Conclusions: As a single-subject proof of concept, these results support the feasibility of a unified platform integrating objective fall-risk screening and fall event identification, with a predicted time before impact suitable for protective systems intervention; validation on a larger, representative cohort is required before any clinical claim can be made.",
-   "doi": "10.3390/s26185867",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42817379/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42931794",
    "title": "Double-level osteotomy versus high tibial osteotomy for varus malalignment of the knee: A systematic review and meta-analysis.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -922,6 +862,34 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42962545",
+   "title": "Dynamical systems-based metrics reveal fatigue-related biomechanical changes during running in endurance-trained male and female runners.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Chen Y",
+    "Emmerzaal J",
+    "Fernandes GA",
+    "Lajeunesse H",
+    "et al."
+   ],
+   "abstract": "Linear and nonlinear metrics derived from a small number of accelerometers provide global insight into fatigue-related changes and injury risk. This study aimed to determine the effects of fatigue on movement dynamics estimated from lower-back accelerometry between endurance-trained male and female runners. Thirty-two endurance-trained runners (16 females) performed a fatiguing running task until volitional exhaustion (20 on the Borg CR20 scale), while wearing one inertial measurement unit (IMU) placed on their pelvis/lower back. Step and stride regularity (unbiased autocorrelation), root mean square (RMS)-based measures of variability (absolute RMS and RMS ratio), complexity (Sample Entropy), jerk-based measure of smoothness (Log Dimensionless Jerk; LDLJ), and stability (short- and long-term Lyapunov Exponent) were calculated from the raw accelerations. Significant main effects of fatigue were observed across both sexes for gait regularity, with an 8% reduction in anteroposterior step regularity and an 11% reduction in stride regularity. Fatigue also altered variability characteristics, resulting in a 12% increase in mediolateral absolute RMS, a 13% increase in anteroposterior absolute RMS, a 2% decrease in vertical RMS ratio, a 6% increase in mediolateral RMS ratio, and an 8% increase in anteroposterior RMS ratio. Fatigue increased movement complexity, as evidenced by a 14% increase in vertical Sample Entropy and an 11% increase in anteroposterior Sample Entropy. In addition to these overall fatigue effects, RMS-based measure of variability showed sex-specific responses. Interaction effects showed that males exhibited a 4% increase in the vertical absolute RMS of lower-back acceleration with fatigue, whereas females did not. Both male and female endurance-trained runners may adopt a less regular and less predictable whole-body movement pattern with fatigue, while RMS-based variability showed sex-specific responses, with increased fatigue-related changes in males. These findings highlight the importance of considering both general and sex-specific adaptations when monitoring fatigue.",
+   "doi": "10.1016/j.gaitpost.2026.110670",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42962545/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1068,31 +1036,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42816715",
-   "title": "Estimating Linear and Rotational Head Kinematics in Ice Hockey from a Single Helmet-Mounted IMU Using Vector Autoregressive Models.",
-   "journal": "Ann Biomed Eng",
-   "year": "2026",
-   "authors": [
-    "Sciacca D",
-    "Ionescu A"
-   ],
-   "abstract": "Accurate estimation of head kinematics is critical for assessing brain injury risk in contact sports. This study introduces a Vector AutoRegressive (VAR) framework to jointly model linear acceleration and angular velocity during head impacts, capturing the inherent coupling between translational and rotational dynamics. Controlled impacts were performed on a helmeted Hybrid III 50th percentile male headform using a pendulum impactor across multiple locations (front, front-oblique, side, rear-oblique) and three impact intensities (30\u00b0, 50\u00b0, 70\u00b0 pendulum angles). Helmet-mounted Inertial Measurement Unit (IMU) signals were processed using VAR models trained on reference headform data at 30\u00b0 and 50\u00b0 impacts. The proposed framework was also evaluated for the estimation of head kinematics at untrained impact intensities (70\u00b0). At the trained intensities, the VAR approach generally improved angular velocity reconstruction across impact configurations, with PMPE and RMSE reductions of up to 20.9\u00a0pp (-81.1%) and 288.8 \u00b0/s (-85.7%), respectively, at 30\u00b0. Linear acceleration improvements were more limited, with PMPE and RMSE reductions of up to 171.8\u00a0pp (-85.7%) and 10.9\u00a0g (-74.8%), also at 30\u00b0. At the untrained 70\u00b0 intensity, angular velocity PMPE decreased at all locations but significantly only at the front-oblique, while RMSE decreased significantly at the front and front-oblique (up to\u2009-\u2009341.1 \u00b0/s,\u2009-\u200952.2%). In contrast, linear acceleration PMPE degraded at all locations, increasing by up to 68.6\u00a0pp (+726.4%), while RMSE showed either deterioration or non-significant improvement. In conclusion, the VAR modeling framework offers a promising multivariate approach for reconstructing head impact kinematics from a single IMU-instrumented helmet. However, limited generalization to higher, untrained intensities highlights the need for further development before real-time head injury assessment can be supported.",
-   "doi": "10.1007/s10439-026-04395-0",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42816715/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42842750",
    "title": "Estrogen and Lysyl Oxidase: How Crosslink Changes Increase Biological Female Athlete ACL Injury Risk.",
    "journal": "Curr Sports Med Rep",
@@ -1170,36 +1113,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42821993",
-   "title": "Feasibility and Preliminary Effects of AI-Generated Personalized Sleep Feedback in High School Female Soccer Players: Pilot Randomized Controlled Trial.",
-   "journal": "JMIR Form Res",
-   "year": "2026",
-   "authors": [
-    "Kedoin H",
-    "Itoh Y",
-    "Nirengi T",
-    "Sato Y",
-    "et al."
-   ],
-   "abstract": "Adequate sleep supports mood regulation and injury prevention in high school female athletes; however, insufficient sleep is common in this population. Wearable devices enable continuous assessment of objective sleep metrics, but personalized feedback based on daily sleep data remains underexplored. This study evaluated the technical and operational feasibility of a multicomponent AI-supported mobile health (mHealth) intervention that delivered personalized sleep feedback to high school female soccer players. Sleep efficiency was the primary preliminary efficacy outcome; other sleep-related measures were secondary or exploratory outcomes, and mood state and sports injury severity were exploratory outcomes. We conducted a pilot randomized controlled trial among 25 high school female soccer players from a single team. The study briefing and system setup began on August 18, 2025, and the trial was retrospectively registered with the University Hospital Medical Information Network (UMIN) Clinical Trials Registry on April 7, 2026 (UMIN000061189). Weeks 1 to 4 constituted the baseline period. After the week 5 baseline questionnaires, participants were stratified by median baseline total sleep time (TST) and Pittsburgh Sleep Quality Index score and randomly allocated 1:1 to the intervention (n=12) or control (n=13) group. During weeks 6 to 9, the intervention group received GPT-4o-generated personalized feedback via LINE on days with valid prior-night Fitbit data, whereas the control group received daily nonpersonalized sleep information. Technical and operational feasibility outcomes included message delivery success, valid Fitbit wear nights, questionnaire completion, technical problems, adverse events, and privacy breaches. Secondary outcomes included TST, wake after sleep onset (WASO), subjective sleep quality, sleep difficulty, and daytime sleepiness. Deep, light, and rapid eye movement (REM) sleep durations, mood state, and sports injury severity were exploratory outcomes. All 25 participants completed the trial. Message delivery success and questionnaire completion were 100% in both groups. Median valid Fitbit wear nights were 26 (IQR 24-28) in the intervention group and 22 (IQR 15-26) in the control group. No major technical problems, adverse events, or privacy breaches occurred. Change in sleep efficiency, the primary preliminary efficacy outcome, favored the intervention group (Hodges-Lehmann between-group difference 2%, 95% CI 0.50%-4%; P=.046; r=0.35). Nominal between-group differences were also observed for the Japanese version of the Pittsburgh Sleep Quality Index (PSQI-J) total score and sleep difficulty score and, among exploratory outcomes, REM sleep duration and total mood disturbance. No between-group differences were observed in TST, WASO, deep or light sleep duration, daytime sleepiness, or sports injury severity. The multicomponent AI-supported mHealth intervention demonstrated technical and operational feasibility in this single-team setting. Preliminary, hypothesis-generating between-group differences were observed in sleep efficiency and selected subjective sleep and mood outcomes. These findings should not be interpreted as evidence of established effectiveness and require confirmation in a sufficiently powered trial. UMIN Clinical Trials Registry UMIN000061189; https://tinyurl.com/tw3d7aku.",
-   "doi": "10.2196/101615",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial",
-    "Research Support, Non-U.S. Gov't"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42821993/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
