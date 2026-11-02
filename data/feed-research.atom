@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-11-01T18:31:50Z</updated>
+  <updated>2026-11-02T22:27:58Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.</title>
+    <id>urn:pmid:42967447</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/42967447/" rel="alternate"/>
+    <updated>2026-11-02T22:27:58Z</updated>
+    <published>2026-11-02T22:27:58Z</published>
+    <author><name>Li TY</name></author><author><name>Wang Z</name></author><author><name>Cascoe R</name></author><author><name>Aki-Sawyerr J</name></author><author><name>et al.</name></author>
+    <category term="ankle-instability-mechanism" label="Chronic ankle instability — mechanisms"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Li TY, Wang Z, Cascoe R, Aki-Sawyerr J, et al. · J Biomech · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Individuals with chronic ankle instability(CAI) show deficits in neuromuscular control and postural stability. While feedback mechanisms are well-studied, feedforward mechanisms during dynamic tasks remains underexplored. This study compared feedforward neuromuscular control and dynamic postural stability among CAI, coper and healthy groups. Fifteen CAI(23.5 ± 2.9 years, 11 M/4F), fifteen coper(24.1 ± 3.4 years, 12 M/3F) and fifteen healthy participants(25.5 ± 3.5 years, 11 M/4F) performed single-leg drop landings from 30 cm. Total centre of pressure movement during 1-second and 3-second(TOTEX1s&amp;amp;TOTEX3s), mediolateral sway distance(DML), peak vertical GRF(peak vGRF) and root-mean-square of mediolateral GRF in the first 0.4 s(RMS_ML_0.4) were recorded via force plate. Surface electromyography recorded muscle activity 200 ms before landing among tibialis anterior(TA), peroneus longus(PL) and gastrocnemius lateralis(GL). Pre-activation timing was calculated using the Teager-Kaiser energy operator(TKEO). Statistical analysis involved one-way ANOVA(α = 0.05) and Tukey post-hoc testing. Compared to healthy participants, CAI individuals displayed earlier TA(270 ± 73 ms vs. 85 ± 53 ms, p &amp;lt; 0.001) and PL(260 ± 87 ms vs. 102 ± 62 ms, p &amp;lt; 0.001) pre-activations, alongside higher TA activity(76 ± 27% vs. 35 ± 19%, p &amp;lt; 0.001) but lower PL activity(38 ± 14% vs. 77 ± 23%, p &amp;lt; 0.001). Higher RMS_ML_0.4(6.7 ± 1.3%BW vs. 5.6 ± 1.0%BW, p = 0.037), DML(55.6 ± 15.7 mm vs. 39.5 ± 9.0 mm, p &amp;lt; 0.001) and peak vGRF(334 ± 44%BW vs. 286 ± 59%BW, p = 0.041)were observed as well. Coper showed earlier GL pre-activation(169 ± 57 ms vs. 108 ± 67 ms, p = 0.021), increased activity(155 ± 40% vs. 97 ± 29%, p &amp;lt; 0.001) and decreased DML(42.7 ± 7.0 mm vs. 55.6 ± 15.7 mm, p = 0.008) compared to CAI individuals. CAI exhibited postural control deficits and ineffective feedforward control, shown by lower PL activity despite early pre-activation. Rate of force production training is advised. Increased GL activation may serve as a compensatory response in copers after initial ankle sprain.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.1016/j.jbiomech.2026.113649&quot;&gt;10.1016/j.jbiomech.2026.113649&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/42967447/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>[Sensorimotor insoles for musculoskeletal disorders : An evidence-based rapid review].</title>
     <id>urn:pmid:42931924</id>

@@ -1,5 +1,78 @@
 [
  {
+  "pmid": "42967447",
+  "title": "Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Li TY",
+   "Wang Z",
+   "Cascoe R",
+   "Aki-Sawyerr J",
+   "et al."
+  ],
+  "abstract": "Individuals with chronic ankle instability(CAI) show deficits in neuromuscular control and postural stability. While feedback mechanisms are well-studied, feedforward mechanisms during dynamic tasks remains underexplored. This study compared feedforward neuromuscular control and dynamic postural stability among CAI, coper and healthy groups. Fifteen CAI(23.5\u202f\u00b1\u202f2.9\u202fyears, 11\u202fM/4F), fifteen coper(24.1\u202f\u00b1\u202f3.4\u202fyears, 12\u202fM/3F) and fifteen healthy participants(25.5\u202f\u00b1\u202f3.5\u202fyears, 11\u202fM/4F) performed single-leg drop landings from 30\u202fcm. Total centre of pressure movement during 1-second and 3-second(TOTEX1s&TOTEX3s), mediolateral sway distance(DML), peak vertical GRF(peak vGRF) and root-mean-square of mediolateral GRF in the first 0.4\u202fs(RMS_ML_0.4) were recorded via force plate. Surface electromyography recorded muscle activity 200\u202fms before landing among tibialis anterior(TA), peroneus longus(PL) and gastrocnemius lateralis(GL). Pre-activation timing was calculated using the Teager-Kaiser energy operator(TKEO). Statistical analysis involved one-way ANOVA(\u03b1\u202f=\u202f0.05) and Tukey post-hoc testing. Compared to healthy participants, CAI individuals displayed earlier TA(270\u202f\u00b1\u202f73\u202fms vs. 85\u202f\u00b1\u202f53\u202fms, p\u202f<\u202f0.001) and PL(260\u202f\u00b1\u202f87\u202fms vs. 102\u202f\u00b1\u202f62\u202fms, p\u202f<\u202f0.001) pre-activations, alongside higher TA activity(76\u202f\u00b1\u202f27% vs. 35\u202f\u00b1\u202f19%, p\u202f<\u202f0.001) but lower PL activity(38\u202f\u00b1\u202f14% vs. 77\u202f\u00b1\u202f23%, p\u202f<\u202f0.001). Higher RMS_ML_0.4(6.7\u202f\u00b1\u202f1.3%BW vs. 5.6\u202f\u00b1\u202f1.0%BW, p\u202f=\u202f0.037), DML(55.6\u202f\u00b1\u202f15.7\u202fmm vs. 39.5\u202f\u00b1\u202f9.0\u202fmm, p\u202f<\u202f0.001) and peak vGRF(334\u202f\u00b1\u202f44%BW vs. 286\u202f\u00b1\u202f59%BW, p\u202f=\u202f0.041)were observed as well. Coper showed earlier GL pre-activation(169\u202f\u00b1\u202f57\u202fms vs. 108\u202f\u00b1\u202f67\u202fms, p\u202f=\u202f0.021), increased activity(155\u202f\u00b1\u202f40% vs. 97\u202f\u00b1\u202f29%, p\u202f<\u202f0.001) and decreased DML(42.7\u202f\u00b1\u202f7.0\u202fmm vs. 55.6\u202f\u00b1\u202f15.7\u202fmm, p\u202f=\u202f0.008) compared to CAI individuals. CAI exhibited postural control deficits and ineffective feedforward control, shown by lower PL activity despite early pre-activation. Rate of force production training is advised. Increased GL activation may serve as a compensatory response in copers after initial ankle sprain.",
+  "doi": "10.1016/j.jbiomech.2026.113649",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967447/",
+  "matched": [
+   {
+    "id": "ankle-instability-mechanism",
+    "label": "Chronic ankle instability \u2014 mechanisms",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-02T22:27:58Z"
+ },
+ {
+  "pmid": "42968812",
+  "title": "FIM Motorcycling sport-specific extension of the IOC consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020.",
+  "journal": "BMJ Open Sport Exerc Med",
+  "year": "2026",
+  "authors": [
+   "O'Dowd DP",
+   "McManus D",
+   "Turner M",
+   "Brennan HJ",
+   "et al."
+  ],
+  "abstract": "In 2020, the International Olympic Committee (IOC) released a consensus statement recommending standardised methods for recording and reporting illness and injury in sport. A key component of this statement was the recognition that sport-specific extensions should be developed to provide more detailed recommendations tailored to individual sports and/or settings. In response, the F\u00e9d\u00e9ration Internationale de Motocyclisme (FIM) Medical Commission convened a 15-member panel-comprising clinicians across multiple specialities, a sports scientist and two FIM delegates-to develop a consensus statement specific to motorcycling sport injury and illness surveillance. The panel reviewed existing consensus literature relevant to sport injury/illness surveillance and conducted two rounds of voting based on the IOC framework using a Delphi methodology. They then voted on key sport-specific recommendations to form the motorcycling sport-specific extension. The final manuscript was approved unanimously by all panel members after two rounds of revision. Relative to the parent IOC statement, this extension: (1) reframes injury categorisation and contact mechanisms around the combined rider-and-machine nature of motorcycling incidents; (2) replaces symptom-based and pathology-based severity scoring with a time-loss model adapted to the sport's irregular competition calendar, including explicit handling of estimated severity and right-censored cases; (3) restricts exposure measurement to motorcycle-mounted transponder data rather than wearable devices, for safety and regulatory reasons and (4) introduces a discipline-specific appendix covering fall/injury mechanisms, demographic and equipment-damage variables and primary/secondary exposure and severity measures across circuit racing, motocross/supercross/supermoto, trial, enduro, cross-country and track racing. The motorcycling sport-specific extension of the IOC consensus statement aims to provide researchers and governing bodies with a standardised methodology to undertake injury and illness surveillance in motorcycling sport.",
+  "doi": "10.1136/bmjsem-2026-003578",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42968812/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-02T22:27:58Z"
+ },
+ {
+  "pmid": "42967377",
+  "title": "Learned helplessness is associated with jump-landing biomechanics following anterior cruciate ligament reconstruction.",
+  "journal": "Clin Biomech (Bristol)",
+  "year": "2026",
+  "authors": [
+   "Burland JP",
+   "Lepley AS",
+   "Lepley LK"
+  ],
+  "abstract": "Persistent biomechanical alterations following anterior cruciate ligament reconstruction (ACLR) contribute to reduced functional performance, increased reinjury risk, and diminished joint health. Rehabilitation emphasizes strength and functional restoration; however, neurobehavioral adaptations may persist. Learned helplessness, characterized by reduced motivation, maladaptive biomechanics, and learned non-use of the reconstructed limb, may relate to post-operative neuromuscular control. However, its relationship with dynamic movement after ACLR remains unclear. This study examined the association between learned helplessness and bilateral lower extremity kinematics during jump-landings in individuals following ACLR. Thirty-three individuals with primary, unilateral ACLR completed a learned helplessness scale and jump-landing task with three-dimensional lower-extremity kinematics. Sagittal and frontal plane knee and hip angles were assessed at initial contact and peak landing. Correlations and regression analyses examined associations with learned helplessness, controlling for age, sex, and time since surgery. Participants were 2.78\u202f\u00b1\u202f2.78\u202fyears post-ACLR and demonstrated low helplessness scores. Greater learned helplessness was moderately associated with greater peak knee abduction in the ACLR limb (r\u202f=\u202f0.564, p\u202f=\u202f0.001). Weak associations were also observed with reduced peak hip flexion in the ACLR (r\u202f=\u202f-0.370, p\u202f=\u202f0.048) and contralateral limbs (r\u202f=\u202f-0.415, p\u202f=\u202f0.025), which did not survive sensitivity analyses. Learned helplessness was independently associated with greater peak knee abduction angle in the ACLR limb (B\u202f=\u202f0.230, p\u202f=\u202f0.007). The overall model accounted for 34.8% of the variance in peak knee abduction. Learned helplessness appears to be associated with frontal plane knee mechanics following ACLR. Consideration of psychological and neurobehavioral constructs in rehabilitation and return-to-sport assessment following ACLR is important.",
+  "doi": "10.1016/j.clinbiomech.2026.107011",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967377/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-02T22:27:58Z"
+ },
+ {
   "pmid": "42966240",
   "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
   "journal": "Injury",

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T18:31:50+00:00",
+ "generated": "2026-11-02T22:27:58+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,35 +65,88 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 1,
-  "research": 16,
+  "total": 84,
+  "new": 3,
+  "research": 17,
   "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "42966240",
-   "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
-   "journal": "Injury",
+   "pmid": "42967447",
+   "title": "Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.",
+   "journal": "J Biomech",
    "year": "2026",
    "authors": [
-    "Othman Y",
-    "Kasabwala D",
-    "Jayagopi K",
-    "Lemoine J",
+    "Li TY",
+    "Wang Z",
+    "Cascoe R",
+    "Aki-Sawyerr J",
     "et al."
    ],
-   "abstract": "Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains. This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis. Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history. ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
-   "doi": "10.1016/j.injury.2026.113816",
+   "abstract": "Individuals with chronic ankle instability(CAI) show deficits in neuromuscular control and postural stability. While feedback mechanisms are well-studied, feedforward mechanisms during dynamic tasks remains underexplored. This study compared feedforward neuromuscular control and dynamic postural stability among CAI, coper and healthy groups. Fifteen CAI(23.5\u202f\u00b1\u202f2.9\u202fyears, 11\u202fM/4F), fifteen coper(24.1\u202f\u00b1\u202f3.4\u202fyears, 12\u202fM/3F) and fifteen healthy participants(25.5\u202f\u00b1\u202f3.5\u202fyears, 11\u202fM/4F) performed single-leg drop landings from 30\u202fcm. Total centre of pressure movement during 1-second and 3-second(TOTEX1s&TOTEX3s), mediolateral sway distance(DML), peak vertical GRF(peak vGRF) and root-mean-square of mediolateral GRF in the first 0.4\u202fs(RMS_ML_0.4) were recorded via force plate. Surface electromyography recorded muscle activity 200\u202fms before landing among tibialis anterior(TA), peroneus longus(PL) and gastrocnemius lateralis(GL). Pre-activation timing was calculated using the Teager-Kaiser energy operator(TKEO). Statistical analysis involved one-way ANOVA(\u03b1\u202f=\u202f0.05) and Tukey post-hoc testing. Compared to healthy participants, CAI individuals displayed earlier TA(270\u202f\u00b1\u202f73\u202fms vs. 85\u202f\u00b1\u202f53\u202fms, p\u202f<\u202f0.001) and PL(260\u202f\u00b1\u202f87\u202fms vs. 102\u202f\u00b1\u202f62\u202fms, p\u202f<\u202f0.001) pre-activations, alongside higher TA activity(76\u202f\u00b1\u202f27% vs. 35\u202f\u00b1\u202f19%, p\u202f<\u202f0.001) but lower PL activity(38\u202f\u00b1\u202f14% vs. 77\u202f\u00b1\u202f23%, p\u202f<\u202f0.001). Higher RMS_ML_0.4(6.7\u202f\u00b1\u202f1.3%BW vs. 5.6\u202f\u00b1\u202f1.0%BW, p\u202f=\u202f0.037), DML(55.6\u202f\u00b1\u202f15.7\u202fmm vs. 39.5\u202f\u00b1\u202f9.0\u202fmm, p\u202f<\u202f0.001) and peak vGRF(334\u202f\u00b1\u202f44%BW vs. 286\u202f\u00b1\u202f59%BW, p\u202f=\u202f0.041)were observed as well. Coper showed earlier GL pre-activation(169\u202f\u00b1\u202f57\u202fms vs. 108\u202f\u00b1\u202f67\u202fms, p\u202f=\u202f0.021), increased activity(155\u202f\u00b1\u202f40% vs. 97\u202f\u00b1\u202f29%, p\u202f<\u202f0.001) and decreased DML(42.7\u202f\u00b1\u202f7.0\u202fmm vs. 55.6\u202f\u00b1\u202f15.7\u202fmm, p\u202f=\u202f0.008) compared to CAI individuals. CAI exhibited postural control deficits and ineffective feedforward control, shown by lower PL activity despite early pre-activation. Rate of force production training is advised. Increased GL activation may serve as a compensatory response in copers after initial ankle sprain.",
+   "doi": "10.1016/j.jbiomech.2026.113649",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42966240/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42967447/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "42968812",
+   "title": "FIM Motorcycling sport-specific extension of the IOC consensus statement: methods for recording and reporting of epidemiological data on injury and illness in sport 2020.",
+   "journal": "BMJ Open Sport Exerc Med",
+   "year": "2026",
+   "authors": [
+    "O'Dowd DP",
+    "McManus D",
+    "Turner M",
+    "Brennan HJ",
+    "et al."
+   ],
+   "abstract": "In 2020, the International Olympic Committee (IOC) released a consensus statement recommending standardised methods for recording and reporting illness and injury in sport. A key component of this statement was the recognition that sport-specific extensions should be developed to provide more detailed recommendations tailored to individual sports and/or settings. In response, the F\u00e9d\u00e9ration Internationale de Motocyclisme (FIM) Medical Commission convened a 15-member panel-comprising clinicians across multiple specialities, a sports scientist and two FIM delegates-to develop a consensus statement specific to motorcycling sport injury and illness surveillance. The panel reviewed existing consensus literature relevant to sport injury/illness surveillance and conducted two rounds of voting based on the IOC framework using a Delphi methodology. They then voted on key sport-specific recommendations to form the motorcycling sport-specific extension. The final manuscript was approved unanimously by all panel members after two rounds of revision. Relative to the parent IOC statement, this extension: (1) reframes injury categorisation and contact mechanisms around the combined rider-and-machine nature of motorcycling incidents; (2) replaces symptom-based and pathology-based severity scoring with a time-loss model adapted to the sport's irregular competition calendar, including explicit handling of estimated severity and right-censored cases; (3) restricts exposure measurement to motorcycle-mounted transponder data rather than wearable devices, for safety and regulatory reasons and (4) introduces a discipline-specific appendix covering fall/injury mechanisms, demographic and equipment-damage variables and primary/secondary exposure and severity measures across circuit racing, motocross/supercross/supermoto, trial, enduro, cross-country and track racing. The motorcycling sport-specific extension of the IOC consensus statement aims to provide researchers and governing bodies with a standardised methodology to undertake injury and illness surveillance in motorcycling sport.",
+   "doi": "10.1136/bmjsem-2026-003578",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42968812/",
    "matched": [
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "42967377",
+   "title": "Learned helplessness is associated with jump-landing biomechanics following anterior cruciate ligament reconstruction.",
+   "journal": "Clin Biomech (Bristol)",
+   "year": "2026",
+   "authors": [
+    "Burland JP",
+    "Lepley AS",
+    "Lepley LK"
+   ],
+   "abstract": "Persistent biomechanical alterations following anterior cruciate ligament reconstruction (ACLR) contribute to reduced functional performance, increased reinjury risk, and diminished joint health. Rehabilitation emphasizes strength and functional restoration; however, neurobehavioral adaptations may persist. Learned helplessness, characterized by reduced motivation, maladaptive biomechanics, and learned non-use of the reconstructed limb, may relate to post-operative neuromuscular control. However, its relationship with dynamic movement after ACLR remains unclear. This study examined the association between learned helplessness and bilateral lower extremity kinematics during jump-landings in individuals following ACLR. Thirty-three individuals with primary, unilateral ACLR completed a learned helplessness scale and jump-landing task with three-dimensional lower-extremity kinematics. Sagittal and frontal plane knee and hip angles were assessed at initial contact and peak landing. Correlations and regression analyses examined associations with learned helplessness, controlling for age, sex, and time since surgery. Participants were 2.78\u202f\u00b1\u202f2.78\u202fyears post-ACLR and demonstrated low helplessness scores. Greater learned helplessness was moderately associated with greater peak knee abduction in the ACLR limb (r\u202f=\u202f0.564, p\u202f=\u202f0.001). Weak associations were also observed with reduced peak hip flexion in the ACLR (r\u202f=\u202f-0.370, p\u202f=\u202f0.048) and contralateral limbs (r\u202f=\u202f-0.415, p\u202f=\u202f0.025), which did not survive sensitivity analyses. Learned helplessness was independently associated with greater peak knee abduction angle in the ACLR limb (B\u202f=\u202f0.230, p\u202f=\u202f0.007). The overall model accounted for 34.8% of the variance in peak knee abduction. Learned helplessness appears to be associated with frontal plane knee mechanics following ACLR. Consideration of psychological and neurobehavioral constructs in rehabilitation and return-to-sport assessment following ACLR is important.",
+   "doi": "10.1016/j.clinbiomech.2026.107011",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42967377/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -247,6 +300,35 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "42966240",
+   "title": "A scoping review evaluating artificial intelligence applications across various injury prevention domains.",
+   "journal": "Injury",
+   "year": "2026",
+   "authors": [
+    "Othman Y",
+    "Kasabwala D",
+    "Jayagopi K",
+    "Lemoine J",
+    "et al."
+   ],
+   "abstract": "Artificial intelligence (AI) has become increasingly utilized for injury prevention across diverse clinical and community settings including machine learning (ML). This scoping review aimed to synthesize the current literature on the applications and predictive performance of AI across multiple injury prevention domains. This scoping review searched five major databases, including PubMed, Embase, ScienceDirect, ProQuest, and the Cochrane Library, to identify studies evaluating AI applications for injury prevention published through May 2026. Eligible studies included original U.S.-based, English-language research across self-harm and suicide, abuse and violence, fall prevention, and sports injury prediction. Studies were excluded if they lacked measurable prevention outcomes or sufficient methodological detail, or focused on injury treatment rather than prevention, to ensure relevant and interpretable evidence for synthesis. Nineteen studies met the inclusion criteria. ML models generally outperformed or matched traditional screening methods for self-harm and suicide prediction (AUC 0.81-0.82), while multimodal approaches achieved the highest predictive accuracy (AUC 0.90). In abuse and violence prevention, AI predicted intimate partner violence with an AUC of 0.88 and identified cases before formal disclosure. AI also improved fall risk assessment by accurately categorizing patient risk levels, predicting future falls, and mitigating fall injuries through wearable airbag technology. ML models predicted future sports-related injuries (AUC 0.76-0.84), while identifying modifiable risk factors including workload, strength deficits, prior injury burden, and concussion history. ML-based prediction showed promise for risk stratification in self-harm, suicide, intimate partner violence, and recurrent victimization. Additionally, AI predicted fall risk and identified athletes at risk for future sports-related injuries while detecting modifiable risk factors, including workload, prior injury burden, and strength deficits. Although these findings suggest that AI and ML may have potential applications in supporting earlier risk identification, informing targeted prevention strategies, and facilitating more personalized approaches to injury prevention, the limited available evidence warrants careful interpretation.",
+   "doi": "10.1016/j.injury.2026.113816",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/42966240/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42926125",
    "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
    "journal": "J Sport Rehabil",
@@ -273,34 +355,6 @@
    ],
    "is_new": false,
    "bucket": "research"
-  },
-  {
-   "pmid": "42826255",
-   "title": "Artificial intelligence in sports biomechanics: A comprehensive bibliometric analysis and science mapping of global research trends from 2015 to 2024.",
-   "journal": "Medicine (Baltimore)",
-   "year": "2026",
-   "authors": [
-    "Chaabeni A",
-    "Dhahbi W",
-    "Kalai A",
-    "Dergaa I",
-    "et al."
-   ],
-   "abstract": "This study aimed to systematically map the intellectual structure, evolution, and research landscape of artificial intelligence (AI) applications in sports biomechanics through comprehensive bibliometric analysis. A mixed-methods bibliometric analysis was conducted using Web of Science Core Collection as the primary data source. A three-component Boolean search query targeting the intersection of AI methods, biomechanical assessments, and sports applications was implemented to identify relevant publications from January 2015 to December 2024. Performance analysis and science mapping techniques were employed using VOSviewer and Bibliometrix R-package, including co-occurrence analysis, bibliographic coupling, author collaboration networks, and thematic mapping using Callon's centrality-density model. The analysis encompassed 8789 publications demonstrating exceptional growth with an annual growth rate of 12.05%, peaking at 1496 articles in 2024. The research involved 30,012 authors across 1798 journals, with high collaboration patterns (5.46 coauthors per document) and substantial international cooperation (27.57%). China led production with 2382 articles (27.1%), followed by the United States with 1303 articles (14.8%). Sensors emerged as the dominant journal (664 articles), while Chen X was identified as the most impactful author (H-index 22). Science mapping revealed machine learning as the central integrative hub connecting biomechanics, electromyography, and rehabilitation. Five distinct thematic clusters were identified, with electromyography, sensors, and kinematics emerging as motor themes representing well-developed research areas. AI applications in sports biomechanics represent a rapidly maturing field characterized by robust international collaboration and clear thematic organization around sensor technologies and movement analysis, indicating successful integration of computational methods with traditional biomechanical approaches for performance enhancement and injury prevention.",
-   "doi": "10.1097/MD.0000000000050932",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42826255/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
   },
   {
    "pmid": "42852663",
@@ -657,7 +711,8 @@
    "abstract": "Multisegment foot models (MFMs) provide a more detailed assessment of foot biomechanics than conventional unisegment foot models (UFMs), yet their added value in individuals with a partial foot amputation remains unclear. The aim of this study was to compare the modified Oxford MFM to a conventional UFM during the stance phase of walking in individuals with a partial foot amputation. Fourteen adults with toe(s) or ray(s) amputation underwent an instrumented gait analysis using force plates and a three-dimensional motion capture system. Joint angles, moments and power were calculated using inverse dynamics and compared for each individual percentage of the stance phase using one-dimensional statistical parametric mapping. Greater ankle plantarflexion angles across the entire stance phase and greater ankle abduction angles during midstance were observed with the UFM compared with the MFM. Conversely, smaller ankle plantarflexion, inversion, and abduction moments, as well as smaller total support moments across most of the stance phase were observed with the UFM compared with the MFM. Smaller ankle and distal foot power absorption and generation during most of the stance phase, and greater distal foot power generation during pre-swing were observed with the UFM. These findings suggest that modeling the foot as a single rigid segment may alter the interpretation of foot and ankle biomechanics in individuals with a partial foot amputation by alternatively estimating intra-foot structures contribution to propulsion. The MFM may provide a distinct representation of energy restitution, supporting its use for clinical measurement and the assessment of interventions specifically targeting forefoot mechanics.",
    "doi": "10.1016/j.jbiomech.2026.113616",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Comparative Study"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42854515/",
    "matched": [
@@ -745,34 +800,6 @@
     "Comparative Study"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42931054/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42819880",
-   "title": "Cotton-Swab-Anchored Suspension Technique for Hands-Free Lower Extremity Limb Sterilization During Surgical Preparation.",
-   "journal": "Arthrosc Tech",
-   "year": "2026",
-   "authors": [
-    "Zhou C",
-    "Hu Z",
-    "Sagar L",
-    "Yang S",
-    "et al."
-   ],
-   "abstract": "Manual limb suspension during surgical preparation is labor-intensive, requires additional personnel, and may increase the risk of musculoskeletal injuries among surgical staff. We describe a cotton-swab-anchored suspension technique that uses a sterile bandage (Kerlix) looped around the ankle, secured with 2 cotton swabs inserted into the knot, and suspended from a heavy-duty intravenous pole. This method enables hands-free limb elevation, allowing efficient preoperative preparation. After completion of preparation, the limb is released by simply removing the cotton swab. This technique eliminates the need for manual limb holding, reduces occupational strain, provides stable mechanical support, and enables quick, controlled limb release without instruments. It is cost-effective, reproducible, and suitable for various lower extremity procedures.",
-   "doi": "10.1002/atn2.70276",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42819880/",
    "matched": [
     {
      "id": "burden-cost",
@@ -1154,7 +1181,7 @@
    "pmid": "42892230",
    "title": "Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms.",
    "journal": "Biosens Bioelectron",
-   "year": "2026",
+   "year": "2027",
    "authors": [
     "Lee J",
     "Lee Y",
@@ -2274,7 +2301,8 @@
    "abstract": "Isokinetic dynamometers (IKD) are widely used to measure passive and active torque generated at the joints, but active ankle plantarflexor torques measured with IKD are substantially lower than those derived from inverse dynamics (ID) for reasons that remain unclear. We conducted mechanical testing to investigate whether this discrepancy reflects intrinsic mechanical error in IKD measurement. A linear actuator-force plate setup was used to calculate torques via ID and compare them with IKD (Con-Trex) torques measured with ankle pedal attachment under four conditions that varied the vertical and lateral distances between the point of force application on the pedal and the IKD axis. Bland-Altman analysis showed small systematic bias across testing conditions (-2.97 to 2.30 Nm), but a significant proportional bias in all configurations (p\u202f<\u202f0.001): IKD underestimated torque by\u202f\u223c\u202f3 Nm at levels relevant to maximal plantarflexor effort and overestimated torque by 1-3 Nm at levels relevant to passive torque measurement. Reducing the lateral distance of force application by 4.5\u202fcm reduced the external force required to produce the same IKD torque by 9% and substantially reduced off-axis torque. These findings indicate that mechanical bias alone is unlikely to explain the large IKD-ID discrepancy previously reported for human maximal plantarflexor torque, although it may be relevant for passive torque measurement. The greater off-axis loading observed with a larger lateral force-application distance may affect torque transmission within the dynamometer. Whether off-axis loading, mechanical compliance, or other factors contribute to the IKD-ID discrepancy during human testing remains to be determined.",
    "doi": "10.1016/j.jbiomech.2026.113632",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Validation Study"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42900973/",
    "matched": [
