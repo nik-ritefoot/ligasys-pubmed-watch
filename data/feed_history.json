@@ -1,5 +1,80 @@
 [
  {
+  "pmid": "42971522",
+  "title": "Autologous Osteochondral Transplantation Remains a Reliable Option for Talar Osteochondral Lesions, With Low Knee Donor-Site Morbidity.",
+  "journal": "J Foot Ankle Surg",
+  "year": "2026",
+  "authors": [
+   "Bru\u00e9 J",
+   "Parise AC",
+   "Cafruni VM",
+   "Villena DS",
+   "et al."
+  ],
+  "abstract": "Autologous osteochondral transplantation (AOT) is a surgical option for talar osteochondral lesions (OCL), with favorable outcomes and high return-to-sport rates; however, knee donor-site morbidity remains a concern. To evaluate clinical and functional outcomes, complications, return to work and sport, and satisfaction after AOT for talar OCL. Retrospective case series. We retrospectively reviewed consecutive patients \u226518 years with talar OCL treated with AOT (2011-2022; minimum 2-year follow-up); patients with prior knee pain or surgery, infection, advanced osteoarthritis, or rheumatologic disease were excluded. Outcomes included the AOFAS hindfoot, Lysholm, and Tegner scores, ankle and knee visual analog scale (VAS) pain, satisfaction, return to work and sport, and complications. Thirty-seven patients (78% male; median age, 36 years; median follow-up, 24 months) were included. Median lesion size was 150 mm\u00b2, all medial; 14 (38%) had concomitant procedures. The AOFAS score improved from 54.5 to 95.8 (mean difference, 41.3; 95% CI, 38.4-44.3) and ankle VAS from 7.0 to 1.6 (-5.4; 95% CI, -5.9 to -4.9) (both p < 0.001). Postoperative Lysholm score was 98.8 \u00b1 4.0 and knee VAS 1.2 \u00b1 0.8 (no preoperative knee scores). Return to work took 2.3 \u00b1 1.2 months; all 32 athletes resumed sport at 6.5 \u00b1 2.1 months, 20 (63%) in their pre-injury sport. Tegner scores were unchanged (5.4 vs 5.5; p\u202f=\u202f0.624). One knee hemarthrosis and one repeat ankle arthroscopy occurred. AOT for talar OCL yielded favorable short-term outcomes, high return-to-work and return-to-sport rates, and low reported knee donor-site morbidity; baseline knee scores were unavailable. 4.",
+  "doi": "10.1053/j.jfas.2026.10.017",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971522/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-03T20:16:26Z"
+ },
+ {
+  "pmid": "42975565",
+  "title": "Male-female differences in unilateral jump-landing energetics are concentrated in propulsion-phase work generation across self-paced and ball-interception tasks in competitive soccer players.",
+  "journal": "Knee Surg Sports Traumatol Arthrosc",
+  "year": "2026",
+  "authors": [
+   "AminiAghdam S",
+   "Woergoetter S",
+   "Scharbert J",
+   "Baumert P",
+   "et al."
+  ],
+  "abstract": "This cross-sectional observational study compared jump performance and braking-, propulsion- and landing-phase energetics during self-paced hands-on-hips single-leg countermovement jump (SL-CMJ) and soccer-relevant jump-heading-landing (SR-JHL) between sampled male and female competitive soccer players. A secondary aim examined associations between propulsion-phase knee positive work (generation) and jump height. Forty-five players (22 males, 18.4\u2009\u00b1\u20092.1 years; 23 females, 20.1\u2009\u00b1\u20093.5 years) performed SL-CMJ and SR-JHL bilaterally using force plates and three-dimensional motion capture. SR-JHL incorporated a large-screen interactive soccer scene, real-time marker-driven avatar, unrestricted arms, height-scaled virtual-ball heading and tested-limb landing. Limb-averaged outcomes included jump performance, modified reactive strength index (RSI-mod), phase-specific center-of-mass and hip-knee-ankle work and relative joint contribution. Welch tests, Hedges' g and false discovery rate (FDR) correction compared sexes within tasks; mixed-effects models examined knee energetics-jump height associations. Males had greater jump height and RSI-mod in both tasks (g\u2009=\u20091.34-2.85; q\u2009<\u20090.001), greater propulsion-phase center-of-mass generation and jump center-of-mass net work (g\u2009=\u20090.68-1.35; q\u2009\u2264\u20090.033); however, braking or landing center-of-mass absorption did not differ significantly between groups after FDR correction. Males also showed greater propulsion-phase knee generation, lower ankle generation share, higher knee generation share and greater landing knee absorption. Absolute propulsion-phase knee generation was associated with jump height after accounting for sex and task (\u03b2\u2009=\u20090.0147\u2009m per standard deviation; p\u2009=\u20090.042), with a stronger association in SR-JHL (p\u2009=\u20090.006). Differences between the sampled male and female cohorts were concentrated in propulsion-phase work generation, with greater hip and knee work in the male cohort and greater ankle contribution in the female cohort. Propulsion-phase knee positive work was associated with jump height, particularly in SR-JHL. Because sex was inseparable from cohort context, these findings describe between-group differences-not independent sex effects-and provide task-specific comparison context for future anterior cruciate ligament reconstruction and return-to-sport research. Level III.",
+  "doi": "10.1002/ksa.70669",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42975565/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-03T20:16:26Z"
+ },
+ {
+  "pmid": "42974325",
+  "title": "Preseason Deceleration Index Is Lower in Collegiate Football Athletes Who Sustain Time-Loss Lower-Quarter Injuries: A Three-Season Prospective Cohort Study.",
+  "journal": "Int J Sports Phys Ther",
+  "year": "2026",
+  "authors": [
+   "Voight ML",
+   "Norman C",
+   "Lucas M",
+   "Wolfe C",
+   "et al."
+  ],
+  "abstract": "Deceleration capacity is a fundamental yet underappreciated component of multidirectional sport performance. Non-contact lower-quarter injuries frequently occur during rapid deceleration and change-of-direction tasks, yet braking capacity remains under-evaluated relative to acceleration and speed. The Deceleration Index (DI) has been proposed as a ratio-based metric of peak deceleration to peak acceleration. Hypothesis/Purpose: The purpose of this study was to compare preseason Deceleration Index values between collegiate football athletes who sustained a time-loss lower-quarter injury and position-matched uninjured athletes across three competitive seasons. It was hypothesized that football athletes who sustain a non-contact time-loss lower-quarter injury would demonstrate lower preseason DI values than position-matched uninjured athletes. Prospective cohort study. Division I male collegiate football athletes completed preseason change-of-direction testing (5-10-5 test) during summer training camp at the beginning of each season. Following a warmup, data were captured using a Global Navigation Satellite System (GNSS) integrated with an Inertial Measurement Unit (IMU). The DI was calculated as peak deceleration value divided by peak acceleration value. Athletes were prospectively followed three consecutive seasons for time-loss lower-quarter injuries. Injured athletes (n = 57) were matched 1:1 by playing position to uninjured controls (n = 57). Independent-samples t-tests compared group means, with Cohen's d for effect size. Receiver operating characteristic (ROC) analysis assessed within-sample discriminatory ability. Injured and uninjured athletes were similar at baseline in age (mean 22 years in each group), height, body mass, and BMI (all p \u2265 0.09). Injured athletes demonstrated significantly lower preseason DI than uninjured athletes (0.90 \u00b1 0.07 vs 1.10 \u00b1 0.10; p < 0.001; Cohen's d = 2.30). ROC analysis showed excellent within-sample discrimination (AUC = 0.96, 95% CI 0.89-0.99); a DI \u2264 1.00 yielded a sensitivity of 93% and a specificity of 91%. Lower preseason DI values were associated with subsequent non-contact time-loss lower-quarter injury in collegiate football athletes. DI may serve as a practical field-based risk indicator reflecting braking capacity relative to acceleration; causal inference and the proposed threshold require independent validation. 2b (individual prospective cohort study).",
+  "doi": "10.26603/001c.172650",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42974325/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-03T20:16:26Z"
+ },
+ {
   "pmid": "42967447",
   "title": "Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.",
   "journal": "J Biomech",
