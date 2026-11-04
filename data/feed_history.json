@@ -1,5 +1,114 @@
 [
  {
+  "pmid": "42977471",
+  "title": "Clinical Decision Rules and Reduction of Ankle X-Rays in Pediatric Population: An Intervention Study.",
+  "journal": "J Emerg Nurs",
+  "year": "2026",
+  "authors": [
+   "G\u00f3mez G\u00e9rez C",
+   "Hortig\u00fcela Aparicio M",
+   "Cabrerizo Ortiz M",
+   "Anchuela Ciruelos P",
+   "et al."
+  ],
+  "abstract": "Ankle injuries are common in pediatric patients and have a low incidence of fractures. This study aimed to evaluate the implementation of a protocol based on clinical decision rules to reduce the number of radiographs requested during nursing triage, thereby decreasing radiation exposure, waiting times, and health care costs. A quasi-experimental pre- and postintervention study with nonequivalent groups was conducted. Patients aged 3 to 16 years presenting with ankle injuries to the emergency department were included. The number of radiographs requested before and after the protocol's implementation was compared. The protocol incorporated the Ottawa Ankle Rules and the Low-Risk Ankle Rule, which were applied during nursing triage and medical assessment. The absolute risk reduction, relative risk reduction, and number needed to treat were calculated, along with the emergency department length of stay and associated economic savings. A total of 252 patients were included (preintervention: 132 and postintervention: 120). Radiograph requests decreased significantly, with an absolute risk reduction of 46.81% (95% CI, 36.59%-57.03%), a relative risk reduction of 51.93% (95% CI, 40.57%-61.12%), and a number needed to treat of 2 (95% CI, 1-2). Interobserver agreement between nursing staff and physicians was good to very good (Cohen's kappa of 0.779 for Ottawa Ankle Rules and 0.825 for Low-Risk Ankle Rule). The implementation of clinical decision rules by nursing staff significantly reduces radiograph requests in pediatric ankle injuries without compromising safety. This strategy reduces radiation exposure, health care costs, and emergency department length of stay.",
+  "doi": "10.1016/j.jen.2026.06.020",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977471/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-04T20:31:44Z"
+ },
+ {
+  "pmid": "42976427",
+  "title": "Global research on cricket injuries (1982-2025): A bibliometric analysis.",
+  "journal": "Injury",
+  "year": "2026",
+  "authors": [
+   "Vaishya R",
+   "Singh A",
+   "Gupta BM",
+   "Vaish A",
+   "et al."
+  ],
+  "abstract": "Cricket is one of the most widely played sports worldwide and carries a significant burden of musculoskeletal injuries, particularly among fast bowlers. Over the past four decades, research in cricket injury epidemiology, biomechanics, workload monitoring, and surveillance has expanded substantially. To conduct a comprehensive bibliometric analysis of global cricket injury research, identifying growth trends, influential publications, leading contributors, collaboration networks, and major thematic domains. Publications from 1982 to 2025 were systematically analyzed using bibliometric indicators including annual growth, authorship productivity, institutional and country contributions, citation impact, total link strength (TLS), and co-authorship networks. The top 100 cited papers and the top 10 highly cited papers (HCPs) were examined in detail to identify landmark contributions and research priorities. A sharp rise in publications occurred after 2003, with nearly 90% of output produced in the last two decades. Australia, the United Kingdom, and South Africa led in productivity, citation impact, and collaborative link strength. The top 10 HCPs accounted for 10% of papers but 37.25% of total citations, underscoring concentrated scholarly influence. Fast bowlers consistently demonstrated the highest injury incidence, particularly lumbar spine and lower limb injuries. Workload spikes were strongly associated with increased injury risk, establishing load monitoring as a central preventive strategy. Biomechanical factors such as mixed bowling action, trunk rotation, and front-knee mechanics were linked to lumbar stress injuries. Standardized injury definitions and international consensus surveillance frameworks significantly improved research quality and comparability. Cricket injury research has evolved into a mature, collaborative, and high-impact domain centered on fast bowling biomechanics, workload regulation, and surveillance standardization. Expanded global participation and integration of advanced analytics are essential for future injury prevention strategies.",
+  "doi": "10.1016/j.injury.2026.113814",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976427/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-04T20:31:44Z"
+ },
+ {
+  "pmid": "42976477",
+  "title": "How Effectively Does Protective Sports Gear Prevent Sports Injuries?",
+  "journal": "South Med J",
+  "year": "2026",
+  "authors": [
+   "Jami M",
+   "Mujadzic T",
+   "Marcelli AL",
+   "Netscher DTJ"
+  ],
+  "abstract": "As organized and recreational sports continue to grow in popularity, associated sports injuries increasingly burden athletes. Protective sports gear is intended to reduce injury risk during play. This article provides a comprehensive review of the mechanism and efficacy of protective sports gear in injury prevention to the head and neck, upper extremity, and lower extremity and assesses where perhaps evidence for protection is lacking. Helmets, face shields, and protective eyewear have clear benefits in structural protection against injury. The impact of sports gear in reducing sport-related concussion is more variable, largely due to the repetitive nature of the injury mechanism where cumulative low-magnitude impacts contribute to brain injury. For the upper extremity, wrist guards have a clear benefit in reducing major and minor injuries among gymnasts and snowboarders and hence by inference on other impact sports. Ankle braces and taping potentially reduce the risk of ankle sprains among athletes, and the mandating of shin guards in professional soccer results in decreased sports-related lower extremity fractures. Further research is warranted to evaluate the effectiveness of sports gear on reinjury prevention and to study the implications of sports gear on risk compensation theory in athletes.",
+  "doi": "10.14423/SMJ.0000000000002034",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976477/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   },
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-04T20:31:44Z"
+ },
+ {
+  "pmid": "42976472",
+  "title": "Literature Review of the Utility of Ultrasound for Adolescent and Child Ankle Injuries.",
+  "journal": "South Med J",
+  "year": "2026",
+  "authors": [
+   "Marshall DC",
+   "Guin JR",
+   "Stewart ER",
+   "Medders GG",
+   "et al."
+  ],
+  "abstract": "Pediatric posterior ankle pain is a common and challenging presentation due to the complex anatomy and a broad differential diagnosis that includes apophysitis, tendon injuries, fractures, impingement syndromes, infection, and inflammatory arthropathies. Initial evaluation typically consists of physical examination and radiographs, which are often inconclusive and may result in delayed diagnosis, repeat imaging, and/or prolonged immobilization. Magnetic resonance imaging is the gold standard for most of these injuries, but it is expensive and logistically difficult for the pediatric population. A rapid, accessible, and cost-effective imaging modality is needed to improve early detection and management. This review evaluates the role of ultrasound in assessing posterior ankle pathology in pediatric patients. Ultrasound demonstrates high diagnostic accuracy in identifying Achilles tendon tears and differentiating partial- from full-thickness injuries while also assisting in treatment decision making through dynamic tendon gap assessment. It is recommended in several studies for evaluating Achilles tendinopathy and may have predictive value for future symptoms. Emerging evidence supports its adjunctive role in Sever disease and posterior ankle impingement syndrome as well. For osseous and infectious conditions, ultrasound can identify findings suggestive of calcaneal stress fractures, osteomyelitis, septic arthritis, and juvenile idiopathic arthritis. Although magnetic resonance imaging remains the gold standard for these diagnoses, ultrasound improves the detection of joint effusions and synovitis and enhances the accuracy of diagnostic joint aspirations. Overall, ultrasound is a dynamic, radiation-free modality that serves as a powerful adjunctive tool in evaluating pediatric posterior ankle pain.",
+  "doi": "10.14423/SMJ.0000000000002040",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976472/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-04T20:31:44Z"
+ },
+ {
   "pmid": "42971522",
   "title": "Autologous Osteochondral Transplantation Remains a Reliable Option for Talar Osteochondral Lesions, With Low Knee Donor-Site Morbidity.",
   "journal": "J Foot Ankle Surg",
