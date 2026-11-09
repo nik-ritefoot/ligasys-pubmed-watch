@@ -1,5 +1,320 @@
 [
  {
+  "pmid": "42985216",
+  "title": "A Semi-Active Ankle Prosthesis With Automatic Transitions Between Passive and Active Modes.",
+  "journal": "IEEE Trans Med Robot Bionics",
+  "year": "2026",
+  "authors": [
+   "Mani VAS",
+   "Buchanan CR",
+   "Gabert L",
+   "Lenzi T"
+  ],
+  "abstract": "The most commonly prescribed ankle/foot prostheses are energy storage and return (ESR) devices, which have good performance in level ground walking, but have limited functionality in tasks requiring ankle mobility, such as stair ascent or descent. Powered prostheses aim to address this limitation by actively controlling the joint with actuators, but they tend to be heavier and taller and become unusable when the battery is depleted, hindering their clinical adoption. In this paper, we present a semi-active ankle prosthesis that integrates the energy storage and return characteristics of a passive prosthesis with the active joint articulation of a powered prosthesis. The proposed prosthesis combines a novel brake mechanism with a series elastic actuator to enable Passive and Active operation modes within a compact build height (141 mm) and lightweight (1.4 kg without batteries) form factor. Experimental validation with one lower-limb amputee demonstrates that the proposed prosthesis reproduces the gait dynamics of a passive prosthesis, independent of battery charge, in Passive mode, and matches the range of motion and actuation capabilities of a powered device during stair ascent and sit-to-stand transitions in Active mode. Automatic transitions between modes within a gait cycle allow for incline adaptation. Moreover, automatic transitions between gait cycles allow for seamless transitions between passive walking and active stair ambulation. This combination of functionalities has never been demonstrated in an ankle prosthesis and has the potential to improve mobility among the amputee population.",
+  "doi": "10.1109/tmrb.2026.3713999",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985216/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42997622",
+  "title": "Ankle Foot Orthosis Intervention Improves the Ground Reaction Forces During Walking in Patients with Peripheral Artery Disease (Randomized Clinical Trial).",
+  "journal": "Actuators",
+  "year": "2026",
+  "authors": [
+   "Salamifar Z",
+   "Fallahtafti F",
+   "Samson K",
+   "Pipinos II",
+   "et al."
+  ],
+  "abstract": "This study investigated the impact of walking with ankle-foot-orthoses (AFOs) and without AFOs (non-AFO) on ground reaction forces (GRFs) in patients with peripheral artery disease (PAD). Additionally, this study examined the effect of AFO intervention vs. no AFO intervention on GRFs while walking with and without AFOs. Fifty patients with PAD were randomly assigned to either a three-month intervention (AFO) or a control (standard-of-care) group. After three months, subjects crossed over to the alternate group and were evaluated after three additional months. GRF data (anterior-posterior, medial-lateral, and vertical) were collected during walking with and without AFOs at baseline, three, and six months. Peak discrete GRF points, braking and propulsion impulses were compared across conditions, groups, and time points using linear mixed models. The peak brake and propulsion GRF were significantly reduced while walking with AFOs versus non-AFO (p < 0.01). Compared to non-AFO, walking with AFOs significantly reduced lateral GRF magnitude (p = 0.03) and significantly increased medial GRF (p = 0.02). The first and second maximum (p < 0.01) vertical GRF were significantly increased with AFOs versus non-AFOs. Walking with AFOs helped patients with PAD achieve greater peak propulsion and vertical GRFs compared to non-AFO, with GRF values trending toward those previously reported in healthy individuals.",
+  "doi": "10.3390/act15040187",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42997622/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42985434",
+  "title": "Audit of Surgical Complications Post-limb Salvage Procedures for Aggressive Bone Tumours at a Developing Tumour Unit.",
+  "journal": "Cureus",
+  "year": "2026",
+  "authors": [
+   "Kgagudi MP",
+   "Jingo M",
+   "Ntshangase T",
+   "Hlapolosa T"
+  ],
+  "abstract": "Background The incidence of malignant bone tumours remains relatively low in our setting. However, our patients typically present late with large tumour volumes, making limb-salvage procedures difficult and prone to post-operative complications. Due to a paucity of literature in a clinical context similar to ours, we elected to assess complications experienced by our cohort of patients.\u00a0 Aim & setting We aimed to study complications experienced by our patient cohort post-limb salvage and tumour prosthesis replacement for aggressive bone tumours. This study was set at the Chris Hani Baragwanath Academic Hospital Teaching Hospital in Johannesburg from January 2017 to December 2024. Methods We conducted a retrospective review of records of patients who underwent limb salvage for aggressive musculoskeletal tumours at our hospital. Patients with aggressive bone tumours treated at a different unit and those who underwent revision surgery were excluded from the study. Demographic data, pathology factors, and surgery factors were extracted for analysis. Descriptive statistics were computed using Stata 18 (StataCorp LLC, College Station, Texas). Results A total of 20 patient records met the inclusion criteria for review. The majority of the patients were of African descent, with all age groups having an equal distribution of the burden of disease: five (0-17 years), five (18-24 years), five (25-34 years), and five (> 35 years). Osteosarcoma accounted for 45% (9/20) of diagnoses, followed by giant cell tumour (GCT) of bone. Our cohort showed a significant predilection for lower-limb involvement, with the latter accounting for 90%(18/20) of cases. Seventy percent of our patients experienced complications, with a majority of complications being prosthesis-related, such as prosthetic joint infection (PJIs) and instability.\u00a0 Conclusion The use of limb-salvage surgery with tumour prosthesis implants for malignant bone tumours is a significant achievement in bone tumour care; however, not without complications. Neurovascular injury, muscle weakness and PJIs have a predilection for the lower limb, while prosthetic instability is likely following proximal humerus resection and replacement joint. Early presentation and meticulous soft-tissue preservation could reduce our complication rate. Contribution The findings highlight our experience treating aggressive bone tumours with limb-salvage surgery in our clinical context.",
+  "doi": "10.7759/cureus.117459",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985434/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42991355",
+  "title": "Comparison of Soccer-Related Injuries at US Emergency Departments Between High School-Aged and College-Aged Athletes: A 10-Year NEISS Analysis, 2015-2024.",
+  "journal": "Orthop J Sports Med",
+  "year": "2026",
+  "authors": [
+   "Efron G",
+   "Tyler JR",
+   "Gamadia M",
+   "Atzmon R",
+   "et al."
+  ],
+  "abstract": "Soccer is widely played in the United States (US), yet contemporary national data comparing soccer-related emergency department (ED) injuries between high school-aged and college-aged athletes remain limited. To provide a comparative assessment of soccer-related injuries among high school-aged and college-aged athletes and to characterize the burden of these injuries on US EDs. Descriptive epidemiological study. The National Electronic Injury Surveillance System was queried for soccer-related injuries among patients aged 14 to 23 years from 2015 to 2024. Patients aged 14 to 18 years were categorized as high school-aged and those aged 19 to 23 years as college-aged. Weighted national estimates were calculated using National Electronic Injury Surveillance System (NEISS) sampling weights. Participation denominators were derived from National Federation of State High School Associations boys' and girls' soccer participation for the high school-aged group and National Collegiate Athletic Association men's and women's soccer participation across Divisions I, II, and III for the college-aged group. Incidence rates were expressed per 100 participants, and incidence rate ratios (IRRs) with 95% CIs were calculated. A total of 29,144 NEISS cases corresponded to a weighted national estimate of 877,548 soccer-related injuries treated in US EDs. High school-aged athletes accounted for 687,302 injuries, whereas college-aged athletes accounted for 190,246. The incidence rate was 8.19 per 100 participants among high school-aged athletes and 34.73 among college-aged athletes (IRR, 4.24; 95% CI, 4.22-4.26), indicating an approximately 4-fold higher per-participant rate among college-aged athletes. Per-participant rates were higher in the college-aged group in every study year and across all body region, diagnosis, and disposition categories. The ankle (157,321 injuries; 17.9%), knee (137,030; 15.6%), head (127,695; 14.6%), and wrist (52,940; 6%) were the most frequently injured body regions; strains and sprains were the most common diagnosis (262,189; 29.9%). Most injuries were treated and discharged (96.8%), whereas transfers or admissions were uncommon (1.9%). College-aged athletes had over a 4-fold higher rate of soccer-related ED injury than high school-aged athletes, despite high school-aged athletes accounting for most total ED visits. These findings highlight important differences between absolute ED burden and participation-indexed injury rates. They may help inform injury-prevention priorities, ED counseling, and postinjury follow-up strategies across scholastic and collegiate soccer populations.",
+  "doi": "10.1177/23259671261481596",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991355/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42991180",
+  "title": "Diagnostic Musculoskeletal Ultrasound in the Evaluation of the Extensor Digitorum Longus.",
+  "journal": "Int J Sports Phys Ther",
+  "year": "2026",
+  "authors": [
+   "Manske RC",
+   "Wolfe C",
+   "Page P",
+   "Voight M"
+  ],
+  "abstract": "The extensor digitorum longus muscle and tendons are among the longer muscle-tendon units in the lower leg and foot. This feather-like, unipennate muscle is part of the anterior ankle group, attaching proximally along the lateral side of the lateral condyle of the tibia and the upper three-quarters of the fibula's inner surface. Near the ankle, the tendon narrows as it passes beneath the extensor retinacula and divides into four smaller tendons that connect to the toes. Since it crosses the ankle joint and attaches to the second through fifth toes, it facilitates dorsiflexion of the foot and extension of the toe joints. An accurate diagnosis of extensor digitorum longus tendonitis or rupture is crucial for appropriate treatment planning and optimal patient outcomes. Diagnostic musculoskeletal ultrasound (MSKUS) has become a widely used imaging modality for assessing many ankle and foot pathologies. It offers a portable, real-time, and cost-effective alternative that is gaining traction in rehabilitation and sports medicine settings. MSKUS has emerged as a valuable, non-invasive imaging modality for evaluating ankle and foot injuries. This manuscript reviews the utility of MSKUS in evaluating the quality, size, sonographic techniques, and clinical implications for rehabilitation professionals who need to visualize the extensor digitorum longus. By integrating MSKUS into clinical practice, providers can improve diagnostic accuracy, increase diagnostic confidence, monitor healing progression, and guide rehabilitation strategies to optimize outcomes for patients with ankle and foot injuries.",
+  "doi": "10.26603/001c.172997",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991180/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42992636",
+  "title": "Estrogen Receptor Expression Changes After Puberty in the Porcine Anterior Cruciate Ligament.",
+  "journal": "J Orthop Res",
+  "year": "2026",
+  "authors": [
+   "Thompson JD",
+   "Easson ME",
+   "Fisher MB"
+  ],
+  "abstract": "Anterior cruciate ligament (ACL) injuries disproportionately affect female adolescent athletes, with hormonal influences implicated in this sex disparity. However, the relationship between pubertal hormonal changes and ACL gene and protein expression remains poorly understood. This study characterized hormone receptor expression and transcriptional profiles in the anteromedial (AM) and posterolateral (PL) bundles of female porcine ACLs before and after puberty. ACL bundles were collected from pre-pubescent (8\u2009weeks) and post-pubescent (>\u20098\u2009months) female Yorkshire cross-breed pigs (n\u2009=\u20096/group) and analyzed using gene expression profiling, western blotting, and immunofluorescence. Pre-pubescent ACLs exhibited greater expression of primary matrix genes (COL1A1, COL1A2, ELN, TNMD), suggesting active matrix synthesis, while post-pubescent ACLs showed elevated secondary matrix genes (COL3A1, LUM, COMP), indicating a homeostatic state. Notably, estrogen receptor alpha (ER\u03b1) gene and protein expression were significantly greater in post-pubescent ACLs, particularly in AM bundles, whereas G protein-coupled estrogen receptor (GPR30) expression was elevated pre-puberty. Both receptors were distributed homogeneously throughout the tissue. Histologically, post-pubescent ACLs demonstrated decreased cellularity and thicker fascicles compared to pre-pubescent tissues. These findings indicate that ACL sensitivity to estrogen varies across development, with increased ER\u03b1 expression post-puberty potentially rendering the ligament more responsive to circulating estrogen. This work provides foundational evidence for age-dependent hormonal responsiveness in the ACL and motivates further investigation into how sex hormones influence ACL injury risk in adolescent females.",
+  "doi": "10.1002/jor.70301",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992636/",
+  "matched": [
+   {
+    "id": "sex-hormones-connective-tissue",
+    "label": "Sex hormones & connective tissue (orthopedic / athletic)",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42991122",
+  "title": "Long-term physical health needs of UK military veterans: evaluation of the Op RESTORE health navigation service.",
+  "journal": "BMJ Public Health",
+  "year": "2026",
+  "authors": [
+   "Sanchez-Thompson NL",
+   "Bhaskaran A",
+   "Brocklehurst N",
+   "Nimer A",
+   "et al."
+  ],
+  "abstract": "The long-term physical health needs of UK veterans have not been well characterised. Veterans often present with physical health issues attributable to their time in service. Prior to 2016, no dedicated National Health Service (NHS) pathway existed to address these needs. Op RESTORE was established in 2016 to provide coordinated, specialist-led care for veterans with service-attributable physical health conditions. This study describes 10 years of service delivery. A retrospective cross-sectional observational analysis of prospectively collected registry data was performed (2016-2025). Data were analysed using descriptive statistics and statistical comparisons performed against national datasets and between internal subcohorts. A total of 1794 referrals were recorded. Most patients were male Army veterans and presented a median of 15 years after military discharge. Most pathology was non-operational and only 11% of 487 veterans with a documented injury setting had injuries related to combat. Musculoskeletal pathology predominated (79% of 1081 with a confirmed pathway), particularly lower-limb (56%) and spinal injuries (31%). Obesity was highly prevalent (55% of 174 recorded body mass indexes), exceeding national age-matched rates. Mental health comorbidity was common (69%). 64% required navigation to a new clinical pathway. EQ-5D-5L scores improved significantly between referral and discharge from Op RESTORE (p<0.001). Veterans accessing Op RESTORE predominantly present with delayed, chronic musculoskeletal and pain-related morbidity rather than acute combat-related injury. The long interval between military discharge and Op RESTORE presentation highlights a poorly documented and insufficiently monitored progression of service-related pathology over time. This represents missed opportunities for early identification, prevention and intervention. The high burden of multimorbidity and frequent need for specialist triage indicate gaps in standard NHS referral pathways for veterans. Coordinated healthcare navigation addresses unmet need and, in uncontrolled analysis, was associated with improved quality of life. Improved characterisation and longitudinal monitoring of veteran physical health could inform targeted, preventive and integrated service models.",
+  "doi": "10.1136/bmjph-2026-005180",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991122/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42994214",
+  "title": "Outcomes of open and endoscopic excision of a symptomatic os trigonum in athletes: a systematic review with exploratory analysis of prognostic factors.",
+  "journal": "Foot (Edinb)",
+  "year": "2026",
+  "authors": [
+   "Dey K",
+   "Sangha BKS",
+   "Norrish A"
+  ],
+  "abstract": "A symptomatic os trigonum causes posterior ankle impingement in athletes and is excised when conservative treatment fails. Previous syntheses have pooled mean outcomes across mixed populations, and poor outcomes have not been defined consistently. Six databases were searched for open or endoscopic os trigonum excision in athletes, following PRISMA 2020 and SWiM. Techniques were compared within comparative studies, with supplementary pooling. A composite poor-outcome profile and eight candidate factors were examined at study-arm level. Thirteen studies (17 arms, 440 participants) were included. Failure to return to prior level was uncommon (9 of 438; 0-6.2% by arm). In the randomised trial, return to prior sport level was 4.4 weeks faster after endoscopic excision (95% confidence interval [CI] 2.7-6.1); pooling two further non-randomised studies with imputed SDs gave 4.9 weeks (95% CI 3.3-6.6). Trial complications occurred in 1 of 26 endoscopic and 6 of 26 open patients (odds ratio 7.50, 95% CI 0.83-67.49); the two-study pooled odds ratio was 5.59 (95% CI 1.10-28.35) from 10 events. Both nerve injuries described as permanent followed open surgery. The composite depended on arm size and threshold choice, and five of eight candidate factors could not be tested. Poor outcomes are uncommon after either approach. Low-certainty evidence suggests faster return to sport after endoscopic excision; complication evidence is of very low certainty, though no nerve injury described as permanent followed endoscopic excision. A consensus definition of return to sport is needed.",
+  "doi": "10.1016/j.foot.2026.102314",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994214/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42996983",
+  "title": "Positioning and Traction Application Technique in Patient with Below Knee Amputation Using the Patients Own Prosthesis for Intertrochanteric Femur Fracture Fixation Surgery: A Case Report with Review of Literature.",
+  "journal": "J Orthop Case Rep",
+  "year": "2026",
+  "authors": [
+   "Ranjankar MC",
+   "Pawar A",
+   "Thorat P"
+  ],
+  "abstract": "Surgical fixation of an intertrochanteric femur fracture in a patient with a below-knee amputation (BKA) is a challenging scenario for the orthopedic surgeon. Applying traction to reduce the fracture and maintaining it until definitive fixation is done with an implant is difficult, because the shortened limb cannot be secured to the foot attachment of a standard fracture table. Reported techniques are either invasive, requiring pins or wires, or need additional equipment. We describe a non-invasive alternative and discuss the various techniques available to address this problem. A 69-year-old woman with a right BKA presented with right hip pain and inability to bear weight following a fall at home. Before injury, she was independently ambulatory using a prosthesis. The stump was healthy and well healed. Radiographs revealed an intertrochanteric femur fracture with varus angulation. Closed reduction and internal fixation using a proximal femoral nail was planned. The prosthesis was secured to the stump using its velcro straps, additional bandages, and adhesive tapes and attached to the fracture table in the routine manner. Gradual traction was applied with internal rotation of the foot, and reduction was confirmed fluoroscopically. Fixation was performed using an 11 \u00d7 240 mm PFN with a 135\u00b0 neck-shaft angle. Post-operative radiographs showed satisfactory alignment and stable fixation. She mobilized non-weight-bearing with a walker on post-operative day 1 and resumed full weight-bearing using the prosthesis at one month. Six-month follow-up demonstrated satisfactory radiological and functional outcomes. Using the patient's own BK prosthesis for positioning, traction, and rotational control effectively achieved and maintained the lower limb traction required during surgery. It allowed satisfactory reduction and stable fixation while avoiding invasive procedures or soft-tissue complications, and is simple, available, and cost-effective because it relies on a device the patient already uses. It adds a non-invasive option to the reduction methods available for hip fractures in amputees.",
+  "doi": "10.13107/jocr.2026.v16.i11.8424",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42996983/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42992615",
+  "title": "Post-Treatment Follow-up, Rehabilitation, and Return to Sport: Proceedings of the International Consensus Meetings on Cartilage Repair of the Ankle.",
+  "journal": "Foot Ankle Spec",
+  "year": "2026",
+  "authors": [
+   "Rubin J",
+   "Tham A",
+   "Butler JJ",
+   "Gauthier P",
+   "et al."
+  ],
+  "abstract": "BackgroundPostoperative follow-up, rehabilitation, and return to sport (RTS) are key components of recovery following surgical management of osteochondral lesions of the talus (OLT). However, substantial variability exists in postoperative protocols, with limited high-quality evidence guiding clinical practicesMethodsInternational experts convened during the International Congress on Cartilage Repair of the Ankle (ICCRA) in Pittsburgh, USA (2017), with subsequent ratification of recommendations in New York, USA (2025). The original consensus statements were developed using a modified Delphi process involving electronic surveys, structured questionnaires, and expert discussion. Consensus strength was defined as consensus (51%-74%), strong consensus (75%-99%), or unanimous (100%). The recommendations addressed postoperative follow-up, rehabilitation, and RTS following OLT management.ResultsA total of 16 consensus statements were developed and subsequently ratified, comprising 7 statements addressing post-treatment follow-up and 9 addressing rehabilitation and RTS. All statements achieved strong consensus, with agreement ranging from 75% to 98%. Follow-up recommendations emphasized standardized clinical assessment and patient-reported outcomes, with extended monitoring in select patients. Rehabilitation recommendations supported early controlled motion and progressive weightbearing, with individualized progression according to procedure and clinical performance. Return to sport recommendations emphasized functional recovery and individualized decision-making. Ten statements (63%) were classified exclusively as Grade E, highlighting the limited evidence supporting several recommendations.ConclusionThe ICCRA consensus statements establish a structured framework for postoperative follow-up, rehabilitation, and RTS following surgical management of OLT. Despite strong expert agreement, several recommendations remain supported by limited evidence, underlining the need for prospective studies to establish validated, procedure-specific rehabilitation protocols and objective RTS criteria.Level of Evidence:V, expert consensus.",
+  "doi": "10.1177/19386400261504161",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42992615/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42983465",
+  "title": "Severe injuries in competitive cycling during an olympic cycle: injury patterns, time loss, and return-to-performance outcomes.",
+  "journal": "BMC Sports Sci Med Rehabil",
+  "year": "2026",
+  "authors": [
+   "Lambert C",
+   "Lambert M",
+   "Galandi M",
+   "Wolfarth B",
+   "et al."
+  ],
+  "abstract": "Cycling is an established Olympic sport associated with a distinct injury profile that has not yet been comprehensively investigated. This study aimed to retrospectively assess and analyze severe cycling-related injuries resulting in \u2265\u20093 weeks of time loss over a complete Olympic cycle. A total of 192 cyclists were included, based on a retrospective online questionnaire assessing injury location, type, context, time loss, and return-to-sport outcomes. Comparisons by sex, discipline, and competitive level were performed at the athlete level using exact tests with 95% confidence intervals and were considered exploratory. Seventy-two of 192 athletes sustained at least one severe injury over the five-year period, corresponding to a proportion of 37.5% (95% CI 31.0-44.5). A total of 237 injuries were recorded, with the upper extremity (33.8%) and lower extremity (27.8%) being the most frequently affected regions. The most common diagnoses were hand fractures (n\u2009=\u200914), clavicle fractures (n\u2009=\u200913), and non-specific knee injuries (n\u2009=\u20099). Hand fractures (33.3%; p\u2009=\u20090.002) and shoulder dislocations (20.0%; p\u2009=\u20090.002) were most frequent among BMX athletes, while hand fractures also occurred more frequently in competitive athletes than in recreational athletes (13.5% vs. 1.0%; p\u2009=\u20090.001). Clavicle fractures occurred predominantly during competition and non-specific knee injuries during training. Mean time loss ranged from 6.5 weeks for hand fractures to 13.3 weeks for shoulder dislocations. Full return to pre-injury performance ranged from 85.7% after hand fractures to 28.6% after acromioclavicular (AC) joint separations. Injury patterns differed by discipline and setting, suggesting that prevention strategies should address both. The low rate of full return to performance after AC joint separations despite moderate time loss underlines the importance of distinguishing return to sport from return to performance in rehabilitation.",
+  "doi": "10.1186/s13102-026-02201-x",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42983465/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42998122",
+  "title": "Sex-Equitable Machine Learning Prediction of Ankle Reinjury in Individuals with Chronic Ankle Instability: A 2-Year Prospective Cohort Study with Fairness Audit.",
+  "journal": "Sports Med Open",
+  "year": "2026",
+  "authors": [
+   "Hwang UJ",
+   "Son SJ",
+   "Fu SN",
+   "Wong AYL",
+   "et al."
+  ],
+  "abstract": "Patients with chronic ankle instability (CAI) face a 2-year reinjury rate approaching 50%, but individualized prediction models that quantify which baseline impairments predict subsequent reinjury within an established CAI cohort remain scarce, and existing prediction models for ankle injury have not assessed sex-related fairness. The aim was to develop and internally validate sex-equitable machine learning (ML) models predicting 2-year ankle reinjury in individuals with CAI, identify the most influential baseline prognostic markers, and audit sex-stratified model performance. One hundred physically active individuals (50 male, 50 female) with CAI (mean age 21.8 \u00b1 2.3\u00a0years) were recruited from a university population between February 2017 and February 2018 and prospectively followed for 2\u00a0years; 96 (49 male, 47 female) with at least one follow-up response were retained for analysis (41 reinjury events, 43% reinjury rate). Fourteen baseline predictors spanning demographic, anthropometric, injury-history, patient-reported, biomechanical, postural-control, and functional-performance domains were collected. Six algorithms were trained with nested cross-validation: an unpenalized logistic regression baseline and five ML algorithms (Elastic Net, support vector machine, random forest, XGBoost, LightGBM). Predictive contribution of each feature was quantified using Shapley additive explanations and partial-dependence plots. A pre-specified fairness audit compared single global and sex-specific Youden thresholds derived out-of-fold using the equalized-odds gap and disproportionate-impact ratio. All algorithms achieved area under the curve (AUC) values above 0.70; Elastic Net was selected as the primary model (AUC = 0.807, 95% CI 0.714-0.893; calibration slope = 1.015). Sex, arch height index, previous sprains, dorsiflexion range of motion, and Biodex Overall Stability Index consistently emerged as the most influential prognostic markers. Within-sex discrimination was comparable between males and females, but a single global threshold produced an equalized-odds gap of 0.384 that was reduced by 57% (to 0.164) through sex-specific thresholding without retraining the model. ML models with a fairness-audited threshold strategy predicted 2-year ankle reinjury in individuals with CAI, reducing the equalized-odds gap by 57%, though the disproportionate-impact ratio (0.683) remained below the 0.80 benchmark. External validation is required before clinical deployment.",
+  "doi": "10.1186/s40798-026-01137-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998122/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
+  "pmid": "42995283",
+  "title": "The impact of arthroscopic repair of the tibionavicular bundle of the deltoid ligament on ankle fractures.",
+  "journal": "Arch Orthop Trauma Surg",
+  "year": "2026",
+  "authors": [
+   "K\u00fcr\u00fcm H",
+   "Akcan A",
+   "\u00c7ak\u0131r M",
+   "\u0130pekten F"
+  ],
+  "abstract": "Notwithstanding well-established ligament repair with ankle arthroscopy and a thorough understanding of deltoid ligament anatomy, evidence supporting early arthroscopic repair of the deltoid ligament (EAR-DL) remains limited. The purpose of this study was to compare EAR-DL with conservative treatment following ankle fracture. This retrospective study evaluated 45 patients with deltoid ligament tears among 1165 ankle fractures. Patients were grouped based on the EAR-DL decision or conservative treatment. The EAR-DL decision is based on evidence gathered from clinical, radiological, and surgical findings. Patients with imaging-confirmed deltoid ligament injury and \u2265\u200912 months of follow-up were included; those with major concomitant injuries were excluded. Clinical and radiological outcomes, including instability, functional scores, return to sport, and medial clear space (MCS), were compared. The concomitant injury count (CIC) was developed to measure injury complexity; yet this exploratory score has not yet been validated or assessed for reliability. Final outcomes were evaluated using analysis of covariance (ANCOVA), controlling for baseline values. MCS\u2009\u2264\u20094\u00a0mm was considered normal, and ankle stability was assessed using anteromedial drawer and valgus stress tests. C3 was the most common fracture pattern in 14 patients (31.1%), followed by B3 in 9 patients (20.0%). The most common CIC level was 3, observed in 28 patients (62.2%). No recurrent instability occurred following EAR-DL, compared with 4 (15.4%) cases in the conservative group (p\u2009=\u20090.126). The return to sports was observed at an average of 33.04\u2009\u00b1\u20093.18 weeks in the conservative group and at 29.32\u2009\u00b1\u20091.60 weeks in the EAR-DL group (p\u2009<\u20090.001). In this retrospective cohort study, no statistically significant difference was found between the groups in recurrent instability. EAR-DL was associated with a smaller MCS and exploratory, unadjusted clinical outcomes compared with conservative management. Prospective, adequately powered studies are required to determine whether EAR-DL provides clinically meaningful benefits. Level III, retrospective cohort study.",
+  "doi": "10.1007/s00402-026-06564-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995283/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-09T20:21:30Z"
+ },
+ {
   "pmid": "42977471",
   "title": "Clinical Decision Rules and Reduction of Ankle X-Rays in Pediatric Population: An Intervention Study.",
   "journal": "J Emerg Nurs",
