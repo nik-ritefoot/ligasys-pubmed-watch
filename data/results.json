@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T23:07:58+00:00",
+ "generated": "2026-11-10T20:35:37+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,65 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 0,
-  "research": 14,
+  "total": 84,
+  "new": 2,
+  "research": 15,
   "fieldnotes": 69
  },
  "records": [
+  {
+   "pmid": "43005330",
+   "title": "Comparison of Different Coracoclavicular Stabilization Techniques in Acute Acromioclavicular Injury With Augmented Acromioclavicular Ligament Repair: A Whole-Body Cadaveric Study.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Chirattikalwong S",
+    "Phornphutkul C"
+   ],
+   "abstract": "Acute acromioclavicular (AC) joint injuries account for approximately half of all shoulder injuries in sports trauma, and the optimal surgical strategy remains controversial. Contemporary surgical management increasingly combines coracoclavicular (CC) stabilization with augmented AC ligament repair. However, the relative kinematic performance of different CC stabilization techniques in the presence of AC repair has not been previously investigated. To compare 3 CC stabilization techniques-coracoclavicular loop, single clavicular tunnel, and double clavicular tunnel-each combined with double-row AC ligament repair, to determine which technique most closely restores physiologic scapular and clavicular motion. Controlled laboratory study. Eight shoulders from 4 fresh-frozen whole-body cadavers were assessed. Each shoulder was passively taken through forward flexion, abduction, and horizontal adduction by a single operator at a standardized cadence, while 3-dimensional scapular and clavicular motions were recorded using an inertial measurement unit-based system. Kinematics were evaluated under intact conditions, after sequential ligament transections, and following each reconstruction technique, analyzed using mixed-effects models and polynomial regression. Significant kinematic deviations were observed following AC and CC ligament transection, particularly beyond 120\u00b0 of elevation. None of the techniques fully restored native motion. The double-tunnel construct showed the smallest deviation from intact scapular external rotation, while all 3 repair techniques produced similar reductions in clavicular motion. The single-tunnel construct showed the greatest deviation, while the loop technique produced intermediate results. All reconstructions showed persistent scapular rotation increases and reduced clavicular dynamics at higher elevation angles. When combined with AC ligament repair, the double-tunnel CC stabilization most closely approximated physiologic scapular and clavicular motion. However, kinematic deviations beyond 120\u00b0 of arm elevation suggest a zone of mechanical vulnerability across all techniques. Among the 3 CC stabilization techniques tested with concurrent AC ligament repair, the double-tunnel construct most closely restored physiologic scapular and clavicular motion and may be considered the preferred technique. Surgeons may consider restricting arm elevation to <120\u00b0 during early rehabilitation, as kinematic deviations beyond this range may reflect patterns consistent with scapular dyskinesis.",
+   "doi": "10.1177/23259671261481000",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43005330/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43005175",
+   "title": "Effects of chronic ankle instability on ipsilateral knee cartilage degeneration in mouse model.",
+   "journal": "Front Med Technol",
+   "year": "2026",
+   "authors": [
+    "Chen Z",
+    "Xu F",
+    "Chen B",
+    "Wang Z",
+    "et al."
+   ],
+   "abstract": "To explore the effects of chronic ankle instability (CAI) on ipsilateral knee cartilage degeneration and the coupling relationship between the two joints through mouse model. Thirty C57BL/6J mice were divided into the Sham group, the CAI group, and the destabilization of medial meniscus (DMM) group. They were respectively subjected to sham surgery, anterior talofibular ligament and calcaneofibular ligament transection, and medial meniscus resection. The degeneration of knee cartilage was evaluated through kinematic experiments, imaging examinations and histopathological analysis within 12 weeks post-operation. The kinematic experiments exhibited significantly increased passing time and number of slips for CAI group compared to DMM group and Sham group during crossing the balance beam; the step length and step width of CAI group were also larger. Imaging examination revealed obvious osteochondral defects and osteosclerosis of the femoral condyles both in CAI group and DMM group at 12 weeks post-operation. However, the DMM group was more severely affected than CAI group, as its bone mineral density and bone volume fraction were both higher than CAI group. Histopathological analysis exhibited thinner cartilage layer, less chondrocytes and more disordered collagen fibers in DMM group than CAI group at 6 and 12 weeks post-operation. The modified Mankin score and OARSI score of DMM group were also significantly higher than CAI group, while both groups were higher than Sham group. CAI can cause cartilage degeneration of ipsilateral knee joint in mouse model, there is a coupling relationship between ankle joint and knee joint.",
+   "doi": "10.3389/fmedt.2026.1854284",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43005175/",
+   "matched": [
+    {
+     "id": "ankle-instability-mechanism",
+     "label": "Chronic ankle instability \u2014 mechanisms",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
   {
    "pmid": "42934133",
    "title": "[Design and analysis of a serial ankle rehabilitation robot].",
@@ -1653,31 +1706,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42855906",
-   "title": "Novel understanding in diagnosis and management of exercise-induced bronchoconstriction.",
-   "journal": "Expert Rev Clin Immunol",
-   "year": "2026",
-   "authors": [
-    "Dickinson JW"
-   ],
-   "abstract": "Exercise-induced bronchoconstriction (EIB) is a common cause of exercise-related respiratory symptoms in athletes and is traditionally diagnosed by demonstrating airway narrowing following exercise or surrogate bronchoprovocation testing. Whilst this provides objective evidence of bronchoconstriction, it offers limited insight into the underlying pathophysiology of airway dysfunction. This review discusses emerging developments in EIB, focusing on biomarkers of airway inflammation and injury, respiratory oscillometry, breathing pattern assessment and wearable respiratory monitoring. The concept that EIB may represent the clinical manifestation of a broader process of airway injury and remodeling is also considered. Relevant literature was identified through searches of PubMed and Google Scholar with no lower date restriction to May 2026, supplemented by reference-list searching. The future challenge in EIB is no longer simply confirming bronchoconstriction but identifying athletes at risk of airway dysfunction before clinically significant disease develops. Emerging biomarkers, oscillometry and continuous respiratory monitoring may enable earlier phenotyping and more personalized management than conventional bronchoprovocation testing alone. Collectively, these approaches have the potential to shift EIB care from diagnosing established disease toward preserving airway health within a holistic model of athlete respiratory care.",
-   "doi": "10.1080/1744666X.2026.2747863",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42855906/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
