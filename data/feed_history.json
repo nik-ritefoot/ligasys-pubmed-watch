@@ -1,5 +1,104 @@
 [
  {
+  "pmid": "43013120",
+  "title": "Accuracy of ultrasound in diagnosing anterior talofibular ligament injury: a meta-analysis.",
+  "journal": "Langenbecks Arch Surg",
+  "year": "2026",
+  "authors": [
+   "Wu D",
+   "Cao J",
+   "Chen Z",
+   "Duan H",
+   "et al."
+  ],
+  "abstract": "The anterior talofibular ligament (ATFL) is the most frequently injured structure of the ankle joint. This meta-analysis evaluates the diagnostic accuracy of ultrasound for anterior talofibular ligament injury. We systematically searched for PubMed, Embase, Web of Science, Scopus, and Cochrane Library databases, with a search deadline of November 28,2025, and extract data related to diagnostic performance. A bivariate model was used to summarize the estimated values and construct a summary receiver operating characteristic (SROC) curve. Heterogeneity was evaluated using I\u00b2 statistic, clinical applicability was assessed using Fagan's nomogram and likelihood ratio scatter plot, and potential publication bias was employing Deeks funnel plot asymmetry test. A total of 21 studies were included, evaluating 1248 patients. The meta-analysis results indicate that the pooled sensitivity of ultrasound examination is 0.93 (95% CI: 0.89-0.96), specificity is 0.86 (95% CI: 0.78-0.91), area under the SROC curve (AUC) is 0.95, diagnostic odds ratio (DOR) is 100.74 (40.08-253.19), positive likelihood ratio (PLR) is 5.86 (95% CI: 3.65-9.43), and negative likelihood ratio (NLR) is 0.09 (95% CI: 0.05-0.15). Subgroup analyses showed that specificity was higher when MRI was used as the reference standard (0.88) and in prospective studies (0.85), with particularly favorable performance observed in investigations of chronic injury. Ultrasound shows promise as a first-line screening modality with high sensitivity and specificity. Whether routine ultrasound triage translates into reduced MRI referrals and overall cost savings warrants prospective health-economic evaluation.",
+  "doi": "10.1007/s00423-026-04191-3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43013120/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-12T21:03:52Z"
+ },
+ {
+  "pmid": "43017701",
+  "title": "Does six weeks of neuromuscular training lead to fewer lower limb injuries in New Zealand Army recruits? A cluster RCT.",
+  "journal": "J Mil Veteran Fam Health",
+  "year": "2026",
+  "authors": [
+   "Hall N",
+   "Kuys S",
+   "Brown M",
+   "Beck B",
+   "et al."
+  ],
+  "abstract": "Neuromuscular training can help to prevent musculoskeletal injury among sports populations; however, it requires further investigation with military recruits. This study investigated whether six weeks of neuromuscular training, compared with usual training, leads to fewer lower limb injuries among New Zealand Army recruits undertaking basic training. This double-blind cluster-randomized controlled trial included army recruits from two consecutive intakes. Recruits received six weeks of neuromuscular or usual training two to five times per week. The primary outcome was incidence of lower limb injuries during basic training. Secondary outcomes included total health care encounters for injury, occupational endpoint achieved, and accumulated light-duty days because of injury. Participants were 248 recruits (228 males, 20 females, mean age 20.28 years). Cumulative injury incidence in the control and neuromuscular training groups was 63.2% and 52.8%, respectively (p = 0.10). There was no between-groups difference in average number of injuries per recruit (control, 1.31, intervention, 1.10, p = 0.22). Average total health care encounters for injury per recruit was higher in the control group (control, mean 4.83 intervention, mean 3.45, p = 0.041). No statistically significant difference was found in occupational endpoint achieved (p = 0.21). Accumulated light-duty days totaled 964 and 725 in the control and intervention groups respectively (p = 0.10). Simple, low-cost neuromuscular lower limb exercises did not change overall injury incidence but lowered number of health care encounters for injuries sustained by New Zealand Army recruits during basic training.",
+  "doi": "",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017701/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-12T21:03:52Z"
+ },
+ {
+  "pmid": "43010944",
+  "title": "Effects of exercise-induced fatigue and lunge direction on racket-side lower-limb biomechanics during forward lunges in male badminton athletes.",
+  "journal": "Front Bioeng Biotechnol",
+  "year": "2026",
+  "authors": [
+   "Xie Z",
+   "Feng Z",
+   "Qiu Y",
+   "Jin Z",
+   "et al."
+  ],
+  "abstract": "This study examined the effects of exercise-induced fatigue and lunge direction on racket-side lower-limb biomechanics during forehand and backhand forward lunges in male badminton athletes. Twenty-four male athletes performed standardized three-step lunges before and after a combined sprint-interval running and maximal vertical-jump fatigue protocol. Three-dimensional kinematics were recorded using a Vicon motion-capture system, while ground reaction forces were recorded using force platforms. Lower-limb biomechanical analyses focused on the racket-side limb. Outcome variables included phase durations, joint kinematics and moments, center-of-mass (COM) velocity, ground reaction forces (GRFs), impulses, joint quasi-stiffness, and dynamic postural stability. Outcomes were analyzed using two-way repeated-measures ANOVA with prespecified biomechanical-domain- and effect-specific Benjamini-Hochberg false discovery rate correction. No statistically significant fatigue \u00d7 direction interactions were detected after BH correction; however, given the limited statistical sensitivity for interaction effects, these findings should be considered inconclusive. Fatigue shortened braking duration, reduced recovery-phase COM velocity gain, braking-phase impulses, recovery-phase anteroposterior impulse, and selected joint ROMs, while increasing recovery-phase hip and knee quasi-stiffness. Backhand lunges showed greater secondary-impact GRF, higher DPSI, VSI and MLSI values, greater ankle dorsiflexion and inversion, and a greater knee extension moment than forehand lunges. Within the racket-side limb, fatigue induced a more constrained lunge strategy and reduced recovery-phase impulse generation and COM velocity increase. Backhand lunges showed greater impact loading, braking-phase force fluctuations, and ankle mechanical demands than forehand lunges.",
+  "doi": "10.3389/fbioe.2026.1967879",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43010944/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-12T21:03:52Z"
+ },
+ {
+  "pmid": "43017539",
+  "title": "Physical Examination of Chronic Ankle Instability: Current Concepts.",
+  "journal": "Orthop Res Rev",
+  "year": "2026",
+  "authors": [
+   "Lopes R",
+   "D'Hooghe P",
+   "Padiolleau G",
+   "Carrozzo A"
+  ],
+  "abstract": "Chronic ankle instability is a common condition with a substantial public health burden. When non-operative treatment fails, surgery should address both the ligament injury and associated lesions. Their identification relies on a comprehensive physical examination, which remains challenging and has limited reproducibility. This narrative Current Concepts review summarizes the mechanical and structural physical examination findings, the clinical tests used to assess the lateral ligament complex, medial ligamentous structures, the distal tibiofibular syndesmosis, the subtalar joint, associated impingement lesions, and generalized joint hypermobility, that inform surgical planning. For the lateral ligament complex, the anterior drawer and talar tilt tests demonstrate high specificity but limited sensitivity. Modified maneuvers, including the anterolateral and reverse anterolateral drawer tests, may improve diagnostic accuracy. However, reported reliability and accuracy remain inconsistent, and no single test is both highly sensitive and specific, supporting a bilateral, comparative, multi-test examination. A secondary aim of this review is to evaluate how patient positioning influences examination feasibility. No single position enables complete assessment, and comparative reliability studies are lacking. Based on biomechanical rationale and clinical experience rather than comparative evidence, the prone position may offer practical advantages, allowing a lateral ankle view and isolated subtalar assessment, but these potential advantages have not been confirmed by comparative studies. Current best practice remains a systematic, bilateral examination using complementary tests while recognizing the limitations of each maneuver.",
+  "doi": "10.2147/ORR.S639424",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43017539/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-12T21:03:52Z"
+ },
+ {
   "pmid": "43005330",
   "title": "Comparison of Different Coracoclavicular Stabilization Techniques in Acute Acromioclavicular Injury With Augmented Acromioclavicular Ligament Repair: A Whole-Body Cadaveric Study.",
   "journal": "Orthop J Sports Med",

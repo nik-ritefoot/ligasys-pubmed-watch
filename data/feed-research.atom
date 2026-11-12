@@ -3,8 +3,18 @@
   <title>LigaSys — PubMed Watch (Research)</title>
   <id>https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom</id>
   <link href="https://nik-ritefoot.github.io/ligasys-pubmed-watch/data/feed-research.atom" rel="self"/>
-  <updated>2026-11-10T20:35:37Z</updated>
+  <updated>2026-11-12T21:03:52Z</updated>
   <generator>ligasys-pubmed-watch</generator>
+  <entry>
+    <title>Effects of exercise-induced fatigue and lunge direction on racket-side lower-limb biomechanics during forward lunges in male badminton athletes.</title>
+    <id>urn:pmid:43010944</id>
+    <link href="https://pubmed.ncbi.nlm.nih.gov/43010944/" rel="alternate"/>
+    <updated>2026-11-12T21:03:52Z</updated>
+    <published>2026-11-12T21:03:52Z</published>
+    <author><name>Xie Z</name></author><author><name>Feng Z</name></author><author><name>Qiu Y</name></author><author><name>Jin Z</name></author><author><name>et al.</name></author>
+    <category term="inversion-kinematics" label="Inversion injury kinematics &amp; load paths"/><category term="bucket:research"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Xie Z, Feng Z, Qiu Y, Jin Z, et al. · Front Bioeng Biotechnol · 2026&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This study examined the effects of exercise-induced fatigue and lunge direction on racket-side lower-limb biomechanics during forehand and backhand forward lunges in male badminton athletes. Twenty-four male athletes performed standardized three-step lunges before and after a combined sprint-interval running and maximal vertical-jump fatigue protocol. Three-dimensional kinematics were recorded using a Vicon motion-capture system, while ground reaction forces were recorded using force platforms. Lower-limb biomechanical analyses focused on the racket-side limb. Outcome variables included phase durations, joint kinematics and moments, center-of-mass (COM) velocity, ground reaction forces (GRFs), impulses, joint quasi-stiffness, and dynamic postural stability. Outcomes were analyzed using two-way repeated-measures ANOVA with prespecified biomechanical-domain- and effect-specific Benjamini-Hochberg false discovery rate correction. No statistically significant fatigue × direction interactions were detected after BH correction; however, given the limited statistical sensitivity for interaction effects, these findings should be considered inconclusive. Fatigue shortened braking duration, reduced recovery-phase COM velocity gain, braking-phase impulses, recovery-phase anteroposterior impulse, and selected joint ROMs, while increasing recovery-phase hip and knee quasi-stiffness. Backhand lunges showed greater secondary-impact GRF, higher DPSI, VSI and MLSI values, greater ankle dorsiflexion and inversion, and a greater knee extension moment than forehand lunges. Within the racket-side limb, fatigue induced a more constrained lunge strategy and reduced recovery-phase impulse generation and COM velocity increase. Backhand lunges showed greater impact loading, braking-phase force fluctuations, and ankle mechanical demands than forehand lunges.&lt;/p&gt;&lt;p&gt;doi: &lt;a href=&quot;https://doi.org/10.3389/fbioe.2026.1967879&quot;&gt;10.3389/fbioe.2026.1967879&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/43010944/&quot;&gt;View on PubMed&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Effects of chronic ankle instability on ipsilateral knee cartilage degeneration in mouse model.</title>
     <id>urn:pmid:43005175</id>
