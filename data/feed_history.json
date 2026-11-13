@@ -1,5 +1,30 @@
 [
  {
+  "pmid": "43019219",
+  "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
+  "journal": "Sci Rep",
+  "year": "2026",
+  "authors": [
+   "Aryan R",
+   "Millar JL",
+   "Carey JP",
+   "Schubert MC",
+   "et al."
+  ],
+  "abstract": "Superior canal dehiscence syndrome (SCDS) is a peripheral vestibular disorder caused by a defect in the bony roof of the superior semicircular canal that alters inner-ear mechanics and produces abnormal vestibular stimulation and imbalance. Although postural instability is a prominent complaint in SCDS, how this disorder alters the kinematics of standing balance remains unclear. Here, we quantified how unilateral SCDS affects head and postural control during quiet standing using wearable inertial measurement units (IMUs). Angular velocities and linear accelerations were recorded from head and waist IMUs, enabling measurement of six-dimensional kinematics during seven standing balance tasks that systematically varied visual input and surface compliance. These measures revealed greater range and variability of head and waist motion in individuals with SCDS than in controls, indicating reduced stability during quiet standing. Group differences were greatest when visual and somatosensory feedback were degraded (e.g., standing on a foam surface with eyes closed), conditions that increase reliance on vestibular cues. Between-group differences were most consistently observed in pitch and roll kinematics, with increased yaw variability in several tasks. Variability in yaw head velocity correlated with oscillopsia and persistent postural-perceptual dizziness, whereas variability of waist vertical acceleration and yaw velocity mainly correlated with greater contra-lesional amplitude of cervical vestibular myogenic potential and impaired gait function, respectively. Global kinematic scores derived from IMU data significantly differentiated individuals with SCDS from healthy controls. Together, these findings demonstrate that unilateral SCDS produces multiplanar balance impairments, and that wearable kinematic analysis may provide a sensitive approach for quantifying postural instability and identifying underlying mechanisms of balance difficulties, complementing current standard functional balance assessments. In addition, our findings have the potential to inform future balance rehabilitation and fall prevention research in individuals with SCDS. The online version contains supplementary material available at https://doi.org/10.1038/s41598-026-63082-1.",
+  "doi": "10.1038/s41598-026-63082-1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43019219/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-13T20:38:30Z"
+ },
+ {
   "pmid": "43013120",
   "title": "Accuracy of ultrasound in diagnosing anterior talofibular ligament injury: a meta-analysis.",
   "journal": "Langenbecks Arch Surg",
