@@ -1,5 +1,78 @@
 [
  {
+  "pmid": "43030571",
+  "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
+  "journal": "J Clin Med",
+  "year": "2026",
+  "authors": [
+   "Burma K",
+   "Kaya M",
+   "Demircioglu G"
+  ],
+  "abstract": "Background/Objectives: Kinesio taping (KT) and dynamic taping (DT) are commonly used in sports settings to support sensorimotor function and athletic performance. However, evidence directly comparing their immediate effects across different performance domains in competitive basketball players remains limited. This study aimed to compare the acute responses to KT and DT in dynamic balance, vertical jump performance, and visuomotor reaction time. Methods: Twenty male competitive basketball players participated in this within-subject study. All participants received KT during the first testing session and DT during the second session conducted one week later. Dynamic balance, vertical jump performance, and visuomotor reaction time were assessed immediately before and after each taping application using the Lower Quarter Y-Balance Test, My Jump 2, and the Light Trainer system, respectively. Within-condition pre-post changes and differences in change between KT and DT were analyzed using paired-samples t-tests, with the Holm procedure applied to secondary outcomes to account for multiple comparisons. Results: Significant pre-post increases were observed in anterior and posterolateral reach and composite Y-Balance scores following both KT and DT (all p < 0.001). Posteromedial reach increased significantly following DT (p = 0.003) but not KT (p = 0.076), although the between-condition difference in change was not significant. Vertical jump performance and visuomotor reaction time showed no significant pre-post changes following either taping condition. No statistically significant between-condition differences were observed for any outcome. Conclusions: Both KT and DT were followed by immediate improvements in dynamic balance, whereas no statistically significant changes were detected in vertical jump performance or visuomotor reaction time. No statistically significant difference in the magnitude of change was observed between the two taping conditions. The differing response patterns across outcomes may indicate task-dependent acute responses; however, this interpretation should be considered preliminary given the study design and sample size.",
+  "doi": "10.3390/jcm15218427",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43030571/",
+  "matched": [
+   {
+    "id": "bracing-orthosis-efficacy",
+    "label": "Bracing / orthosis efficacy & performance cost",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-14T18:50:39Z"
+ },
+ {
+  "pmid": "43025303",
+  "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
+  "journal": "Gait Posture",
+  "year": "2026",
+  "authors": [
+   "Schilaty ND",
+   "Barber Foss KD",
+   "McPherson AL",
+   "Krych AJ",
+   "et al."
+  ],
+  "abstract": "Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n\u202f=\u202f126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
+  "doi": "10.1016/j.gaitpost.2026.110700",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-14T18:50:39Z"
+ },
+ {
+  "pmid": "43030608",
+  "title": "The Relationship Between Kinesiophobia and Psychological Readiness to Return to Sport After Lateral Ankle Ligament Surgery.",
+  "journal": "J Clin Med",
+  "year": "2026",
+  "authors": [
+   "Moussa MK",
+   "Ucay O",
+   "Valentin E",
+   "Verhaeghe E",
+   "et al."
+  ],
+  "abstract": "Background/Objectives: Fear of reinjury and impaired psychological readiness frequently impede return to sport following lateral ankle ligament surgery. This study aimed to analyze the correlation between kinesiophobia and psychological readiness to return to sport before and after intensive rehabilitation in competitive athletes following lateral ankle ligament repair or reconstruction (LALRR). Methods: A prospective longitudinal pre-post observational study was conducted at a specialized sports rehabilitation center between January 2021 and January 2024. Forty-eight competitive athletes (Tegner score \u2265 7) who underwent LALRR completed a 3-week inpatient rehabilitation program (7 h daily). Kinesiophobia was evaluated using the Tampa Scale of Kinesiophobia (TSK-17, TSK-13, TSK-11, and subscales), and psychological readiness was measured using the Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI) score at admission and discharge. Results: Cross-sectional analysis demonstrated weak to moderate negative correlations between ALR-RSI and TSK versions at baseline (rho = -0.28 to -0.43) and at discharge (rho = -0.20 to -0.60; TSK-13: rho = -0.60, 95% CI [-0.77, -0.34], p < 0.0001). Following rehabilitation, ALR-RSI scores significantly improved from 69.8 \u00b1 17.3 to 76.1 \u00b1 17.6 (p = 0.009), while TSK-17 scores decreased from 36.9 \u00b1 7.8 to 33.2 \u00b1 7.3 (p = 0.0001). However, the longitudinal correlation between individual change scores was weak and non-significant (rho = -0.15, 95% CI [-0.41, 0.11], p = 0.32). Conclusions: Kinesiophobia and psychological readiness exhibit weak to moderate inverse correlations cross-sectionally. However, no statistically significant association was detected between changes in kinesiophobia and psychological readiness in this sample (rho = -0.15, p = 0.32). These metrics capture distinct psychological aspects, and both should be monitored independently when assessing athletes prior to sports resumption.",
+  "doi": "10.3390/jcm15218460",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43030608/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-14T18:50:39Z"
+ },
+ {
   "pmid": "43019219",
   "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
   "journal": "Sci Rep",

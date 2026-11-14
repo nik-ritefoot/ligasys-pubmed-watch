@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T20:38:30+00:00",
+ "generated": "2026-11-14T18:50:39+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,34 +65,88 @@
   }
  ],
  "counts": {
-  "total": 83,
-  "new": 1,
+  "total": 84,
+  "new": 3,
   "research": 15,
-  "fieldnotes": 68
+  "fieldnotes": 69
  },
  "records": [
   {
-   "pmid": "43019219",
-   "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
-   "journal": "Sci Rep",
+   "pmid": "43030571",
+   "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
+   "journal": "J Clin Med",
    "year": "2026",
    "authors": [
-    "Aryan R",
-    "Millar JL",
-    "Carey JP",
-    "Schubert MC",
-    "et al."
+    "Burma K",
+    "Kaya M",
+    "Demircioglu G"
    ],
-   "abstract": "Superior canal dehiscence syndrome (SCDS) is a peripheral vestibular disorder caused by a defect in the bony roof of the superior semicircular canal that alters inner-ear mechanics and produces abnormal vestibular stimulation and imbalance. Although postural instability is a prominent complaint in SCDS, how this disorder alters the kinematics of standing balance remains unclear. Here, we quantified how unilateral SCDS affects head and postural control during quiet standing using wearable inertial measurement units (IMUs). Angular velocities and linear accelerations were recorded from head and waist IMUs, enabling measurement of six-dimensional kinematics during seven standing balance tasks that systematically varied visual input and surface compliance. These measures revealed greater range and variability of head and waist motion in individuals with SCDS than in controls, indicating reduced stability during quiet standing. Group differences were greatest when visual and somatosensory feedback were degraded (e.g., standing on a foam surface with eyes closed), conditions that increase reliance on vestibular cues. Between-group differences were most consistently observed in pitch and roll kinematics, with increased yaw variability in several tasks. Variability in yaw head velocity correlated with oscillopsia and persistent postural-perceptual dizziness, whereas variability of waist vertical acceleration and yaw velocity mainly correlated with greater contra-lesional amplitude of cervical vestibular myogenic potential and impaired gait function, respectively. Global kinematic scores derived from IMU data significantly differentiated individuals with SCDS from healthy controls. Together, these findings demonstrate that unilateral SCDS produces multiplanar balance impairments, and that wearable kinematic analysis may provide a sensitive approach for quantifying postural instability and identifying underlying mechanisms of balance difficulties, complementing current standard functional balance assessments. In addition, our findings have the potential to inform future balance rehabilitation and fall prevention research in individuals with SCDS. The online version contains supplementary material available at https://doi.org/10.1038/s41598-026-63082-1.",
-   "doi": "10.1038/s41598-026-63082-1",
+   "abstract": "Background/Objectives: Kinesio taping (KT) and dynamic taping (DT) are commonly used in sports settings to support sensorimotor function and athletic performance. However, evidence directly comparing their immediate effects across different performance domains in competitive basketball players remains limited. This study aimed to compare the acute responses to KT and DT in dynamic balance, vertical jump performance, and visuomotor reaction time. Methods: Twenty male competitive basketball players participated in this within-subject study. All participants received KT during the first testing session and DT during the second session conducted one week later. Dynamic balance, vertical jump performance, and visuomotor reaction time were assessed immediately before and after each taping application using the Lower Quarter Y-Balance Test, My Jump 2, and the Light Trainer system, respectively. Within-condition pre-post changes and differences in change between KT and DT were analyzed using paired-samples t-tests, with the Holm procedure applied to secondary outcomes to account for multiple comparisons. Results: Significant pre-post increases were observed in anterior and posterolateral reach and composite Y-Balance scores following both KT and DT (all p < 0.001). Posteromedial reach increased significantly following DT (p = 0.003) but not KT (p = 0.076), although the between-condition difference in change was not significant. Vertical jump performance and visuomotor reaction time showed no significant pre-post changes following either taping condition. No statistically significant between-condition differences were observed for any outcome. Conclusions: Both KT and DT were followed by immediate improvements in dynamic balance, whereas no statistically significant changes were detected in vertical jump performance or visuomotor reaction time. No statistically significant difference in the magnitude of change was observed between the two taping conditions. The differing response patterns across outcomes may indicate task-dependent acute responses; however, this interpretation should be considered preliminary given the study design and sample size.",
+   "doi": "10.3390/jcm15218427",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43019219/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030571/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "43025303",
+   "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Schilaty ND",
+    "Barber Foss KD",
+    "McPherson AL",
+    "Krych AJ",
+    "et al."
+   ],
+   "abstract": "Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n\u202f=\u202f126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
+   "doi": "10.1016/j.gaitpost.2026.110700",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43030608",
+   "title": "The Relationship Between Kinesiophobia and Psychological Readiness to Return to Sport After Lateral Ankle Ligament Surgery.",
+   "journal": "J Clin Med",
+   "year": "2026",
+   "authors": [
+    "Moussa MK",
+    "Ucay O",
+    "Valentin E",
+    "Verhaeghe E",
+    "et al."
+   ],
+   "abstract": "Background/Objectives: Fear of reinjury and impaired psychological readiness frequently impede return to sport following lateral ankle ligament surgery. This study aimed to analyze the correlation between kinesiophobia and psychological readiness to return to sport before and after intensive rehabilitation in competitive athletes following lateral ankle ligament repair or reconstruction (LALRR). Methods: A prospective longitudinal pre-post observational study was conducted at a specialized sports rehabilitation center between January 2021 and January 2024. Forty-eight competitive athletes (Tegner score \u2265 7) who underwent LALRR completed a 3-week inpatient rehabilitation program (7 h daily). Kinesiophobia was evaluated using the Tampa Scale of Kinesiophobia (TSK-17, TSK-13, TSK-11, and subscales), and psychological readiness was measured using the Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI) score at admission and discharge. Results: Cross-sectional analysis demonstrated weak to moderate negative correlations between ALR-RSI and TSK versions at baseline (rho = -0.28 to -0.43) and at discharge (rho = -0.20 to -0.60; TSK-13: rho = -0.60, 95% CI [-0.77, -0.34], p < 0.0001). Following rehabilitation, ALR-RSI scores significantly improved from 69.8 \u00b1 17.3 to 76.1 \u00b1 17.6 (p = 0.009), while TSK-17 scores decreased from 36.9 \u00b1 7.8 to 33.2 \u00b1 7.3 (p = 0.0001). However, the longitudinal correlation between individual change scores was weak and non-significant (rho = -0.15, 95% CI [-0.41, 0.11], p = 0.32). Conclusions: Kinesiophobia and psychological readiness exhibit weak to moderate inverse correlations cross-sectionally. However, no statistically significant association was detected between changes in kinesiophobia and psychological readiness in this sample (rho = -0.15, p = 0.32). These metrics capture distinct psychological aspects, and both should be monitored independently when assessing athletes prior to sports resumption.",
+   "doi": "10.3390/jcm15218460",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030608/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -949,32 +1003,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42962545/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42871080",
-   "title": "Editorial: Assessment and monitoring of human movement, volume II.",
-   "journal": "Front Physiol",
-   "year": "2026",
-   "authors": [
-    "L\u00f3pez-Plaza D",
-    "Annino G",
-    "Romagnoli C"
-   ],
-   "abstract": "",
-   "doi": "10.3389/fphys.2026.1995658",
-   "pubtypes": [
-    "Editorial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42871080/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -2076,33 +2104,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42873647",
-   "title": "Side-Step Cutting Foot Biomechanics and Intrinsic Foot Muscle Sizes in People With Chronic Ankle Instability.",
-   "journal": "J Foot Ankle Res",
-   "year": "2026",
-   "authors": [
-    "Peters-Dickie JL",
-    "Detrembleur C",
-    "Lobet S",
-    "Deschamps K"
-   ],
-   "abstract": "Lateral ankle sprains commonly occur during directional changes and often lead to chronic ankle instability (CAI) associated with altered movement patterns, muscle weakness and atrophy. This study aimed to compare foot joint biomechanics during cutting among individuals with CAI, copers, and uninjured controls and to explore the relationship between intrinsic foot muscle sizes and functional status. Cross-sectional study. Sixty-nine recreationally active males (25.4\u00a0\u00b1\u00a04\u00a0years) were categorised by perceived instability and self-reported function. Ankle and foot joint kinematics and kinetics were assessed using a multi-segment foot model during 45\u00b0 side-step cutting at a mean approach speed of 3.5\u00a0m\u00b7s-1. Groups were compared using ANOVA or Kruskal-Wallis tests, and continuous biomechanical data were analysed using statistical parametric or non-parametric mapping. Cross-sectional area and thickness of the abductor hallucis and flexor digitorum brevis were recorded using ultrasound imaging. Muscle sizes were explored using general linear models, and correlations with questionnaire scores and physical examination outcomes were calculated. Foot joint kinematics and kinetics did not significantly differ between the groups. Individuals with CAI exhibited lower peak posterior ground reaction force than controls (mean difference: -6.2% of body weight, 95% CI: -11.9 to -0.4, p\u00a0=\u00a00.03). Statistical parametric mapping revealed lower posterior ground reaction forces from 22% to 46% of stance in CAI versus controls (p\u00a0<\u00a00.05). Intrinsic foot muscle sizes showed weak, statistically significant negative correlations with perceived instability scores (\u03c1\u00a0=\u00a0-0.31 to -0.36) and self-reported function scores (\u03c1\u00a0=\u00a0-0.26 to -0.33). Despite pronounced sensory-perceptual impairments, individuals with CAI demonstrated few differences in foot joint biomechanics compared with copers and controls during a moderate-speed anticipated cutting task. Reduced braking forces may reflect altered deceleration strategies. These findings suggest the importance of assessing deceleration abilities in people with CAI and indicate a potential role of foot muscles in CAI-related functional outcomes. ClinicalTrials.gov (NCT05815576).",
-   "doi": "10.1002/jfa2.70222",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42873647/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42934775",
    "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health.",
    "journal": "Knee Surg Relat Res",
@@ -2120,6 +2121,34 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43019219",
+   "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
+   "journal": "Sci Rep",
+   "year": "2026",
+   "authors": [
+    "Aryan R",
+    "Millar JL",
+    "Carey JP",
+    "Schubert MC",
+    "et al."
+   ],
+   "abstract": "Superior canal dehiscence syndrome (SCDS) is a peripheral vestibular disorder caused by a defect in the bony roof of the superior semicircular canal that alters inner-ear mechanics and produces abnormal vestibular stimulation and imbalance. Although postural instability is a prominent complaint in SCDS, how this disorder alters the kinematics of standing balance remains unclear. Here, we quantified how unilateral SCDS affects head and postural control during quiet standing using wearable inertial measurement units (IMUs). Angular velocities and linear accelerations were recorded from head and waist IMUs, enabling measurement of six-dimensional kinematics during seven standing balance tasks that systematically varied visual input and surface compliance. These measures revealed greater range and variability of head and waist motion in individuals with SCDS than in controls, indicating reduced stability during quiet standing. Group differences were greatest when visual and somatosensory feedback were degraded (e.g., standing on a foam surface with eyes closed), conditions that increase reliance on vestibular cues. Between-group differences were most consistently observed in pitch and roll kinematics, with increased yaw variability in several tasks. Variability in yaw head velocity correlated with oscillopsia and persistent postural-perceptual dizziness, whereas variability of waist vertical acceleration and yaw velocity mainly correlated with greater contra-lesional amplitude of cervical vestibular myogenic potential and impaired gait function, respectively. Global kinematic scores derived from IMU data significantly differentiated individuals with SCDS from healthy controls. Together, these findings demonstrate that unilateral SCDS produces multiplanar balance impairments, and that wearable kinematic analysis may provide a sensitive approach for quantifying postural instability and identifying underlying mechanisms of balance difficulties, complementing current standard functional balance assessments. In addition, our findings have the potential to inform future balance rehabilitation and fall prevention research in individuals with SCDS. The online version contains supplementary material available at https://doi.org/10.1038/s41598-026-63082-1.",
+   "doi": "10.1038/s41598-026-63082-1",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43019219/",
    "matched": [
     {
      "id": "wearable-prevention",
