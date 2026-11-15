@@ -1,5 +1,103 @@
 [
  {
+  "pmid": "43034634",
+  "title": "Arthroscopic Targeted Anchor Placement During Brostr\u00f6m Repair: A Minimally Invasive Technique Guide.",
+  "journal": "Arthrosc Tech",
+  "year": "2026",
+  "authors": [
+   "Halpern R",
+   "Spadafora P",
+   "Martin KD",
+   "Efremov K"
+  ],
+  "abstract": "Ankle sprains are among the most common orthopaedic injuries, with 20% to 30% of patients progressing to chronic lateral ankle instability despite conservative management. Arthroscopic lateral ankle ligament repair has shown outcomes comparable with open Brostr\u00f6m repair while allowing treatment of concomitant intra-articular pathology. However, standard arthroscopic techniques may limit accurate anchor placement on the fibular footprint or require an accessory anterolateral portal, increasing incision burden, technical complexity, and risk to the superficial peroneal nerve. We describe an easily reproducible, arthroscopic targeted anchor placement technique for Brostr\u00f6m repair using a 1.9-mm needlescope without the need for an accessory viewing portal. The procedure uses standard anteromedial and anterolateral portals, with the needlescope advanced directly to the anterior talofibular ligament fibular footprint for visualization. Knotless suture anchors are placed through the needlescope cannula, eliminating the need for an accessory anterolateral portal and the need for multiple assistants. This minimally invasive technique reduces incision burden while maintaining precise anchor placement. By avoiding an accessory lateral portal, it may decrease the risk of superficial peroneal nerve injury while preserving the benefits of arthroscopic lateral ankle ligament repair.",
+  "doi": "10.1002/atn2.70359",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43034634/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-15T19:27:26Z"
+ },
+ {
+  "pmid": "43032678",
+  "title": "Detecting sleep deprivation from running biomechanics using machine learning classification: a comparison between wearable and laboratory motion capture.",
+  "journal": "Front Bioeng Biotechnol",
+  "year": "2026",
+  "authors": [
+   "Seynaeve M",
+   "Hendrickx K",
+   "Vanwanseele B",
+   "de Beukelaar T"
+  ],
+  "abstract": "Sleep deprivation is associated with impaired endurance performance and an increased risk of running-related injury. Previous research has identified alterations in running biomechanics following a single night of sleep deprivation under laboratory conditions. However, whether these biomechanical changes can be detected using wearable technology remains unknown. Twenty-one recreationally active runners completed submaximal treadmill running under both normal sleep and total sleep deprivation conditions in a randomized crossover design. Biomechanical features were extracted simultaneously using a full-body motion capture system and a trunk-mounted wearable sensor. Five machine learning classifiers were evaluated in two classification tasks: a within-subject task using paired recordings from the same individual, and a between-subject task performed without individual baseline data. Within-subject classification exceeded chance level (label-permutation testing, p < 0.05  ) for most models and both measurement systems, with best accuracies of 84% for the wearable sensor (Logistic Regression) and 81% for the motion capture system (Random Forest). These findings indicate that sleep deprivation produces a systematic and individually consistent biomechanical signature during running. In contrast, between-subject classification failed across nearly all models and systems, with accuracies remaining close to chance level (\u02dc50%), suggesting that inter-individual variability obscures the sleep-deprivation signal in the absence of personalized baseline data. Both systems converged on temporal organization, loading-related variables, and stride-to-stride variability as the most discriminative feature domains. Contrary to expectations, the laboratory motion capture system did not outperform the wearable sensor. Together, these findings suggest that individualized, baseline-referenced monitoring may be important for detecting sleep-deprivation-related changes in running gait, and suggest that a single trunk-mounted wearable sensor may provide a practical solution for real-world monitoring when paired recordings are available.",
+  "doi": "10.3389/fbioe.2026.1939545",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43032678/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-15T19:27:26Z"
+ },
+ {
+  "pmid": "43034445",
+  "title": "Evaluating effects of a new hip-knee-ankle-foot orthosis on gait parameters in healthy individuals.",
+  "journal": "J Rehabil Assist Technol Eng",
+  "year": "2026",
+  "authors": [
+   "Barati K",
+   "Bidari S",
+   "Hadadi M",
+   "Karimi M",
+   "et al."
+  ],
+  "abstract": "Hip-knee-ankle-foot orthoses (HKAFOs) are commonly used to assist gait; however, conventional designs are associated with high energy expenditure and poor mediolateral balance. This pilot study examined whether permitting additional motion in selected hip and ankle planes altered joint kinematics and dynamic-balance parameters in healthy participants. A randomized cross-over trial was conducted with 20 healthy participants aged 18-25. Gait performance was evaluated under five conditions: conventional HKAFO (locked/unlocked knee), Multiflex HKAFO (locked/unlocked knee), and no orthosis. Kinematic and balance data were collected. Key variables analyzed included center of pressure (CoP) velocity, mediolateral sway, and joint range of motion (ROM). Compared with the conventional HKAFO configurations, the Multiflex HKAFO permitted greater abduction/adduction and ankle inversion/eversion ROM. With the Multiflex HKAFO and an unlocked knee joint, CoP velocity and mediolateral excursion were not significantly different from walking without an orthosis. However, knee flexion/extension and ankle dorsiflexion/plantarflexion remained restricted relative to walking without an orthosis. In healthy participants, the Multiflex HKAFO permitted greater motion in selected hip and ankle planes than the conventional design while producing lower center-of-pressure velocity and mediolateral excursion in some configurations.",
+  "doi": "10.1177/20556683261491668",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43034445/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-15T19:27:26Z"
+ },
+ {
+  "pmid": "43033777",
+  "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
+  "journal": "J Biomech",
+  "year": "2026",
+  "authors": [
+   "Cedin L",
+   "Antognini C",
+   "Knowlton C",
+   "Ferrigno C",
+   "et al."
+  ],
+  "abstract": "Elevated knee adduction moment (KAM) is a primary contributor to medial knee osteoarthritis (OA) progression. Medialization of center of pressure (CoP) can reduce KAM, but sustaining engagement and a consistent walking pattern remains a challenge. We investigated whether concurrent plantar pressure-modulated musical feedback would cue a medial CoP shift to reduce KAM without producing detrimental lower limb compensations in healthy adults. Twelve participants (6F/6M; age: 31.5\u202f\u00b1\u202f5.3\u202fyears) walked while a marker-based motion analysis system (Qualisys) and wireless pressure-sensing insoles (Moticon) recorded gait. Real-time insole data drove auditory feedback: self-selected music was progressively muffled whenever the participant failed to shift their CoP medially beyond their threshold (25\u202f% reduction in peak lateral CoP from baseline). Gait was assessed at baseline, post-instructions, and post-training. Repeated-measures ANOVA was used for kinetics and spatiotemporal outcomes, and statistical parametric mapping, as a secondary analysis, for kinematic waveforms. All participants medialized their CoP based on instructions and musical feedback. Musical feedback significantly reduced the second KAM peak (post-training: -13.7\u202f%; p\u202f=\u202f0.002) and the knee adduction angular impulse (post-training: -9.4\u202f%; p\u202f<\u202f0.001), but with a borderline increase in peak knee flexion moment (p\u202f=\u202f0.050) that may reflect compensation. Gait adaptations were executed without a change in walking speed. Also, foot progression angle and stride width remained unchanged. CoP medialization was achieved mainly through ankle inversion, ankle external rotation, and hip internal rotation. These preliminary findings support concurrent sonified biofeedback for gait retraining, warranting evaluation in medial knee OA patients.",
+  "doi": "10.1016/j.jbiomech.2026.113670",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033777/",
+  "matched": [
+   {
+    "id": "inversion-kinematics",
+    "label": "Inversion injury kinematics & load paths",
+    "bucket": "research"
+   }
+  ],
+  "bucket": "research",
+  "first_seen": "2026-11-15T19:27:26Z"
+ },
+ {
   "pmid": "43030571",
   "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
   "journal": "J Clin Med",

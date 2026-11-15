@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T18:50:39+00:00",
+ "generated": "2026-11-15T19:27:26+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,32 +65,88 @@
   }
  ],
  "counts": {
-  "total": 84,
-  "new": 3,
-  "research": 15,
-  "fieldnotes": 69
+  "total": 87,
+  "new": 4,
+  "research": 17,
+  "fieldnotes": 70
  },
  "records": [
   {
-   "pmid": "43030571",
-   "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
-   "journal": "J Clin Med",
+   "pmid": "43034634",
+   "title": "Arthroscopic Targeted Anchor Placement During Brostr\u00f6m Repair: A Minimally Invasive Technique Guide.",
+   "journal": "Arthrosc Tech",
    "year": "2026",
    "authors": [
-    "Burma K",
-    "Kaya M",
-    "Demircioglu G"
+    "Halpern R",
+    "Spadafora P",
+    "Martin KD",
+    "Efremov K"
    ],
-   "abstract": "Background/Objectives: Kinesio taping (KT) and dynamic taping (DT) are commonly used in sports settings to support sensorimotor function and athletic performance. However, evidence directly comparing their immediate effects across different performance domains in competitive basketball players remains limited. This study aimed to compare the acute responses to KT and DT in dynamic balance, vertical jump performance, and visuomotor reaction time. Methods: Twenty male competitive basketball players participated in this within-subject study. All participants received KT during the first testing session and DT during the second session conducted one week later. Dynamic balance, vertical jump performance, and visuomotor reaction time were assessed immediately before and after each taping application using the Lower Quarter Y-Balance Test, My Jump 2, and the Light Trainer system, respectively. Within-condition pre-post changes and differences in change between KT and DT were analyzed using paired-samples t-tests, with the Holm procedure applied to secondary outcomes to account for multiple comparisons. Results: Significant pre-post increases were observed in anterior and posterolateral reach and composite Y-Balance scores following both KT and DT (all p < 0.001). Posteromedial reach increased significantly following DT (p = 0.003) but not KT (p = 0.076), although the between-condition difference in change was not significant. Vertical jump performance and visuomotor reaction time showed no significant pre-post changes following either taping condition. No statistically significant between-condition differences were observed for any outcome. Conclusions: Both KT and DT were followed by immediate improvements in dynamic balance, whereas no statistically significant changes were detected in vertical jump performance or visuomotor reaction time. No statistically significant difference in the magnitude of change was observed between the two taping conditions. The differing response patterns across outcomes may indicate task-dependent acute responses; however, this interpretation should be considered preliminary given the study design and sample size.",
-   "doi": "10.3390/jcm15218427",
+   "abstract": "Ankle sprains are among the most common orthopaedic injuries, with 20% to 30% of patients progressing to chronic lateral ankle instability despite conservative management. Arthroscopic lateral ankle ligament repair has shown outcomes comparable with open Brostr\u00f6m repair while allowing treatment of concomitant intra-articular pathology. However, standard arthroscopic techniques may limit accurate anchor placement on the fibular footprint or require an accessory anterolateral portal, increasing incision burden, technical complexity, and risk to the superficial peroneal nerve. We describe an easily reproducible, arthroscopic targeted anchor placement technique for Brostr\u00f6m repair using a 1.9-mm needlescope without the need for an accessory viewing portal. The procedure uses standard anteromedial and anterolateral portals, with the needlescope advanced directly to the anterior talofibular ligament fibular footprint for visualization. Knotless suture anchors are placed through the needlescope cannula, eliminating the need for an accessory anterolateral portal and the need for multiple assistants. This minimally invasive technique reduces incision burden while maintaining precise anchor placement. By avoiding an accessory lateral portal, it may decrease the risk of superficial peroneal nerve injury while preserving the benefits of arthroscopic lateral ankle ligament repair.",
+   "doi": "10.1002/atn2.70359",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43030571/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43034634/",
    "matched": [
     {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43032678",
+   "title": "Detecting sleep deprivation from running biomechanics using machine learning classification: a comparison between wearable and laboratory motion capture.",
+   "journal": "Front Bioeng Biotechnol",
+   "year": "2026",
+   "authors": [
+    "Seynaeve M",
+    "Hendrickx K",
+    "Vanwanseele B",
+    "de Beukelaar T"
+   ],
+   "abstract": "Sleep deprivation is associated with impaired endurance performance and an increased risk of running-related injury. Previous research has identified alterations in running biomechanics following a single night of sleep deprivation under laboratory conditions. However, whether these biomechanical changes can be detected using wearable technology remains unknown. Twenty-one recreationally active runners completed submaximal treadmill running under both normal sleep and total sleep deprivation conditions in a randomized crossover design. Biomechanical features were extracted simultaneously using a full-body motion capture system and a trunk-mounted wearable sensor. Five machine learning classifiers were evaluated in two classification tasks: a within-subject task using paired recordings from the same individual, and a between-subject task performed without individual baseline data. Within-subject classification exceeded chance level (label-permutation testing, p < 0.05  ) for most models and both measurement systems, with best accuracies of 84% for the wearable sensor (Logistic Regression) and 81% for the motion capture system (Random Forest). These findings indicate that sleep deprivation produces a systematic and individually consistent biomechanical signature during running. In contrast, between-subject classification failed across nearly all models and systems, with accuracies remaining close to chance level (\u02dc50%), suggesting that inter-individual variability obscures the sleep-deprivation signal in the absence of personalized baseline data. Both systems converged on temporal organization, loading-related variables, and stride-to-stride variability as the most discriminative feature domains. Contrary to expectations, the laboratory motion capture system did not outperform the wearable sensor. Together, these findings suggest that individualized, baseline-referenced monitoring may be important for detecting sleep-deprivation-related changes in running gait, and suggest that a single trunk-mounted wearable sensor may provide a practical solution for real-world monitoring when paired recordings are available.",
+   "doi": "10.3389/fbioe.2026.1939545",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43032678/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43034445",
+   "title": "Evaluating effects of a new hip-knee-ankle-foot orthosis on gait parameters in healthy individuals.",
+   "journal": "J Rehabil Assist Technol Eng",
+   "year": "2026",
+   "authors": [
+    "Barati K",
+    "Bidari S",
+    "Hadadi M",
+    "Karimi M",
+    "et al."
+   ],
+   "abstract": "Hip-knee-ankle-foot orthoses (HKAFOs) are commonly used to assist gait; however, conventional designs are associated with high energy expenditure and poor mediolateral balance. This pilot study examined whether permitting additional motion in selected hip and ankle planes altered joint kinematics and dynamic-balance parameters in healthy participants. A randomized cross-over trial was conducted with 20 healthy participants aged 18-25. Gait performance was evaluated under five conditions: conventional HKAFO (locked/unlocked knee), Multiflex HKAFO (locked/unlocked knee), and no orthosis. Kinematic and balance data were collected. Key variables analyzed included center of pressure (CoP) velocity, mediolateral sway, and joint range of motion (ROM). Compared with the conventional HKAFO configurations, the Multiflex HKAFO permitted greater abduction/adduction and ankle inversion/eversion ROM. With the Multiflex HKAFO and an unlocked knee joint, CoP velocity and mediolateral excursion were not significantly different from walking without an orthosis. However, knee flexion/extension and ankle dorsiflexion/plantarflexion remained restricted relative to walking without an orthosis. In healthy participants, the Multiflex HKAFO permitted greater motion in selected hip and ankle planes than the conventional design while producing lower center-of-pressure velocity and mediolateral excursion in some configurations.",
+   "doi": "10.1177/20556683261491668",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43034445/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
      "bucket": "research"
     }
    ],
@@ -98,60 +154,32 @@
    "bucket": "research"
   },
   {
-   "pmid": "43025303",
-   "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
-   "journal": "Gait Posture",
+   "pmid": "43033777",
+   "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
+   "journal": "J Biomech",
    "year": "2026",
    "authors": [
-    "Schilaty ND",
-    "Barber Foss KD",
-    "McPherson AL",
-    "Krych AJ",
+    "Cedin L",
+    "Antognini C",
+    "Knowlton C",
+    "Ferrigno C",
     "et al."
    ],
-   "abstract": "Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n\u202f=\u202f126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
-   "doi": "10.1016/j.gaitpost.2026.110700",
+   "abstract": "Elevated knee adduction moment (KAM) is a primary contributor to medial knee osteoarthritis (OA) progression. Medialization of center of pressure (CoP) can reduce KAM, but sustaining engagement and a consistent walking pattern remains a challenge. We investigated whether concurrent plantar pressure-modulated musical feedback would cue a medial CoP shift to reduce KAM without producing detrimental lower limb compensations in healthy adults. Twelve participants (6F/6M; age: 31.5\u202f\u00b1\u202f5.3\u202fyears) walked while a marker-based motion analysis system (Qualisys) and wireless pressure-sensing insoles (Moticon) recorded gait. Real-time insole data drove auditory feedback: self-selected music was progressively muffled whenever the participant failed to shift their CoP medially beyond their threshold (25\u202f% reduction in peak lateral CoP from baseline). Gait was assessed at baseline, post-instructions, and post-training. Repeated-measures ANOVA was used for kinetics and spatiotemporal outcomes, and statistical parametric mapping, as a secondary analysis, for kinematic waveforms. All participants medialized their CoP based on instructions and musical feedback. Musical feedback significantly reduced the second KAM peak (post-training: -13.7\u202f%; p\u202f=\u202f0.002) and the knee adduction angular impulse (post-training: -9.4\u202f%; p\u202f<\u202f0.001), but with a borderline increase in peak knee flexion moment (p\u202f=\u202f0.050) that may reflect compensation. Gait adaptations were executed without a change in walking speed. Also, foot progression angle and stride width remained unchanged. CoP medialization was achieved mainly through ankle inversion, ankle external rotation, and hip internal rotation. These preliminary findings support concurrent sonified biofeedback for gait retraining, warranting evaluation in medial knee OA patients.",
+   "doi": "10.1016/j.jbiomech.2026.113670",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43033777/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
     }
    ],
    "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43030608",
-   "title": "The Relationship Between Kinesiophobia and Psychological Readiness to Return to Sport After Lateral Ankle Ligament Surgery.",
-   "journal": "J Clin Med",
-   "year": "2026",
-   "authors": [
-    "Moussa MK",
-    "Ucay O",
-    "Valentin E",
-    "Verhaeghe E",
-    "et al."
-   ],
-   "abstract": "Background/Objectives: Fear of reinjury and impaired psychological readiness frequently impede return to sport following lateral ankle ligament surgery. This study aimed to analyze the correlation between kinesiophobia and psychological readiness to return to sport before and after intensive rehabilitation in competitive athletes following lateral ankle ligament repair or reconstruction (LALRR). Methods: A prospective longitudinal pre-post observational study was conducted at a specialized sports rehabilitation center between January 2021 and January 2024. Forty-eight competitive athletes (Tegner score \u2265 7) who underwent LALRR completed a 3-week inpatient rehabilitation program (7 h daily). Kinesiophobia was evaluated using the Tampa Scale of Kinesiophobia (TSK-17, TSK-13, TSK-11, and subscales), and psychological readiness was measured using the Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI) score at admission and discharge. Results: Cross-sectional analysis demonstrated weak to moderate negative correlations between ALR-RSI and TSK versions at baseline (rho = -0.28 to -0.43) and at discharge (rho = -0.20 to -0.60; TSK-13: rho = -0.60, 95% CI [-0.77, -0.34], p < 0.0001). Following rehabilitation, ALR-RSI scores significantly improved from 69.8 \u00b1 17.3 to 76.1 \u00b1 17.6 (p = 0.009), while TSK-17 scores decreased from 36.9 \u00b1 7.8 to 33.2 \u00b1 7.3 (p = 0.0001). However, the longitudinal correlation between individual change scores was weak and non-significant (rho = -0.15, 95% CI [-0.41, 0.11], p = 0.32). Conclusions: Kinesiophobia and psychological readiness exhibit weak to moderate inverse correlations cross-sectionally. However, no statistically significant association was detected between changes in kinesiophobia and psychological readiness in this sample (rho = -0.15, p = 0.32). These metrics capture distinct psychological aspects, and both should be monitored independently when assessing athletes prior to sports resumption.",
-   "doi": "10.3390/jcm15218460",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43030608/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
+   "bucket": "research"
   },
   {
    "pmid": "42934133",
@@ -386,6 +414,32 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43030571",
+   "title": "Acute Responses in Dynamic Balance, Vertical Jump Performance, and Visuomotor Reaction Time Following Ankle Kinesio Taping and Dynamic Taping in Competitive Basketball Players: A Within-Subject Study.",
+   "journal": "J Clin Med",
+   "year": "2026",
+   "authors": [
+    "Burma K",
+    "Kaya M",
+    "Demircioglu G"
+   ],
+   "abstract": "Background/Objectives: Kinesio taping (KT) and dynamic taping (DT) are commonly used in sports settings to support sensorimotor function and athletic performance. However, evidence directly comparing their immediate effects across different performance domains in competitive basketball players remains limited. This study aimed to compare the acute responses to KT and DT in dynamic balance, vertical jump performance, and visuomotor reaction time. Methods: Twenty male competitive basketball players participated in this within-subject study. All participants received KT during the first testing session and DT during the second session conducted one week later. Dynamic balance, vertical jump performance, and visuomotor reaction time were assessed immediately before and after each taping application using the Lower Quarter Y-Balance Test, My Jump 2, and the Light Trainer system, respectively. Within-condition pre-post changes and differences in change between KT and DT were analyzed using paired-samples t-tests, with the Holm procedure applied to secondary outcomes to account for multiple comparisons. Results: Significant pre-post increases were observed in anterior and posterolateral reach and composite Y-Balance scores following both KT and DT (all p < 0.001). Posteromedial reach increased significantly following DT (p = 0.003) but not KT (p = 0.076), although the between-condition difference in change was not significant. Vertical jump performance and visuomotor reaction time showed no significant pre-post changes following either taping condition. No statistically significant between-condition differences were observed for any outcome. Conclusions: Both KT and DT were followed by immediate improvements in dynamic balance, whereas no statistically significant changes were detected in vertical jump performance or visuomotor reaction time. No statistically significant difference in the magnitude of change was observed between the two taping conditions. The differing response patterns across outcomes may indicate task-dependent acute responses; however, this interpretation should be considered preliminary given the study design and sample size.",
+   "doi": "10.3390/jcm15218427",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030571/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
+  },
+  {
    "pmid": "42997622",
    "title": "Ankle Foot Orthosis Intervention Improves the Ground Reaction Forces During Walking in Patients with Peripheral Artery Disease (Randomized Clinical Trial).",
    "journal": "Actuators",
@@ -533,7 +587,7 @@
   },
   {
    "pmid": "42971522",
-   "title": "Autologous Osteochondral Transplantation Remains a Reliable Option for Talar Osteochondral Lesions, With Low Knee Donor-Site Morbidity.",
+   "title": "Autologous osteochondral transplantation remains a reliable option for talar osteochondral lesions, with low knee donor-site morbidity.",
    "journal": "J Foot Ankle Surg",
    "year": "2026",
    "authors": [
@@ -543,7 +597,7 @@
     "Villena DS",
     "et al."
    ],
-   "abstract": "Autologous osteochondral transplantation (AOT) is a surgical option for talar osteochondral lesions (OCL), with favorable outcomes and high return-to-sport rates; however, knee donor-site morbidity remains a concern. To evaluate clinical and functional outcomes, complications, return to work and sport, and satisfaction after AOT for talar OCL. Retrospective case series. We retrospectively reviewed consecutive patients \u226518 years with talar OCL treated with AOT (2011-2022; minimum 2-year follow-up); patients with prior knee pain or surgery, infection, advanced osteoarthritis, or rheumatologic disease were excluded. Outcomes included the AOFAS hindfoot, Lysholm, and Tegner scores, ankle and knee visual analog scale (VAS) pain, satisfaction, return to work and sport, and complications. Thirty-seven patients (78% male; median age, 36 years; median follow-up, 24 months) were included. Median lesion size was 150 mm\u00b2, all medial; 14 (38%) had concomitant procedures. The AOFAS score improved from 54.5 to 95.8 (mean difference, 41.3; 95% CI, 38.4-44.3) and ankle VAS from 7.0 to 1.6 (-5.4; 95% CI, -5.9 to -4.9) (both p < 0.001). Postoperative Lysholm score was 98.8 \u00b1 4.0 and knee VAS 1.2 \u00b1 0.8 (no preoperative knee scores). Return to work took 2.3 \u00b1 1.2 months; all 32 athletes resumed sport at 6.5 \u00b1 2.1 months, 20 (63%) in their pre-injury sport. Tegner scores were unchanged (5.4 vs 5.5; p\u202f=\u202f0.624). One knee hemarthrosis and one repeat ankle arthroscopy occurred. AOT for talar OCL yielded favorable short-term outcomes, high return-to-work and return-to-sport rates, and low reported knee donor-site morbidity; baseline knee scores were unavailable. 4.",
+   "abstract": "Autologous osteochondral transplantation (AOT) is a surgical option for talar osteochondral lesions (OCL), with favorable outcomes and high return-to-sport rates; however, knee donor-site morbidity remains a concern. To evaluate clinical and functional outcomes, complications, return to work and sport, and satisfaction after AOT for talar OCL. Retrospective case series. We retrospectively reviewed consecutive patients \u226518 years with talar OCL treated with AOT (2011-2022; minimum 2-year follow-up); patients with prior knee pain or surgery, infection, advanced osteoarthritis, or rheumatologic disease were excluded. Outcomes included the AOFAS hindfoot, Lysholm, and Tegner scores, ankle and knee visual analog scale (VAS) pain, satisfaction, return to work and sport, and complications. Thirty-seven patients (78% male; median age, 36 years; median follow-up, 24 months) were included. Median lesion size was 150 mm\u00b2, all medial; 14 (38%) had concomitant procedures. The AOFAS score improved from 54.5 to 95.8 (mean difference, 41.3; 95% CI, 38.4-44.3) and ankle VAS from 7.0 to 1.6 (-5.4; 95% CI, -5.9 to -4.9) (both p\u202f<\u202f0.001). Postoperative Lysholm score was 98.8\u202f\u00b1\u202f4.0 and knee VAS 1.2\u202f\u00b1\u202f0.8 (no preoperative knee scores). Return to work took 2.3\u202f\u00b1\u202f1.2 months; all 32 athletes resumed sport at 6.5\u202f\u00b1\u202f2.1 months, 20 (63%) in their pre-injury sport. Tegner scores were unchanged (5.4\u202fvs 5.5; p\u202f=\u202f0.624). One knee hemarthrosis and one repeat ankle arthroscopy occurred. AOT for talar OCL yielded favorable short-term outcomes, high return-to-work and return-to-sport rates, and low reported knee donor-site morbidity; baseline knee scores were unavailable.",
    "doi": "10.1053/j.jfas.2026.10.017",
    "pubtypes": [
     "Journal Article"
@@ -581,37 +635,6 @@
     {
      "id": "return-to-play",
      "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42876540",
-   "title": "Biomechanical and movement-quality predictors of lower-limb load-related injury in collegiate athletes: a prospective cohort study using functional movement screening, wearable inertial sensing, and explainable machine learning.",
-   "journal": "Front Physiol",
-   "year": "2026",
-   "authors": [
-    "Xu X",
-    "Zhang J",
-    "Liao J"
-   ],
-   "abstract": "Lower-limb load-related injuries account for a disproportionate share of time loss in collegiate sport, yet the biomechanical and movement-quality factors distinguishing injured from uninjured athletes remain incompletely characterized. This prospective cohort study followed 161 collegiate athletes for one competitive season, integrating Functional Movement Screen task-level scores with wearable inertial measurement unit-derived features - including peak tibial acceleration asymmetry, surrogate vertical loading rate, and pelvis-trunk stability indices - within an explainable machine learning framework. Four classifiers were compared across FMS-only, wearable-only, and fused configurations under nested five-fold cross-validation with embedded LASSO feature selection. Thirty-seven load-related time-loss injuries were recorded (23.0% incidence). The fused XGBoost model achieved an out-of-fold AUC of 0.70 (95% CI: 0.61-0.79), outperforming FMS-only (AUC 0.62) and wearable-only (AUC 0.64) configurations by statistically significant margins. Peak tibial acceleration asymmetry and surrogate loading rate on the non-dominant limb were the strongest biomechanical predictors; in-line lunge and active straight-leg raise task scores contributed most among FMS inputs. Biomechanical features added an independent AUC increment of 0.07 beyond previous-injury history. SHAP analysis identified an interaction between tibial impact asymmetry and in-line lunge score that met the pre-specified directional stability criterion. These findings establish a physiologically interpretable template for biomechanical phenotyping of injury risk, supporting the combined use of wearable sensing and task-level movement screening in collegiate athletic populations.",
-   "doi": "10.3389/fphys.2026.1920109",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42876540/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -1549,6 +1572,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43025303",
+   "title": "Lower extremity joint biomechanics from a single crossover drop task demonstrate superior predictive potential for secondary ACL injuries than drop vertical jump or single leg landing tasks.",
+   "journal": "Gait Posture",
+   "year": "2026",
+   "authors": [
+    "Schilaty ND",
+    "Barber Foss KD",
+    "McPherson AL",
+    "Krych AJ",
+    "et al."
+   ],
+   "abstract": "Secondary anterior cruciate ligament (ACL) injuries remain a significant concern after return-to-sport (RTS) following ACL reconstruction (ACLR), with rates as high as 24%. Identifying biomechanical predictors of re-injury is critical for improving RTS protocols. To compare the predictive potential of three common landing tasks [drop vertical jump (DVJ), single-leg landing (SLL), and single-leg crossover drop (SCD)] for secondary ACL injury risk in post-ACLR athletes. A multicenter cohort of 150 athletes (age 13-30 years) that were cleared for RTS post-ACLR completed DVJ, SLL, and SCD tasks during 3D motion analysis; 144 athletes data met criteria for analysis. Peak kinematic and kinetic variables (n\u202f=\u202f126) were analyzed using a penalized logistic regression with an elastic net penalty. Predictive models were evaluated via ROC curves, sensitivity, specificity, and predictive values. The SCD task demonstrated the strongest predictive performance for secondary ACL injury, with a validated positive predictive value (PPV) of 0.57, negative predictive value (NPV) of 0.96, sensitivity of 80.0%, specificity of 88.9%, and an area under the curve (AUC) of 0.933. The DVJ demonstrated moderate predictive performance (PPV=0.43, NPV=0.92, sensitivity=60.0%, specificity=85.7%, AUC=0.843), while the SLL demonstrated the lowest performance (PPV=0.33, NPV=0.92, sensitivity=60.0%, specificity=78.6%, AUC=0.736). Lower extremity biomechanics during SCD provide greater predictive performance for secondary ACL injury compared with the DVJ or SLL. The findings suggest that SCD captures biomechanical characteristics relevant to secondary ACL injury risk and may improve identification of athletes at elevated risk following ACL reconstruction. However, further validation and model simplification are needed before clinical implementation as a stand-alone screening tool.",
+   "doi": "10.1016/j.gaitpost.2026.110700",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43025303/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42975565",
    "title": "Male-female differences in unilateral jump-landing energetics are concentrated in propulsion-phase work generation across self-paced and ball-interception tasks in competitive soccer players.",
    "journal": "Knee Surg Sports Traumatol Arthrosc",
@@ -2290,6 +2341,34 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42931605/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43030608",
+   "title": "The Relationship Between Kinesiophobia and Psychological Readiness to Return to Sport After Lateral Ankle Ligament Surgery.",
+   "journal": "J Clin Med",
+   "year": "2026",
+   "authors": [
+    "Moussa MK",
+    "Ucay O",
+    "Valentin E",
+    "Verhaeghe E",
+    "et al."
+   ],
+   "abstract": "Background/Objectives: Fear of reinjury and impaired psychological readiness frequently impede return to sport following lateral ankle ligament surgery. This study aimed to analyze the correlation between kinesiophobia and psychological readiness to return to sport before and after intensive rehabilitation in competitive athletes following lateral ankle ligament repair or reconstruction (LALRR). Methods: A prospective longitudinal pre-post observational study was conducted at a specialized sports rehabilitation center between January 2021 and January 2024. Forty-eight competitive athletes (Tegner score \u2265 7) who underwent LALRR completed a 3-week inpatient rehabilitation program (7 h daily). Kinesiophobia was evaluated using the Tampa Scale of Kinesiophobia (TSK-17, TSK-13, TSK-11, and subscales), and psychological readiness was measured using the Ankle Ligament Reconstruction-Return to Sport after Injury (ALR-RSI) score at admission and discharge. Results: Cross-sectional analysis demonstrated weak to moderate negative correlations between ALR-RSI and TSK versions at baseline (rho = -0.28 to -0.43) and at discharge (rho = -0.20 to -0.60; TSK-13: rho = -0.60, 95% CI [-0.77, -0.34], p < 0.0001). Following rehabilitation, ALR-RSI scores significantly improved from 69.8 \u00b1 17.3 to 76.1 \u00b1 17.6 (p = 0.009), while TSK-17 scores decreased from 36.9 \u00b1 7.8 to 33.2 \u00b1 7.3 (p = 0.0001). However, the longitudinal correlation between individual change scores was weak and non-significant (rho = -0.15, 95% CI [-0.41, 0.11], p = 0.32). Conclusions: Kinesiophobia and psychological readiness exhibit weak to moderate inverse correlations cross-sectionally. However, no statistically significant association was detected between changes in kinesiophobia and psychological readiness in this sample (rho = -0.15, p = 0.32). These metrics capture distinct psychological aspects, and both should be monitored independently when assessing athletes prior to sports resumption.",
+   "doi": "10.3390/jcm15218460",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43030608/",
    "matched": [
     {
      "id": "return-to-play",
