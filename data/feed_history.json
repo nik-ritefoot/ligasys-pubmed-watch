@@ -1,5 +1,104 @@
 [
  {
+  "pmid": "43037180",
+  "title": "Aerogel Fiber-Confined Shear-Stiffening Gel for Flexible and Breathable Impact Protection.",
+  "journal": "Small",
+  "year": "2026",
+  "authors": [
+   "Xu H",
+   "Zhu A",
+   "Wang T",
+   "Huang Y",
+   "et al."
+  ],
+  "abstract": "Sports\u2011induced traumatic brain injuries drive a critical demand for comfortable wearable impact\u2011protective fabrics. Commercial helmets adopt rigid-shell\u2011foam dual structures with poor flexibility and breathability, whereas shear-stiffening gel (SSG) composites suffer from gel creep and leakage. Herein, we propose a fiber-yarn-fabric fabrication pathway to create a three-dimensional three-dimensional (3D) Kevlar aerogel-confined SSG spacer fabrics (3D KASSF). Nanoporous Kevlar aerogel fibers serve as capillary confinement scaffolds to suppress SSG outflow without compromising its strain-rate stiffening behavior. High-strength Kevlar filaments are braided around composite fibers to form processable core-sheath yarns, which are knitted into 3D spacer fabrics. The resultant fabrics exhibit prominent flexibility, exceptional air permeability (947.9\u00a0mm\u00a0s-1) and favorable moisture-vapor transmission (3283.89\u00a0g\u00a0m-2\u00a024\u00a0h-1). Under low-velocity impact (30\u00a0J), it achieves an energy absorption percentage of 86\u00a0% alongside an energy absorption density of 16.05\u00a0MJ\u00a0m-3. Across high strain rates (3985.6\u20119419.3\u00a0s-1), its peak compressive stress surges from 2.03 to 13.38\u00a0MPa with an energy absorption density of 4.42\u00a0MJ\u00a0m-3. Such performances arise from the coordinated effects of SSG dynamic stiffening and spacer structural energy dissipation. With laundering and abrasion resistance, this textile offers a scalable pathway toward adaptive protective materials for sports gear, personal safety guards, and aerospace buffer components.",
+  "doi": "10.1002/smll.76734",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43037180/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-16T23:00:33Z"
+ },
+ {
+  "pmid": "43035346",
+  "title": "Nationwide Trends, Regional Variation and Seasonality of Surgically Treated Achilles Tendon Rupture in Japan: An Analysis of Descriptive Epidemiological Study.",
+  "journal": "J Foot Ankle Res",
+  "year": "2026",
+  "authors": [
+   "Kabata Y"
+  ],
+  "abstract": "Achilles tendon rupture (ATR) is a common foot and ankle injury among physically active adults. Nationwide evidence on long-term trends, regional variation, seasonality and COVID-19-related changes in Japan is limited. We characterised the surgical burden of ATR using a national administrative database. We conducted a nationwide descriptive epidemiological study using aggregated data from the National Database of Health Insurance Claims and Specific Health Checkups (NDB) Open Data for fiscal years (FY) 2014-2022. Temporal trends, prefectural variation, seasonal patterns and pandemic-associated changes were examined using counts, population-based rates and quasi-Poisson regression. During FY2014-2019, approximately 11,200 surgeries were performed annually (8.8 per 100,000 person). In FY2020, incidence declined to 5.9 per 100,000 (incidence rate ratio [IRR] 0.67), with greater reductions among adults aged 30-59 (61%-64% of baseline) and, after age adjustment, among women (IRR 0.61 vs. 0.71 in men; interaction p\u00a0=\u00a00.039). Incidence partially recovered in FY2021-2022 (7.6 per 100,000; IRR 0.86). Incidence varied across the 47 prefectures (pre-COVID range: 5.0-16.7 per 100,000), and all declined in FY2020 (mean ratio 0.69). Monthly counts peaked in spring-early summer and were higher in spring than in winter (p\u00a0=\u00a00.018). The incidence of surgically treated ATR in Japan was stable before the COVID-19 pandemic, declined markedly in FY2020 and partially recovered thereafter, with the largest reductions among working-age adults and women. Regional variation and seasonality were preserved. These findings can inform surgical and rehabilitation service planning.",
+  "doi": "10.1002/jfa2.70247",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035346/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-16T23:00:33Z"
+ },
+ {
+  "pmid": "43036546",
+  "title": "Prior Lower Extremity Injury as a Risk Factor for Achilles Tendon Rupture in Professional Soccer Players.",
+  "journal": "Orthop J Sports Med",
+  "year": "2026",
+  "authors": [
+   "Khan HA",
+   "Rosenberg A",
+   "Penvose I",
+   "Khan A",
+   "et al."
+  ],
+  "abstract": "Achilles tendon rupture (ATR) is a serious injury in professional soccer, often leading to prolonged absence, diminished performance, and increased risk of reinjury. While ATR epidemiology and biomechanics have been extensively studied, the contribution of previous lower-extremity injuries to rupture risk remains incompletely characterized. Given the integrated nature of the kinetic chain, we hypothesized that players with previous injuries to related structures would be disproportionately represented among those sustaining ATR. Cohort study; Level of evidence, 3. Injury data were obtained from Transfermark. Professional soccer players with complete ATR from 2001 to 2025 were identified. Previous injuries were categorized into anatomical groups. Players with documented histories were compared with an injured, non-ATR reference population. Categorical variables were summarized as counts and percentages, and continuous time-loss data as means \u00b1 standard deviations and medians. Between-group injury risks were quantified using risk ratios. Data aggregation and statistical calculations were conducted in Python. A total of 1362 ATR cases were identified from 1,073,633 players, of whom 750 (55.1%) had previous injuries. Among these, the most frequent antecedent pathologies involved the knee (37.9%), thigh (34.5%), and hip/groin (27.9%), followed by ankle (23.6%), Achilles tendon (14.3%), foot (11.9%), and calf (10.8%). Compared with controls, ATR players exhibited higher rates of previous Achilles injuries (107/750 [14.3%] vs 1350/50,000 [2.7%]; 5.3-fold increase; P < .001), thigh injuries (259/750 [34.5%] vs 7600/50,000 [15.2%]; 2.3-fold increase; P < .001), and hip/groin injuries (209/750 [27.9%] vs 6900/50,000 [13.8%]; 2-fold increase; P < .001). Previous Achilles and foot injuries were associated with the longest mean absences (71.5 \u00b1 92.6 days and 60.2 \u00b1 60.9 days, respectively), which were significantly longer than absences from other previous injury types (Kruskal-Wallis P < .001; Mann-Whitney U tests for Achilles vs others: P < .01). This large-scale analysis demonstrates that ATR is rarely an isolated event, with more than half of cases preceded by lower-extremity injuries. The overrepresentation of Achilles, thigh, and foot pathology may support the concept of cumulative injury progression and highlights potential biomechanical links contributing to rupture.",
+  "doi": "10.1177/23259671261481002",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43036546/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   },
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-16T23:00:33Z"
+ },
+ {
+  "pmid": "43035340",
+  "title": "Wearable sensing technologies and machine learning for fatigue assessment in sport horses.",
+  "journal": "Equine Vet J",
+  "year": "2026",
+  "authors": [
+   "Li Y",
+   "Yan Z",
+   "Chen X"
+  ],
+  "abstract": "Fatigue in sport horses is a multifactorial phenomenon that critically affects performance, injury risk, and welfare, yet its real-time, field-based assessment remains an unmet challenge. To synthesise evidence on the use of wearable sensors and machine learning for fatigue-related monitoring in sport horses and to identify priorities for future fatigue assessment. Scoping review. This scoping review was conducted in accordance with PRISMA-ScR guidelines. Publications from 2015 to 2026 were identified through Web of Science, Scopus, and ScienceDirect. Evidence from 102 publications was synthesised across five sensing modalities-heart rate (HR)/heart rate variability (HRV), thermometry, inertial measurement units (IMUs), surface electromyography (sEMG), and GPS-alongside machine learning applications for feature extraction, state classification, and risk modelling. Our synthesis reveals a fundamental disconnect: while each technology captures distinct physiological or biomechanical correlates of load, including autonomic response, thermoregulatory strain, gait stability, neuromuscular activation, and external workload, none provides a standalone signature of fatigue. Only a minority of studies used fatigue as a direct modelling label, with most relying on proxy outcomes such as asymmetry or performance decrement. The included literature was heterogeneous in sensor modalities, study designs, outcome measures, and application contexts. In addition, the limited use of directly defined fatigue outcomes restricted comparison across studies and constrained conclusions regarding fatigue-specific monitoring. The path forward lies not in developing yet another single-sensor solution, but in establishing a multidimensional, context-aware framework that integrates complementary data streams, individualised baselines, and interpretable models. Future research should prioritise: (1) operationalised fatigue definitions; (2) longitudinal, within-horse monitoring designs; (3) robust multimodal fusion architectures; (4) rigorous external validation across equestrian disciplines; and (5) explainable artificial intelligence to bridge the gap between algorithmic output and actionable training decisions.",
+  "doi": "10.1002/evj.70360",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035340/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-16T23:00:33Z"
+ },
+ {
   "pmid": "43034634",
   "title": "Arthroscopic Targeted Anchor Placement During Brostr\u00f6m Repair: A Minimally Invasive Technique Guide.",
   "journal": "Arthrosc Tech",
