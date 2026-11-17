@@ -1,5 +1,52 @@
 [
  {
+  "pmid": "43042070",
+  "title": "Hydrogel-based biosensors for sweat analysis in sports medicine: recent advances and future prospects.",
+  "journal": "Des Monomers Polym",
+  "year": "2026",
+  "authors": [
+   "Qi H",
+   "Li X"
+  ],
+  "abstract": "Sweat is a physiological fluid that can be collected non-invasively and is continuously secreted by the human body. It contains a wide variety of biomarkers, including electrolytes, metabolites, hormones, and proteins, which may provide complementary information about physical activity and selected aspects of physiological status. In recent years, wearable biosensors based on hydrogels have drawn increasing interest in exercise monitoring and sports medicine because of the material's flexibility, hydrophilicity, and biocompatibility. This review summarizes recent advances in hydrogel-based sweat detection, highlighting sensing mechanisms and representative applications for four major biomarker categories: electrolytes, metabolites, hormones, and proteins. It also discusses potential applications in hydration assessment, fatigue-related monitoring, sports-injury risk assessment, and rehabilitation management. The discussion addresses current challenges, including material durability, signal stability, physiological interpretation, clinical translation, and large-scale manufacturing. Looking ahead, future progress will likely focus on multifunctional hydrogels, integration with artificial intelligence and data-driven methods, personalized monitoring, and standardized testing and validation protocols. Overall, hydrogel-based sweat biosensing offers a promising complementary approach for non-invasive physiological monitoring, although broader sports-medicine use will require rigorous validation under real-world exercise conditions.",
+  "doi": "10.1080/15685551.2026.2763899",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042070/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-17T21:53:10Z"
+ },
+ {
+  "pmid": "43039307",
+  "title": "Return to Sport and Clinical Outcomes after Surgical Stabilization of Chronic Ankle Instability in Athletes.",
+  "journal": "J Foot Ankle Surg",
+  "year": "2026",
+  "authors": [
+   "Olory B",
+   "Veizi E",
+   "Romandini I",
+   "Berbery MG",
+   "et al."
+  ],
+  "abstract": "Chronic ankle instability (CAI) can compromise athletic performance and delay return to competition. Although primary ligament repair and ligament reconstruction are valid surgical options, comparative data remains limited. The primary aim was to evaluate overall return-to-sport outcomes after surgical stabilization of chronic ankle instability in athletes. The secondary aim was to compare return-to-sport and postoperative clinical outcomes between direct ligament repair and ligament reconstruction. Comparative retrospective study METHODS: This comparative cohort study included 54 athletes who underwent surgical stabilization for CAI between 2018 and 2024. Surgical procedures were categorized as primary repair and ligament reconstruction. The primary outcomes were RTS status and time to RTS. Secondary outcomes included postoperative Foot and Ankle Ability Measure (FAAM) scores and residual complaints. The mean age was 25.6 \u00b1 6.9 years, and 48% of patients were football players. The median interval from the latest injury to surgery was 6.0 months. RTS status was available for 49 of the 54 athletes (91%). Of these, 48 (98%) returned to sport at a mean time of 5.3 months (range 2.0 to 16.0), while one athlete did not return to sport. Postoperative functional outcomes were favorable, with mean FAAM activities of daily living and sport scores of 96.2 \u00b1 8.3 and 89.7 \u00b1 20.4, respectively. No statistically significant differences were observed among surgical groups in RTS status, time to RTS, FAAM scores, or residual complaints. Surgical stabilization of chronic ankle instability was associated with favorable postoperative scores and a high RTS rate among athletes with available outcome data. The sample size and overall study design preclude conclusions regarding the equivalence or superiority of repair versus reconstruction.",
+  "doi": "10.1053/j.jfas.2026.11.006",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039307/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-17T21:53:10Z"
+ },
+ {
   "pmid": "43037180",
   "title": "Aerogel Fiber-Confined Shear-Stiffening Gel for Flexible and Breathable Impact Protection.",
   "journal": "Small",
