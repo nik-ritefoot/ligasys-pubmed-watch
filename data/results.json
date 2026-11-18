@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T21:53:10+00:00",
+ "generated": "2026-11-18T21:33:56+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,31 +66,33 @@
  ],
  "counts": {
   "total": 85,
-  "new": 2,
-  "research": 17,
-  "fieldnotes": 68
+  "new": 5,
+  "research": 18,
+  "fieldnotes": 67
  },
  "records": [
   {
-   "pmid": "43042070",
-   "title": "Hydrogel-based biosensors for sweat analysis in sports medicine: recent advances and future prospects.",
-   "journal": "Des Monomers Polym",
+   "pmid": "43047978",
+   "title": "Area Deprivation Among Patients Who Had Bone Marrow Aspirate Concentrate Treatment for Osteochondral Lesions of the Talus Is Associated With Their Baseline Presentation but Not Their Functional Outcomes.",
+   "journal": "Foot Ankle Orthop",
    "year": "2026",
    "authors": [
-    "Qi H",
-    "Li X"
+    "Lan T",
+    "Ismael S",
+    "Kuiper JH",
+    "Makwana N",
+    "et al."
    ],
-   "abstract": "Sweat is a physiological fluid that can be collected non-invasively and is continuously secreted by the human body. It contains a wide variety of biomarkers, including electrolytes, metabolites, hormones, and proteins, which may provide complementary information about physical activity and selected aspects of physiological status. In recent years, wearable biosensors based on hydrogels have drawn increasing interest in exercise monitoring and sports medicine because of the material's flexibility, hydrophilicity, and biocompatibility. This review summarizes recent advances in hydrogel-based sweat detection, highlighting sensing mechanisms and representative applications for four major biomarker categories: electrolytes, metabolites, hormones, and proteins. It also discusses potential applications in hydration assessment, fatigue-related monitoring, sports-injury risk assessment, and rehabilitation management. The discussion addresses current challenges, including material durability, signal stability, physiological interpretation, clinical translation, and large-scale manufacturing. Looking ahead, future progress will likely focus on multifunctional hydrogels, integration with artificial intelligence and data-driven methods, personalized monitoring, and standardized testing and validation protocols. Overall, hydrogel-based sweat biosensing offers a promising complementary approach for non-invasive physiological monitoring, although broader sports-medicine use will require rigorous validation under real-world exercise conditions.",
-   "doi": "10.1080/15685551.2026.2763899",
+   "abstract": "The use of bone marrow aspirate concentrate (BMAC) as a single-step cell therapy for osteochondral lesions of the talus (OLT) is increasing. Socioeconomic status (SES), estimated using area deprivation scores, can be used to investigate health inequalities. This study investigated the relationship between area deprivation and functional outcomes after BMAC treatment for OLT. Patients treated with BMAC for OLTs at a specialist tertiary orthopaedic centre between 2015 and 2020 were retrospectively reviewed. Patient demographics, postcodes and baseline and 12-month Manchester Oxford Foot and Ankle Questionnaire (MOXFQ) scores were obtained from a local hospital database of cartilage repair patients. Area deprivation was assessed using Index of Multiple Deprivation (IMD) scores derived from postcodes via a UK government database. Demographics and MOXFQ scores across IMD quintiles were assessed using Fisher's exact test, Kruskal-Wallis and 1-way analyses of variance. Separate multivariable linear regression models, adjusted for demographic characteristics with imputed missing data, examined associations between IMD, income and employment scores with baseline and 12-month MOXFQ scores. Eighty-four patients were included. Follow-up MOXFQ summary scores significantly improved (over the minimally clinically important difference) from 66.0 (\u00b115.1) at baseline to 40.9 (\u00b115.1; P\u2009<\u2009.001) at 12 months post-operatively. Gender, age, body mass index, smoking status, time from injury and baseline MOXFQ scores did not differ significantly among IMD groups (all P\u2009\u2265\u2009.08). Regression analyses showed that IMD, income and employment scores were positively associated with baseline MOXFQ summary scores (P\u2009=\u2009.01, P\u2009=\u2009.04 and P\u2009=\u2009.01), indicating greater symptom burden in patients from more deprived areas. However, with the numbers available, no significant relationship could be detected between these IMD scores and functional outcomes after BMAC treatment (P\u2009=\u2009.90, P\u2009=\u2009.29 and P\u2009=\u2009.63). Patients from more deprived areas presented with worse symptoms, and with the numbers available, no significant difference in improvement could be detected following BMAC treatment. These findings suggest socioeconomic deprivation need not be a barrier to successful treatment and support improving access and timely referral for deprived communities. Level III, retrospective comparative study.",
+   "doi": "10.1177/24730114261487422",
    "pubtypes": [
-    "Journal Article",
-    "Review"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43042070/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43047978/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -98,23 +100,105 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43039307",
-   "title": "Return to Sport and Clinical Outcomes after Surgical Stabilization of Chronic Ankle Instability in Athletes.",
-   "journal": "J Foot Ankle Surg",
+   "pmid": "43048561",
+   "title": "Association Between Dynamic Tibiotalar Motion and Patient-Reported Outcomes After Total Ankle Arthroplasty With a Total Talar Prosthesis.",
+   "journal": "Foot Ankle Orthop",
    "year": "2026",
    "authors": [
-    "Olory B",
-    "Veizi E",
-    "Romandini I",
-    "Berbery MG",
+    "Kurokawa H",
+    "Ikeda R",
+    "Kosugi S",
+    "Yamamoto M",
     "et al."
    ],
-   "abstract": "Chronic ankle instability (CAI) can compromise athletic performance and delay return to competition. Although primary ligament repair and ligament reconstruction are valid surgical options, comparative data remains limited. The primary aim was to evaluate overall return-to-sport outcomes after surgical stabilization of chronic ankle instability in athletes. The secondary aim was to compare return-to-sport and postoperative clinical outcomes between direct ligament repair and ligament reconstruction. Comparative retrospective study METHODS: This comparative cohort study included 54 athletes who underwent surgical stabilization for CAI between 2018 and 2024. Surgical procedures were categorized as primary repair and ligament reconstruction. The primary outcomes were RTS status and time to RTS. Secondary outcomes included postoperative Foot and Ankle Ability Measure (FAAM) scores and residual complaints. The mean age was 25.6 \u00b1 6.9 years, and 48% of patients were football players. The median interval from the latest injury to surgery was 6.0 months. RTS status was available for 49 of the 54 athletes (91%). Of these, 48 (98%) returned to sport at a mean time of 5.3 months (range 2.0 to 16.0), while one athlete did not return to sport. Postoperative functional outcomes were favorable, with mean FAAM activities of daily living and sport scores of 96.2 \u00b1 8.3 and 89.7 \u00b1 20.4, respectively. No statistically significant differences were observed among surgical groups in RTS status, time to RTS, FAAM scores, or residual complaints. Surgical stabilization of chronic ankle instability was associated with favorable postoperative scores and a high RTS rate among athletes with available outcome data. The sample size and overall study design preclude conclusions regarding the equivalence or superiority of repair versus reconstruction.",
-   "doi": "10.1053/j.jfas.2026.11.006",
+   "abstract": "Although numerous studies have investigated the influence of preoperative deformity and postoperative implant alignment on clinical outcomes after total ankle arthroplasty (TAA), the relationship between dynamic tibiotalar motion and patient-reported outcomes remains unclear. This pilot study investigated whether preoperative, postoperative, and longitudinal changes in computed tomography (CT)-based tibiotalar kinematics are associated with clinical outcomes after combined TAA. Thirteen ankles that underwent combined TAA for end-stage varus ankle osteoarthritis were retrospectively evaluated. CT was performed preoperatively and 3\u2009months postoperatively with the ankle in active dorsiflexion and plantarflexion under nonweightbearing. Preoperative and postoperative tibial models were registered using a globally optimal iterative closest point algorithm, enabling direct comparison of tibiotalar kinematics within a common tibial coordinate system. Spearman rank correlation was used to assess associations among preoperative kinematics, postoperative kinematics, longitudinal changes, and 2-year postoperative Self-Administered Foot Evaluation Questionnaire (SAFE-Q) scores. All SAFE-Q subscale scores improved significantly (P\u2009<\u2009.05 for all) after surgery. Postoperatively, inversion decreased and the rotational pattern between the 2 end positions shifted from external to internal rotation. Postoperative inversion correction, preservation of a physiological internal rotational relationship between the talus and tibia, and plantarflexion-related kinematic parameters showed associations with postoperative SAFE-Q scores. Greater longitudinal correction of plantarflexion inversion and dorsiflexion internal rotation was associated with superior postoperative pain-related outcomes. CT-based tibiotalar kinematics at maximum active dorsiflexion and plantarflexion showed exploratory associations with postoperative patient-reported outcomes after combined TAA. Restoration of postoperative inversion alignment, physiological internal rotational motion, and plantarflexion-related dynamic motion were associated with superior clinical outcomes. Given the small sample size, these findings should be interpreted as hypothesis-generating and require confirmation in larger cohorts. CT-based tibiotalar kinematics assessment using a common tibial coordinate system may provide a basis for further investigation of the relationship between postoperative tibiotalar kinematics and patient-reported outcomes after combined TAA. Level III, retrospective cohort study.",
+   "doi": "10.1177/24730114261496276",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43039307/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048561/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "43043623",
+   "title": "Patient-Reported Outcomes Plateau at 1 Year Compared With 2 Years After Open Proximal Hamstring Repair.",
+   "journal": "Arthroscopy",
+   "year": "2026",
+   "authors": [
+    "Bote IC",
+    "Khalameyzer AB",
+    "Rocha S",
+    "Miller SL"
+   ],
+   "abstract": "To determine whether there is a significant difference between 1- and 2-year postoperative patient-reported outcome measures (PROMs) after proximal hamstring repair (PHR). This retrospective study used data from an institutional registry of patients who underwent PHR between October 2021 and December 2023 with a minimum follow-up of 24\u2009months. Patients who completed preoperative and 1- and 2-year postoperative surveys were included in this study. PROMs included the Lower Extremity Functional Scale, the Hip Outcome Score, the Perth Hamstring Assessment, and the 12-Item Short Form Survey. Cohort-specific minimal clinically important difference was calculated. Return to sport and surgical satisfaction were included as secondary outcomes. Univariate analyses compared clinical outcomes. Sixty-two of 84 eligible patients met the inclusion criteria for this study, with a mean follow-up time of 23.2\u2009months (range 22.4-24.8). No significant differences were found between 1- and 2-year PROMs after PHR (P\u2009>\u2009.05). There were no statistically significant differences in the proportion of patients who achieved minimal clinically important difference at 1\u2009year versus 2\u2009years postoperatively, and these differences remained nonsignificant after disaggregating the data by sex (P\u2009>\u2009.05). After 1 year postoperatively, there were no significant additional improvements in the ability to return to sport (P\u2009=\u2009.371), sport level (P\u2009>\u2009.99), or percentage of return to sport (P\u2009=\u2009.961). No significant differences were found between 1- and 2-year PROMs after PHR. PROM scores, minimal clinically important difference achievement rates, return to sport, and surgical satisfaction outcomes were stable from 1 to 2 years postoperatively, with no clinically meaningful improvements observed in the second postoperative year. Level IV, retrospective case series.",
+   "doi": "10.1002/arj.70739",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43043623/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43048706",
+   "title": "Relationship between global functional outcomes and patient-reported instability after arthroscopic anatomic lateral ankle ligament reconstruction: A midterm case series of 292 patients.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Wagner P",
+    "Fradet J",
+    "Vieira TD",
+    "Lopes R"
+   ],
+   "abstract": "To evaluate midterm patient-reported outcomes, return to sport (RTS) rates and instability-specific symptoms after arthroscopic anatomic lateral ankle ligament reconstruction (AALALR), and to evaluate the relationship between global functional recovery and perceived ankle stability. We retrospectively analysed 292 patients who underwent AALALR between January 2015 and May 2022, with a mean follow-up of 4.9\u2009\u00b1\u20091.8 years. Global outcomes were assessed using the foot and ankle ability measure (FAAM) and simple ankle value (SAV), while instability-specific perception was evaluated with the French Cumberland Ankle Instability Tool (CAIT-F). RTS, satisfaction and complications were also recorded. No objective postoperative laxity assessment was performed. Mean FAAM-ADL was 94.3\u2009\u00b1\u200912.0, FAAM-Sports 87.5\u2009\u00b1\u200920.4 and SAV 85.1\u2009\u00b1\u200917.4; 89.7% of patients returned to sport and 91.1% were satisfied. Overall, 104 patients (35.6%; 95% CI, 30.3-41.3) met the CAIT-F criterion for instability at follow-up (score \u226423/30). Patients with CAIT-F-defined instability had significantly lower FAAM and SAV scores and RTS rates (all p\u2009<\u20090.001), although most had returned to sport (79.8%) and were satisfied (81.7%). The CAIT-F correlated moderately with FAAM-activities of daily living (ADL), FAAM-Sports and SAV (Spearman \u03c1\u2009=\u20090.68-0.69) and receiver operating characteristic analysis showed imperfect agreement between global scores and CAIT-F-defined categories (area under the curve [AUC]: 0.82-0.85). The reoperation rate was 5.5%. AALALR provides high midterm satisfaction, favourable functional scores and favourable RTS rates. However, over one-third of patients reported current CAIT-F-defined instability symptoms. Global and instability-specific instruments are therefore complementary rather than interchangeable, and prospective studies including objective laxity assessment are needed. Level IV, case series.",
+   "doi": "10.1002/jeo2.70984",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048706/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43048111",
+   "title": "Return to Sport and Risk Factors for Recurrence After Arthroscopic Anatomic Lateral Ankle Ligament Reconstruction.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Moussa MK",
+    "Bogdan P",
+    "Valentin E",
+    "Meyer A",
+    "et al."
+   ],
+   "abstract": "Chronic lateral ankle instability (CLAI) often requires surgical stabilization when conservative management or primary repair fails. While arthroscopic anatomic reconstruction using tendon autograft is increasingly used, data on strict return-to-sport (RTS) metrics and risk factors for recurrence in high-demand populations remain limited. To evaluate the rate and timing of RTS, functional outcomes, and factors associated with failure after arthroscopic anatomic lateral ankle ligament reconstruction using a gracilis autograft. Case-control study; Level of evidence, 3. A total of 101 patients undergoing arthroscopic anatomic reconstruction with gracilis autograft for CLAI were evaluated at a minimum follow-up of 2 years. The primary outcome was RTS, defined as the resumption of full athletic activity. Secondary outcomes included return to preinjury level, recurrence of instability, rerupture, and functional assessment using the Foot and Ankle Outcome and Foot and Ankle Ability Measure (FAAM) scores. Risk factors for failure to RTS and recurrence were analyzed using univariate regression and multivariate stepwise logistic regression. The overall RTS rate was 71.1% at a median delay of 6 months (5-8.5 months). However, only 45.6% of patients returned to their specific preinjury level. Multivariable analysis identified elevated body mass index (BMI) (P = .014) as an independent factor associated with failure to return to the preinjury level, while higher preoperative FAAM-Activities of Daily Living scores (P = .002) were factors associated with success. Significant improvements were observed in all functional scores at the final follow-up (P < .001). A confirmed recurrence of instability occurred in 11.9% of patients, comprising 9.9% (10/101) with ankle sprains and only 2% (2/101) with graft rupture. In univariate analysis, younger age (P = .007) and participation in pivot-contact sports (P = .040) were associated with recurrent instability. In multivariable analysis, younger age emerged as an independent factor associated with recurrent instability (P = .040). Arthroscopic anatomic reconstruction provided significant functional improvement with a low graft rupture rate (2%). However, returning to the preinjury level proved challenging (45.6%), particularly for patients with lower preoperative function or elevated BMI. Younger age was identified as an independent risk factor for recurrent sprains.",
+   "doi": "10.1177/23259671261486661",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048111/",
    "matched": [
     {
      "id": "return-to-play",
@@ -573,34 +657,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42971522/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42893314",
-   "title": "Beyond the Sagittal Plane: The Lateral Countermovement Jump as a Clinical Tool for Return-to-Play Decision-Making and Performance Evaluation.",
-   "journal": "Int J Sports Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Voight ML",
-    "Manske RC",
-    "Page P",
-    "Draovitch P",
-    "et al."
-   ],
-   "abstract": "Return-to-play (RTP) decision-making after lower-extremity injury has traditionally emphasized sagittal-plane assessments, including double and single leg vertical jump metrics, double and single-leg hop batteries, and quadriceps strength limb symmetry indices (LSI). Yet many sports place a disproportionate demand on frontal-plane, lateral force production; basketball players, for example, spend up to a third of their live game actions in a defensive shuffle or lateral cutting posture. Recent force-plate evidence supports the single-leg lateral countermovement jump (LCMJ) as a reliable, time-efficient, and low-load assessment capable of stratifying lateral movement competency in elite athletes. This clinical commentary reviews recent reliability and discriminant-validity data on the LCMJ, places the test within the broader RTP evidence base and its known limitations, and proposes a practical framework for incorporating relative lateral force testing into RTP and performance batteries used by physical therapists and sports medicine clinicians.",
-   "doi": "10.26603/001c.169844",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42893314/",
    "matched": [
     {
      "id": "return-to-play",
@@ -1111,39 +1167,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42892945",
-   "title": "Exploring the Impact of Ovarian Hormones on Cortical Drive and Quadriceps Performance in Uninjured Female Athletes.",
-   "journal": "J Pediatr Soc North Am",
-   "year": "2026",
-   "authors": [
-    "Leung A",
-    "Wellsandt E",
-    "Malloy P",
-    "Grooms D",
-    "et al."
-   ],
-   "abstract": "Ovarian hormones fluctuate across the menstrual cycle (MC) and differ between oral contraceptive (OC) users and naturally menstruating (NM) individuals. Hormones may affect cortical drive to peripheral muscles through excitatory effects of estradiol and inhibitory effects of progesterone on the central nervous system. The impact of hormones on cortical drive is poorly understood. This study aimed to (1) determine the effects of MC phase and OC use on cortical drive and quadriceps performance and (2) determine the relationship between ovarian hormones and these outcomes. We hypothesized that cortical drive will differ between MC phases in NM individuals but not in OC users. Cortical drive will be positively associated with circulating estradiol. Fourteen NM individuals and 11 OC users completed two time points (high hormone: NM mid-luteal, OC active pill and low hormone: NM early follicular, OC placebo). Hormone concentrations were quantified using enzyme-linked immunosorbent assays. Quadriceps performance (isometric peak torque [PTISOM] and rate of torque development) was measured using an isokinetic dynamometer. Corticospinal excitability and intracortical excitability (short-interval intracortical inhibition [SICI] and intracortical facilitation) were assessed using transcranial magnetic stimulation. Linear mixed-effect models were used to examine hormone status, phase, and interaction effects. Linear regression determined associations between hormones, cortical drive, and strength. There were no significant main effects or interactions for any cortical drive measure. There was a phase by hormone status interaction on the rate of torque development from 0 to 100 ms (RTD100), with a greater RTD100 at the high hormone phase than at the low hormone phase in the NM group but no difference between time points in the OC group. There was a main effect of phase on PTISOM, with a greater PTISOM at the low hormone phase regardless of hormone status. SICI was negatively associated with estradiol. RTD100 was positively associated with progesterone and moderated by hormone status. MC phase did not impact cortical drive but did impact quadriceps performance. There were between-phase differences in speed of contraction among NM individuals but not among OC users. A higher progesterone level was associated with faster speed of contraction, especially among NM participants. (1)Corticospinal and intracortical excitability did not differ by menstrual cycle (MC) phase or oral contraceptive (OC) use.(2)Quadriceps rate of torque development was associated with progesterone concentration and varied across the MC, suggesting hormone expression influenced the rate of torque development (RTD) (speed of contraction).(3)The influence of endogenous ovarian hormones on RTD (speed of contraction) differed between OC users and naturally menstruating individuals. II.",
-   "doi": "10.1016/j.jposna.2026.100429",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42892945/",
-   "matched": [
-    {
-     "id": "menstrual-cycle-injury",
-     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
-     "bucket": "fieldnotes"
-    },
-    {
-     "id": "contraception-msk-injury",
-     "label": "Hormonal contraception & MSK injury (sports)",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42895619",
    "title": "Extracorporeal shockwave therapy in common tendinopathies.",
    "journal": "Wien Med Wochenschr",
@@ -1214,35 +1237,6 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42968812/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42892230",
-   "title": "Flexible and stretchable bioelectronics for sports wearable monitoring: Materials, Device Engineering, and Intelligent Wearable Platforms.",
-   "journal": "Biosens Bioelectron",
-   "year": "2027",
-   "authors": [
-    "Lee J",
-    "Lee Y",
-    "Shin J",
-    "Lee DJ",
-    "et al."
-   ],
-   "abstract": "Modern sports science is undergoing a paradigm shift from subjective coaching to objective, data-driven precision training. Consequently, wearable electronics for acquiring precise data during sports activities are attracting attention. However, conventional rigid wearables inherently suffer from mechanical mismatches between rigid wearables and the soft, deformable human skin, inducing severe motion artifacts and restricting natural biomechanics during high-intensity athletic activities. To address these limitations from a comprehensive perspective, this review systematically summarizes and analyzes recent advancements in next-generation flexible and stretchable bioelectronics tailored specifically for sports applications. We systematically examine the substrate materials, structural engineering designs, and device-level optimization strategies required to withstand repetitive strain, shear, and sweat-intensive environments. Building upon these conformable bio-interfaces, we discuss three core sensing modalities: electrochemical sensors for real-time analysis of sweat biomarkers, biophysical sensors for continuous electrophysiological and hemodynamic monitoring, and electromechanical sensors for high-fidelity kinematic and impact tracking. Furthermore, we discuss body-derived energy harvesting strategies to power sports wearables and wireless communication systems for continuous athletic monitoring. The importance of artificial intelligence and machine learning is increasing, as these techniques enable the removal of motion artifacts and facilitate objective analysis of athletic data for training and health monitoring applications. By evaluating targeted applications across aerobic and anaerobic exercise, cognitive state assessment, and post-exercise recovery, this review demonstrates how next-generation sports wearables contribute to the shift in sports science from reactive treatment toward proactive, data-driven performance enhancement and injury prevention.",
-   "doi": "10.1016/j.bios.2026.119323",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42892230/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -1348,25 +1342,25 @@
    "bucket": "research"
   },
   {
-   "pmid": "42893741",
-   "title": "Injury patterns, in-hospital outcomes, and resource utilization of acute cuboid and navicular fractures.",
-   "journal": "J Foot Ankle Surg",
+   "pmid": "43042070",
+   "title": "Hydrogel-based biosensors for sweat analysis in sports medicine: recent advances and future prospects.",
+   "journal": "Des Monomers Polym",
    "year": "2026",
    "authors": [
-    "Liu D",
-    "Gupta P",
-    "Ahmad J"
+    "Qi H",
+    "Li X"
    ],
-   "abstract": "Acute cuboid and navicular fractures can be serious injuries. However, multicenter data on their associated injuries and in-hospital course are limited. To characterize the demographics, injury patterns, in-hospital outcomes, and resource utilization of trauma center patients with acute cuboid and/or navicular fractures. Retrospective cross-sectional database study. The American College of Surgeons National Trauma Data Bank (2017-2019) was queried for acute cuboid and/or navicular fractures. Multivariable regression identified factors associated with discharge to post-acute care, intensive care unit (ICU) admission, and hospital length of stay in adults. Overall, 3,424 patients with 4,084 fractures were identified (2,327 with cuboid and 1,637 with navicular fractures, including 540 with both). Road-traffic mechanisms accounted for 64.5%, and 25.1% had polytrauma. Metatarsal, calcaneal, and talar fractures were the most common concomitant injuries. Combined fractures were more often ipsilateral than contralateral (457\u202fvs 18 patients). Despite infrequent complications, 50.2% were discharged home without post-acute services (home health, inpatient rehabilitation, or skilled nursing care). In-hospital mortality was 1.1%. After adjustment, polytrauma (OR 3.75, 95% CI 3.04-4.61), bilateral involvement, and ankle, tibia, fibula, or metatarsal fractures were associated with discharge to post-acute care, whereas fracture pattern was not. Cuboid and navicular fractures are predominantly high-energy injuries that rarely occur in isolation. Post-acute care needs, ICU admission, and length of stay were associated with overall injury burden rather than the specific bone fractured.",
-   "doi": "10.1053/j.jfas.2026.10.012",
+   "abstract": "Sweat is a physiological fluid that can be collected non-invasively and is continuously secreted by the human body. It contains a wide variety of biomarkers, including electrolytes, metabolites, hormones, and proteins, which may provide complementary information about physical activity and selected aspects of physiological status. In recent years, wearable biosensors based on hydrogels have drawn increasing interest in exercise monitoring and sports medicine because of the material's flexibility, hydrophilicity, and biocompatibility. This review summarizes recent advances in hydrogel-based sweat detection, highlighting sensing mechanisms and representative applications for four major biomarker categories: electrolytes, metabolites, hormones, and proteins. It also discusses potential applications in hydration assessment, fatigue-related monitoring, sports-injury risk assessment, and rehabilitation management. The discussion addresses current challenges, including material durability, signal stability, physiological interpretation, clinical translation, and large-scale manufacturing. Looking ahead, future progress will likely focus on multifunctional hydrogels, integration with artificial intelligence and data-driven methods, personalized monitoring, and standardized testing and validation protocols. Overall, hydrogel-based sweat biosensing offers a promising complementary approach for non-invasive physiological monitoring, although broader sports-medicine use will require rigorous validation under real-world exercise conditions.",
+   "doi": "10.1080/15685551.2026.2763899",
    "pubtypes": [
-    "Journal Article"
+    "Journal Article",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42893741/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43042070/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -1929,34 +1923,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42893141",
-   "title": "Quality of Movement Assessment after ACL Reconstruction in Youth: A Clinical Framework to Guide Rehabilitation and Return-to-Sport Decision-Making.",
-   "journal": "Int J Sports Phys Ther",
-   "year": "2026",
-   "authors": [
-    "Butler L",
-    "Martinez A",
-    "Sugimoto D",
-    "Marrone W",
-    "et al."
-   ],
-   "abstract": "Anterior cruciate ligament (ACL) injury is one of the most common knee injuries requiring surgical intervention in youth athletes. After ACL reconstruction surgery, youth athletes undergo prolonged rehabilitation which often concludes with return-to-sport (RTS) testing to determine the athlete's readiness to resume sports participation. Most rehabilitation and RTS literature have focused primarily on quantitative outcomes to guide these decisions. Given the relationship between trunk and lower extremity biomechanics with ACL injury risk, there has been a call to action for the inclusion of qualitative assessments in rehabilitation and return-to-sport assessments. The purpose of this commentary is to describe quality of movement assessment tools that can guide rehabilitation and RTS decision making in pediatric and adolescent patients following ACL reconstruction. Specifically, it provides a framework for the implementation and interpretation of tools to assess single-leg, double-leg, and change of direction tasks as well as practical strategies and considerations for their use with pediatric and adolescent patients after ACL reconstruction. # Level of Evidence 5.",
-   "doi": "10.26603/001c.169922",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42893141/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42951409",
    "title": "Relative Energy Deficiency in Sport and its Implications for the Foot and Ankle Surgeon.",
    "journal": "Foot Ankle Clin",
@@ -2002,6 +1968,34 @@
     "Review"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/42959569/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43039307",
+   "title": "Return to Sport and Clinical Outcomes after Surgical Stabilization of Chronic Ankle Instability in Athletes.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "Olory B",
+    "Veizi E",
+    "Romandini I",
+    "Berbery MG",
+    "et al."
+   ],
+   "abstract": "Chronic ankle instability (CAI) can compromise athletic performance and delay return to competition. Although primary ligament repair and ligament reconstruction are valid surgical options, comparative data remains limited. The primary aim was to evaluate overall return-to-sport outcomes after surgical stabilization of chronic ankle instability in athletes. The secondary aim was to compare return-to-sport and postoperative clinical outcomes between direct ligament repair and ligament reconstruction. Comparative retrospective study METHODS: This comparative cohort study included 54 athletes who underwent surgical stabilization for CAI between 2018 and 2024. Surgical procedures were categorized as primary repair and ligament reconstruction. The primary outcomes were RTS status and time to RTS. Secondary outcomes included postoperative Foot and Ankle Ability Measure (FAAM) scores and residual complaints. The mean age was 25.6 \u00b1 6.9 years, and 48% of patients were football players. The median interval from the latest injury to surgery was 6.0 months. RTS status was available for 49 of the 54 athletes (91%). Of these, 48 (98%) returned to sport at a mean time of 5.3 months (range 2.0 to 16.0), while one athlete did not return to sport. Postoperative functional outcomes were favorable, with mean FAAM activities of daily living and sport scores of 96.2 \u00b1 8.3 and 89.7 \u00b1 20.4, respectively. No statistically significant differences were observed among surgical groups in RTS status, time to RTS, FAAM scores, or residual complaints. Surgical stabilization of chronic ankle instability was associated with favorable postoperative scores and a high RTS rate among athletes with available outcome data. The sample size and overall study design preclude conclusions regarding the equivalence or superiority of repair versus reconstruction.",
+   "doi": "10.1053/j.jfas.2026.11.006",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43039307/",
    "matched": [
     {
      "id": "return-to-play",
