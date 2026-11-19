@@ -1,5 +1,79 @@
 [
  {
+  "pmid": "43053033",
+  "title": "Clinical application effect of biological amniotic membrane in minimally invasive repair surgery for acute achilles tendon rupture: a retrospective study.",
+  "journal": "J Orthop Surg Res",
+  "year": "2026",
+  "authors": [
+   "Xu T",
+   "Wang T",
+   "Tian J",
+   "Xu Y",
+   "et al."
+  ],
+  "abstract": "Acute Achilles tendon rupture is a prevalent sports injury that significantly affects athletes and active individuals, leading to impaired function and substantial economic burdens. This study aims to evaluate the efficacy of biological amniotic membrane in minimally invasive surgical repair of acute Achilles tendon ruptures by comparing clinical outcomes between patients treated with the amniotic membrane and those who did not receive it. We conducted a retrospective analysis of clinical data from 62 patients treated between 2021 and 2024, with 30 patients in the biological amniotic membrane group and 32 in the control group. The postoperative rehabilitation protocol was identical in both groups.We recorded complication rate, the time for returning to sports, the American Orthopaedic Foot and Ankle Society score(AOFAS), Achilles tendon Total Rupture Score (ATRS). Compare the results between the 2 groups. No significant differences were observed in operative time or hospital stay between the control and amniotic membrane groups. Regarding functional outcomes, the amniotic membrane group demonstrated significantly higher AOFAS scores at 3 and 6 months postoperatively (P\u2009<\u20090.05). Similarly, this group also showed superior ATRS scores at the 3-month follow-up and less time for returning to sports compared to the control group (P\u2009<\u20090.05). However, in subsequent follow-up assessments, no significant differences were found between the two groups in any of the functional scoring metrics(P > 0.05). Each group recorded 1 complication. Our findings suggest that biological amniotic membrane may effectively enhance early functional recovery in patients undergoing minimally invasive surgical repair for acute Achilles tendon ruptures. Future research should focus on elucidating the mechanisms of action of the amniotic membrane to further refine tendon repair strategies.",
+  "doi": "10.1186/s13018-026-07196-2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43053033/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-19T21:46:21Z"
+ },
+ {
+  "pmid": "43054951",
+  "title": "Epidemiology, Fracture Patterns, and Risk Factors Among Motorcycle Crash Victims Treated at Orthopedic Institute, Tanzania.",
+  "journal": "Public Health Chall",
+  "year": "2026",
+  "authors": [
+   "Fouad HT",
+   "Rugarabamu S",
+   "Simbila AN",
+   "Mrita FS"
+  ],
+  "abstract": "Motorcycle crashes are a leading cause of injury and death in low- and middle-income countries, yet detailed data on fracture patterns and severity determinants remain limited in East Africa. This study aimed to characterize the epidemiology, fracture patterns, and associated risk factors among motorcycle crash victims treated at Muhimbili Orthopaedic Institute (MOI). A hospital-based cross-sectional study included 273 motorcyclists with confirmed fractures treated at MOI between January and December 2024. Data on demographics, crash characteristics, injury patterns, and treatment were extracted from medical records using a structured form. Descriptive statistics, chi-square tests, and multivariable logistic regression were used to identify predictors of open fractures. Statistical significance was set at p\u00a0<\u00a00.05. Participants were predominantly male (94.5%) and aged 18-40 years (78.0%). Most were self-employed commercial riders (64.8%) paying out-of-pocket for care (86.8%). High-risk behaviors were common: 45.1% were not wearing helmets, 36.6% had consumed alcohol before riding, and 45.4% of crashes occurred at speeds >80\u00a0km/h. Lower limb fractures predominated (62.9%), with tibia/fibula fractures accounting for 39.6% and femur fractures 23.4%. Open fractures represented 43.2% of cases. Crashes clustered during night/early morning and morning peak hours (44.1% each), whereas motorcycle-motorcycle collisions were the commonest crash mechanism (50.9%). On chi-square analysis, speed at impact (p\u00a0=\u00a00.034) and injury type (p\u00a0<\u00a00.001) were significantly associated with fracture severity, whereas helmet nonuse showed a nonsignificant trend (p\u00a0=\u00a00.090). In multivariable logistic regression, lower limb injury was the only independent predictor of open fractures (AOR\u00a0=\u00a03.42, 95% CI: 1.92-6.09, p\u00a0<\u00a00.001). Higher riding speeds showed a trend toward increased odds of open fractures but did not reach statistical significance after adjustment (p\u00a0=\u00a00.059 for the overall speed category variable). Motorcycle crashes in this setting predominantly affect young male riders and frequently result in severe lower limb injuries, with a substantial burden of open fractures requiring resource-intensive surgical care. Lower limb injury was the only independent predictor of open fractures. Speeding, helmet nonuse, and alcohol consumption were highly prevalent modifiable exposures but were not independently associated with open fracture status after adjustment. Drawing on external evidence, strengthening enforcement of speed limits and helmet legislation, implementing workplace-based safety programs for commercial riders, enhancing trauma and orthopedic surgical capacity, and expanding financial protection mechanisms for injured riders are recommended.",
+  "doi": "10.1002/puh2.70464",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43054951/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-19T21:46:21Z"
+ },
+ {
+  "pmid": "43055306",
+  "title": "Short-term effects of resistive overground walking with a wearable hip exoskeleton on lower-limb strength and trunk muscle morphology in adults with high BMI: A pilot randomized trial.",
+  "journal": "Technol Health Care",
+  "year": "2026",
+  "authors": [
+   "Choi SH",
+   "Yu SM",
+   "Koo KH",
+   "Shim JH",
+   "et al."
+  ],
+  "abstract": "BackgroundHigh body mass index (BMI) is associated with reduced physical function. The effects of resistive walking using wearable hip exoskeletons (WHEs) in overweight and obese individuals remain unclear.ObjectiveThis pilot randomized controlled trial evaluated the short-term effects of resistive overground walking with a wearable hip exoskeleton on lower-limb muscle strength and trunk muscle thickness in adults with a high BMI.MethodsTwenty-four participants with a high BMI were randomly assigned to the WHE or control group, with 22 participants completing the study (WHE, N\u2009=\u200912; control, N\u2009=\u200910). Both groups completed eight 60-min walking sessions over 2 weeks on a 2.4\u2005km outdoor course. The WHE group used the resistance mode, whereas the control group used the inactive mode.ResultsImprovements in hip flexion, knee flexion, and ankle dorsiflexion strength were greater in the WHE group (Cohen's d\u2009=\u20091.02-1.13), but these differences did not remain significant after Holm-Bonferroni correction. Transversus abdominis thickness did not differ between the groups. BMI reduction was greater in the WHE group, although this should be interpreted cautiously, given the short intervention duration.ConclusionResistive overground walking using WHEs numerically increased lower-limb strength in adults with high BMI, although no between-group differences remained significant after correction. Therefore, these findings should be regarded as exploratory.Clinical trial registration numberThis study was registered with the Korea Clinical Research Information Service (CRIS) under the registration number KCT0010895 (https://cris.nih.go.kr/cris/index/index.do).",
+  "doi": "10.1177/09287329261506774",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43055306/",
+  "matched": [
+   {
+    "id": "actuation-assistive",
+    "label": "Ankle actuation / assistive devices",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-19T21:46:21Z"
+ },
+ {
   "pmid": "43047978",
   "title": "Area Deprivation Among Patients Who Had Bone Marrow Aspirate Concentrate Treatment for Osteochondral Lesions of the Talus Is Associated With Their Baseline Presentation but Not Their Functional Outcomes.",
   "journal": "Foot Ankle Orthop",

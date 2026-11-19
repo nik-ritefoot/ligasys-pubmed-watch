@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T21:33:56+00:00",
+ "generated": "2026-11-19T21:46:21+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -66,29 +66,29 @@
  ],
  "counts": {
   "total": 85,
-  "new": 5,
-  "research": 18,
-  "fieldnotes": 67
+  "new": 3,
+  "research": 17,
+  "fieldnotes": 68
  },
  "records": [
   {
-   "pmid": "43047978",
-   "title": "Area Deprivation Among Patients Who Had Bone Marrow Aspirate Concentrate Treatment for Osteochondral Lesions of the Talus Is Associated With Their Baseline Presentation but Not Their Functional Outcomes.",
-   "journal": "Foot Ankle Orthop",
+   "pmid": "43053033",
+   "title": "Clinical application effect of biological amniotic membrane in minimally invasive repair surgery for acute achilles tendon rupture: a retrospective study.",
+   "journal": "J Orthop Surg Res",
    "year": "2026",
    "authors": [
-    "Lan T",
-    "Ismael S",
-    "Kuiper JH",
-    "Makwana N",
+    "Xu T",
+    "Wang T",
+    "Tian J",
+    "Xu Y",
     "et al."
    ],
-   "abstract": "The use of bone marrow aspirate concentrate (BMAC) as a single-step cell therapy for osteochondral lesions of the talus (OLT) is increasing. Socioeconomic status (SES), estimated using area deprivation scores, can be used to investigate health inequalities. This study investigated the relationship between area deprivation and functional outcomes after BMAC treatment for OLT. Patients treated with BMAC for OLTs at a specialist tertiary orthopaedic centre between 2015 and 2020 were retrospectively reviewed. Patient demographics, postcodes and baseline and 12-month Manchester Oxford Foot and Ankle Questionnaire (MOXFQ) scores were obtained from a local hospital database of cartilage repair patients. Area deprivation was assessed using Index of Multiple Deprivation (IMD) scores derived from postcodes via a UK government database. Demographics and MOXFQ scores across IMD quintiles were assessed using Fisher's exact test, Kruskal-Wallis and 1-way analyses of variance. Separate multivariable linear regression models, adjusted for demographic characteristics with imputed missing data, examined associations between IMD, income and employment scores with baseline and 12-month MOXFQ scores. Eighty-four patients were included. Follow-up MOXFQ summary scores significantly improved (over the minimally clinically important difference) from 66.0 (\u00b115.1) at baseline to 40.9 (\u00b115.1; P\u2009<\u2009.001) at 12 months post-operatively. Gender, age, body mass index, smoking status, time from injury and baseline MOXFQ scores did not differ significantly among IMD groups (all P\u2009\u2265\u2009.08). Regression analyses showed that IMD, income and employment scores were positively associated with baseline MOXFQ summary scores (P\u2009=\u2009.01, P\u2009=\u2009.04 and P\u2009=\u2009.01), indicating greater symptom burden in patients from more deprived areas. However, with the numbers available, no significant relationship could be detected between these IMD scores and functional outcomes after BMAC treatment (P\u2009=\u2009.90, P\u2009=\u2009.29 and P\u2009=\u2009.63). Patients from more deprived areas presented with worse symptoms, and with the numbers available, no significant difference in improvement could be detected following BMAC treatment. These findings suggest socioeconomic deprivation need not be a barrier to successful treatment and support improving access and timely referral for deprived communities. Level III, retrospective comparative study.",
-   "doi": "10.1177/24730114261487422",
+   "abstract": "Acute Achilles tendon rupture is a prevalent sports injury that significantly affects athletes and active individuals, leading to impaired function and substantial economic burdens. This study aims to evaluate the efficacy of biological amniotic membrane in minimally invasive surgical repair of acute Achilles tendon ruptures by comparing clinical outcomes between patients treated with the amniotic membrane and those who did not receive it. We conducted a retrospective analysis of clinical data from 62 patients treated between 2021 and 2024, with 30 patients in the biological amniotic membrane group and 32 in the control group. The postoperative rehabilitation protocol was identical in both groups.We recorded complication rate, the time for returning to sports, the American Orthopaedic Foot and Ankle Society score(AOFAS), Achilles tendon Total Rupture Score (ATRS). Compare the results between the 2 groups. No significant differences were observed in operative time or hospital stay between the control and amniotic membrane groups. Regarding functional outcomes, the amniotic membrane group demonstrated significantly higher AOFAS scores at 3 and 6 months postoperatively (P\u2009<\u20090.05). Similarly, this group also showed superior ATRS scores at the 3-month follow-up and less time for returning to sports compared to the control group (P\u2009<\u20090.05). However, in subsequent follow-up assessments, no significant differences were found between the two groups in any of the functional scoring metrics(P > 0.05). Each group recorded 1 complication. Our findings suggest that biological amniotic membrane may effectively enhance early functional recovery in patients undergoing minimally invasive surgical repair for acute Achilles tendon ruptures. Future research should focus on elucidating the mechanisms of action of the amniotic membrane to further refine tendon repair strategies.",
+   "doi": "10.1186/s13018-026-07196-2",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43047978/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43053033/",
    "matched": [
     {
      "id": "burden-cost",
@@ -100,54 +100,26 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43048561",
-   "title": "Association Between Dynamic Tibiotalar Motion and Patient-Reported Outcomes After Total Ankle Arthroplasty With a Total Talar Prosthesis.",
-   "journal": "Foot Ankle Orthop",
+   "pmid": "43054951",
+   "title": "Epidemiology, Fracture Patterns, and Risk Factors Among Motorcycle Crash Victims Treated at Orthopedic Institute, Tanzania.",
+   "journal": "Public Health Chall",
    "year": "2026",
    "authors": [
-    "Kurokawa H",
-    "Ikeda R",
-    "Kosugi S",
-    "Yamamoto M",
-    "et al."
+    "Fouad HT",
+    "Rugarabamu S",
+    "Simbila AN",
+    "Mrita FS"
    ],
-   "abstract": "Although numerous studies have investigated the influence of preoperative deformity and postoperative implant alignment on clinical outcomes after total ankle arthroplasty (TAA), the relationship between dynamic tibiotalar motion and patient-reported outcomes remains unclear. This pilot study investigated whether preoperative, postoperative, and longitudinal changes in computed tomography (CT)-based tibiotalar kinematics are associated with clinical outcomes after combined TAA. Thirteen ankles that underwent combined TAA for end-stage varus ankle osteoarthritis were retrospectively evaluated. CT was performed preoperatively and 3\u2009months postoperatively with the ankle in active dorsiflexion and plantarflexion under nonweightbearing. Preoperative and postoperative tibial models were registered using a globally optimal iterative closest point algorithm, enabling direct comparison of tibiotalar kinematics within a common tibial coordinate system. Spearman rank correlation was used to assess associations among preoperative kinematics, postoperative kinematics, longitudinal changes, and 2-year postoperative Self-Administered Foot Evaluation Questionnaire (SAFE-Q) scores. All SAFE-Q subscale scores improved significantly (P\u2009<\u2009.05 for all) after surgery. Postoperatively, inversion decreased and the rotational pattern between the 2 end positions shifted from external to internal rotation. Postoperative inversion correction, preservation of a physiological internal rotational relationship between the talus and tibia, and plantarflexion-related kinematic parameters showed associations with postoperative SAFE-Q scores. Greater longitudinal correction of plantarflexion inversion and dorsiflexion internal rotation was associated with superior postoperative pain-related outcomes. CT-based tibiotalar kinematics at maximum active dorsiflexion and plantarflexion showed exploratory associations with postoperative patient-reported outcomes after combined TAA. Restoration of postoperative inversion alignment, physiological internal rotational motion, and plantarflexion-related dynamic motion were associated with superior clinical outcomes. Given the small sample size, these findings should be interpreted as hypothesis-generating and require confirmation in larger cohorts. CT-based tibiotalar kinematics assessment using a common tibial coordinate system may provide a basis for further investigation of the relationship between postoperative tibiotalar kinematics and patient-reported outcomes after combined TAA. Level III, retrospective cohort study.",
-   "doi": "10.1177/24730114261496276",
+   "abstract": "Motorcycle crashes are a leading cause of injury and death in low- and middle-income countries, yet detailed data on fracture patterns and severity determinants remain limited in East Africa. This study aimed to characterize the epidemiology, fracture patterns, and associated risk factors among motorcycle crash victims treated at Muhimbili Orthopaedic Institute (MOI). A hospital-based cross-sectional study included 273 motorcyclists with confirmed fractures treated at MOI between January and December 2024. Data on demographics, crash characteristics, injury patterns, and treatment were extracted from medical records using a structured form. Descriptive statistics, chi-square tests, and multivariable logistic regression were used to identify predictors of open fractures. Statistical significance was set at p\u00a0<\u00a00.05. Participants were predominantly male (94.5%) and aged 18-40 years (78.0%). Most were self-employed commercial riders (64.8%) paying out-of-pocket for care (86.8%). High-risk behaviors were common: 45.1% were not wearing helmets, 36.6% had consumed alcohol before riding, and 45.4% of crashes occurred at speeds >80\u00a0km/h. Lower limb fractures predominated (62.9%), with tibia/fibula fractures accounting for 39.6% and femur fractures 23.4%. Open fractures represented 43.2% of cases. Crashes clustered during night/early morning and morning peak hours (44.1% each), whereas motorcycle-motorcycle collisions were the commonest crash mechanism (50.9%). On chi-square analysis, speed at impact (p\u00a0=\u00a00.034) and injury type (p\u00a0<\u00a00.001) were significantly associated with fracture severity, whereas helmet nonuse showed a nonsignificant trend (p\u00a0=\u00a00.090). In multivariable logistic regression, lower limb injury was the only independent predictor of open fractures (AOR\u00a0=\u00a03.42, 95% CI: 1.92-6.09, p\u00a0<\u00a00.001). Higher riding speeds showed a trend toward increased odds of open fractures but did not reach statistical significance after adjustment (p\u00a0=\u00a00.059 for the overall speed category variable). Motorcycle crashes in this setting predominantly affect young male riders and frequently result in severe lower limb injuries, with a substantial burden of open fractures requiring resource-intensive surgical care. Lower limb injury was the only independent predictor of open fractures. Speeding, helmet nonuse, and alcohol consumption were highly prevalent modifiable exposures but were not independently associated with open fracture status after adjustment. Drawing on external evidence, strengthening enforcement of speed limits and helmet legislation, implementing workplace-based safety programs for commercial riders, enhancing trauma and orthopedic surgical capacity, and expanding financial protection mechanisms for injured riders are recommended.",
+   "doi": "10.1002/puh2.70464",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43048561/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43054951/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": true,
-   "bucket": "research"
-  },
-  {
-   "pmid": "43043623",
-   "title": "Patient-Reported Outcomes Plateau at 1 Year Compared With 2 Years After Open Proximal Hamstring Repair.",
-   "journal": "Arthroscopy",
-   "year": "2026",
-   "authors": [
-    "Bote IC",
-    "Khalameyzer AB",
-    "Rocha S",
-    "Miller SL"
-   ],
-   "abstract": "To determine whether there is a significant difference between 1- and 2-year postoperative patient-reported outcome measures (PROMs) after proximal hamstring repair (PHR). This retrospective study used data from an institutional registry of patients who underwent PHR between October 2021 and December 2023 with a minimum follow-up of 24\u2009months. Patients who completed preoperative and 1- and 2-year postoperative surveys were included in this study. PROMs included the Lower Extremity Functional Scale, the Hip Outcome Score, the Perth Hamstring Assessment, and the 12-Item Short Form Survey. Cohort-specific minimal clinically important difference was calculated. Return to sport and surgical satisfaction were included as secondary outcomes. Univariate analyses compared clinical outcomes. Sixty-two of 84 eligible patients met the inclusion criteria for this study, with a mean follow-up time of 23.2\u2009months (range 22.4-24.8). No significant differences were found between 1- and 2-year PROMs after PHR (P\u2009>\u2009.05). There were no statistically significant differences in the proportion of patients who achieved minimal clinically important difference at 1\u2009year versus 2\u2009years postoperatively, and these differences remained nonsignificant after disaggregating the data by sex (P\u2009>\u2009.05). After 1 year postoperatively, there were no significant additional improvements in the ability to return to sport (P\u2009=\u2009.371), sport level (P\u2009>\u2009.99), or percentage of return to sport (P\u2009=\u2009.961). No significant differences were found between 1- and 2-year PROMs after PHR. PROM scores, minimal clinically important difference achievement rates, return to sport, and surgical satisfaction outcomes were stable from 1 to 2 years postoperatively, with no clinically meaningful improvements observed in the second postoperative year. Level IV, retrospective case series.",
-   "doi": "10.1002/arj.70739",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43043623/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
      "bucket": "fieldnotes"
     }
    ],
@@ -155,54 +127,27 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43048706",
-   "title": "Relationship between global functional outcomes and patient-reported instability after arthroscopic anatomic lateral ankle ligament reconstruction: A midterm case series of 292 patients.",
-   "journal": "J Exp Orthop",
+   "pmid": "43055306",
+   "title": "Short-term effects of resistive overground walking with a wearable hip exoskeleton on lower-limb strength and trunk muscle morphology in adults with high BMI: A pilot randomized trial.",
+   "journal": "Technol Health Care",
    "year": "2026",
    "authors": [
-    "Wagner P",
-    "Fradet J",
-    "Vieira TD",
-    "Lopes R"
-   ],
-   "abstract": "To evaluate midterm patient-reported outcomes, return to sport (RTS) rates and instability-specific symptoms after arthroscopic anatomic lateral ankle ligament reconstruction (AALALR), and to evaluate the relationship between global functional recovery and perceived ankle stability. We retrospectively analysed 292 patients who underwent AALALR between January 2015 and May 2022, with a mean follow-up of 4.9\u2009\u00b1\u20091.8 years. Global outcomes were assessed using the foot and ankle ability measure (FAAM) and simple ankle value (SAV), while instability-specific perception was evaluated with the French Cumberland Ankle Instability Tool (CAIT-F). RTS, satisfaction and complications were also recorded. No objective postoperative laxity assessment was performed. Mean FAAM-ADL was 94.3\u2009\u00b1\u200912.0, FAAM-Sports 87.5\u2009\u00b1\u200920.4 and SAV 85.1\u2009\u00b1\u200917.4; 89.7% of patients returned to sport and 91.1% were satisfied. Overall, 104 patients (35.6%; 95% CI, 30.3-41.3) met the CAIT-F criterion for instability at follow-up (score \u226423/30). Patients with CAIT-F-defined instability had significantly lower FAAM and SAV scores and RTS rates (all p\u2009<\u20090.001), although most had returned to sport (79.8%) and were satisfied (81.7%). The CAIT-F correlated moderately with FAAM-activities of daily living (ADL), FAAM-Sports and SAV (Spearman \u03c1\u2009=\u20090.68-0.69) and receiver operating characteristic analysis showed imperfect agreement between global scores and CAIT-F-defined categories (area under the curve [AUC]: 0.82-0.85). The reoperation rate was 5.5%. AALALR provides high midterm satisfaction, favourable functional scores and favourable RTS rates. However, over one-third of patients reported current CAIT-F-defined instability symptoms. Global and instability-specific instruments are therefore complementary rather than interchangeable, and prospective studies including objective laxity assessment are needed. Level IV, case series.",
-   "doi": "10.1002/jeo2.70984",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43048706/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43048111",
-   "title": "Return to Sport and Risk Factors for Recurrence After Arthroscopic Anatomic Lateral Ankle Ligament Reconstruction.",
-   "journal": "Orthop J Sports Med",
-   "year": "2026",
-   "authors": [
-    "Moussa MK",
-    "Bogdan P",
-    "Valentin E",
-    "Meyer A",
+    "Choi SH",
+    "Yu SM",
+    "Koo KH",
+    "Shim JH",
     "et al."
    ],
-   "abstract": "Chronic lateral ankle instability (CLAI) often requires surgical stabilization when conservative management or primary repair fails. While arthroscopic anatomic reconstruction using tendon autograft is increasingly used, data on strict return-to-sport (RTS) metrics and risk factors for recurrence in high-demand populations remain limited. To evaluate the rate and timing of RTS, functional outcomes, and factors associated with failure after arthroscopic anatomic lateral ankle ligament reconstruction using a gracilis autograft. Case-control study; Level of evidence, 3. A total of 101 patients undergoing arthroscopic anatomic reconstruction with gracilis autograft for CLAI were evaluated at a minimum follow-up of 2 years. The primary outcome was RTS, defined as the resumption of full athletic activity. Secondary outcomes included return to preinjury level, recurrence of instability, rerupture, and functional assessment using the Foot and Ankle Outcome and Foot and Ankle Ability Measure (FAAM) scores. Risk factors for failure to RTS and recurrence were analyzed using univariate regression and multivariate stepwise logistic regression. The overall RTS rate was 71.1% at a median delay of 6 months (5-8.5 months). However, only 45.6% of patients returned to their specific preinjury level. Multivariable analysis identified elevated body mass index (BMI) (P = .014) as an independent factor associated with failure to return to the preinjury level, while higher preoperative FAAM-Activities of Daily Living scores (P = .002) were factors associated with success. Significant improvements were observed in all functional scores at the final follow-up (P < .001). A confirmed recurrence of instability occurred in 11.9% of patients, comprising 9.9% (10/101) with ankle sprains and only 2% (2/101) with graft rupture. In univariate analysis, younger age (P = .007) and participation in pivot-contact sports (P = .040) were associated with recurrent instability. In multivariable analysis, younger age emerged as an independent factor associated with recurrent instability (P = .040). Arthroscopic anatomic reconstruction provided significant functional improvement with a low graft rupture rate (2%). However, returning to the preinjury level proved challenging (45.6%), particularly for patients with lower preoperative function or elevated BMI. Younger age was identified as an independent risk factor for recurrent sprains.",
-   "doi": "10.1177/23259671261486661",
+   "abstract": "BackgroundHigh body mass index (BMI) is associated with reduced physical function. The effects of resistive walking using wearable hip exoskeletons (WHEs) in overweight and obese individuals remain unclear.ObjectiveThis pilot randomized controlled trial evaluated the short-term effects of resistive overground walking with a wearable hip exoskeleton on lower-limb muscle strength and trunk muscle thickness in adults with a high BMI.MethodsTwenty-four participants with a high BMI were randomly assigned to the WHE or control group, with 22 participants completing the study (WHE, N\u2009=\u200912; control, N\u2009=\u200910). Both groups completed eight 60-min walking sessions over 2 weeks on a 2.4\u2005km outdoor course. The WHE group used the resistance mode, whereas the control group used the inactive mode.ResultsImprovements in hip flexion, knee flexion, and ankle dorsiflexion strength were greater in the WHE group (Cohen's d\u2009=\u20091.02-1.13), but these differences did not remain significant after Holm-Bonferroni correction. Transversus abdominis thickness did not differ between the groups. BMI reduction was greater in the WHE group, although this should be interpreted cautiously, given the short intervention duration.ConclusionResistive overground walking using WHEs numerically increased lower-limb strength in adults with high BMI, although no between-group differences remained significant after correction. Therefore, these findings should be regarded as exploratory.Clinical trial registration numberThis study was registered with the Korea Clinical Research Information Service (CRIS) under the registration number KCT0010895 (https://cris.nih.go.kr/cris/index/index.do).",
+   "doi": "10.1177/09287329261506774",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43048111/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43055306/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -523,6 +468,34 @@
    "bucket": "research"
   },
   {
+   "pmid": "43047978",
+   "title": "Area Deprivation Among Patients Who Had Bone Marrow Aspirate Concentrate Treatment for Osteochondral Lesions of the Talus Is Associated With Their Baseline Presentation but Not Their Functional Outcomes.",
+   "journal": "Foot Ankle Orthop",
+   "year": "2026",
+   "authors": [
+    "Lan T",
+    "Ismael S",
+    "Kuiper JH",
+    "Makwana N",
+    "et al."
+   ],
+   "abstract": "The use of bone marrow aspirate concentrate (BMAC) as a single-step cell therapy for osteochondral lesions of the talus (OLT) is increasing. Socioeconomic status (SES), estimated using area deprivation scores, can be used to investigate health inequalities. This study investigated the relationship between area deprivation and functional outcomes after BMAC treatment for OLT. Patients treated with BMAC for OLTs at a specialist tertiary orthopaedic centre between 2015 and 2020 were retrospectively reviewed. Patient demographics, postcodes and baseline and 12-month Manchester Oxford Foot and Ankle Questionnaire (MOXFQ) scores were obtained from a local hospital database of cartilage repair patients. Area deprivation was assessed using Index of Multiple Deprivation (IMD) scores derived from postcodes via a UK government database. Demographics and MOXFQ scores across IMD quintiles were assessed using Fisher's exact test, Kruskal-Wallis and 1-way analyses of variance. Separate multivariable linear regression models, adjusted for demographic characteristics with imputed missing data, examined associations between IMD, income and employment scores with baseline and 12-month MOXFQ scores. Eighty-four patients were included. Follow-up MOXFQ summary scores significantly improved (over the minimally clinically important difference) from 66.0 (\u00b115.1) at baseline to 40.9 (\u00b115.1; P\u2009<\u2009.001) at 12 months post-operatively. Gender, age, body mass index, smoking status, time from injury and baseline MOXFQ scores did not differ significantly among IMD groups (all P\u2009\u2265\u2009.08). Regression analyses showed that IMD, income and employment scores were positively associated with baseline MOXFQ summary scores (P\u2009=\u2009.01, P\u2009=\u2009.04 and P\u2009=\u2009.01), indicating greater symptom burden in patients from more deprived areas. However, with the numbers available, no significant relationship could be detected between these IMD scores and functional outcomes after BMAC treatment (P\u2009=\u2009.90, P\u2009=\u2009.29 and P\u2009=\u2009.63). Patients from more deprived areas presented with worse symptoms, and with the numbers available, no significant difference in improvement could be detected following BMAC treatment. These findings suggest socioeconomic deprivation need not be a barrier to successful treatment and support improving access and timely referral for deprived communities. Level III, retrospective comparative study.",
+   "doi": "10.1177/24730114261487422",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43047978/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43034634",
    "title": "Arthroscopic Targeted Anchor Placement During Brostr\u00f6m Repair: A Minimally Invasive Technique Guide.",
    "journal": "Arthrosc Tech",
@@ -550,29 +523,24 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42895340",
-   "title": "Association of Ankle Joint Moment and Ankle Joint Velocity With 60\u00b0 Ipsilateral Change-of-Direction Performance.",
-   "journal": "J Strength Cond Res",
+   "pmid": "43048561",
+   "title": "Association Between Dynamic Tibiotalar Motion and Patient-Reported Outcomes After Total Ankle Arthroplasty With a Total Talar Prosthesis.",
+   "journal": "Foot Ankle Orthop",
    "year": "2026",
    "authors": [
-    "Chen CH",
-    "Yeh M",
-    "Liu C",
-    "Tseng YJ",
+    "Kurokawa H",
+    "Ikeda R",
+    "Kosugi S",
+    "Yamamoto M",
     "et al."
    ],
-   "abstract": "Chen, C-H, Yeh, M-C, Liu, C, Tseng, Y-J, and Lu, S-T. Association of ankle joint moment and ankle joint velocity with 60\u00b0 ipsilateral change-of-direction performance. J Strength Cond Res XX(X): 000-000, 2026-The rapid acceleration and deceleration associated with a change of direction (COD) is associated with high ankle loading, including high ankle moment and velocity, which have been linked to ankle sprain or chronic ankle instability. Although the correlations between ankle joint loading and contralateral COD (contra-COD) have been investigated, one study reported that ipsilateral COD (ipsi-COD) and contra-COD involve distinct, asymmetrical mechanisms. Therefore, the aim of this study is to evaluate the associations of ankle joint moment and ankle joint velocity with 60\u00b0 ipsi-COD performance. Thirty-five male athletes of recreational team sports performed an ipsi-COD task with their nondominant leg. A three-dimensional motion-capture system and a force platform were used to collect biomechanical data. Ground contact time was negatively associated with plantarflexion moment ( r = -0.511) and inversion moment ( r = -0.424). By contrast, horizontal impulse was positively correlated with plantarflexion moment ( r = 0.407). No correlation was observed between ground contact time and ground reaction force. The moderate negative correlations of ground contact time with plantarflexion moment and inversion moment suggest that increasing ipsi-COD performance may result in high ankle moments and potentially excessive ankle loading. In addition, the absence of a correlation between ground contact time and GRF suggests that athletes consider focusing on converting their approaching velocity to the intended direction during ipsi-COD, as this study indicates that ground reaction force and impulse are not associated with ipsi-COD performance.",
-   "doi": "10.1519/JSC.0000000000005683",
+   "abstract": "Although numerous studies have investigated the influence of preoperative deformity and postoperative implant alignment on clinical outcomes after total ankle arthroplasty (TAA), the relationship between dynamic tibiotalar motion and patient-reported outcomes remains unclear. This pilot study investigated whether preoperative, postoperative, and longitudinal changes in computed tomography (CT)-based tibiotalar kinematics are associated with clinical outcomes after combined TAA. Thirteen ankles that underwent combined TAA for end-stage varus ankle osteoarthritis were retrospectively evaluated. CT was performed preoperatively and 3\u2009months postoperatively with the ankle in active dorsiflexion and plantarflexion under nonweightbearing. Preoperative and postoperative tibial models were registered using a globally optimal iterative closest point algorithm, enabling direct comparison of tibiotalar kinematics within a common tibial coordinate system. Spearman rank correlation was used to assess associations among preoperative kinematics, postoperative kinematics, longitudinal changes, and 2-year postoperative Self-Administered Foot Evaluation Questionnaire (SAFE-Q) scores. All SAFE-Q subscale scores improved significantly (P\u2009<\u2009.05 for all) after surgery. Postoperatively, inversion decreased and the rotational pattern between the 2 end positions shifted from external to internal rotation. Postoperative inversion correction, preservation of a physiological internal rotational relationship between the talus and tibia, and plantarflexion-related kinematic parameters showed associations with postoperative SAFE-Q scores. Greater longitudinal correction of plantarflexion inversion and dorsiflexion internal rotation was associated with superior postoperative pain-related outcomes. CT-based tibiotalar kinematics at maximum active dorsiflexion and plantarflexion showed exploratory associations with postoperative patient-reported outcomes after combined TAA. Restoration of postoperative inversion alignment, physiological internal rotational motion, and plantarflexion-related dynamic motion were associated with superior clinical outcomes. Given the small sample size, these findings should be interpreted as hypothesis-generating and require confirmation in larger cohorts. CT-based tibiotalar kinematics assessment using a common tibial coordinate system may provide a basis for further investigation of the relationship between postoperative tibiotalar kinematics and patient-reported outcomes after combined TAA. Level III, retrospective cohort study.",
+   "doi": "10.1177/24730114261496276",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42895340/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048561/",
    "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
-     "bucket": "research"
-    },
     {
      "id": "inversion-kinematics",
      "label": "Inversion injury kinematics & load paths",
@@ -1167,31 +1135,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42895619",
-   "title": "Extracorporeal shockwave therapy in common tendinopathies.",
-   "journal": "Wien Med Wochenschr",
-   "year": "2026",
-   "authors": [
-    "Ringeisen MT"
-   ],
-   "abstract": "Extracorporeal shockwave therapy (ESWT) was initially used for urologic issues only. After Valchanou and Michailov started applying it in orthopedics in 1991, they focused on treatment of pseudarthrosis and delayed fracture healing. Some years later, shockwave therapy was also used for tendinopathies. Today, ESWT is the first-choice treatment for tendinopathies and is unsurpassed in terms of effectivity and side effects. This article discusses common regions of lower extremity tendinopathies (greater trochanter pain syndrome, quadriceps tendinopathy, patellar tendinopathy, Achilles tendinopathy) in a\u00a0narrative review of the evidence-based literature and guidelines of leading shockwave societies such as the International Society for Medical Shockwave Treatment (ISMST) and the Deutschsprachige internationale Gesellschaft f\u00fcr Extrakorporale Stosswellentherapie (DIGEST). Additional case studies are also presented. Extracorporeal shockwave therapy shows excellent results in the evidence-based literature and in clinical application. No other conservative treatment option in orthopedics is described as intensively in the evidence-based literature as shockwave therapy. ESWT seems to be more effective when it is accompanied by an eccentric loading/physiotherapy program. Extracorporeal shockwave therapy enables tendon regeneration, long-term improvement, and faster return to sport, with predictable side effects and excellent tolerance.",
-   "doi": "10.1007/s10354-026-01197-w",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42895619/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "42967447",
    "title": "Feedforward neuromuscular control and dynamic postural stability in people with chronic ankle instability during single-leg landing.",
    "journal": "J Biomech",
@@ -1444,34 +1387,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42894620",
-   "title": "Lower Body Functional Test Performance Varies Based on Patient Demographics.",
-   "journal": "Cureus",
-   "year": "2026",
-   "authors": [
-    "Kelly DK",
-    "Bruce Leicht AS",
-    "Thompson XD",
-    "DelBiondo GM",
-    "et al."
-   ],
-   "abstract": "The utility of precise and instrumented musculoskeletal performance tests is essential to characterize musculoskeletal function during physical activity.\u00a0Variation in these tests based on common patient demographics warrants consideration when using test results to counsel and advise physically active people. This study aimed to compare isolated muscle strength and functional performance outcomes by sex (male, female), age (late-stage adolescents: 18-21 years; adults: 22-34 years), and activity level (Tegner Activity Scale {TAS}: TAS \u22657, TAS <7). We hypothesized that males, adults, and individuals with higher activity levels would outperform their dichotomous pair. This is a cross-sectional study. A total of 185 healthy participants (sex: 112 female, 73 male; age: 21\u00b13 years; height: 173\u00b110 cm; mass: 71\u00b112 kg) with no history of lower extremity surgery\u00a0and no history of lower extremity injury within the previous six months participated in this study. Participants completed isokinetic knee extension/flexion at 90\u00b0/s and 180\u00b0/s, isometric knee extension/flexion at 90\u00b0\u00a0of knee flexion, the single-leg hop for distance, the triple hop for distance, and the 6-m\u00a0timed hop. Males, adults, and participants with higher activity levels were stronger than females, late-stage adolescents, and participants with lower activity levels across all isolated muscle strength tests (p<0.05). Males, adults, and participants with higher activity levels jumped farther and faster than females, late-stage adolescents, and participants with lower activity levels for all hop tests except the triple hop for distance. Males, adults, and participants with higher activity levels consistently outperformed females, late-stage adolescents, and participants with lower activity levels, highlighting differences in performance by sex, age, and activity level. These findings suggest that personalization should be considered when using musculoskeletal performance tests to make important healthcare decisions during recovery from injury and/or surgery.",
-   "doi": "10.7759/cureus.116489",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42894620/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1751,6 +1666,33 @@
    "bucket": "research"
   },
   {
+   "pmid": "43043623",
+   "title": "Patient-Reported Outcomes Plateau at 1 Year Compared With 2 Years After Open Proximal Hamstring Repair.",
+   "journal": "Arthroscopy",
+   "year": "2026",
+   "authors": [
+    "Bote IC",
+    "Khalameyzer AB",
+    "Rocha S",
+    "Miller SL"
+   ],
+   "abstract": "To determine whether there is a significant difference between 1- and 2-year postoperative patient-reported outcome measures (PROMs) after proximal hamstring repair (PHR). This retrospective study used data from an institutional registry of patients who underwent PHR between October 2021 and December 2023 with a minimum follow-up of 24\u2009months. Patients who completed preoperative and 1- and 2-year postoperative surveys were included in this study. PROMs included the Lower Extremity Functional Scale, the Hip Outcome Score, the Perth Hamstring Assessment, and the 12-Item Short Form Survey. Cohort-specific minimal clinically important difference was calculated. Return to sport and surgical satisfaction were included as secondary outcomes. Univariate analyses compared clinical outcomes. Sixty-two of 84 eligible patients met the inclusion criteria for this study, with a mean follow-up time of 23.2\u2009months (range 22.4-24.8). No significant differences were found between 1- and 2-year PROMs after PHR (P\u2009>\u2009.05). There were no statistically significant differences in the proportion of patients who achieved minimal clinically important difference at 1\u2009year versus 2\u2009years postoperatively, and these differences remained nonsignificant after disaggregating the data by sex (P\u2009>\u2009.05). After 1 year postoperatively, there were no significant additional improvements in the ability to return to sport (P\u2009=\u2009.371), sport level (P\u2009>\u2009.99), or percentage of return to sport (P\u2009=\u2009.961). No significant differences were found between 1- and 2-year PROMs after PHR. PROM scores, minimal clinically important difference achievement rates, return to sport, and surgical satisfaction outcomes were stable from 1 to 2 years postoperatively, with no clinically meaningful improvements observed in the second postoperative year. Level IV, retrospective case series.",
+   "doi": "10.1002/arj.70739",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43043623/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43017539",
    "title": "Physical Examination of Chronic Ankle Instability: Current Concepts.",
    "journal": "Orthop Res Rev",
@@ -1923,6 +1865,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43048706",
+   "title": "Relationship between global functional outcomes and patient-reported instability after arthroscopic anatomic lateral ankle ligament reconstruction: A midterm case series of 292 patients.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Wagner P",
+    "Fradet J",
+    "Vieira TD",
+    "Lopes R"
+   ],
+   "abstract": "To evaluate midterm patient-reported outcomes, return to sport (RTS) rates and instability-specific symptoms after arthroscopic anatomic lateral ankle ligament reconstruction (AALALR), and to evaluate the relationship between global functional recovery and perceived ankle stability. We retrospectively analysed 292 patients who underwent AALALR between January 2015 and May 2022, with a mean follow-up of 4.9\u2009\u00b1\u20091.8 years. Global outcomes were assessed using the foot and ankle ability measure (FAAM) and simple ankle value (SAV), while instability-specific perception was evaluated with the French Cumberland Ankle Instability Tool (CAIT-F). RTS, satisfaction and complications were also recorded. No objective postoperative laxity assessment was performed. Mean FAAM-ADL was 94.3\u2009\u00b1\u200912.0, FAAM-Sports 87.5\u2009\u00b1\u200920.4 and SAV 85.1\u2009\u00b1\u200917.4; 89.7% of patients returned to sport and 91.1% were satisfied. Overall, 104 patients (35.6%; 95% CI, 30.3-41.3) met the CAIT-F criterion for instability at follow-up (score \u226423/30). Patients with CAIT-F-defined instability had significantly lower FAAM and SAV scores and RTS rates (all p\u2009<\u20090.001), although most had returned to sport (79.8%) and were satisfied (81.7%). The CAIT-F correlated moderately with FAAM-activities of daily living (ADL), FAAM-Sports and SAV (Spearman \u03c1\u2009=\u20090.68-0.69) and receiver operating characteristic analysis showed imperfect agreement between global scores and CAIT-F-defined categories (area under the curve [AUC]: 0.82-0.85). The reoperation rate was 5.5%. AALALR provides high midterm satisfaction, favourable functional scores and favourable RTS rates. However, over one-third of patients reported current CAIT-F-defined instability symptoms. Global and instability-specific instruments are therefore complementary rather than interchangeable, and prospective studies including objective laxity assessment are needed. Level IV, case series.",
+   "doi": "10.1002/jeo2.70984",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048706/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42951409",
    "title": "Relative Energy Deficiency in Sport and its Implications for the Foot and Ankle Surgeon.",
    "journal": "Foot Ankle Clin",
@@ -1996,6 +1965,34 @@
     "Journal Article"
    ],
    "url": "https://pubmed.ncbi.nlm.nih.gov/43039307/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43048111",
+   "title": "Return to Sport and Risk Factors for Recurrence After Arthroscopic Anatomic Lateral Ankle Ligament Reconstruction.",
+   "journal": "Orthop J Sports Med",
+   "year": "2026",
+   "authors": [
+    "Moussa MK",
+    "Bogdan P",
+    "Valentin E",
+    "Meyer A",
+    "et al."
+   ],
+   "abstract": "Chronic lateral ankle instability (CLAI) often requires surgical stabilization when conservative management or primary repair fails. While arthroscopic anatomic reconstruction using tendon autograft is increasingly used, data on strict return-to-sport (RTS) metrics and risk factors for recurrence in high-demand populations remain limited. To evaluate the rate and timing of RTS, functional outcomes, and factors associated with failure after arthroscopic anatomic lateral ankle ligament reconstruction using a gracilis autograft. Case-control study; Level of evidence, 3. A total of 101 patients undergoing arthroscopic anatomic reconstruction with gracilis autograft for CLAI were evaluated at a minimum follow-up of 2 years. The primary outcome was RTS, defined as the resumption of full athletic activity. Secondary outcomes included return to preinjury level, recurrence of instability, rerupture, and functional assessment using the Foot and Ankle Outcome and Foot and Ankle Ability Measure (FAAM) scores. Risk factors for failure to RTS and recurrence were analyzed using univariate regression and multivariate stepwise logistic regression. The overall RTS rate was 71.1% at a median delay of 6 months (5-8.5 months). However, only 45.6% of patients returned to their specific preinjury level. Multivariable analysis identified elevated body mass index (BMI) (P = .014) as an independent factor associated with failure to return to the preinjury level, while higher preoperative FAAM-Activities of Daily Living scores (P = .002) were factors associated with success. Significant improvements were observed in all functional scores at the final follow-up (P < .001). A confirmed recurrence of instability occurred in 11.9% of patients, comprising 9.9% (10/101) with ankle sprains and only 2% (2/101) with graft rupture. In univariate analysis, younger age (P = .007) and participation in pivot-contact sports (P = .040) were associated with recurrent instability. In multivariable analysis, younger age emerged as an independent factor associated with recurrent instability (P = .040). Arthroscopic anatomic reconstruction provided significant functional improvement with a low graft rupture rate (2%). However, returning to the preinjury level proved challenging (45.6%), particularly for patients with lower preoperative function or elevated BMI. Younger age was identified as an independent risk factor for recurrent sprains.",
+   "doi": "10.1177/23259671261486661",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43048111/",
    "matched": [
     {
      "id": "return-to-play",
