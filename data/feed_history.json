@@ -1,5 +1,55 @@
 [
  {
+  "pmid": "43063934",
+  "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
+  "journal": "Int J Sports Physiol Perform",
+  "year": "2026",
+  "authors": [
+   "Shu L",
+   "Dong H",
+   "Chen J",
+   "Sun X",
+   "et al."
+  ],
+  "abstract": "Monitoring energy expenditure (EE) in tennis is complicated by its intermittent and technically variable movements. This study identified the optimal accelerometer wearing position for EE prediction and examined the contribution of additional covariates. Thirty-eight right-handed national second-class tennis players (11 females, 27 males) performed 4 tennis-specific technical movements with accelerometers worn at 9 positions. Criterion EE was measured using Metamax3B portable metabolic analyzer. Associations of accelerometer-derived variables with criterion EE were examined through Pearson or Spearman correlation analyses. Candidate covariates were screened using Akaike information criterion-based backward selection. Three linear mixed-effects models were evaluated per position with participant as a random intercept. Variance inflation factors, leave-one-subject-out cross-validation, and Bland-Altman analyses assessed multicollinearity, predictive performance, and agreement, respectively. Lower-back and ankle positions showed more frequent significant correlations with criterion EE. Backward selection retained heart rate, basal metabolic rate, sex, and movement type across positions; all primary-model variance inflation factors were below 3. Across the 3 models, marginal Rm2 of lower back ranked first (.787) and of the dominant-side ankle second (.749). In primary models, lower back had the lowest cross-validated root mean square error (.810). Bland-Altman mean differences were close to zero in top-performing models, while proportional-bias slopes were significantly negative at all positions. Lower back represents the optimal accelerometer placement for model-based EE monitoring in tennis, and incorporating participant variables and movement type enhances prediction accuracy. These findings support sport-specific sensor placement and individualized calibration strategies to improve training load monitoring and nutritional planning.",
+  "doi": "10.1123/ijspp.2026-0088",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063934/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-21T20:13:33Z"
+ },
+ {
+  "pmid": "43064509",
+  "title": "Outcomes of a Multidisciplinary Lower Limb Fracture Care Pathway in a Tertiary Hospital: A 3-Year Experience of 1073 Geriatric Patients.",
+  "journal": "Orthop Surg",
+  "year": "2026",
+  "authors": [
+   "Zhang C",
+   "Tan T",
+   "Chu Z",
+   "Lee-Moeung C",
+   "et al."
+  ],
+  "abstract": "Geriatric lower limb fractures place a significant burden on tertiary healthcare systems. This study evaluates the outcomes of a fast-track, multidisciplinary lower limb fracture care pathway implemented at a tertiary hospital in Singapore. This study aims to describe and compare the functional outcomes, mortality, and the comparative impact of time to surgery (TTS) across different geriatric lower limb fractures (knee, femur shaft, and ankle) within the pathway, using hip fractures as a benchmark. A retrospective cohort study was conducted of patients \u2265\u200965\u2009years old with non-pathological, surgically-treated lower limb fractures admitted to a tertiary institution between December 2020 and April 2024. Primary outcomes included postoperative functional status assessed via Modified Barthel Index (MBI) scores and perioperative complications, while the secondary outcome was 12-month mortality. Multivariate regression analyses evaluated predictors influencing these outcomes. The cohort predominantly consisted of hip fracture patients (82.2%), with knee (7.3%), ankle (5.4%), and femur shaft (5.1%) fractures comprising smaller groups. At 12\u2009months, there were no significant differences in mortality across fracture types (overall mortality: 7.2%). Functional outcomes, measured by MBI scores, showed significant improvement over 12\u2009months, with no significant difference between fracture types (p\u2009=\u20090.32). Multivariate analysis identified younger age, female gender, higher pre-fracture MBI scores, and lower clinical frailty scores as positive predictors of 12-month functional outcomes. Early surgery (<\u200948\u2009h) was significantly associated with better 12-month functional outcomes in knee fracture patients. TTS (<\u200948\u2009h) significantly influenced mortality outcomes in hip fractures only. These findings describe comparable functional outcomes and mortality across fracture types and outcomes observed for a broader range of lower limb injuries beyond hip fractures are favorable under a coordinated multidisciplinary care pathway.",
+  "doi": "10.1111/os.70475",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064509/",
+  "matched": [
+   {
+    "id": "burden-cost",
+    "label": "Injury burden, cost & time loss",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-21T20:13:33Z"
+ },
+ {
   "pmid": "43058885",
   "title": "Federated learning for privacy-preserving collaborative health risk classification using wearable sensor data: validation study with elite football training load monitoring.",
   "journal": "BMC Sports Sci Med Rehabil",
