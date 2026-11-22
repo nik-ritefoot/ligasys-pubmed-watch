@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T20:13:33+00:00",
+ "generated": "2026-11-22T20:27:52+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,30 +65,30 @@
   }
  ],
  "counts": {
-  "total": 88,
+  "total": 90,
   "new": 2,
   "research": 18,
-  "fieldnotes": 70
+  "fieldnotes": 72
  },
  "records": [
   {
-   "pmid": "43063934",
-   "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
+   "pmid": "43067340",
+   "title": "\"Train as You Play\" or \"Play as You Train\"? Rethinking the Role of Match Data in Guiding Training Prescription.",
    "journal": "Int J Sports Physiol Perform",
    "year": "2026",
    "authors": [
-    "Shu L",
-    "Dong H",
-    "Chen J",
-    "Sun X",
+    "Brocherie F",
+    "Irid Y",
+    "Bourgois JG",
+    "Beard A",
     "et al."
    ],
-   "abstract": "Monitoring energy expenditure (EE) in tennis is complicated by its intermittent and technically variable movements. This study identified the optimal accelerometer wearing position for EE prediction and examined the contribution of additional covariates. Thirty-eight right-handed national second-class tennis players (11 females, 27 males) performed 4 tennis-specific technical movements with accelerometers worn at 9 positions. Criterion EE was measured using Metamax3B portable metabolic analyzer. Associations of accelerometer-derived variables with criterion EE were examined through Pearson or Spearman correlation analyses. Candidate covariates were screened using Akaike information criterion-based backward selection. Three linear mixed-effects models were evaluated per position with participant as a random intercept. Variance inflation factors, leave-one-subject-out cross-validation, and Bland-Altman analyses assessed multicollinearity, predictive performance, and agreement, respectively. Lower-back and ankle positions showed more frequent significant correlations with criterion EE. Backward selection retained heart rate, basal metabolic rate, sex, and movement type across positions; all primary-model variance inflation factors were below 3. Across the 3 models, marginal Rm2 of lower back ranked first (.787) and of the dominant-side ankle second (.749). In primary models, lower back had the lowest cross-validated root mean square error (.810). Bland-Altman mean differences were close to zero in top-performing models, while proportional-bias slopes were significantly negative at all positions. Lower back represents the optimal accelerometer placement for model-based EE monitoring in tennis, and incorporating participant variables and movement type enhances prediction accuracy. These findings support sport-specific sensor placement and individualized calibration strategies to improve training load monitoring and nutritional planning.",
-   "doi": "10.1123/ijspp.2026-0088",
+   "abstract": "In contemporary high-performance team sports, the principle \"train as you play\" has become central to design sport-specific conditioning programs, aiming to replicate match demands in training to optimize player readiness. While wearable-based data have improved the understanding of match demands, an overreliance on these metrics for training prescription may lead to misinterpretation of players' needs and potentially contribute to detraining or increased injury risk. This invited commentary critically evaluates the \"train as you play\" paradigm and propose an integrated framework that aligns match analysis with evidence-based training principles (ie, \"play as you train\" paradigm). Match-derived metrics represent the outcome of complex, context-dependent interactions including tactical decisions, opponent behavior, and psychological factors. Consequently, solely replicating match loads may overlook context-dependent individual variability\u00a0and the nonlinear nature of physiological adaptation. Effective load monitoring should therefore integrate external workload indicators with concomitant internal responses, recovery markers, and neuromuscular assessments to better evaluate how players tolerate and adapt to training stress. The \"train as you play\" and \"play as you train\" paradigms are complementary rather than opposing, requiring coaches and practitioners to integrate match data with physiological, subjective, and contextual insights in an interpretative rather than imitative manner to best prepare players. Such a balanced approach can optimize adaptation, enhance performance, and reduce injury risk, ultimately fostering fatigue-resistant players who not only \"train as they play\" but also \"play better because of how they train.\"",
+   "doi": "10.1123/ijspp.2026-0281",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43063934/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067340/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -100,27 +100,26 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43064509",
-   "title": "Outcomes of a Multidisciplinary Lower Limb Fracture Care Pathway in a Tertiary Hospital: A 3-Year Experience of 1073 Geriatric Patients.",
-   "journal": "Orthop Surg",
+   "pmid": "43067337",
+   "title": "Immediate Effects of Kinesiotaping on Lower Limb Biomechanics and Interlimb Symmetry in Return-to-Sport Athletes After ACL Reconstruction.",
+   "journal": "J Appl Biomech",
    "year": "2026",
    "authors": [
-    "Zhang C",
-    "Tan T",
-    "Chu Z",
-    "Lee-Moeung C",
-    "et al."
+    "Zheng J",
+    "Wei Z",
+    "Teng J",
+    "Lin X"
    ],
-   "abstract": "Geriatric lower limb fractures place a significant burden on tertiary healthcare systems. This study evaluates the outcomes of a fast-track, multidisciplinary lower limb fracture care pathway implemented at a tertiary hospital in Singapore. This study aims to describe and compare the functional outcomes, mortality, and the comparative impact of time to surgery (TTS) across different geriatric lower limb fractures (knee, femur shaft, and ankle) within the pathway, using hip fractures as a benchmark. A retrospective cohort study was conducted of patients \u2265\u200965\u2009years old with non-pathological, surgically-treated lower limb fractures admitted to a tertiary institution between December 2020 and April 2024. Primary outcomes included postoperative functional status assessed via Modified Barthel Index (MBI) scores and perioperative complications, while the secondary outcome was 12-month mortality. Multivariate regression analyses evaluated predictors influencing these outcomes. The cohort predominantly consisted of hip fracture patients (82.2%), with knee (7.3%), ankle (5.4%), and femur shaft (5.1%) fractures comprising smaller groups. At 12\u2009months, there were no significant differences in mortality across fracture types (overall mortality: 7.2%). Functional outcomes, measured by MBI scores, showed significant improvement over 12\u2009months, with no significant difference between fracture types (p\u2009=\u20090.32). Multivariate analysis identified younger age, female gender, higher pre-fracture MBI scores, and lower clinical frailty scores as positive predictors of 12-month functional outcomes. Early surgery (<\u200948\u2009h) was significantly associated with better 12-month functional outcomes in knee fracture patients. TTS (<\u200948\u2009h) significantly influenced mortality outcomes in hip fractures only. These findings describe comparable functional outcomes and mortality across fracture types and outcomes observed for a broader range of lower limb injuries beyond hip fractures are favorable under a coordinated multidisciplinary care pathway.",
-   "doi": "10.1111/os.70475",
+   "abstract": "Residual biomechanical deficits may persist during landing after ACL reconstruction despite meeting return-to-sport criteria, and the immediate effects of kinesiotaping (KT) remain unclear. This study investigated bilateral lower limb biomechanics and the immediate effects of KT in 18 return-to-sport athletes after ACL reconstruction. Three-dimensional motion capture and dual force plates were used during the landing absorption phase. Statistical parametric mapping and 2-way repeated-measures analysis of variance were applied for analysis, and the limb symmetry index was calculated to assess interlimb symmetry. The uninvolved limb demonstrated greater vertical ground reaction force, loading rate, knee and ankle joint work (P < .05), hip external rotation moment (P = .025), and knee flexion moment (P < .001) than the involved limb. KT reduced knee varus and external rotation angles and internal knee valgus moment in the involved limb (P < .05) and increased bilateral hip work contribution (P = .026). However, KT did not significantly improve interlimb symmetry (P > .05). ACL reconstruction athletes meeting return-to-sport criteria continue to exhibit bilateral biomechanical asymmetries during landing. KT improved frontal- and transverse-plane knee control and promoted a more proximal energy absorption strategy, but restoring interlimb symmetry requires comprehensive neuromuscular rehabilitation.",
+   "doi": "10.1123/jab.2026-0233",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43064509/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43067337/",
    "matched": [
     {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -1697,6 +1696,62 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43063934",
+   "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
+   "journal": "Int J Sports Physiol Perform",
+   "year": "2026",
+   "authors": [
+    "Shu L",
+    "Dong H",
+    "Chen J",
+    "Sun X",
+    "et al."
+   ],
+   "abstract": "Monitoring energy expenditure (EE) in tennis is complicated by its intermittent and technically variable movements. This study identified the optimal accelerometer wearing position for EE prediction and examined the contribution of additional covariates. Thirty-eight right-handed national second-class tennis players (11 females, 27 males) performed 4 tennis-specific technical movements with accelerometers worn at 9 positions. Criterion EE was measured using Metamax3B portable metabolic analyzer. Associations of accelerometer-derived variables with criterion EE were examined through Pearson or Spearman correlation analyses. Candidate covariates were screened using Akaike information criterion-based backward selection. Three linear mixed-effects models were evaluated per position with participant as a random intercept. Variance inflation factors, leave-one-subject-out cross-validation, and Bland-Altman analyses assessed multicollinearity, predictive performance, and agreement, respectively. Lower-back and ankle positions showed more frequent significant correlations with criterion EE. Backward selection retained heart rate, basal metabolic rate, sex, and movement type across positions; all primary-model variance inflation factors were below 3. Across the 3 models, marginal Rm2 of lower back ranked first (.787) and of the dominant-side ankle second (.749). In primary models, lower back had the lowest cross-validated root mean square error (.810). Bland-Altman mean differences were close to zero in top-performing models, while proportional-bias slopes were significantly negative at all positions. Lower back represents the optimal accelerometer placement for model-based EE monitoring in tennis, and incorporating participant variables and movement type enhances prediction accuracy. These findings support sport-specific sensor placement and individualized calibration strategies to improve training load monitoring and nutritional planning.",
+   "doi": "10.1123/ijspp.2026-0088",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43063934/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43064509",
+   "title": "Outcomes of a Multidisciplinary Lower Limb Fracture Care Pathway in a Tertiary Hospital: A 3-Year Experience of 1073 Geriatric Patients.",
+   "journal": "Orthop Surg",
+   "year": "2026",
+   "authors": [
+    "Zhang C",
+    "Tan T",
+    "Chu Z",
+    "Lee-Moeung C",
+    "et al."
+   ],
+   "abstract": "Geriatric lower limb fractures place a significant burden on tertiary healthcare systems. This study evaluates the outcomes of a fast-track, multidisciplinary lower limb fracture care pathway implemented at a tertiary hospital in Singapore. This study aims to describe and compare the functional outcomes, mortality, and the comparative impact of time to surgery (TTS) across different geriatric lower limb fractures (knee, femur shaft, and ankle) within the pathway, using hip fractures as a benchmark. A retrospective cohort study was conducted of patients \u2265\u200965\u2009years old with non-pathological, surgically-treated lower limb fractures admitted to a tertiary institution between December 2020 and April 2024. Primary outcomes included postoperative functional status assessed via Modified Barthel Index (MBI) scores and perioperative complications, while the secondary outcome was 12-month mortality. Multivariate regression analyses evaluated predictors influencing these outcomes. The cohort predominantly consisted of hip fracture patients (82.2%), with knee (7.3%), ankle (5.4%), and femur shaft (5.1%) fractures comprising smaller groups. At 12\u2009months, there were no significant differences in mortality across fracture types (overall mortality: 7.2%). Functional outcomes, measured by MBI scores, showed significant improvement over 12\u2009months, with no significant difference between fracture types (p\u2009=\u20090.32). Multivariate analysis identified younger age, female gender, higher pre-fracture MBI scores, and lower clinical frailty scores as positive predictors of 12-month functional outcomes. Early surgery (<\u200948\u2009h) was significantly associated with better 12-month functional outcomes in knee fracture patients. TTS (<\u200948\u2009h) significantly influenced mortality outcomes in hip fractures only. These findings describe comparable functional outcomes and mortality across fracture types and outcomes observed for a broader range of lower limb injuries beyond hip fractures are favorable under a coordinated multidisciplinary care pathway.",
+   "doi": "10.1111/os.70475",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43064509/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42994214",
    "title": "Outcomes of open and endoscopic excision of a symptomatic os trigonum in athletes: a systematic review with exploratory analysis of prognostic factors.",
    "journal": "Foot (Edinb)",
@@ -2034,7 +2089,7 @@
   },
   {
    "pmid": "43039307",
-   "title": "Return to Sport and Clinical Outcomes after Surgical Stabilization of Chronic Ankle Instability in Athletes.",
+   "title": "Return to sport and clinical outcomes after surgical stabilization of chronic ankle instability in athletes.",
    "journal": "J Foot Ankle Surg",
    "year": "2026",
    "authors": [
@@ -2044,7 +2099,7 @@
     "Berbery MG",
     "et al."
    ],
-   "abstract": "Chronic ankle instability (CAI) can compromise athletic performance and delay return to competition. Although primary ligament repair and ligament reconstruction are valid surgical options, comparative data remains limited. The primary aim was to evaluate overall return-to-sport outcomes after surgical stabilization of chronic ankle instability in athletes. The secondary aim was to compare return-to-sport and postoperative clinical outcomes between direct ligament repair and ligament reconstruction. Comparative retrospective study METHODS: This comparative cohort study included 54 athletes who underwent surgical stabilization for CAI between 2018 and 2024. Surgical procedures were categorized as primary repair and ligament reconstruction. The primary outcomes were RTS status and time to RTS. Secondary outcomes included postoperative Foot and Ankle Ability Measure (FAAM) scores and residual complaints. The mean age was 25.6 \u00b1 6.9 years, and 48% of patients were football players. The median interval from the latest injury to surgery was 6.0 months. RTS status was available for 49 of the 54 athletes (91%). Of these, 48 (98%) returned to sport at a mean time of 5.3 months (range 2.0 to 16.0), while one athlete did not return to sport. Postoperative functional outcomes were favorable, with mean FAAM activities of daily living and sport scores of 96.2 \u00b1 8.3 and 89.7 \u00b1 20.4, respectively. No statistically significant differences were observed among surgical groups in RTS status, time to RTS, FAAM scores, or residual complaints. Surgical stabilization of chronic ankle instability was associated with favorable postoperative scores and a high RTS rate among athletes with available outcome data. The sample size and overall study design preclude conclusions regarding the equivalence or superiority of repair versus reconstruction.",
+   "abstract": "Chronic ankle instability (CAI) can compromise athletic performance and delay return to competition. Although primary ligament repair and ligament reconstruction are valid surgical options, comparative data remains limited. The primary aim was to evaluate overall return-to-sport outcomes after surgical stabilization of chronic ankle instability in athletes. The secondary aim was to compare return-to-sport and postoperative clinical outcomes between direct ligament repair and ligament reconstruction. Comparative retrospective study METHODS: This comparative cohort study included 54 athletes who underwent surgical stabilization for CAI between 2018 and 2024. Surgical procedures were categorized as primary repair and ligament reconstruction. The primary outcomes were RTS status and time to RTS. Secondary outcomes included postoperative Foot and Ankle Ability Measure (FAAM) scores and residual complaints. The mean age was 25.6\u202f\u00b1\u202f6.9 years, and 48% of patients were football players. The median interval from the latest injury to surgery was 6.0 months. RTS status was available for 49 of the 54 athletes (91%). Of these, 48 (98%) returned to sport at a mean time of 5.3 months (range 2.0 to 16.0), while one athlete did not return to sport. Postoperative functional outcomes were favorable, with mean FAAM activities of daily living and sport scores of 96.2\u202f\u00b1\u202f8.3 and 89.7\u202f\u00b1\u202f20.4, respectively. No statistically significant differences were observed among surgical groups in RTS status, time to RTS, FAAM scores, or residual complaints. Surgical stabilization of chronic ankle instability was associated with favorable postoperative scores and a high RTS rate among athletes with available outcome data. The sample size and overall study design preclude conclusions regarding the equivalence or superiority of repair versus reconstruction.",
    "doi": "10.1053/j.jfas.2026.11.006",
    "pubtypes": [
     "Journal Article"

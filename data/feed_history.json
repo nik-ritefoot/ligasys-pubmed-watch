@@ -1,5 +1,54 @@
 [
  {
+  "pmid": "43067340",
+  "title": "\"Train as You Play\" or \"Play as You Train\"? Rethinking the Role of Match Data in Guiding Training Prescription.",
+  "journal": "Int J Sports Physiol Perform",
+  "year": "2026",
+  "authors": [
+   "Brocherie F",
+   "Irid Y",
+   "Bourgois JG",
+   "Beard A",
+   "et al."
+  ],
+  "abstract": "In contemporary high-performance team sports, the principle \"train as you play\" has become central to design sport-specific conditioning programs, aiming to replicate match demands in training to optimize player readiness. While wearable-based data have improved the understanding of match demands, an overreliance on these metrics for training prescription may lead to misinterpretation of players' needs and potentially contribute to detraining or increased injury risk. This invited commentary critically evaluates the \"train as you play\" paradigm and propose an integrated framework that aligns match analysis with evidence-based training principles (ie, \"play as you train\" paradigm). Match-derived metrics represent the outcome of complex, context-dependent interactions including tactical decisions, opponent behavior, and psychological factors. Consequently, solely replicating match loads may overlook context-dependent individual variability\u00a0and the nonlinear nature of physiological adaptation. Effective load monitoring should therefore integrate external workload indicators with concomitant internal responses, recovery markers, and neuromuscular assessments to better evaluate how players tolerate and adapt to training stress. The \"train as you play\" and \"play as you train\" paradigms are complementary rather than opposing, requiring coaches and practitioners to integrate match data with physiological, subjective, and contextual insights in an interpretative rather than imitative manner to best prepare players. Such a balanced approach can optimize adaptation, enhance performance, and reduce injury risk, ultimately fostering fatigue-resistant players who not only \"train as they play\" but also \"play better because of how they train.\"",
+  "doi": "10.1123/ijspp.2026-0281",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067340/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-22T20:27:52Z"
+ },
+ {
+  "pmid": "43067337",
+  "title": "Immediate Effects of Kinesiotaping on Lower Limb Biomechanics and Interlimb Symmetry in Return-to-Sport Athletes After ACL Reconstruction.",
+  "journal": "J Appl Biomech",
+  "year": "2026",
+  "authors": [
+   "Zheng J",
+   "Wei Z",
+   "Teng J",
+   "Lin X"
+  ],
+  "abstract": "Residual biomechanical deficits may persist during landing after ACL reconstruction despite meeting return-to-sport criteria, and the immediate effects of kinesiotaping (KT) remain unclear. This study investigated bilateral lower limb biomechanics and the immediate effects of KT in 18 return-to-sport athletes after ACL reconstruction. Three-dimensional motion capture and dual force plates were used during the landing absorption phase. Statistical parametric mapping and 2-way repeated-measures analysis of variance were applied for analysis, and the limb symmetry index was calculated to assess interlimb symmetry. The uninvolved limb demonstrated greater vertical ground reaction force, loading rate, knee and ankle joint work (P < .05), hip external rotation moment (P = .025), and knee flexion moment (P < .001) than the involved limb. KT reduced knee varus and external rotation angles and internal knee valgus moment in the involved limb (P < .05) and increased bilateral hip work contribution (P = .026). However, KT did not significantly improve interlimb symmetry (P > .05). ACL reconstruction athletes meeting return-to-sport criteria continue to exhibit bilateral biomechanical asymmetries during landing. KT improved frontal- and transverse-plane knee control and promoted a more proximal energy absorption strategy, but restoring interlimb symmetry requires comprehensive neuromuscular rehabilitation.",
+  "doi": "10.1123/jab.2026-0233",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067337/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-22T20:27:52Z"
+ },
+ {
   "pmid": "43063934",
   "title": "Optimal Wearing Position of Accelerometers for Monitoring Energy Expenditure in Tennis.",
   "journal": "Int J Sports Physiol Perform",
