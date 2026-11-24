@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T01:11:22+00:00",
+ "generated": "2026-11-24T23:15:04+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,12 +65,122 @@
   }
  ],
  "counts": {
-  "total": 85,
-  "new": 0,
-  "research": 15,
-  "fieldnotes": 70
+  "total": 89,
+  "new": 4,
+  "research": 16,
+  "fieldnotes": 73
  },
  "records": [
+  {
+   "pmid": "43073205",
+   "title": "An Alert Is Not a Referral: Toward Evidence-Grounded Multimodal Reasoning in Gastric Cancer Screening.",
+   "journal": "J Gastroenterol Hepatol",
+   "year": "2026",
+   "authors": [
+    "Fan L",
+    "Chen S"
+   ],
+   "abstract": "Accurate identification of near-fall events is essential for early fall-risk assessment and prevention in older adults. However, translating laboratory-trained machine learning algorithms into real-world settings remains challenging because abnormal gait patterns do not necessarily represent genuine near-fall events. This correspondence highlights the distinction between sensor-detected gait perturbations and clinically meaningful losses of balance, emphasizing the limitations of conventional signal-based classification and the absence of event-level validation. We propose a context-grounded multimodal framework integrating wearable sensor data with large language model-derived information from patient narratives, caregiver reports, and clinical documentation. Such integration could support contextual event interpretation, distinguish habitual gait instability from transient balance disturbances, and facilitate clinically adjudicated near-fall identification. We further emphasize the importance of prospective validation, uncertainty-aware prediction, subgroup fairness, and clinically relevant performance metrics. Advancing from isolated movement classification toward context-aware, clinically validated event detection may improve individualized fall-risk prediction and support more effective preventive interventions in geriatric care.",
+   "doi": "10.1111/jgh.70892",
+   "pubtypes": [
+    "Letter"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073205/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43073698",
+   "title": "Bilateral gait biomechanics in individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction: a cross-sectional study.",
+   "journal": "J Orthop Surg Res",
+   "year": "2026",
+   "authors": [
+    "Tu J",
+    "Li M",
+    "Sun Z",
+    "Xiu Y",
+    "et al."
+   ],
+   "abstract": "To investigate whether bilateral gait biomechanical characteristics differ among individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction (ACLR) and healthy controls. This cross-sectional observational study included 36 individuals who were \u2265\u200912 months post-ACLR and 18 healthy controls. Individuals after ACLR were classified into high- and low-kinesiophobia groups using a predefined TSK-17 cutoff score of 40. A three-dimensional motion capture system synchronized with force platforms was used to quantify bilateral gait biomechanics during self-selected walking, including spatiotemporal, kinematic, and kinetic parameters. Limb symmetry indices (LSIs) were calculated for prespecified bilateral gait variables, and exploratory analyses examined associations between continuous TSK-17 scores and biomechanical outcomes. Compared with healthy controls, individuals after ACLR demonstrated reduced knee flexion-extension range of motion (ROM), with greater reductions in the high-kinesiophobia group than in the low-kinesiophobia group. Specifically, the involved limb had a 10.0\u00b0 lower knee flexion-extension ROM in the high-kinesiophobia group than in the low-kinesiophobia group (95% CI 5.8-14.2\u00b0). The contralateral limb also showed reduced knee flexion-extension ROM compared with healthy controls in both ACLR groups (high-kinesiophobia group: mean difference\u2009-\u20097.3\u00b0, 95% CI - 10.7 to -\u20093.9\u00b0; low-kinesiophobia group: mean difference\u2009-\u20096.4\u00b0, 95% CI - 9.8 to -\u20093.0\u00b0). Differences in selected joint moments, including hip adduction, knee varus-valgus, and ankle inversion-eversion moments, were joint- and limb-specific among groups. Knee flexion-extension ROM LSI differed among groups, with greater deviations from 100% observed in both ACLR groups than in healthy controls, indicating differences in numerical bilateral symmetry estimates. Exploratory analyses identified no consistent associations between continuous TSK-17 scores and gait biomechanical variables after correction for multiple comparisons. Varying levels of kinesiophobia after ACLR were associated with differences in bilateral gait biomechanics, particularly knee flexion-extension ROM. TSK-17 scores alone may not be sufficient to identify individual gait abnormalities; therefore, integrating psychological assessment with objective gait evaluation may provide a more comprehensive basis for individualized rehabilitation planning.",
+   "doi": "10.1186/s13018-026-07151-1",
+   "pubtypes": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073698/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "43072600",
+   "title": "Recovery Kinetics After Particulated Autologous Cartilage With Platelet-Rich Plasma for Osteochondral Lesions of the Talus in Athletes: Functional Scores Track Function but Show Limited Return-to-Sport Prediction.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "Barastegui D",
+    "Velasco P",
+    "Ayestaran I",
+    "Vazquez M",
+    "et al."
+   ],
+   "abstract": "Talar cartilage repair is reported through 12-month endpoints; first-year recovery, a 6-month assessment's predictive value, and sex differences remain unknown. To characterize recovery after PACI-PRP for talar osteochondral lesions in athletes and whether 6-month scores predict 12-month function and return to sport (RTS). A secondary analysis of a prospective registry included 50 athletes with talar-dome lesions. FADI (primary), VAS pain, and Karlsson-Petersson scores at baseline, 6, and 12 months were analyzed with the Friedman test and mixed-effects models with a time-by-sex interaction. Front-loading (the share of the 12-month change reached by 6 months), correlation with 12-month scores, and the ROC-curve area (AUC) for RTS were computed. All outcomes improved (p < 0.001). Recovery was front-loaded, with 67% (FADI), 71% (VAS), and 75% (Karlsson) of the 12-month gain by 6 months. Six-month scores correlated moderately with 12-month function (r\u202f=\u202f0.44 to 0.58) but did not usefully discriminate RTS (AUC, 0.41 to 0.61). Early responders (MCID by 6 months) had a higher but non-significant RTS rate than late responders (20/21 vs 21/28; p\u202f=\u202f0.115), with comparable 12-month function (86 vs 83; p\u202f=\u202f0.242). No significant sex differences were identified (interaction p\u202f=\u202f0.234 and 0.070). Recovery after PACI-PRP is front-loaded with no significant sex differences. Six-month scores forecast 1-year function moderately and did not usefully predict RTS, indicating that return to play depends on factors beyond joint-specific function - psychological readiness and sport-specific load - warranting prospective study. Prognostic study, Level IV.",
+   "doi": "10.1053/j.jfas.2026.11.010",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43072600/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43075119",
+   "title": "Surgically treated major lower-extremity tendon injuries in NBA players: a selected public-source case series.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Maman D",
+    "Ginesin E",
+    "Steinfeld Y",
+    "Yonai Y",
+    "et al."
+   ],
+   "abstract": "Major lower-extremity tendon injuries can interrupt professional basketball careers. We updated a selected public-source case series with extended follow-up. Public injury records from 2000 to 2001 through 2025-2026 were reconciled with NBA game logs and season statistics. In 33 events among 32 players, return meant a later regular-season or postseason NBA appearance. Calendar days to the first postinjury game were calculated when both dates were verified. Among returners with separable season statistics, prior-season and first-return-season measures were compared, including points per 48\u2005min. Twenty-eight of 33 events (84.8%, 95% Wilson CI: 69.1%-93.3%) had an observed NBA return by cutoff. Time to return was calculable for 27 of 28 returners: mean 12.2\u2009\u00b1\u20095.7 months (95% CI: 9.9-14.4; range 5.5-30.1). In 27 paired seasons, minutes per game changed by -8.45 (95% CI: -11.24 to -5.65), and points per 48\u2005min changed by -3.00 (95% CI: -4.58 to -1.42). Among 23 events eligible for three-season follow-up, 13 had an NBA appearance in the third scheduled season. In this selected series, postinjury NBA participation was common, but time to first appearance varied substantially; first-return-season workload and minute-adjusted scoring were lower among returners. These descriptive findings do not provide a league-wide prognosis or isolate the injury effect.",
+   "doi": "10.3389/fspor.2026.1955140",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075119/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
   {
    "pmid": "43067340",
    "title": "\"Train as You Play\" or \"Play as You Train\"? Rethinking the Role of Match Data in Guiding Training Prescription.",
