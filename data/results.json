@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T23:15:04+00:00",
+ "generated": "2026-11-25T22:43:16+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,31 +65,74 @@
   }
  ],
  "counts": {
-  "total": 89,
-  "new": 4,
-  "research": 16,
-  "fieldnotes": 73
+  "total": 92,
+  "new": 8,
+  "research": 15,
+  "fieldnotes": 77
  },
  "records": [
   {
-   "pmid": "43073205",
-   "title": "An Alert Is Not a Referral: Toward Evidence-Grounded Multimodal Reasoning in Gastric Cancer Screening.",
-   "journal": "J Gastroenterol Hepatol",
+   "pmid": "43081621",
+   "title": "Biomechanical Correlates of Soccer-Related Lower-Extremity Injury Vulnerability with Foot-Ankle and Footwear-Surface Implications: Biomechanical Correlates of Soccer Injury Vulnerability.",
+   "journal": "J Am Podiatr Med Assoc",
    "year": "2026",
    "authors": [
-    "Fan L",
-    "Chen S"
+    "Luo W",
+    "Pan M",
+    "Dong Z",
+    "Wang Y",
+    "et al."
    ],
-   "abstract": "Accurate identification of near-fall events is essential for early fall-risk assessment and prevention in older adults. However, translating laboratory-trained machine learning algorithms into real-world settings remains challenging because abnormal gait patterns do not necessarily represent genuine near-fall events. This correspondence highlights the distinction between sensor-detected gait perturbations and clinically meaningful losses of balance, emphasizing the limitations of conventional signal-based classification and the absence of event-level validation. We propose a context-grounded multimodal framework integrating wearable sensor data with large language model-derived information from patient narratives, caregiver reports, and clinical documentation. Such integration could support contextual event interpretation, distinguish habitual gait instability from transient balance disturbances, and facilitate clinically adjudicated near-fall identification. We further emphasize the importance of prospective validation, uncertainty-aware prediction, subgroup fairness, and clinically relevant performance metrics. Advancing from isolated movement classification toward context-aware, clinically validated event detection may improve individualized fall-risk prediction and support more effective preventive interventions in geriatric care.",
-   "doi": "10.1111/jgh.70892",
+   "abstract": "Background: Soccer places repeated high-intensity mechanical demands on the lower extremities, and lower-limb injuries contribute substantially to the overall injury burden. This systematic review synthesised contemporary evidence on mechanism-relevant biomechanical correlates of lower-extremity injury vulnerability in soccer, including intrinsic neuromuscular/biomechanical characteristics and extrinsic boundary conditions that were examined in relation to injury endpoints and/or injury-mechanism-relevant surrogate outcomes. Methods: Electronic searches of PubMed, Web of Science, Google Scholar, and the Directory of Open Access Journals (DOAJ) were conducted for studies published between 1 January 2021 and 1 April 2026 using Boolean combinations of terms related to soccer/football, lower-extremity injury, and biomechanics/neuromuscular control. PubMed and Web of Science were used as the primary databases, while Google Scholar and DOAJ served as supplementary sources. No language restrictions were applied. Records were managed in Mendeley (v2.144.0), and methodological quality was appraised using the Modified Downs and Black Checklist. Twenty studies met the inclusion criteria and were included in the qualitative synthesis. Results: Lower-extremity injury vulnerability appeared to reflect multiple interacting intrinsic and extrinsic factors under soccer-specific exposure. Intrinsic correlates most frequently examined included neuromuscular control and motor coordination, fatigue-related declines in performance and movement execution, and previous injury/ACLR status, with task-specific alterations reported in cutting, landing, sprinting, and kicking mechanics and/or strength/asymmetry indices. Sex-related differences were also reported. Extrinsic boundary conditions included footwear and playing-surface properties, particularly stiffness and traction, which may influence foot-ground interaction, ankle loading, and ankle-knee mechanical coupling, as well as positional demands associated with different exposure profiles. Conclusions: Overall, the evidence supports an integrated approach to injury-vulnerability management that combines neuromuscular training, fatigue/load monitoring, and context-specific consideration of footwear-surface conditions, with particular relevance to foot-ankle stability and load transmission during soccer-specific movements. However, most included studies quantified surrogate outcomes rather than prospective injury incidence, and inferences should be interpreted accordingly.",
+   "doi": "10.3390/japma116060098",
    "pubtypes": [
-    "Letter"
+    "Journal Article",
+    "Systematic Review",
+    "Review"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43073205/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43081621/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "footwear-interface",
+     "label": "Footwear / shoe-surface interface & traction",
+     "bucket": "research"
+    },
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "research"
+  },
+  {
+   "pmid": "43081117",
+   "title": "Effects of Urinary Sex Hormones during the Menstrual Cycle on Anterior Cruciate Ligament Laxity in Female Adolescent Soccer Players.",
+   "journal": "J Hum Kinet",
+   "year": "2026",
+   "authors": [
+    "He Y",
+    "Shi D",
+    "Liang B",
+    "Su R",
+    "et al."
+   ],
+   "abstract": "The aim of this study was to investigate the relationship between urinary sex hormone levels and anterior cruciate ligament (ACL) laxity in female adolescent soccer players, and to explain the relationship through establishing regression equations. Urinary aliquots were collected daily from 15 healthy subjects over a continuous period of 27-34 days. Knee laxity at 67, 89 and 133 N was assessed using a standard KT-1000 knee arthrometer. Urinary metabolite levels of estradiol, progesterone and testosterone were tested using UPLC-Xevo TQ MS. Greatest ACL laxity was recorded during the luteal phase, followed by ovulatory and follicular phases (p < 0.05). In addition, there were significant correlations between ACL laxity and estradiol or progesterone (p < 0.05). Estradiol, progesterone, and their interaction in the model were significant predictors of knee laxity (p < 0.05). In conclusion, ACL laxity was significantly and positively correlated with urinary estradiol and progesterone levels. The menstrual cycle (especially during the luteal phase) had a significant effect on ACL laxity. The regression equations we developed to analyze female adolescent soccer players accounted for 7.39% of the variation in ACL laxity with urinary sex hormones.",
+   "doi": "10.5114/jhk/210500",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43081117/",
+   "matched": [
+    {
+     "id": "menstrual-cycle-injury",
+     "label": "Menstrual cycle / hormonal phase & injury risk (sports)",
+     "bucket": "fieldnotes"
+    },
+    {
+     "id": "sex-hormones-connective-tissue",
+     "label": "Sex hormones & connective tissue (orthopedic / athletic)",
      "bucket": "fieldnotes"
     }
    ],
@@ -97,28 +140,131 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43073698",
-   "title": "Bilateral gait biomechanics in individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction: a cross-sectional study.",
-   "journal": "J Orthop Surg Res",
+   "pmid": "43082661",
+   "title": "Multi-Objective Bio-Inspired Optimization of a Passive Ankle Exoskeleton with a Geometry-Derived Moment Arm.",
+   "journal": "Biomimetics (Basel)",
    "year": "2026",
    "authors": [
-    "Tu J",
-    "Li M",
-    "Sun Z",
-    "Xiu Y",
-    "et al."
+    "Korkmaz Can N"
    ],
-   "abstract": "To investigate whether bilateral gait biomechanical characteristics differ among individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction (ACLR) and healthy controls. This cross-sectional observational study included 36 individuals who were \u2265\u200912 months post-ACLR and 18 healthy controls. Individuals after ACLR were classified into high- and low-kinesiophobia groups using a predefined TSK-17 cutoff score of 40. A three-dimensional motion capture system synchronized with force platforms was used to quantify bilateral gait biomechanics during self-selected walking, including spatiotemporal, kinematic, and kinetic parameters. Limb symmetry indices (LSIs) were calculated for prespecified bilateral gait variables, and exploratory analyses examined associations between continuous TSK-17 scores and biomechanical outcomes. Compared with healthy controls, individuals after ACLR demonstrated reduced knee flexion-extension range of motion (ROM), with greater reductions in the high-kinesiophobia group than in the low-kinesiophobia group. Specifically, the involved limb had a 10.0\u00b0 lower knee flexion-extension ROM in the high-kinesiophobia group than in the low-kinesiophobia group (95% CI 5.8-14.2\u00b0). The contralateral limb also showed reduced knee flexion-extension ROM compared with healthy controls in both ACLR groups (high-kinesiophobia group: mean difference\u2009-\u20097.3\u00b0, 95% CI - 10.7 to -\u20093.9\u00b0; low-kinesiophobia group: mean difference\u2009-\u20096.4\u00b0, 95% CI - 9.8 to -\u20093.0\u00b0). Differences in selected joint moments, including hip adduction, knee varus-valgus, and ankle inversion-eversion moments, were joint- and limb-specific among groups. Knee flexion-extension ROM LSI differed among groups, with greater deviations from 100% observed in both ACLR groups than in healthy controls, indicating differences in numerical bilateral symmetry estimates. Exploratory analyses identified no consistent associations between continuous TSK-17 scores and gait biomechanical variables after correction for multiple comparisons. Varying levels of kinesiophobia after ACLR were associated with differences in bilateral gait biomechanics, particularly knee flexion-extension ROM. TSK-17 scores alone may not be sufficient to identify individual gait abnormalities; therefore, integrating psychological assessment with objective gait evaluation may provide a more comprehensive basis for individualized rehabilitation planning.",
-   "doi": "10.1186/s13018-026-07151-1",
+   "abstract": "Passive ankle exoskeleton models often assume a constant spring moment arm. Here spring rate, two attachment offsets and clutch threshold were optimized jointly with a geometry-derived moment arm. Data from 19 adults walking at 1.2 m s-1 drove a reduced plantarflexor model with fixed unassisted kinematics; force, travel and moment limits were checked on every stride. In the optimized geometry the moment arm fell 31% between engagement and peak dorsiflexion; a constant-lever approximation overestimated the device moment there by 71%. With active force and travel limits, the spring rate equalled their ratio and several attachment geometries were nearly equivalent (300-1500 N). At a 1000 N limit, the model predicted a 25.7% reduction in its priced plantarflexor energy (muscle-level, not whole-body), ranging from 15% to 40% across muscle-model variants and \u00b11%-of-cycle timing shifts (central 95% simulation interval 23.3-29.2% under one-frame timing errors). Among five bio-inspired optimizers, covariance matrix adaptation evolution strategy (CMA-ES) was the most reliable population-based method on the single-objective problem. Non-dominated sorting genetic algorithm II (NSGA-II) and S-metric selection evolutionary multi-objective algorithm (SMS-EMOA) approximated the benefit-force trade-off more completely than a budget-matched \u03b5-constraint sweep, whereas constrained optimization by linear approximations (COBYLA) was better in the moment-limited region.",
+   "doi": "10.3390/biomimetics11110808",
    "pubtypes": [
-    "Journal Article",
-    "Observational Study"
+    "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43073698/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43082661/",
    "matched": [
     {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43083396",
+   "title": "Musculoskeletal Demands, Injuries, Rehabilitation, and Return to Sport in HYROX Athletes: A Narrative Review.",
+   "journal": "Sports (Basel)",
+   "year": "2026",
+   "authors": [
+    "El Kayali MKD",
+    "Neumann EM",
+    "Oehme S"
+   ],
+   "abstract": "Background: HYROX is a rapidly growing hybrid fitness competition combining endurance running with standardized functional strength and conditioning exercises. As participation continues to grow, orthopaedic surgeons and sports medicine physicians are likely to encounter HYROX athletes more frequently, either presenting with musculoskeletal injuries or seeking advice regarding participation and return to sport. Main Body: Emerging evidence suggests a predominance of overuse and lower-extremity injuries, although HYROX-specific epidemiological and biomechanical data remain limited. The combination of repeated running with loaded functional exercises creates distinct musculoskeletal demands that should be considered during clinical evaluation and rehabilitation. This narrative review provides a clinically oriented overview of HYROX, focusing on its musculoskeletal demands, injury patterns, clinical evaluation, injury prevention, rehabilitation, and return to sport. A conceptual return-to-HYROX continuum is proposed to support clinical decision-making and progressive restoration of competition-specific capacity. Conclusions: Orthopaedic surgeons and sports medicine physicians should consider the specific and combined demands of HYROX when evaluating and managing athletes. Further prospective research is required to establish sport-specific injury risk factors, prevention strategies, and return-to-sport criteria. Level of Evidence: Level V.",
+   "doi": "10.3390/sports14110528",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43083396/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43080711",
+   "title": "No significant association between magnetic resonance imaging-based graft maturation markers and contemporaneous clinical outcomes at a mean of 15 months after arthroscopic allograft reconstruction of the lateral ankle ligaments.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Geiger M",
+    "Paquot J",
+    "Philippe C",
+    "Ancelin D"
+   ],
+   "abstract": "Return-to-sport decisions after lateral ankle ligament reconstruction combine functional and structural criteria. Magnetic resonance imaging (MRI) is increasingly used to assess graft maturation, but whether imaging-based maturation markers relate to clinical outcome is unknown. This study tested their association with contemporaneous clinical and patient-reported outcomes after allograft reconstruction. Thirty patients from a single-surgeon cohort of 75 consecutive arthroscopic reconstructions of the anterior talofibular and calcaneofibular ligaments with fresh-frozen non-irradiated allograft underwent postoperative MRI. Two independent observers graded the Signal-to-Noise Quotient Ankle, the Howell score and the graft-to-bone interface at each site. Outcomes at the last follow-up comprised hindfoot function, daily-living and sport scores, psychological readiness, a simple ankle value, pain and activity level. Exploratory Spearman correlations were computed with 95% confidence intervals (CIs). Imaged and non-imaged patients were compared using standardized mean differences. Imaging was obtained at a mean of 15.1\u2009\u00b1\u20094.9 months (range 8-28) and clinical assessment at 16.2\u2009\u00b1\u20093.7 months. No graft rupture was observed, and all 29 patients who returned to sport had done so before imaging. Calcaneofibular grafts appeared more mature than anterior talofibular grafts: Howell score 2 or less in 93.3 versus 53.3 percent, median quotient 0.94 versus 6.07. None of the 49 correlations reached statistical significance (coefficients -0.30 to 0.24). CIs extended from -0.60 to 0.56, so moderate associations could not be excluded. Standardized differences between imaged and non-imaged patients were 0.31 or less. In this selected cohort with intact grafts and generally favourable outcomes, imaging-based graft maturation markers were not significantly associated with contemporaneous clinical and patient-reported outcomes. Because the sample was small, imaging was obtained after return to sport and no graft failed, these findings do not show whether imaging performed before clearance can inform return to sport or predict reinjury. Level III, diagnostic study (retrospective analysis of prospectively collected data).",
+   "doi": "10.1002/jeo2.71003",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080711/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43079880",
+   "title": "Perceptual Adaptations to Back-Support Exoskeletons: Evidence From Measures of Perceived Exertion, Mental Demand, Discomfort, and Usability.",
+   "journal": "Hum Factors",
+   "year": "2026",
+   "authors": [
+    "Park H",
+    "Nussbaum MA"
+   ],
+   "abstract": "ObjectiveWe examined perceptual adaptations to using back-support exoskeletons during repetitive lifting tasks.BackgroundBack-support exoskeletons are often used to reduce physical demands during repetitive occupational lifting, yet most existing evidence stems from short-term periods of use. It remains unclear whether these effects persist or change with repeated use.MethodTwenty-seven participants were randomly assigned to a passive exoskeleton, active exoskeleton, or no-device control (ND) group. Participants completed four experimental sessions involving symmetric lifting/lowering at six cycles per minute, with 2-min single-task and 1-min dual-task trials, using a load equal to 15% of body mass lifted from ankle to mid-thigh height. Trials were performed as single-task or concurrent 2-back dual-task conditions. Measures included low-back and leg perceived exertion, NASA-TLX mental demand, localized discomfort, usability, and usefulness.ResultsDuring single-task lifting, low-back and leg perceived exertion increased across trials within sessions in the ND group (\u223c18%), decreased in the passive group (\u223c36%), and showed smaller decreases in the active group (\u223c12%). Dual-task difference scores changed little and were similar among groups. Mental demand showed a different pattern, with lower scores in the active group and gradual reductions over trials and sessions in the passive group. Perceived usability and usefulness increased across sessions by up to \u223c25%, with no significant differences between devices.ConclusionPerceptual adaptation to exoskeleton use was progressive, multidimensional, and device-dependent, and was more evident for primary-task effort than dual-task cost.ApplicationRepeated-exposure assessments may provide a more accurate understanding of exoskeleton benefits, discomfort, and acceptance during occupational usage.",
+   "doi": "10.1177/00187208261506629",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079880/",
+   "matched": [
+    {
+     "id": "actuation-assistive",
+     "label": "Ankle actuation / assistive devices",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": true,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43080651",
+   "title": "Rehabilitation after surgery for chronic lateral ankle instability is still a journey in progress: A scoping review.",
+   "journal": "J Exp Orthop",
+   "year": "2026",
+   "authors": [
+    "Erekdag A",
+    "Spennacchio P",
+    "Prill R",
+    "Guelfi M",
+    "et al."
+   ],
+   "abstract": "To map the postoperative rehabilitation strategies reported after anatomical lateral ankle stabilisation surgery for chronic lateral ankle instability, with emphasis on immobiliz\u00fcation, weight-bearing (WB) progression, range of motion, strengthening, neuromuscular rehabilitation and technique-related trends. PubMed (MEDLINE), Embase and the Cochrane Central Register of Controlled Trials were searched from 1 January 2010 to 10 September 2025. Original studies including patients aged 16 years or older who underwent anatomical lateral ankle stabilisation procedures and reported postoperative rehabilitation details were eligible. Data were extracted independently by two reviewers and synthesised descriptively using thematic and conceptual mapping. Forty-nine studies involving 2851 participants were included. The pooled mean age was 33.0\u2009\u00b1\u200911.8 years, and 53.2% of participants were male. Rehabilitation protocols demonstrated substantial heterogeneity across all domains. Immobilization ranged from immediate functional bracing to rigid immobilization for up to 6 weeks. WB progression varied from immediate protected loading to delayed loading, with full WB most commonly achieved between 6 and 8 weeks. Range-of-motion exercises were initiated between the first postoperative day and 4-6 weeks; sagittal-plane motion was generally introduced earlier, whereas inversion and varus stress were more consistently restricted during the early healing. Technique-related patterns suggested earlier functional progression after augmented or functionally braced repairs and more cautious progression after reconstruction or combined procedures. Postoperative rehabilitation after anatomical lateral ankle stabilisation remains highly heterogeneous, and does not support a single universal protocol. The available evidence map supports a staged, biology-informed approach that protects the repair from early inversion and varus stress, restores sagittal-plane motion and gait progressively and advances strengthening and neuromuscular training according to clinical criteria. Prospective comparative studies with standardised rehabilitation reporting are required to establish technique-specific and criterion-based pathways. Level I.",
+   "doi": "10.1002/jeo2.70985",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43080651/",
+   "matched": [
+    {
+     "id": "bracing-orthosis-efficacy",
+     "label": "Bracing / orthosis efficacy & performance cost",
      "bucket": "research"
     }
    ],
@@ -126,55 +272,27 @@
    "bucket": "research"
   },
   {
-   "pmid": "43072600",
-   "title": "Recovery Kinetics After Particulated Autologous Cartilage With Platelet-Rich Plasma for Osteochondral Lesions of the Talus in Athletes: Functional Scores Track Function but Show Limited Return-to-Sport Prediction.",
-   "journal": "J Foot Ankle Surg",
+   "pmid": "43079639",
+   "title": "Wearable inertial sensor assessment of kinematic characteristics during unilateral jump landings in elite volleyball players with patellar tendinopathy: a cross-sectional study.",
+   "journal": "BMC Sports Sci Med Rehabil",
    "year": "2026",
    "authors": [
-    "Barastegui D",
-    "Velasco P",
-    "Ayestaran I",
-    "Vazquez M",
+    "Ben Zaki B",
+    "Desmyttere G",
+    "Perrey S",
+    "Julia M",
     "et al."
    ],
-   "abstract": "Talar cartilage repair is reported through 12-month endpoints; first-year recovery, a 6-month assessment's predictive value, and sex differences remain unknown. To characterize recovery after PACI-PRP for talar osteochondral lesions in athletes and whether 6-month scores predict 12-month function and return to sport (RTS). A secondary analysis of a prospective registry included 50 athletes with talar-dome lesions. FADI (primary), VAS pain, and Karlsson-Petersson scores at baseline, 6, and 12 months were analyzed with the Friedman test and mixed-effects models with a time-by-sex interaction. Front-loading (the share of the 12-month change reached by 6 months), correlation with 12-month scores, and the ROC-curve area (AUC) for RTS were computed. All outcomes improved (p < 0.001). Recovery was front-loaded, with 67% (FADI), 71% (VAS), and 75% (Karlsson) of the 12-month gain by 6 months. Six-month scores correlated moderately with 12-month function (r\u202f=\u202f0.44 to 0.58) but did not usefully discriminate RTS (AUC, 0.41 to 0.61). Early responders (MCID by 6 months) had a higher but non-significant RTS rate than late responders (20/21 vs 21/28; p\u202f=\u202f0.115), with comparable 12-month function (86 vs 83; p\u202f=\u202f0.242). No significant sex differences were identified (interaction p\u202f=\u202f0.234 and 0.070). Recovery after PACI-PRP is front-loaded with no significant sex differences. Six-month scores forecast 1-year function moderately and did not usefully predict RTS, indicating that return to play depends on factors beyond joint-specific function - psychological readiness and sport-specific load - warranting prospective study. Prognostic study, Level IV.",
-   "doi": "10.1053/j.jfas.2026.11.010",
+   "abstract": "Patellar tendinopathy (PT) is a prevalent overuse injury in jumping athletes such as volleyball players, with a prevalence reaching up to 45%. It is thought to result, at least in part, from repetitive landing impacts that overload the tendon due to altered neuromuscular control and inadequate force absorption by the muscle-tendon unit. Wearable inertial sensor assessment offers an objective and field-deployable approach to characterize landing kinematics in this population. This study aimed to identify kinematic characteristics and explore kinetic variables distinguishing symptomatic from asymptomatic players with patellar tendinopathy during unilateral vertical jumps. This cross-sectional study included thirty elite male volleyball players who performed single-leg countermovement jumps and single-leg drop jumps. Ten players met predefined clinical criteria for symptomatic patellar tendinopathy, including a Victorian Institute of Sport Assessment-Patellar (VISA-P) score\u2009\u2264\u200980, pain during single-leg decline squatting, and pain localized to the patellar tendon using pain mapping. Kinematic data were collected using 8 wearable inertial measurement units (IMUs, 100\u00a0Hz), and kinetic data using force platforms (1000\u00a0Hz). The PT group showed reduced knee flexion angles at initial contact, at peak, and at peak estimated vertical ground reaction force (eVGRF), predominantly during the drop jump (Benjamini-Hochberg adjusted p\u2009<\u20090.05; Hedges' g\u2009=\u20090.82-1.60). At the ankle, dorsiflexion angle at peak eVGRF, range of motion, and peak angular acceleration were reduced, predominantly during the countermovement jump (adjusted p\u2009\u2264\u20090.04; Hedges' g\u2009=\u20090.84-1.35). At the hip, only a smaller peak deceleration was observed during the drop jump (adjusted p\u2009=\u20090.04; g = -1.07). No kinetic variables or limb symmetry index differed significantly between groups. Within the PT group, greater symptom severity (lower VISA-P score) was associated with reduced flexion for knee angle at peak eVGRF during both drop-jump contacts, ankle maximum angle, and angle at peak eVGRF during the countermovement jump (\u03c1\u2009=\u20090.66-0.83, p\u2009\u2264\u20090.04). These findings suggest that wearable inertial sensor-based unilateral jump-landing assessments can identify between-group kinematic differences associated with PT. Given the cross-sectional design, findings should be interpreted as descriptive rather than diagnostic, requiring confirmation in prospective studies.",
+   "doi": "10.1186/s13102-026-02040-w",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43072600/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43079639/",
    "matched": [
     {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43075119",
-   "title": "Surgically treated major lower-extremity tendon injuries in NBA players: a selected public-source case series.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Maman D",
-    "Ginesin E",
-    "Steinfeld Y",
-    "Yonai Y",
-    "et al."
-   ],
-   "abstract": "Major lower-extremity tendon injuries can interrupt professional basketball careers. We updated a selected public-source case series with extended follow-up. Public injury records from 2000 to 2001 through 2025-2026 were reconciled with NBA game logs and season statistics. In 33 events among 32 players, return meant a later regular-season or postseason NBA appearance. Calendar days to the first postinjury game were calculated when both dates were verified. Among returners with separable season statistics, prior-season and first-return-season measures were compared, including points per 48\u2005min. Twenty-eight of 33 events (84.8%, 95% Wilson CI: 69.1%-93.3%) had an observed NBA return by cutoff. Time to return was calculable for 27 of 28 returners: mean 12.2\u2009\u00b1\u20095.7 months (95% CI: 9.9-14.4; range 5.5-30.1). In 27 paired seasons, minutes per game changed by -8.45 (95% CI: -11.24 to -5.65), and points per 48\u2005min changed by -3.00 (95% CI: -4.58 to -1.42). Among 23 events eligible for three-season follow-up, 13 had an NBA appearance in the third scheduled season. In this selected series, postinjury NBA participation was common, but time to first appearance varied substantially; first-return-season workload and minute-adjusted scoring were lower among returners. These descriptive findings do not provide a league-wide prognosis or isolate the injury effect.",
-   "doi": "10.3389/fspor.2026.1955140",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43075119/",
-   "matched": [
-    {
-     "id": "return-to-play",
-     "label": "Return-to-play & reinjury risk",
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -437,6 +555,31 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43073205",
+   "title": "An Alert Is Not a Referral: Toward Evidence-Grounded Multimodal Reasoning in Gastric Cancer Screening.",
+   "journal": "J Gastroenterol Hepatol",
+   "year": "2026",
+   "authors": [
+    "Fan L",
+    "Chen S"
+   ],
+   "abstract": "Accurate identification of near-fall events is essential for early fall-risk assessment and prevention in older adults. However, translating laboratory-trained machine learning algorithms into real-world settings remains challenging because abnormal gait patterns do not necessarily represent genuine near-fall events. This correspondence highlights the distinction between sensor-detected gait perturbations and clinically meaningful losses of balance, emphasizing the limitations of conventional signal-based classification and the absence of event-level validation. We propose a context-grounded multimodal framework integrating wearable sensor data with large language model-derived information from patient narratives, caregiver reports, and clinical documentation. Such integration could support contextual event interpretation, distinguish habitual gait instability from transient balance disturbances, and facilitate clinically adjudicated near-fall identification. We further emphasize the importance of prospective validation, uncertainty-aware prediction, subgroup fairness, and clinically relevant performance metrics. Advancing from isolated movement classification toward context-aware, clinically validated event detection may improve individualized fall-risk prediction and support more effective preventive interventions in geriatric care.",
+   "doi": "10.1111/jgh.70892",
+   "pubtypes": [
+    "Letter"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073205/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42997622",
    "title": "Ankle Foot Orthosis Intervention Improves the Ground Reaction Forces During Walking in Patients with Peripheral Artery Disease (Randomized Clinical Trial).",
    "journal": "Actuators",
@@ -458,34 +601,6 @@
     {
      "id": "bracing-orthosis-efficacy",
      "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
-   "pmid": "42926125",
-   "title": "Ankle Proprioceptive Performance on Increasingly Challenging Functional Tasks in Groups With and Without Chronic Ankle Instability.",
-   "journal": "J Sport Rehabil",
-   "year": "2026",
-   "authors": [
-    "Wang X",
-    "Shao X",
-    "Shi X",
-    "Adams RD",
-    "et al."
-   ],
-   "abstract": "Up to 75% of lateral ankle sprain cases experience long-term impairments and suffer chronic ankle instability (CAI), a condition characterized by impaired ankle proprioception. This study aims to investigate ankle proprioceptive performance during functional tasks with increasing movement control and ankle joint load in individuals with and without CAI. Cross-sectional study. Twenty individuals with CAI and 19 healthy controls completed 4 proprioceptive tasks: standing, walking, landing (double-leg drop), and stair descent. In each task, their ability to discriminate between 4 ankle inversion angles was assessed using a task-specific discrimination apparatus. CAI participants had significantly lower ankle proprioception scores than controls (mean difference = 0.047, 95% CI, 0.031-0.063). Proprioceptive acuity varied by task (P < .001, \u03b7p2=.345), with no significant group-by-task interaction (P = .220, \u03b7p2=.039). Trend analysis showed a linear improvement in proprioceptive performance with increasing ankle load and challenge in controls (P < .001, \u03b7p2=.685), whereas the CAI group showed both significant linear (P < .001, \u03b7p2=.445) and quadratic (P = .001, \u03b7p2=.430) trends, reflecting a rise followed by a significant downturn as load peaked. Both groups improved with greater load, but during stair descent, individuals with CAI exhibited a significant decline. This suggests that proprioceptive processing in CAI is impaired and may be overloaded during highly challenging tasks.",
-   "doi": "10.1123/jsr.2025-0436",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42926125/",
-   "matched": [
-    {
-     "id": "ankle-instability-mechanism",
-     "label": "Chronic ankle instability \u2014 mechanisms",
      "bucket": "research"
     }
    ],
@@ -629,6 +744,35 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43073698",
+   "title": "Bilateral gait biomechanics in individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction: a cross-sectional study.",
+   "journal": "J Orthop Surg Res",
+   "year": "2026",
+   "authors": [
+    "Tu J",
+    "Li M",
+    "Sun Z",
+    "Xiu Y",
+    "et al."
+   ],
+   "abstract": "To investigate whether bilateral gait biomechanical characteristics differ among individuals with varying levels of kinesiophobia after anterior cruciate ligament reconstruction (ACLR) and healthy controls. This cross-sectional observational study included 36 individuals who were \u2265\u200912 months post-ACLR and 18 healthy controls. Individuals after ACLR were classified into high- and low-kinesiophobia groups using a predefined TSK-17 cutoff score of 40. A three-dimensional motion capture system synchronized with force platforms was used to quantify bilateral gait biomechanics during self-selected walking, including spatiotemporal, kinematic, and kinetic parameters. Limb symmetry indices (LSIs) were calculated for prespecified bilateral gait variables, and exploratory analyses examined associations between continuous TSK-17 scores and biomechanical outcomes. Compared with healthy controls, individuals after ACLR demonstrated reduced knee flexion-extension range of motion (ROM), with greater reductions in the high-kinesiophobia group than in the low-kinesiophobia group. Specifically, the involved limb had a 10.0\u00b0 lower knee flexion-extension ROM in the high-kinesiophobia group than in the low-kinesiophobia group (95% CI 5.8-14.2\u00b0). The contralateral limb also showed reduced knee flexion-extension ROM compared with healthy controls in both ACLR groups (high-kinesiophobia group: mean difference\u2009-\u20097.3\u00b0, 95% CI - 10.7 to -\u20093.9\u00b0; low-kinesiophobia group: mean difference\u2009-\u20096.4\u00b0, 95% CI - 9.8 to -\u20093.0\u00b0). Differences in selected joint moments, including hip adduction, knee varus-valgus, and ankle inversion-eversion moments, were joint- and limb-specific among groups. Knee flexion-extension ROM LSI differed among groups, with greater deviations from 100% observed in both ACLR groups than in healthy controls, indicating differences in numerical bilateral symmetry estimates. Exploratory analyses identified no consistent associations between continuous TSK-17 scores and gait biomechanical variables after correction for multiple comparisons. Varying levels of kinesiophobia after ACLR were associated with differences in bilateral gait biomechanics, particularly knee flexion-extension ROM. TSK-17 scores alone may not be sufficient to identify individual gait abnormalities; therefore, integrating psychological assessment with objective gait evaluation may provide a more comprehensive basis for individualized rehabilitation planning.",
+   "doi": "10.1186/s13018-026-07151-1",
+   "pubtypes": [
+    "Journal Article",
+    "Observational Study"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43073698/",
+   "matched": [
+    {
+     "id": "inversion-kinematics",
+     "label": "Inversion injury kinematics & load paths",
+     "bucket": "research"
+    }
+   ],
+   "is_new": false,
+   "bucket": "research"
   },
   {
    "pmid": "43053033",
@@ -1240,33 +1384,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42927087",
-   "title": "Gait speed and multi-segment foot joint kinematics throughout the entire stance phase using statistical parametric mapping.",
-   "journal": "PeerJ",
-   "year": "2026",
-   "authors": [
-    "Jeong H",
-    "Hamill J",
-    "Boyer KA",
-    "van Emmerik REA"
-   ],
-   "abstract": "The foot is a multi-segment structure whose segments function together. Due to its ongoing connection with the support surface, the foot must be capable of managing loads that vary with gait speed. Previous studies have provided considerable insight into the relationship between foot joint kinematics and gait speed. However, their primary reliance on discrete measures, such as peak joint angles, has limited understanding of how these relationships evolve throughout the stance phase. The aim of this study was to investigate the effects of gait speed on full time-series trajectories of multiplanar foot joint kinematics using statistical parametric mapping. According to our findings, faster walking primarily increased ankle eversion and midfoot dorsiflexion during weight acceptance (\u223c17-29% of the stance phase). In contrast, during propulsion, faster walking increased ankle plantar flexion (\u223c80-100% of the stance phase) and inversion (\u223c82-90%), as well as midfoot plantar flexion (\u223c82-100%) and adduction (\u223c90-98%), together with greater dorsiflexion of the first metatarsophalangeal joint after heel-off (\u223c43-98% of the stance phase). These multiplanar joint kinematic alterations across the ankle-foot joints throughout the stance phase reflect greater foot-arch collapse in early stance and foot-arch recoil in late stance, which may facilitate appropriate energy absorption and generation in response to increasing gait speed. Importantly, these adaptive foot motions were not captured by previous discrete analyses, which may obscure phase-dependent changes during gait. The present continuous time-series approach revealed detailed temporal adaptations in foot kinematics across the stance phase, providing a more comprehensive characterization of gait mechanics.",
-   "doi": "10.7717/peerj.21787",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42927087/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "42976427",
    "title": "Global research on cricket injuries (1982-2025): A bibliometric analysis.",
    "journal": "Injury",
@@ -1609,62 +1726,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42924681",
-   "title": "Musculoskeletal Complaint Patterns and Training Impact in Adult Triathletes During the 2023 Season.",
-   "journal": "J Funct Morphol Kinesiol",
-   "year": "2026",
-   "authors": [
-    "Parr JJ",
-    "Dobson SR",
-    "Navara J",
-    "Kusuma M",
-    "et al."
-   ],
-   "abstract": "Objectives: To characterize self-report musculoskeletal complaints, anatomical distribution, healthcare utilization, training impact, and associations with demographic and training characteristics among adult triathletes during the 2023 season. Methods: A retrospective cross-sectional survey was conducted among community-based triathletes recruited through social media and triathlon organizations. Adults aged \u226518 years who completed or intended to complete at least one triathlon in 2023 were included (N = 245). Demographic characteristics, years of participation, race focus, and weekly training volume were collected. Main outcomes included self-reported musculoskeletal complaints, anatomical location, complaint classification, healthcare utilization, and training disruption. Results: Of 245 participants (60.0% male; most frequent age group 30-34 years), 127 of 242 with available complaint data (52.5%) reported at least one complaint, totaling 175 reported complaints. The lower extremity accounted for 79.4% of complaints, most commonly the hip/pelvis (22.3%), lower leg (18.7%), knee (17.3%), ankle (15.1%), and foot/toes (15.1%). Running was the most frequently reported activity associated with complaint onset (61%). The number of reported complaints was not significantly associated with the broad demographic or training characteristics examined. Healthcare utilization was reported for 62.4% of complaints with available healthcare data. Among complaints with available training impact data, 50.6% resulted in both missed and modified training, 28.2% in modified training only, and 21.2% in missed training only. Conclusions: More than half of the triathletes surveyed reported musculoskeletal complaints during the 2023 season, with lower-extremity and overuse complaints predominating and running most frequently associated with complaint onset. Broad demographic and general training characteristics were not significantly associated with the number of reported complaints. These findings highlight the burden and training consequences of self-reported musculoskeletal complaints among adult triathletes and support the need for prospective surveillance incorporating discipline-specific exposure and more detailed training load measures.",
-   "doi": "10.3390/jfmk11040402",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42924681/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42924692",
-   "title": "Musculoskeletal Findings Following Pre-Participation Screening in Young Athletes: A Retrospective Observational Study.",
-   "journal": "J Funct Morphol Kinesiol",
-   "year": "2026",
-   "authors": [
-    "Vecchiato M",
-    "Palermi S",
-    "Ancona L",
-    "Barbaro G",
-    "et al."
-   ],
-   "abstract": "Background: Pre-participation screening (PPS) is widely used to evaluate athletes before sport participation, traditionally focusing on cardiovascular risk prevention. However, musculoskeletal assessment performed during PPS may also allow early identification of biomechanical and structural abnormalities that can affect sport participation during growth. Objectives: This study aimed to describe the prevalence, clinical characteristics, and management pathways of musculoskeletal alterations detected during PPS in young athletes, with particular focus on referral patterns to pediatric Physical Medicine and Rehabilitation (PM&R) specialists. Methods: This retrospective observational study included athletes aged \u226415 years who underwent PPS between January 2022 and December 2023 at the Sports Medicine Unit of Noale (ULSS 3 Serenissima, Venice, Italy). Musculoskeletal screening was systematically performed during PPS. Athletes presenting newly detected abnormalities were either managed conservatively by the sports physician or referred for PM&R evaluation. Clinical indications for referral, imaging investigations, diagnoses, and treatment strategies were analyzed. Results: A total of 707 athletes underwent PPS during the study period. After applying exclusion criteria, 635 athletes were eligible for analysis. Musculoskeletal alterations were identified in 141 athletes (22.2%). Among them, 54 athletes were referred for PM&R evaluation and 40 completed the consultation. No statistically significant differences were observed between referred and non-referred athletes. The most frequent reasons for referral were suspected scoliosis (n = 22), foot alignment disorders n = 18), thoracic hyperkyphosis (n = 5), and lower limb length discrepancy (n = 4). Specialist evaluation resulted in conservative management in most cases, including corrective exercise programs and orthotic interventions, while one athlete required surgical treatment for congenital scoliosis. Conclusions: Musculoskeletal screening during PPS identified a broad spectrum of findings in young athletes, including clinically relevant abnormalities requiring specialist evaluation and management. These findings suggest that musculoskeletal assessment may provide an opportunity for early clinical identification within PPS; however, prospective studies are needed to evaluate diagnostic accuracy, long-term clinical benefit, injury prevention, and cost-effectiveness before routine implementation can be recommended.",
-   "doi": "10.3390/jfmk11040413",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42924692/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "43033777",
    "title": "Musical Feedback to Reduce the Knee Adduction Moment Via Center of Pressure Medialization: A Proof-of-Concept Study in Healthy Adults for Knee Osteoarthritis Gait Retraining.",
    "journal": "J Biomech",
@@ -1999,6 +2060,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43072600",
+   "title": "Recovery Kinetics After Particulated Autologous Cartilage With Platelet-Rich Plasma for Osteochondral Lesions of the Talus in Athletes: Functional Scores Track Function but Show Limited Return-to-Sport Prediction.",
+   "journal": "J Foot Ankle Surg",
+   "year": "2026",
+   "authors": [
+    "Barastegui D",
+    "Velasco P",
+    "Ayestaran I",
+    "Vazquez M",
+    "et al."
+   ],
+   "abstract": "Talar cartilage repair is reported through 12-month endpoints; first-year recovery, a 6-month assessment's predictive value, and sex differences remain unknown. To characterize recovery after PACI-PRP for talar osteochondral lesions in athletes and whether 6-month scores predict 12-month function and return to sport (RTS). A secondary analysis of a prospective registry included 50 athletes with talar-dome lesions. FADI (primary), VAS pain, and Karlsson-Petersson scores at baseline, 6, and 12 months were analyzed with the Friedman test and mixed-effects models with a time-by-sex interaction. Front-loading (the share of the 12-month change reached by 6 months), correlation with 12-month scores, and the ROC-curve area (AUC) for RTS were computed. All outcomes improved (p < 0.001). Recovery was front-loaded, with 67% (FADI), 71% (VAS), and 75% (Karlsson) of the 12-month gain by 6 months. Six-month scores correlated moderately with 12-month function (r\u202f=\u202f0.44 to 0.58) but did not usefully discriminate RTS (AUC, 0.41 to 0.61). Early responders (MCID by 6 months) had a higher but non-significant RTS rate than late responders (20/21 vs 21/28; p\u202f=\u202f0.115), with comparable 12-month function (86 vs 83; p\u202f=\u202f0.242). No significant sex differences were identified (interaction p\u202f=\u202f0.234 and 0.070). Recovery after PACI-PRP is front-loaded with no significant sex differences. Six-month scores forecast 1-year function moderately and did not usefully predict RTS, indicating that return to play depends on factors beyond joint-specific function - psychological readiness and sport-specific load - warranting prospective study. Prognostic study, Level IV.",
+   "doi": "10.1053/j.jfas.2026.11.010",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43072600/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43048706",
    "title": "Relationship between global functional outcomes and patient-reported instability after arthroscopic anatomic lateral ankle ligament reconstruction: A midterm case series of 292 patients.",
    "journal": "J Exp Orthop",
@@ -2278,6 +2367,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43075119",
+   "title": "Surgically treated major lower-extremity tendon injuries in NBA players: a selected public-source case series.",
+   "journal": "Front Sports Act Living",
+   "year": "2026",
+   "authors": [
+    "Maman D",
+    "Ginesin E",
+    "Steinfeld Y",
+    "Yonai Y",
+    "et al."
+   ],
+   "abstract": "Major lower-extremity tendon injuries can interrupt professional basketball careers. We updated a selected public-source case series with extended follow-up. Public injury records from 2000 to 2001 through 2025-2026 were reconciled with NBA game logs and season statistics. In 33 events among 32 players, return meant a later regular-season or postseason NBA appearance. Calendar days to the first postinjury game were calculated when both dates were verified. Among returners with separable season statistics, prior-season and first-return-season measures were compared, including points per 48\u2005min. Twenty-eight of 33 events (84.8%, 95% Wilson CI: 69.1%-93.3%) had an observed NBA return by cutoff. Time to return was calculable for 27 of 28 returners: mean 12.2\u2009\u00b1\u20095.7 months (95% CI: 9.9-14.4; range 5.5-30.1). In 27 paired seasons, minutes per game changed by -8.45 (95% CI: -11.24 to -5.65), and points per 48\u2005min changed by -3.00 (95% CI: -4.58 to -1.42). Among 23 events eligible for three-season follow-up, 13 had an NBA appearance in the third scheduled season. In this selected series, postinjury NBA participation was common, but time to first appearance varied substantially; first-return-season workload and minute-adjusted scoring were lower among returners. These descriptive findings do not provide a league-wide prognosis or isolate the injury effect.",
+   "doi": "10.3389/fspor.2026.1955140",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43075119/",
+   "matched": [
+    {
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42955437",
    "title": "Syndesmotic screw fixation is associated with higher overall treatment costs when compared with suture button stabilisation in a single UK major trauma centre.",
    "journal": "Eur J Orthop Surg Traumatol",
@@ -2472,33 +2589,6 @@
    ],
    "is_new": false,
    "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42921340",
-   "title": "Using Wearable Sensors and Video Analysis to Improve Functional Electrical Stimulation Prescription in Individuals With Multiple Sclerosis: A Case Series.",
-   "journal": "Int J MS Care",
-   "year": "2026",
-   "authors": [
-    "Jackson K",
-    "Hosseini S",
-    "Bigelow K"
-   ],
-   "abstract": "A growing body of evidence supports the use of functional electrical stimulation (FES) in people with multiple sclerosis (MS). However, prescription remains an imprecise process with no well-established guidelines for assessing the immediate or long-term effects to ensure maximum benefit.\u00a0The purpose of this case series was to assess the potential benefits of using wearable sensors and video analysis to provide immediate feedback on gait performance to improve FES prescription in people with MS. Three adults (2 women, 1 man; age range, 39-62 years) with MS with varying levels of lower extremity motor function and gait impairment were enrolled. During a single visit, participants performed a series of 10-m walks under various FES and non-FES conditions while using wearable motion sensors. Additionally, 2D video analysis was used to assess alterations in knee angles during swing and stance phases. All participants demonstrated improvements in a variety of gait variables, including a clinically meaningful (> 0.1 m/s) increase in gait speed during 1 or more of the FES conditions when compared with the no-device and/or prescribed ankle foot orthosis conditions. There were additional improvements associated with multichannel stimulation of the lower leg and thigh for certain gait variables. Data from the wearable sensors and video analysis were advantageous in helping researchers determine the most appropriate FES prescription for each participant. This case series demonstrates the potential clinical usefulness of these technologies in prescribing FES for people with MS.",
-   "doi": "10.7224/1537-2073.2025-050",
-   "pubtypes": [
-    "Case Reports",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42921340/",
-   "matched": [
-    {
-     "id": "bracing-orthosis-efficacy",
-     "label": "Bracing / orthosis efficacy & performance cost",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
   },
   {
    "pmid": "43035340",
