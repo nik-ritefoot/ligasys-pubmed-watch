@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:33:28+00:00",
+ "generated": "2026-11-27T22:18:29+00:00",
  "lookback_days": 30,
  "first_run": false,
  "queries": [
@@ -65,35 +65,33 @@
   }
  ],
  "counts": {
-  "total": 91,
-  "new": 6,
-  "research": 14,
-  "fieldnotes": 77
+  "total": 88,
+  "new": 2,
+  "research": 13,
+  "fieldnotes": 75
  },
  "records": [
   {
-   "pmid": "43092742",
-   "title": "Cane-Type Robots for Mobility Assistance-Design, Sensing, Control, and Fall Prevention: A Narrative Review.",
-   "journal": "Sensors (Basel)",
+   "pmid": "43102359",
+   "title": "Efficacy of Physical Activity Interventions in Athletic Rehabilitation for Musculoskeletal Injuries: A Systematic Review.",
+   "journal": "J Vis Exp",
    "year": "2026",
    "authors": [
-    "Pereira JL",
-    "Armada M",
-    "Cerqueira R",
-    "Ribeiro NF",
-    "et al."
+    "Haoge S",
+    "Shaber A"
    ],
-   "abstract": "Introduction: Cane-type robots are emerging as a promising class of assistive devices for individuals with reduced mobility because they combine portability with the potential to improve stability, support gait, and contribute to fall detection and fall prevention. This review examines how these systems have been designed and validated, with particular emphasis on the trade-offs that may determine their real-world usefulness. Methods: This narrative review draws on 49 articles identified through a structured literature search from a pool of 2439 records remaining after duplicate removal. The included studies were examined through a narrative synthesis of structural design, sensing and actuation components, motion-control strategies, fall detection methods, fall-prevention approaches, and experimental validation. Data were coded at article level (N = 49) for experimental validation and at prototype level (N = 26) for design and functional characteristics. Unreported characteristics were retained as not reported and were not interpreted as absent. Results: Mobile bases provide up to 3 degrees of freedom (DOF), with additional DOFs enabled by revolute joints (1 DOF) and universal joints (2 DOFs). However, canes with one or two wheels often lack the stability required to support body weight safely during walking or fall events, which limits their suitability for the target population. All systems rely on cane-mounted sensors, whereas some also incorporate wearable sensors that may improve functionality but can reduce usability and long-term acceptability. Explicit gait-phase classification was documented in only 2/26 prototypes (7.7%); walking-state recognition, movement-intention estimation, foot-contact sensing, and fall-event detection were not counted as gait-phase detection unless discrete phases of the gait cycle were classified. Across the reviewed literature, the most important limitations are the scarcity of clinical gait trials involving older adults or mobility-impaired users and the very limited availability of active fall-prevention strategies that do not rely on wearable sensors. Conclusions: Cane-type robots show clear potential as mobility-assistance technologies, but the field remains constrained by limited clinical validation and by design choices that often increase sensing burden without demonstrating translational readiness. Future research should prioritize clinically validated prototypes, robust gait-phase recognition, and fall-prevention strategies based exclusively on cane-integrated sensing to improve reliability, usability, and real-world adoption.",
-   "doi": "10.3390/s26227265",
+   "abstract": "Sports injuries involving the musculoskeletal system are highly prevalent and can prolong recovery and increase the likelihood of reinjury. This systematic review evaluated the effectiveness of physical activity-based rehabilitation for athletes with musculoskeletal injuries, synthesizing data from 50 studies published between August 2010 and December 2025 across seven databases, including randomized controlled trials, prospective cohort studies, systematic reviews, and clinical practice guidelines. They covered a range of athletes, from recreational to elite, and various injuries, including anterior cruciate ligament (ACL) reconstruction, ankle sprains, hamstring strains, groin injuries, tendinopathy, shoulder impingement, and patellofemoral pain. Strength training, neuromuscular training, balance training, aerobic training, aquatic training, and sport-specific training were among the interventions; pain, function, strength, neuromuscular control, and return to sport were among the outcome measures. Consistent relationships between interventions and improvements in functional and return-to-sport outcomes were found with consistent, progressive interventions; some individual studies found a 41-63% relative reduction in the risk of injury or reinjury. There was substantial variation between protocols and outcomes, so findings were synthesized narratively rather than pooled. Results demonstrate the need for evidence-based programming, an individualized approach, and standardized reporting in future trials.",
+   "doi": "10.3791/70776",
    "pubtypes": [
     "Journal Article",
-    "Review"
+    "Systematic Review",
+    "Video-Audio Media"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43092742/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43102359/",
    "matched": [
     {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
+     "id": "return-to-play",
+     "label": "Return-to-play & reinjury risk",
      "bucket": "fieldnotes"
     }
    ],
@@ -101,131 +99,23 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "43092698",
-   "title": "From Signals to Decisions: Task-Oriented Wearable Sensing for Sports Performance and Athlete Health.",
-   "journal": "Sensors (Basel)",
+   "pmid": "43101826",
+   "title": "Pulsed electromagnetic fields therapy is associated with reduced perioperative pain after ACL reconstruction in patients with concomitant bone bruise: A randomised controlled trial.",
+   "journal": "J Exp Orthop",
    "year": "2026",
    "authors": [
-    "Lv K",
-    "Wu Y",
-    "Xue J"
-   ],
-   "abstract": "Accurate assessment of athletic performance and physiological status is essential for evidence-based training and injury prevention, yet conventional approaches remain constrained by laboratory settings, invasive sampling, and delayed analysis. Advances in flexible materials, device engineering, and information technologies have enabled wearable systems capable of continuous, non-invasive acquisition of mechanical, electrophysiological, and biochemical signals during exercise. This review examines wearable sensing in sports through a task-oriented framework encompassing kinematic monitoring, neuromuscular and musculoskeletal loading, and physiological and metabolic regulation. For each monitoring domain, the relevant indicators, sensing mechanisms, flexible integration strategies, and representative applications are critically discussed. Particular attention is given to mechanical, electrophysiological, and electrochemical sensors for technique assessment, contact and speed monitoring, fatigue and injury-risk evaluation, hydration and metabolic analysis, and cardiovascular monitoring. Despite rapid progress, practical deployment remains limited by insufficient field validation, motion and environmental interference, inter-individual variability, fragmented multimodal integration, and feedback that rarely supports direct intervention. Individualized calibration, longitudinal assessment of cumulative load and recovery, task-specific multimodal coupling, and feedback models informed by sports practice are identified as central research priorities. Evidence from prolonged, sport-specific studies will ultimately determine whether wearable systems can provide reliable, interpretable, and actionable information during routine training and competition.",
-   "doi": "10.3390/s26227221",
-   "pubtypes": [
-    "Journal Article",
-    "Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43092698/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43091644",
-   "title": "Immediate Effect of Electroacupuncture on Foot Drop Gait Stereotype-Pilot Study.",
-   "journal": "Medicina (Kaunas)",
-   "year": "2026",
-   "authors": [
-    "Horn\u00ed\u010dek J",
-    "Kol\u00e1\u0159ov\u00e1 B",
-    "Jasensk\u00e1 M",
-    "Holobar A",
+    "Rinaldi VG",
+    "Sassoli I",
+    "Fogacci A",
+    "Miceli M",
     "et al."
    ],
-   "abstract": "Background and Objectives: Peroneal nerve palsy frequently results in impaired dorsiflexion and foot drop gait, leading to reduced walking ability and increased risk of instability. Electroacupuncture has been proposed as a neuromodulatory intervention that may influence both peripheral nerve function and central motor control. However, its immediate effects on gait kinematics and muscle activation in patients with nerve injury remain insufficiently explored. Materials and Methods: This prospective single-group study included 16 patients with peroneal nerve paresis, classified into subacute (3 weeks to 3 months) and chronic (>3 months) stages. Each patient received a single electroacupuncture treatment. Gait analysis was performed using synchronized inertial measurement units (IMU) and surface electromyography (sEMG) before and immediately after electroacupuncture stimulation. Kinematic and electromyographic outcomes included timing and amplitude parameters of foot angular velocity and muscle activation. Results: Electroacupuncture induced significant changes in gait parameters, with the most consistent effect observed in the timing of the duration of swing phase for ankle angular velocity, indicating an immediate modulation of gait phase organization. This effect was present in both subacute and chronic stages. In contrast, electromyographic responses differed between groups: no significant changes in tibialis anterior activity were observed in the subacute group, whereas a significant reduction in muscle activity was found in the chronic group. Conclusions: Electroacupuncture demonstrated an immediate effect on gait timing, which may be consistent with modulation of motor control mechanisms independent of disease stage. Muscle-specific responses were stage-dependent, with reduced activation observed in chronic patients. These findings need to be further verified, both with a control group and through longer-term observation.",
-   "doi": "10.3390/medicina62112247",
+   "abstract": "Bone bruise (BB) is common after acute anterior cruciate ligament (ACL) injury, but its relationship with pain and recovery is variable. This randomised controlled trial evaluated whether perioperative pulsed electromagnetic field (PEMF) stimulation improves pain control and recovery after ACL reconstruction (ACL-R) in patients with magnetic resonance imaging (MRI)-confirmed BB. We hypothesised that PEMF stimulation would reduce pain, improve patient-reported outcomes and promote BB volume reduction. Ninety-two patients were enrolled: 66 completed follow-up and were analysed (31 PEMF, 35 control). The PEMF group was prescribed a wearable device for 4\u2009h/day from 20 days before surgery through 60 days postoperatively. Outcomes included visual analogue scale (VAS) pain, International Knee Documentation Committee, knee injury and osteoarthritis outcome score, SF-12 Health Survey (SF-12), Tegner activity score, analgesic/nonsteroidal anti-inflammatory drug use, and MRI-estimated BB volume. Clinical follow-up was performed at diagnosis, immediately before surgery, and at 2, 6 and 12 months; MRI was obtained preoperatively and at 2, 6 and 12 months. VAS pain was lower in the PEMF group preoperatively (1.7\u2009\u00b1\u20091.9 vs. 2.7\u2009\u00b1\u20092.4; p\u2009=\u20090.033), at 6 months (0.5\u2009\u00b1\u20090.8 vs. 0.9\u2009\u00b1\u20091.2; p\u2009=\u20090.033) and at 12 months (0.1\u2009\u00b1\u20090.2 vs. 0.5\u2009\u00b1\u20090.7; p\u2009=\u20090.002). The reported KOOS score was higher in the PEMF group at 6 months (83.0\u2009\u00b1\u200910.0 vs. 78.0\u2009\u00b1\u200914.0; p\u2009=\u20090.048) and 12 months (90.0\u2009\u00b1\u20097.0 vs. 85.0\u2009\u00b1\u200910.0; p\u2009=\u20090.009), and SF-12 physical component summary was higher at 6 months. PEMF therapy, used as an adjunct to standard perioperative care, was associated with lower pain scores and better selected patient-reported outcomes after ACL-R in patients with concomitant BB. The clinical findings support PEMF therapy as a promising noninvasive strategy to improve early recovery after ACL-R. Level I.",
+   "doi": "10.1002/jeo2.70961",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43091644/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43091529",
-   "title": "Prevalence and Functional Burden of Musculoskeletal Problems in Elite National Team Athletes: A Cross-Sectional Study.",
-   "journal": "Medicina (Kaunas)",
-   "year": "2026",
-   "authors": [
-    "Park YB",
-    "Kim JW",
-    "Ha CW"
-   ],
-   "abstract": "Background and Objectives: Musculoskeletal problems can impair athletic performance and training even when elite athletes remain active in sport. This study investigated the prevalence, anatomical distribution, and functional burden of current musculoskeletal problems among elite national team athletes. Materials and Methods: In this cross-sectional survey, 257 athletes from 12 sporting disciplines training at the Taereung National Training Center, Republic of Korea, completed a self-administered questionnaire between October 2013 and February 2014. Current musculoskeletal problems were reported by 126 of 256 athletes (49.2%; 95% confidence interval [CI], 43.2-55.3%). Among 125 athletes with available injury-attribution responses, 98 attributed their musculoskeletal problems to injury (78.4%; 95% CI, 70.4-84.7%). Among athletes with musculoskeletal problems, 81.5% (95% CI, 73.7-87.3%) reported at least some interference with maximal performance (scores 2-4), including 30.6% (95% CI, 23.2-39.2%) with substantial-to-severe interference (scores 3-4). A perceived need to reduce training volume was reported by 70.6% (95% CI, 62.2-77.9%), including 23.8% (95% CI, 17.2-32.0%) with a substantial-to-severe need for reduction. The knee (40.5%), lumbar spine (38.9%), and ankle (38.9%) were the most frequently reported regions among athletes with musculoskeletal problems. Conclusions: Current musculoskeletal problems were common among participating national team athletes and were frequently accompanied by perceived interference with maximal performance and a perceived need to reduce training volume. These findings describe the perceived functional consequences of musculoskeletal problems across multiple sports within a centralized training environment.",
-   "doi": "10.3390/medicina62112132",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43091529/",
-   "matched": [
-    {
-     "id": "burden-cost",
-     "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43094659",
-   "title": "Trustworthy AI for multimodal load-response modelling in team sports: a scoping review and full-text validation audit.",
-   "journal": "Front Sports Act Living",
-   "year": "2026",
-   "authors": [
-    "Salaj \u0160",
-    "Hrub\u00fd M",
-    "Cacek J"
-   ],
-   "abstract": "Artificial intelligence (AI), machine-learning and conventional statistical prediction methods are increasingly used in team-sport athlete monitoring, but it remains unclear whether current studies are validated and reported in ways that support trustworthy prospective use. This scoping review mapped predictive-modelling studies in team-sport athlete monitoring and multimodal load-response modelling and audited their validation and reporting practices. Searches were conducted in OpenAlex, PubMed, Scopus and SPORTDiscus for records published from 2010 to 2026. After deduplication, screening and updated OpenAlex rerun screening, 258 studies were included and audited from full text. Systematic duplicate screening was not performed; full-text eligibility assessment and original audit coding were completed by a single reviewer. Data were extracted on publication characteristics, sport context, data modalities, modelled outcomes, model families and validation practices. A 10-domain trustworthy-AI audit assessed prediction context, temporal validity, repeated-observation independence, external validation, leakage control, calibration, class-imbalance handling, interpretability, uncertainty reporting and deployment/actionability. Bibliometric and NLP analyses provided complementary field mapping. A second reviewer independently assessed 45 studies from the original 223-study audit subset across all ten audit domains. The literature expanded rapidly after 2021, with performance modelling and injury-risk prediction as the dominant applications. Studies frequently used GPS/GNSS, session-RPE/internal load, wellness/sleep, HR/HRV, neuromuscular testing, IMU/accelerometry and video-derived features. Random forests, logistic/linear models and gradient boosting were the most common model families. Deployment-relevant validation remained limited. After targeted reassessment and updated-search incorporation, temporal validity was strongly documented in 28 studies (10.9%), while independent external validation was strongly documented in one study (0.4%) and partially documented in one additional study (0.4%). Leakage control, calibration, repeated-observation independence and model-level uncertainty reporting were also uncommon. Pre-correction exact agreement in the independent audit subset was 65.3% overall and varied substantially across domains. Predictive modelling in team-sport athlete monitoring is expanding, but model development has advanced faster than trustworthy validation practice. Future studies should define the intended decision context, preserve temporal and player-level data structure, prevent leakage, report calibration and uncertainty, validate models under realistic deployment conditions and translate outputs into practitioner-facing decision support.",
-   "doi": "10.3389/fspor.2026.2001654",
-   "pubtypes": [
-    "Journal Article",
-    "Systematic Review"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43094659/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": true,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "43088024",
-   "title": "Wearable Accelerometer-Based Temporal Modeling of Fatigue Progression During 400 m Running.",
-   "journal": "Bioengineering (Basel)",
-   "year": "2026",
-   "authors": [
-    "Lim CC",
-    "Shahrol Aman MNS",
-    "Salim MS",
-    "Fook CY",
-    "et al."
-   ],
-   "abstract": "Athletes may be affected by fatigue due to repetitive and physiological motions when running, and detecting fatigue is crucial to preventing injury and improving performance. This study was conducted to develop a methodology for processing acceleration signals to classify progressive fatigue states during a staged 400-m running event. Acceleration sensors were placed on the right calf, left ankle, and lower spine of 50 competitive and regular male runners who completed running tasks primarily engaging the lower extremity muscles. This approach focused on analyzing kinematic data to assess fatigue during running. Borg's Rating of Perceived Exertion (RPE) was used to quantitatively label athletes' fatigue data (RPE \u2265 15 for fatigue; RPE \u2264 14 for non-fatigue), corroborated by concurrent heart rate and blood oxygen saturation (SpO2) telemetry. Acceleration signals were pre-processed using a fourth-order Butterworth filter. Notably, 22 features were extracted from the 2400 datasets every 25 m during the 400 m run. Under a strict subject-independent leave-subjects-out validation protocol, machine learning algorithms classified running mechanics into non-fatigue and fatigue states, with fine K-nearest neighbor, fine Gaussian support vector machine, and fine random forest achieving testing accuracies of 75.00% (F1-score: 73.45%), 88.75% (F1-score: 88.61%), and 77.50% (F1-score: 77.12%), respectively. The deep learning recurrent neural network achieved the highest testing accuracy of 91.25% (F1-score: 91.14%). While this post hoc computational methodology establishes a mathematical baseline for mapping progressive running exhaustion specifically under a staged 400 m protocol, the findings represent an initial proof of concept derived from a young male cohort using offline processing. Future prospective validation under matched-velocity conditions, across female athletes, diverse age groups, varied terrains, and embedded edge devices is required to transition this workflow into generalizable, real-time athletic screening systems.",
-   "doi": "10.3390/bioengineering13111299",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/43088024/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43101826/",
    "matched": [
     {
      "id": "wearable-prevention",
@@ -258,35 +148,6 @@
     {
      "id": "wearable-prevention",
      "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42934133",
-   "title": "[Design and analysis of a serial ankle rehabilitation robot].",
-   "journal": "Sheng Wu Yi Xue Gong Cheng Xue Za Zhi",
-   "year": "2026",
-   "authors": [
-    "Dai Y",
-    "Tao Q",
-    "Liu C",
-    "Li G",
-    "et al."
-   ],
-   "abstract": "To address the complex mechanism configurations, strong motion coupling, and control complexity associated with some existing ankle rehabilitation robots, a two-degree-of-freedom serial ankle rehabilitation robot with independent actuation is proposed. The robot is capable of providing single-degree-of-freedom training in plantarflexion/dorsiflexion and adduction/abduction, as well as compound motion training. A kinematic model of the spatial orthogonal 2R mechanism was established, and its kinematic performance was analyzed. Ankle posture coupling constraints were introduced to refine the workspace. A prototype of the rehabilitation robot was subsequently fabricated, and ankle angle-tracking experiments were conducted using a Vicon three-dimensional motion capture system. The results showed that the mechanism had no singular configurations within the physiological range of motion of the human ankle. The maximum condition number was 1.414. In the prototype experiments, the mean absolute error and root mean square error for plantarflexion/dorsiflexion were 1.443\u00b0 and 1.650\u00b0, respectively. For adduction/abduction, the corresponding values were 0.789\u00b0 and 1.005\u00b0. These results demonstrate the feasibility of the proposed robot configuration for ankle rehabilitation and its favorable performance in tracking human ankle joint angles during robot-assisted motion.",
-   "doi": "10.7507/1001-5515.202605024",
-   "pubtypes": [
-    "English Abstract",
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42934133/",
-   "matched": [
-    {
-     "id": "actuation-assistive",
-     "label": "Ankle actuation / assistive devices",
      "bucket": "fieldnotes"
     }
    ],
@@ -718,6 +579,35 @@
    "bucket": "research"
   },
   {
+   "pmid": "43092742",
+   "title": "Cane-Type Robots for Mobility Assistance-Design, Sensing, Control, and Fall Prevention: A Narrative Review.",
+   "journal": "Sensors (Basel)",
+   "year": "2026",
+   "authors": [
+    "Pereira JL",
+    "Armada M",
+    "Cerqueira R",
+    "Ribeiro NF",
+    "et al."
+   ],
+   "abstract": "Introduction: Cane-type robots are emerging as a promising class of assistive devices for individuals with reduced mobility because they combine portability with the potential to improve stability, support gait, and contribute to fall detection and fall prevention. This review examines how these systems have been designed and validated, with particular emphasis on the trade-offs that may determine their real-world usefulness. Methods: This narrative review draws on 49 articles identified through a structured literature search from a pool of 2439 records remaining after duplicate removal. The included studies were examined through a narrative synthesis of structural design, sensing and actuation components, motion-control strategies, fall detection methods, fall-prevention approaches, and experimental validation. Data were coded at article level (N = 49) for experimental validation and at prototype level (N = 26) for design and functional characteristics. Unreported characteristics were retained as not reported and were not interpreted as absent. Results: Mobile bases provide up to 3 degrees of freedom (DOF), with additional DOFs enabled by revolute joints (1 DOF) and universal joints (2 DOFs). However, canes with one or two wheels often lack the stability required to support body weight safely during walking or fall events, which limits their suitability for the target population. All systems rely on cane-mounted sensors, whereas some also incorporate wearable sensors that may improve functionality but can reduce usability and long-term acceptability. Explicit gait-phase classification was documented in only 2/26 prototypes (7.7%); walking-state recognition, movement-intention estimation, foot-contact sensing, and fall-event detection were not counted as gait-phase detection unless discrete phases of the gait cycle were classified. Across the reviewed literature, the most important limitations are the scarcity of clinical gait trials involving older adults or mobility-impaired users and the very limited availability of active fall-prevention strategies that do not rely on wearable sensors. Conclusions: Cane-type robots show clear potential as mobility-assistance technologies, but the field remains constrained by limited clinical validation and by design choices that often increase sensing burden without demonstrating translational readiness. Future research should prioritize clinically validated prototypes, robust gait-phase recognition, and fall-prevention strategies based exclusively on cane-integrated sensing to improve reliability, usability, and real-world adoption.",
+   "doi": "10.3390/s26227265",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43092742/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43053033",
    "title": "Clinical application effect of biological amniotic membrane in minimally invasive repair surgery for acute achilles tendon rupture: a retrospective study.",
    "journal": "J Orthop Surg Res",
@@ -1052,32 +942,6 @@
    "bucket": "research"
   },
   {
-   "pmid": "42937725",
-   "title": "Effects of sensorimotor training combined with short foot exercise on knee and ankle gait kinematics in individuals with flatfoot: A preliminary study.",
-   "journal": "Medicine (Baltimore)",
-   "year": "2026",
-   "authors": [
-    "Moon DC",
-    "Jung JH"
-   ],
-   "abstract": "Flatfoot, a common condition characterized by medial longitudinal arch collapse, alters foot and lower-limb mechanics. Sensorimotor training and short-foot exercises can improve postural stability and functional performance. However, their combined effects on gait kinematics remain unclear. This preliminary study evaluated the 6-week effects of combining these interventions on knee and ankle gait kinematics in individuals with flexible flatfeet. Thirty-two asymptomatic young adults with flexible flatfoot (14 males, 18 females; navicular drop\u2005\u2265\u200510\u2009mm) were randomly assigned to an experimental group (sensorimotor training combined with short-foot exercises; n\u2005=\u200516) or a control group (sensorimotor training only; n\u2005=\u200516) using sealed opaque envelopes. Training was conducted 3 times per week for 6 weeks in a motion laboratory. Gait kinematics were assessed pre- and post-intervention using the VICON motion system. Outcomes included peak ankle inversion, eversion, dorsiflexion, and plantarflexion angles, knee internal and external rotation angles, and range of motion (ROM) in the sagittal, frontal, and transverse planes. Two-way repeated-measures analysis of variance was used for the analysis. The partial eta squared (\u03b7p2) was reported as the effect size. Baseline demographics (age, sex, and body mass index) were similar between groups (P\u2005>\u2005.05). Significant group\u2005\u00d7\u2005time interactions were observed for gait variables. The experimental group showed a significant increase in peak ankle inversion (95% confidence interval (CI): 0.53-2.71; P = .004; \u03b7p2\u2005=\u20050.244) and a decrease in peak eversion (95% CI: 1.68-4.89; P = .002; \u03b7p2\u2005=\u20050.279). Peak knee internal rotation significantly decreased (95% CI: -9.92 to -2.82; P = .006; \u03b7p2\u2005=\u20050.228). Reductions were also observed in sagittal plane ankle ROM (95% CI: -4.88 to -0.68; P = .001; \u03b7p2\u2005=\u20050.317) and transverse plane knee ROM (95% CI: -7.75 to -4.01; P = .003; \u03b7p2\u2005=\u20050.254). No significant changes were found in ankle dorsiflexion, plantarflexion, knee external rotation, or frontal plane ankle ROM (P = .088, .126, .766, .136, respectively; \u03b7p2\u2005=\u20050.003-0.094). Combined sensorimotor and short-foot training more effectively improved gait kinematics than sensorimotor training alone, suggesting a promising non-surgical approach for managing flatfoot.",
-   "doi": "10.1097/MD.0000000000051194",
-   "pubtypes": [
-    "Journal Article",
-    "Randomized Controlled Trial"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42937725/",
-   "matched": [
-    {
-     "id": "inversion-kinematics",
-     "label": "Inversion injury kinematics & load paths",
-     "bucket": "research"
-    }
-   ],
-   "is_new": false,
-   "bucket": "research"
-  },
-  {
    "pmid": "43081117",
    "title": "Effects of Urinary Sex Hormones during the Menstrual Cycle on Anterior Cruciate Ligament Laxity in Female Adolescent Soccer Players.",
    "journal": "J Hum Kinet",
@@ -1276,6 +1140,33 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43092698",
+   "title": "From Signals to Decisions: Task-Oriented Wearable Sensing for Sports Performance and Athlete Health.",
+   "journal": "Sensors (Basel)",
+   "year": "2026",
+   "authors": [
+    "Lv K",
+    "Wu Y",
+    "Xue J"
+   ],
+   "abstract": "Accurate assessment of athletic performance and physiological status is essential for evidence-based training and injury prevention, yet conventional approaches remain constrained by laboratory settings, invasive sampling, and delayed analysis. Advances in flexible materials, device engineering, and information technologies have enabled wearable systems capable of continuous, non-invasive acquisition of mechanical, electrophysiological, and biochemical signals during exercise. This review examines wearable sensing in sports through a task-oriented framework encompassing kinematic monitoring, neuromuscular and musculoskeletal loading, and physiological and metabolic regulation. For each monitoring domain, the relevant indicators, sensing mechanisms, flexible integration strategies, and representative applications are critically discussed. Particular attention is given to mechanical, electrophysiological, and electrochemical sensors for technique assessment, contact and speed monitoring, fatigue and injury-risk evaluation, hydration and metabolic analysis, and cardiovascular monitoring. Despite rapid progress, practical deployment remains limited by insufficient field validation, motion and environmental interference, inter-individual variability, fragmented multimodal integration, and feedback that rarely supports direct intervention. Individualized calibration, longitudinal assessment of cumulative load and recovery, task-specific multimodal coupling, and feedback models informed by sports practice are identified as central research priorities. Evidence from prolonged, sport-specific studies will ultimately determine whether wearable systems can provide reliable, interpretable, and actionable information during routine training and competition.",
+   "doi": "10.3390/s26227221",
+   "pubtypes": [
+    "Journal Article",
+    "Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43092698/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "42976427",
    "title": "Global research on cricket injuries (1982-2025): A bibliometric analysis.",
    "journal": "Injury",
@@ -1369,6 +1260,34 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43091644",
+   "title": "Immediate Effect of Electroacupuncture on Foot Drop Gait Stereotype-Pilot Study.",
+   "journal": "Medicina (Kaunas)",
+   "year": "2026",
+   "authors": [
+    "Horn\u00ed\u010dek J",
+    "Kol\u00e1\u0159ov\u00e1 B",
+    "Jasensk\u00e1 M",
+    "Holobar A",
+    "et al."
+   ],
+   "abstract": "Background and Objectives: Peroneal nerve palsy frequently results in impaired dorsiflexion and foot drop gait, leading to reduced walking ability and increased risk of instability. Electroacupuncture has been proposed as a neuromodulatory intervention that may influence both peripheral nerve function and central motor control. However, its immediate effects on gait kinematics and muscle activation in patients with nerve injury remain insufficiently explored. Materials and Methods: This prospective single-group study included 16 patients with peroneal nerve paresis, classified into subacute (3 weeks to 3 months) and chronic (>3 months) stages. Each patient received a single electroacupuncture treatment. Gait analysis was performed using synchronized inertial measurement units (IMU) and surface electromyography (sEMG) before and immediately after electroacupuncture stimulation. Kinematic and electromyographic outcomes included timing and amplitude parameters of foot angular velocity and muscle activation. Results: Electroacupuncture induced significant changes in gait parameters, with the most consistent effect observed in the timing of the duration of swing phase for ankle angular velocity, indicating an immediate modulation of gait phase organization. This effect was present in both subacute and chronic stages. In contrast, electromyographic responses differed between groups: no significant changes in tibialis anterior activity were observed in the subacute group, whereas a significant reduction in muscle activity was found in the chronic group. Conclusions: Electroacupuncture demonstrated an immediate effect on gait timing, which may be consistent with modulation of motor control mechanisms independent of disease stage. Muscle-specific responses were stage-dependent, with reduced activation observed in chronic patients. These findings need to be further verified, both with a control group and through longer-term observation.",
+   "doi": "10.3390/medicina62112247",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43091644/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43067337",
    "title": "Immediate Effects of Kinesiotaping on Lower Limb Biomechanics and Interlimb Symmetry in Return-to-Sport Athletes After ACL Reconstruction.",
    "journal": "J Appl Biomech",
@@ -1427,7 +1346,7 @@
    "pmid": "42967377",
    "title": "Learned helplessness is associated with jump-landing biomechanics following anterior cruciate ligament reconstruction.",
    "journal": "Clin Biomech (Bristol)",
-   "year": "2026",
+   "year": "2027",
    "authors": [
     "Burland JP",
     "Lepley AS",
@@ -1966,6 +1885,32 @@
    "bucket": "fieldnotes"
   },
   {
+   "pmid": "43091529",
+   "title": "Prevalence and Functional Burden of Musculoskeletal Problems in Elite National Team Athletes: A Cross-Sectional Study.",
+   "journal": "Medicina (Kaunas)",
+   "year": "2026",
+   "authors": [
+    "Park YB",
+    "Kim JW",
+    "Ha CW"
+   ],
+   "abstract": "Background and Objectives: Musculoskeletal problems can impair athletic performance and training even when elite athletes remain active in sport. This study investigated the prevalence, anatomical distribution, and functional burden of current musculoskeletal problems among elite national team athletes. Materials and Methods: In this cross-sectional survey, 257 athletes from 12 sporting disciplines training at the Taereung National Training Center, Republic of Korea, completed a self-administered questionnaire between October 2013 and February 2014. Current musculoskeletal problems were reported by 126 of 256 athletes (49.2%; 95% confidence interval [CI], 43.2-55.3%). Among 125 athletes with available injury-attribution responses, 98 attributed their musculoskeletal problems to injury (78.4%; 95% CI, 70.4-84.7%). Among athletes with musculoskeletal problems, 81.5% (95% CI, 73.7-87.3%) reported at least some interference with maximal performance (scores 2-4), including 30.6% (95% CI, 23.2-39.2%) with substantial-to-severe interference (scores 3-4). A perceived need to reduce training volume was reported by 70.6% (95% CI, 62.2-77.9%), including 23.8% (95% CI, 17.2-32.0%) with a substantial-to-severe need for reduction. The knee (40.5%), lumbar spine (38.9%), and ankle (38.9%) were the most frequently reported regions among athletes with musculoskeletal problems. Conclusions: Current musculoskeletal problems were common among participating national team athletes and were frequently accompanied by perceived interference with maximal performance and a perceived need to reduce training volume. These findings describe the perceived functional consequences of musculoskeletal problems across multiple sports within a centralized training environment.",
+   "doi": "10.3390/medicina62112132",
+   "pubtypes": [
+    "Journal Article"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43091529/",
+   "matched": [
+    {
+     "id": "burden-cost",
+     "label": "Injury burden, cost & time loss",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
    "pmid": "43036546",
    "title": "Prior Lower Extremity Injury as a Risk Factor for Achilles Tendon Rupture in Professional Soccer Players.",
    "journal": "Orthop J Sports Med",
@@ -1992,34 +1937,6 @@
     {
      "id": "burden-cost",
      "label": "Injury burden, cost & time loss",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
-   "pmid": "42944460",
-   "title": "Proof-of-Concept Evaluation of a Sock-Based Plantar Strain Sensing System for Diabetic Foot Monitoring.",
-   "journal": "Sensors (Basel)",
-   "year": "2026",
-   "authors": [
-    "Turnbull RP",
-    "Mason R",
-    "Sairally F",
-    "Corser J",
-    "et al."
-   ],
-   "abstract": "Diabetic Foot Ulcers (DFUs) pose a serious health risk to people with diabetes, with a high risk of recurrence following the first DFU and a risk of foot amputation or death. It greatly impacts patient quality of life and costs the NHS up to 0.7% of its annual budget. Over the last 20 years, work has highlighted the link between DFU formation and normal forces. More recently, work has highlighted the importance of strain/shear forces, which are inherently coupled with normal forces. While limited lab-based in-shoe systems have been produced to detect shear, they alter the shoe-foot interface and are not commercially available. Additionally, consultation with people with diabetes highlighted that they may not wear shoes around the house, leaving long periods where in-shoe solutions cannot track forces. We, therefore, present the development of a novel plantar shear measuring system, the Shear Tracking for Enhanced Prevention Sock (STEPS), an instrumented garment to provide an accessible tool for people at risk of DFUs. Integrating sensors within the sock provides a solution that seamlessly integrates within the foot-shoe environment, is suitable for shoeless use, and helps mitigate adherence issues. A prototype STEPS was produced, successfully integrating printed resistive strain sensors (proxy for shear) within custom-designed socks with flexible connectivity to a welt-mounted data acquisition unit. Proof-of-concept testing characterised the system's ability to measure plantar strain. A single-participant pilot study demonstrated that STEPS captures repeatable, gait-synchronised strain signals during walking, with a stationary noise floor below 10% of the typical per-cycle resistance response and between-repeat correlations of R = 0.41 and 0.78 for Sensor 1 and 2 respectively, supporting its potential to detect strain (as proxy for shear) during daily activity.",
-   "doi": "10.3390/s26206596",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42944460/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
      "bucket": "fieldnotes"
     }
    ],
@@ -2307,34 +2224,6 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42934775",
-   "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health.",
-   "journal": "Knee Surg Relat Res",
-   "year": "2026",
-   "authors": [
-    "Kandakurti PK",
-    "Koura GM",
-    "Reddy RS",
-    "Kardm S",
-    "et al."
-   ],
-   "abstract": "Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery. To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12\u00a0months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering. This cross-sectional study included 120 adults who were 3-12\u00a0months post-primary ACL reconstruction and had at least 14\u00a0days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics. Higher daily step counts were independently associated with better KOOS-ADL scores (\u03b2 = 0.48, p < 0.001), higher ACL-QoL scores (\u03b2 = 0.45, p < 0.001), and lower pain intensity (\u03b2 = -\u20090.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001). Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted.",
-   "doi": "10.1186/s43019-026-00353-1",
-   "pubtypes": [
-    "Journal Article"
-   ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
-   "matched": [
-    {
-     "id": "wearable-prevention",
-     "label": "Wearables & sensors for injury prevention",
-     "bucket": "fieldnotes"
-    }
-   ],
-   "is_new": false,
-   "bucket": "fieldnotes"
-  },
-  {
    "pmid": "43019219",
    "title": "Superior canal dehiscence syndrome alters kinematics of head and postural control during standing.",
    "journal": "Sci Rep",
@@ -2503,23 +2392,50 @@
    "bucket": "fieldnotes"
   },
   {
-   "pmid": "42944448",
-   "title": "Tracking Recovery After TKA with Instrumented Timed Up and Go: Spatiotemporal, Rotational, and Strength Adaptations over Six Months.",
-   "journal": "Sensors (Basel)",
+   "pmid": "43094659",
+   "title": "Trustworthy AI for multimodal load-response modelling in team sports: a scoping review and full-text validation audit.",
+   "journal": "Front Sports Act Living",
    "year": "2026",
    "authors": [
-    "Gianzina E",
-    "Yiannakopoulos CK",
-    "Bourantanis A",
-    "Armenis E",
+    "Salaj \u0160",
+    "Hrub\u00fd M",
+    "Cacek J"
+   ],
+   "abstract": "Artificial intelligence (AI), machine-learning and conventional statistical prediction methods are increasingly used in team-sport athlete monitoring, but it remains unclear whether current studies are validated and reported in ways that support trustworthy prospective use. This scoping review mapped predictive-modelling studies in team-sport athlete monitoring and multimodal load-response modelling and audited their validation and reporting practices. Searches were conducted in OpenAlex, PubMed, Scopus and SPORTDiscus for records published from 2010 to 2026. After deduplication, screening and updated OpenAlex rerun screening, 258 studies were included and audited from full text. Systematic duplicate screening was not performed; full-text eligibility assessment and original audit coding were completed by a single reviewer. Data were extracted on publication characteristics, sport context, data modalities, modelled outcomes, model families and validation practices. A 10-domain trustworthy-AI audit assessed prediction context, temporal validity, repeated-observation independence, external validation, leakage control, calibration, class-imbalance handling, interpretability, uncertainty reporting and deployment/actionability. Bibliometric and NLP analyses provided complementary field mapping. A second reviewer independently assessed 45 studies from the original 223-study audit subset across all ten audit domains. The literature expanded rapidly after 2021, with performance modelling and injury-risk prediction as the dominant applications. Studies frequently used GPS/GNSS, session-RPE/internal load, wellness/sleep, HR/HRV, neuromuscular testing, IMU/accelerometry and video-derived features. Random forests, logistic/linear models and gradient boosting were the most common model families. Deployment-relevant validation remained limited. After targeted reassessment and updated-search incorporation, temporal validity was strongly documented in 28 studies (10.9%), while independent external validation was strongly documented in one study (0.4%) and partially documented in one additional study (0.4%). Leakage control, calibration, repeated-observation independence and model-level uncertainty reporting were also uncommon. Pre-correction exact agreement in the independent audit subset was 65.3% overall and varied substantially across domains. Predictive modelling in team-sport athlete monitoring is expanding, but model development has advanced faster than trustworthy validation practice. Future studies should define the intended decision context, preserve temporal and player-level data structure, prevent leakage, report calibration and uncertainty, validate models under realistic deployment conditions and translate outputs into practitioner-facing decision support.",
+   "doi": "10.3389/fspor.2026.2001654",
+   "pubtypes": [
+    "Journal Article",
+    "Systematic Review"
+   ],
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43094659/",
+   "matched": [
+    {
+     "id": "wearable-prevention",
+     "label": "Wearables & sensors for injury prevention",
+     "bucket": "fieldnotes"
+    }
+   ],
+   "is_new": false,
+   "bucket": "fieldnotes"
+  },
+  {
+   "pmid": "43088024",
+   "title": "Wearable Accelerometer-Based Temporal Modeling of Fatigue Progression During 400 m Running.",
+   "journal": "Bioengineering (Basel)",
+   "year": "2026",
+   "authors": [
+    "Lim CC",
+    "Shahrol Aman MNS",
+    "Salim MS",
+    "Fook CY",
     "et al."
    ],
-   "abstract": "Knee osteoarthritis (KOA) is a leading cause of disability, and total knee arthroplasty (TKA) improves pain and functional mobility, although gait impairments may persist postoperatively. This study investigated longitudinal changes in patient-reported outcomes, muscle strength, and gait performance using an instrumented Timed Up and Go (iTUG) test with wearable inertial measurement units (IMUs). Twenty-two patients with end-stage KOA were assessed preoperatively and at 3, 12, and 24 weeks postoperatively. The Knee Injury and Osteoarthritis Outcome Score five-subscale composite (KOOS5) showed a significant overall change over time (p < 0.001), while isometric muscle strength showed significant overall changes across all tested muscle groups (p \u2264 0.008), with mean values demonstrating an initial postoperative decline followed by subsequent increases. Total TUG duration showed a significant overall time effect (p = 0.023), with significant reductions observed in the forward and return gait phases (p = 0.012 and p = 0.001, respectively). End-turning maximum rotational speed and sit-to-stand vertical acceleration showed significant overall time effects (p = 0.012 and p = 0.024, respectively), whereas the remaining parameters did not reach statistical significance. These findings indicate that recovery following TKA is multidimensional, with significant changes in patient-reported outcomes, muscle strength, and functional mobility. iTUG analysis identified phase-specific changes, while several turning and transitional parameters did not show significant longitudinal changes, supporting the use of targeted rehabilitation strategies focusing on dynamic stability and movement control.",
-   "doi": "10.3390/s26206585",
+   "abstract": "Athletes may be affected by fatigue due to repetitive and physiological motions when running, and detecting fatigue is crucial to preventing injury and improving performance. This study was conducted to develop a methodology for processing acceleration signals to classify progressive fatigue states during a staged 400-m running event. Acceleration sensors were placed on the right calf, left ankle, and lower spine of 50 competitive and regular male runners who completed running tasks primarily engaging the lower extremity muscles. This approach focused on analyzing kinematic data to assess fatigue during running. Borg's Rating of Perceived Exertion (RPE) was used to quantitatively label athletes' fatigue data (RPE \u2265 15 for fatigue; RPE \u2264 14 for non-fatigue), corroborated by concurrent heart rate and blood oxygen saturation (SpO2) telemetry. Acceleration signals were pre-processed using a fourth-order Butterworth filter. Notably, 22 features were extracted from the 2400 datasets every 25 m during the 400 m run. Under a strict subject-independent leave-subjects-out validation protocol, machine learning algorithms classified running mechanics into non-fatigue and fatigue states, with fine K-nearest neighbor, fine Gaussian support vector machine, and fine random forest achieving testing accuracies of 75.00% (F1-score: 73.45%), 88.75% (F1-score: 88.61%), and 77.50% (F1-score: 77.12%), respectively. The deep learning recurrent neural network achieved the highest testing accuracy of 91.25% (F1-score: 91.14%). While this post hoc computational methodology establishes a mathematical baseline for mapping progressive running exhaustion specifically under a staged 400 m protocol, the findings represent an initial proof of concept derived from a young male cohort using offline processing. Future prospective validation under matched-velocity conditions, across female athletes, diverse age groups, varied terrains, and embedded edge devices is required to transition this workflow into generalizable, real-time athletic screening systems.",
+   "doi": "10.3390/bioengineering13111299",
    "pubtypes": [
     "Journal Article"
    ],
-   "url": "https://pubmed.ncbi.nlm.nih.gov/42944448/",
+   "url": "https://pubmed.ncbi.nlm.nih.gov/43088024/",
    "matched": [
     {
      "id": "wearable-prevention",

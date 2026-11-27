@@ -1,5 +1,52 @@
 [
  {
+  "pmid": "43102359",
+  "title": "Efficacy of Physical Activity Interventions in Athletic Rehabilitation for Musculoskeletal Injuries: A Systematic Review.",
+  "journal": "J Vis Exp",
+  "year": "2026",
+  "authors": [
+   "Haoge S",
+   "Shaber A"
+  ],
+  "abstract": "Sports injuries involving the musculoskeletal system are highly prevalent and can prolong recovery and increase the likelihood of reinjury. This systematic review evaluated the effectiveness of physical activity-based rehabilitation for athletes with musculoskeletal injuries, synthesizing data from 50 studies published between August 2010 and December 2025 across seven databases, including randomized controlled trials, prospective cohort studies, systematic reviews, and clinical practice guidelines. They covered a range of athletes, from recreational to elite, and various injuries, including anterior cruciate ligament (ACL) reconstruction, ankle sprains, hamstring strains, groin injuries, tendinopathy, shoulder impingement, and patellofemoral pain. Strength training, neuromuscular training, balance training, aerobic training, aquatic training, and sport-specific training were among the interventions; pain, function, strength, neuromuscular control, and return to sport were among the outcome measures. Consistent relationships between interventions and improvements in functional and return-to-sport outcomes were found with consistent, progressive interventions; some individual studies found a 41-63% relative reduction in the risk of injury or reinjury. There was substantial variation between protocols and outcomes, so findings were synthesized narratively rather than pooled. Results demonstrate the need for evidence-based programming, an individualized approach, and standardized reporting in future trials.",
+  "doi": "10.3791/70776",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43102359/",
+  "matched": [
+   {
+    "id": "return-to-play",
+    "label": "Return-to-play & reinjury risk",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-27T22:18:29Z"
+ },
+ {
+  "pmid": "43101826",
+  "title": "Pulsed electromagnetic fields therapy is associated with reduced perioperative pain after ACL reconstruction in patients with concomitant bone bruise: A randomised controlled trial.",
+  "journal": "J Exp Orthop",
+  "year": "2026",
+  "authors": [
+   "Rinaldi VG",
+   "Sassoli I",
+   "Fogacci A",
+   "Miceli M",
+   "et al."
+  ],
+  "abstract": "Bone bruise (BB) is common after acute anterior cruciate ligament (ACL) injury, but its relationship with pain and recovery is variable. This randomised controlled trial evaluated whether perioperative pulsed electromagnetic field (PEMF) stimulation improves pain control and recovery after ACL reconstruction (ACL-R) in patients with magnetic resonance imaging (MRI)-confirmed BB. We hypothesised that PEMF stimulation would reduce pain, improve patient-reported outcomes and promote BB volume reduction. Ninety-two patients were enrolled: 66 completed follow-up and were analysed (31 PEMF, 35 control). The PEMF group was prescribed a wearable device for 4\u2009h/day from 20 days before surgery through 60 days postoperatively. Outcomes included visual analogue scale (VAS) pain, International Knee Documentation Committee, knee injury and osteoarthritis outcome score, SF-12 Health Survey (SF-12), Tegner activity score, analgesic/nonsteroidal anti-inflammatory drug use, and MRI-estimated BB volume. Clinical follow-up was performed at diagnosis, immediately before surgery, and at 2, 6 and 12 months; MRI was obtained preoperatively and at 2, 6 and 12 months. VAS pain was lower in the PEMF group preoperatively (1.7\u2009\u00b1\u20091.9 vs. 2.7\u2009\u00b1\u20092.4; p\u2009=\u20090.033), at 6 months (0.5\u2009\u00b1\u20090.8 vs. 0.9\u2009\u00b1\u20091.2; p\u2009=\u20090.033) and at 12 months (0.1\u2009\u00b1\u20090.2 vs. 0.5\u2009\u00b1\u20090.7; p\u2009=\u20090.002). The reported KOOS score was higher in the PEMF group at 6 months (83.0\u2009\u00b1\u200910.0 vs. 78.0\u2009\u00b1\u200914.0; p\u2009=\u20090.048) and 12 months (90.0\u2009\u00b1\u20097.0 vs. 85.0\u2009\u00b1\u200910.0; p\u2009=\u20090.009), and SF-12 physical component summary was higher at 6 months. PEMF therapy, used as an adjunct to standard perioperative care, was associated with lower pain scores and better selected patient-reported outcomes after ACL-R in patients with concomitant BB. The clinical findings support PEMF therapy as a promising noninvasive strategy to improve early recovery after ACL-R. Level I.",
+  "doi": "10.1002/jeo2.70961",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43101826/",
+  "matched": [
+   {
+    "id": "wearable-prevention",
+    "label": "Wearables & sensors for injury prevention",
+    "bucket": "fieldnotes"
+   }
+  ],
+  "bucket": "fieldnotes",
+  "first_seen": "2026-11-27T22:18:29Z"
+ },
+ {
   "pmid": "43092742",
   "title": "Cane-Type Robots for Mobility Assistance-Design, Sensing, Control, and Fall Prevention: A Narrative Review.",
   "journal": "Sensors (Basel)",
